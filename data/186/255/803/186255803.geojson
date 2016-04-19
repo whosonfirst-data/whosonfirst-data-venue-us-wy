@@ -1,0 +1,60 @@
+{
+  "id": 186255803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.843259,43.512355,-110.843259,43.512355",
+    "geom:latitude":43.512355,
+    "geom:longitude":-110.843259,
+    "iso:country":"US",
+    "sg:address":"2150 Moose Wilson Rd",
+    "sg:city":"Wilson",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 3729",
+    "sg:postcode":"83002",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101734323,
+        102080739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Mn9AaokR81oPrq2uxPH8D_43.512355_-110.843259@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"558461ef392fc2f3c0151b3bca6abff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080739,
+            "locality_id":101734323,
+            "neighbourhood_id":-1,
+            "region_id":85688475,
+            "venue_id":186255803
+        }
+    ],
+    "wof:id":186255803,
+    "wof:lastmodified":1449051592,
+    "wof:name":"The Journeys School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-110.843259,43.512355,-110.843259,43.512355],
+  "geometry": {"coordinates":[-110.843259,43.512355],"type":"Point"}
+}

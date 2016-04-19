@@ -1,0 +1,67 @@
+{
+  "id": 169660713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-109.24604,41.597159,-109.24604,41.597159",
+    "geom:latitude":41.597159,
+    "geom:longitude":-109.24604,
+    "iso:country":"US",
+    "sg:address":"901 Eisenhower Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 4503",
+    "sg:postcode":"82901",
+    "sg:province":"CO",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101734005,
+        102081155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xyf33BeFstSxM1qSZFvdy_41.597159_-109.246040@1294083659"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0692d0dee97199c1920b23e00c08220",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":-1,
+            "region_id":85688475,
+            "venue_id":169660713
+        }
+    ],
+    "wof:id":169660713,
+    "wof:lastmodified":1449035613,
+    "wof:name":"Rnd Consulting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [-109.24604,41.597159,-109.24604,41.597159],
+  "geometry": {"coordinates":[-109.24604,41.597159],"type":"Point"}
+}

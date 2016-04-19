@@ -1,0 +1,66 @@
+{
+  "id": 320522767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593117,41.315613,-105.593117,41.315613",
+    "geom:latitude":41.315613,
+    "geom:longitude":-105.593117,
+    "iso:country":"US",
+    "sg:address":"352 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7537",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OHdIY1LSL065fcBqQwv2W_41.315613_-105.593117@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1be7b0ba30ccfd4209ca6ae54255546e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":320522767
+        }
+    ],
+    "wof:id":320522767,
+    "wof:lastmodified":1449013033,
+    "wof:name":"Loaf 'N Jug 00121",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-105.593117,41.315613,-105.593117,41.315613],
+  "geometry": {"coordinates":[-105.593117,41.315613],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169615597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-109.21905,41.585678,-109.21905,41.585678",
+    "geom:latitude":41.585678,
+    "geom:longitude":-109.21905,
+    "iso:country":"US",
+    "sg:address":"212 D St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 352 1540",
+    "sg:postcode":"82901",
+    "sg:province":"CO",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101734005,
+        102081155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fsOD2G4hS9451eXl6eRmv_41.585678_-109.219050@1294083659"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0b7631b8bb07af464ae0e2c943e11c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":-1,
+            "region_id":85688475,
+            "venue_id":169615597
+        }
+    ],
+    "wof:id":169615597,
+    "wof:lastmodified":1449033734,
+    "wof:name":"Rock Springs Public Svc Dir",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [-109.21905,41.585678,-109.21905,41.585678],
+  "geometry": {"coordinates":[-109.21905,41.585678],"type":"Point"}
+}

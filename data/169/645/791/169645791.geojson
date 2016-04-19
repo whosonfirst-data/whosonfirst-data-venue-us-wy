@@ -1,0 +1,65 @@
+{
+  "id": 169645791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-109.21871,41.583719,-109.21871,41.583719",
+    "geom:latitude":41.583719,
+    "geom:longitude":-109.21871,
+    "iso:country":"US",
+    "sg:address":"400 C St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 352 6667",
+    "sg:postcode":"82901",
+    "sg:province":"CO",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101734005,
+        102081155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MUEXyHPCGp8esuAZsDfL5_41.583719_-109.218710@1294083659"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5244e97705e02faa0328334ed5095f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":-1,
+            "region_id":85688475,
+            "venue_id":169645791
+        }
+    ],
+    "wof:id":169645791,
+    "wof:lastmodified":1449033004,
+    "wof:name":"Rock Springs Branch Library",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [-109.21871,41.583719,-109.21871,41.583719],
+  "geometry": {"coordinates":[-109.21871,41.583719],"type":"Point"}
+}

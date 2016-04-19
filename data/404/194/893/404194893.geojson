@@ -1,0 +1,66 @@
+{
+  "id": 404194893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.993922,41.260406,-110.993922,41.260406",
+    "geom:latitude":41.260406,
+    "geom:longitude":-110.993922,
+    "iso:country":"US",
+    "sg:address":"50 Allegiance Cir",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 3710",
+    "sg:postcode":"82930",
+    "sg:province":"UT",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "sg:website":"www.mrsi.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101734051,
+        102081163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Vb4aUs2Y0lKRzZ8X5fjlt_41.260406_-110.993922@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7cf06168627f0e76324736a5e3c04a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081163,
+            "locality_id":101734051,
+            "neighbourhood_id":-1,
+            "region_id":85688475,
+            "venue_id":404194893
+        }
+    ],
+    "wof:id":404194893,
+    "wof:lastmodified":1449040141,
+    "wof:name":"Mountain Regional Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [-110.993922,41.260406,-110.993922,41.260406],
+  "geometry": {"coordinates":[-110.993922,41.260406],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 169610313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-109.310302,41.554917,-109.310302,41.554917",
+    "geom:latitude":41.554917,
+    "geom:longitude":-109.310302,
+    "iso:country":"US",
+    "sg:address":"8 Purple Sage Rd",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 9018",
+    "sg:postcode":"82901",
+    "sg:province":"CO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101734211,
+        102081155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dfhgpOryZ0S51dEDYMqgt_41.554917_-109.310302@1294083659"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"df77cbacd97eca9b2933f7b5f5b13b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734211,
+            "neighbourhood_id":-1,
+            "region_id":85688475,
+            "venue_id":169610313
+        }
+    ],
+    "wof:id":169610313,
+    "wof:lastmodified":1449035908,
+    "wof:name":"Crueljack's Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-109.310302,41.554917,-109.310302,41.554917],
+  "geometry": {"coordinates":[-109.310302,41.554917],"type":"Point"}
+}

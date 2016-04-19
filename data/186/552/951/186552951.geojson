@@ -1,0 +1,65 @@
+{
+  "id": 186552951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.749275,43.479612,-110.749275,43.479612",
+    "geom:latitude":43.479612,
+    "geom:longitude":-110.749275,
+    "iso:country":"US",
+    "sg:address":"640 E Broadway",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 732 1161",
+    "sg:postcode":"83002",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101734091,
+        102080739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jaWSjYY199iFz1T5KKDaJ_43.479612_-110.749275@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a8ab65fa50b46e15a65986aaadc4d1e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080739,
+            "locality_id":101734091,
+            "neighbourhood_id":-1,
+            "region_id":85688475,
+            "venue_id":186552951
+        }
+    ],
+    "wof:id":186552951,
+    "wof:lastmodified":1449051497,
+    "wof:name":"Mountain House Adult Thrptc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [-110.749275,43.479612,-110.749275,43.479612],
+  "geometry": {"coordinates":[-110.749275,43.479612],"type":"Point"}
+}

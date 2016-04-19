@@ -1,0 +1,88 @@
+{
+  "id": 320522853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-104.828323,41.200336,-104.828323,41.200336",
+    "geom:latitude":41.200336,
+    "geom:longitude":-104.828323,
+    "iso:country":"US",
+    "sg:address":"8908 Yellowstone Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 0147",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lawn",
+        "designer",
+        "consultant",
+        "contractor",
+        "maintenance",
+        "bamboo",
+        "landscape"
+    ],
+    "sg:website":"http://www.riverbendnurseryandstone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101734343,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m73CbGlH2yKyPSXqtOw9W_41.200336_-104.828323@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d211906b11bf8b598f1332467ce3f0a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734343,
+            "neighbourhood_id":-1,
+            "region_id":85688475,
+            "venue_id":320522853
+        }
+    ],
+    "wof:id":320522853,
+    "wof:lastmodified":1449013033,
+    "wof:name":"River Bend Nursery Landscaping",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "designer",
+        "consultant",
+        "contractor",
+        "maintenance",
+        "bamboo",
+        "landscape"
+    ]
+},
+  "bbox": [-104.828323,41.200336,-104.828323,41.200336],
+  "geometry": {"coordinates":[-104.828323,41.200336],"type":"Point"}
+}

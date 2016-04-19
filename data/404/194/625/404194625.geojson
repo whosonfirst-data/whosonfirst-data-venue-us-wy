@@ -1,0 +1,67 @@
+{
+  "id": 404194625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.965894,41.267619,-110.965894,41.267619",
+    "geom:latitude":41.267619,
+    "geom:longitude":-110.965894,
+    "iso:country":"US",
+    "sg:address":"915 Main St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 6317",
+    "sg:postcode":"82930",
+    "sg:province":"UT",
+    "sg:tags":[
+        "personnel",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101734051,
+        102081163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BOU7FC2l5Pwq1oL7lr0TV_41.267619_-110.965894@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a7cc5f2dd614c6945fe08ad6b7859ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081163,
+            "locality_id":101734051,
+            "neighbourhood_id":-1,
+            "region_id":85688475,
+            "venue_id":404194625
+        }
+    ],
+    "wof:id":404194625,
+    "wof:lastmodified":1449040146,
+    "wof:name":"SOS Staffing Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personnel",
+        "consultant"
+    ]
+},
+  "bbox": [-110.965894,41.267619,-110.965894,41.267619],
+  "geometry": {"coordinates":[-110.965894,41.267619],"type":"Point"}
+}

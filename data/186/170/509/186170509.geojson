@@ -1,0 +1,61 @@
+{
+  "id": 186170509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.76993,43.478314,-110.76993,43.478314",
+    "geom:latitude":43.478314,
+    "geom:longitude":-110.76993,
+    "iso:country":"US",
+    "sg:address":"120 Flat Creek Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 3121",
+    "sg:postcode":"83002",
+    "sg:province":"ID",
+    "sg:website":"www.cowboyvillage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101734091,
+        102080739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fCaQNSUUr34y1iSCIoYwa_43.478314_-110.769930@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28214da32a877b5ba63b843272e506ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080739,
+            "locality_id":101734091,
+            "neighbourhood_id":-1,
+            "region_id":85688475,
+            "venue_id":186170509
+        }
+    ],
+    "wof:id":186170509,
+    "wof:lastmodified":1449050487,
+    "wof:name":"Cowboy Village Resort",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-110.76993,43.478314,-110.76993,43.478314],
+  "geometry": {"coordinates":[-110.76993,43.478314],"type":"Point"}
+}

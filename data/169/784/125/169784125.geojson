@@ -1,0 +1,67 @@
+{
+  "id": 169784125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.779145,43.416701,-110.779145,43.416701",
+    "geom:latitude":43.416701,
+    "geom:longitude":-110.779145,
+    "iso:country":"US",
+    "sg:address":"793 Wind River Ln",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 7265",
+    "sg:postcode":"83002",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101734327,
+        102080739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0crTq4K6oKsziYmkKAHT7m_43.416701_-110.779145@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cb2a50c90300574f60703605d8d721be",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080739,
+            "locality_id":101734327,
+            "neighbourhood_id":-1,
+            "region_id":85688475,
+            "venue_id":169784125
+        }
+    ],
+    "wof:id":169784125,
+    "wof:lastmodified":1449034895,
+    "wof:name":"Mountain Finish Carpentry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-110.779145,43.416701,-110.779145,43.416701],
+  "geometry": {"coordinates":[-110.779145,43.416701],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169671775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-109.22156,41.591342,-109.22156,41.591342",
+    "geom:latitude":41.591342,
+    "geom:longitude":-109.22156,
+    "iso:country":"US",
+    "sg:address":"513 Bridger Ave",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 0990",
+    "sg:postcode":"82901",
+    "sg:province":"CO",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101734005,
+        102081155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CxG7hXEXJPRzZ0SWYYcIw_41.591342_-109.221560@1294083659"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c75be34c1da7beb926da8fc25fa1b8ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":-1,
+            "region_id":85688475,
+            "venue_id":169671775
+        }
+    ],
+    "wof:id":169671775,
+    "wof:lastmodified":1449033454,
+    "wof:name":"Local Color Art & Gift Gallery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [-109.22156,41.591342,-109.22156,41.591342],
+  "geometry": {"coordinates":[-109.22156,41.591342],"type":"Point"}
+}

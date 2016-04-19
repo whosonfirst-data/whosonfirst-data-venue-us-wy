@@ -1,0 +1,66 @@
+{
+  "id": 169633391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-109.220787,41.585978,-109.220787,41.585978",
+    "geom:latitude":41.585978,
+    "geom:longitude":-109.220787,
+    "iso:country":"US",
+    "sg:address":"137 C St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 2897",
+    "sg:postcode":"82901",
+    "sg:province":"CO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1p2hquJbQ45ke4n4pFCbY0_41.585978_-109.220787@1294083659"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"793b786ace25131c7751f6b2636b4172",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":169633391
+        }
+    ],
+    "wof:id":169633391,
+    "wof:lastmodified":1449035938,
+    "wof:name":"Creative Quilting",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [-109.220787,41.585978,-109.220787,41.585978],
+  "geometry": {"coordinates":[-109.220787,41.585978],"type":"Point"}
+}

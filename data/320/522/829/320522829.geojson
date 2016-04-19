@@ -1,0 +1,65 @@
+{
+  "id": 320522829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-106.327402,42.850094,-106.327402,42.850094",
+    "geom:latitude":42.850094,
+    "geom:longitude":-106.327402,
+    "iso:country":"US",
+    "sg:address":"240 W 1st St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 4552",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        102080753,
+        85834153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E9oms6bphY66BoapW2mPz_42.850094_-106.327402@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4f14c6ca78a7f12470ae172655f3be7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080753,
+            "locality_id":-1,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":320522829
+        }
+    ],
+    "wof:id":320522829,
+    "wof:lastmodified":1449013038,
+    "wof:name":"Caspers Fountain or Youth Day Spa",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-106.327402,42.850094,-106.327402,42.850094],
+  "geometry": {"coordinates":[-106.327402,42.850094],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 169604277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-109.267272,41.63542,-109.267272,41.63542",
+    "geom:latitude":41.63542,
+    "geom:longitude":-109.267272,
+    "iso:country":"US",
+    "sg:address":"297 Granite Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 3882",
+    "sg:postcode":"82901",
+    "sg:province":"CO",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101734207,
+        102081155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Zb8WMYn6dx7nCBXyEUOh9_41.635420_-109.267272@1294083659"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4934a2fb95b33af24f57c39c25da14d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734207,
+            "neighbourhood_id":-1,
+            "region_id":85688475,
+            "venue_id":169604277
+        }
+    ],
+    "wof:id":169604277,
+    "wof:lastmodified":1449035568,
+    "wof:name":"Insulation Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [-109.267272,41.63542,-109.267272,41.63542],
+  "geometry": {"coordinates":[-109.267272,41.63542],"type":"Point"}
+}

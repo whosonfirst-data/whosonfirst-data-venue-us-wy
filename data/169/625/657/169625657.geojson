@@ -1,0 +1,77 @@
+{
+  "id": 169625657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-109.232302,41.578765,-109.232302,41.578765",
+    "geom:latitude":41.578765,
+    "geom:longitude":-109.232302,
+    "iso:country":"US",
+    "sg:address":"1250 Dewar Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 4902",
+    "sg:postcode":"82901",
+    "sg:province":"CO",
+    "sg:tags":[
+        "lounge",
+        "drinking",
+        "eating",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3heohmaPb2cLmrgLYfnAPM_41.578765_-109.232302@1294083659"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8e80022856acedd26da5c98e3740346",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":169625657
+        }
+    ],
+    "wof:id":169625657,
+    "wof:lastmodified":1449036022,
+    "wof:name":"Porky's Bar",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "drinking",
+        "eating",
+        "cocktail"
+    ]
+},
+  "bbox": [-109.232302,41.578765,-109.232302,41.578765],
+  "geometry": {"coordinates":[-109.232302,41.578765],"type":"Point"}
+}

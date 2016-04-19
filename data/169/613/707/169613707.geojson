@@ -1,0 +1,60 @@
+{
+  "id": 169613707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-109.225206,41.59291,-109.225206,41.59291",
+    "geom:latitude":41.59291,
+    "geom:longitude":-109.225206,
+    "iso:country":"US",
+    "sg:address":"610 Elk St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 5335",
+    "sg:postcode":"82901",
+    "sg:province":"CO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101734005,
+        102081155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wAwFpZPPL0CSyHuZNEOET_41.592910_-109.225206@1294083659"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0687056eb3aca1875d132a361cbf8c12",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":-1,
+            "region_id":85688475,
+            "venue_id":169613707
+        }
+    ],
+    "wof:id":169613707,
+    "wof:lastmodified":1449034212,
+    "wof:name":"J C Jacobs Carpet One",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-109.225206,41.59291,-109.225206,41.59291],
+  "geometry": {"coordinates":[-109.225206,41.59291],"type":"Point"}
+}

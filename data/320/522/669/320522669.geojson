@@ -1,0 +1,61 @@
+{
+  "id": 320522669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-104.855469,41.116589,-104.855469,41.116589",
+    "geom:latitude":41.116589,
+    "geom:longitude":-104.855469,
+    "iso:country":"US",
+    "sg:address":"2800 W Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 986 4375",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:website":"http://www.littleamerica.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xg3hcL7F90pXW09MWdjDf_41.116589_-104.855469@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"923c9d32a407b95f6e84af8016aea6f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "neighbourhood_id":-1,
+            "region_id":85688475,
+            "venue_id":320522669
+        }
+    ],
+    "wof:id":320522669,
+    "wof:lastmodified":1449013032,
+    "wof:name":"Little America Hotel & Resort",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-104.855469,41.116589,-104.855469,41.116589],
+  "geometry": {"coordinates":[-104.855469,41.116589],"type":"Point"}
+}

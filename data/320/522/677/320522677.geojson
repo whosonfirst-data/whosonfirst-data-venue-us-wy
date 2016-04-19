@@ -1,0 +1,92 @@
+{
+  "id": 320522677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-105.564781,41.309401,-105.564781,41.309401",
+    "geom:latitude":41.309401,
+    "geom:longitude":-105.564781,
+    "iso:country":"US",
+    "sg:address":"2229 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Conference Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 223 0041",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "facility",
+        "convention",
+        "banquet",
+        "reception",
+        "wedding",
+        "hall"
+    ],
+    "sg:website":"http://www.uwconferencecenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20tnuZu4nXFX93hlqklUlP_41.309401_-105.564781@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1d315c7c174bfd157c86def6d304621",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":320522677
+        }
+    ],
+    "wof:id":320522677,
+    "wof:lastmodified":1449013032,
+    "wof:name":"Hilton Garden Inn & University of Wyoming Conference Center",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility",
+        "convention",
+        "banquet",
+        "reception",
+        "wedding",
+        "hall"
+    ]
+},
+  "bbox": [-105.564781,41.309401,-105.564781,41.309401],
+  "geometry": {"coordinates":[-105.564781,41.309401],"type":"Point"}
+}

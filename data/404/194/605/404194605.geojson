@@ -1,0 +1,67 @@
+{
+  "id": 404194605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.968456,41.254754,-110.968456,41.254754",
+    "geom:latitude":41.254754,
+    "geom:longitude":-110.968456,
+    "iso:country":"US",
+    "sg:address":"108 Yellow Creek Rd",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 0905",
+    "sg:postcode":"82930",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101734051,
+        102081163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hcBwxEGSncAy48YKf4XPf_41.254754_-110.968456@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"58c3b5f99a67fbea5be20b3bcf8c5e4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081163,
+            "locality_id":101734051,
+            "neighbourhood_id":-1,
+            "region_id":85688475,
+            "venue_id":404194605
+        }
+    ],
+    "wof:id":404194605,
+    "wof:lastmodified":1449040141,
+    "wof:name":"Wild Thunder LC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "establishment"
+    ]
+},
+  "bbox": [-110.968456,41.254754,-110.968456,41.254754],
+  "geometry": {"coordinates":[-110.968456,41.254754],"type":"Point"}
+}

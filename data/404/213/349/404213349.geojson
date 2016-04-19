@@ -1,0 +1,67 @@
+{
+  "id": 404213349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.944044,41.249042,-110.944044,41.249042",
+    "geom:latitude":41.249042,
+    "geom:longitude":-110.944044,
+    "iso:country":"US",
+    "sg:address":"63 Aspen Grove Dr W",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 0680",
+    "sg:postcode":"82930",
+    "sg:province":"UT",
+    "sg:tags":[
+        "instrument",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101734051,
+        102081163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i8I7CJ2r4zCJuA8qYCBEo_41.249042_-110.944044@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dfac939be91381ca0b581c04c97758f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081163,
+            "locality_id":101734051,
+            "neighbourhood_id":-1,
+            "region_id":85688475,
+            "venue_id":404213349
+        }
+    ],
+    "wof:id":404213349,
+    "wof:lastmodified":1449039101,
+    "wof:name":"Richard Carver Crna PC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "mfg"
+    ]
+},
+  "bbox": [-110.944044,41.249042,-110.944044,41.249042],
+  "geometry": {"coordinates":[-110.944044,41.249042],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 320522705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592029,41.325564,-105.592029,41.325564",
+    "geom:latitude":41.325564,
+    "geom:longitude":-105.592029,
+    "iso:country":"US",
+    "sg:address":"1465 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 7404",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02fkQv6MCbq1b6gdfdtIr5_41.325564_-105.592029@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1bb1471ecc191376709947f520e24c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":320522705
+        }
+    ],
+    "wof:id":320522705,
+    "wof:lastmodified":1449013038,
+    "wof:name":"Suzy's",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-105.592029,41.325564,-105.592029,41.325564],
+  "geometry": {"coordinates":[-105.592029,41.325564],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169662187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-109.26003,41.59791,-109.26003,41.59791",
+    "geom:latitude":41.59791,
+    "geom:longitude":-109.26003,
+    "iso:country":"US",
+    "sg:address":"1001 Wood Haven Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 2244",
+    "sg:postcode":"82901",
+    "sg:province":"CO",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101734005,
+        102081155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14wTj5BuUQKCQTfuWFz4xW_41.597910_-109.260030@1294083659"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"93981c362b2a2eaabdbfe394452ddbec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":-1,
+            "region_id":85688475,
+            "venue_id":169662187
+        }
+    ],
+    "wof:id":169662187,
+    "wof:lastmodified":1449034920,
+    "wof:name":"E&D Properties LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [-109.26003,41.59791,-109.26003,41.59791],
+  "geometry": {"coordinates":[-109.26003,41.59791],"type":"Point"}
+}
