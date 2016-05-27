@@ -1,0 +1,71 @@
+{
+  "id": 874057033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.600078,41.307625,-105.600078,41.307625",
+    "geom:latitude":41.307625,
+    "geom:longitude":-105.600078,
+    "iso:country":"US",
+    "sg:address":"702 S Pine St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7135",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "recreation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f59PkTrHHpyC7Iv3ThpHk_41.307625_-105.600078@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311309,
+    "wof:geomhash":"0c22cc8f7fd9f2568d3a8ce197590cae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874057033
+        }
+    ],
+    "wof:id":874057033,
+    "wof:lastmodified":1464311309,
+    "wof:name":"S Dolega & Co",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreation"
+    ]
+},
+  "bbox": [
+    -105.600078,
+    41.307625,
+    -105.600078,
+    41.307625
+],
+  "geometry": {"coordinates":[-105.600078,41.307625],"type":"Point"}
+}

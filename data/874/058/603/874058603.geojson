@@ -1,0 +1,58 @@
+{
+  "id": 874058603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.924707,44.292918,-104.924707,44.292918",
+    "geom:latitude":44.292918,
+    "geom:longitude":-104.924707,
+    "iso:country":"US",
+    "sg:address":"15745 US Hwy 14",
+    "sg:city":"Moorcroft",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 756 3445",
+    "sg:postcode":"82721",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QMza5g2O0ZwbESntV52pO_44.292918_-104.924707@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311323,
+    "wof:geomhash":"56fdea35d76d487e2e6fd979f4b3f65f",
+    "wof:hierarchy":[],
+    "wof:id":874058603,
+    "wof:lastmodified":1464311323,
+    "wof:name":"Key In Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -104.924707,
+    44.292918,
+    -104.924707,
+    44.292918
+],
+  "geometry": {"coordinates":[-104.924707,44.292918],"type":"Point"}
+}

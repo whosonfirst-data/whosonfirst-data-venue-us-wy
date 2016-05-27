@@ -1,0 +1,60 @@
+{
+  "id": 874057315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.95444,44.67549,-106.95444,44.67549",
+    "geom:latitude":44.67549,
+    "geom:longitude":-106.95444,
+    "iso:country":"US",
+    "sg:address":"185 Bird Farm Rd",
+    "sg:city":"Big Horn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 0150",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TxeNcKUJRl8gj6u9WJFkc_44.675490_-106.954440@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311312,
+    "wof:geomhash":"aa8cc1ddd153ec3d3ea3ff8e4f2ea70b",
+    "wof:hierarchy":[],
+    "wof:id":874057315,
+    "wof:lastmodified":1464311312,
+    "wof:name":"Big Horn Kennels",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -106.95444,
+    44.67549,
+    -106.95444,
+    44.67549
+],
+  "geometry": {"coordinates":[-106.95444000000001,44.67549],"type":"Point"}
+}

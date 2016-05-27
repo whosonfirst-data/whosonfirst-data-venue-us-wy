@@ -1,0 +1,58 @@
+{
+  "id": 874187681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.791501,41.138504,-104.791501,41.138504",
+    "geom:latitude":41.138504,
+    "geom:longitude":-104.791501,
+    "iso:country":"US",
+    "sg:address":"2112 E Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 0849",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KDToXd9ccbzEH5UXzTbIz_41.138504_-104.791501@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312716,
+    "wof:geomhash":"335532ab0974c4d181be590705cc6acf",
+    "wof:hierarchy":[],
+    "wof:id":874187681,
+    "wof:lastmodified":1464312716,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -104.791501,
+    41.138504,
+    -104.791501,
+    41.138504
+],
+  "geometry": {"coordinates":[-104.791501,41.138504],"type":"Point"}
+}

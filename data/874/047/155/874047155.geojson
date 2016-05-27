@@ -1,0 +1,56 @@
+{
+  "id": 874047155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.1349,43.819138,-104.1349,43.819138",
+    "geom:latitude":43.819138,
+    "geom:longitude":-104.1349,
+    "iso:country":"US",
+    "sg:address":"5362 US Hwy 16",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 4995",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Gf2q8M2gzOS2c3Vrg97jn_43.819138_-104.134900@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311216,
+    "wof:geomhash":"c3776cfdabb4fe2ac538bad3c374ac38",
+    "wof:hierarchy":[],
+    "wof:id":874047155,
+    "wof:lastmodified":1464311216,
+    "wof:name":"Salt Creek Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -104.1349,
+    43.819138,
+    -104.1349,
+    43.819138
+],
+  "geometry": {"coordinates":[-104.1349,43.819138],"type":"Point"}
+}

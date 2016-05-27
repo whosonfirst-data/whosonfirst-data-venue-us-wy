@@ -1,0 +1,56 @@
+{
+  "id": 874157599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.097115,42.556835,-110.097115,42.556835",
+    "geom:latitude":42.556835,
+    "geom:longitude":-110.097115,
+    "iso:country":"US",
+    "sg:address":"905 4th St",
+    "sg:city":"Big Piney",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 276 4080",
+    "sg:postcode":"83113",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0si4J3VyHJLsKuJKwEpoga_42.556835_-110.097115@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312404,
+    "wof:geomhash":"d9addb714749db3acabdc1a3c6cf51b4",
+    "wof:hierarchy":[],
+    "wof:id":874157599,
+    "wof:lastmodified":1464312404,
+    "wof:name":"Dave Babcock Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -110.097115,
+    42.556835,
+    -110.097115,
+    42.556835
+],
+  "geometry": {"coordinates":[-110.097115,42.556835],"type":"Point"}
+}

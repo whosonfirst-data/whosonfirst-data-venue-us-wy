@@ -1,0 +1,56 @@
+{
+  "id": 874176427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.729334,43.325723,-110.729334,43.325723",
+    "geom:latitude":43.325723,
+    "geom:longitude":-110.729334,
+    "iso:country":"US",
+    "sg:address":"10880 US Hwy 89",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 739 1367",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76CFNNLzC6pRyJT9vWP1ir_43.325723_-110.729334@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312591,
+    "wof:geomhash":"96e50d1af626ca03355d7978d2807415",
+    "wof:hierarchy":[],
+    "wof:id":874176427,
+    "wof:lastmodified":1464312591,
+    "wof:name":"Point Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -110.729334,
+    43.325723,
+    -110.729334,
+    43.325723
+],
+  "geometry": {"coordinates":[-110.72933399999999,43.325723],"type":"Point"}
+}

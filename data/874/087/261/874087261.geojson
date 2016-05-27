@@ -1,0 +1,79 @@
+{
+  "id": 874087261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.44905,42.885149,-106.44905,42.885149",
+    "geom:latitude":42.885149,
+    "geom:longitude":-106.44905,
+    "iso:country":"US",
+    "sg:address":"2850 N Pilot Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 3101",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "marking",
+        "contractor",
+        "concrete",
+        "maintenance",
+        "parking",
+        "sanitary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18gxczfSacG0F1Lx0Usc7R_42.885149_-106.449050@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311633,
+    "wof:geomhash":"3f8a36850fa4f84a62823fa5e397f3b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874087261
+        }
+    ],
+    "wof:id":874087261,
+    "wof:lastmodified":1464311633,
+    "wof:name":"R C H Parking Lot Maintenance",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "contractor",
+        "concrete",
+        "maintenance",
+        "parking",
+        "sanitary"
+    ]
+},
+  "bbox": [
+    -106.44905,
+    42.885149,
+    -106.44905,
+    42.885149
+],
+  "geometry": {"coordinates":[-106.44905,42.885149],"type":"Point"}
+}

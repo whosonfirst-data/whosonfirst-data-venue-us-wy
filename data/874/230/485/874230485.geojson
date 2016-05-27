@@ -1,0 +1,58 @@
+{
+  "id": 874230485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.786679,41.13844,-104.786679,41.13844",
+    "geom:latitude":41.13844,
+    "geom:longitude":-104.786679,
+    "iso:country":"US",
+    "sg:address":"2535 E Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/206598-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tnepizc0HPcMx98aPzTFn_41.138344_-104.785961@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313169,
+    "wof:geomhash":"b250dea8c05c05d5abfd16f20345bb80",
+    "wof:hierarchy":[],
+    "wof:id":874230485,
+    "wof:lastmodified":1464313169,
+    "wof:name":"McDonald's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -104.786679,
+    41.13844,
+    -104.786679,
+    41.13844
+],
+  "geometry": {"coordinates":[-104.78667900000001,41.13844],"type":"Point"}
+}

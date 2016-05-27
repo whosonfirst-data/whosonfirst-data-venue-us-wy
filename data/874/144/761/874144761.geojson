@@ -1,0 +1,69 @@
+{
+  "id": 874144761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.306673,42.847698,-106.306673,42.847698",
+    "geom:latitude":42.847698,
+    "geom:longitude":-106.306673,
+    "iso:country":"US",
+    "sg:address":"231 S Wilson St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 3791",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E4FvV8tH1Y410WYlSf1JH_42.847698_-106.306673@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312278,
+    "wof:geomhash":"694cbac69dd0d74edcc74afd1f0b6a31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874144761
+        }
+    ],
+    "wof:id":874144761,
+    "wof:lastmodified":1464312278,
+    "wof:name":"Toews Berton MD",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -106.306673,
+    42.847698,
+    -106.306673,
+    42.847698
+],
+  "geometry": {"coordinates":[-106.306673,42.847698],"type":"Point"}
+}

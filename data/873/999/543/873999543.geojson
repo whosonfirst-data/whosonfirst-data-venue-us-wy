@@ -1,0 +1,66 @@
+{
+  "id": 873999543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.503855,44.269,-105.503855,44.269",
+    "geom:latitude":44.269,
+    "geom:longitude":-105.503855,
+    "iso:country":"US",
+    "sg:address":"2806 Dogwood Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 1414",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lock",
+        "household",
+        "appliance",
+        "locksmith",
+        "hardware",
+        "w"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nBL9uPETkFfiNq45wdn0N_44.269000_-105.503855@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310757,
+    "wof:geomhash":"c74e4fc8f215e96beb5a8c1e0d5588b5",
+    "wof:hierarchy":[],
+    "wof:id":873999543,
+    "wof:lastmodified":1464310757,
+    "wof:name":"Razor City Locksmith",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "household",
+        "appliance",
+        "locksmith",
+        "hardware",
+        "w"
+    ]
+},
+  "bbox": [
+    -105.503855,
+    44.269,
+    -105.503855,
+    44.269
+],
+  "geometry": {"coordinates":[-105.503855,44.269],"type":"Point"}
+}

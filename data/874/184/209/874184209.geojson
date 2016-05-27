@@ -1,0 +1,71 @@
+{
+  "id": 874184209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.566727,41.313531,-105.566727,41.313531",
+    "geom:latitude":41.313531,
+    "geom:longitude":-105.566727,
+    "iso:country":"US",
+    "sg:address":"2111 Willett Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 766 4114",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "historical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5huXTvAU0I0Rgw1ikrnFYC_41.313531_-105.566727@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312680,
+    "wof:geomhash":"9a8a9c7357fbac7a9a9fa31b8eaa1629",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874184209
+        }
+    ],
+    "wof:id":874184209,
+    "wof:lastmodified":1464312680,
+    "wof:name":"American Heritage Ctr",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "historical"
+    ]
+},
+  "bbox": [
+    -105.566727,
+    41.313531,
+    -105.566727,
+    41.313531
+],
+  "geometry": {"coordinates":[-105.566727,41.313531],"type":"Point"}
+}

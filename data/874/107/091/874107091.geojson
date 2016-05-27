@@ -1,0 +1,80 @@
+{
+  "id": 874107091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.570288,41.306096,-105.570288,41.306096",
+    "geom:latitude":41.306096,
+    "geom:longitude":-105.570288,
+    "iso:country":"US",
+    "sg:address":"1932 E Sheridan St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3789",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tackle",
+        "fishing",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72ptxkDfyx7ZWKty0unOVo_41.306096_-105.570288@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311883,
+    "wof:geomhash":"f0ac5a975e89707cfa7fc1a1b136ba1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874107091
+        }
+    ],
+    "wof:id":874107091,
+    "wof:lastmodified":1464311883,
+    "wof:name":"Jim's Custom Rods",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tackle",
+        "fishing",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -105.570288,
+    41.306096,
+    -105.570288,
+    41.306096
+],
+  "geometry": {"coordinates":[-105.57028800000001,41.306096],"type":"Point"}
+}

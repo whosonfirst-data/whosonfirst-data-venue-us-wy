@@ -1,0 +1,56 @@
+{
+  "id": 874153675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.706966,44.336208,-106.706966,44.336208",
+    "geom:latitude":44.336208,
+    "geom:longitude":-106.706966,
+    "iso:country":"US",
+    "sg:address":"714 Fullerton Ave",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 2882",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kztrUuza4JlMOXgR1UXs3_44.336208_-106.706966@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312362,
+    "wof:geomhash":"770299345d18167aa2a7f1ca6561a1f8",
+    "wof:hierarchy":[],
+    "wof:id":874153675,
+    "wof:lastmodified":1464312362,
+    "wof:name":"Bobs Cleaning Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -106.706966,
+    44.336208,
+    -106.706966,
+    44.336208
+],
+  "geometry": {"coordinates":[-106.70696599999999,44.336208],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 873996069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.633448,43.534854,-109.633448,43.534854",
+    "geom:latitude":43.534854,
+    "geom:longitude":-109.633448,
+    "iso:country":"US",
+    "sg:address":"102 Horse Creek Rd",
+    "sg:city":"Dubois",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 455 2212",
+    "sg:postcode":"82513",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D2BWwT188ninYFirgyAt8_43.534854_-109.633448@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310733,
+    "wof:geomhash":"5962dce24324adc7bd761d521d64a8e3",
+    "wof:hierarchy":[],
+    "wof:id":873996069,
+    "wof:lastmodified":1464310733,
+    "wof:name":"Dubois Fire Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -109.633448,
+    43.534854,
+    -109.633448,
+    43.534854
+],
+  "geometry": {"coordinates":[-109.633448,43.534854],"type":"Point"}
+}

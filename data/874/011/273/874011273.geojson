@@ -1,0 +1,56 @@
+{
+  "id": 874011273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.959036,44.798255,-106.959036,44.798255",
+    "geom:latitude":44.798255,
+    "geom:longitude":-106.959036,
+    "iso:country":"US",
+    "sg:address":"157 W Brundage St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 0539",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fiZVONlgOUtNhsTXpgkla_44.798255_-106.959036@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310864,
+    "wof:geomhash":"9c16bc722f67e192f8aceb2eab3ab348",
+    "wof:hierarchy":[],
+    "wof:id":874011273,
+    "wof:lastmodified":1464310864,
+    "wof:name":"Davis Appliance Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -106.959036,
+    44.798255,
+    -106.959036,
+    44.798255
+],
+  "geometry": {"coordinates":[-106.959036,44.798255],"type":"Point"}
+}

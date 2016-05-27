@@ -1,0 +1,56 @@
+{
+  "id": 874220951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.658683,44.285942,-105.658683,44.285942",
+    "geom:latitude":44.285942,
+    "geom:longitude":-105.658683,
+    "iso:country":"US",
+    "sg:address":"123 Montgomery Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 687 2925",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l8NPuYb1A2eMIBhnnXmC8_44.285942_-105.658683@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313074,
+    "wof:geomhash":"50df598eceb4803104c29bed358e500e",
+    "wof:hierarchy":[],
+    "wof:id":874220951,
+    "wof:lastmodified":1464313074,
+    "wof:name":"Tower Communication & Automtn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -105.658683,
+    44.285942,
+    -105.658683,
+    44.285942
+],
+  "geometry": {"coordinates":[-105.658683,44.285942],"type":"Point"}
+}

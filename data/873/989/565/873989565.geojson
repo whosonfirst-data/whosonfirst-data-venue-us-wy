@@ -1,0 +1,73 @@
+{
+  "id": 873989565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343759,42.809775,-106.343759,42.809775",
+    "geom:latitude":42.809775,
+    "geom:longitude":-106.343759,
+    "iso:country":"US",
+    "sg:address":"4100 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 1227",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tanning",
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fCCFyuDHWhsCnv2LoxuuD_42.809775_-106.343759@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310687,
+    "wof:geomhash":"bcc34d5af79e703ae8ed1c122037ecb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873989565
+        }
+    ],
+    "wof:id":873989565,
+    "wof:lastmodified":1464310687,
+    "wof:name":"Sunrise Video",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tanning",
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -106.343759,
+    42.809775,
+    -106.343759,
+    42.809775
+],
+  "geometry": {"coordinates":[-106.34375900000001,42.809775],"type":"Point"}
+}

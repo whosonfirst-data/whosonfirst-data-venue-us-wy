@@ -1,0 +1,73 @@
+{
+  "id": 874184109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.602558,41.307623,-105.602558,41.307623",
+    "geom:latitude":41.307623,
+    "geom:longitude":-105.602558,
+    "iso:country":"US",
+    "sg:address":"715 S Spruce St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4177",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PC3N5b4UhkwsfToyvUf8Y_41.307623_-105.602558@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312679,
+    "wof:geomhash":"39cbcf51381d997bbb79bd3c5e4cd1db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874184109
+        }
+    ],
+    "wof:id":874184109,
+    "wof:lastmodified":1464312679,
+    "wof:name":"Beyers Painting & Design",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.602558,
+    41.307623,
+    -105.602558,
+    41.307623
+],
+  "geometry": {"coordinates":[-105.602558,41.307623],"type":"Point"}
+}

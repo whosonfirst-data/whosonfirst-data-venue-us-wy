@@ -1,0 +1,56 @@
+{
+  "id": 874218101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.034007,44.533354,-109.034007,44.533354",
+    "geom:latitude":44.533354,
+    "geom:longitude":-109.034007,
+    "iso:country":"US",
+    "sg:address":"2830 Big Horn Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 8464",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WGtdsVq7GZreQTyVRi6VI_44.533354_-109.034007@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313033,
+    "wof:geomhash":"a0a273b4c56a93ca23983c1bb06730de",
+    "wof:hierarchy":[],
+    "wof:id":874218101,
+    "wof:lastmodified":1464313033,
+    "wof:name":"Los Angeles Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -109.034007,
+    44.533354,
+    -109.034007,
+    44.533354
+],
+  "geometry": {"coordinates":[-109.034007,44.533354],"type":"Point"}
+}

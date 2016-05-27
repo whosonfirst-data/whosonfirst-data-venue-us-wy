@@ -1,0 +1,56 @@
+{
+  "id": 874135011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.820043,41.178171,-104.820043,41.178171",
+    "geom:latitude":41.178171,
+    "geom:longitude":-104.820043,
+    "iso:country":"US",
+    "sg:address":"704 Shaun Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 6707",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pOKeCbQOQFLRji9LxCDsB_41.178171_-104.820043@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312190,
+    "wof:geomhash":"25078c01f2b5ef71deb1d86c98b0bd19",
+    "wof:hierarchy":[],
+    "wof:id":874135011,
+    "wof:lastmodified":1464312190,
+    "wof:name":"Walsh Sprinklers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -104.820043,
+    41.178171,
+    -104.820043,
+    41.178171
+],
+  "geometry": {"coordinates":[-104.820043,41.178171],"type":"Point"}
+}

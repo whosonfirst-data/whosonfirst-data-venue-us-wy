@@ -1,0 +1,56 @@
+{
+  "id": 874197667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.954139,41.262262,-110.954139,41.262262",
+    "geom:latitude":41.262262,
+    "geom:longitude":-110.954139,
+    "iso:country":"US",
+    "sg:address":"107 State Hwy 150 S",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 5210",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0H9Y57QKqTbykSbkeatSgH_41.262262_-110.954139@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312822,
+    "wof:geomhash":"458e7d41efa80c121f28eab03e0c705a",
+    "wof:hierarchy":[],
+    "wof:id":874197667,
+    "wof:lastmodified":1464312822,
+    "wof:name":"Burt & Morgan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -110.954139,
+    41.262262,
+    -110.954139,
+    41.262262
+],
+  "geometry": {"coordinates":[-110.954139,41.262262],"type":"Point"}
+}

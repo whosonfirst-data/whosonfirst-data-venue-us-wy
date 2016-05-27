@@ -1,0 +1,56 @@
+{
+  "id": 873995257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.47921,44.23904,-105.47921,44.23904",
+    "geom:latitude":44.23904,
+    "geom:longitude":-105.47921,
+    "iso:country":"US",
+    "sg:address":"6211 Mohan Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 0294",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MVjdBH8nSsMzA3IxPr2v8_44.239040_-105.479210@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310727,
+    "wof:geomhash":"64a523375775dcd68ebf20b922144a62",
+    "wof:hierarchy":[],
+    "wof:id":873995257,
+    "wof:lastmodified":1464310727,
+    "wof:name":"Wyoming Welding",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -105.47921,
+    44.23904,
+    -105.47921,
+    44.23904
+],
+  "geometry": {"coordinates":[-105.47920999999999,44.23904],"type":"Point"}
+}

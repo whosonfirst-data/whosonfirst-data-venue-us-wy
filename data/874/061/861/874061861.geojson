@@ -1,0 +1,58 @@
+{
+  "id": 874061861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.97639,41.264104,-110.97639,41.264104",
+    "geom:latitude":41.264104,
+    "geom:longitude":-110.97639,
+    "iso:country":"US",
+    "sg:address":"1948 Harrison Dr",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 4625",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PArSxDIlj7N5tnZpn0Lia_41.264104_-110.976390@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311352,
+    "wof:geomhash":"8fa20a8171eb0f78c808da5b8f05bbf5",
+    "wof:hierarchy":[],
+    "wof:id":874061861,
+    "wof:lastmodified":1464311352,
+    "wof:name":"Sinclair Service Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -110.97639,
+    41.264104,
+    -110.97639,
+    41.264104
+],
+  "geometry": {"coordinates":[-110.97638999999999,41.264104],"type":"Point"}
+}

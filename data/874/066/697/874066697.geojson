@@ -1,0 +1,77 @@
+{
+  "id": 874066697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.281773,42.845583,-106.281773,42.845583",
+    "geom:latitude":42.845583,
+    "geom:longitude":-106.281773,
+    "iso:country":"US",
+    "sg:address":"457 Trigood Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 2818",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "cotton",
+        "mill",
+        "fabric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zbIKwG5ZhPulcNSmIRwCv_42.845583_-106.281773@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311395,
+    "wof:geomhash":"6bad49a27a304b4c7dc465470f254e0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874066697
+        }
+    ],
+    "wof:id":874066697,
+    "wof:lastmodified":1464311395,
+    "wof:name":"Cascade Cleaners",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "cotton",
+        "mill",
+        "fabric"
+    ]
+},
+  "bbox": [
+    -106.281773,
+    42.845583,
+    -106.281773,
+    42.845583
+],
+  "geometry": {"coordinates":[-106.281773,42.845583],"type":"Point"}
+}

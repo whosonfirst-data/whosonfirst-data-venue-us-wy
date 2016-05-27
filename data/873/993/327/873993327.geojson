@@ -1,0 +1,69 @@
+{
+  "id": 873993327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.29555,42.832515,-106.29555,42.832515",
+    "geom:latitude":42.832515,
+    "geom:longitude":-106.29555,
+    "iso:country":"US",
+    "sg:address":"2210 E 17th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 0605",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consulting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e278TvRERsLUYCe8OmpAa_42.832515_-106.295550@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310714,
+    "wof:geomhash":"a94b5c6f4915723a7518f27c49b35c8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873993327
+        }
+    ],
+    "wof:id":873993327,
+    "wof:lastmodified":1464310714,
+    "wof:name":"Melissa V Connely",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting"
+    ]
+},
+  "bbox": [
+    -106.29555,
+    42.832515,
+    -106.29555,
+    42.832515
+],
+  "geometry": {"coordinates":[-106.29555000000001,42.832515],"type":"Point"}
+}

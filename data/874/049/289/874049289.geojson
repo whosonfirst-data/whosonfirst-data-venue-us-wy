@@ -1,0 +1,67 @@
+{
+  "id": 874049289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.585349,41.262851,-105.585349,41.262851",
+    "geom:latitude":41.262851,
+    "geom:longitude":-105.585349,
+    "iso:country":"US",
+    "sg:address":"900 Howe Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4723",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:website":"www.onastring.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HkBPWVxDXdt2myRnAim8F_41.262851_-105.585349@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311234,
+    "wof:geomhash":"0217e80a6de8da369d03071ea352d099",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874049289
+        }
+    ],
+    "wof:id":874049289,
+    "wof:lastmodified":1464311234,
+    "wof:name":"On A String Ranch",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.585349,
+    41.262851,
+    -105.585349,
+    41.262851
+],
+  "geometry": {"coordinates":[-105.58534899999999,41.262851],"type":"Point"}
+}

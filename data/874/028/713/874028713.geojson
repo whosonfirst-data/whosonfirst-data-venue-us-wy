@@ -1,0 +1,56 @@
+{
+  "id": 874028713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.46322,41.510887,-109.46322,41.510887",
+    "geom:latitude":41.510887,
+    "geom:longitude":-109.46322,
+    "iso:country":"US",
+    "sg:address":"685 Evers St",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 3028",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sanitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mPYBZQd7SHpZFZdR7MCKN_41.510887_-109.463220@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311031,
+    "wof:geomhash":"74a14866c1f6f1bbff1c92b2bf23addc",
+    "wof:hierarchy":[],
+    "wof:id":874028713,
+    "wof:lastmodified":1464311031,
+    "wof:name":"Rocket Sanitation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitation"
+    ]
+},
+  "bbox": [
+    -109.46322,
+    41.510887,
+    -109.46322,
+    41.510887
+],
+  "geometry": {"coordinates":[-109.46322000000001,41.510887],"type":"Point"}
+}

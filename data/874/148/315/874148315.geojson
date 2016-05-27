@@ -1,0 +1,56 @@
+{
+  "id": 874148315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.916636,42.85406,-109.916636,42.85406",
+    "geom:latitude":42.85406,
+    "geom:longitude":-109.916636,
+    "iso:country":"US",
+    "sg:address":"7 Mill Rd",
+    "sg:city":"Pinedale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 367 4882",
+    "sg:postcode":"82941",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y0CbdWz6Oefv5Q8hQARt4_42.854060_-109.916636@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312314,
+    "wof:geomhash":"dbe1d192c7a7556dbf23b1be88906840",
+    "wof:hierarchy":[],
+    "wof:id":874148315,
+    "wof:lastmodified":1464312314,
+    "wof:name":"T & L Salvage & Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -109.916636,
+    42.85406,
+    -109.916636,
+    42.85406
+],
+  "geometry": {"coordinates":[-109.916636,42.85406],"type":"Point"}
+}

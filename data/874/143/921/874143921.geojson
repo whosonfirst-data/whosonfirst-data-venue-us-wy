@@ -1,0 +1,69 @@
+{
+  "id": 874143921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.321871,42.844723,-106.321871,42.844723",
+    "geom:latitude":42.844723,
+    "geom:longitude":-106.321871,
+    "iso:country":"US",
+    "sg:address":"318 E 6th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 9087",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KeGKqVi2rXCO8KOrlgyYg_42.844723_-106.321871@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312270,
+    "wof:geomhash":"08b2b126f39a596fca8cff1fafb862f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874143921
+        }
+    ],
+    "wof:id":874143921,
+    "wof:lastmodified":1464312270,
+    "wof:name":"Our Saviour's Lutheran Church",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -106.321871,
+    42.844723,
+    -106.321871,
+    42.844723
+],
+  "geometry": {"coordinates":[-106.321871,42.844723],"type":"Point"}
+}

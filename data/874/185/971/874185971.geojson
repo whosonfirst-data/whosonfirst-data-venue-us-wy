@@ -1,0 +1,56 @@
+{
+  "id": 874185971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.958833,42.08445,-110.958833,42.08445",
+    "geom:latitude":42.08445,
+    "geom:longitude":-110.958833,
+    "iso:country":"US",
+    "sg:address":"115 Park St",
+    "sg:city":"Cokeville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 279 3244",
+    "sg:postcode":"83114",
+    "sg:province":"WY",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IgEKiYrqwk71DDaRFwP6b_42.084450_-110.958833@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312700,
+    "wof:geomhash":"8b5d051041736064cdc73bf8e81e3f4c",
+    "wof:hierarchy":[],
+    "wof:id":874185971,
+    "wof:lastmodified":1464312700,
+    "wof:name":"Cokeville Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -110.958833,
+    42.08445,
+    -110.958833,
+    42.08445
+],
+  "geometry": {"coordinates":[-110.958833,42.08445],"type":"Point"}
+}

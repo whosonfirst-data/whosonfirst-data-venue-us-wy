@@ -1,0 +1,71 @@
+{
+  "id": 874144255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.383935,42.809074,-106.383935,42.809074",
+    "geom:latitude":42.809074,
+    "geom:longitude":-106.383935,
+    "iso:country":"US",
+    "sg:address":"3540 Squaw Creek Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 4163",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "food",
+        "snack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BDm5t60Uzi62eWsHlLMJk_42.809074_-106.383935@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312274,
+    "wof:geomhash":"a1c7ecc70b186cd48aa539a4329fdcf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874144255
+        }
+    ],
+    "wof:id":874144255,
+    "wof:lastmodified":1464312274,
+    "wof:name":"Frito-Lay",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "snack"
+    ]
+},
+  "bbox": [
+    -106.383935,
+    42.809074,
+    -106.383935,
+    42.809074
+],
+  "geometry": {"coordinates":[-106.38393499999999,42.809074],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 874125231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.095468,43.808745,-104.095468,43.808745",
+    "geom:latitude":43.808745,
+    "geom:longitude":-104.095468,
+    "iso:country":"US",
+    "sg:address":"5561 US Hwy 16",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 9667",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "material",
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YlNZQAlZCRz1ilJaduU6f_43.808745_-104.095468@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312087,
+    "wof:geomhash":"b7fa446643c915b12dba10195e4935ee",
+    "wof:hierarchy":[],
+    "wof:id":874125231,
+    "wof:lastmodified":1464312087,
+    "wof:name":"Fisher Sand & Gravel Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -104.095468,
+    43.808745,
+    -104.095468,
+    43.808745
+],
+  "geometry": {"coordinates":[-104.095468,43.808745],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874023787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.635503,41.297872,-105.635503,41.297872",
+    "geom:latitude":41.297872,
+    "geom:longitude":-105.635503,
+    "iso:country":"US",
+    "sg:address":"2789 Riverside Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 9030",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R4iKj2GQEZYzJRyosqJCo_41.297872_-105.635503@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310981,
+    "wof:geomhash":"6e772e26f37fc262c830b5f8dffad57d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874023787
+        }
+    ],
+    "wof:id":874023787,
+    "wof:lastmodified":1464310981,
+    "wof:name":"Anatomy Works Therapeutic",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -105.635503,
+    41.297872,
+    -105.635503,
+    41.297872
+],
+  "geometry": {"coordinates":[-105.635503,41.297872],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874145497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343796,42.809644,-106.343796,42.809644",
+    "geom:latitude":42.809644,
+    "geom:longitude":-106.343796,
+    "iso:country":"US",
+    "sg:address":"4040 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4327",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UZ0T8TZdETxnTwo5tYBjG_42.809644_-106.343796@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312284,
+    "wof:geomhash":"22a49ca497fa7ff81a4be6ad9e95f40c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874145497
+        }
+    ],
+    "wof:id":874145497,
+    "wof:lastmodified":1464312284,
+    "wof:name":"National Farmers Union Ins Co",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.343796,
+    42.809644,
+    -106.343796,
+    42.809644
+],
+  "geometry": {"coordinates":[-106.343796,42.809644],"type":"Point"}
+}

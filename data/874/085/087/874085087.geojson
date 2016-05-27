@@ -1,0 +1,56 @@
+{
+  "id": 874085087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.380661,43.036091,-108.380661,43.036091",
+    "geom:latitude":43.036091,
+    "geom:longitude":-108.380661,
+    "iso:country":"US",
+    "sg:address":"1124 N Federal Blvd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 6758",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12Kz0LH3uSY9XAv2lhWBpi_43.036091_-108.380661@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311610,
+    "wof:geomhash":"3f8de60007d392ec5a244535e4e605f2",
+    "wof:hierarchy":[],
+    "wof:id":874085087,
+    "wof:lastmodified":1464311610,
+    "wof:name":"Central Radiator & Warehouse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -108.380661,
+    43.036091,
+    -108.380661,
+    43.036091
+],
+  "geometry": {"coordinates":[-108.380661,43.036091],"type":"Point"}
+}

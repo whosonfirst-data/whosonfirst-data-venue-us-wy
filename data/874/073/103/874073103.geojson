@@ -1,0 +1,60 @@
+{
+  "id": 874073103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.532389,44.289925,-105.532389,44.289925",
+    "geom:latitude":44.289925,
+    "geom:longitude":-105.532389,
+    "iso:country":"US",
+    "sg:address":"475 State Hwy 50",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 687 3160",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "delivery",
+        "parcel",
+        "package"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gsj1yCyOWNii3EqD4TVQ8_44.289925_-105.532389@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311480,
+    "wof:geomhash":"9ba6be283a01e1ea72eb853a55d470c9",
+    "wof:hierarchy":[],
+    "wof:id":874073103,
+    "wof:lastmodified":1464311480,
+    "wof:name":"UPS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "parcel",
+        "package"
+    ]
+},
+  "bbox": [
+    -105.532389,
+    44.289925,
+    -105.532389,
+    44.289925
+],
+  "geometry": {"coordinates":[-105.53238899999999,44.289925],"type":"Point"}
+}

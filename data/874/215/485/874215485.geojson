@@ -1,0 +1,82 @@
+{
+  "id": 874215485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.38738,42.826679,-106.38738,42.826679",
+    "geom:latitude":42.826679,
+    "geom:longitude":-106.38738,
+    "iso:country":"US",
+    "sg:address":"2480 River Meadows Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1839",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lease",
+        "abstract",
+        "land",
+        "oil",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70vtttwb5dTkJ6JBYrjXUw_42.826679_-106.387380@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313009,
+    "wof:geomhash":"e8857dfa0034b145f7a338cd4b34335f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874215485
+        }
+    ],
+    "wof:id":874215485,
+    "wof:lastmodified":1464313009,
+    "wof:name":"Hatcher Petro Land Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lease",
+        "abstract",
+        "land",
+        "oil",
+        "title"
+    ]
+},
+  "bbox": [
+    -106.38738,
+    42.826679,
+    -106.38738,
+    42.826679
+],
+  "geometry": {"coordinates":[-106.38737999999999,42.826679],"type":"Point"}
+}

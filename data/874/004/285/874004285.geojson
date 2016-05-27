@@ -1,0 +1,63 @@
+{
+  "id": 874004285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.842265,44.665835,-103.842265,44.665835",
+    "geom:latitude":44.665835,
+    "geom:longitude":-103.842265,
+    "iso:country":"US",
+    "sg:address":"1103 Kingsbury St",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 4126",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T5ysZOBE6FqqrRwXwVca0_44.665835_-103.842265@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310806,
+    "wof:geomhash":"36f7d4fa12b8e0db6297a5419b150a91",
+    "wof:hierarchy":[],
+    "wof:id":874004285,
+    "wof:lastmodified":1464310806,
+    "wof:name":"Krause Septic Tank Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -103.842265,
+    44.665835,
+    -103.842265,
+    44.665835
+],
+  "geometry": {"coordinates":[-103.842265,44.665835],"type":"Point"}
+}

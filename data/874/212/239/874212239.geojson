@@ -1,0 +1,51 @@
+{
+  "id": 874212239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.063745,44.526121,-109.063745,44.526121",
+    "geom:latitude":44.526121,
+    "geom:longitude":-109.063745,
+    "iso:country":"US",
+    "sg:address":"1219 Sheridan Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 5040",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19U44MUQkMHY13LAC7n0Tf_44.526121_-109.063745@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312976,
+    "wof:geomhash":"3b472ced4ee39e9d524346cf0f0c686b",
+    "wof:hierarchy":[],
+    "wof:id":874212239,
+    "wof:lastmodified":1464312976,
+    "wof:name":"Peter's Cafe Bakery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.063745,
+    44.526121,
+    -109.063745,
+    44.526121
+],
+  "geometry": {"coordinates":[-109.063745,44.526121],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874196781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.793845,41.136275,-104.793845,41.136275",
+    "geom:latitude":41.136275,
+    "geom:longitude":-104.793845,
+    "iso:country":"US",
+    "sg:address":"1111 Logan Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 9131",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39LBl5LDE4WXoc0gLKanMj_41.136275_-104.793845@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312813,
+    "wof:geomhash":"dd92e6f2d666f216509f7e2a79bd41e7",
+    "wof:hierarchy":[],
+    "wof:id":874196781,
+    "wof:lastmodified":1464312813,
+    "wof:name":"Assocates In Internal Medicine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -104.793845,
+    41.136275,
+    -104.793845,
+    41.136275
+],
+  "geometry": {"coordinates":[-104.793845,41.136275],"type":"Point"}
+}

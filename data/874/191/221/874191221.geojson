@@ -1,0 +1,67 @@
+{
+  "id": 874191221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595024,41.309135,-105.595024,41.309135",
+    "geom:latitude":41.309135,
+    "geom:longitude":-105.595024,
+    "iso:country":"US",
+    "sg:address":"210 E Custer St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4195",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:website":"www.laramie-tourism.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Juh7pcR5edCfpmvPu306R_41.309135_-105.595024@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312751,
+    "wof:geomhash":"4369acd1fcc29e82ecf035e216af0b1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874191221
+        }
+    ],
+    "wof:id":874191221,
+    "wof:lastmodified":1464312751,
+    "wof:name":"Albany County Tourism Board",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.595024,
+    41.309135,
+    -105.595024,
+    41.309135
+],
+  "geometry": {"coordinates":[-105.595024,41.309135],"type":"Point"}
+}

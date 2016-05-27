@@ -1,0 +1,64 @@
+{
+  "id": 873998387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.340107,42.81733,-106.340107,42.81733",
+    "geom:latitude":42.81733,
+    "geom:longitude":-106.340107,
+    "iso:country":"US",
+    "sg:address":"3305 Bella Vista Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1622",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52y5QQ964AxSo31sDrkI5t_42.817330_-106.340107@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310749,
+    "wof:geomhash":"030e0b54a86bff70231e18e84a0ac163",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873998387
+        }
+    ],
+    "wof:id":873998387,
+    "wof:lastmodified":1464310749,
+    "wof:name":"Spirit Winds Arabians",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.340107,
+    42.81733,
+    -106.340107,
+    42.81733
+],
+  "geometry": {"coordinates":[-106.340107,42.81733],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874182929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.329369,42.832705,-106.329369,42.832705",
+    "geom:latitude":42.832705,
+    "geom:longitude":-106.329369,
+    "iso:country":"US",
+    "sg:address":"1732 S Elm St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 1421",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kykOHA2VsMWyM3WnO6YOW_42.832705_-106.329369@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312659,
+    "wof:geomhash":"dabb6c618aa64d03e48827b0219186bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874182929
+        }
+    ],
+    "wof:id":874182929,
+    "wof:lastmodified":1464312659,
+    "wof:name":"St Francis Newman Center",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -106.329369,
+    42.832705,
+    -106.329369,
+    42.832705
+],
+  "geometry": {"coordinates":[-106.329369,42.832705],"type":"Point"}
+}

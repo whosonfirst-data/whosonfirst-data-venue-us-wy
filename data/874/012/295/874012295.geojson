@@ -1,0 +1,58 @@
+{
+  "id": 874012295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.496492,44.261781,-105.496492,44.261781",
+    "geom:latitude":44.261781,
+    "geom:longitude":-105.496492,
+    "iso:country":"US",
+    "sg:address":"612 Sinclair St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 685 1666",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "demolition",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sd6tXEpoZBteo4zUBoqDP_44.261781_-105.496492@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310871,
+    "wof:geomhash":"d59e5504fadd44029aff889ee3aed1dd",
+    "wof:hierarchy":[],
+    "wof:id":874012295,
+    "wof:lastmodified":1464310871,
+    "wof:name":"R J Corman Derailment",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "demolition",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.496492,
+    44.261781,
+    -105.496492,
+    44.261781
+],
+  "geometry": {"coordinates":[-105.496492,44.261781],"type":"Point"}
+}

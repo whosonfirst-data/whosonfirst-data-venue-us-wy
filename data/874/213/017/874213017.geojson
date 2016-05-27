@@ -1,0 +1,67 @@
+{
+  "id": 874213017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.529642,44.327557,-105.529642,44.327557",
+    "geom:latitude":44.327557,
+    "geom:longitude":-105.529642,
+    "iso:country":"US",
+    "sg:address":"1810 Gold Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 9082",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "transmission",
+        "automotive",
+        "automatic",
+        "salvage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TYhoolUg7OPO9OdqJs6k6_44.327557_-105.529642@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312984,
+    "wof:geomhash":"bcf6109a8c25ad83dd3f34813572aa9e",
+    "wof:hierarchy":[],
+    "wof:id":874213017,
+    "wof:lastmodified":1464312984,
+    "wof:name":"Nannemann Brothers Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automotive",
+        "automatic",
+        "salvage"
+    ]
+},
+  "bbox": [
+    -105.529642,
+    44.327557,
+    -105.529642,
+    44.327557
+],
+  "geometry": {"coordinates":[-105.529642,44.327557],"type":"Point"}
+}

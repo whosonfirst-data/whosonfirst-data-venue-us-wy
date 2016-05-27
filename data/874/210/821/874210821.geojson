@@ -1,0 +1,71 @@
+{
+  "id": 874210821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594892,41.311922,-105.594892,41.311922",
+    "geom:latitude":41.311922,
+    "geom:longitude":-105.594892,
+    "iso:country":"US",
+    "sg:address":"216 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 0226",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kbFA9fMWovtbzu3WV0rMG_41.311922_-105.594892@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312959,
+    "wof:geomhash":"f2177baecd81122084220d2c83beba8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874210821
+        }
+    ],
+    "wof:id":874210821,
+    "wof:lastmodified":1464312959,
+    "wof:name":"Earth Wind & Fire",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -105.594892,
+    41.311922,
+    -105.594892,
+    41.311922
+],
+  "geometry": {"coordinates":[-105.594892,41.311922],"type":"Point"}
+}

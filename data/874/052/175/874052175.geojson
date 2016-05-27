@@ -1,0 +1,71 @@
+{
+  "id": 874052175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.41133,42.81447,-106.41133,42.81447",
+    "geom:latitude":42.81447,
+    "geom:longitude":-106.41133,
+    "iso:country":"US",
+    "sg:address":"341 Aster St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 0056",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ObCZZ3jXW5lPQUkJTVcs0_42.814470_-106.411330@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311261,
+    "wof:geomhash":"eb7644e40f293c3c5f6a8c21d9322393",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874052175
+        }
+    ],
+    "wof:id":874052175,
+    "wof:lastmodified":1464311261,
+    "wof:name":"Helmerich & Payne Intl Drllng",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.41133,
+    42.81447,
+    -106.41133,
+    42.81447
+],
+  "geometry": {"coordinates":[-106.41133000000001,42.81447],"type":"Point"}
+}

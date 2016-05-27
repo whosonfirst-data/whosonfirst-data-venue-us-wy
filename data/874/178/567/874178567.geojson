@@ -1,0 +1,69 @@
+{
+  "id": 874178567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.406732,42.867695,-106.406732,42.867695",
+    "geom:latitude":42.867695,
+    "geom:longitude":-106.406732,
+    "iso:country":"US",
+    "sg:address":"5707 Old Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2276",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74KmXOpzejVcjAxKtPYP08_42.867695_-106.406732@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312614,
+    "wof:geomhash":"fdcf5bea437cb4068c4f2099732fd53c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874178567
+        }
+    ],
+    "wof:id":874178567,
+    "wof:lastmodified":1464312614,
+    "wof:name":"K C's Repair",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -106.406732,
+    42.867695,
+    -106.406732,
+    42.867695
+],
+  "geometry": {"coordinates":[-106.40673200000001,42.867695],"type":"Point"}
+}

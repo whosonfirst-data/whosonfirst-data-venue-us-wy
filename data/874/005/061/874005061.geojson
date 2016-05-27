@@ -1,0 +1,58 @@
+{
+  "id": 874005061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.240227,41.795614,-107.240227,41.795614",
+    "geom:latitude":41.795614,
+    "geom:longitude":-107.240227,
+    "iso:country":"US",
+    "sg:address":"915 3rd St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 328 4561",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HV41Nnw8hWn3DWlIWLeUP_41.795614_-107.240227@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310815,
+    "wof:geomhash":"02150f1863427b9f8bb92d6d78b639f9",
+    "wof:hierarchy":[],
+    "wof:id":874005061,
+    "wof:lastmodified":1464310815,
+    "wof:name":"Rawlins Water Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -107.240227,
+    41.795614,
+    -107.240227,
+    41.795614
+],
+  "geometry": {"coordinates":[-107.240227,41.795614],"type":"Point"}
+}

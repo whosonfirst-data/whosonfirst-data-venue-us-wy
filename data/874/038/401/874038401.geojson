@@ -1,0 +1,51 @@
+{
+  "id": 874038401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.382774,42.759072,-105.382774,42.759072",
+    "geom:latitude":42.759072,
+    "geom:longitude":-105.382774,
+    "iso:country":"US",
+    "sg:address":"130 S 4th St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 2250",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58zWJVNTOTROWpzqfMymXr_42.759072_-105.382774@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311129,
+    "wof:geomhash":"f847476c153c205cefc9994f316a7941",
+    "wof:hierarchy":[],
+    "wof:id":874038401,
+    "wof:lastmodified":1464311129,
+    "wof:name":"Douglas Grocery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.382774,
+    42.759072,
+    -105.382774,
+    42.759072
+],
+  "geometry": {"coordinates":[-105.382774,42.759072],"type":"Point"}
+}

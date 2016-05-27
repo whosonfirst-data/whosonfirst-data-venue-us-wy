@@ -1,0 +1,56 @@
+{
+  "id": 874050473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.065979,44.525713,-109.065979,44.525713",
+    "geom:latitude":44.525713,
+    "geom:longitude":-109.065979,
+    "iso:country":"US",
+    "sg:address":"1131 11th St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 8700",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16h2Dys0kV958ypeFN0tB8_44.525713_-109.065979@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311245,
+    "wof:geomhash":"e9a5618ad3c692739107ec7aa0901f97",
+    "wof:hierarchy":[],
+    "wof:id":874050473,
+    "wof:lastmodified":1464311245,
+    "wof:name":"Cody Sheriff Dispatch Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -109.065979,
+    44.525713,
+    -109.065979,
+    44.525713
+],
+  "geometry": {"coordinates":[-109.065979,44.525713],"type":"Point"}
+}

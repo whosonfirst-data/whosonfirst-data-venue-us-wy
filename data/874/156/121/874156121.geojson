@@ -1,0 +1,75 @@
+{
+  "id": 874156121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.413295,42.831513,-106.413295,42.831513",
+    "geom:latitude":42.831513,
+    "geom:longitude":-106.413295,
+    "iso:country":"US",
+    "sg:address":"1088 S Robertson Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 7358",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "perforating",
+        "well",
+        "oil",
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nicVPcblE5hOpWlPq4Rwq_42.831513_-106.413295@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312390,
+    "wof:geomhash":"c2c1970407f7ed19da26e3da5e23429c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874156121
+        }
+    ],
+    "wof:id":874156121,
+    "wof:lastmodified":1464312390,
+    "wof:name":"Baker Atlas",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "perforating",
+        "well",
+        "oil",
+        "logging"
+    ]
+},
+  "bbox": [
+    -106.413295,
+    42.831513,
+    -106.413295,
+    42.831513
+],
+  "geometry": {"coordinates":[-106.41329500000001,42.831513],"type":"Point"}
+}

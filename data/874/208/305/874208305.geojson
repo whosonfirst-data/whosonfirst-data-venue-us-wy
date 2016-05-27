@@ -1,0 +1,61 @@
+{
+  "id": 874208305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.056047,44.488773,-108.056047,44.488773",
+    "geom:latitude":44.488773,
+    "geom:longitude":-108.056047,
+    "iso:country":"US",
+    "sg:address":"627 Greybull Ave",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 4786",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r9EflM1eQCeoZCC55LUxB_44.488773_-108.056047@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312932,
+    "wof:geomhash":"b78b99e7166f1ddda70a3d12b2f2a905",
+    "wof:hierarchy":[],
+    "wof:id":874208305,
+    "wof:lastmodified":1464312932,
+    "wof:name":"Western Floral & Gift Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -108.056047,
+    44.488773,
+    -108.056047,
+    44.488773
+],
+  "geometry": {"coordinates":[-108.05604700000001,44.488773],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874148595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.317235,42.848855,-106.317235,42.848855",
+    "geom:latitude":42.848855,
+    "geom:longitude":-106.317235,
+    "iso:country":"US",
+    "sg:address":"638 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5255",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "rubber",
+        "wholesale",
+        "seal",
+        "stamp",
+        "sign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T0BDjS2gQz7eCqw1NwnZC_42.848855_-106.317235@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312316,
+    "wof:geomhash":"728b0d3380d97fc9c9db4607789e540d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874148595
+        }
+    ],
+    "wof:id":874148595,
+    "wof:lastmodified":1464312316,
+    "wof:name":"B & B Rubber Stamp Shop",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rubber",
+        "wholesale",
+        "seal",
+        "stamp",
+        "sign"
+    ]
+},
+  "bbox": [
+    -106.317235,
+    42.848855,
+    -106.317235,
+    42.848855
+],
+  "geometry": {"coordinates":[-106.317235,42.848855],"type":"Point"}
+}

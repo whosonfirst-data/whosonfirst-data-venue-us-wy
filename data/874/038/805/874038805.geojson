@@ -1,0 +1,64 @@
+{
+  "id": 874038805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.303254,42.848694,-106.303254,42.848694",
+    "geom:latitude":42.848694,
+    "geom:longitude":-106.303254,
+    "iso:country":"US",
+    "sg:address":"1605 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 6131",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lM9dwBMZnzkDAHteIiVrQ_42.848694_-106.303254@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311133,
+    "wof:geomhash":"9beb9b6440807d6e207a3832517c641c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874038805
+        }
+    ],
+    "wof:id":874038805,
+    "wof:lastmodified":1464311133,
+    "wof:name":"Swann Studios",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.303254,
+    42.848694,
+    -106.303254,
+    42.848694
+],
+  "geometry": {"coordinates":[-106.303254,42.848694],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874165019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.276487,42.851417,-106.276487,42.851417",
+    "geom:latitude":42.851417,
+    "geom:longitude":-106.276487,
+    "iso:country":"US",
+    "sg:address":"3953 Legion Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 5813",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "impaired"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BCgipFRLcONhPn0VRNHWm_42.851417_-106.276487@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312480,
+    "wof:geomhash":"e31374baed5fb482b64b2b7f8589e3e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874165019
+        }
+    ],
+    "wof:id":874165019,
+    "wof:lastmodified":1464312480,
+    "wof:name":"Precision Hearing Aid Ctr",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "impaired"
+    ]
+},
+  "bbox": [
+    -106.276487,
+    42.851417,
+    -106.276487,
+    42.851417
+],
+  "geometry": {"coordinates":[-106.276487,42.851417],"type":"Point"}
+}

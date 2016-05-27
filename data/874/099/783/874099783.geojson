@@ -1,0 +1,51 @@
+{
+  "id": 874099783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.85676,44.719498,-108.85676,44.719498",
+    "geom:latitude":44.719498,
+    "geom:longitude":-108.85676,
+    "iso:country":"US",
+    "sg:address":"680 Main St",
+    "sg:city":"Ralston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 000 1111",
+    "sg:postcode":"82440",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zlFXa9bqYYmlPHHfFh9L0_44.719498_-108.856760@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311790,
+    "wof:geomhash":"bda92207276250f31a094ed13e5a85a1",
+    "wof:hierarchy":[],
+    "wof:id":874099783,
+    "wof:lastmodified":1464311790,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.85676,
+    44.719498,
+    -108.85676,
+    44.719498
+],
+  "geometry": {"coordinates":[-108.85675999999999,44.719498],"type":"Point"}
+}

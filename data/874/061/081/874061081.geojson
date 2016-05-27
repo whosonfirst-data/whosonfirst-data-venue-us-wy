@@ -1,0 +1,66 @@
+{
+  "id": 874061081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.584514,41.310384,-105.584514,41.310384",
+    "geom:latitude":41.310384,
+    "geom:longitude":-105.584514,
+    "iso:country":"US",
+    "sg:address":"310 S 10th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2334",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MKgR9nd9O4U97pwMkrkjU_41.310384_-105.584514@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311345,
+    "wof:geomhash":"022947f48754f6cc82a15f699bcc7c20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874061081
+        }
+    ],
+    "wof:id":874061081,
+    "wof:lastmodified":1464311345,
+    "wof:name":"Chambers Property Management",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.584514,
+    41.310384,
+    -105.584514,
+    41.310384
+],
+  "geometry": {"coordinates":[-105.584514,41.310384],"type":"Point"}
+}

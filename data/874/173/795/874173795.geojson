@@ -1,0 +1,56 @@
+{
+  "id": 874173795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.11115,43.723768,-111.11115,43.723768",
+    "geom:latitude":43.723768,
+    "geom:longitude":-111.11115,
+    "iso:country":"US",
+    "sg:address":"79 N Main St",
+    "sg:city":"Driggs",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 354 6269",
+    "sg:postcode":"83422",
+    "sg:province":"WY",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cl8bdIEAneu186Mh5SngZ_43.723768_-111.111150@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312566,
+    "wof:geomhash":"5bb54dd3c85c7ad5d69345279f17fb9b",
+    "wof:hierarchy":[],
+    "wof:id":874173795,
+    "wof:lastmodified":1464312566,
+    "wof:name":"Teton Telecom",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -111.11115,
+    43.723768,
+    -111.11115,
+    43.723768
+],
+  "geometry": {"coordinates":[-111.11114999999999,43.723768],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874028537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.574935,41.306804,-105.574935,41.306804",
+    "geom:latitude":41.306804,
+    "geom:longitude":-105.574935,
+    "iso:country":"US",
+    "sg:address":"1717 E Kearney St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7751",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "fire",
+        "extinguisher",
+        "es",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65dJJHpAiDk9GiutjnJKW2_41.306804_-105.574935@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311029,
+    "wof:geomhash":"9f1b2add438658ff190b0c0882bc7390",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874028537
+        }
+    ],
+    "wof:id":874028537,
+    "wof:lastmodified":1464311029,
+    "wof:name":"Laramie Fire Extinguisher Svc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "extinguisher",
+        "es",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -105.574935,
+    41.306804,
+    -105.574935,
+    41.306804
+],
+  "geometry": {"coordinates":[-105.574935,41.306804],"type":"Point"}
+}

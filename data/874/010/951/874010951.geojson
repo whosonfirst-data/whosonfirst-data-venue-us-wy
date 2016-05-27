@@ -1,0 +1,56 @@
+{
+  "id": 874010951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.070663,44.529655,-109.070663,44.529655",
+    "geom:latitude":44.529655,
+    "geom:longitude":-109.070663,
+    "iso:country":"US",
+    "sg:address":"602 9th St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 7168",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XZ8Aoev9p0G6IdNQz39Qn_44.529655_-109.070663@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310862,
+    "wof:geomhash":"5aa87dd8e1e1a96e34cc803b0e6d1b58",
+    "wof:hierarchy":[],
+    "wof:id":874010951,
+    "wof:lastmodified":1464310862,
+    "wof:name":"C&C Cleaning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -109.070663,
+    44.529655,
+    -109.070663,
+    44.529655
+],
+  "geometry": {"coordinates":[-109.070663,44.529655],"type":"Point"}
+}

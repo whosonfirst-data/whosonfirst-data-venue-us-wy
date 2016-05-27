@@ -1,0 +1,58 @@
+{
+  "id": 874045075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.198435,42.083364,-104.198435,42.083364",
+    "geom:latitude":42.083364,
+    "geom:longitude":-104.198435,
+    "iso:country":"US",
+    "sg:address":"1102 Monroe Ave",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 5042",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44S4JPmjYB5FMP4Dk2HXK0_42.083364_-104.198435@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311195,
+    "wof:geomhash":"364a72c97d784eeb705f7d000182dbdd",
+    "wof:hierarchy":[],
+    "wof:id":874045075,
+    "wof:lastmodified":1464311195,
+    "wof:name":"Barry Jones Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -104.198435,
+    42.083364,
+    -104.198435,
+    42.083364
+],
+  "geometry": {"coordinates":[-104.198435,42.083364],"type":"Point"}
+}

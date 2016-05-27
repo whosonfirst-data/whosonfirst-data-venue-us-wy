@@ -1,0 +1,71 @@
+{
+  "id": 874022667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.299572,42.854708,-106.299572,42.854708",
+    "geom:latitude":42.854708,
+    "geom:longitude":-106.299572,
+    "iso:country":"US",
+    "sg:address":"517 N Lennox St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 5238",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38jrFr9F5HFtsYCLPObO1h_42.854708_-106.299572@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310970,
+    "wof:geomhash":"ba4af9ab7e6859fe2fe26961766f279a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874022667
+        }
+    ],
+    "wof:id":874022667,
+    "wof:lastmodified":1464310970,
+    "wof:name":"Classy Chassis Auto Shop",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -106.299572,
+    42.854708,
+    -106.299572,
+    42.854708
+],
+  "geometry": {"coordinates":[-106.299572,42.854708],"type":"Point"}
+}

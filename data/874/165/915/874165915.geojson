@@ -1,0 +1,68 @@
+{
+  "id": 874165915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.21804,41.582282,-109.21804,41.582282",
+    "geom:latitude":41.582282,
+    "geom:longitude":-109.21804,
+    "iso:country":"US",
+    "sg:address":"517 B St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 3590",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eRVOXh1CSIQ3TBSGmzwpI_41.582282_-109.218040@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312489,
+    "wof:geomhash":"deb87b08ca4950b100db43b7e6f6f850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874165915
+        }
+    ],
+    "wof:id":874165915,
+    "wof:lastmodified":1464312489,
+    "wof:name":"G Scott Nelson",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.21804,
+    41.582282,
+    -109.21804,
+    41.582282
+],
+  "geometry": {"coordinates":[-109.21804,41.582282],"type":"Point"}
+}

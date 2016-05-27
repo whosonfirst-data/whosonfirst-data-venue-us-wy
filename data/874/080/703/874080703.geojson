@@ -1,0 +1,71 @@
+{
+  "id": 874080703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593587,41.311936,-105.593587,41.311936",
+    "geom:latitude":41.311936,
+    "geom:longitude":-105.593587,
+    "iso:country":"US",
+    "sg:address":"202 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 8899",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hkCfxMmkurkr3cUPKJSvR_41.311936_-105.593587@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311559,
+    "wof:geomhash":"73bcd525c79961f671661fd0b3a94ff3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874080703
+        }
+    ],
+    "wof:id":874080703,
+    "wof:lastmodified":1464311559,
+    "wof:name":"Top Nails",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -105.593587,
+    41.311936,
+    -105.593587,
+    41.311936
+],
+  "geometry": {"coordinates":[-105.593587,41.311936],"type":"Point"}
+}

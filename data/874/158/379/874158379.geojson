@@ -1,0 +1,56 @@
+{
+  "id": 874158379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.213327,43.647389,-108.213327,43.647389",
+    "geom:latitude":43.647389,
+    "geom:longitude":-108.213327,
+    "iso:country":"US",
+    "sg:address":"620 Arapahoe St",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 2666",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u6UxWIyCQ8sjVcUU7OC5f_43.647389_-108.213327@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312411,
+    "wof:geomhash":"a22ab30c04834cfe69ef826464a3e999",
+    "wof:hierarchy":[],
+    "wof:id":874158379,
+    "wof:lastmodified":1464312411,
+    "wof:name":"Mortimore Ambulance Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -108.213327,
+    43.647389,
+    -108.213327,
+    43.647389
+],
+  "geometry": {"coordinates":[-108.21332700000001,43.647389],"type":"Point"}
+}

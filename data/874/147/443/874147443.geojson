@@ -1,0 +1,71 @@
+{
+  "id": 874147443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593636,41.310012,-105.593636,41.310012",
+    "geom:latitude":41.310012,
+    "geom:longitude":-105.593636,
+    "iso:country":"US",
+    "sg:address":"409 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2998",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x8z0BratmnDHMPl6pBQk2_41.310012_-105.593636@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312306,
+    "wof:geomhash":"b4447badb5f21ddd0b7a4eed0faeb6e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874147443
+        }
+    ],
+    "wof:id":874147443,
+    "wof:lastmodified":1464312306,
+    "wof:name":"Loyal Order Of Moose",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -105.593636,
+    41.310012,
+    -105.593636,
+    41.310012
+],
+  "geometry": {"coordinates":[-105.593636,41.310012],"type":"Point"}
+}

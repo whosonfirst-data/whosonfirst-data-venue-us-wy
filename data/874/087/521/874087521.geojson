@@ -1,0 +1,73 @@
+{
+  "id": 874087521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.313485,42.824765,-106.313485,42.824765",
+    "geom:latitude":42.824765,
+    "geom:longitude":-106.313485,
+    "iso:country":"US",
+    "sg:address":"2420 S Jefferson St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 2911",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CPnMNMZHEWd93ZL9mTsGA_42.824765_-106.313485@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311636,
+    "wof:geomhash":"809ddda134844b34f32135d811998702",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874087521
+        }
+    ],
+    "wof:id":874087521,
+    "wof:lastmodified":1464311636,
+    "wof:name":"Fiber Clean",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -106.313485,
+    42.824765,
+    -106.313485,
+    42.824765
+],
+  "geometry": {"coordinates":[-106.313485,42.824765],"type":"Point"}
+}

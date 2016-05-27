@@ -1,0 +1,60 @@
+{
+  "id": 874187125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.746562,44.758962,-108.746562,44.758962",
+    "geom:latitude":44.758962,
+    "geom:longitude":-108.746562,
+    "iso:country":"US",
+    "sg:address":"540 N Ingalls St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 3698",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repair",
+        "welding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fDg70q9YhY0lwyz1iv2Ms_44.758962_-108.746562@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312710,
+    "wof:geomhash":"c443b0cdfd16890c877ab52cabc70a5c",
+    "wof:hierarchy":[],
+    "wof:id":874187125,
+    "wof:lastmodified":1464312710,
+    "wof:name":"Severson Welding",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "welding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.746562,
+    44.758962,
+    -108.746562,
+    44.758962
+],
+  "geometry": {"coordinates":[-108.746562,44.758962],"type":"Point"}
+}

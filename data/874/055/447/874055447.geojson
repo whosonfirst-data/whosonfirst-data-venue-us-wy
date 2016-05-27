@@ -1,0 +1,71 @@
+{
+  "id": 874055447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.366179,42.822774,-106.366179,42.822774",
+    "geom:latitude":42.822774,
+    "geom:longitude":-106.366179,
+    "iso:country":"US",
+    "sg:address":"3950 Denis Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 3631",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CXVze2wMX8uS8f1dVq45O_42.822774_-106.366179@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311296,
+    "wof:geomhash":"923a7d845e582e3bc753e31f8fc71fdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874055447
+        }
+    ],
+    "wof:id":874055447,
+    "wof:lastmodified":1464311296,
+    "wof:name":"Lazer Wash",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -106.366179,
+    42.822774,
+    -106.366179,
+    42.822774
+],
+  "geometry": {"coordinates":[-106.366179,42.822774],"type":"Point"}
+}

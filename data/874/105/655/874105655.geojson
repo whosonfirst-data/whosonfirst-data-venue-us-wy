@@ -1,0 +1,69 @@
+{
+  "id": 874105655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.28647,42.855623,-106.28647,42.855623",
+    "geom:latitude":42.855623,
+    "geom:longitude":-106.28647,
+    "iso:country":"US",
+    "sg:address":"3290 E Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5361",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "driveway"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dro7amyP8xirujoJkAQoa_42.855623_-106.286470@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311864,
+    "wof:geomhash":"054001c6717e06b060b5ef15b632544d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874105655
+        }
+    ],
+    "wof:id":874105655,
+    "wof:lastmodified":1464311864,
+    "wof:name":"C & M Cement",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "driveway"
+    ]
+},
+  "bbox": [
+    -106.28647,
+    42.855623,
+    -106.28647,
+    42.855623
+],
+  "geometry": {"coordinates":[-106.28646999999999,42.855623],"type":"Point"}
+}

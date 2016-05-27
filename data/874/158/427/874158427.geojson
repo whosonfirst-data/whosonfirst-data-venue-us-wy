@@ -1,0 +1,60 @@
+{
+  "id": 874158427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.844152,41.118776,-104.844152,41.118776",
+    "geom:latitude":41.118776,
+    "geom:longitude":-104.844152,
+    "iso:country":"US",
+    "sg:address":"204 N American Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 9678",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yE1UVliA98HZuOo8ttax5_41.118776_-104.844152@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312417,
+    "wof:geomhash":"5080f6d909177939b2d86c9f777048dc",
+    "wof:hierarchy":[],
+    "wof:id":874158427,
+    "wof:lastmodified":1464312417,
+    "wof:name":"United Van Lines",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -104.844152,
+    41.118776,
+    -104.844152,
+    41.118776
+],
+  "geometry": {"coordinates":[-104.84415199999999,41.118776],"type":"Point"}
+}

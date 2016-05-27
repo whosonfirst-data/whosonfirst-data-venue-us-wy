@@ -1,0 +1,79 @@
+{
+  "id": 874002853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.620919,41.308864,-105.620919,41.308864",
+    "geom:latitude":41.308864,
+    "geom:longitude":-105.620919,
+    "iso:country":"US",
+    "sg:address":"1856 Snowy Range Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6601",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "farm",
+        "equipment",
+        "implement",
+        "parts",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cHZPVpDvKyfj3pfAqeenZ_41.308864_-105.620919@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310790,
+    "wof:geomhash":"9138fc0ddd1e8158c133773b509f5cf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874002853
+        }
+    ],
+    "wof:id":874002853,
+    "wof:lastmodified":1464310790,
+    "wof:name":"High Country Equipment Inc",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "equipment",
+        "implement",
+        "parts",
+        "sales"
+    ]
+},
+  "bbox": [
+    -105.620919,
+    41.308864,
+    -105.620919,
+    41.308864
+],
+  "geometry": {"coordinates":[-105.620919,41.308864],"type":"Point"}
+}

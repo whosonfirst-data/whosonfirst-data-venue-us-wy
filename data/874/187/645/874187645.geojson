@@ -1,0 +1,58 @@
+{
+  "id": 874187645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.111094,43.725348,-111.111094,43.725348",
+    "geom:latitude":43.725348,
+    "geom:longitude":-111.111094,
+    "iso:country":"US",
+    "sg:address":"140 N Main St",
+    "sg:city":"Driggs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 354 2562",
+    "sg:postcode":"83422",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_703dILk1erL75GEzQQq8rW_43.725348_-111.111094@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312716,
+    "wof:geomhash":"9e1e3815c21eaa1e03d53ebab79b58a7",
+    "wof:hierarchy":[],
+    "wof:id":874187645,
+    "wof:lastmodified":1464312716,
+    "wof:name":"Driggs Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.111094,
+    43.725348,
+    -111.111094,
+    43.725348
+],
+  "geometry": {"coordinates":[-111.11109399999999,43.725348],"type":"Point"}
+}

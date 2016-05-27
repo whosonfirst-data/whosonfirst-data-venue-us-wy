@@ -1,0 +1,69 @@
+{
+  "id": 874153597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.337276,42.841529,-106.337276,42.841529",
+    "geom:latitude":42.841529,
+    "geom:longitude":-106.337276,
+    "iso:country":"US",
+    "sg:address":"1030 W Collins Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 8767",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pipe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RTfzbuexc7eS5LoO4TFR9_42.841529_-106.337276@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312361,
+    "wof:geomhash":"4e8027d592c6a58079ade89fcfcaeb53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874153597
+        }
+    ],
+    "wof:id":874153597,
+    "wof:lastmodified":1464312361,
+    "wof:name":"Tin Shack",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe"
+    ]
+},
+  "bbox": [
+    -106.337276,
+    42.841529,
+    -106.337276,
+    42.841529
+],
+  "geometry": {"coordinates":[-106.337276,42.841529],"type":"Point"}
+}

@@ -1,0 +1,51 @@
+{
+  "id": 874138135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.105515,44.510671,-108.105515,44.510671",
+    "geom:latitude":44.510671,
+    "geom:longitude":-108.105515,
+    "iso:country":"US",
+    "sg:address":"2441 US Hwy 20",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 7600",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yyQqdOM2QmPjtRMpbUj4L_44.510671_-108.105515@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312219,
+    "wof:geomhash":"1d2513c5d0f9e00e221dcacd06335382",
+    "wof:hierarchy":[],
+    "wof:id":874138135,
+    "wof:lastmodified":1464312219,
+    "wof:name":"South Big Horn County Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.105515,
+    44.510671,
+    -108.105515,
+    44.510671
+],
+  "geometry": {"coordinates":[-108.105515,44.510671],"type":"Point"}
+}

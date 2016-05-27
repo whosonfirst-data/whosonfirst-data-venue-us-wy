@@ -1,0 +1,64 @@
+{
+  "id": 874092911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343771,42.809731,-106.343771,42.809731",
+    "geom:latitude":42.809731,
+    "geom:longitude":-106.343771,
+    "iso:country":"US",
+    "sg:address":"4080 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 3906",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Yt1Dfme8V6TuBUtKWjgTt_42.809731_-106.343771@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311694,
+    "wof:geomhash":"10cfbb178686df2cf26a2b72e5b43bdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874092911
+        }
+    ],
+    "wof:id":874092911,
+    "wof:lastmodified":1464311694,
+    "wof:name":"A Lil Pizazz Dance Revolution",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.343771,
+    42.809731,
+    -106.343771,
+    42.809731
+],
+  "geometry": {"coordinates":[-106.343771,42.809731],"type":"Point"}
+}

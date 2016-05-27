@@ -1,0 +1,56 @@
+{
+  "id": 874064611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.795912,41.127887,-104.795912,41.127887",
+    "geom:latitude":41.127887,
+    "geom:longitude":-104.795912,
+    "iso:country":"US",
+    "sg:address":"1120 E 5th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 1183",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72426yxey8BnLNVOquPxK2_41.127887_-104.795912@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311376,
+    "wof:geomhash":"0ca6b93c98777ec85249a3df630dd6bf",
+    "wof:hierarchy":[],
+    "wof:id":874064611,
+    "wof:lastmodified":1464311376,
+    "wof:name":"Nancy's Cleaning Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -104.795912,
+    41.127887,
+    -104.795912,
+    41.127887
+],
+  "geometry": {"coordinates":[-104.795912,41.127887],"type":"Point"}
+}

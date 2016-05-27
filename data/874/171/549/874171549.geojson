@@ -1,0 +1,56 @@
+{
+  "id": 874171549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.066944,41.181806,-104.066944,41.181806",
+    "geom:latitude":41.181806,
+    "geom:longitude":-104.066944,
+    "iso:country":"US",
+    "sg:address":"310 Elm St",
+    "sg:city":"Pine Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 245 3219",
+    "sg:postcode":"82082",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d3hcwsKb4PfDOZ3Dqf7G9_41.181806_-104.066944@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312545,
+    "wof:geomhash":"1946583632e89f54a60e8ba2a617cb57",
+    "wof:hierarchy":[],
+    "wof:id":874171549,
+    "wof:lastmodified":1464312545,
+    "wof:name":"Family Dentistry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -104.066944,
+    41.181806,
+    -104.066944,
+    41.181806
+],
+  "geometry": {"coordinates":[-104.06694400000001,41.181806],"type":"Point"}
+}

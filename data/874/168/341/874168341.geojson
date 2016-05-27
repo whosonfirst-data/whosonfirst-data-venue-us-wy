@@ -1,0 +1,60 @@
+{
+  "id": 874168341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.95447,44.80251,-106.95447,44.80251",
+    "geom:latitude":44.80251,
+    "geom:longitude":-106.95447,
+    "iso:country":"US",
+    "sg:address":"400 N Gould St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 6419",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2R9ycR9sALbYKxd2shANYA_44.802510_-106.954470@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312510,
+    "wof:geomhash":"6852674fdf94672be3cdb0707ec55c95",
+    "wof:hierarchy":[],
+    "wof:id":874168341,
+    "wof:lastmodified":1464312510,
+    "wof:name":"Hammer Chevrolet Collision Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -106.95447,
+    44.80251,
+    -106.95447,
+    44.80251
+],
+  "geometry": {"coordinates":[-106.95447,44.80251],"type":"Point"}
+}

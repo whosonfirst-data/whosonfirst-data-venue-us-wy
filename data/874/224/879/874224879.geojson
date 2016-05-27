@@ -1,0 +1,71 @@
+{
+  "id": 874224879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.29569,42.84624,-106.29569,42.84624",
+    "geom:latitude":42.84624,
+    "geom:longitude":-106.29569,
+    "iso:country":"US",
+    "sg:address":"2433 E 4th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 5331",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OcKDLFx2ilumKzWIgzsNw_42.846240_-106.295690@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313110,
+    "wof:geomhash":"75e979c8e4a9e12dca796ada7f3c4343",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874224879
+        }
+    ],
+    "wof:id":874224879,
+    "wof:lastmodified":1464313110,
+    "wof:name":"Kf Painting",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.29569,
+    42.84624,
+    -106.29569,
+    42.84624
+],
+  "geometry": {"coordinates":[-106.29568999999999,42.84624],"type":"Point"}
+}

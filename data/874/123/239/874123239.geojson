@@ -1,0 +1,58 @@
+{
+  "id": 874123239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.401751,43.035283,-108.401751,43.035283",
+    "geom:latitude":43.035283,
+    "geom:longitude":-108.401751,
+    "iso:country":"US",
+    "sg:address":"815 Liberty Dr",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 8130",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "home",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Mv8Q7squflksQiqmeWc7u_43.035283_-108.401751@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312070,
+    "wof:geomhash":"3d7e486c5d503b1b481f19b39bf57153",
+    "wof:hierarchy":[],
+    "wof:id":874123239,
+    "wof:lastmodified":1464312070,
+    "wof:name":"Riverton Group Home",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "group"
+    ]
+},
+  "bbox": [
+    -108.401751,
+    43.035283,
+    -108.401751,
+    43.035283
+],
+  "geometry": {"coordinates":[-108.401751,43.035283],"type":"Point"}
+}

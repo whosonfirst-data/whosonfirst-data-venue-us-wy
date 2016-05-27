@@ -1,0 +1,69 @@
+{
+  "id": 874139277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.368088,42.810868,-106.368088,42.810868",
+    "geom:latitude":42.810868,
+    "geom:longitude":-106.368088,
+    "iso:country":"US",
+    "sg:address":"3503 Aspen Pl",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 0590",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JCpBgxuiTskTmMhARILus_42.810868_-106.368088@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312229,
+    "wof:geomhash":"367fe69f48794db8a3916f1495471ce9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874139277
+        }
+    ],
+    "wof:id":874139277,
+    "wof:lastmodified":1464312229,
+    "wof:name":"Vernon & Cindy Brockman",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -106.368088,
+    42.810868,
+    -106.368088,
+    42.810868
+],
+  "geometry": {"coordinates":[-106.368088,42.810868],"type":"Point"}
+}

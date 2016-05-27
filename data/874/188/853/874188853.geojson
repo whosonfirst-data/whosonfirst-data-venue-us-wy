@@ -1,0 +1,71 @@
+{
+  "id": 874188853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.584941,41.304692,-105.584941,41.304692",
+    "geom:latitude":41.304692,
+    "geom:longitude":-105.584941,
+    "iso:country":"US",
+    "sg:address":"915 S 10th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7608",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QlgAWZ33eE3pQk2XKLzPV_41.304692_-105.584941@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312729,
+    "wof:geomhash":"57252b8ca19201e6dbe85f8dfe7b9ba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874188853
+        }
+    ],
+    "wof:id":874188853,
+    "wof:lastmodified":1464312729,
+    "wof:name":"Chemical & Environmental Cons",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -105.584941,
+    41.304692,
+    -105.584941,
+    41.304692
+],
+  "geometry": {"coordinates":[-105.584941,41.304692],"type":"Point"}
+}

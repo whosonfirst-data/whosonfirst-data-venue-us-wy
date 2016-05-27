@@ -1,0 +1,64 @@
+{
+  "id": 874193627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.356164,42.828149,-106.356164,42.828149",
+    "geom:latitude":42.828149,
+    "geom:longitude":-106.356164,
+    "iso:country":"US",
+    "sg:address":"2925 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 9428",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31H2tTy5DlNDDW1xIoGSxM_42.828149_-106.356164@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312776,
+    "wof:geomhash":"d5abb5fd62a8b42e530d398ffc420536",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874193627
+        }
+    ],
+    "wof:id":874193627,
+    "wof:lastmodified":1464312776,
+    "wof:name":"Cycle Zone",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.356164,
+    42.828149,
+    -106.356164,
+    42.828149
+],
+  "geometry": {"coordinates":[-106.35616400000001,42.828149],"type":"Point"}
+}

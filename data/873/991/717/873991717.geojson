@@ -1,0 +1,66 @@
+{
+  "id": 873991717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.578866,41.314948,-105.578866,41.314948",
+    "geom:latitude":41.314948,
+    "geom:longitude":-105.578866,
+    "iso:country":"US",
+    "sg:address":"1315 E Lewis St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 9243",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NeU16uBJS9tVzeEMRgcv7_41.314948_-105.578866@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310702,
+    "wof:geomhash":"87c5402fdaad70ae1b1842c018d96fc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873991717
+        }
+    ],
+    "wof:id":873991717,
+    "wof:lastmodified":1464310702,
+    "wof:name":"Wyoming Council For Humanity",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.578866,
+    41.314948,
+    -105.578866,
+    41.314948
+],
+  "geometry": {"coordinates":[-105.578866,41.314948],"type":"Point"}
+}

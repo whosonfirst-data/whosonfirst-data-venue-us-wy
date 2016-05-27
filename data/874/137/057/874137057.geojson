@@ -1,0 +1,69 @@
+{
+  "id": 874137057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.306292,42.828403,-106.306292,42.828403",
+    "geom:latitude":42.828403,
+    "geom:longitude":-106.306292,
+    "iso:country":"US",
+    "sg:address":"1925 S Lennox Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 2039",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "personal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zn6ZxfgRRp5zEt9YGSbnk_42.828403_-106.306292@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312209,
+    "wof:geomhash":"de0b87cf6a7ab13869463803af50da35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874137057
+        }
+    ],
+    "wof:id":874137057,
+    "wof:lastmodified":1464312209,
+    "wof:name":"Herbalife Dist",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal"
+    ]
+},
+  "bbox": [
+    -106.306292,
+    42.828403,
+    -106.306292,
+    42.828403
+],
+  "geometry": {"coordinates":[-106.306292,42.828403],"type":"Point"}
+}

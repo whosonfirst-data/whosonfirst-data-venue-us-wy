@@ -1,0 +1,76 @@
+{
+  "id": 874101687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.596104,41.300733,-105.596104,41.300733",
+    "geom:latitude":41.300733,
+    "geom:longitude":-105.596104,
+    "iso:country":"US",
+    "sg:address":"1412 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7644",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "liquefied",
+        "gas",
+        "petroleum"
+    ],
+    "sg:website":"www.suburbanpropane.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YsLIpBHkv3k9VxtWHeMWQ_41.300733_-105.596104@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311814,
+    "wof:geomhash":"c780fc77ba84c7821c10f0975ab9d5b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874101687
+        }
+    ],
+    "wof:id":874101687,
+    "wof:lastmodified":1464311814,
+    "wof:name":"Suburban Propane",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquefied",
+        "gas",
+        "petroleum"
+    ]
+},
+  "bbox": [
+    -105.596104,
+    41.300733,
+    -105.596104,
+    41.300733
+],
+  "geometry": {"coordinates":[-105.596104,41.300733],"type":"Point"}
+}

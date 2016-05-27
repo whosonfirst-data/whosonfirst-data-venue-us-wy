@@ -1,0 +1,71 @@
+{
+  "id": 874164611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.582863,41.326242,-105.582863,41.326242",
+    "geom:latitude":41.326242,
+    "geom:longitude":-105.582863,
+    "iso:country":"US",
+    "sg:address":"1007 E Curtis St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 5959",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uIJTVFyc8hTWtA4Ndncyk_41.326242_-105.582863@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312475,
+    "wof:geomhash":"527161c91a0b46f041a3215b8f9deca4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874164611
+        }
+    ],
+    "wof:id":874164611,
+    "wof:lastmodified":1464312475,
+    "wof:name":"Lord Consulting LLC",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -105.582863,
+    41.326242,
+    -105.582863,
+    41.326242
+],
+  "geometry": {"coordinates":[-105.582863,41.326242],"type":"Point"}
+}

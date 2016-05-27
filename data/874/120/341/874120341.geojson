@@ -1,0 +1,61 @@
+{
+  "id": 874120341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.77941,41.118553,-104.77941,41.118553",
+    "geom:latitude":41.118553,
+    "geom:longitude":-104.77941,
+    "iso:country":"US",
+    "sg:address":"2218 Persons Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 6122",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YUtm8dCqn0tdmWfCkhUCf_41.118553_-104.779410@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312044,
+    "wof:geomhash":"1fa28c3ce000249fa91a96261ac3fbc1",
+    "wof:hierarchy":[],
+    "wof:id":874120341,
+    "wof:lastmodified":1464312044,
+    "wof:name":"Eggleston Backhoe & Septic Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -104.77941,
+    41.118553,
+    -104.77941,
+    41.118553
+],
+  "geometry": {"coordinates":[-104.77941,41.118553],"type":"Point"}
+}

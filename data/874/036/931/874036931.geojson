@@ -1,0 +1,64 @@
+{
+  "id": 874036931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.29242,42.847347,-106.29242,42.847347",
+    "geom:latitude":42.847347,
+    "geom:longitude":-106.29242,
+    "iso:country":"US",
+    "sg:address":"2557 E 3rd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1073",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sF4uSRakv9kjjE32CrXXg_42.847347_-106.292420@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311115,
+    "wof:geomhash":"c0244e2d5e53067a7dc75468daf5f123",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874036931
+        }
+    ],
+    "wof:id":874036931,
+    "wof:lastmodified":1464311115,
+    "wof:name":"Jim Stengel Agency",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.29242,
+    42.847347,
+    -106.29242,
+    42.847347
+],
+  "geometry": {"coordinates":[-106.29242000000001,42.847347],"type":"Point"}
+}

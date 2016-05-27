@@ -1,0 +1,71 @@
+{
+  "id": 874073141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.289178,42.83616,-106.289178,42.83616",
+    "geom:latitude":42.83616,
+    "geom:longitude":-106.289178,
+    "iso:country":"US",
+    "sg:address":"1455 Bon Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 6566",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02fa9kj1wPZfI7CoGyzpDT_42.836160_-106.289178@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311480,
+    "wof:geomhash":"0fd73412679cfd62ee0c89f4d4631d95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874073141
+        }
+    ],
+    "wof:id":874073141,
+    "wof:lastmodified":1464311480,
+    "wof:name":"Mad Bos LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -106.289178,
+    42.83616,
+    -106.289178,
+    42.83616
+],
+  "geometry": {"coordinates":[-106.28917800000001,42.83616],"type":"Point"}
+}

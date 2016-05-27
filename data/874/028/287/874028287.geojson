@@ -1,0 +1,75 @@
+{
+  "id": 874028287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.546522,41.306247,-105.546522,41.306247",
+    "geom:latitude":41.306247,
+    "geom:longitude":-105.546522,
+    "iso:country":"US",
+    "sg:address":"3810 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4884",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bBU8rmngAq7Dpl9wVeVPK_41.306247_-105.546522@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311027,
+    "wof:geomhash":"e62ab3f23f4828a1001c256de20ca55c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874028287
+        }
+    ],
+    "wof:id":874028287,
+    "wof:lastmodified":1464311027,
+    "wof:name":"Laramie Clinic PC",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -105.546522,
+    41.306247,
+    -105.546522,
+    41.306247
+],
+  "geometry": {"coordinates":[-105.546522,41.306247],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874038167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.269634,41.573558,-109.269634,41.573558",
+    "geom:latitude":41.573558,
+    "geom:longitude":-109.269634,
+    "iso:country":"US",
+    "sg:address":"1695 Sunset Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 3278",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HOI4v0LJpZQ3lhuJ8nfbo_41.573558_-109.269634@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311127,
+    "wof:geomhash":"a4c19a948f90a78c4017f6f455758a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874038167
+        }
+    ],
+    "wof:id":874038167,
+    "wof:lastmodified":1464311127,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -109.269634,
+    41.573558,
+    -109.269634,
+    41.573558
+],
+  "geometry": {"coordinates":[-109.269634,41.573558],"type":"Point"}
+}

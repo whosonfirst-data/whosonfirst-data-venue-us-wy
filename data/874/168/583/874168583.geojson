@@ -1,0 +1,66 @@
+{
+  "id": 874168583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.632802,41.317018,-105.632802,41.317018",
+    "geom:latitude":41.317018,
+    "geom:longitude":-105.632802,
+    "iso:country":"US",
+    "sg:address":"3071 Snowy Range Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5525",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LcWBxcYzR3JD7cCScbNZf_41.317018_-105.632802@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312514,
+    "wof:geomhash":"7569c873f0054cdf0591910364b3a89c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874168583
+        }
+    ],
+    "wof:id":874168583,
+    "wof:lastmodified":1464312514,
+    "wof:name":"Hiatts Antique Tractors",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.632802,
+    41.317018,
+    -105.632802,
+    41.317018
+],
+  "geometry": {"coordinates":[-105.632802,41.317018],"type":"Point"}
+}

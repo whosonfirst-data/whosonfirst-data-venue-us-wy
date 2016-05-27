@@ -1,0 +1,69 @@
+{
+  "id": 874032933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.316734,42.848846,-106.316734,42.848846",
+    "geom:latitude":42.848846,
+    "geom:longitude":-106.316734,
+    "iso:country":"US",
+    "sg:address":"604 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1180",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63gWB1s4vG4K2LGevoWyCD_42.848846_-106.316734@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311075,
+    "wof:geomhash":"964291237489410ec3141b5369db29d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874032933
+        }
+    ],
+    "wof:id":874032933,
+    "wof:lastmodified":1464311075,
+    "wof:name":"Casper Cake & Donut",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -106.316734,
+    42.848846,
+    -106.316734,
+    42.848846
+],
+  "geometry": {"coordinates":[-106.316734,42.848846],"type":"Point"}
+}

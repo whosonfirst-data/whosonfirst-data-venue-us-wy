@@ -1,0 +1,56 @@
+{
+  "id": 874020401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955647,44.803697,-106.955647,44.803697",
+    "geom:latitude":44.803697,
+    "geom:longitude":-106.955647,
+    "iso:country":"US",
+    "sg:address":"511 N Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 2677",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62M34MuQgIlhPih0chhvEV_44.803697_-106.955647@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310952,
+    "wof:geomhash":"098d2cfc0d707c1d8f9d79508bd40b4a",
+    "wof:hierarchy":[],
+    "wof:id":874020401,
+    "wof:lastmodified":1464310952,
+    "wof:name":"City Liquor Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -106.955647,
+    44.803697,
+    -106.955647,
+    44.803697
+],
+  "geometry": {"coordinates":[-106.955647,44.803697],"type":"Point"}
+}

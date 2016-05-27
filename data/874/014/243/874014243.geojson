@@ -1,0 +1,58 @@
+{
+  "id": 874014243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.75979,43.479521,-110.75979,43.479521",
+    "geom:latitude":43.479521,
+    "geom:longitude":-110.75979,
+    "iso:country":"US",
+    "sg:address":"160 E Broadway",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 7137",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EcJDuGmFLisBeHOZjKZN6_43.479521_-110.759790@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310885,
+    "wof:geomhash":"0b2b42a3d377642ea318bd1156ad7ca6",
+    "wof:hierarchy":[],
+    "wof:id":874014243,
+    "wof:lastmodified":1464310885,
+    "wof:name":"Jim & Greg Locksmiths",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -110.75979,
+    43.479521,
+    -110.75979,
+    43.479521
+],
+  "geometry": {"coordinates":[-110.75979,43.479521],"type":"Point"}
+}

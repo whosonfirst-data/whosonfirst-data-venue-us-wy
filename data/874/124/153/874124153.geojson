@@ -1,0 +1,72 @@
+{
+  "id": 874124153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.409476,42.86576,-106.409476,42.86576",
+    "geom:latitude":42.86576,
+    "geom:longitude":-106.409476,
+    "iso:country":"US",
+    "sg:address":"5675 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 7257",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "sg:website":"www.midf.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BKc0gXJXv3pWsjs4kQVTK_42.865760_-106.409476@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312078,
+    "wof:geomhash":"1730f50f352ca113e6e94c49d1b80405",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874124153
+        }
+    ],
+    "wof:id":874124153,
+    "wof:lastmodified":1464312078,
+    "wof:name":"M-I Swaco",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.409476,
+    42.86576,
+    -106.409476,
+    42.86576
+],
+  "geometry": {"coordinates":[-106.409476,42.86576],"type":"Point"}
+}

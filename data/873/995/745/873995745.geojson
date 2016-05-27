@@ -1,0 +1,71 @@
+{
+  "id": 873995745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.297297,42.870166,-106.297297,42.870166",
+    "geom:latitude":42.870166,
+    "geom:longitude":-106.297297,
+    "iso:country":"US",
+    "sg:address":"1688 Bryan Stock Trl",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 5833",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eL5sJ9agRvPIqWnF7zTRX_42.870166_-106.297297@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310730,
+    "wof:geomhash":"0a9851979d56a97ae9941d7f3e3fd3e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873995745
+        }
+    ],
+    "wof:id":873995745,
+    "wof:lastmodified":1464310730,
+    "wof:name":"Nick's Auto Salvage Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -106.297297,
+    42.870166,
+    -106.297297,
+    42.870166
+],
+  "geometry": {"coordinates":[-106.297297,42.870166],"type":"Point"}
+}

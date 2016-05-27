@@ -1,0 +1,73 @@
+{
+  "id": 874218881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.345182,42.834208,-106.345182,42.834208",
+    "geom:latitude":42.834208,
+    "geom:longitude":-106.345182,
+    "iso:country":"US",
+    "sg:address":"1742 Westridge Cir",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0575",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trust",
+        "investment",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AipelbGiBmrchjA2vcyzB_42.834208_-106.345182@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313042,
+    "wof:geomhash":"c990ad1533beb10607103584cfb7d217",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874218881
+        }
+    ],
+    "wof:id":874218881,
+    "wof:lastmodified":1464313042,
+    "wof:name":"Belz Family Ltd Partnership",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trust",
+        "investment",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -106.345182,
+    42.834208,
+    -106.345182,
+    42.834208
+],
+  "geometry": {"coordinates":[-106.34518199999999,42.834208],"type":"Point"}
+}

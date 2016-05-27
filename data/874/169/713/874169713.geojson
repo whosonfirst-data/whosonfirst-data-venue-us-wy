@@ -1,0 +1,73 @@
+{
+  "id": 874169713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592461,41.320677,-105.592461,41.320677",
+    "geom:latitude":41.320677,
+    "geom:longitude":-105.592461,
+    "iso:country":"US",
+    "sg:address":"969 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 5037",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "new",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4izv0eRJzvARop4RxBM0Aq_41.320677_-105.592461@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312524,
+    "wof:geomhash":"4b0be3834b6dd9765601a154d459f808",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874169713
+        }
+    ],
+    "wof:id":874169713,
+    "wof:lastmodified":1464312524,
+    "wof:name":"Kotby Motors",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "used"
+    ]
+},
+  "bbox": [
+    -105.592461,
+    41.320677,
+    -105.592461,
+    41.320677
+],
+  "geometry": {"coordinates":[-105.592461,41.320677],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 874229057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.09428,44.515825,-109.09428,44.515825",
+    "geom:latitude":44.515825,
+    "geom:longitude":-109.09428,
+    "iso:country":"US",
+    "sg:address":"736 Yellowstone Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cody/67238-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 7819",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6N61W1vubXK1XipU7mvOdJ_44.515825_-109.094280@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313151,
+    "wof:geomhash":"1fe82a8eb78d888532b60130d1c37507",
+    "wof:hierarchy":[],
+    "wof:id":874229057,
+    "wof:lastmodified":1464313151,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -109.09428,
+    44.515825,
+    -109.09428,
+    44.515825
+],
+  "geometry": {"coordinates":[-109.09428,44.515825],"type":"Point"}
+}

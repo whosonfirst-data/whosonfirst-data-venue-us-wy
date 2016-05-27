@@ -1,0 +1,56 @@
+{
+  "id": 874009473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.802358,41.081895,-104.802358,41.081895",
+    "geom:latitude":41.081895,
+    "geom:longitude":-104.802358,
+    "iso:country":"US",
+    "sg:address":"211 S Fork Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 4556",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PCsBRNYELG1MOc4IL5yjI_41.081895_-104.802358@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310852,
+    "wof:geomhash":"8c69812fa02553a0fdfc70122e4d7b6c",
+    "wof:hierarchy":[],
+    "wof:id":874009473,
+    "wof:lastmodified":1464310852,
+    "wof:name":"High Country Pumping",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -104.802358,
+    41.081895,
+    -104.802358,
+    41.081895
+],
+  "geometry": {"coordinates":[-104.802358,41.081895],"type":"Point"}
+}

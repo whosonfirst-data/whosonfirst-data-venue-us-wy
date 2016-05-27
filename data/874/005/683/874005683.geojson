@@ -1,0 +1,71 @@
+{
+  "id": 874005683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.62234,41.297846,-105.62234,41.297846",
+    "geom:latitude":41.297846,
+    "geom:longitude":-105.62234,
+    "iso:country":"US",
+    "sg:address":"1880 Riverside Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3684",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MAFU9qVaGQcZ0ge9IBIoR_41.297846_-105.622340@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310822,
+    "wof:geomhash":"32494652f2b08ec355215ab6457bb01b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874005683
+        }
+    ],
+    "wof:id":874005683,
+    "wof:lastmodified":1464310822,
+    "wof:name":"Peggys Beauty Shop",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -105.62234,
+    41.297846,
+    -105.62234,
+    41.297846
+],
+  "geometry": {"coordinates":[-105.62233999999999,41.297846],"type":"Point"}
+}

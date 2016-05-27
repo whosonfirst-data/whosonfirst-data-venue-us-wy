@@ -1,0 +1,64 @@
+{
+  "id": 874221839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.450231,42.862134,-106.450231,42.862134",
+    "geom:latitude":42.862134,
+    "geom:longitude":-106.450231,
+    "iso:country":"US",
+    "sg:address":"1249 N Lakeview Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 8179",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fBehveZrmqZ5WvCQZO2W9_42.862134_-106.450231@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313082,
+    "wof:geomhash":"183ee7dae9be2ba2ba5c1c1f4fe937ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874221839
+        }
+    ],
+    "wof:id":874221839,
+    "wof:lastmodified":1464313082,
+    "wof:name":"High Country Account",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.450231,
+    42.862134,
+    -106.450231,
+    42.862134
+],
+  "geometry": {"coordinates":[-106.450231,42.862134],"type":"Point"}
+}

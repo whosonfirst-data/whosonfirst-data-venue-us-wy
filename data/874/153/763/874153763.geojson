@@ -1,0 +1,75 @@
+{
+  "id": 874153763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.572394,41.325738,-105.572394,41.325738",
+    "geom:latitude":41.325738,
+    "geom:longitude":-105.572394,
+    "iso:country":"US",
+    "sg:address":"1838 E Curtis St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 0047",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t1CTRRTrFRFcXAaSyFKnc_41.325738_-105.572394@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312363,
+    "wof:geomhash":"9d3d08958b9fd28496f15b4240a5a8d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874153763
+        }
+    ],
+    "wof:id":874153763,
+    "wof:lastmodified":1464312363,
+    "wof:name":"Fox Enterprises",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -105.572394,
+    41.325738,
+    -105.572394,
+    41.325738
+],
+  "geometry": {"coordinates":[-105.572394,41.325738],"type":"Point"}
+}

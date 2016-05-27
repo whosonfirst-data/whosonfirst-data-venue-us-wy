@@ -1,0 +1,58 @@
+{
+  "id": 874083701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.795468,43.460393,-110.795468,43.460393",
+    "geom:latitude":43.460393,
+    "geom:longitude":-110.795468,
+    "iso:country":"US",
+    "sg:address":"1565 W Berger Ln",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 5242",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OxpWGbBWvl59axF6hLw7o_43.460393_-110.795468@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311596,
+    "wof:geomhash":"a2e66657706237f04836b27ca78ecfbe",
+    "wof:hierarchy":[],
+    "wof:id":874083701,
+    "wof:lastmodified":1464311596,
+    "wof:name":"J-B Mechanical",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -110.795468,
+    43.460393,
+    -110.795468,
+    43.460393
+],
+  "geometry": {"coordinates":[-110.795468,43.460393],"type":"Point"}
+}

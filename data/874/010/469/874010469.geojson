@@ -1,0 +1,58 @@
+{
+  "id": 874010469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.417468,43.033583,-108.417468,43.033583",
+    "geom:latitude":43.033583,
+    "geom:longitude":-108.417468,
+    "iso:country":"US",
+    "sg:address":"2001 W Sunset Dr",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 4113",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PIC6e4s83608B9cYQbRw6_43.033583_-108.417468@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310859,
+    "wof:geomhash":"12314fa5cdca711fbbddad33e3a5ab36",
+    "wof:hierarchy":[],
+    "wof:id":874010469,
+    "wof:lastmodified":1464310859,
+    "wof:name":"KVOW Broadcasting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -108.417468,
+    43.033583,
+    -108.417468,
+    43.033583
+],
+  "geometry": {"coordinates":[-108.417468,43.033583],"type":"Point"}
+}

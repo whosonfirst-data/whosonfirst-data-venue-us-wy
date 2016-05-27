@@ -1,0 +1,56 @@
+{
+  "id": 874220891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.18172,42.065815,-104.18172,42.065815",
+    "geom:latitude":42.065815,
+    "geom:longitude":-104.18172,
+    "iso:country":"US",
+    "sg:address":"2120 E B St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 4026",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uLh5S1jjbDnRpgaHfag12_42.065815_-104.181720@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313073,
+    "wof:geomhash":"31389fd177e800968f2511956c3c44b6",
+    "wof:hierarchy":[],
+    "wof:id":874220891,
+    "wof:lastmodified":1464313073,
+    "wof:name":"Sheriff Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -104.18172,
+    42.065815,
+    -104.18172,
+    42.065815
+],
+  "geometry": {"coordinates":[-104.18172,42.065815],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874022863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.53948,41.794419,-110.53948,41.794419",
+    "geom:latitude":41.794419,
+    "geom:longitude":-110.53948,
+    "iso:country":"US",
+    "sg:address":"700 Cedar Ave",
+    "sg:city":"Kemmerer",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 877 2261",
+    "sg:postcode":"83101",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZoAB3yDNnv0dXJ1upGyn9_41.794419_-110.539480@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310972,
+    "wof:geomhash":"85f9d2b939b02e45577fef171b024d52",
+    "wof:hierarchy":[],
+    "wof:id":874022863,
+    "wof:lastmodified":1464310972,
+    "wof:name":"Kemmerer Diamondville Water",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -110.53948,
+    41.794419,
+    -110.53948,
+    41.794419
+],
+  "geometry": {"coordinates":[-110.53948,41.794419],"type":"Point"}
+}

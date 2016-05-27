@@ -1,0 +1,51 @@
+{
+  "id": 874132125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.399662,44.836357,-108.399662,44.836357",
+    "geom:latitude":44.836357,
+    "geom:longitude":-108.399662,
+    "iso:country":"US",
+    "sg:address":"203 Park Ave",
+    "sg:city":"Lovell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 548 7020",
+    "sg:postcode":"82431",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25AwGYP0UNLfsLevRhdYHB_44.836357_-108.399662@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312160,
+    "wof:geomhash":"1400e0d40c63d01dcdde1c20af3d8e71",
+    "wof:hierarchy":[],
+    "wof:id":874132125,
+    "wof:lastmodified":1464312160,
+    "wof:name":"Lovell Chiropractor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.399662,
+    44.836357,
+    -108.399662,
+    44.836357
+],
+  "geometry": {"coordinates":[-108.39966200000001,44.836357],"type":"Point"}
+}

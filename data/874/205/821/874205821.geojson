@@ -1,0 +1,64 @@
+{
+  "id": 874205821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.30877,42.837328,-106.30877,42.837328",
+    "geom:latitude":42.837328,
+    "geom:longitude":-106.30877,
+    "iso:country":"US",
+    "sg:address":"1220 S Melrose St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 9673",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P7bHXMNZ8idxvpT14uc5v_42.837328_-106.308770@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312902,
+    "wof:geomhash":"80fa0394bb5b2297b676cc2a860b1ede",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874205821
+        }
+    ],
+    "wof:id":874205821,
+    "wof:lastmodified":1464312902,
+    "wof:name":"Word Christian Fellowship",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.30877,
+    42.837328,
+    -106.30877,
+    42.837328
+],
+  "geometry": {"coordinates":[-106.30877,42.837328],"type":"Point"}
+}

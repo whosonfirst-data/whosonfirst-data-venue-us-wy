@@ -1,0 +1,73 @@
+{
+  "id": 874154017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.321789,42.845579,-106.321789,42.845579",
+    "geom:latitude":42.845579,
+    "geom:longitude":-106.321789,
+    "iso:country":"US",
+    "sg:address":"315 E 5th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2242",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Y0vTrzOXVCRLriXhG00UA_42.845579_-106.321789@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312367,
+    "wof:geomhash":"52f8b9066db6de9eb5ec6e75a59bfb71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874154017
+        }
+    ],
+    "wof:id":874154017,
+    "wof:lastmodified":1464312367,
+    "wof:name":"Advanced Digital Technologies",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ]
+},
+  "bbox": [
+    -106.321789,
+    42.845579,
+    -106.321789,
+    42.845579
+],
+  "geometry": {"coordinates":[-106.321789,42.845579],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874091139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.85207,44.673303,-103.85207,44.673303",
+    "geom:latitude":44.673303,
+    "geom:longitude":-103.85207,
+    "iso:country":"US",
+    "sg:address":"521 6th Ave",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 2338",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qaLNZG0jf1unoRGOnQMwO_44.673303_-103.852070@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311677,
+    "wof:geomhash":"03a65f95dc20277e0288068953bf155a",
+    "wof:hierarchy":[],
+    "wof:id":874091139,
+    "wof:lastmodified":1464311677,
+    "wof:name":"Auto Pros",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -103.85207,
+    44.673303,
+    -103.85207,
+    44.673303
+],
+  "geometry": {"coordinates":[-103.85207,44.673303],"type":"Point"}
+}

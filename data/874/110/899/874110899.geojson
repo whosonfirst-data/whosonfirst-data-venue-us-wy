@@ -1,0 +1,58 @@
+{
+  "id": 874110899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.863664,42.866487,-109.863664,42.866487",
+    "geom:latitude":42.866487,
+    "geom:longitude":-109.863664,
+    "iso:country":"US",
+    "sg:address":"14 S Franklin Ave",
+    "sg:city":"Pinedale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 367 2506",
+    "sg:postcode":"82941",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CNcRYlIxMfg1Z00PM2eEl_42.866487_-109.863664@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311938,
+    "wof:geomhash":"df17339a0df4e865297ef403add50b3b",
+    "wof:hierarchy":[],
+    "wof:id":874110899,
+    "wof:lastmodified":1464311938,
+    "wof:name":"Walt's Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.863664,
+    42.866487,
+    -109.863664,
+    42.866487
+],
+  "geometry": {"coordinates":[-109.863664,42.866487],"type":"Point"}
+}

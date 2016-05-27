@@ -1,0 +1,59 @@
+{
+  "id": 874228215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.805107,41.136534,-104.805107,41.136534",
+    "geom:latitude":41.136534,
+    "geom:longitude":-104.805107,
+    "iso:country":"US",
+    "sg:address":"905 E Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/82526-blackjack-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 6262",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XtgsR9ofG3ITrXDNOD2D4_41.136534_-104.805107@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313143,
+    "wof:geomhash":"d0fa0dfc54c0154962819d5d38d366d9",
+    "wof:hierarchy":[],
+    "wof:id":874228215,
+    "wof:lastmodified":1464313143,
+    "wof:name":"Blackjack Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -104.805107,
+    41.136534,
+    -104.805107,
+    41.136534
+],
+  "geometry": {"coordinates":[-104.80510700000001,41.136534],"type":"Point"}
+}

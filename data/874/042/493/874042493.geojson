@@ -1,0 +1,51 @@
+{
+  "id": 874042493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.818274,41.145939,-104.818274,41.145939",
+    "geom:latitude":41.145939,
+    "geom:longitude":-104.818274,
+    "iso:country":"US",
+    "sg:address":"2809 Evans Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 0795",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VkeATjFg9EnKjkGyepM5Z_41.145939_-104.818274@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311170,
+    "wof:geomhash":"651ae6a7702e9af9cbb50daaee0975b5",
+    "wof:hierarchy":[],
+    "wof:id":874042493,
+    "wof:lastmodified":1464311170,
+    "wof:name":"Chiropractic Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.818274,
+    41.145939,
+    -104.818274,
+    41.145939
+],
+  "geometry": {"coordinates":[-104.818274,41.145939],"type":"Point"}
+}

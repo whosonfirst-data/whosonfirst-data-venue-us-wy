@@ -1,0 +1,58 @@
+{
+  "id": 874197619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.520706,44.291908,-105.520706,44.291908",
+    "geom:latitude":44.291908,
+    "geom:longitude":-105.520706,
+    "iso:country":"US",
+    "sg:address":"1307 W 3rd St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 8283",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "surgical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3560NI839pmvrG7upN2WKk_44.291908_-105.520706@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312822,
+    "wof:geomhash":"78327e0501d0a3f0338226c10a0e7552",
+    "wof:hierarchy":[],
+    "wof:id":874197619,
+    "wof:lastmodified":1464312822,
+    "wof:name":"North East Wyoming Surgery Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "center"
+    ]
+},
+  "bbox": [
+    -105.520706,
+    44.291908,
+    -105.520706,
+    44.291908
+],
+  "geometry": {"coordinates":[-105.520706,44.291908],"type":"Point"}
+}

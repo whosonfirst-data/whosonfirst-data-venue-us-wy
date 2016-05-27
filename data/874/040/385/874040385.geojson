@@ -1,0 +1,58 @@
+{
+  "id": 874040385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.45407,41.504395,-109.45407,41.504395",
+    "geom:latitude":41.504395,
+    "geom:longitude":-109.45407,
+    "iso:country":"US",
+    "sg:address":"1365 E Teton Blvd",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 7557",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UxJGJerNtPnYOJnlA3G4A_41.504395_-109.454070@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311146,
+    "wof:geomhash":"fb7119d681ad6a25db3c076102d8d68b",
+    "wof:hierarchy":[],
+    "wof:id":874040385,
+    "wof:lastmodified":1464311146,
+    "wof:name":"Oil Can",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -109.45407,
+    41.504395,
+    -109.45407,
+    41.504395
+],
+  "geometry": {"coordinates":[-109.45407,41.504395],"type":"Point"}
+}

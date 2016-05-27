@@ -1,0 +1,73 @@
+{
+  "id": 874196445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.055241,44.494895,-108.055241,44.494895",
+    "geom:latitude":44.494895,
+    "geom:longitude":-108.055241,
+    "iso:country":"US",
+    "sg:address":"561 US Hwy 14",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 4732",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "irrigation",
+        "installation",
+        "farm",
+        "ranch",
+        "system",
+        "equipment",
+        "sprinkling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fUHKDc1uZ924VFmHxJ5r3_44.494895_-108.055241@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312809,
+    "wof:geomhash":"1fb08a3618396f71aae40291d6176ee4",
+    "wof:hierarchy":[],
+    "wof:id":874196445,
+    "wof:lastmodified":1464312809,
+    "wof:name":"Delaney Irrigation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "irrigation",
+        "installation",
+        "farm",
+        "ranch",
+        "system",
+        "equipment",
+        "sprinkling"
+    ]
+},
+  "bbox": [
+    -108.055241,
+    44.494895,
+    -108.055241,
+    44.494895
+],
+  "geometry": {"coordinates":[-108.055241,44.494895],"type":"Point"}
+}

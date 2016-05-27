@@ -1,0 +1,56 @@
+{
+  "id": 874166807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.46292,42.897901,-106.46292,42.897901",
+    "geom:latitude":42.897901,
+    "geom:longitude":-106.46292,
+    "iso:country":"US",
+    "sg:address":"8411 Airport Pkwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 261 5732",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IlpMdLUPMksbYiACstB8d_42.897901_-106.462920@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312496,
+    "wof:geomhash":"0915b0d9242671b3b5fc0a8502d7d429",
+    "wof:hierarchy":[],
+    "wof:id":874166807,
+    "wof:lastmodified":1464312496,
+    "wof:name":"Us Faa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -106.46292,
+    42.897901,
+    -106.46292,
+    42.897901
+],
+  "geometry": {"coordinates":[-106.46292,42.897901],"type":"Point"}
+}

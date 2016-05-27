@@ -1,0 +1,75 @@
+{
+  "id": 874115871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.583489,41.329827,-105.583489,41.329827",
+    "geom:latitude":41.329827,
+    "geom:longitude":-105.583489,
+    "iso:country":"US",
+    "sg:address":"2158 N 9th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6623",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZhY86uReq5tQHC6W7VHzX_41.329827_-105.583489@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311995,
+    "wof:geomhash":"8100e293a076657441fdf08b1a50e0ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874115871
+        }
+    ],
+    "wof:id":874115871,
+    "wof:lastmodified":1464311995,
+    "wof:name":"Ferguson Enterprises",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "supply"
+    ]
+},
+  "bbox": [
+    -105.583489,
+    41.329827,
+    -105.583489,
+    41.329827
+],
+  "geometry": {"coordinates":[-105.583489,41.329827],"type":"Point"}
+}

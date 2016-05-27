@@ -1,0 +1,58 @@
+{
+  "id": 873987009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.962935,42.043902,-104.962935,42.043902",
+    "geom:latitude":42.043902,
+    "geom:longitude":-104.962935,
+    "iso:country":"US",
+    "sg:address":"68 16th St",
+    "sg:city":"Wheatland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 322 2558",
+    "sg:postcode":"82201",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R8sGx5wb9Q8ClacBIwFEL_42.043902_-104.962935@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310668,
+    "wof:geomhash":"f925d12139e7befc42b71aafe733cb43",
+    "wof:hierarchy":[],
+    "wof:id":873987009,
+    "wof:lastmodified":1464310668,
+    "wof:name":"Transportation Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -104.962935,
+    42.043902,
+    -104.962935,
+    42.043902
+],
+  "geometry": {"coordinates":[-104.962935,42.043902],"type":"Point"}
+}

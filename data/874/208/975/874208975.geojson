@@ -1,0 +1,56 @@
+{
+  "id": 874208975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.694455,44.34078,-106.694455,44.34078",
+    "geom:latitude":44.34078,
+    "geom:longitude":-106.694455,
+    "iso:country":"US",
+    "sg:address":"550 S Wyoming Ave",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 7855",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z2vwLM9ClenjgCBhfPpbF_44.340780_-106.694455@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312939,
+    "wof:geomhash":"7b61247b4dc6c906b1da4289e35eb952",
+    "wof:hierarchy":[],
+    "wof:id":874208975,
+    "wof:lastmodified":1464312939,
+    "wof:name":"Garland Welding",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -106.694455,
+    44.34078,
+    -106.694455,
+    44.34078
+],
+  "geometry": {"coordinates":[-106.694455,44.34078],"type":"Point"}
+}

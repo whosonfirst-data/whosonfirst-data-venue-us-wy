@@ -1,0 +1,64 @@
+{
+  "id": 874224169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.34177,42.833219,-106.34177,42.833219",
+    "geom:latitude":42.833219,
+    "geom:longitude":-106.34177,
+    "iso:country":"US",
+    "sg:address":"1558 Westridge Way",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 3625",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ch5gtLrRyI6yoQRn8Nl8m_42.833219_-106.341770@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313104,
+    "wof:geomhash":"cf124288020ed5fd127b5e108cb3e9c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874224169
+        }
+    ],
+    "wof:id":874224169,
+    "wof:lastmodified":1464313104,
+    "wof:name":"Frank Chavez Lawn Tree",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.34177,
+    42.833219,
+    -106.34177,
+    42.833219
+],
+  "geometry": {"coordinates":[-106.34177,42.833219],"type":"Point"}
+}

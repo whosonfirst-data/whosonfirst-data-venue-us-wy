@@ -1,0 +1,73 @@
+{
+  "id": 874165093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.627643,41.30723,-105.627643,41.30723",
+    "geom:latitude":41.30723,
+    "geom:longitude":-105.627643,
+    "iso:country":"US",
+    "sg:address":"525 S Grant St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 8235",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vk1xN5Wfcu9I7JGHGobsw_41.307230_-105.627643@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312480,
+    "wof:geomhash":"a0f62c85d82c8a892197f6d7b16a0d32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874165093
+        }
+    ],
+    "wof:id":874165093,
+    "wof:lastmodified":1464312480,
+    "wof:name":"Albany Security & Courier Svc",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -105.627643,
+    41.30723,
+    -105.627643,
+    41.30723
+],
+  "geometry": {"coordinates":[-105.62764300000001,41.30723],"type":"Point"}
+}

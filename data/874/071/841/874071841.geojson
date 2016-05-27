@@ -1,0 +1,67 @@
+{
+  "id": 874071841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.20349,41.59739,-109.20349,41.59739",
+    "geom:latitude":41.59739,
+    "geom:longitude":-109.20349,
+    "iso:country":"US",
+    "sg:address":"1556 9th St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 7101",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kb3wlbXdIxxAcxiVGqbAc_41.597390_-109.203490@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311458,
+    "wof:geomhash":"3a71baad48cf6083df6bbe2b451fe382",
+    "wof:hierarchy":[],
+    "wof:id":874071841,
+    "wof:lastmodified":1464311458,
+    "wof:name":"Rizzi's Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -109.20349,
+    41.59739,
+    -109.20349,
+    41.59739
+],
+  "geometry": {"coordinates":[-109.20349,41.59739],"type":"Point"}
+}

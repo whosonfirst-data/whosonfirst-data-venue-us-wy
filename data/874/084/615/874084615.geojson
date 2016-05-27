@@ -1,0 +1,60 @@
+{
+  "id": 874084615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.832285,41.132394,-104.832285,41.132394",
+    "geom:latitude":41.132394,
+    "geom:longitude":-104.832285,
+    "iso:country":"US",
+    "sg:address":"2130 Missile Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 6207",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uof6vfOyV8V1TmhJm8QQp_41.132394_-104.832285@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311605,
+    "wof:geomhash":"bf37fa43142dd524284b9d7cf229f299",
+    "wof:hierarchy":[],
+    "wof:id":874084615,
+    "wof:lastmodified":1464311605,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -104.832285,
+    41.132394,
+    -104.832285,
+    41.132394
+],
+  "geometry": {"coordinates":[-104.832285,41.132394],"type":"Point"}
+}

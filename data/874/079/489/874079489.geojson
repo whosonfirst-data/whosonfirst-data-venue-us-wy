@@ -1,0 +1,58 @@
+{
+  "id": 874079489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.797696,43.514736,-110.797696,43.514736",
+    "geom:latitude":43.514736,
+    "geom:longitude":-110.797696,
+    "iso:country":"US",
+    "sg:address":"2640 Trader Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 4881",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49zdmdbepRZIEMxIAA0zp4_43.514736_-110.797696@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311547,
+    "wof:geomhash":"5ebb527d4c86ddd04b06d63873812294",
+    "wof:hierarchy":[],
+    "wof:id":874079489,
+    "wof:lastmodified":1464311547,
+    "wof:name":"Clinical Evaluations",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -110.797696,
+    43.514736,
+    -110.797696,
+    43.514736
+],
+  "geometry": {"coordinates":[-110.797696,43.514736],"type":"Point"}
+}

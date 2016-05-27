@@ -1,0 +1,56 @@
+{
+  "id": 874022505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.50246,44.29025,-105.50246,44.29025",
+    "geom:latitude":44.29025,
+    "geom:longitude":-105.50246,
+    "iso:country":"US",
+    "sg:address":"201 E 5th St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 5241",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51N3OY01pPcJk0LiRnk9uP_44.290250_-105.502460@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310969,
+    "wof:geomhash":"3efe0feb9935bc523d6a62517861bb98",
+    "wof:hierarchy":[],
+    "wof:id":874022505,
+    "wof:lastmodified":1464310969,
+    "wof:name":"Gillette Police-Patrol Div",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -105.50246,
+    44.29025,
+    -105.50246,
+    44.29025
+],
+  "geometry": {"coordinates":[-105.50246,44.29025],"type":"Point"}
+}

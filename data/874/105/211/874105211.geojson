@@ -1,0 +1,60 @@
+{
+  "id": 874105211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.800003,41.12197,-104.800003,41.12197",
+    "geom:latitude":41.12197,
+    "geom:longitude":-104.800003,
+    "iso:country":"US",
+    "sg:address":"508 E 1st St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 3294",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "portable",
+        "trailer",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CqYUwle78oQ52O2B5Mylm_41.121970_-104.800003@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311859,
+    "wof:geomhash":"d3b8eb1a3f304f91bdf29087e63f6be4",
+    "wof:hierarchy":[],
+    "wof:id":874105211,
+    "wof:lastmodified":1464311859,
+    "wof:name":"Welding Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "portable",
+        "trailer",
+        "welding"
+    ]
+},
+  "bbox": [
+    -104.800003,
+    41.12197,
+    -104.800003,
+    41.12197
+],
+  "geometry": {"coordinates":[-104.800003,41.12197],"type":"Point"}
+}

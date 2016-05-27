@@ -1,0 +1,78 @@
+{
+  "id": 874078151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343849,42.809557,-106.343849,42.809557",
+    "geom:latitude":42.809557,
+    "geom:longitude":-106.343849,
+    "iso:country":"US",
+    "sg:address":"4000 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 9141",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "drinking",
+        "eating",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_332mefDih3EE8CDqYCdldN_42.809557_-106.343849@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311529,
+    "wof:geomhash":"53b918788be6bb6ce50e1010173540a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874078151
+        }
+    ],
+    "wof:id":874078151,
+    "wof:lastmodified":1464311529,
+    "wof:name":"Sunrise Lanes",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating",
+        "center"
+    ]
+},
+  "bbox": [
+    -106.343849,
+    42.809557,
+    -106.343849,
+    42.809557
+],
+  "geometry": {"coordinates":[-106.34384900000001,42.809557],"type":"Point"}
+}

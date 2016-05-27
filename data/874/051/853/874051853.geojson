@@ -1,0 +1,79 @@
+{
+  "id": 874051853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591052,41.33547,-105.591052,41.33547",
+    "geom:latitude":41.33547,
+    "geom:longitude":-105.591052,
+    "iso:country":"US",
+    "sg:address":"2052 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5200",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "manufacture",
+        "battery",
+        "supply",
+        "power",
+        "charger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FcSmPUrN942ydu3FADHx5_41.335470_-105.591052@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311258,
+    "wof:geomhash":"c12a5df2b047e7c9e6f4df12bdc93616",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874051853
+        }
+    ],
+    "wof:id":874051853,
+    "wof:lastmodified":1464311258,
+    "wof:name":"C F Electronics Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacture",
+        "battery",
+        "supply",
+        "power",
+        "charger"
+    ]
+},
+  "bbox": [
+    -105.591052,
+    41.33547,
+    -105.591052,
+    41.33547
+],
+  "geometry": {"coordinates":[-105.591052,41.33547],"type":"Point"}
+}

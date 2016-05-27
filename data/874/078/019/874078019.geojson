@@ -1,0 +1,64 @@
+{
+  "id": 874078019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.313883,42.848685,-106.313883,42.848685",
+    "geom:latitude":42.848685,
+    "geom:longitude":-106.313883,
+    "iso:country":"US",
+    "sg:address":"805 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 4040",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11Px0yWeL6VIvNijZVJQR8_42.848685_-106.313883@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311528,
+    "wof:geomhash":"6a378d876b59e994aecd8c23abc3eb24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874078019
+        }
+    ],
+    "wof:id":874078019,
+    "wof:lastmodified":1464311528,
+    "wof:name":"Trolley Boats",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.313883,
+    42.848685,
+    -106.313883,
+    42.848685
+],
+  "geometry": {"coordinates":[-106.313883,42.848685],"type":"Point"}
+}

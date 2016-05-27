@@ -1,0 +1,56 @@
+{
+  "id": 874050203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.752577,41.140506,-104.752577,41.140506",
+    "geom:latitude":41.140506,
+    "geom:longitude":-104.752577,
+    "iso:country":"US",
+    "sg:address":"4431 E 17th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 9769",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LosDAMpG3Jx0X64ReVFxB_41.140506_-104.752577@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311243,
+    "wof:geomhash":"f053c8164087e71b887b524451ded32f",
+    "wof:hierarchy":[],
+    "wof:id":874050203,
+    "wof:lastmodified":1464311243,
+    "wof:name":"Wyoming Branch FRA",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -104.752577,
+    41.140506,
+    -104.752577,
+    41.140506
+],
+  "geometry": {"coordinates":[-104.752577,41.140506],"type":"Point"}
+}

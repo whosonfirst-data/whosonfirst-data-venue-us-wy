@@ -1,0 +1,69 @@
+{
+  "id": 874024419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.36787,42.811249,-106.36787,42.811249",
+    "geom:latitude":42.811249,
+    "geom:longitude":-106.36787,
+    "iso:country":"US",
+    "sg:address":"3529 Aspen Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 259 2343",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "athletic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e3tN3FH1APX4mPxH4Cow4_42.811249_-106.367870@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310990,
+    "wof:geomhash":"5904a6b3d92468366369378156fcb3a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874024419
+        }
+    ],
+    "wof:id":874024419,
+    "wof:lastmodified":1464310990,
+    "wof:name":"Raa Sports",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "athletic"
+    ]
+},
+  "bbox": [
+    -106.36787,
+    42.811249,
+    -106.36787,
+    42.811249
+],
+  "geometry": {"coordinates":[-106.36787,42.811249],"type":"Point"}
+}

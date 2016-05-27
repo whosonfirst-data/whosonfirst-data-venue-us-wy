@@ -1,0 +1,56 @@
+{
+  "id": 874133725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.385422,43.030476,-108.385422,43.030476",
+    "geom:latitude":43.030476,
+    "geom:longitude":-108.385422,
+    "iso:country":"US",
+    "sg:address":"470 E Pershing Ave",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 857 6859",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mowUrIjVNlrmFYIa0NClp_43.030476_-108.385422@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312179,
+    "wof:geomhash":"1b6d480f5bb7fe1c4ec7f97bdca79ecd",
+    "wof:hierarchy":[],
+    "wof:id":874133725,
+    "wof:lastmodified":1464312179,
+    "wof:name":"Riverton Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -108.385422,
+    43.030476,
+    -108.385422,
+    43.030476
+],
+  "geometry": {"coordinates":[-108.38542200000001,43.030476],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874097015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.82538,41.142082,-104.82538,41.142082",
+    "geom:latitude":41.142082,
+    "geom:longitude":-104.82538,
+    "iso:country":"US",
+    "sg:address":"415 W 28th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 7887",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71e3yx3erSslGrWpIRwwwa_41.142082_-104.825380@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311744,
+    "wof:geomhash":"4d41f731cf7478deeb8317e6b2312740",
+    "wof:hierarchy":[],
+    "wof:id":874097015,
+    "wof:lastmodified":1464311744,
+    "wof:name":"Learning Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -104.82538,
+    41.142082,
+    -104.82538,
+    41.142082
+],
+  "geometry": {"coordinates":[-104.82538,41.142082],"type":"Point"}
+}

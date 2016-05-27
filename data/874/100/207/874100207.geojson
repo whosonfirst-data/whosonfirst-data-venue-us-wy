@@ -1,0 +1,73 @@
+{
+  "id": 874100207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.28815,42.838295,-106.28815,42.838295",
+    "geom:latitude":42.838295,
+    "geom:longitude":-106.28815,
+    "iso:country":"US",
+    "sg:address":"1340 Derington Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1223",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12dsdhdPCzRWproCtODadk_42.838295_-106.288150@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311796,
+    "wof:geomhash":"42bf8f5157441deb65443b8ef8126dc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874100207
+        }
+    ],
+    "wof:id":874100207,
+    "wof:lastmodified":1464311796,
+    "wof:name":"Darrel Smith Trucking",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -106.28815,
+    42.838295,
+    -106.28815,
+    42.838295
+],
+  "geometry": {"coordinates":[-106.28815,42.838295],"type":"Point"}
+}

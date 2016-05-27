@@ -1,0 +1,73 @@
+{
+  "id": 874173715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.406591,42.867766,-106.406591,42.867766",
+    "geom:latitude":42.867766,
+    "geom:longitude":-106.406591,
+    "iso:country":"US",
+    "sg:address":"5708 Old Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 9692",
+    "sg:postcode":"82644",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil",
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n6qFPaMv4zEMUIfZ0r4v6_42.867766_-106.406591@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312565,
+    "wof:geomhash":"3d70a6f3e27ac1291824a558f3db5d9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874173715
+        }
+    ],
+    "wof:id":874173715,
+    "wof:lastmodified":1464312565,
+    "wof:name":"Mc Kendree Trucking Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil",
+        "hauling"
+    ]
+},
+  "bbox": [
+    -106.406591,
+    42.867766,
+    -106.406591,
+    42.867766
+],
+  "geometry": {"coordinates":[-106.40659100000001,42.867766],"type":"Point"}
+}

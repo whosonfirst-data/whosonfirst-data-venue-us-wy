@@ -1,0 +1,56 @@
+{
+  "id": 874099193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.464409,41.530344,-109.464409,41.530344",
+    "geom:latitude":41.530344,
+    "geom:longitude":-109.464409,
+    "iso:country":"US",
+    "sg:address":"400 N 1st E",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 6000",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I4dccQDF6tbfstULlz2v5_41.530344_-109.464409@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311775,
+    "wof:geomhash":"36421026741d71ec3f6c103c7a13f447",
+    "wof:hierarchy":[],
+    "wof:id":874099193,
+    "wof:lastmodified":1464311775,
+    "wof:name":"A Bryce Castillon DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -109.464409,
+    41.530344,
+    -109.464409,
+    41.530344
+],
+  "geometry": {"coordinates":[-109.464409,41.530344],"type":"Point"}
+}

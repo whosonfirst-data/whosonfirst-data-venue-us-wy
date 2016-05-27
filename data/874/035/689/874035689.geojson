@@ -1,0 +1,74 @@
+{
+  "id": 874035689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.408829,42.822383,-106.408829,42.822383",
+    "geom:latitude":42.822383,
+    "geom:longitude":-106.408829,
+    "iso:country":"US",
+    "sg:address":"157 Sunflower St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3857",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35ykKkHjBGsnO1CD2RU3ih_42.822383_-106.408829@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311101,
+    "wof:geomhash":"3d5f210f544f5d885c27780654df884e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874035689
+        }
+    ],
+    "wof:id":874035689,
+    "wof:lastmodified":1464311101,
+    "wof:name":"Centrad Healthcare Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "social"
+    ]
+},
+  "bbox": [
+    -106.408829,
+    42.822383,
+    -106.408829,
+    42.822383
+],
+  "geometry": {"coordinates":[-106.408829,42.822383],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 874117551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.567094,41.325249,-105.567094,41.325249",
+    "geom:latitude":41.325249,
+    "geom:longitude":-105.567094,
+    "iso:country":"US",
+    "sg:address":"1571 N 22nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 6036",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NSMWGcVCYQ275hltoThos_41.325249_-105.567094@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312011,
+    "wof:geomhash":"6d914d4cf93eaadd683b270eb6b740fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874117551
+        }
+    ],
+    "wof:id":874117551,
+    "wof:lastmodified":1464312011,
+    "wof:name":"En Gedi Ministries",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.567094,
+    41.325249,
+    -105.567094,
+    41.325249
+],
+  "geometry": {"coordinates":[-105.567094,41.325249],"type":"Point"}
+}

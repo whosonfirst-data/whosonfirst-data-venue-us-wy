@@ -1,0 +1,69 @@
+{
+  "id": 874225533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.335346,42.836175,-106.335346,42.836175",
+    "geom:latitude":42.836175,
+    "geom:longitude":-106.335346,
+    "iso:country":"US",
+    "sg:address":"829 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 9440",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YqHnYskGSZeB7lh2kpiNC_42.836175_-106.335346@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313116,
+    "wof:geomhash":"12e4bc40895a18ef1dadab8f64b1ae6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874225533
+        }
+    ],
+    "wof:id":874225533,
+    "wof:lastmodified":1464313116,
+    "wof:name":"First Call Communications",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -106.335346,
+    42.836175,
+    -106.335346,
+    42.836175
+],
+  "geometry": {"coordinates":[-106.335346,42.836175],"type":"Point"}
+}

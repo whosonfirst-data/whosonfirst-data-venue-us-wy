@@ -1,0 +1,64 @@
+{
+  "id": 874196801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.038398,44.518821,-109.038398,44.518821",
+    "geom:latitude":44.518821,
+    "geom:longitude":-109.038398,
+    "iso:country":"US",
+    "sg:address":"2221 26th St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 7018",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile",
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Fs2TPWMI2s81JaM8hSsm0_44.518821_-109.038398@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312813,
+    "wof:geomhash":"4beecca838e9975c01d405e8f18e87a6",
+    "wof:hierarchy":[],
+    "wof:id":874196801,
+    "wof:lastmodified":1464312813,
+    "wof:name":"Reno Collision Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile",
+        "paint"
+    ]
+},
+  "bbox": [
+    -109.038398,
+    44.518821,
+    -109.038398,
+    44.518821
+],
+  "geometry": {"coordinates":[-109.038398,44.518821],"type":"Point"}
+}

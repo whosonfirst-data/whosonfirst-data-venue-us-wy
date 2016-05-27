@@ -1,0 +1,69 @@
+{
+  "id": 874216043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.411149,42.863125,-106.411149,42.863125",
+    "geom:latitude":42.863125,
+    "geom:longitude":-106.411149,
+    "iso:country":"US",
+    "sg:address":"6015 W Zero Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 6760",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DaqBP3Kn3tKDrIDWFw5SB_42.863125_-106.411149@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313014,
+    "wof:geomhash":"6092a9a9bd8b3e40e4aecfbca1472924",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874216043
+        }
+    ],
+    "wof:id":874216043,
+    "wof:lastmodified":1464313014,
+    "wof:name":"Turbo & Diesel Svc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine"
+    ]
+},
+  "bbox": [
+    -106.411149,
+    42.863125,
+    -106.411149,
+    42.863125
+],
+  "geometry": {"coordinates":[-106.41114899999999,42.863125],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873996861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.297278,42.838813,-106.297278,42.838813",
+    "geom:latitude":42.838813,
+    "geom:longitude":-106.297278,
+    "iso:country":"US",
+    "sg:address":"2205 E 12th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 232 1212",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WD30ARa7VZorcAtvPVkvj_42.838813_-106.297278@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310738,
+    "wof:geomhash":"877b8f07032450ecb6dbf4a6695c11af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873996861
+        }
+    ],
+    "wof:id":873996861,
+    "wof:lastmodified":1464310738,
+    "wof:name":"12 Street Auto",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -106.297278,
+    42.838813,
+    -106.297278,
+    42.838813
+],
+  "geometry": {"coordinates":[-106.29727800000001,42.838813],"type":"Point"}
+}

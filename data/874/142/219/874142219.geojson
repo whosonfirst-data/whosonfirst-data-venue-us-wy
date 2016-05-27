@@ -1,0 +1,73 @@
+{
+  "id": 874142219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.535886,41.391856,-105.535886,41.391856",
+    "geom:latitude":41.391856,
+    "geom:longitude":-105.535886,
+    "iso:country":"US",
+    "sg:address":"8 Antelope Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5589",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "engineering",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fnQkYVLqEnl1y8b2MkGMU_41.391856_-105.535886@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312255,
+    "wof:geomhash":"1f6695ada454f637d9b95cdf294d3953",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874142219
+        }
+    ],
+    "wof:id":874142219,
+    "wof:lastmodified":1464312255,
+    "wof:name":"Morrow Engineering",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineering",
+        "business"
+    ]
+},
+  "bbox": [
+    -105.535886,
+    41.391856,
+    -105.535886,
+    41.391856
+],
+  "geometry": {"coordinates":[-105.535886,41.391856],"type":"Point"}
+}

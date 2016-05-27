@@ -1,0 +1,71 @@
+{
+  "id": 874153685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591991,41.311937,-105.591991,41.311937",
+    "geom:latitude":41.311937,
+    "geom:longitude":-105.591991,
+    "iso:country":"US",
+    "sg:address":"417 E Ivinson Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5845",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ynT7uK6VwT5ingg7sFyhr_41.311937_-105.591991@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312362,
+    "wof:geomhash":"b51fd1d076dcac44097e49421bef6ebe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874153685
+        }
+    ],
+    "wof:id":874153685,
+    "wof:lastmodified":1464312362,
+    "wof:name":"American Legion",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -105.591991,
+    41.311937,
+    -105.591991,
+    41.311937
+],
+  "geometry": {"coordinates":[-105.59199099999999,41.311937],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874096203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590822,41.310769,-105.590822,41.310769",
+    "geom:latitude":41.310769,
+    "geom:longitude":-105.590822,
+    "iso:country":"US",
+    "sg:address":"514 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7752",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop",
+        "automobile",
+        "lube",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aLxukTtG4Cj0PQvrfsQhy_41.310769_-105.590822@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311731,
+    "wof:geomhash":"485b7c9ecaaa9c77970a7217cd96f5fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874096203
+        }
+    ],
+    "wof:id":874096203,
+    "wof:lastmodified":1464311731,
+    "wof:name":"Lightning Lube",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automobile",
+        "lube",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -105.590822,
+    41.310769,
+    -105.590822,
+    41.310769
+],
+  "geometry": {"coordinates":[-105.590822,41.310769],"type":"Point"}
+}

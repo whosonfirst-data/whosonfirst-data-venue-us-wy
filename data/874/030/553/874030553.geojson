@@ -1,0 +1,71 @@
+{
+  "id": 874030553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.335065,42.853676,-106.335065,42.853676",
+    "geom:latitude":42.853676,
+    "geom:longitude":-106.335065,
+    "iso:country":"US",
+    "sg:address":"105 Big Horn Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 5263",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ltI4zDptQjWSKwceVOCME_42.853676_-106.335065@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311053,
+    "wof:geomhash":"977b97778edd49ad6c3238f3b01902f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874030553
+        }
+    ],
+    "wof:id":874030553,
+    "wof:lastmodified":1464311053,
+    "wof:name":"Valve Tech & Svc Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.335065,
+    42.853676,
+    -106.335065,
+    42.853676
+],
+  "geometry": {"coordinates":[-106.335065,42.853676],"type":"Point"}
+}

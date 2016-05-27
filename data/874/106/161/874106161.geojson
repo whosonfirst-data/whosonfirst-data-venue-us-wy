@@ -1,0 +1,60 @@
+{
+  "id": 874106161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.963869,44.012663,-107.963869,44.012663",
+    "geom:latitude":44.012663,
+    "geom:longitude":-107.963869,
+    "iso:country":"US",
+    "sg:address":"404 Obie Sue Ave",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 3957",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mHkJR9PVLWO4PyywL1C58_44.012663_-107.963869@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311872,
+    "wof:geomhash":"61ab67160cb130a2090df7b5dacf67fb",
+    "wof:hierarchy":[],
+    "wof:id":874106161,
+    "wof:lastmodified":1464311872,
+    "wof:name":"Brat Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -107.963869,
+    44.012663,
+    -107.963869,
+    44.012663
+],
+  "geometry": {"coordinates":[-107.963869,44.012663],"type":"Point"}
+}

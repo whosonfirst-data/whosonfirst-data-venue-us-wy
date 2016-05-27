@@ -1,0 +1,73 @@
+{
+  "id": 874220613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594258,41.3252,-105.594258,41.3252",
+    "geom:latitude":41.3252,
+    "geom:longitude":-105.594258,
+    "iso:country":"US",
+    "sg:address":"120 E Lyons St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 9650",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kD3A4RW9pFmEnQKYn57XZ_41.325200_-105.594258@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313070,
+    "wof:geomhash":"928e315b2731e61c25627e779ab04e49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874220613
+        }
+    ],
+    "wof:id":874220613,
+    "wof:lastmodified":1464313070,
+    "wof:name":"Kalcon Electric",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.594258,
+    41.3252,
+    -105.594258,
+    41.3252
+],
+  "geometry": {"coordinates":[-105.594258,41.3252],"type":"Point"}
+}

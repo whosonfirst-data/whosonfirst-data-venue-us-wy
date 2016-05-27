@@ -1,0 +1,58 @@
+{
+  "id": 874083691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.512142,44.287494,-105.512142,44.287494",
+    "geom:latitude":44.287494,
+    "geom:longitude":-105.512142,
+    "iso:country":"US",
+    "sg:address":"709 W 8th St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 7390",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73PNiDSmzQGiKlQFRWq6bk_44.287494_-105.512142@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311596,
+    "wof:geomhash":"a2aebfd1417280d77dfabf487ee85744",
+    "wof:hierarchy":[],
+    "wof:id":874083691,
+    "wof:lastmodified":1464311596,
+    "wof:name":"Wyoming Chest & Allergy Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -105.512142,
+    44.287494,
+    -105.512142,
+    44.287494
+],
+  "geometry": {"coordinates":[-105.512142,44.287494],"type":"Point"}
+}

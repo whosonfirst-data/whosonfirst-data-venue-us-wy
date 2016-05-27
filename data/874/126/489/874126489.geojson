@@ -1,0 +1,73 @@
+{
+  "id": 874126489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.720957,41.230087,-105.720957,41.230087",
+    "geom:latitude":41.230087,
+    "geom:longitude":-105.720957,
+    "iso:country":"US",
+    "sg:address":"132 Ryff Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 9560",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "breeder",
+        "horse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JCxPs5T8AAORHRT8MmIRi_41.230087_-105.720957@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312098,
+    "wof:geomhash":"3337a3d1e1d2baf76a5a369a8dc97871",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874126489
+        }
+    ],
+    "wof:id":874126489,
+    "wof:lastmodified":1464312098,
+    "wof:name":"Mears Morgans",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeder",
+        "horse"
+    ]
+},
+  "bbox": [
+    -105.720957,
+    41.230087,
+    -105.720957,
+    41.230087
+],
+  "geometry": {"coordinates":[-105.720957,41.230087],"type":"Point"}
+}

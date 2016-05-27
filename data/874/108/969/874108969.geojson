@@ -1,0 +1,56 @@
+{
+  "id": 874108969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.822502,41.149612,-104.822502,41.149612",
+    "geom:latitude":41.149612,
+    "geom:longitude":-104.822502,
+    "iso:country":"US",
+    "sg:address":"3600 Central Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 2677",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VM1PDsyAPrHj8sE3hDQZQ_41.149612_-104.822502@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311903,
+    "wof:geomhash":"7554214c37bd6cd0a25d743584fa511c",
+    "wof:hierarchy":[],
+    "wof:id":874108969,
+    "wof:lastmodified":1464311903,
+    "wof:name":"Pain In The Grass Pet Waste",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet"
+    ]
+},
+  "bbox": [
+    -104.822502,
+    41.149612,
+    -104.822502,
+    41.149612
+],
+  "geometry": {"coordinates":[-104.822502,41.149612],"type":"Point"}
+}

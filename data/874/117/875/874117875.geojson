@@ -1,0 +1,56 @@
+{
+  "id": 874117875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.10995,43.235447,-108.10995,43.235447",
+    "geom:latitude":43.235447,
+    "geom:longitude":-108.10995,
+    "iso:country":"US",
+    "sg:address":"106 E 2 St",
+    "sg:city":"Shoshoni",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 876 2442",
+    "sg:postcode":"82649",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pJMq8UAxsNwsArPuwgogi_43.235447_-108.109950@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312014,
+    "wof:geomhash":"b3b019b10b977f8c37f9338179693a03",
+    "wof:hierarchy":[],
+    "wof:id":874117875,
+    "wof:lastmodified":1464312014,
+    "wof:name":"Shoshoni Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -108.10995,
+    43.235447,
+    -108.10995,
+    43.235447
+],
+  "geometry": {"coordinates":[-108.10995,43.235447],"type":"Point"}
+}

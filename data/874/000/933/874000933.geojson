@@ -1,0 +1,69 @@
+{
+  "id": 874000933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.39295,42.82732,-106.39295,42.82732",
+    "geom:latitude":42.82732,
+    "geom:longitude":-106.39295,
+    "iso:country":"US",
+    "sg:address":"5337 Whitlock Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 7627",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ei2hfbVYJjxqulvqdbeM4_42.827320_-106.392950@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310767,
+    "wof:geomhash":"f1dfaa79f8e25e22181d27ae6db05e49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874000933
+        }
+    ],
+    "wof:id":874000933,
+    "wof:lastmodified":1464310767,
+    "wof:name":"Snap On-Tim Littlejohn",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -106.39295,
+    42.82732,
+    -106.39295,
+    42.82732
+],
+  "geometry": {"coordinates":[-106.39295,42.82732],"type":"Point"}
+}

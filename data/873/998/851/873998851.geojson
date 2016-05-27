@@ -1,0 +1,56 @@
+{
+  "id": 873998851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.517878,44.258339,-105.517878,44.258339",
+    "geom:latitude":44.258339,
+    "geom:longitude":-105.517878,
+    "iso:country":"US",
+    "sg:address":"1103 Christinck Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 685 1231",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vTY7D1rqUlc4ydxE74gDB_44.258339_-105.517878@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310753,
+    "wof:geomhash":"841c98f03598602bd0ed33e79e6feea4",
+    "wof:hierarchy":[],
+    "wof:id":873998851,
+    "wof:lastmodified":1464310753,
+    "wof:name":"Wyoming Events",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -105.517878,
+    44.258339,
+    -105.517878,
+    44.258339
+],
+  "geometry": {"coordinates":[-105.517878,44.258339],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874180039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323674,42.85064,-106.323674,42.85064",
+    "geom:latitude":42.85064,
+    "geom:longitude":-106.323674,
+    "iso:country":"US",
+    "sg:address":"159 N Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 2005",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant",
+        "planning",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4niMTD3IUvb2vxGUbioWzA_42.850640_-106.323674@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312630,
+    "wof:geomhash":"0ce63c088f95c0ef1aacb7862c837772",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874180039
+        }
+    ],
+    "wof:id":874180039,
+    "wof:lastmodified":1464312630,
+    "wof:name":"Waddell & Reed Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "planning",
+        "financial"
+    ]
+},
+  "bbox": [
+    -106.323674,
+    42.85064,
+    -106.323674,
+    42.85064
+],
+  "geometry": {"coordinates":[-106.323674,42.85064],"type":"Point"}
+}

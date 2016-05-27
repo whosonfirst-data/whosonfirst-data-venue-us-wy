@@ -1,0 +1,73 @@
+{
+  "id": 874113127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590045,41.318817,-105.590045,41.318817",
+    "geom:latitude":41.318817,
+    "geom:longitude":-105.590045,
+    "iso:country":"US",
+    "sg:address":"757 N 5th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 1100",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "web",
+        "hosting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v4LOyt3yZAVqbL59ExYIC_41.318817_-105.590045@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311968,
+    "wof:geomhash":"1b3675313e7b0f410416245325dd6352",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874113127
+        }
+    ],
+    "wof:id":874113127,
+    "wof:lastmodified":1464311968,
+    "wof:name":"Snowy Range Networking LLC",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web",
+        "hosting"
+    ]
+},
+  "bbox": [
+    -105.590045,
+    41.318817,
+    -105.590045,
+    41.318817
+],
+  "geometry": {"coordinates":[-105.590045,41.318817],"type":"Point"}
+}

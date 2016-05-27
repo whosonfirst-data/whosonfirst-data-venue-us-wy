@@ -1,0 +1,73 @@
+{
+  "id": 874193555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.555907,41.321274,-105.555907,41.321274",
+    "geom:latitude":41.321274,
+    "geom:longitude":-105.555907,
+    "iso:country":"US",
+    "sg:address":"1072 N Bonita Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4826",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "interior",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Xah4Gy9cW9a3d3mzTdoBJ_41.321274_-105.555907@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312775,
+    "wof:geomhash":"790cd857a8de8a13d23559fb998af788",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874193555
+        }
+    ],
+    "wof:id":874193555,
+    "wof:lastmodified":1464312775,
+    "wof:name":"Interior Dsgn Linda Morgan LLC",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "design"
+    ]
+},
+  "bbox": [
+    -105.555907,
+    41.321274,
+    -105.555907,
+    41.321274
+],
+  "geometry": {"coordinates":[-105.555907,41.321274],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874093123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594056,41.327678,-105.594056,41.327678",
+    "geom:latitude":41.327678,
+    "geom:longitude":-105.594056,
+    "iso:country":"US",
+    "sg:address":"243 E Superior Ct",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7333",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GnPPP3XTgD0AP8LgKnxsI_41.327678_-105.594056@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311695,
+    "wof:geomhash":"18847da7bb88853b1c5b94e2a2cbfe6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874093123
+        }
+    ],
+    "wof:id":874093123,
+    "wof:lastmodified":1464311695,
+    "wof:name":"Comcast Cable Holdings LLC",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television"
+    ]
+},
+  "bbox": [
+    -105.594056,
+    41.327678,
+    -105.594056,
+    41.327678
+],
+  "geometry": {"coordinates":[-105.59405599999999,41.327678],"type":"Point"}
+}

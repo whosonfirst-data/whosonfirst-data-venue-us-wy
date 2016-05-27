@@ -1,0 +1,56 @@
+{
+  "id": 874031629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.631247,43.582422,-109.631247,43.582422",
+    "geom:latitude":43.582422,
+    "geom:longitude":-109.631247,
+    "iso:country":"US",
+    "sg:address":"25 Moose Dr",
+    "sg:city":"Dubois",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 455 2343",
+    "sg:postcode":"82513",
+    "sg:province":"WY",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BIedtYVICNdHA6YH7dtFm_43.582422_-109.631247@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311063,
+    "wof:geomhash":"c264c695614044e1293c9048231fd423",
+    "wof:hierarchy":[],
+    "wof:id":874031629,
+    "wof:lastmodified":1464311063,
+    "wof:name":"Jim's Painting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -109.631247,
+    43.582422,
+    -109.631247,
+    43.582422
+],
+  "geometry": {"coordinates":[-109.631247,43.582422],"type":"Point"}
+}

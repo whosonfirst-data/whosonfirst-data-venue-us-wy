@@ -1,0 +1,56 @@
+{
+  "id": 874065719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.26215,41.78519,-107.26215,41.78519",
+    "geom:latitude":41.78519,
+    "geom:longitude":-107.26215,
+    "iso:country":"US",
+    "sg:address":"2300 W Spruce St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 328 2181",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JMW6JMwXgoIp65AUYh29r_41.785190_-107.262150@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311386,
+    "wof:geomhash":"fbee9b365db861b3d3bf8fc72f58e1cb",
+    "wof:hierarchy":[],
+    "wof:id":874065719,
+    "wof:lastmodified":1464311386,
+    "wof:name":"Hungry Miner Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -107.26215,
+    41.78519,
+    -107.26215,
+    41.78519
+],
+  "geometry": {"coordinates":[-107.26215000000001,41.78519],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 874124751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.748697,41.117961,-104.748697,41.117961",
+    "geom:latitude":41.117961,
+    "geom:longitude":-104.748697,
+    "iso:country":"US",
+    "sg:address":"410 Rd 128A",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 772 0325",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sanitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QIEYTjfNYbL8pQLM9QzFJ_41.117961_-104.748697@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312083,
+    "wof:geomhash":"9f2601cad1fc2301ab0db28fe30c1a82",
+    "wof:hierarchy":[],
+    "wof:id":874124751,
+    "wof:lastmodified":1464312083,
+    "wof:name":"R & R Rest Stops",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitation"
+    ]
+},
+  "bbox": [
+    -104.748697,
+    41.117961,
+    -104.748697,
+    41.117961
+],
+  "geometry": {"coordinates":[-104.74869700000001,41.117961],"type":"Point"}
+}

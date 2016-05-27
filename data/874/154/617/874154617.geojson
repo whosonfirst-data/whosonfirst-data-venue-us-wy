@@ -1,0 +1,56 @@
+{
+  "id": 874154617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.66025,44.24426,-105.66025,44.24426",
+    "geom:latitude":44.24426,
+    "geom:longitude":-105.66025,
+    "iso:country":"US",
+    "sg:address":"579 Force Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 0925",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JqQx1t4mMiiCS7hrkfdJ0_44.244260_-105.660250@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312373,
+    "wof:geomhash":"6ca02708bc880be461c84fd2cc6a81b6",
+    "wof:hierarchy":[],
+    "wof:id":874154617,
+    "wof:lastmodified":1464312373,
+    "wof:name":"Auto Works",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -105.66025,
+    44.24426,
+    -105.66025,
+    44.24426
+],
+  "geometry": {"coordinates":[-105.66025,44.24426],"type":"Point"}
+}

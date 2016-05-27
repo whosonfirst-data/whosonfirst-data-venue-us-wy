@@ -1,0 +1,56 @@
+{
+  "id": 874066795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.461644,41.508367,-109.461644,41.508367",
+    "geom:latitude":41.508367,
+    "geom:longitude":-109.461644,
+    "iso:country":"US",
+    "sg:address":"500 Shoshone Ave",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 872 0543",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JNYHDMT0t0fs8xSGxpRvu_41.508367_-109.461644@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311395,
+    "wof:geomhash":"9ecb28a9b52431f35521e1209d0dec70",
+    "wof:hierarchy":[],
+    "wof:id":874066795,
+    "wof:lastmodified":1464311395,
+    "wof:name":"Green River Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -109.461644,
+    41.508367,
+    -109.461644,
+    41.508367
+],
+  "geometry": {"coordinates":[-109.46164400000001,41.508367],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873997701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.31251,42.850729,-106.31251,42.850729",
+    "geom:latitude":42.850729,
+    "geom:longitude":-106.31251,
+    "iso:country":"US",
+    "sg:address":"122 N Mc Kinley St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2249",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LwVAiMoup2OEYet4l5PeT_42.850729_-106.312510@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310745,
+    "wof:geomhash":"4b039de7174adad20ce1b2cca3ec1443",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873997701
+        }
+    ],
+    "wof:id":873997701,
+    "wof:lastmodified":1464310745,
+    "wof:name":"Sunburst Properties",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -106.31251,
+    42.850729,
+    -106.31251,
+    42.850729
+],
+  "geometry": {"coordinates":[-106.31251,42.850729],"type":"Point"}
+}

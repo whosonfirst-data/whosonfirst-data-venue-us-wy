@@ -1,0 +1,56 @@
+{
+  "id": 874087613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.552581,41.787244,-110.552581,41.787244",
+    "geom:latitude":41.787244,
+    "geom:longitude":-110.552581,
+    "iso:country":"US",
+    "sg:address":"1702 Antelope St",
+    "sg:city":"Kemmerer",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 877 4715",
+    "sg:postcode":"83101",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AmiOjnI2hFpc1HDRecZXA_41.787244_-110.552581@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311637,
+    "wof:geomhash":"bda7481edc94b2072b163315307e661c",
+    "wof:hierarchy":[],
+    "wof:id":874087613,
+    "wof:lastmodified":1464311637,
+    "wof:name":"Robert P Tyrrell DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -110.552581,
+    41.787244,
+    -110.552581,
+    41.787244
+],
+  "geometry": {"coordinates":[-110.552581,41.787244],"type":"Point"}
+}

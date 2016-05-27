@@ -1,0 +1,75 @@
+{
+  "id": 874127315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.553844,41.321984,-105.553844,41.321984",
+    "geom:latitude":41.321984,
+    "geom:longitude":-105.553844,
+    "iso:country":"US",
+    "sg:address":"1058 N Duna Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8676",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trust",
+        "nonprofit",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YrdVz96iSyKg8gGR2jnVK_41.321984_-105.553844@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312105,
+    "wof:geomhash":"5d5292cab01dfae9895f35bc63d85e29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874127315
+        }
+    ],
+    "wof:id":874127315,
+    "wof:lastmodified":1464312105,
+    "wof:name":"Muriel E Spacht Memorial",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trust",
+        "nonprofit",
+        "management"
+    ]
+},
+  "bbox": [
+    -105.553844,
+    41.321984,
+    -105.553844,
+    41.321984
+],
+  "geometry": {"coordinates":[-105.553844,41.321984],"type":"Point"}
+}

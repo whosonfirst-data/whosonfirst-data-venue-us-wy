@@ -1,0 +1,51 @@
+{
+  "id": 874216695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.626307,41.19426,-104.626307,41.19426",
+    "geom:latitude":41.19426,
+    "geom:longitude":-104.626307,
+    "iso:country":"US",
+    "sg:address":"3411 Railroad Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 5777",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uK1HuVwGnbISBbvHLt5vF_41.194260_-104.626307@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313020,
+    "wof:geomhash":"117e5cce705f8de9e63d294667943145",
+    "wof:hierarchy":[],
+    "wof:id":874216695,
+    "wof:lastmodified":1464313020,
+    "wof:name":"Swanson Veterinary Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.626307,
+    41.19426,
+    -104.626307,
+    41.19426
+],
+  "geometry": {"coordinates":[-104.626307,41.19426],"type":"Point"}
+}

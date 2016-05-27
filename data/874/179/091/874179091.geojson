@@ -1,0 +1,73 @@
+{
+  "id": 874179091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343608,42.809756,-106.343608,42.809756",
+    "geom:latitude":42.809756,
+    "geom:longitude":-106.343608,
+    "iso:country":"US",
+    "sg:address":"4041 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 0000",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TNVqBSPGNjd6W7cWJckty_42.809756_-106.343608@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312621,
+    "wof:geomhash":"7891c088addaea6de6efad16f3b7ca44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874179091
+        }
+    ],
+    "wof:id":874179091,
+    "wof:lastmodified":1464312621,
+    "wof:name":"Life Care Ctr Of Casper",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -106.343608,
+    42.809756,
+    -106.343608,
+    42.809756
+],
+  "geometry": {"coordinates":[-106.343608,42.809756],"type":"Point"}
+}

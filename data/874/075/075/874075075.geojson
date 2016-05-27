@@ -1,0 +1,74 @@
+{
+  "id": 874075075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.29754,42.857097,-106.29754,42.857097",
+    "geom:latitude":42.857097,
+    "geom:longitude":-106.29754,
+    "iso:country":"US",
+    "sg:address":"725 Bryan Stock Trl",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 3100",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "concrete",
+        "product",
+        "mfg"
+    ],
+    "sg:website":"www.wyomingconcrete.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51HxvWc8HTJTtUBLocIvcd_42.857097_-106.297540@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311503,
+    "wof:geomhash":"73e454a71aa65ec0f33b4ecabff2baa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874075075
+        }
+    ],
+    "wof:id":874075075,
+    "wof:lastmodified":1464311503,
+    "wof:name":"Wyoming Concrete Products Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -106.29754,
+    42.857097,
+    -106.29754,
+    42.857097
+],
+  "geometry": {"coordinates":[-106.29754,42.857097],"type":"Point"}
+}

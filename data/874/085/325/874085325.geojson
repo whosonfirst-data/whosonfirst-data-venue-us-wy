@@ -1,0 +1,60 @@
+{
+  "id": 874085325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.735675,44.754174,-108.735675,44.754174",
+    "geom:latitude":44.754174,
+    "geom:longitude":-108.735675,
+    "iso:country":"US",
+    "sg:address":"200 Hastings Horseshoe",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 3777",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "farm",
+        "equipment",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bZr8Ml2vPQCx33H0pOWSj_44.754174_-108.735675@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311613,
+    "wof:geomhash":"5c19908bcc5a356611253dd9f4bfd7c7",
+    "wof:hierarchy":[],
+    "wof:id":874085325,
+    "wof:lastmodified":1464311613,
+    "wof:name":"Red Iron Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "equipment",
+        "parts"
+    ]
+},
+  "bbox": [
+    -108.735675,
+    44.754174,
+    -108.735675,
+    44.754174
+],
+  "geometry": {"coordinates":[-108.735675,44.754174],"type":"Point"}
+}

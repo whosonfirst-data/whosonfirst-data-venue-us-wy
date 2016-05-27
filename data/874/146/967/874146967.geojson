@@ -1,0 +1,71 @@
+{
+  "id": 874146967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.62012,41.307173,-105.62012,41.307173",
+    "geom:latitude":41.307173,
+    "geom:longitude":-105.62012,
+    "iso:country":"US",
+    "sg:address":"521 S Pierce St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 6991",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K0jxa2te4JXxz8gO9Hbph_41.307173_-105.620120@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312302,
+    "wof:geomhash":"2efe137ec94ac5964be8b7cc8aaa17bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874146967
+        }
+    ],
+    "wof:id":874146967,
+    "wof:lastmodified":1464312302,
+    "wof:name":"Paulines Day Care",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -105.62012,
+    41.307173,
+    -105.62012,
+    41.307173
+],
+  "geometry": {"coordinates":[-105.62012,41.307173],"type":"Point"}
+}

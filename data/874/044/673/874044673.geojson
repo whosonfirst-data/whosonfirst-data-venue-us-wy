@@ -1,0 +1,71 @@
+{
+  "id": 874044673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.31214,42.854248,-106.31214,42.854248",
+    "geom:latitude":42.854248,
+    "geom:longitude":-106.31214,
+    "iso:country":"US",
+    "sg:address":"435 N Mc Kinley St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 8438",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "fire",
+        "extinguisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mmo7Tuwmcq5CpxPEBLDTR_42.854248_-106.312140@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311190,
+    "wof:geomhash":"254c098fc2d0c0b094ba1f0a2655731f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874044673
+        }
+    ],
+    "wof:id":874044673,
+    "wof:lastmodified":1464311190,
+    "wof:name":"Baileys Fire Equipment",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "extinguisher"
+    ]
+},
+  "bbox": [
+    -106.31214,
+    42.854248,
+    -106.31214,
+    42.854248
+],
+  "geometry": {"coordinates":[-106.31214,42.854248],"type":"Point"}
+}

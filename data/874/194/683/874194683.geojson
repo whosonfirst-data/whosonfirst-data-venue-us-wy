@@ -1,0 +1,71 @@
+{
+  "id": 874194683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592435,41.308986,-105.592435,41.308986",
+    "geom:latitude":41.308986,
+    "geom:longitude":-105.592435,
+    "iso:country":"US",
+    "sg:address":"507 S 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 1982",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dFxpKdwwQRUVnKEPJR7KE_41.308986_-105.592435@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312786,
+    "wof:geomhash":"2eceb22c90ce575af5e57171739a5c0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874194683
+        }
+    ],
+    "wof:id":874194683,
+    "wof:lastmodified":1464312786,
+    "wof:name":"Gay Deitrich PHD",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -105.592435,
+    41.308986,
+    -105.592435,
+    41.308986
+],
+  "geometry": {"coordinates":[-105.59243499999999,41.308986],"type":"Point"}
+}

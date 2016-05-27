@@ -1,0 +1,69 @@
+{
+  "id": 874057817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.29894,42.834461,-106.29894,42.834461",
+    "geom:latitude":42.834461,
+    "geom:longitude":-106.29894,
+    "iso:country":"US",
+    "sg:address":"1615 S Fairdale Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4501",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_717rBOHj6j8dZNBCXnYyAS_42.834461_-106.298940@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311316,
+    "wof:geomhash":"58500aee3c7ca67d6e1c542d2910aacd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874057817
+        }
+    ],
+    "wof:id":874057817,
+    "wof:lastmodified":1464311316,
+    "wof:name":"Collection Center",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -106.29894,
+    42.834461,
+    -106.29894,
+    42.834461
+],
+  "geometry": {"coordinates":[-106.29894,42.834461],"type":"Point"}
+}

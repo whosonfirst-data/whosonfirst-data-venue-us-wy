@@ -1,0 +1,71 @@
+{
+  "id": 874033271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.44684,42.900264,-106.44684,42.900264",
+    "geom:latitude":42.900264,
+    "geom:longitude":-106.44684,
+    "iso:country":"US",
+    "sg:address":"7489 Morgan St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 6027",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "hydraulic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YsNY7KZ6wQc4nGeBztzhx_42.900264_-106.446840@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311078,
+    "wof:geomhash":"8fda2d239bf243840d4840945ab7f99a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874033271
+        }
+    ],
+    "wof:id":874033271,
+    "wof:lastmodified":1464311078,
+    "wof:name":"Hydraulic System Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "hydraulic"
+    ]
+},
+  "bbox": [
+    -106.44684,
+    42.900264,
+    -106.44684,
+    42.900264
+],
+  "geometry": {"coordinates":[-106.44683999999999,42.900264],"type":"Point"}
+}

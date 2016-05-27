@@ -1,0 +1,74 @@
+{
+  "id": 874228843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.566906,41.309513,-105.566906,41.309513",
+    "geom:latitude":41.309513,
+    "geom:longitude":-105.566906,
+    "iso:country":"US",
+    "sg:address":"2111 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/laramie/77666-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7676",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MEKitunhunk8IKkLO33nv_41.309513_-105.566906@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313149,
+    "wof:geomhash":"4e70dd8781ecad1e3e12e80d65243541",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874228843
+        }
+    ],
+    "wof:id":874228843,
+    "wof:lastmodified":1464313149,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -105.566906,
+    41.309513,
+    -105.566906,
+    41.309513
+],
+  "geometry": {"coordinates":[-105.566906,41.309513],"type":"Point"}
+}

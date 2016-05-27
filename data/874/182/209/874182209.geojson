@@ -1,0 +1,77 @@
+{
+  "id": 874182209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.408698,42.86538,-106.408698,42.86538",
+    "geom:latitude":42.86538,
+    "geom:longitude":-106.408698,
+    "iso:country":"US",
+    "sg:address":"5710 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 7020",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "crude",
+        "well",
+        "oil",
+        "gas",
+        "production"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tDNMkfIIfvZE6YUUmSje4_42.865380_-106.408698@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312652,
+    "wof:geomhash":"3ce861715ac277c45cd28ecc5cd00f2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874182209
+        }
+    ],
+    "wof:id":874182209,
+    "wof:lastmodified":1464312652,
+    "wof:name":"Sauer Drilling Company",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crude",
+        "well",
+        "oil",
+        "gas",
+        "production"
+    ]
+},
+  "bbox": [
+    -106.408698,
+    42.86538,
+    -106.408698,
+    42.86538
+],
+  "geometry": {"coordinates":[-106.408698,42.86538],"type":"Point"}
+}

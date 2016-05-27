@@ -1,0 +1,59 @@
+{
+  "id": 874229065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.080077,44.516975,-109.080077,44.516975",
+    "geom:latitude":44.516975,
+    "geom:longitude":-109.080077,
+    "iso:country":"US",
+    "sg:address":"321 Yellowstone Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cody/135348-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 5825",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BqZyircIqNjAOLxynHGuV_44.516975_-109.080077@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313151,
+    "wof:geomhash":"9d873bca239801181af10aedbe4ef896",
+    "wof:hierarchy":[],
+    "wof:id":874229065,
+    "wof:lastmodified":1464313151,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -109.080077,
+    44.516975,
+    -109.080077,
+    44.516975
+],
+  "geometry": {"coordinates":[-109.080077,44.516975],"type":"Point"}
+}

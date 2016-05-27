@@ -1,0 +1,56 @@
+{
+  "id": 874186957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.494006,44.276098,-105.494006,44.276098",
+    "geom:latitude":44.276098,
+    "geom:longitude":-105.494006,
+    "iso:country":"US",
+    "sg:address":"2001 S Douglas Hwy",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 8200",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eCG7HGd9ISngGhbebjPz0_44.276098_-105.494006@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312709,
+    "wof:geomhash":"48eba14d2b0545bb029b7ab29d1610d8",
+    "wof:hierarchy":[],
+    "wof:id":874186957,
+    "wof:lastmodified":1464312709,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -105.494006,
+    44.276098,
+    -105.494006,
+    44.276098
+],
+  "geometry": {"coordinates":[-105.494006,44.276098],"type":"Point"}
+}

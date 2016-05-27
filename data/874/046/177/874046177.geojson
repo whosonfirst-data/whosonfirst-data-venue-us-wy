@@ -1,0 +1,56 @@
+{
+  "id": 874046177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.996488,41.258779,-110.996488,41.258779",
+    "geom:latitude":41.258779,
+    "geom:longitude":-110.996488,
+    "iso:country":"US",
+    "sg:address":"80 Allegiance Cir",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 3795",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t05VPOJZz3vEEgArlgKvD_41.258779_-110.996488@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311208,
+    "wof:geomhash":"2260b73f8ed4efe7b8bbc3e67a8c6b54",
+    "wof:hierarchy":[],
+    "wof:id":874046177,
+    "wof:lastmodified":1464311208,
+    "wof:name":"Nate's Truck Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -110.996488,
+    41.258779,
+    -110.996488,
+    41.258779
+],
+  "geometry": {"coordinates":[-110.996488,41.258779],"type":"Point"}
+}

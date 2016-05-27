@@ -1,0 +1,56 @@
+{
+  "id": 874185225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.052084,44.488785,-108.052084,44.488785",
+    "geom:latitude":44.488785,
+    "geom:longitude":-108.052084,
+    "iso:country":"US",
+    "sg:address":"337 Greybull Ave",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 2005",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rRb9A5T75gnJ2Qt8fPLkP_44.488785_-108.052084@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312693,
+    "wof:geomhash":"4f3e6825181548b26d38d6feecff21ad",
+    "wof:hierarchy":[],
+    "wof:id":874185225,
+    "wof:lastmodified":1464312693,
+    "wof:name":"Greybull Dental Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -108.052084,
+    44.488785,
+    -108.052084,
+    44.488785
+],
+  "geometry": {"coordinates":[-108.05208399999999,44.488785],"type":"Point"}
+}

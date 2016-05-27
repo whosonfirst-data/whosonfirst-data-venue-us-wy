@@ -1,0 +1,71 @@
+{
+  "id": 874035119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.598672,41.312094,-105.598672,41.312094",
+    "geom:latitude":41.312094,
+    "geom:longitude":-105.598672,
+    "iso:country":"US",
+    "sg:address":"221 S Hodgeman St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 6331",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0369zxsWbydFkuD25sTqMw_41.312094_-105.598672@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311095,
+    "wof:geomhash":"69182c516cc5478cbb44f7b758a39e87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874035119
+        }
+    ],
+    "wof:id":874035119,
+    "wof:lastmodified":1464311095,
+    "wof:name":"Chemetron-Railway Products Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -105.598672,
+    41.312094,
+    -105.598672,
+    41.312094
+],
+  "geometry": {"coordinates":[-105.59867199999999,41.312094],"type":"Point"}
+}

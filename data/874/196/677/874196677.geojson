@@ -1,0 +1,56 @@
+{
+  "id": 874196677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.11089,43.741254,-111.11089,43.741254",
+    "geom:latitude":43.741254,
+    "geom:longitude":-111.11089,
+    "iso:country":"US",
+    "sg:address":"129 N Hwy 33",
+    "sg:city":"Driggs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 354 2212",
+    "sg:postcode":"83422",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jvQMnOnFoO1fVrykJZp5f_43.741254_-111.110890@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312812,
+    "wof:geomhash":"35710e81d52bd273b4d534de8fac24dd",
+    "wof:hierarchy":[],
+    "wof:id":874196677,
+    "wof:lastmodified":1464312812,
+    "wof:name":"Driggs Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -111.11089,
+    43.741254,
+    -111.11089,
+    43.741254
+],
+  "geometry": {"coordinates":[-111.11089,43.741254],"type":"Point"}
+}

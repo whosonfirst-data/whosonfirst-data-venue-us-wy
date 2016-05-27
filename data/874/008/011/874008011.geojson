@@ -1,0 +1,75 @@
+{
+  "id": 874008011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.406441,42.864111,-106.406441,42.864111",
+    "geom:latitude":42.864111,
+    "geom:longitude":-106.406441,
+    "iso:country":"US",
+    "sg:address":"5800 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 7571",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "product",
+        "retail",
+        "bakery",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Sa741ySGsr0olsqhRfIa1_42.864111_-106.406441@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310840,
+    "wof:geomhash":"2bde0786d5807efc7c2e1d93b8331ef8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874008011
+        }
+    ],
+    "wof:id":874008011,
+    "wof:lastmodified":1464310840,
+    "wof:name":"Sweetheart Bread Thrift Store",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "retail",
+        "bakery",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -106.406441,
+    42.864111,
+    -106.406441,
+    42.864111
+],
+  "geometry": {"coordinates":[-106.406441,42.864111],"type":"Point"}
+}

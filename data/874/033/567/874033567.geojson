@@ -1,0 +1,68 @@
+{
+  "id": 874033567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.24732,41.574879,-109.24732,41.574879",
+    "geom:latitude":41.574879,
+    "geom:longitude":-109.24732,
+    "iso:country":"US",
+    "sg:address":"1421 Dewar Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 5848",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_548d644EcQzqcU20WPFkAP_41.574879_-109.247320@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311081,
+    "wof:geomhash":"039a78581277ae8a2563e04ae9536b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874033567
+        }
+    ],
+    "wof:id":874033567,
+    "wof:lastmodified":1464311081,
+    "wof:name":"Pickin' Palace",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.24732,
+    41.574879,
+    -109.24732,
+    41.574879
+],
+  "geometry": {"coordinates":[-109.24732,41.574879],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874047351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.957489,41.260597,-110.957489,41.260597",
+    "geom:latitude":41.260597,
+    "geom:longitude":-110.957489,
+    "iso:country":"US",
+    "sg:address":"110 Center St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 3545",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Xy2869VYseBDGSNoVRywG_41.260597_-110.957489@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311218,
+    "wof:geomhash":"ac0d6750532a9c41bc296c1ea1a06393",
+    "wof:hierarchy":[],
+    "wof:id":874047351,
+    "wof:lastmodified":1464311218,
+    "wof:name":"R&I Refrigeration",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -110.957489,
+    41.260597,
+    -110.957489,
+    41.260597
+],
+  "geometry": {"coordinates":[-110.957489,41.260597],"type":"Point"}
+}

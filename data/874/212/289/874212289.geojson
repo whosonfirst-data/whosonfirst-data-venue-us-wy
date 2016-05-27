@@ -1,0 +1,73 @@
+{
+  "id": 874212289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590805,41.325402,-105.590805,41.325402",
+    "geom:latitude":41.325402,
+    "geom:longitude":-105.590805,
+    "iso:country":"US",
+    "sg:address":"1464 N 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3413",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IWLhfdDBaD4JoymVaepaK_41.325402_-105.590805@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312977,
+    "wof:geomhash":"b5d63ae415f67ff1c463f52f32c2e5bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874212289
+        }
+    ],
+    "wof:id":874212289,
+    "wof:lastmodified":1464312977,
+    "wof:name":"Quality Auto City",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -105.590805,
+    41.325402,
+    -105.590805,
+    41.325402
+],
+  "geometry": {"coordinates":[-105.590805,41.325402],"type":"Point"}
+}

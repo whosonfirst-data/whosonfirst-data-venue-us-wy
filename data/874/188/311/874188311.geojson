@@ -1,0 +1,56 @@
+{
+  "id": 874188311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.93343,42.72663,-110.93343,42.72663",
+    "geom:latitude":42.72663,
+    "geom:longitude":-110.93343,
+    "iso:country":"US",
+    "sg:address":"338 Washington St",
+    "sg:city":"Afton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 886 0726",
+    "sg:postcode":"83110",
+    "sg:province":"WY",
+    "sg:tags":[
+        "probation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hGG8qScUwHtg0iUXo2BeK_42.726630_-110.933430@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312723,
+    "wof:geomhash":"1f3722b7f006be61d691531a17353292",
+    "wof:hierarchy":[],
+    "wof:id":874188311,
+    "wof:lastmodified":1464312723,
+    "wof:name":"Probation & Parole",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "probation"
+    ]
+},
+  "bbox": [
+    -110.93343,
+    42.72663,
+    -110.93343,
+    42.72663
+],
+  "geometry": {"coordinates":[-110.93343,42.72663],"type":"Point"}
+}

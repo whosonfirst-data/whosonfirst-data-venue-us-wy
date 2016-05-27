@@ -1,0 +1,59 @@
+{
+  "id": 874228207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.791197,41.138439,-104.791197,41.138439",
+    "geom:latitude":41.138439,
+    "geom:longitude":-104.791197,
+    "iso:country":"US",
+    "sg:address":"2215 E Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/67241-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 4151",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FCGF6jdHLgV21o0ldFnem_41.138439_-104.791197@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313143,
+    "wof:geomhash":"1b25ab51d4a25c4e1dd57058e24a4e4f",
+    "wof:hierarchy":[],
+    "wof:id":874228207,
+    "wof:lastmodified":1464313143,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -104.791197,
+    41.138439,
+    -104.791197,
+    41.138439
+],
+  "geometry": {"coordinates":[-104.791197,41.138439],"type":"Point"}
+}

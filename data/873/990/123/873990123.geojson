@@ -1,0 +1,58 @@
+{
+  "id": 873990123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.946158,44.779696,-106.946158,44.779696",
+    "geom:latitude":44.779696,
+    "geom:longitude":-106.946158,
+    "iso:country":"US",
+    "sg:address":"1566 Terra Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 9708",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27DsLI23B5IINP77mJDBpn_44.779696_-106.946158@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310690,
+    "wof:geomhash":"dee96be1ec5f4748516036aa605b47f5",
+    "wof:hierarchy":[],
+    "wof:id":873990123,
+    "wof:lastmodified":1464310690,
+    "wof:name":"Dona Ana Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -106.946158,
+    44.779696,
+    -106.946158,
+    44.779696
+],
+  "geometry": {"coordinates":[-106.946158,44.779696],"type":"Point"}
+}

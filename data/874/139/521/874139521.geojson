@@ -1,0 +1,56 @@
+{
+  "id": 874139521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955648,44.803658,-106.955648,44.803658",
+    "geom:latitude":44.803658,
+    "geom:longitude":-106.955648,
+    "iso:country":"US",
+    "sg:address":"515 N Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 5344",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nlU3HnU4IzMAYpoWXAsp4_44.803658_-106.955648@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312231,
+    "wof:geomhash":"4945776ee116010e591651854a5d6871",
+    "wof:hierarchy":[],
+    "wof:id":874139521,
+    "wof:lastmodified":1464312231,
+    "wof:name":"Wyo Barber Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.955648,
+    44.803658,
+    -106.955648,
+    44.803658
+],
+  "geometry": {"coordinates":[-106.955648,44.803658],"type":"Point"}
+}

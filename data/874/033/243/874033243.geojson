@@ -1,0 +1,73 @@
+{
+  "id": 874033243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.422466,42.880055,-106.422466,42.880055",
+    "geom:latitude":42.880055,
+    "geom:longitude":-106.422466,
+    "iso:country":"US",
+    "sg:address":"2375 Oil Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 0387",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pipe",
+        "line",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65vPaS9eNt4v2L96PZvDej_42.880055_-106.422466@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311078,
+    "wof:geomhash":"086aa878a20d44df9c95623e60f8a4e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874033243
+        }
+    ],
+    "wof:id":874033243,
+    "wof:lastmodified":1464311078,
+    "wof:name":"BJ Process & Pipeline Svc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "line",
+        "company"
+    ]
+},
+  "bbox": [
+    -106.422466,
+    42.880055,
+    -106.422466,
+    42.880055
+],
+  "geometry": {"coordinates":[-106.422466,42.880055],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874027661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.692838,44.343065,-106.692838,44.343065",
+    "geom:latitude":44.343065,
+    "geom:longitude":-106.692838,
+    "iso:country":"US",
+    "sg:address":"325 S Tisdale Ave",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 2165",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HsafzFf09wBcdXlgraInN_44.343065_-106.692838@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311022,
+    "wof:geomhash":"6adbf2ed264d90429de212c88d21d408",
+    "wof:hierarchy":[],
+    "wof:id":874027661,
+    "wof:lastmodified":1464311022,
+    "wof:name":"Michael Roush",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.692838,
+    44.343065,
+    -106.692838,
+    44.343065
+],
+  "geometry": {"coordinates":[-106.69283799999999,44.343065],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874207057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.257706,41.78652,-107.257706,41.78652",
+    "geom:latitude":41.78652,
+    "geom:longitude":-107.257706,
+    "iso:country":"US",
+    "sg:address":"1924 W Spruce St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 9331",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jQKXV4uhCVdBOsfc9Rr2b_41.786520_-107.257706@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312920,
+    "wof:geomhash":"498e3efc16016d330809540d683669e2",
+    "wof:hierarchy":[],
+    "wof:id":874207057,
+    "wof:lastmodified":1464312920,
+    "wof:name":"Terry's Towing Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -107.257706,
+    41.78652,
+    -107.257706,
+    41.78652
+],
+  "geometry": {"coordinates":[-107.257706,41.78652],"type":"Point"}
+}

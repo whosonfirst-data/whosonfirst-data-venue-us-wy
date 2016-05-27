@@ -1,0 +1,75 @@
+{
+  "id": 874135567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593623,41.31104,-105.593623,41.31104",
+    "geom:latitude":41.31104,
+    "geom:longitude":-105.593623,
+    "iso:country":"US",
+    "sg:address":"301 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 2909",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating",
+        "religious",
+        "organization"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VHysUVE13cRwqc0GU3CkV_41.311040_-105.593623@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312196,
+    "wof:geomhash":"db6886f1f8252be8f5604f449bcb7422",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874135567
+        }
+    ],
+    "wof:id":874135567,
+    "wof:lastmodified":1464312196,
+    "wof:name":"Grand Avenue",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "religious",
+        "organization"
+    ]
+},
+  "bbox": [
+    -105.593623,
+    41.31104,
+    -105.593623,
+    41.31104
+],
+  "geometry": {"coordinates":[-105.59362299999999,41.31104],"type":"Point"}
+}

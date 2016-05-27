@@ -1,0 +1,64 @@
+{
+  "id": 874074575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.338771,42.833287,-106.338771,42.833287",
+    "geom:latitude":42.833287,
+    "geom:longitude":-106.338771,
+    "iso:country":"US",
+    "sg:address":"1749 S Boxelder St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 6358",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yWw7GUWpOHy9nPefenyAI_42.833287_-106.338771@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311499,
+    "wof:geomhash":"2a628966210abe21a1c7763c10160b23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874074575
+        }
+    ],
+    "wof:id":874074575,
+    "wof:lastmodified":1464311499,
+    "wof:name":"Alpine Dental Clinic",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.338771,
+    42.833287,
+    -106.338771,
+    42.833287
+],
+  "geometry": {"coordinates":[-106.33877099999999,42.833287],"type":"Point"}
+}

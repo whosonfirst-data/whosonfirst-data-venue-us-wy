@@ -1,0 +1,64 @@
+{
+  "id": 874068591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.41202,42.807111,-106.41202,42.807111",
+    "geom:latitude":42.807111,
+    "geom:longitude":-106.41202,
+    "iso:country":"US",
+    "sg:address":"4171 S Skyline Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1260",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zbxhkKj0lP0PPPkh2iAfM_42.807111_-106.412020@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311419,
+    "wof:geomhash":"146dd67fdd6128743ee2145acccc907b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874068591
+        }
+    ],
+    "wof:id":874068591,
+    "wof:lastmodified":1464311419,
+    "wof:name":"Ark Animal Hospital",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.41202,
+    42.807111,
+    -106.41202,
+    42.807111
+],
+  "geometry": {"coordinates":[-106.41202,42.807111],"type":"Point"}
+}

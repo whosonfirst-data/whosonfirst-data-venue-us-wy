@@ -1,0 +1,58 @@
+{
+  "id": 874143571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.699151,44.349562,-106.699151,44.349562",
+    "geom:latitude":44.349562,
+    "geom:longitude":-106.699151,
+    "iso:country":"US",
+    "sg:address":"158 N Main St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 7934",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03ut2jsrNC7qyQwnX3DmN2_44.349562_-106.699151@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312267,
+    "wof:geomhash":"40d7ae36b0eb56d5b42ae55385ac4433",
+    "wof:hierarchy":[],
+    "wof:id":874143571,
+    "wof:lastmodified":1464312267,
+    "wof:name":"Hershey Apts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -106.699151,
+    44.349562,
+    -106.699151,
+    44.349562
+],
+  "geometry": {"coordinates":[-106.699151,44.349562],"type":"Point"}
+}

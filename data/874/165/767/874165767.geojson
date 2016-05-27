@@ -1,0 +1,66 @@
+{
+  "id": 874165767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.582986,41.311148,-105.582986,41.311148",
+    "geom:latitude":41.311148,
+    "geom:longitude":-105.582986,
+    "iso:country":"US",
+    "sg:address":"215 S 11th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2061",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fbzKgpNa0h2ZAjr1d3HPQ_41.311148_-105.582986@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312487,
+    "wof:geomhash":"9c4ed70e685886e9d1346edd38271ee0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874165767
+        }
+    ],
+    "wof:id":874165767,
+    "wof:lastmodified":1464312487,
+    "wof:name":"United Presbyterian Church",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.582986,
+    41.311148,
+    -105.582986,
+    41.311148
+],
+  "geometry": {"coordinates":[-105.58298600000001,41.311148],"type":"Point"}
+}

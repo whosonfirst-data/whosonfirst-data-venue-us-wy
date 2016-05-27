@@ -1,0 +1,56 @@
+{
+  "id": 874063415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.812253,41.128283,-104.812253,41.128283",
+    "geom:latitude":41.128283,
+    "geom:longitude":-104.812253,
+    "iso:country":"US",
+    "sg:address":"111 W 11th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 0440",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q9UIZalyDN3lDuNwubtxJ_41.128283_-104.812253@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311366,
+    "wof:geomhash":"5355221eb841f95946b130a0b247d998",
+    "wof:hierarchy":[],
+    "wof:id":874063415,
+    "wof:lastmodified":1464311366,
+    "wof:name":"Sprint",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -104.812253,
+    41.128283,
+    -104.812253,
+    41.128283
+],
+  "geometry": {"coordinates":[-104.812253,41.128283],"type":"Point"}
+}

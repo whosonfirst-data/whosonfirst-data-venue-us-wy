@@ -1,0 +1,58 @@
+{
+  "id": 873991559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.015748,44.775518,-107.015748,44.775518",
+    "geom:latitude":44.775518,
+    "geom:longitude":-107.015748,
+    "iso:country":"US",
+    "sg:address":"3 Lane Ln",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 5695",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a6NPdIlSvYEfCz3gybzwY_44.775518_-107.015748@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310701,
+    "wof:geomhash":"7c4bf9cf0cb75d438df66faff4a6df83",
+    "wof:hierarchy":[],
+    "wof:id":873991559,
+    "wof:lastmodified":1464310701,
+    "wof:name":"Welty's Auto Svc & Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -107.015748,
+    44.775518,
+    -107.015748,
+    44.775518
+],
+  "geometry": {"coordinates":[-107.015748,44.775518],"type":"Point"}
+}

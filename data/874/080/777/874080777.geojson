@@ -1,0 +1,56 @@
+{
+  "id": 874080777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.386466,44.83745,-108.386466,44.83745",
+    "geom:latitude":44.83745,
+    "geom:longitude":-108.386466,
+    "iso:country":"US",
+    "sg:address":"340 US Hwy 14A E",
+    "sg:city":"Lovell",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 548 6309",
+    "sg:postcode":"82431",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IUeIhAbhFv1abCwtDVQ5U_44.837450_-108.386466@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311560,
+    "wof:geomhash":"49123f1fdfde584bb6cf8eb90818ba12",
+    "wof:hierarchy":[],
+    "wof:id":874080777,
+    "wof:lastmodified":1464311560,
+    "wof:name":"Big Horn Gas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -108.386466,
+    44.83745,
+    -108.386466,
+    44.83745
+],
+  "geometry": {"coordinates":[-108.386466,44.83745],"type":"Point"}
+}

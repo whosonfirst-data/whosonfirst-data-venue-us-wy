@@ -1,0 +1,73 @@
+{
+  "id": 874184555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.327895,42.846296,-106.327895,42.846296",
+    "geom:latitude":42.846296,
+    "geom:longitude":-106.327895,
+    "iso:country":"US",
+    "sg:address":"539 S Ash St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 3314",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop",
+        "equipment",
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15h9V5AXddn1u57R57L929_42.846296_-106.327895@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312686,
+    "wof:geomhash":"c7235f8dde5696fe7bc27be1d6bf4801",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874184555
+        }
+    ],
+    "wof:id":874184555,
+    "wof:lastmodified":1464312686,
+    "wof:name":"Uptown Hair Styles",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "equipment",
+        "establishment"
+    ]
+},
+  "bbox": [
+    -106.327895,
+    42.846296,
+    -106.327895,
+    42.846296
+],
+  "geometry": {"coordinates":[-106.327895,42.846296],"type":"Point"}
+}

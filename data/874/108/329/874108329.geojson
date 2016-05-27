@@ -1,0 +1,69 @@
+{
+  "id": 874108329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.429386,42.863174,-106.429386,42.863174",
+    "geom:latitude":42.863174,
+    "geom:longitude":-106.429386,
+    "iso:country":"US",
+    "sg:address":"6750 W Zero Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 4610",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sandblasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TBf8pNSFxw8pERttnJK3R_42.863174_-106.429386@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311897,
+    "wof:geomhash":"ef98476ab28e9f2fc1168ec040188645",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874108329
+        }
+    ],
+    "wof:id":874108329,
+    "wof:lastmodified":1464311897,
+    "wof:name":"Abrasive Sales",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandblasting"
+    ]
+},
+  "bbox": [
+    -106.429386,
+    42.863174,
+    -106.429386,
+    42.863174
+],
+  "geometry": {"coordinates":[-106.42938599999999,42.863174],"type":"Point"}
+}

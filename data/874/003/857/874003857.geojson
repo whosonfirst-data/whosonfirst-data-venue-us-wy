@@ -1,0 +1,73 @@
+{
+  "id": 874003857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.626905,41.29336,-105.626905,41.29336",
+    "geom:latitude":41.29336,
+    "geom:longitude":-105.626905,
+    "iso:country":"US",
+    "sg:address":"2332 Cottonwood Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7447",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7P39iih73FZe0wxfdFp5Hz_41.293360_-105.626905@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310802,
+    "wof:geomhash":"b61023a8e65849dbec3175dd636a42c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874003857
+        }
+    ],
+    "wof:id":874003857,
+    "wof:lastmodified":1464310802,
+    "wof:name":"Primary Electric",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.626905,
+    41.29336,
+    -105.626905,
+    41.29336
+],
+  "geometry": {"coordinates":[-105.62690499999999,41.29336],"type":"Point"}
+}

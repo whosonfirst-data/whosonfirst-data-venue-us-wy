@@ -1,0 +1,64 @@
+{
+  "id": 874143915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.322693,42.846737,-106.322693,42.846737",
+    "geom:latitude":42.846737,
+    "geom:longitude":-106.322693,
+    "iso:country":"US",
+    "sg:address":"222 E Collins Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 5511",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vZmYmzob1r68r5kA5uQ9A_42.846737_-106.322693@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312270,
+    "wof:geomhash":"35b0dd9c366ba62efecea01a741b7805",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874143915
+        }
+    ],
+    "wof:id":874143915,
+    "wof:lastmodified":1464312270,
+    "wof:name":"Plains Furniture & Carpeting",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.322693,
+    42.846737,
+    -106.322693,
+    42.846737
+],
+  "geometry": {"coordinates":[-106.322693,42.846737],"type":"Point"}
+}

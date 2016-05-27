@@ -1,0 +1,58 @@
+{
+  "id": 874154279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.431212,44.444155,-108.431212,44.444155",
+    "geom:latitude":44.444155,
+    "geom:longitude":-108.431212,
+    "iso:country":"US",
+    "sg:address":"123 Elm Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 762 3364",
+    "sg:postcode":"82411",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_652Kkhu7SsqoGzbW0LMa01_44.444155_-108.431212@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312370,
+    "wof:geomhash":"5d1dcdc200e528610036a57eaf03b06a",
+    "wof:hierarchy":[],
+    "wof:id":874154279,
+    "wof:lastmodified":1464312370,
+    "wof:name":"Burlington Car Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.431212,
+    44.444155,
+    -108.431212,
+    44.444155
+],
+  "geometry": {"coordinates":[-108.431212,44.444155],"type":"Point"}
+}

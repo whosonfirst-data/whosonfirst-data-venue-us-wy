@@ -1,0 +1,56 @@
+{
+  "id": 874145597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.75601,44.753335,-108.75601,44.753335",
+    "geom:latitude":44.753335,
+    "geom:longitude":-108.75601,
+    "iso:country":"US",
+    "sg:address":"163 N Clark St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 5440",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lDLWgTH8lNPyQOnareW5g_44.753335_-108.756010@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312285,
+    "wof:geomhash":"fa13686a4d905940d4a5008628541acb",
+    "wof:hierarchy":[],
+    "wof:id":874145597,
+    "wof:lastmodified":1464312285,
+    "wof:name":"Segoinc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -108.75601,
+    44.753335,
+    -108.75601,
+    44.753335
+],
+  "geometry": {"coordinates":[-108.75601,44.753335],"type":"Point"}
+}

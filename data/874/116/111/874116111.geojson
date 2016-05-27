@@ -1,0 +1,73 @@
+{
+  "id": 874116111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.581929,41.401184,-105.581929,41.401184",
+    "geom:latitude":41.401184,
+    "geom:longitude":-105.581929,
+    "iso:country":"US",
+    "sg:address":"19 East St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 761 0788",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "house",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LjNShZWMSwzpX2ua6vu4E_41.401184_-105.581929@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311998,
+    "wof:geomhash":"f5194159c2ee7c4c65a74dbd2c765fc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874116111
+        }
+    ],
+    "wof:id":874116111,
+    "wof:lastmodified":1464311998,
+    "wof:name":"M & M Homes Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "family"
+    ]
+},
+  "bbox": [
+    -105.581929,
+    41.401184,
+    -105.581929,
+    41.401184
+],
+  "geometry": {"coordinates":[-105.581929,41.401184],"type":"Point"}
+}

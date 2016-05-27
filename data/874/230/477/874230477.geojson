@@ -1,0 +1,64 @@
+{
+  "id": 874230477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.817699,41.134278,-104.817699,41.134278",
+    "geom:latitude":41.134278,
+    "geom:longitude":-104.817699,
+    "iso:country":"US",
+    "sg:address":"1815 Carey Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/5947-morts-bagels/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 5400",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "bagel",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QBkZppmuprAgPS1QecVir_41.134887_-104.818002@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313164,
+    "wof:geomhash":"ce606a18604464763a72e4dcdd988472",
+    "wof:hierarchy":[],
+    "wof:id":874230477,
+    "wof:lastmodified":1464313164,
+    "wof:name":"Mort's Bagels",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bagel",
+        "american"
+    ]
+},
+  "bbox": [
+    -104.817699,
+    41.134278,
+    -104.817699,
+    41.134278
+],
+  "geometry": {"coordinates":[-104.817699,41.134278],"type":"Point"}
+}

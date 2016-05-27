@@ -1,0 +1,73 @@
+{
+  "id": 873992559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.362541,42.850135,-106.362541,42.850135",
+    "geom:latitude":42.850135,
+    "geom:longitude":-106.362541,
+    "iso:country":"US",
+    "sg:address":"189 Progress Cir",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 5736",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "signal",
+        "traffic",
+        "sign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jEfkJiAsnW1JnRtNl1npK_42.850135_-106.362541@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310709,
+    "wof:geomhash":"53d683cf00f8ed18856ebdfbc80ccdeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873992559
+        }
+    ],
+    "wof:id":873992559,
+    "wof:lastmodified":1464310709,
+    "wof:name":"Roadway Enterprises Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "signal",
+        "traffic",
+        "sign"
+    ]
+},
+  "bbox": [
+    -106.362541,
+    42.850135,
+    -106.362541,
+    42.850135
+],
+  "geometry": {"coordinates":[-106.36254099999999,42.850135],"type":"Point"}
+}

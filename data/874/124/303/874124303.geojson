@@ -1,0 +1,56 @@
+{
+  "id": 874124303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.761888,43.47844,-110.761888,43.47844",
+    "geom:latitude":43.47844,
+    "geom:longitude":-110.761888,
+    "iso:country":"US",
+    "sg:address":"40 E Pearl Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 4732",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bZMSWfLk97jh1dcfPQJ0T_43.478440_-110.761888@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312079,
+    "wof:geomhash":"042dc3960e4508761ec6260ca9dcfe6f",
+    "wof:hierarchy":[],
+    "wof:id":874124303,
+    "wof:lastmodified":1464312079,
+    "wof:name":"Jackson/Teton County Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -110.761888,
+    43.47844,
+    -110.761888,
+    43.47844
+],
+  "geometry": {"coordinates":[-110.761888,43.47844],"type":"Point"}
+}

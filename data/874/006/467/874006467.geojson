@@ -1,0 +1,61 @@
+{
+  "id": 874006467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.82062,41.13069,-104.82062,41.13069",
+    "geom:latitude":41.13069,
+    "geom:longitude":-104.82062,
+    "iso:country":"US",
+    "sg:address":"621 W Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 0053",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "scooter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e37aDTYjVvzP659u4oehW_41.130690_-104.820620@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310828,
+    "wof:geomhash":"f1a977750d74b539d14a6e61600f1515",
+    "wof:hierarchy":[],
+    "wof:id":874006467,
+    "wof:lastmodified":1464310828,
+    "wof:name":"Mad Cyclez",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter"
+    ]
+},
+  "bbox": [
+    -104.82062,
+    41.13069,
+    -104.82062,
+    41.13069
+],
+  "geometry": {"coordinates":[-104.82062000000001,41.13069],"type":"Point"}
+}

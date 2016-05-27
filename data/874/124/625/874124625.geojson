@@ -1,0 +1,73 @@
+{
+  "id": 874124625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.335384,42.828828,-106.335384,42.828828",
+    "geom:latitude":42.828828,
+    "geom:longitude":-106.335384,
+    "iso:country":"US",
+    "sg:address":"842 W 21st St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 3852",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "boring",
+        "drilling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6txb5ABQwQmlRl1x7VSsNA_42.828828_-106.335384@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312082,
+    "wof:geomhash":"4bff350f80969016d1b71ba89a913ba0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874124625
+        }
+    ],
+    "wof:id":874124625,
+    "wof:lastmodified":1464312082,
+    "wof:name":"Rat Hole Drilling",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boring",
+        "drilling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.335384,
+    42.828828,
+    -106.335384,
+    42.828828
+],
+  "geometry": {"coordinates":[-106.335384,42.828828],"type":"Point"}
+}

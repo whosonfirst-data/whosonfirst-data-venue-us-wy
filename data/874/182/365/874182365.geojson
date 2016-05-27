@@ -1,0 +1,71 @@
+{
+  "id": 874182365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.579377,41.307311,-105.579377,41.307311",
+    "geom:latitude":41.307311,
+    "geom:longitude":-105.579377,
+    "iso:country":"US",
+    "sg:address":"600 S 14th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7147",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60u2MTEcyFYkNnCQkjg3Y1_41.307311_-105.579377@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312654,
+    "wof:geomhash":"eca9f32de179469b5dd10e88966a22cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874182365
+        }
+    ],
+    "wof:id":874182365,
+    "wof:lastmodified":1464312654,
+    "wof:name":"Summit Industries",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -105.579377,
+    41.307311,
+    -105.579377,
+    41.307311
+],
+  "geometry": {"coordinates":[-105.57937699999999,41.307311],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874047563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.210888,41.798863,-107.210888,41.798863",
+    "geom:latitude":41.798863,
+    "geom:longitude":-107.210888,
+    "iso:country":"US",
+    "sg:address":"2201 E Murray St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 7003",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tV5XuhomP4u5MwtYSFHd6_41.798863_-107.210888@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311220,
+    "wof:geomhash":"5265d75033f9e527fa5e552776ebcfb8",
+    "wof:hierarchy":[],
+    "wof:id":874047563,
+    "wof:lastmodified":1464311220,
+    "wof:name":"My Automotive Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -107.210888,
+    41.798863,
+    -107.210888,
+    41.798863
+],
+  "geometry": {"coordinates":[-107.210888,41.798863],"type":"Point"}
+}

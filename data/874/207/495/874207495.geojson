@@ -1,0 +1,73 @@
+{
+  "id": 874207495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593445,41.311849,-105.593445,41.311849",
+    "geom:latitude":41.311849,
+    "geom:longitude":-105.593445,
+    "iso:country":"US",
+    "sg:address":"211 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 5818",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QAuGlbiFJSl8WkZdWeNvR_41.311849_-105.593445@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312925,
+    "wof:geomhash":"93f3d811e186e01dff07f8531d8587d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874207495
+        }
+    ],
+    "wof:id":874207495,
+    "wof:lastmodified":1464312925,
+    "wof:name":"PDHP Marketing",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -105.593445,
+    41.311849,
+    -105.593445,
+    41.311849
+],
+  "geometry": {"coordinates":[-105.593445,41.311849],"type":"Point"}
+}

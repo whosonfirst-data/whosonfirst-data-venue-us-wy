@@ -1,0 +1,65 @@
+{
+  "id": 873992179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.319402,42.848652,-106.319402,42.848652",
+    "geom:latitude":42.848652,
+    "geom:longitude":-106.319402,
+    "iso:country":"US",
+    "sg:address":"545 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4551",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:website":"www.bonagency.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hg8YwlBvtmuay8d7U4Mv9_42.848652_-106.319402@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310706,
+    "wof:geomhash":"0e4ec2c67f3d7d2b72b10aefe675d158",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873992179
+        }
+    ],
+    "wof:id":873992179,
+    "wof:lastmodified":1464310706,
+    "wof:name":"Bon Agency",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.319402,
+    42.848652,
+    -106.319402,
+    42.848652
+],
+  "geometry": {"coordinates":[-106.319402,42.848652],"type":"Point"}
+}

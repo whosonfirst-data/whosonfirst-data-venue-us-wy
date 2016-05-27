@@ -1,0 +1,56 @@
+{
+  "id": 874216285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.400191,42.763107,-105.400191,42.763107",
+    "geom:latitude":42.763107,
+    "geom:longitude":-105.400191,
+    "iso:country":"US",
+    "sg:address":"1090 W Yellowstone Hwy",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 9700",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37kvsqrOiuLvnbh07mZjek_42.763107_-105.400191@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313016,
+    "wof:geomhash":"a0fe28c2df006d1dc52692b2ef8c5d66",
+    "wof:hierarchy":[],
+    "wof:id":874216285,
+    "wof:lastmodified":1464313016,
+    "wof:name":"McDonalds",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -105.400191,
+    42.763107,
+    -105.400191,
+    42.763107
+],
+  "geometry": {"coordinates":[-105.40019100000001,42.763107],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 874200341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593292,41.313214,-105.593292,41.313214",
+    "geom:latitude":41.313214,
+    "geom:longitude":-105.593292,
+    "iso:country":"US",
+    "sg:address":"165 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6671",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sqTLJBhqoLJiW7umvoNfG_41.313214_-105.593292@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312847,
+    "wof:geomhash":"79474ab6fbd3a56c76860f78f8f66467",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874200341
+        }
+    ],
+    "wof:id":874200341,
+    "wof:lastmodified":1464312847,
+    "wof:name":"Travelodge",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.593292,
+    41.313214,
+    -105.593292,
+    41.313214
+],
+  "geometry": {"coordinates":[-105.59329200000001,41.313214],"type":"Point"}
+}

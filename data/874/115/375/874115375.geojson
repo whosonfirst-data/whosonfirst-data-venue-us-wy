@@ -1,0 +1,56 @@
+{
+  "id": 874115375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.7549,44.752315,-108.7549,44.752315",
+    "geom:latitude":44.752315,
+    "geom:longitude":-108.7549,
+    "iso:country":"US",
+    "sg:address":"211 E Coulter Ave",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 2211",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YqY5HL4GoBltpaIyfROY4_44.752315_-108.754900@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311990,
+    "wof:geomhash":"60af589ee4bc275606956b49090e2cde",
+    "wof:hierarchy":[],
+    "wof:id":874115375,
+    "wof:lastmodified":1464311990,
+    "wof:name":"Powell City Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -108.7549,
+    44.752315,
+    -108.7549,
+    44.752315
+],
+  "geometry": {"coordinates":[-108.75490000000001,44.752315],"type":"Point"}
+}

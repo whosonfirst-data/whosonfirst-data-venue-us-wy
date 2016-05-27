@@ -1,0 +1,56 @@
+{
+  "id": 873991387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.700481,44.35068,-106.700481,44.35068",
+    "geom:latitude":44.35068,
+    "geom:longitude":-106.700481,
+    "iso:country":"US",
+    "sg:address":"351 N Adams Ave",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 2251",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17bDTlqrogWjdvrUPkTk4n_44.350680_-106.700481@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310699,
+    "wof:geomhash":"ce567acc0eed802b3ac5c5ffdce4e5b1",
+    "wof:hierarchy":[],
+    "wof:id":873991387,
+    "wof:lastmodified":1464310699,
+    "wof:name":"Adams Funeral Home",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -106.700481,
+    44.35068,
+    -106.700481,
+    44.35068
+],
+  "geometry": {"coordinates":[-106.700481,44.35068],"type":"Point"}
+}

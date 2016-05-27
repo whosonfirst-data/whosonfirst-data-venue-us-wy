@@ -1,0 +1,77 @@
+{
+  "id": 874044425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.58612,41.30574,-105.58612,41.30574",
+    "geom:latitude":41.30574,
+    "geom:longitude":-105.58612,
+    "iso:country":"US",
+    "sg:address":"914 E Park Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 8049",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "manufacture",
+        "game",
+        "retail",
+        "puzzle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15HDH2n3HeUZVUx0zECNjO_41.305740_-105.586120@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311188,
+    "wof:geomhash":"34e452f0134b267a2228a22bca3dd7b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874044425
+        }
+    ],
+    "wof:id":874044425,
+    "wof:lastmodified":1464311188,
+    "wof:name":"Grail Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacture",
+        "game",
+        "retail",
+        "puzzle"
+    ]
+},
+  "bbox": [
+    -105.58612,
+    41.30574,
+    -105.58612,
+    41.30574
+],
+  "geometry": {"coordinates":[-105.58611999999999,41.30574],"type":"Point"}
+}

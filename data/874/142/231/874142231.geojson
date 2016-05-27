@@ -1,0 +1,56 @@
+{
+  "id": 874142231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.055319,44.495,-108.055319,44.495",
+    "geom:latitude":44.495,
+    "geom:longitude":-108.055319,
+    "iso:country":"US",
+    "sg:address":"501 6th Ave N",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 2866",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zb6rpP8xBagAESKAnqXRN_44.495000_-108.055319@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312255,
+    "wof:geomhash":"14eba0803ee0efb00005aa4b18e1b6c8",
+    "wof:hierarchy":[],
+    "wof:id":874142231,
+    "wof:lastmodified":1464312255,
+    "wof:name":"Grace Lutheran Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -108.055319,
+    44.495,
+    -108.055319,
+    44.495
+],
+  "geometry": {"coordinates":[-108.055319,44.495],"type":"Point"}
+}

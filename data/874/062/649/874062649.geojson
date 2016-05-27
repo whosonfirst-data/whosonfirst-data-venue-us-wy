@@ -1,0 +1,65 @@
+{
+  "id": 874062649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.299074,42.833387,-106.299074,42.833387",
+    "geom:latitude":42.833387,
+    "geom:longitude":-106.299074,
+    "iso:country":"US",
+    "sg:address":"2044 Fairview Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 8853",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:website":"www.tjspecialtiesinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40TLt8xtiWJMXPOqdJQvVJ_42.833387_-106.299074@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311359,
+    "wof:geomhash":"d3cd85fef7d2f569a7a7ca5d784c65ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874062649
+        }
+    ],
+    "wof:id":874062649,
+    "wof:lastmodified":1464311359,
+    "wof:name":"T J Specialties",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.299074,
+    42.833387,
+    -106.299074,
+    42.833387
+],
+  "geometry": {"coordinates":[-106.299074,42.833387],"type":"Point"}
+}

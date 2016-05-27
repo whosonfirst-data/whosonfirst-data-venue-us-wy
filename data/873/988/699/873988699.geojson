@@ -1,0 +1,56 @@
+{
+  "id": 873988699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.818697,41.13785,-104.818697,41.13785",
+    "geom:latitude":41.13785,
+    "geom:longitude":-104.818697,
+    "iso:country":"US",
+    "sg:address":"2120 Capitol Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 772 2145",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NPNBBvN0c1q3EwDacK5z0_41.137850_-104.818697@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310680,
+    "wof:geomhash":"015112551fb636406a7624dcbd996c6a",
+    "wof:hierarchy":[],
+    "wof:id":873988699,
+    "wof:lastmodified":1464310680,
+    "wof:name":"US District Court Clerk",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -104.818697,
+    41.13785,
+    -104.818697,
+    41.13785
+],
+  "geometry": {"coordinates":[-104.818697,41.13785],"type":"Point"}
+}

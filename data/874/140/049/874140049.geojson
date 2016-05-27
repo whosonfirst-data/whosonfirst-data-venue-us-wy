@@ -1,0 +1,69 @@
+{
+  "id": 874140049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.322276,42.850851,-106.322276,42.850851",
+    "geom:latitude":42.850851,
+    "geom:longitude":-106.322276,
+    "iso:country":"US",
+    "sg:address":"145 N Durbin St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2990",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "blueprinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dDo3JWFlScBcMtBg6JHNf_42.850851_-106.322276@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312235,
+    "wof:geomhash":"f7c7938972feadc19e057702b8a1d048",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874140049
+        }
+    ],
+    "wof:id":874140049,
+    "wof:lastmodified":1464312235,
+    "wof:name":"Gard Talbot's Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blueprinting"
+    ]
+},
+  "bbox": [
+    -106.322276,
+    42.850851,
+    -106.322276,
+    42.850851
+],
+  "geometry": {"coordinates":[-106.322276,42.850851],"type":"Point"}
+}

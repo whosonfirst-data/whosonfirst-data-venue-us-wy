@@ -1,0 +1,77 @@
+{
+  "id": 874053427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593185,41.314267,-105.593185,41.314267",
+    "geom:latitude":41.314267,
+    "geom:longitude":-105.593185,
+    "iso:country":"US",
+    "sg:address":"255 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 5129",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "specializing",
+        "plumbing",
+        "boiler",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09Un1w4GmDLeVCQsyM77nY_41.314267_-105.593185@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311273,
+    "wof:geomhash":"c62ca62867468caf42f9c084db419034",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874053427
+        }
+    ],
+    "wof:id":874053427,
+    "wof:lastmodified":1464311273,
+    "wof:name":"Jnr Plumbing & Heating",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specializing",
+        "plumbing",
+        "boiler",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.593185,
+    41.314267,
+    -105.593185,
+    41.314267
+],
+  "geometry": {"coordinates":[-105.59318500000001,41.314267],"type":"Point"}
+}

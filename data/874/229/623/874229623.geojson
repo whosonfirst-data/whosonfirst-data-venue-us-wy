@@ -1,0 +1,72 @@
+{
+  "id": 874229623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.277632,42.848886,-106.277632,42.848886",
+    "geom:latitude":42.848886,
+    "geom:longitude":-106.277632,
+    "iso:country":"US",
+    "sg:address":"3741 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/casper/67220-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 9112",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V9XshEozxqVHTZrjdZxfQ_42.848886_-106.277632@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313157,
+    "wof:geomhash":"16b5fb04138a5eb10191de8a607f9613",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874229623
+        }
+    ],
+    "wof:id":874229623,
+    "wof:lastmodified":1464313157,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -106.277632,
+    42.848886,
+    -106.277632,
+    42.848886
+],
+  "geometry": {"coordinates":[-106.277632,42.848886],"type":"Point"}
+}

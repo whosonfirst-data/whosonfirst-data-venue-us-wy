@@ -1,0 +1,56 @@
+{
+  "id": 873985845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.382765,42.76049,-105.382765,42.76049",
+    "geom:latitude":42.76049,
+    "geom:longitude":-105.382765,
+    "iso:country":"US",
+    "sg:address":"124 N 4th St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 6565",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iuokflBAUQSHAqrmTU2Rg_42.760490_-105.382765@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310661,
+    "wof:geomhash":"46e64d99a20bfc4ad78f3bb944632ac2",
+    "wof:hierarchy":[],
+    "wof:id":873985845,
+    "wof:lastmodified":1464310661,
+    "wof:name":"Glenrock Diagnostic Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -105.382765,
+    42.76049,
+    -105.382765,
+    42.76049
+],
+  "geometry": {"coordinates":[-105.38276500000001,42.76049],"type":"Point"}
+}

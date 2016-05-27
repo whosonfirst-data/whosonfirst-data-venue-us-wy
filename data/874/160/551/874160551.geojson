@@ -1,0 +1,60 @@
+{
+  "id": 874160551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.937176,44.015022,-107.937176,44.015022",
+    "geom:latitude":44.015022,
+    "geom:longitude":-107.937176,
+    "iso:country":"US",
+    "sg:address":"223 Sunset Dr",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 6433",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "carwash",
+        "coin",
+        "laundry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MkIEEtTs07ZDYGdgKBNMl_44.015022_-107.937176@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312437,
+    "wof:geomhash":"ce0b12d6938883e00c17b1bce5b33bad",
+    "wof:hierarchy":[],
+    "wof:id":874160551,
+    "wof:lastmodified":1464312437,
+    "wof:name":"Oasis Carwash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "coin",
+        "laundry"
+    ]
+},
+  "bbox": [
+    -107.937176,
+    44.015022,
+    -107.937176,
+    44.015022
+],
+  "geometry": {"coordinates":[-107.93717599999999,44.015022],"type":"Point"}
+}

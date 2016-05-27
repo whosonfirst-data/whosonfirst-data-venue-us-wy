@@ -1,0 +1,74 @@
+{
+  "id": 874151023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.339696,42.856436,-106.339696,42.856436",
+    "geom:latitude":42.856436,
+    "geom:longitude":-106.339696,
+    "iso:country":"US",
+    "sg:address":"1307 W English Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 9500",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "communication",
+        "radio",
+        "system"
+    ],
+    "sg:website":"www.versapage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68AjCrpkNth806yJPAPtWu_42.856436_-106.339696@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312338,
+    "wof:geomhash":"9f85131af7efa914fa1279c654a4daa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874151023
+        }
+    ],
+    "wof:id":874151023,
+    "wof:lastmodified":1464312338,
+    "wof:name":"Versatel Communications",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "radio",
+        "system"
+    ]
+},
+  "bbox": [
+    -106.339696,
+    42.856436,
+    -106.339696,
+    42.856436
+],
+  "geometry": {"coordinates":[-106.339696,42.856436],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874164115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.63128,41.308446,-105.63128,41.308446",
+    "geom:latitude":41.308446,
+    "geom:longitude":-105.63128,
+    "iso:country":"US",
+    "sg:address":"2557 W Jackson St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 0747",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ROOcSBvpNgUL7Z2pgS2PH_41.308446_-105.631280@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312470,
+    "wof:geomhash":"0e93d32de6233b34f522f1e83e7d0557",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874164115
+        }
+    ],
+    "wof:id":874164115,
+    "wof:lastmodified":1464312470,
+    "wof:name":"Mountain Moving LLC",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -105.63128,
+    41.308446,
+    -105.63128,
+    41.308446
+],
+  "geometry": {"coordinates":[-105.63128,41.308446],"type":"Point"}
+}

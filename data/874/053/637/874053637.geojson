@@ -1,0 +1,71 @@
+{
+  "id": 874053637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.30974,42.82928,-106.30974,42.82928",
+    "geom:latitude":42.82928,
+    "geom:longitude":-106.30974,
+    "iso:country":"US",
+    "sg:address":"1900 S Washington St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 0895",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "correction",
+        "radon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76HsjiD3nqt0xERyZqH9fA_42.829280_-106.309740@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311275,
+    "wof:geomhash":"4c30511f33629104f3cbea6cdd2c0ad7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874053637
+        }
+    ],
+    "wof:id":874053637,
+    "wof:lastmodified":1464311275,
+    "wof:name":"Full House Radon Svc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correction",
+        "radon"
+    ]
+},
+  "bbox": [
+    -106.30974,
+    42.82928,
+    -106.30974,
+    42.82928
+],
+  "geometry": {"coordinates":[-106.30974000000001,42.82928],"type":"Point"}
+}

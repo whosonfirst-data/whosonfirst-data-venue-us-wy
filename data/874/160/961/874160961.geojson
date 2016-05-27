@@ -1,0 +1,57 @@
+{
+  "id": 874160961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.939024,44.016825,-107.939024,44.016825",
+    "geom:latitude":44.016825,
+    "geom:longitude":-107.939024,
+    "iso:country":"US",
+    "sg:address":"101 S 23rd St",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 5100",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "federal"
+    ],
+    "sg:website":"www.blm.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70UZzXTWLG8irBRwVJd2bs_44.016825_-107.939024@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312442,
+    "wof:geomhash":"1f9e341af52191a4595523cee441e3e2",
+    "wof:hierarchy":[],
+    "wof:id":874160961,
+    "wof:lastmodified":1464312442,
+    "wof:name":"US Land Management Bureau",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -107.939024,
+    44.016825,
+    -107.939024,
+    44.016825
+],
+  "geometry": {"coordinates":[-107.939024,44.016825],"type":"Point"}
+}

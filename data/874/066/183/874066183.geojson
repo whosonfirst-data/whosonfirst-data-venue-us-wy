@@ -1,0 +1,66 @@
+{
+  "id": 874066183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.585483,41.313633,-105.585483,41.313633",
+    "geom:latitude":41.313633,
+    "geom:longitude":-105.585483,
+    "iso:country":"US",
+    "sg:address":"272 N 9th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3451",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XkqUyqEvwgkIOWUpv3u4H_41.313633_-105.585483@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311390,
+    "wof:geomhash":"25be034abc3a6cfdccc826bfba7248c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874066183
+        }
+    ],
+    "wof:id":874066183,
+    "wof:lastmodified":1464311390,
+    "wof:name":"Rod Chisholm DDS",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.585483,
+    41.313633,
+    -105.585483,
+    41.313633
+],
+  "geometry": {"coordinates":[-105.585483,41.313633],"type":"Point"}
+}

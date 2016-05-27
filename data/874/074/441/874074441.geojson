@@ -1,0 +1,63 @@
+{
+  "id": 874074441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.757495,44.752241,-108.757495,44.752241",
+    "geom:latitude":44.752241,
+    "geom:longitude":-108.757495,
+    "iso:country":"US",
+    "sg:address":"145 S Bent St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 4043",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "drinking",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kTVjo178AzLPLrQjMg6sL_44.752241_-108.757495@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311498,
+    "wof:geomhash":"c3ae466b44163465b42413f32f602934",
+    "wof:hierarchy":[],
+    "wof:id":874074441,
+    "wof:lastmodified":1464311498,
+    "wof:name":"Clyde's Bar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -108.757495,
+    44.752241,
+    -108.757495,
+    44.752241
+],
+  "geometry": {"coordinates":[-108.75749500000001,44.752241],"type":"Point"}
+}

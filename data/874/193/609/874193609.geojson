@@ -1,0 +1,71 @@
+{
+  "id": 874193609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.31243,42.8345,-106.31243,42.8345",
+    "geom:latitude":42.8345,
+    "geom:longitude":-106.31243,
+    "iso:country":"US",
+    "sg:address":"1535 S McKinley St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 0271",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wedding",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LC1z29YlwF0hxOofAbVMb_42.834500_-106.312430@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312776,
+    "wof:geomhash":"8dd63881958c37b9e369d66953edebcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874193609
+        }
+    ],
+    "wof:id":874193609,
+    "wof:lastmodified":1464312776,
+    "wof:name":"Michelle's Balloons",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wedding",
+        "supply"
+    ]
+},
+  "bbox": [
+    -106.31243,
+    42.8345,
+    -106.31243,
+    42.8345
+],
+  "geometry": {"coordinates":[-106.31243000000001,42.8345],"type":"Point"}
+}

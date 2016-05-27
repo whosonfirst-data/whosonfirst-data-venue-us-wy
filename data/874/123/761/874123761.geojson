@@ -1,0 +1,72 @@
+{
+  "id": 874123761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593433,41.311094,-105.593433,41.311094",
+    "geom:latitude":41.311094,
+    "geom:longitude":-105.593433,
+    "iso:country":"US",
+    "sg:address":"319 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3115",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.stlaurenceotoole.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Au2A41RsaYSzKITUTNDML_41.311094_-105.593433@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312074,
+    "wof:geomhash":"06c37a4ddce677df56fbb4f124026509",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874123761
+        }
+    ],
+    "wof:id":874123761,
+    "wof:lastmodified":1464312074,
+    "wof:name":"St Laurence O'Toole Church",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -105.593433,
+    41.311094,
+    -105.593433,
+    41.311094
+],
+  "geometry": {"coordinates":[-105.593433,41.311094],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874064603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.452875,41.500515,-109.452875,41.500515",
+    "geom:latitude":41.500515,
+    "geom:longitude":-109.452875,
+    "iso:country":"US",
+    "sg:address":"1805 Wyoming Dr",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 4922",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u50D1D47sqED5iDRGr2xZ_41.500515_-109.452875@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311376,
+    "wof:geomhash":"2db494876755ad82358926c74372fcb6",
+    "wof:hierarchy":[],
+    "wof:id":874064603,
+    "wof:lastmodified":1464311376,
+    "wof:name":"Southwest Auto Glass",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -109.452875,
+    41.500515,
+    -109.452875,
+    41.500515
+],
+  "geometry": {"coordinates":[-109.45287500000001,41.500515],"type":"Point"}
+}

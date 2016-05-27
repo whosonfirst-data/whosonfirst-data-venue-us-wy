@@ -1,0 +1,56 @@
+{
+  "id": 874096253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.732123,41.139769,-104.732123,41.139769",
+    "geom:latitude":41.139769,
+    "geom:longitude":-104.732123,
+    "iso:country":"US",
+    "sg:address":"2607 Whitney Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 0076",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72XjtvYk2bwckAByE7HLee_41.139769_-104.732123@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311731,
+    "wof:geomhash":"8d7e940b4a67200ad543a70d45b9d4e9",
+    "wof:hierarchy":[],
+    "wof:id":874096253,
+    "wof:lastmodified":1464311731,
+    "wof:name":"Lincoln Valley Auto Salvage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -104.732123,
+    41.139769,
+    -104.732123,
+    41.139769
+],
+  "geometry": {"coordinates":[-104.732123,41.139769],"type":"Point"}
+}

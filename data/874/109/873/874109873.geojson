@@ -1,0 +1,73 @@
+{
+  "id": 874109873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.332801,42.854469,-106.332801,42.854469",
+    "geom:latitude":42.854469,
+    "geom:longitude":-106.332801,
+    "iso:country":"US",
+    "sg:address":"555 Warehouse Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 4920",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x3GHZOWX7GsnYO4DCKtLa_42.854469_-106.332801@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311917,
+    "wof:geomhash":"2e20a65d78b36bde95d8afff024faf6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874109873
+        }
+    ],
+    "wof:id":874109873,
+    "wof:lastmodified":1464311917,
+    "wof:name":"Hensley's Pro Tec Auto Body",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -106.332801,
+    42.854469,
+    -106.332801,
+    42.854469
+],
+  "geometry": {"coordinates":[-106.332801,42.854469],"type":"Point"}
+}

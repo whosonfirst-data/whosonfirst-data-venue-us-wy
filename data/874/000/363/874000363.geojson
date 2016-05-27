@@ -1,0 +1,71 @@
+{
+  "id": 874000363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.611999,41.298824,-105.611999,41.298824",
+    "geom:latitude":41.298824,
+    "geom:longitude":-105.611999,
+    "iso:country":"US",
+    "sg:address":"1313 Riverside Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 8388",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I1JqhkBSOowiMXdH7qLUI_41.298824_-105.611999@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310763,
+    "wof:geomhash":"32e1d97df4ea74554f70cc2029699310",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874000363
+        }
+    ],
+    "wof:id":874000363,
+    "wof:lastmodified":1464310763,
+    "wof:name":"Brain & Spine Surgery",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -105.611999,
+    41.298824,
+    -105.611999,
+    41.298824
+],
+  "geometry": {"coordinates":[-105.611999,41.298824],"type":"Point"}
+}

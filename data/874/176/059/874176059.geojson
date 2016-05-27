@@ -1,0 +1,83 @@
+{
+  "id": 874176059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.598612,41.275246,-105.598612,41.275246",
+    "geom:latitude":41.275246,
+    "geom:longitude":-105.598612,
+    "iso:country":"US",
+    "sg:address":"280 Iroquois St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 3963",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "excavating",
+        "excavation",
+        "contractor",
+        "concrete",
+        "operator",
+        "trucking",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OlWIN5IPJ3G90oqlnj8od_41.275246_-105.598612@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312588,
+    "wof:geomhash":"6f9478f0547d5c26b9025a8c55d46a50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874176059
+        }
+    ],
+    "wof:id":874176059,
+    "wof:lastmodified":1464312588,
+    "wof:name":"Ortega's Excavation & Constr",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "excavation",
+        "contractor",
+        "concrete",
+        "operator",
+        "trucking",
+        "local"
+    ]
+},
+  "bbox": [
+    -105.598612,
+    41.275246,
+    -105.598612,
+    41.275246
+],
+  "geometry": {"coordinates":[-105.598612,41.275246],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 874041757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.092908,44.5161,-109.092908,44.5161",
+    "geom:latitude":44.5161,
+    "geom:longitude":-109.092908,
+    "iso:country":"US",
+    "sg:address":"233 Yellowstone Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Ferry",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 6661",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "river",
+        "trip"
+    ],
+    "sg:website":"www.wyomingrivertrips.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Zgp2zcOhdgALPwAy3dxQu_44.516100_-109.092908@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311164,
+    "wof:geomhash":"cb75e7709c9b98a230e8d90d13ead94b",
+    "wof:hierarchy":[],
+    "wof:id":874041757,
+    "wof:lastmodified":1464311164,
+    "wof:name":"Wyoming River Trips",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "river",
+        "trip"
+    ]
+},
+  "bbox": [
+    -109.092908,
+    44.5161,
+    -109.092908,
+    44.5161
+],
+  "geometry": {"coordinates":[-109.09290799999999,44.5161],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874030787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.309173,42.853767,-106.309173,42.853767",
+    "geom:latitude":42.853767,
+    "geom:longitude":-106.309173,
+    "iso:country":"US",
+    "sg:address":"1212 E C St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 7638",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "water",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PHhXQmpyGd32tJKWsCbH8_42.853767_-106.309173@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311055,
+    "wof:geomhash":"ae6031f1d2355b025de4b4d26479343c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874030787
+        }
+    ],
+    "wof:id":874030787,
+    "wof:lastmodified":1464311055,
+    "wof:name":"Benardis Water Treatment Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -106.309173,
+    42.853767,
+    -106.309173,
+    42.853767
+],
+  "geometry": {"coordinates":[-106.309173,42.853767],"type":"Point"}
+}

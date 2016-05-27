@@ -1,0 +1,71 @@
+{
+  "id": 874191937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.336663,42.854892,-106.336663,42.854892",
+    "geom:latitude":42.854892,
+    "geom:longitude":-106.336663,
+    "iso:country":"US",
+    "sg:address":"550 N Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 3062",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "handicapped",
+        "for"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ypNKxeQNg9ZAtcw0FdxZA_42.854892_-106.336663@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312757,
+    "wof:geomhash":"6798930ec69294f8c47c45fae638e7d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874191937
+        }
+    ],
+    "wof:id":874191937,
+    "wof:lastmodified":1464312757,
+    "wof:name":"Special Olympics Wyoming",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handicapped",
+        "for"
+    ]
+},
+  "bbox": [
+    -106.336663,
+    42.854892,
+    -106.336663,
+    42.854892
+],
+  "geometry": {"coordinates":[-106.336663,42.854892],"type":"Point"}
+}

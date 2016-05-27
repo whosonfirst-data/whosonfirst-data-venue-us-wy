@@ -1,0 +1,61 @@
+{
+  "id": 874163811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.713399,44.724755,-108.713399,44.724755",
+    "geom:latitude":44.724755,
+    "geom:longitude":-108.713399,
+    "iso:country":"US",
+    "sg:address":"671 Ln 11",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 2820",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LptkeiDQEmeHoogHxNWSM_44.724755_-108.713399@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312467,
+    "wof:geomhash":"3f8f0c028eb4a244317e78cb419ecf86",
+    "wof:hierarchy":[],
+    "wof:id":874163811,
+    "wof:lastmodified":1464312467,
+    "wof:name":"Louis' Truck Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -108.713399,
+    44.724755,
+    -108.713399,
+    44.724755
+],
+  "geometry": {"coordinates":[-108.713399,44.724755],"type":"Point"}
+}

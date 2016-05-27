@@ -1,0 +1,70 @@
+{
+  "id": 874112797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.339387,42.856585,-106.339387,42.856585",
+    "geom:latitude":42.856585,
+    "geom:longitude":-106.339387,
+    "iso:country":"US",
+    "sg:address":"1328 W English Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 9566",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pump"
+    ],
+    "sg:website":"www.waterworksind.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vDOaTKtr0B6U01V8K4byd_42.856585_-106.339387@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311965,
+    "wof:geomhash":"be3491e4cf80e2964fae6752e11dd60a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874112797
+        }
+    ],
+    "wof:id":874112797,
+    "wof:lastmodified":1464311965,
+    "wof:name":"Waterworks Industries Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump"
+    ]
+},
+  "bbox": [
+    -106.339387,
+    42.856585,
+    -106.339387,
+    42.856585
+],
+  "geometry": {"coordinates":[-106.339387,42.856585],"type":"Point"}
+}

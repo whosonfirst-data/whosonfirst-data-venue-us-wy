@@ -1,0 +1,51 @@
+{
+  "id": 874088581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.79343,41.149206,-104.79343,41.149206",
+    "geom:latitude":41.149206,
+    "geom:longitude":-104.79343,
+    "iso:country":"US",
+    "sg:address":"3550 Essex Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 9009",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n77MYUKYYg3dC9dC8JMTw_41.149206_-104.793430@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311646,
+    "wof:geomhash":"85a4a4dd10431b5cbdbfa9effb78b0ba",
+    "wof:hierarchy":[],
+    "wof:id":874088581,
+    "wof:lastmodified":1464311646,
+    "wof:name":"Emediquik",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.79343,
+    41.149206,
+    -104.79343,
+    41.149206
+],
+  "geometry": {"coordinates":[-104.79343,41.149206],"type":"Point"}
+}

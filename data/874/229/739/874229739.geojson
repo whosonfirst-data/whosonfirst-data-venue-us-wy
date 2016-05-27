@@ -1,0 +1,70 @@
+{
+  "id": 874229739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.214443,42.847537,-106.214443,42.847537",
+    "geom:latitude":42.847537,
+    "geom:longitude":-106.214443,
+    "iso:country":"US",
+    "sg:address":"6985 Nugget",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/casper-south/147405-chesters/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0348",
+    "sg:postcode":"82636",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TCc3XSNjLzPFVI0CfiRKA_42.847537_-106.214443@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313158,
+    "wof:geomhash":"a497171349ffd44a269141befe4f5177",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874229739
+        }
+    ],
+    "wof:id":874229739,
+    "wof:lastmodified":1464313158,
+    "wof:name":"Chester's",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -106.214443,
+    42.847537,
+    -106.214443,
+    42.847537
+],
+  "geometry": {"coordinates":[-106.214443,42.847537],"type":"Point"}
+}

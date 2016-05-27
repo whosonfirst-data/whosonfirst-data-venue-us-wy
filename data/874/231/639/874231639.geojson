@@ -1,0 +1,59 @@
+{
+  "id": 874231639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.460432,41.525143,-109.460432,41.525143",
+    "geom:latitude":41.525143,
+    "geom:longitude":-109.460432,
+    "iso:country":"US",
+    "sg:address":"615 E Flaming Gorge Way",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/green-river-north/67242-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 4562",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o3yhsXf3KU0oBIo8ImJjU_41.525496_-109.460899@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313182,
+    "wof:geomhash":"82d4a2bdb782476268a5556a830c2835",
+    "wof:hierarchy":[],
+    "wof:id":874231639,
+    "wof:lastmodified":1464313182,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -109.460432,
+    41.525143,
+    -109.460432,
+    41.525143
+],
+  "geometry": {"coordinates":[-109.460432,41.525143],"type":"Point"}
+}

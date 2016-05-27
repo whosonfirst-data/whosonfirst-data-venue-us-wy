@@ -1,0 +1,59 @@
+{
+  "id": 874084909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.9683,44.77343,-106.9683,44.77343",
+    "geom:latitude":44.77343,
+    "geom:longitude":-106.9683,
+    "iso:country":"US",
+    "sg:address":"911 W Brundage Ln",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 673 1875",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "county",
+        "protection"
+    ],
+    "sg:website":"www.city-sheridan-wy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cYSxVFAP5QVwHUg6pYPP6_44.773430_-106.968300@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311608,
+    "wof:geomhash":"403f2500de4ceffbed7e3a27392f5047",
+    "wof:hierarchy":[],
+    "wof:id":874084909,
+    "wof:lastmodified":1464311608,
+    "wof:name":"Sheridan County Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "protection"
+    ]
+},
+  "bbox": [
+    -106.9683,
+    44.77343,
+    -106.9683,
+    44.77343
+],
+  "geometry": {"coordinates":[-106.9683,44.77343],"type":"Point"}
+}

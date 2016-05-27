@@ -1,0 +1,56 @@
+{
+  "id": 873994525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.750575,43.479767,-110.750575,43.479767",
+    "geom:latitude":43.479767,
+    "geom:longitude":-110.750575,
+    "iso:country":"US",
+    "sg:address":"555 E Broadway",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 734 0884",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78z4DcWKdaRLeInUIrtrm5_43.479767_-110.750575@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310722,
+    "wof:geomhash":"c178b7c263424badee5b5a7fc70a8654",
+    "wof:hierarchy":[],
+    "wof:id":873994525,
+    "wof:lastmodified":1464310722,
+    "wof:name":"Western Wyoming Pathology",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -110.750575,
+    43.479767,
+    -110.750575,
+    43.479767
+],
+  "geometry": {"coordinates":[-110.750575,43.479767],"type":"Point"}
+}

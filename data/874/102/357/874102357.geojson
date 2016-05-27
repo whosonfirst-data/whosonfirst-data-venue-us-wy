@@ -1,0 +1,75 @@
+{
+  "id": 874102357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.369387,42.806186,-106.369387,42.806186",
+    "geom:latitude":42.806186,
+    "geom:longitude":-106.369387,
+    "iso:country":"US",
+    "sg:address":"3730 W 46th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 7412",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "light",
+        "industrial",
+        "maintenance",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04YI8b9A5FhujMtiXr5l5e_42.806186_-106.369387@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311823,
+    "wof:geomhash":"dd1d79f7b8e659b2127807e14d905123",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874102357
+        }
+    ],
+    "wof:id":874102357,
+    "wof:lastmodified":1464311823,
+    "wof:name":"Kc Contracting",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "light",
+        "industrial",
+        "maintenance",
+        "general"
+    ]
+},
+  "bbox": [
+    -106.369387,
+    42.806186,
+    -106.369387,
+    42.806186
+],
+  "geometry": {"coordinates":[-106.369387,42.806186],"type":"Point"}
+}

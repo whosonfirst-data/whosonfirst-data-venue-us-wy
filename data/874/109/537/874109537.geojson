@@ -1,0 +1,60 @@
+{
+  "id": 874109537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.260242,41.636222,-109.260242,41.636222",
+    "geom:latitude":41.636222,
+    "geom:longitude":-109.260242,
+    "iso:country":"US",
+    "sg:address":"123 Victor Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 5429",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gUuqjuzNRZBt4CMyLoGgh_41.636222_-109.260242@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311908,
+    "wof:geomhash":"5dd9e691425ffbcb3b4f8e1febba0272",
+    "wof:hierarchy":[],
+    "wof:id":874109537,
+    "wof:lastmodified":1464311908,
+    "wof:name":"ASR Radiator",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -109.260242,
+    41.636222,
+    -109.260242,
+    41.636222
+],
+  "geometry": {"coordinates":[-109.26024200000001,41.636222],"type":"Point"}
+}

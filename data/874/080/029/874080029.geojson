@@ -1,0 +1,71 @@
+{
+  "id": 874080029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.568554,41.306101,-105.568554,41.306101",
+    "geom:latitude":41.306101,
+    "geom:longitude":-105.568554,
+    "iso:country":"US",
+    "sg:address":"2016 E Sheridan St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 0940",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bnhZnNyDSxvx1NMP6Ok35_41.306101_-105.568554@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311551,
+    "wof:geomhash":"93243e77d45978782df62e39bf3c022d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874080029
+        }
+    ],
+    "wof:id":874080029,
+    "wof:lastmodified":1464311551,
+    "wof:name":"B & D Window Cleaning",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window"
+    ]
+},
+  "bbox": [
+    -105.568554,
+    41.306101,
+    -105.568554,
+    41.306101
+],
+  "geometry": {"coordinates":[-105.56855400000001,41.306101],"type":"Point"}
+}

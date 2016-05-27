@@ -1,0 +1,56 @@
+{
+  "id": 874216645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.381586,44.405062,-104.381586,44.405062",
+    "geom:latitude":44.405062,
+    "geom:longitude":-104.381586,
+    "iso:country":"US",
+    "sg:address":"213 E Main St",
+    "sg:city":"Sundance",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 283 3000",
+    "sg:postcode":"82729",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IqHkKSNFTWOPkUlpQRK1U_44.405062_-104.381586@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313019,
+    "wof:geomhash":"07c97c46e42611c4c6f5530aa2adc5af",
+    "wof:hierarchy":[],
+    "wof:id":874216645,
+    "wof:lastmodified":1464313019,
+    "wof:name":"Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -104.381586,
+    44.405062,
+    -104.381586,
+    44.405062
+],
+  "geometry": {"coordinates":[-104.381586,44.405062],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874118653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.43197,42.865909,-106.43197,42.865909",
+    "geom:latitude":42.865909,
+    "geom:longitude":-106.43197,
+    "iso:country":"US",
+    "sg:address":"1359 Willer Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 6550",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UxRb3IJUso7XAPUI86MWs_42.865909_-106.431970@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312022,
+    "wof:geomhash":"64128c7def833b84d192b6ed9d4eea21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874118653
+        }
+    ],
+    "wof:id":874118653,
+    "wof:lastmodified":1464312022,
+    "wof:name":"HUNTING Performance Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.43197,
+    42.865909,
+    -106.43197,
+    42.865909
+],
+  "geometry": {"coordinates":[-106.43197000000001,42.865909],"type":"Point"}
+}

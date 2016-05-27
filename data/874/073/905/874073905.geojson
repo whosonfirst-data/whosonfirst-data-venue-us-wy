@@ -1,0 +1,71 @@
+{
+  "id": 874073905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.27353,42.842344,-106.27353,42.842344",
+    "geom:latitude":42.842344,
+    "geom:longitude":-106.27353,
+    "iso:country":"US",
+    "sg:address":"3920 Dorset Ct",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3938",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "patent",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RnxqkaNNM9nKcMWg0RPao_42.842344_-106.273530@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311493,
+    "wof:geomhash":"89292c3d79f777a4fdd77693010e1b90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874073905
+        }
+    ],
+    "wof:id":874073905,
+    "wof:lastmodified":1464311493,
+    "wof:name":"Tuff Cuff Patent Corp",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "patent",
+        "agent"
+    ]
+},
+  "bbox": [
+    -106.27353,
+    42.842344,
+    -106.27353,
+    42.842344
+],
+  "geometry": {"coordinates":[-106.27352999999999,42.842344],"type":"Point"}
+}

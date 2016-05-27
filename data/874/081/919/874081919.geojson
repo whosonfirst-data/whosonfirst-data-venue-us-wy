@@ -1,0 +1,60 @@
+{
+  "id": 874081919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.736082,44.404925,-106.736082,44.404925",
+    "geom:latitude":44.404925,
+    "geom:longitude":-106.736082,
+    "iso:country":"US",
+    "sg:address":"290 Rock Creek Rd",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 1224",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hdXaH3GRq1bPfN9D6K4LP_44.404925_-106.736082@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311575,
+    "wof:geomhash":"50dc5b2c110d54279fc1c937bdd0fdb2",
+    "wof:hierarchy":[],
+    "wof:id":874081919,
+    "wof:lastmodified":1464311575,
+    "wof:name":"Powder River Kennels",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -106.736082,
+    44.404925,
+    -106.736082,
+    44.404925
+],
+  "geometry": {"coordinates":[-106.736082,44.404925],"type":"Point"}
+}

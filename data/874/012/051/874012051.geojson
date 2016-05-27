@@ -1,0 +1,69 @@
+{
+  "id": 874012051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323835,42.848418,-106.323835,42.848418",
+    "geom:latitude":42.848418,
+    "geom:longitude":-106.323835,
+    "iso:country":"US",
+    "sg:address":"240 S Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 9100",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zYrY41Ih63bOI8XEXn060_42.848418_-106.323835@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310869,
+    "wof:geomhash":"17b8b07ade430c919f478c61dfbfbb37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874012051
+        }
+    ],
+    "wof:id":874012051,
+    "wof:lastmodified":1464310869,
+    "wof:name":"Clark Optical",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.323835,
+    42.848418,
+    -106.323835,
+    42.848418
+],
+  "geometry": {"coordinates":[-106.323835,42.848418],"type":"Point"}
+}

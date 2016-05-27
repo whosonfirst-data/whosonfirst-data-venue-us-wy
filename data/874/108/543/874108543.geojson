@@ -1,0 +1,56 @@
+{
+  "id": 874108543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.45216,42.762219,-104.45216,42.762219",
+    "geom:latitude":42.762219,
+    "geom:longitude":-104.45216,
+    "iso:country":"US",
+    "sg:address":"328 N Main St",
+    "sg:city":"Lusk",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 334 3486",
+    "sg:postcode":"82225",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O5Z7Tiq5IwwqsUYbalMuM_42.762219_-104.452160@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311899,
+    "wof:geomhash":"c5fb8cb80637c28050abdd0f34b8aabb",
+    "wof:hierarchy":[],
+    "wof:id":874108543,
+    "wof:lastmodified":1464311899,
+    "wof:name":"Highway Patrol",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -104.45216,
+    42.762219,
+    -104.45216,
+    42.762219
+],
+  "geometry": {"coordinates":[-104.45216000000001,42.762219],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874204953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.34246,42.812709,-106.34246,42.812709",
+    "geom:latitude":42.812709,
+    "geom:longitude":-106.34246,
+    "iso:country":"US",
+    "sg:address":"3400 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2843",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rFWM7HPHDo4feD6ZSDR7Z_42.812709_-106.342460@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312894,
+    "wof:geomhash":"4137d8a2578708cf68012c66d27e7a0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874204953
+        }
+    ],
+    "wof:id":874204953,
+    "wof:lastmodified":1464312894,
+    "wof:name":"Platte River Outfitters",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -106.34246,
+    42.812709,
+    -106.34246,
+    42.812709
+],
+  "geometry": {"coordinates":[-106.34246,42.812709],"type":"Point"}
+}

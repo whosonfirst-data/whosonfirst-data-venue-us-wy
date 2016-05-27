@@ -1,0 +1,64 @@
+{
+  "id": 874157127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.269418,42.845315,-106.269418,42.845315",
+    "geom:latitude":42.845315,
+    "geom:longitude":-106.269418,
+    "iso:country":"US",
+    "sg:address":"493 Long Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 2354",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d4F5ZxO46vmTcIENHRBMz_42.845315_-106.269418@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312400,
+    "wof:geomhash":"6f6334b1c1ab03639fae2ef38a54a10c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874157127
+        }
+    ],
+    "wof:id":874157127,
+    "wof:lastmodified":1464312400,
+    "wof:name":"Secure Technology Solution",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.269418,
+    42.845315,
+    -106.269418,
+    42.845315
+],
+  "geometry": {"coordinates":[-106.269418,42.845315],"type":"Point"}
+}

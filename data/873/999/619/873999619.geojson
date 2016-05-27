@@ -1,0 +1,65 @@
+{
+  "id": 873999619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.768479,41.147552,-104.768479,41.147552",
+    "geom:latitude":41.147552,
+    "geom:longitude":-104.768479,
+    "iso:country":"US",
+    "sg:address":"3415 Cheyenne St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 433 8199",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "garage",
+        "door",
+        "install"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FNr3JOWaYK6f3KLgq2JgK_41.147552_-104.768479@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310758,
+    "wof:geomhash":"d9371e3a23feb076d25117e8fb84d3af",
+    "wof:hierarchy":[],
+    "wof:id":873999619,
+    "wof:lastmodified":1464310758,
+    "wof:name":"Wyoming Overhead Door LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage",
+        "door",
+        "install"
+    ]
+},
+  "bbox": [
+    -104.768479,
+    41.147552,
+    -104.768479,
+    41.147552
+],
+  "geometry": {"coordinates":[-104.768479,41.147552],"type":"Point"}
+}

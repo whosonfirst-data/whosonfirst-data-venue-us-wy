@@ -1,0 +1,71 @@
+{
+  "id": 873998875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.394842,42.848478,-106.394842,42.848478",
+    "geom:latitude":42.848478,
+    "geom:longitude":-106.394842,
+    "iso:country":"US",
+    "sg:address":"179 Oregon Trl",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 4420",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "light",
+        "bulb"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Wmt5eK0zjnRdvBiYBU2HK_42.848478_-106.394842@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310753,
+    "wof:geomhash":"6c7ba133f15f6f5d220607e117364860",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873998875
+        }
+    ],
+    "wof:id":873998875,
+    "wof:lastmodified":1464310753,
+    "wof:name":"CM Lighting Company",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "light",
+        "bulb"
+    ]
+},
+  "bbox": [
+    -106.394842,
+    42.848478,
+    -106.394842,
+    42.848478
+],
+  "geometry": {"coordinates":[-106.394842,42.848478],"type":"Point"}
+}

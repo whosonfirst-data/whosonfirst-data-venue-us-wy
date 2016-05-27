@@ -1,0 +1,66 @@
+{
+  "id": 873993401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591003,41.323606,-105.591003,41.323606",
+    "geom:latitude":41.323606,
+    "geom:longitude":-105.591003,
+    "iso:country":"US",
+    "sg:address":"1256 N 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7077",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TV8ed73PRH3fCJgLQRCyQ_41.323606_-105.591003@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310714,
+    "wof:geomhash":"85c2f6517a76fe18f3882d4cabd01632",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873993401
+        }
+    ],
+    "wof:id":873993401,
+    "wof:lastmodified":1464310714,
+    "wof:name":"Farmers Insurance Group",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.591003,
+    41.323606,
+    -105.591003,
+    41.323606
+],
+  "geometry": {"coordinates":[-105.591003,41.323606],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874115845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.413153,42.867692,-106.413153,42.867692",
+    "geom:latitude":42.867692,
+    "geom:longitude":-106.413153,
+    "iso:country":"US",
+    "sg:address":"6203 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 2729",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "control"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ld9GmVxk8PGW3O55B6tAx_42.867692_-106.413153@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311995,
+    "wof:geomhash":"cf734b46f52a5ec4dcceb3b8034c8803",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874115845
+        }
+    ],
+    "wof:id":874115845,
+    "wof:lastmodified":1464311995,
+    "wof:name":"Engine Accessories & Controls",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control"
+    ]
+},
+  "bbox": [
+    -106.413153,
+    42.867692,
+    -106.413153,
+    42.867692
+],
+  "geometry": {"coordinates":[-106.41315299999999,42.867692],"type":"Point"}
+}

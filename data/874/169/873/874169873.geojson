@@ -1,0 +1,73 @@
+{
+  "id": 874169873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.334455,42.830168,-106.334455,42.830168",
+    "geom:latitude":42.830168,
+    "geom:longitude":-106.334455,
+    "iso:country":"US",
+    "sg:address":"1911 S Chestnut St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8754",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "lighting",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KA1LvK4F7QmFUmZTtMX17_42.830168_-106.334455@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312525,
+    "wof:geomhash":"f459869ba2ee9b7d3041ede8b61427cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874169873
+        }
+    ],
+    "wof:id":874169873,
+    "wof:lastmodified":1464312525,
+    "wof:name":"Segment Systems Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -106.334455,
+    42.830168,
+    -106.334455,
+    42.830168
+],
+  "geometry": {"coordinates":[-106.33445500000001,42.830168],"type":"Point"}
+}

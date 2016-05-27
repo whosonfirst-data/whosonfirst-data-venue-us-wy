@@ -1,0 +1,58 @@
+{
+  "id": 874210519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.957373,41.249952,-110.957373,41.249952",
+    "geom:latitude":41.249952,
+    "geom:longitude":-110.957373,
+    "iso:country":"US",
+    "sg:address":"218 Troy Ct",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 9718",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PwdWqta59FMuskfIUpPGe_41.249952_-110.957373@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312955,
+    "wof:geomhash":"624197ece7e2444713945181a3197fcc",
+    "wof:hierarchy":[],
+    "wof:id":874210519,
+    "wof:lastmodified":1464312955,
+    "wof:name":"Chip's Plumbing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -110.957373,
+    41.249952,
+    -110.957373,
+    41.249952
+],
+  "geometry": {"coordinates":[-110.957373,41.249952],"type":"Point"}
+}

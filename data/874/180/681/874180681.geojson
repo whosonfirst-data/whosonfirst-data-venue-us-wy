@@ -1,0 +1,58 @@
+{
+  "id": 874180681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.850651,44.670445,-103.850651,44.670445",
+    "geom:latitude":44.670445,
+    "geom:longitude":-103.850651,
+    "iso:country":"US",
+    "sg:address":"707 Harding St",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 2571",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h52Wdq2BXnyf1ArKZpUpb_44.670445_-103.850651@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312636,
+    "wof:geomhash":"7d11e3fa9f277b709bb8458a3a8fc384",
+    "wof:hierarchy":[],
+    "wof:id":874180681,
+    "wof:lastmodified":1464312636,
+    "wof:name":"KBFS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -103.850651,
+    44.670445,
+    -103.850651,
+    44.670445
+],
+  "geometry": {"coordinates":[-103.850651,44.670445],"type":"Point"}
+}

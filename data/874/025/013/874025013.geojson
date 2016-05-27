@@ -1,0 +1,51 @@
+{
+  "id": 874025013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.194315,42.262427,-110.194315,42.262427",
+    "geom:latitude":42.262427,
+    "geom:longitude":-110.194315,
+    "iso:country":"US",
+    "sg:address":"125 S Main St",
+    "sg:city":"La Barge",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 386 2279",
+    "sg:postcode":"83123",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vOe6TY9TEgqMuABkkJil7_42.262427_-110.194315@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310996,
+    "wof:geomhash":"435c4e9ca73e926c97c646a1e0a8f0c7",
+    "wof:hierarchy":[],
+    "wof:id":874025013,
+    "wof:lastmodified":1464310996,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.194315,
+    42.262427,
+    -110.194315,
+    42.262427
+],
+  "geometry": {"coordinates":[-110.194315,42.262427],"type":"Point"}
+}

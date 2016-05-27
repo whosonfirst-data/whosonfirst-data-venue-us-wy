@@ -1,0 +1,56 @@
+{
+  "id": 874075603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.827275,41.142573,-104.827275,41.142573",
+    "geom:latitude":41.142573,
+    "geom:longitude":-104.827275,
+    "iso:country":"US",
+    "sg:address":"501 Randall Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 6744",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xCrF3FNFH1yBPzJOlNi8l_41.142573_-104.827275@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311507,
+    "wof:geomhash":"50e661a0d0440ef43f3b0a7181450138",
+    "wof:hierarchy":[],
+    "wof:id":874075603,
+    "wof:lastmodified":1464311507,
+    "wof:name":"One Hour Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -104.827275,
+    41.142573,
+    -104.827275,
+    41.142573
+],
+  "geometry": {"coordinates":[-104.827275,41.142573],"type":"Point"}
+}

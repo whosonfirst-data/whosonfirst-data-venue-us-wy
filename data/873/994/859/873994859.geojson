@@ -1,0 +1,58 @@
+{
+  "id": 873994859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.609967,41.211356,-104.609967,41.211356",
+    "geom:latitude":41.211356,
+    "geom:longitude":-104.609967,
+    "iso:country":"US",
+    "sg:address":"1452 Turquoise Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 6336",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MWiyOoCtipfwtIJqHv6bj_41.211356_-104.609967@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310725,
+    "wof:geomhash":"6f579f0bdee033af9260d75670a6f364",
+    "wof:hierarchy":[],
+    "wof:id":873994859,
+    "wof:lastmodified":1464310725,
+    "wof:name":"Resurrection Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -104.609967,
+    41.211356,
+    -104.609967,
+    41.211356
+],
+  "geometry": {"coordinates":[-104.609967,41.211356],"type":"Point"}
+}

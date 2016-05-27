@@ -1,0 +1,56 @@
+{
+  "id": 874151557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.096612,42.310516,-105.096612,42.310516",
+    "geom:latitude":42.310516,
+    "geom:longitude":-105.096612,
+    "iso:country":"US",
+    "sg:address":"349 Cumberland Rd",
+    "sg:city":"Wheatland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 331 0301",
+    "sg:postcode":"82201",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72YL6ozC1BCVnYowZFElw1_42.310516_-105.096612@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312342,
+    "wof:geomhash":"752e2066680f1e92872cb0c8a42b44f7",
+    "wof:hierarchy":[],
+    "wof:id":874151557,
+    "wof:lastmodified":1464312342,
+    "wof:name":"Pioneer Upholstery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -105.096612,
+    42.310516,
+    -105.096612,
+    42.310516
+],
+  "geometry": {"coordinates":[-105.09661199999999,42.310516],"type":"Point"}
+}

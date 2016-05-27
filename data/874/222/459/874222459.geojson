@@ -1,0 +1,52 @@
+{
+  "id": 874222459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.698492,44.354298,-106.698492,44.354298",
+    "geom:latitude":44.354298,
+    "geom:longitude":-106.698492,
+    "iso:country":"US",
+    "sg:address":"40 E Hart St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 2581",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:website":"www.firstinterstatebank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ie3495faPxCOP4I4WIYxd_44.354298_-106.698492@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313089,
+    "wof:geomhash":"da5b2a3edfc6f08b8df68ba9e3eb65fb",
+    "wof:hierarchy":[],
+    "wof:id":874222459,
+    "wof:lastmodified":1464313089,
+    "wof:name":"First Interstate Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.698492,
+    44.354298,
+    -106.698492,
+    44.354298
+],
+  "geometry": {"coordinates":[-106.698492,44.354298],"type":"Point"}
+}

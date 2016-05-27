@@ -1,0 +1,64 @@
+{
+  "id": 874089937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.312369,42.841874,-106.312369,42.841874",
+    "geom:latitude":42.841874,
+    "geom:longitude":-106.312369,
+    "iso:country":"US",
+    "sg:address":"915 S McKinley St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 5718",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HLqeUlF0d6umgPK1q9miT_42.841874_-106.312369@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311661,
+    "wof:geomhash":"83f77341d7b66be528ff076609b1e84d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874089937
+        }
+    ],
+    "wof:id":874089937,
+    "wof:lastmodified":1464311661,
+    "wof:name":"Youth Crisis Ctr",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.312369,
+    42.841874,
+    -106.312369,
+    42.841874
+],
+  "geometry": {"coordinates":[-106.312369,42.841874],"type":"Point"}
+}

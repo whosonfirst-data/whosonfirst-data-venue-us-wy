@@ -1,0 +1,71 @@
+{
+  "id": 874022777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.59351,41.310952,-105.59351,41.310952",
+    "geom:latitude":41.310952,
+    "geom:longitude":-105.59351,
+    "iso:country":"US",
+    "sg:address":"312 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2292",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uVMXP0DNiNI7p0XW3YVMg_41.310952_-105.593510@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310972,
+    "wof:geomhash":"e57c76b0fb75c9998c0f9e8dfa4cdfd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874022777
+        }
+    ],
+    "wof:id":874022777,
+    "wof:lastmodified":1464310972,
+    "wof:name":"Aphrodite's Emporium",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -105.59351,
+    41.310952,
+    -105.59351,
+    41.310952
+],
+  "geometry": {"coordinates":[-105.59350999999999,41.310952],"type":"Point"}
+}

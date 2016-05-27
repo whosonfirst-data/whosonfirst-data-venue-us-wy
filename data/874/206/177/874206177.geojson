@@ -1,0 +1,56 @@
+{
+  "id": 874206177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.956218,41.262405,-110.956218,41.262405",
+    "geom:latitude":41.262405,
+    "geom:longitude":-110.956218,
+    "iso:country":"US",
+    "sg:address":"140 Front St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 7788",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68FRvTxolHKa31UJb6D5Go_41.262405_-110.956218@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312906,
+    "wof:geomhash":"952296acd02996413e03a87ef5c59f1d",
+    "wof:hierarchy":[],
+    "wof:id":874206177,
+    "wof:lastmodified":1464312906,
+    "wof:name":"Dragon Wall Chinese Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -110.956218,
+    41.262405,
+    -110.956218,
+    41.262405
+],
+  "geometry": {"coordinates":[-110.95621800000001,41.262405],"type":"Point"}
+}

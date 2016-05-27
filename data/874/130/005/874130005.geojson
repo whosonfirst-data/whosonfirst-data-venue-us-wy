@@ -1,0 +1,71 @@
+{
+  "id": 874130005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.350027,42.827424,-106.350027,42.827424",
+    "geom:latitude":42.827424,
+    "geom:longitude":-106.350027,
+    "iso:country":"US",
+    "sg:address":"2211 Essex Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 4474",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "high",
+        "junior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_684PqzlvDrZhae1RJ4hZo1_42.827424_-106.350027@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312136,
+    "wof:geomhash":"2b691baa4ed13c3b365d822e96cbfbac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874130005
+        }
+    ],
+    "wof:id":874130005,
+    "wof:lastmodified":1464312136,
+    "wof:name":"C Y Junior High School",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "junior"
+    ]
+},
+  "bbox": [
+    -106.350027,
+    42.827424,
+    -106.350027,
+    42.827424
+],
+  "geometry": {"coordinates":[-106.350027,42.827424],"type":"Point"}
+}

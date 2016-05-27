@@ -1,0 +1,57 @@
+{
+  "id": 874221217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.942424,44.016825,-107.942424,44.016825",
+    "geom:latitude":44.016825,
+    "geom:longitude":-107.942424,
+    "iso:country":"US",
+    "sg:address":"100 S 20th St",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 4239",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.pamida.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4latIImlgiUYzOvIUbi7TI_44.016825_-107.942424@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313076,
+    "wof:geomhash":"46fd591d5b8e64df8c67e73a7640ac2d",
+    "wof:hierarchy":[],
+    "wof:id":874221217,
+    "wof:lastmodified":1464313076,
+    "wof:name":"Pamida",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -107.942424,
+    44.016825,
+    -107.942424,
+    44.016825
+],
+  "geometry": {"coordinates":[-107.942424,44.016825],"type":"Point"}
+}

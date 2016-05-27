@@ -1,0 +1,73 @@
+{
+  "id": 874036091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.601819,41.325866,-105.601819,41.325866",
+    "geom:latitude":41.325866,
+    "geom:longitude":-105.601819,
+    "iso:country":"US",
+    "sg:address":"375 W Lyons St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 1136",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fKx1lHwgGaN9hUfJgagVG_41.325866_-105.601819@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311105,
+    "wof:geomhash":"929bafc280434c4db769b297f6704b5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874036091
+        }
+    ],
+    "wof:id":874036091,
+    "wof:lastmodified":1464311105,
+    "wof:name":"Jones' Auto Svc & Tire Ctr",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -105.601819,
+    41.325866,
+    -105.601819,
+    41.325866
+],
+  "geometry": {"coordinates":[-105.60181900000001,41.325866],"type":"Point"}
+}

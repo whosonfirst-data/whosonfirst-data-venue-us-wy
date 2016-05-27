@@ -1,0 +1,59 @@
+{
+  "id": 874136967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.762468,43.485013,-110.762468,43.485013",
+    "geom:latitude":43.485013,
+    "geom:longitude":-110.762468,
+    "iso:country":"US",
+    "sg:address":"375 N Cache Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 734 5110",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.jhrr.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jeEygPJotiPKq0y8zL8LR_43.485013_-110.762468@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312208,
+    "wof:geomhash":"8e35da34149f1172635cddb9e9f54e70",
+    "wof:hierarchy":[],
+    "wof:id":874136967,
+    "wof:lastmodified":1464312208,
+    "wof:name":"Jackson Hole Rcrtnl Rentals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -110.762468,
+    43.485013,
+    -110.762468,
+    43.485013
+],
+  "geometry": {"coordinates":[-110.762468,43.485013],"type":"Point"}
+}

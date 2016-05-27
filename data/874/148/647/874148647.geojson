@@ -1,0 +1,66 @@
+{
+  "id": 874148647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595921,41.312179,-105.595921,41.312179",
+    "geom:latitude":41.312179,
+    "geom:longitude":-105.595921,
+    "iso:country":"US",
+    "sg:address":"115 E Ivinson Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 9766",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oZ950gQcj6i1SkFdDOHOQ_41.312179_-105.595921@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312316,
+    "wof:geomhash":"08f76efd233005ca4e47a03b4205415a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874148647
+        }
+    ],
+    "wof:id":874148647,
+    "wof:lastmodified":1464312316,
+    "wof:name":"Ticia Cmt Shelton",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.595921,
+    41.312179,
+    -105.595921,
+    41.312179
+],
+  "geometry": {"coordinates":[-105.595921,41.312179],"type":"Point"}
+}

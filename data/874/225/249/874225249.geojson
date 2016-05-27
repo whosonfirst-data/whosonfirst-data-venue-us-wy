@@ -1,0 +1,56 @@
+{
+  "id": 874225249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.750275,44.755288,-108.750275,44.755288",
+    "geom:latitude":44.755288,
+    "geom:longitude":-108.750275,
+    "iso:country":"US",
+    "sg:address":"216 N Gilbert St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 4285",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MXDK0yKP6HhLrDnzsH7Ge_44.755288_-108.750275@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313113,
+    "wof:geomhash":"b2a404073f153ea6a530236301af4618",
+    "wof:hierarchy":[],
+    "wof:id":874225249,
+    "wof:lastmodified":1464313113,
+    "wof:name":"DH Vending",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -108.750275,
+    44.755288,
+    -108.750275,
+    44.755288
+],
+  "geometry": {"coordinates":[-108.750275,44.755288],"type":"Point"}
+}

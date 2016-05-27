@@ -1,0 +1,74 @@
+{
+  "id": 874229443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.347573,42.805905,-106.347573,42.805905",
+    "geom:latitude":42.805905,
+    "geom:longitude":-106.347573,
+    "iso:country":"US",
+    "sg:address":"3141 Wyoming Blvd SW",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/casper/78183-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2900",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ihNZoI8yqN0PiRdvoVuOT_42.805905_-106.347573@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313155,
+    "wof:geomhash":"ae66e82907644c042f5eec1979638cbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874229443
+        }
+    ],
+    "wof:id":874229443,
+    "wof:lastmodified":1464313155,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -106.347573,
+    42.805905,
+    -106.347573,
+    42.805905
+],
+  "geometry": {"coordinates":[-106.347573,42.805905],"type":"Point"}
+}

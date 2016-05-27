@@ -1,0 +1,73 @@
+{
+  "id": 874107393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595794,41.302702,-105.595794,41.302702",
+    "geom:latitude":41.302702,
+    "geom:longitude":-105.595794,
+    "iso:country":"US",
+    "sg:address":"205 E Fetterman St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5278",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70LxUrBCR0kIj4SMnmBY9K_41.302702_-105.595794@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311887,
+    "wof:geomhash":"b56c04c6c759ca74173b5720afebf2fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874107393
+        }
+    ],
+    "wof:id":874107393,
+    "wof:lastmodified":1464311887,
+    "wof:name":"Summit Structures Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.595794,
+    41.302702,
+    -105.595794,
+    41.302702
+],
+  "geometry": {"coordinates":[-105.595794,41.302702],"type":"Point"}
+}

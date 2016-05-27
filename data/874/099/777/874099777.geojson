@@ -1,0 +1,64 @@
+{
+  "id": 874099777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.329385,42.835922,-106.329385,42.835922",
+    "geom:latitude":42.835922,
+    "geom:longitude":-106.329385,
+    "iso:country":"US",
+    "sg:address":"1440 S Elm St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 4440",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c6KnIwvz1SFJJo2sqHZBa_42.835922_-106.329385@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311790,
+    "wof:geomhash":"5751868f9c7bbf01d84cc89175f0471b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874099777
+        }
+    ],
+    "wof:id":874099777,
+    "wof:lastmodified":1464311790,
+    "wof:name":"Dean Morgan Junior High School",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.329385,
+    42.835922,
+    -106.329385,
+    42.835922
+],
+  "geometry": {"coordinates":[-106.329385,42.835922],"type":"Point"}
+}

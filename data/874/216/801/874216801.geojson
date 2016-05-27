@@ -1,0 +1,56 @@
+{
+  "id": 874216801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.956435,42.085183,-110.956435,42.085183",
+    "geom:latitude":42.085183,
+    "geom:longitude":-110.956435,
+    "iso:country":"US",
+    "sg:address":"110 Pine St",
+    "sg:city":"Cokeville",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 279 3120",
+    "sg:postcode":"83114",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K4yszliwzIgolbE4vKyR9_42.085183_-110.956435@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313021,
+    "wof:geomhash":"e519650b1e464242962536cc63b63b91",
+    "wof:hierarchy":[],
+    "wof:id":874216801,
+    "wof:lastmodified":1464313021,
+    "wof:name":"Cokeville EMS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -110.956435,
+    42.085183,
+    -110.956435,
+    42.085183
+],
+  "geometry": {"coordinates":[-110.956435,42.085183],"type":"Point"}
+}

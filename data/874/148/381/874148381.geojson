@@ -1,0 +1,56 @@
+{
+  "id": 874148381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.460545,44.231982,-105.460545,44.231982",
+    "geom:latitude":44.231982,
+    "geom:longitude":-105.460545,
+    "iso:country":"US",
+    "sg:address":"6817 Robin Dr",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 1313",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c0ApFFjeLlXsMUkJ9cswl_44.231982_-105.460545@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312314,
+    "wof:geomhash":"32f646bcf5f7b19c198a58e10784c391",
+    "wof:hierarchy":[],
+    "wof:id":874148381,
+    "wof:lastmodified":1464312314,
+    "wof:name":"Tucker Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -105.460545,
+    44.231982,
+    -105.460545,
+    44.231982
+],
+  "geometry": {"coordinates":[-105.460545,44.231982],"type":"Point"}
+}

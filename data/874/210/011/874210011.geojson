@@ -1,0 +1,66 @@
+{
+  "id": 874210011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592844,41.31883,-105.592844,41.31883",
+    "geom:latitude":41.31883,
+    "geom:longitude":-105.592844,
+    "iso:country":"US",
+    "sg:address":"770 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4409",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fEdAigBLIi5H1L0PetEiQ_41.318830_-105.592844@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312949,
+    "wof:geomhash":"ada9cdc492dfa31cd1d4517f560c6633",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874210011
+        }
+    ],
+    "wof:id":874210011,
+    "wof:lastmodified":1464312949,
+    "wof:name":"Dodds Sportslocker",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.592844,
+    41.31883,
+    -105.592844,
+    41.31883
+],
+  "geometry": {"coordinates":[-105.592844,41.31883],"type":"Point"}
+}

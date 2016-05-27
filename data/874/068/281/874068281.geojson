@@ -1,0 +1,56 @@
+{
+  "id": 874068281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.433072,44.272316,-105.433072,44.272316",
+    "geom:latitude":44.272316,
+    "geom:longitude":-105.433072,
+    "iso:country":"US",
+    "sg:address":"2507 Sammye Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 685 1000",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eyrEYR2WR3kuceZaiwP3d_44.272316_-105.433072@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311416,
+    "wof:geomhash":"90d5f620111c1fe9c9b60cfcb4be1888",
+    "wof:hierarchy":[],
+    "wof:id":874068281,
+    "wof:lastmodified":1464311416,
+    "wof:name":"City Cab Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -105.433072,
+    44.272316,
+    -105.433072,
+    44.272316
+],
+  "geometry": {"coordinates":[-105.433072,44.272316],"type":"Point"}
+}

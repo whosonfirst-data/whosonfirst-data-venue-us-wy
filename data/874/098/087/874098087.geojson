@@ -1,0 +1,71 @@
+{
+  "id": 874098087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592333,41.309992,-105.592333,41.309992",
+    "geom:latitude":41.309992,
+    "geom:longitude":-105.592333,
+    "iso:country":"US",
+    "sg:address":"403 S 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 7070",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rfUdMvIu9fYZ2eLR0H719_41.309992_-105.592333@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311757,
+    "wof:geomhash":"3f056cd4c6f35e452df19efb13381c61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874098087
+        }
+    ],
+    "wof:id":874098087,
+    "wof:lastmodified":1464311757,
+    "wof:name":"Phone Base Research",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -105.592333,
+    41.309992,
+    -105.592333,
+    41.309992
+],
+  "geometry": {"coordinates":[-105.592333,41.309992],"type":"Point"}
+}

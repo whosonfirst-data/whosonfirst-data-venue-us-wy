@@ -1,0 +1,69 @@
+{
+  "id": 874100465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.708136,42.814084,-108.708136,42.814084",
+    "geom:latitude":42.814084,
+    "geom:longitude":-108.708136,
+    "iso:country":"US",
+    "sg:address":"120 Daffodil St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 3000",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mfg",
+        "cabinet",
+        "contractor",
+        "maker",
+        "carpentry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lC6ogXcNSHXWfSUaoctT2_42.814084_-108.708136@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311801,
+    "wof:geomhash":"ba244f978121060a9dd719994bd40794",
+    "wof:hierarchy":[],
+    "wof:id":874100465,
+    "wof:lastmodified":1464311801,
+    "wof:name":"Eggli Brothers Millwork Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "cabinet",
+        "contractor",
+        "maker",
+        "carpentry"
+    ]
+},
+  "bbox": [
+    -108.708136,
+    42.814084,
+    -108.708136,
+    42.814084
+],
+  "geometry": {"coordinates":[-108.708136,42.814084],"type":"Point"}
+}

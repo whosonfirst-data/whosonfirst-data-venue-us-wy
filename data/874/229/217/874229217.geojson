@@ -1,0 +1,59 @@
+{
+  "id": 874229217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.380633,43.032718,-108.380633,43.032718",
+    "geom:latitude":43.032718,
+    "geom:longitude":-108.380633,
+    "iso:country":"US",
+    "sg:address":"830 N Federal Blvd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/wind-river/181575-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 2661",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aStuN8JJfGDTqOjjrGesa_43.032718_-108.380633@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313153,
+    "wof:geomhash":"8642d48214048bc6b086ec6275faa361",
+    "wof:hierarchy":[],
+    "wof:id":874229217,
+    "wof:lastmodified":1464313153,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -108.380633,
+    43.032718,
+    -108.380633,
+    43.032718
+],
+  "geometry": {"coordinates":[-108.380633,43.032718],"type":"Point"}
+}

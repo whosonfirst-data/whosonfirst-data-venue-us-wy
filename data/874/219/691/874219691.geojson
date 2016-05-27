@@ -1,0 +1,64 @@
+{
+  "id": 874219691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.2986,42.848694,-106.2986,42.848694",
+    "geom:latitude":42.848694,
+    "geom:longitude":-106.2986,
+    "iso:country":"US",
+    "sg:address":"1937 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 2555",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JveuIXsKCYJvm6T4Pq5Uy_42.848694_-106.298600@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313055,
+    "wof:geomhash":"44f95d26089386368d47b89090fb943a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874219691
+        }
+    ],
+    "wof:id":874219691,
+    "wof:lastmodified":1464313055,
+    "wof:name":"Roberto's Mexican Grille",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.2986,
+    42.848694,
+    -106.2986,
+    42.848694
+],
+  "geometry": {"coordinates":[-106.29859999999999,42.848694],"type":"Point"}
+}

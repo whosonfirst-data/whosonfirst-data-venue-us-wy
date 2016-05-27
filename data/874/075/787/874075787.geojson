@@ -1,0 +1,66 @@
+{
+  "id": 874075787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.632802,41.317018,-105.632802,41.317018",
+    "geom:latitude":41.317018,
+    "geom:longitude":-105.632802,
+    "iso:country":"US",
+    "sg:address":"3070 Snowy Range Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7512",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6P0dWEvqqCKqCJ35V8Dr0j_41.317018_-105.632802@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311509,
+    "wof:geomhash":"7569c873f0054cdf0591910364b3a89c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874075787
+        }
+    ],
+    "wof:id":874075787,
+    "wof:lastmodified":1464311509,
+    "wof:name":"Stone House Stables",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.632802,
+    41.317018,
+    -105.632802,
+    41.317018
+],
+  "geometry": {"coordinates":[-105.632802,41.317018],"type":"Point"}
+}

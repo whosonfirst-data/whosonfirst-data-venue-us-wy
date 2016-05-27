@@ -1,0 +1,56 @@
+{
+  "id": 874097653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.700199,44.358279,-106.700199,44.358279",
+    "geom:latitude":44.358279,
+    "geom:longitude":-106.700199,
+    "iso:country":"US",
+    "sg:address":"871 N Adams Ave",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 5264",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ryuypQYxhNiEyUXG6tKhg_44.358279_-106.700199@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311752,
+    "wof:geomhash":"4cdbc573fdd7b465208591847d865f08",
+    "wof:hierarchy":[],
+    "wof:id":874097653,
+    "wof:lastmodified":1464311752,
+    "wof:name":"Clean Living Janitor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -106.700199,
+    44.358279,
+    -106.700199,
+    44.358279
+],
+  "geometry": {"coordinates":[-106.700199,44.358279],"type":"Point"}
+}

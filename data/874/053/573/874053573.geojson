@@ -1,0 +1,73 @@
+{
+  "id": 874053573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.345798,42.891502,-106.345798,42.891502",
+    "geom:latitude":42.891502,
+    "geom:longitude":-106.345798,
+    "iso:country":"US",
+    "sg:address":"3702 Salt Creek Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 5774",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wMJveYNcAafeqVDAWzBuw_42.891502_-106.345798@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311274,
+    "wof:geomhash":"7b10dd1f7e2c43d3cc9f5aa38096ee3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874053573
+        }
+    ],
+    "wof:id":874053573,
+    "wof:lastmodified":1464311274,
+    "wof:name":"E R Cigar",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -106.345798,
+    42.891502,
+    -106.345798,
+    42.891502
+],
+  "geometry": {"coordinates":[-106.345798,42.891502],"type":"Point"}
+}

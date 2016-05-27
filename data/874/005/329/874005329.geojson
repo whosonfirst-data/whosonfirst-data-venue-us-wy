@@ -1,0 +1,71 @@
+{
+  "id": 874005329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.310935,42.845233,-106.310935,42.845233",
+    "geom:latitude":42.845233,
+    "geom:longitude":-106.310935,
+    "iso:country":"US",
+    "sg:address":"541 S Jackson St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 5082",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P2tXXCmwAR4Y1klk45WOT_42.845233_-106.310935@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310818,
+    "wof:geomhash":"c5a6dbbd6ef6d91cb1c5bb5f72158df9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874005329
+        }
+    ],
+    "wof:id":874005329,
+    "wof:lastmodified":1464310818,
+    "wof:name":"Sharkey's Allphase Electric",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.310935,
+    42.845233,
+    -106.310935,
+    42.845233
+],
+  "geometry": {"coordinates":[-106.310935,42.845233],"type":"Point"}
+}

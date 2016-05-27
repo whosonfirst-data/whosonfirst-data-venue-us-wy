@@ -1,0 +1,73 @@
+{
+  "id": 874116101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.528467,41.282692,-105.528467,41.282692",
+    "geom:latitude":41.282692,
+    "geom:longitude":-105.528467,
+    "iso:country":"US",
+    "sg:address":"3333 Sage Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6358",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UJ6SZ3ZeeEFdfqOBuFGtc_41.282692_-105.528467@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311998,
+    "wof:geomhash":"66529fc967adf5c539187750974ed5a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874116101
+        }
+    ],
+    "wof:id":874116101,
+    "wof:lastmodified":1464311998,
+    "wof:name":"Kite Rental Property",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -105.528467,
+    41.282692,
+    -105.528467,
+    41.282692
+],
+  "geometry": {"coordinates":[-105.52846700000001,41.282692],"type":"Point"}
+}

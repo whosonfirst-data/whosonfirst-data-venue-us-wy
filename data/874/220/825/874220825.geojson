@@ -1,0 +1,71 @@
+{
+  "id": 874220825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.618803,41.311728,-105.618803,41.311728",
+    "geom:latitude":41.311728,
+    "geom:longitude":-105.618803,
+    "iso:country":"US",
+    "sg:address":"210 S Fillmore St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 0244",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "forestry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KnrpvoXOe2SmEr2JP6RTP_41.311728_-105.618803@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313073,
+    "wof:geomhash":"dc5d15e99dccd69e116d29040035eace",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874220825
+        }
+    ],
+    "wof:id":874220825,
+    "wof:lastmodified":1464313073,
+    "wof:name":"Aaron Lund",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forestry"
+    ]
+},
+  "bbox": [
+    -105.618803,
+    41.311728,
+    -105.618803,
+    41.311728
+],
+  "geometry": {"coordinates":[-105.618803,41.311728],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 874117111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.815848,41.133704,-104.815848,41.133704",
+    "geom:latitude":41.133704,
+    "geom:longitude":-104.815848,
+    "iso:country":"US",
+    "sg:address":"104 W 17th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Political Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 3614",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "bingo",
+        "game"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qwbAVVqiXKJiyHO6YcnLV_41.133704_-104.815848@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312007,
+    "wof:geomhash":"de527d1ca6e91ca79007ebbfad6293dc",
+    "wof:hierarchy":[],
+    "wof:id":874117111,
+    "wof:lastmodified":1464312007,
+    "wof:name":"Grandma's Pickle Parlor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bingo",
+        "game"
+    ]
+},
+  "bbox": [
+    -104.815848,
+    41.133704,
+    -104.815848,
+    41.133704
+],
+  "geometry": {"coordinates":[-104.815848,41.133704],"type":"Point"}
+}

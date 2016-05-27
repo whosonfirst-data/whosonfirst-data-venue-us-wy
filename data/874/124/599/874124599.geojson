@@ -1,0 +1,66 @@
+{
+  "id": 874124599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.625523,41.297826,-105.625523,41.297826",
+    "geom:latitude":41.297826,
+    "geom:longitude":-105.625523,
+    "iso:country":"US",
+    "sg:address":"2090 Riverside Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4532",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Fk96ET1tg1TBywVT5fTrl_41.297826_-105.625523@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312082,
+    "wof:geomhash":"500f3b2e491f1f4e1ef5000e6a6c77ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874124599
+        }
+    ],
+    "wof:id":874124599,
+    "wof:lastmodified":1464312082,
+    "wof:name":"S&L Woods N Wetlands",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.625523,
+    41.297826,
+    -105.625523,
+    41.297826
+],
+  "geometry": {"coordinates":[-105.625523,41.297826],"type":"Point"}
+}

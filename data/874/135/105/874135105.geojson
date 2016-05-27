@@ -1,0 +1,56 @@
+{
+  "id": 874135105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.806757,41.145828,-104.806757,41.145828",
+    "geom:latitude":41.145828,
+    "geom:longitude":-104.806757,
+    "iso:country":"US",
+    "sg:address":"1217 E Pershing Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 432 9111",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zhnEDozmqRwFgmOz4kdrR_41.145828_-104.806757@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312191,
+    "wof:geomhash":"924ddcfbcdd196eb2689efe21429e446",
+    "wof:hierarchy":[],
+    "wof:id":874135105,
+    "wof:lastmodified":1464312191,
+    "wof:name":"Rocky Mountain Financial",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -104.806757,
+    41.145828,
+    -104.806757,
+    41.145828
+],
+  "geometry": {"coordinates":[-104.806757,41.145828],"type":"Point"}
+}

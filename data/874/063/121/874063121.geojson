@@ -1,0 +1,51 @@
+{
+  "id": 874063121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.788761,41.144146,-104.788761,41.144146",
+    "geom:latitude":41.144146,
+    "geom:longitude":-104.788761,
+    "iso:country":"US",
+    "sg:address":"517 Cole Shopping Center",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 2923",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tgCfHhwencN9d7KsjJDdi_41.144146_-104.788761@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311363,
+    "wof:geomhash":"b60716d0d2017b4941e78260f830bc7c",
+    "wof:hierarchy":[],
+    "wof:id":874063121,
+    "wof:lastmodified":1464311363,
+    "wof:name":"Cole Square 3 Cinemas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.788761,
+    41.144146,
+    -104.788761,
+    41.144146
+],
+  "geometry": {"coordinates":[-104.78876099999999,41.144146],"type":"Point"}
+}

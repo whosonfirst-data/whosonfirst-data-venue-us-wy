@@ -1,0 +1,52 @@
+{
+  "id": 874167675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.76364,43.479949,-110.76364,43.479949",
+    "geom:latitude":43.479949,
+    "geom:longitude":-110.76364,
+    "iso:country":"US",
+    "sg:address":"50 N Glenwood St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 2190",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:website":"www.worthotel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZX6HknoOijktDhigVoKUt_43.479949_-110.763640@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312504,
+    "wof:geomhash":"76d06440a17e90030c9bba1efa23fa9f",
+    "wof:hierarchy":[],
+    "wof:id":874167675,
+    "wof:lastmodified":1464312504,
+    "wof:name":"WORT Hotel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.76364,
+    43.479949,
+    -110.76364,
+    43.479949
+],
+  "geometry": {"coordinates":[-110.76364,43.479949],"type":"Point"}
+}

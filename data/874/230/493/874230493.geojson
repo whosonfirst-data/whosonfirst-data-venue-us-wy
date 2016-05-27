@@ -1,0 +1,57 @@
+{
+  "id": 874230493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.813937,41.135436,-104.813937,41.135436",
+    "geom:latitude":41.135436,
+    "geom:longitude":-104.813937,
+    "iso:country":"US",
+    "sg:address":"219 E 18th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/3240-cheyenne-smokehouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 773 8621",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EoUhBa96DB9a3tyKt7gRy_41.135627_-104.813217@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313169,
+    "wof:geomhash":"e005218e0059cd1e8ff106460fdb62b5",
+    "wof:hierarchy":[],
+    "wof:id":874230493,
+    "wof:lastmodified":1464313169,
+    "wof:name":"Cheyenne Smokehouse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -104.813937,
+    41.135436,
+    -104.813937,
+    41.135436
+],
+  "geometry": {"coordinates":[-104.813937,41.135436],"type":"Point"}
+}

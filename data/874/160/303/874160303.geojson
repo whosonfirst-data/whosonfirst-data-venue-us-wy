@@ -1,0 +1,56 @@
+{
+  "id": 874160303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.110995,43.718098,-111.110995,43.718098",
+    "geom:latitude":43.718098,
+    "geom:longitude":-111.110995,
+    "iso:country":"US",
+    "sg:address":"225 S Main St",
+    "sg:city":"Driggs",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 354 2777",
+    "sg:postcode":"83422",
+    "sg:province":"WY",
+    "sg:tags":[
+        "scooter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22FNJjpsaMKlBfNW3WwMFm_43.718098_-111.110995@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312435,
+    "wof:geomhash":"ba6661f8019e41fb04050d3537b3d2bc",
+    "wof:hierarchy":[],
+    "wof:id":874160303,
+    "wof:lastmodified":1464312435,
+    "wof:name":"Racin' Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter"
+    ]
+},
+  "bbox": [
+    -111.110995,
+    43.718098,
+    -111.110995,
+    43.718098
+],
+  "geometry": {"coordinates":[-111.110995,43.718098],"type":"Point"}
+}

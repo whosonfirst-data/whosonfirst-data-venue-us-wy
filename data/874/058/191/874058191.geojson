@@ -1,0 +1,71 @@
+{
+  "id": 874058191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.302048,42.832918,-106.302048,42.832918",
+    "geom:latitude":42.832918,
+    "geom:longitude":-106.302048,
+    "iso:country":"US",
+    "sg:address":"1719 Glendale Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7630",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NVB4sRQrmsgRYaNkojh6T_42.832918_-106.302048@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311319,
+    "wof:geomhash":"fb30881c55afc396fa48ab1b0ba038fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874058191
+        }
+    ],
+    "wof:id":874058191,
+    "wof:lastmodified":1464311319,
+    "wof:name":"Rocky Mountain Envirotech",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -106.302048,
+    42.832918,
+    -106.302048,
+    42.832918
+],
+  "geometry": {"coordinates":[-106.302048,42.832918],"type":"Point"}
+}

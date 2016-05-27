@@ -1,0 +1,73 @@
+{
+  "id": 874001247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.294277,42.835262,-106.294277,42.835262",
+    "geom:latitude":42.835262,
+    "geom:longitude":-106.294277,
+    "iso:country":"US",
+    "sg:address":"2417 E 15th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3638",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f8zNNx3DXrQeAllvcbNvg_42.835262_-106.294277@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310769,
+    "wof:geomhash":"5cba970e1691eaff61fbbcacd6ed1bbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874001247
+        }
+    ],
+    "wof:id":874001247,
+    "wof:lastmodified":1464310769,
+    "wof:name":"Kerry Derrick",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -106.294277,
+    42.835262,
+    -106.294277,
+    42.835262
+],
+  "geometry": {"coordinates":[-106.29427699999999,42.835262],"type":"Point"}
+}

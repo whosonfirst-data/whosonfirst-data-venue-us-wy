@@ -1,0 +1,56 @@
+{
+  "id": 874124535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.812512,41.056063,-104.812512,41.056063",
+    "geom:latitude":41.056063,
+    "geom:longitude":-104.812512,
+    "iso:country":"US",
+    "sg:address":"6718 Glendale Ct",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 7091",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uba1WwARob1ua1XrCzaIC_41.056063_-104.812512@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312081,
+    "wof:geomhash":"4c8750f2ec94ae739cc3ee5e8e539d98",
+    "wof:hierarchy":[],
+    "wof:id":874124535,
+    "wof:lastmodified":1464312081,
+    "wof:name":"Olson Trucking Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -104.812512,
+    41.056063,
+    -104.812512,
+    41.056063
+],
+  "geometry": {"coordinates":[-104.812512,41.056063],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874186187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.596019,41.31124,-105.596019,41.31124",
+    "geom:latitude":41.31124,
+    "geom:longitude":-105.596019,
+    "iso:country":"US",
+    "sg:address":"119 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 6233",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HtrGIDX0p4OYlNxfq7WxZ_41.311240_-105.596019@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312702,
+    "wof:geomhash":"3e8decf0d0230fb06c4a29cae40059cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874186187
+        }
+    ],
+    "wof:id":874186187,
+    "wof:lastmodified":1464312702,
+    "wof:name":"Gem City Clayworks",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "good"
+    ]
+},
+  "bbox": [
+    -105.596019,
+    41.31124,
+    -105.596019,
+    41.31124
+],
+  "geometry": {"coordinates":[-105.596019,41.31124],"type":"Point"}
+}

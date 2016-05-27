@@ -1,0 +1,73 @@
+{
+  "id": 874212269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.231442,41.584381,-109.231442,41.584381",
+    "geom:latitude":41.584381,
+    "geom:longitude":-109.231442,
+    "iso:country":"US",
+    "sg:address":"1208 Hilltop Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 4114",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WB8PtkFoMB9BUKx8mQEAT_41.584381_-109.231442@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312977,
+    "wof:geomhash":"d84e95ab89c0bbe4450f43bb6b6757e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874212269
+        }
+    ],
+    "wof:id":874212269,
+    "wof:lastmodified":1464312977,
+    "wof:name":"Jensen Peter M Do",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -109.231442,
+    41.584381,
+    -109.231442,
+    41.584381
+],
+  "geometry": {"coordinates":[-109.231442,41.584381],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874063379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.86562,42.87611,-109.86562,42.87611",
+    "geom:latitude":42.87611,
+    "geom:longitude":-109.86562,
+    "iso:country":"US",
+    "sg:address":"130 Lake Rd",
+    "sg:city":"Pinedale",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 367 6216",
+    "sg:postcode":"82941",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NEm63SOQQTAiFfChhtb5L_42.876110_-109.865620@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311366,
+    "wof:geomhash":"8f22d864f5ff95758fb1f07ba9f411f6",
+    "wof:hierarchy":[],
+    "wof:id":874063379,
+    "wof:lastmodified":1464311366,
+    "wof:name":"DMS Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -109.86562,
+    42.87611,
+    -109.86562,
+    42.87611
+],
+  "geometry": {"coordinates":[-109.86562000000001,42.87611],"type":"Point"}
+}

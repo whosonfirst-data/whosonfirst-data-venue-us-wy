@@ -1,0 +1,60 @@
+{
+  "id": 874150815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.734113,42.831269,-108.734113,42.831269",
+    "geom:latitude":42.831269,
+    "geom:longitude":-108.734113,
+    "iso:country":"US",
+    "sg:address":"323 N 2 St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 4991",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42Lgfdgp3ajmuFPcDaljNL_42.831269_-108.734113@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312336,
+    "wof:geomhash":"7b4fb42a75674b25a04aef5165921cc6",
+    "wof:hierarchy":[],
+    "wof:id":874150815,
+    "wof:lastmodified":1464312336,
+    "wof:name":"North Side Body",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -108.734113,
+    42.831269,
+    -108.734113,
+    42.831269
+],
+  "geometry": {"coordinates":[-108.73411299999999,42.831269],"type":"Point"}
+}

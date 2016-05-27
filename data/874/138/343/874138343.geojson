@@ -1,0 +1,60 @@
+{
+  "id": 874138343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.538873,41.776545,-110.538873,41.776545",
+    "geom:latitude":41.776545,
+    "geom:longitude":-110.538873,
+    "iso:country":"US",
+    "sg:address":"32 Conroy St",
+    "sg:city":"Diamondville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 877 9488",
+    "sg:postcode":"83121",
+    "sg:province":"WY",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f8wmujLQwiceVOG2Lumi3_41.776545_-110.538873@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312220,
+    "wof:geomhash":"c9438959f0acc744f401f209b72a5df5",
+    "wof:hierarchy":[],
+    "wof:id":874138343,
+    "wof:lastmodified":1464312220,
+    "wof:name":"Diamondville Street Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -110.538873,
+    41.776545,
+    -110.538873,
+    41.776545
+],
+  "geometry": {"coordinates":[-110.538873,41.776545],"type":"Point"}
+}

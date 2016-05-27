@@ -1,0 +1,56 @@
+{
+  "id": 874137945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.473629,41.517234,-109.473629,41.517234",
+    "geom:latitude":41.517234,
+    "geom:longitude":-109.473629,
+    "iso:country":"US",
+    "sg:address":"520 Wilkes Dr",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 7832",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iW8Gutr5382OCGjcL2o6G_41.517234_-109.473629@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312217,
+    "wof:geomhash":"22ff5b83243cf82fb932c3a9a3023fdd",
+    "wof:hierarchy":[],
+    "wof:id":874137945,
+    "wof:lastmodified":1464312217,
+    "wof:name":"PC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -109.473629,
+    41.517234,
+    -109.473629,
+    41.517234
+],
+  "geometry": {"coordinates":[-109.473629,41.517234],"type":"Point"}
+}

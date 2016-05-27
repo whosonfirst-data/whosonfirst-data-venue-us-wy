@@ -1,0 +1,71 @@
+{
+  "id": 873999447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.423838,42.809112,-106.423838,42.809112",
+    "geom:latitude":42.809112,
+    "geom:longitude":-106.423838,
+    "iso:country":"US",
+    "sg:address":"6738 Riverside Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4146",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "house",
+        "mail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KxOZX5hDHdUnvxf3poqU2_42.809112_-106.423838@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310757,
+    "wof:geomhash":"7e89caa009eb7c8714a34e0e26a77863",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873999447
+        }
+    ],
+    "wof:id":873999447,
+    "wof:lastmodified":1464310757,
+    "wof:name":"Avon",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "mail"
+    ]
+},
+  "bbox": [
+    -106.423838,
+    42.809112,
+    -106.423838,
+    42.809112
+],
+  "geometry": {"coordinates":[-106.423838,42.809112],"type":"Point"}
+}

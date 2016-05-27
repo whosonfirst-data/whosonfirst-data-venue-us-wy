@@ -1,0 +1,73 @@
+{
+  "id": 874216393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.211066,42.84555,-106.211066,42.84555",
+    "geom:latitude":42.84555,
+    "geom:longitude":-106.211066,
+    "iso:country":"US",
+    "sg:address":"7185 Nugget",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 7373",
+    "sg:postcode":"82636",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "trailer",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C5FOAi28nPhYWSKvR9wC5_42.845550_-106.211066@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313017,
+    "wof:geomhash":"dd9645c51d0b04145cdf7ea79efd4099",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874216393
+        }
+    ],
+    "wof:id":874216393,
+    "wof:lastmodified":1464313017,
+    "wof:name":"Tim Colman Equipment LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "trailer",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -106.211066,
+    42.84555,
+    -106.211066,
+    42.84555
+],
+  "geometry": {"coordinates":[-106.211066,42.84555],"type":"Point"}
+}

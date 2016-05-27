@@ -1,0 +1,71 @@
+{
+  "id": 874033379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33061,42.850602,-106.33061,42.850602",
+    "geom:latitude":42.850602,
+    "geom:longitude":-106.33061,
+    "iso:country":"US",
+    "sg:address":"150 Nichols Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 1047",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_429Z5ztZi9lSO6o2VCWIhX_42.850602_-106.330610@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311079,
+    "wof:geomhash":"3054918833768ab15ba22f9e0a2a7325",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874033379
+        }
+    ],
+    "wof:id":874033379,
+    "wof:lastmodified":1464311079,
+    "wof:name":"KISS Request Line",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -106.33061,
+    42.850602,
+    -106.33061,
+    42.850602
+],
+  "geometry": {"coordinates":[-106.33060999999999,42.850602],"type":"Point"}
+}

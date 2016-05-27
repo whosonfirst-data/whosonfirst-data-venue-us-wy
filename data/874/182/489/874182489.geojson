@@ -1,0 +1,56 @@
+{
+  "id": 874182489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.070386,41.176631,-104.070386,41.176631",
+    "geom:latitude":41.176631,
+    "geom:longitude":-104.070386,
+    "iso:country":"US",
+    "sg:address":"212 W 8th St",
+    "sg:city":"Pine Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 245 3655",
+    "sg:postcode":"82082",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aez4kZB7zT871NCQB2CnD_41.176631_-104.070386@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312655,
+    "wof:geomhash":"14399693ebe3dd1c49ff22f5af078243",
+    "wof:hierarchy":[],
+    "wof:id":874182489,
+    "wof:lastmodified":1464312655,
+    "wof:name":"Style Beauty Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -104.070386,
+    41.176631,
+    -104.070386,
+    41.176631
+],
+  "geometry": {"coordinates":[-104.070386,41.176631],"type":"Point"}
+}

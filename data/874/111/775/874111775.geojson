@@ -1,0 +1,69 @@
+{
+  "id": 874111775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.340388,42.857096,-106.340388,42.857096",
+    "geom:latitude":42.857096,
+    "geom:longitude":-106.340388,
+    "iso:country":"US",
+    "sg:address":"745 Circle Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 9327",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "meter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rNM4cfj8pvSD75RcR3t5a_42.857096_-106.340388@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311954,
+    "wof:geomhash":"6d15805e9bec0b7dea71bf6f4d193e83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874111775
+        }
+    ],
+    "wof:id":874111775,
+    "wof:lastmodified":1464311954,
+    "wof:name":"Precision Measurment Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meter"
+    ]
+},
+  "bbox": [
+    -106.340388,
+    42.857096,
+    -106.340388,
+    42.857096
+],
+  "geometry": {"coordinates":[-106.340388,42.857096],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874161133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343887,42.809427,-106.343887,42.809427",
+    "geom:latitude":42.809427,
+    "geom:longitude":-106.343887,
+    "iso:country":"US",
+    "sg:address":"3940 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 4677",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "golf"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oR19VCgieziNvfZ7EtRil_42.809427_-106.343887@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312443,
+    "wof:geomhash":"557f8814ef2671150a4d3003952d0d09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874161133
+        }
+    ],
+    "wof:id":874161133,
+    "wof:lastmodified":1464312443,
+    "wof:name":"Wyoming Discount Golf",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "golf"
+    ]
+},
+  "bbox": [
+    -106.343887,
+    42.809427,
+    -106.343887,
+    42.809427
+],
+  "geometry": {"coordinates":[-106.343887,42.809427],"type":"Point"}
+}

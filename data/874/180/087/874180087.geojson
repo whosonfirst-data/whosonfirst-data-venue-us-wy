@@ -1,0 +1,51 @@
+{
+  "id": 874180087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.059955,44.525975,-109.059955,44.525975",
+    "geom:latitude":44.525975,
+    "geom:longitude":-109.059955,
+    "iso:country":"US",
+    "sg:address":"1414 Sheridan Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 9977",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ubYKqa6IqWQPVAFo3tDJt_44.525975_-109.059955@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312631,
+    "wof:geomhash":"21dad4f6892aedbc6ad626dd4bf91f5c",
+    "wof:hierarchy":[],
+    "wof:id":874180087,
+    "wof:lastmodified":1464312631,
+    "wof:name":"Telefloral",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.059955,
+    44.525975,
+    -109.059955,
+    44.525975
+],
+  "geometry": {"coordinates":[-109.059955,44.525975],"type":"Point"}
+}

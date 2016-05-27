@@ -1,0 +1,73 @@
+{
+  "id": 874213561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.325242,42.849302,-106.325242,42.849302",
+    "geom:latitude":42.849302,
+    "geom:longitude":-106.325242,
+    "iso:country":"US",
+    "sg:address":"142 S Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 1662",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "artwork",
+        "framing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lnR2e8kr1eLSHEMgDfYWm_42.849302_-106.325242@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312990,
+    "wof:geomhash":"4014d60368b905c9efe9b195fe6e1e42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874213561
+        }
+    ],
+    "wof:id":874213561,
+    "wof:lastmodified":1464312990,
+    "wof:name":"Artists Gallery  The",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "artwork",
+        "framing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -106.325242,
+    42.849302,
+    -106.325242,
+    42.849302
+],
+  "geometry": {"coordinates":[-106.325242,42.849302],"type":"Point"}
+}

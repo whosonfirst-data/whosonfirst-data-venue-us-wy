@@ -1,0 +1,56 @@
+{
+  "id": 874219847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.511037,44.298627,-105.511037,44.298627",
+    "geom:latitude":44.298627,
+    "geom:longitude":-105.511037,
+    "iso:country":"US",
+    "sg:address":"600 W Warlow Dr",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 5369",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31uk79k502YpMhB5P4QH2g_44.298627_-105.511037@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313058,
+    "wof:geomhash":"3592a02db87fb48888093f6e53eea11b",
+    "wof:hierarchy":[],
+    "wof:id":874219847,
+    "wof:lastmodified":1464313058,
+    "wof:name":"Fire Dept Training Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -105.511037,
+    44.298627,
+    -105.511037,
+    44.298627
+],
+  "geometry": {"coordinates":[-105.511037,44.298627],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874164923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.698874,44.347474,-106.698874,44.347474",
+    "geom:latitude":44.347474,
+    "geom:longitude":-106.698874,
+    "iso:country":"US",
+    "sg:address":"55 N Main St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 5544",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JDxdai4slap3ubU5wE2tl_44.347474_-106.698874@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312479,
+    "wof:geomhash":"a2d5c57d7e145d30b5026cb700620ce0",
+    "wof:hierarchy":[],
+    "wof:id":874164923,
+    "wof:lastmodified":1464312479,
+    "wof:name":"Buffalo Chamber Of Commerce",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -106.698874,
+    44.347474,
+    -106.698874,
+    44.347474
+],
+  "geometry": {"coordinates":[-106.698874,44.347474],"type":"Point"}
+}

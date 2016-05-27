@@ -1,0 +1,70 @@
+{
+  "id": 874183269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.43248,42.878605,-106.43248,42.878605",
+    "geom:latitude":42.878605,
+    "geom:longitude":-106.43248,
+    "iso:country":"US",
+    "sg:address":"7242 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 7121",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "steel"
+    ],
+    "sg:website":"www.roscoesteel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KY62RgTPQ0CR8YwDIGwKv_42.878605_-106.432480@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312662,
+    "wof:geomhash":"ef328fa33fae0d44c7e68901bced9555",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874183269
+        }
+    ],
+    "wof:id":874183269,
+    "wof:lastmodified":1464312662,
+    "wof:name":"Roscoe Steel & Culvert Co",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel"
+    ]
+},
+  "bbox": [
+    -106.43248,
+    42.878605,
+    -106.43248,
+    42.878605
+],
+  "geometry": {"coordinates":[-106.43248,42.878605],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874155139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.252875,41.641324,-109.252875,41.641324",
+    "geom:latitude":41.641324,
+    "geom:longitude":-109.252875,
+    "iso:country":"US",
+    "sg:address":"1801 Yellowstone Rd",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 6698",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qk9qy3hRYGrNI18kj1VzZ_41.641324_-109.252875@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312378,
+    "wof:geomhash":"74192cf9bfa698c21d112c3331be8b23",
+    "wof:hierarchy":[],
+    "wof:id":874155139,
+    "wof:lastmodified":1464312378,
+    "wof:name":"Mountainaire Animal Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -109.252875,
+    41.641324,
+    -109.252875,
+    41.641324
+],
+  "geometry": {"coordinates":[-109.252875,41.641324],"type":"Point"}
+}

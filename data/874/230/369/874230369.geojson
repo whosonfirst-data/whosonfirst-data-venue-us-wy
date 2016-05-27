@@ -1,0 +1,59 @@
+{
+  "id": 874230369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.786437,43.472342,-110.786437,43.472342",
+    "geom:latitude":43.472342,
+    "geom:longitude":-110.786437,
+    "iso:country":"US",
+    "sg:address":"180 Powderhorn Ln",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/jackson-hole/67243-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 8550",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12PhMGwlNz4L8YM0j4vTDR_43.472342_-110.786437@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313163,
+    "wof:geomhash":"ab3eccb0e1cb7967b9d81902ed97c1d4",
+    "wof:hierarchy":[],
+    "wof:id":874230369,
+    "wof:lastmodified":1464313163,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -110.786437,
+    43.472342,
+    -110.786437,
+    43.472342
+],
+  "geometry": {"coordinates":[-110.78643700000001,43.472342],"type":"Point"}
+}

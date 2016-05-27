@@ -1,0 +1,58 @@
+{
+  "id": 874049047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.20236,41.586,-109.20236,41.586",
+    "geom:latitude":41.586,
+    "geom:longitude":-109.20236,
+    "iso:country":"US",
+    "sg:address":"402 Agate St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 9434",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e509Y7uTXhfNZnsu1JxUj_41.586000_-109.202360@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311232,
+    "wof:geomhash":"394a6da91389839275fcbaa142142459",
+    "wof:hierarchy":[],
+    "wof:id":874049047,
+    "wof:lastmodified":1464311232,
+    "wof:name":"Ferrero Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.20236,
+    41.586,
+    -109.20236,
+    41.586
+],
+  "geometry": {"coordinates":[-109.20236,41.586],"type":"Point"}
+}

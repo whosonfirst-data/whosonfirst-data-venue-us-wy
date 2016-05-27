@@ -1,0 +1,58 @@
+{
+  "id": 873987623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.198419,43.65049,-108.198419,43.65049",
+    "geom:latitude":43.65049,
+    "geom:longitude":-108.198419,
+    "iso:country":"US",
+    "sg:address":"141 Pioneer Home Dr",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 3151",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "skilled",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01czB8BGJAea5CjpcapxvB_43.650490_-108.198419@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310673,
+    "wof:geomhash":"020224a31fead8739456767b5bb431f3",
+    "wof:hierarchy":[],
+    "wof:id":873987623,
+    "wof:lastmodified":1464310673,
+    "wof:name":"Wyoming Pioneer Home",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled",
+        "public"
+    ]
+},
+  "bbox": [
+    -108.198419,
+    43.65049,
+    -108.198419,
+    43.65049
+],
+  "geometry": {"coordinates":[-108.198419,43.65049],"type":"Point"}
+}

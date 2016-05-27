@@ -1,0 +1,71 @@
+{
+  "id": 874165787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.127817,42.855631,-106.127817,42.855631",
+    "geom:latitude":42.855631,
+    "geom:longitude":-106.127817,
+    "iso:country":"US",
+    "sg:address":"10200 US Hwy 20 - 26",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1667",
+    "sg:postcode":"82636",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59LDVrt5fvH6Xlq9ZSHgnP_42.855631_-106.127817@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312487,
+    "wof:geomhash":"f35c08de6b9839216596d46b0f13b980",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874165787
+        }
+    ],
+    "wof:id":874165787,
+    "wof:lastmodified":1464312487,
+    "wof:name":"C & Y Transportation Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -106.127817,
+    42.855631,
+    -106.127817,
+    42.855631
+],
+  "geometry": {"coordinates":[-106.12781699999999,42.855631],"type":"Point"}
+}

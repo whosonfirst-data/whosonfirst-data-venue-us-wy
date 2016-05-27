@@ -1,0 +1,56 @@
+{
+  "id": 874162569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.345549,42.134944,-104.345549,42.134944",
+    "geom:latitude":42.134944,
+    "geom:longitude":-104.345549,
+    "iso:country":"US",
+    "sg:address":"220 Main St",
+    "sg:city":"Lingle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 837 2526",
+    "sg:postcode":"82223",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PCuhUQbRp9tbAraXZy4nb_42.134944_-104.345549@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312456,
+    "wof:geomhash":"3e90c5818f37470ab41aeab9f7db4c5f",
+    "wof:hierarchy":[],
+    "wof:id":874162569,
+    "wof:lastmodified":1464312456,
+    "wof:name":"Lingle Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -104.345549,
+    42.134944,
+    -104.345549,
+    42.134944
+],
+  "geometry": {"coordinates":[-104.34554900000001,42.134944],"type":"Point"}
+}

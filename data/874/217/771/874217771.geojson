@@ -1,0 +1,58 @@
+{
+  "id": 874217771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.030009,44.513156,-109.030009,44.513156",
+    "geom:latitude":44.513156,
+    "geom:longitude":-109.030009,
+    "iso:country":"US",
+    "sg:address":"3227 Duggleby Dr",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 6066",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3L2tENc0dSwHZP7QM7tdjE_44.513156_-109.030009@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313029,
+    "wof:geomhash":"29aa31a5631373c21cd156317d6fd2c4",
+    "wof:hierarchy":[],
+    "wof:id":874217771,
+    "wof:lastmodified":1464313029,
+    "wof:name":"Budget Rent-A-Car",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -109.030009,
+    44.513156,
+    -109.030009,
+    44.513156
+],
+  "geometry": {"coordinates":[-109.03000900000001,44.513156],"type":"Point"}
+}

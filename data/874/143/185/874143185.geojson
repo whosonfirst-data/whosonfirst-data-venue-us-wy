@@ -1,0 +1,58 @@
+{
+  "id": 874143185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.816473,41.136693,-104.816473,41.136693",
+    "geom:latitude":41.136693,
+    "geom:longitude":-104.816473,
+    "iso:country":"US",
+    "sg:address":"1901 Central Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 0891",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "home",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fsNkDGVXyOpjwTom4hz02_41.136693_-104.816473@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312263,
+    "wof:geomhash":"ed06576a30a0e69094475570c0dc708e",
+    "wof:hierarchy":[],
+    "wof:id":874143185,
+    "wof:lastmodified":1464312263,
+    "wof:name":"FCS Group Home",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "group"
+    ]
+},
+  "bbox": [
+    -104.816473,
+    41.136693,
+    -104.816473,
+    41.136693
+],
+  "geometry": {"coordinates":[-104.816473,41.136693],"type":"Point"}
+}

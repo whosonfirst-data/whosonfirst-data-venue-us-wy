@@ -1,0 +1,58 @@
+{
+  "id": 874157473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.823493,41.130543,-104.823493,41.130543",
+    "geom:latitude":41.130543,
+    "geom:longitude":-104.823493,
+    "iso:country":"US",
+    "sg:address":"1621 Snyder Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 8043",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PjWA6aWjcxyVxuu7o1NOP_41.130543_-104.823493@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312403,
+    "wof:geomhash":"f1cee043624ad5c9c384aaf730e7dd8e",
+    "wof:hierarchy":[],
+    "wof:id":874157473,
+    "wof:lastmodified":1464312403,
+    "wof:name":"Easy Way Car Wash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -104.823493,
+    41.130543,
+    -104.823493,
+    41.130543
+],
+  "geometry": {"coordinates":[-104.823493,41.130543],"type":"Point"}
+}

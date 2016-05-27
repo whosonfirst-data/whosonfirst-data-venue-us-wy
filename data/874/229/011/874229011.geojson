@@ -1,0 +1,59 @@
+{
+  "id": 874229011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.21657,41.794352,-107.21657,41.794352",
+    "geom:latitude":41.794352,
+    "geom:longitude":-107.21657,
+    "iso:country":"US",
+    "sg:address":"506 N Higley Blvd",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/rawlins/67223-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 7706",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fYEx57yKbfmjeMW4cOZQZ_41.794352_-107.216570@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313151,
+    "wof:geomhash":"70fe578175f0b4c19683d7dae66150b1",
+    "wof:hierarchy":[],
+    "wof:id":874229011,
+    "wof:lastmodified":1464313151,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -107.21657,
+    41.794352,
+    -107.21657,
+    41.794352
+],
+  "geometry": {"coordinates":[-107.21657,41.794352],"type":"Point"}
+}

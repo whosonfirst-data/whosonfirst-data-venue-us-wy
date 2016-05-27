@@ -1,0 +1,56 @@
+{
+  "id": 874111321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.639107,43.712549,-106.639107,43.712549",
+    "geom:latitude":43.712549,
+    "geom:longitude":-106.639107,
+    "iso:country":"US",
+    "sg:address":"268 Nolan Ave",
+    "sg:city":"Kaycee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 738 2360",
+    "sg:postcode":"82639",
+    "sg:province":"WY",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4viLovwQlocvXn9UBoXIHx_43.712549_-106.639107@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311946,
+    "wof:geomhash":"47ba6e56e9db092f15fe3d1af1534afc",
+    "wof:hierarchy":[],
+    "wof:id":874111321,
+    "wof:lastmodified":1464311946,
+    "wof:name":"Family Medical Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -106.639107,
+    43.712549,
+    -106.639107,
+    43.712549
+],
+  "geometry": {"coordinates":[-106.639107,43.712549],"type":"Point"}
+}

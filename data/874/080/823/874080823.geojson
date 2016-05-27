@@ -1,0 +1,66 @@
+{
+  "id": 874080823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.637587,41.301175,-105.637587,41.301175",
+    "geom:latitude":41.301175,
+    "geom:longitude":-105.637587,
+    "iso:country":"US",
+    "sg:address":"107 Circle Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 0217",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Vh7cqXJjxJCWQKjZmVjZv_41.301175_-105.637587@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311561,
+    "wof:geomhash":"04529412fc4a49fadc08e519a6b5c473",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874080823
+        }
+    ],
+    "wof:id":874080823,
+    "wof:lastmodified":1464311561,
+    "wof:name":"Rocky Mountain Ministry SBC",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.637587,
+    41.301175,
+    -105.637587,
+    41.301175
+],
+  "geometry": {"coordinates":[-105.637587,41.301175],"type":"Point"}
+}

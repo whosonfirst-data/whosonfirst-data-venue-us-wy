@@ -1,0 +1,58 @@
+{
+  "id": 874108037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.818071,41.130607,-104.818071,41.130607",
+    "geom:latitude":41.130607,
+    "geom:longitude":-104.818071,
+    "iso:country":"US",
+    "sg:address":"400 W 15th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 3780",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gC9VmMEm5bM4fkYUBE8EE_41.130607_-104.818071@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311894,
+    "wof:geomhash":"44ac437dc487e98c0638cb1a482ac8a7",
+    "wof:hierarchy":[],
+    "wof:id":874108037,
+    "wof:lastmodified":1464311894,
+    "wof:name":"Locks Plus",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -104.818071,
+    41.130607,
+    -104.818071,
+    41.130607
+],
+  "geometry": {"coordinates":[-104.818071,41.130607],"type":"Point"}
+}

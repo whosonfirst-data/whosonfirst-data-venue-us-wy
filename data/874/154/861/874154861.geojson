@@ -1,0 +1,56 @@
+{
+  "id": 874154861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.387177,44.395505,-104.387177,44.395505",
+    "geom:latitude":44.395505,
+    "geom:longitude":-104.387177,
+    "iso:country":"US",
+    "sg:address":"18034 US Hwy 14",
+    "sg:city":"Sundance",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 756 9419",
+    "sg:postcode":"82729",
+    "sg:province":"WY",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MJTyrVgGjuSqxY5b4pSuS_44.395505_-104.387177@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312375,
+    "wof:geomhash":"d031fcdcc287e375f83ae56ff01798ba",
+    "wof:hierarchy":[],
+    "wof:id":874154861,
+    "wof:lastmodified":1464312375,
+    "wof:name":"Camp Beard",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -104.387177,
+    44.395505,
+    -104.387177,
+    44.395505
+],
+  "geometry": {"coordinates":[-104.38717699999999,44.395505],"type":"Point"}
+}

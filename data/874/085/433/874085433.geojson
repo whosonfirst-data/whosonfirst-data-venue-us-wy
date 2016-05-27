@@ -1,0 +1,56 @@
+{
+  "id": 874085433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.497559,44.292314,-105.497559,44.292314",
+    "geom:latitude":44.292314,
+    "geom:longitude":-105.497559,
+    "iso:country":"US",
+    "sg:address":"511 E 3rd St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 4014",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Uh6BISapBN1jEtUAjNhsy_44.292314_-105.497559@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311615,
+    "wof:geomhash":"3798fa7f6e34bc356b0bba26aee3d96b",
+    "wof:hierarchy":[],
+    "wof:id":874085433,
+    "wof:lastmodified":1464311615,
+    "wof:name":"Berg Beauty Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -105.497559,
+    44.292314,
+    -105.497559,
+    44.292314
+],
+  "geometry": {"coordinates":[-105.497559,44.292314],"type":"Point"}
+}

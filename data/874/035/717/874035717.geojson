@@ -1,0 +1,56 @@
+{
+  "id": 874035717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.807532,41.45106,-106.807532,41.45106",
+    "geom:latitude":41.45106,
+    "geom:longitude":-106.807532,
+    "iso:country":"US",
+    "sg:address":"103 E Walnut Ave",
+    "sg:city":"Saratoga",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 326 3435",
+    "sg:postcode":"82331",
+    "sg:province":"WY",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gWtNa20WHQ6AJ2JzyexEN_41.451060_-106.807532@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311102,
+    "wof:geomhash":"cbdb34e7b8098d1fe530e9523b1ee6ff",
+    "wof:hierarchy":[],
+    "wof:id":874035717,
+    "wof:lastmodified":1464311102,
+    "wof:name":"Master Imagery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -106.807532,
+    41.45106,
+    -106.807532,
+    41.45106
+],
+  "geometry": {"coordinates":[-106.80753199999999,41.45106],"type":"Point"}
+}

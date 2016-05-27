@@ -1,0 +1,66 @@
+{
+  "id": 874038675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590648,41.310911,-105.590648,41.310911",
+    "geom:latitude":41.310911,
+    "geom:longitude":-105.590648,
+    "iso:country":"US",
+    "sg:address":"525 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 5323",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xRej27BgOfWQuqp9rSQtm_41.310911_-105.590648@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311131,
+    "wof:geomhash":"c81e31e01d389597679b6679a474b67b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874038675
+        }
+    ],
+    "wof:id":874038675,
+    "wof:lastmodified":1464311131,
+    "wof:name":"Albany County Civil Office",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.590648,
+    41.310911,
+    -105.590648,
+    41.310911
+],
+  "geometry": {"coordinates":[-105.590648,41.310911],"type":"Point"}
+}

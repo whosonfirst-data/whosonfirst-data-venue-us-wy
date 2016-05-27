@@ -1,0 +1,71 @@
+{
+  "id": 874038109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.597741,41.249872,-105.597741,41.249872",
+    "geom:latitude":41.249872,
+    "geom:longitude":-105.597741,
+    "iso:country":"US",
+    "sg:address":"6006 S Chaparral Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8369",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BdRBBEcPOXP12ZQv1bYk2_41.249872_-105.597741@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311126,
+    "wof:geomhash":"a62eefa5af0da0ae09e10f8ff1d4a05a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874038109
+        }
+    ],
+    "wof:id":874038109,
+    "wof:lastmodified":1464311126,
+    "wof:name":"Laramie Hometown Press",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -105.597741,
+    41.249872,
+    -105.597741,
+    41.249872
+],
+  "geometry": {"coordinates":[-105.597741,41.249872],"type":"Point"}
+}

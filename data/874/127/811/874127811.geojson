@@ -1,0 +1,58 @@
+{
+  "id": 874127811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.757645,44.752214,-108.757645,44.752214",
+    "geom:latitude":44.752214,
+    "geom:longitude":-108.757645,
+    "iso:country":"US",
+    "sg:address":"146 S Bent St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 5101",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19jElQ3WWrr3qohfVMOPHW_44.752214_-108.757645@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312110,
+    "wof:geomhash":"3b5d4221d90980d2eeb7757b24606508",
+    "wof:hierarchy":[],
+    "wof:id":874127811,
+    "wof:lastmodified":1464312110,
+    "wof:name":"Big Horn Enterprises Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -108.757645,
+    44.752214,
+    -108.757645,
+    44.752214
+],
+  "geometry": {"coordinates":[-108.757645,44.752214],"type":"Point"}
+}

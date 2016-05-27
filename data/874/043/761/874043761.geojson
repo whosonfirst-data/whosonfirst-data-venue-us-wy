@@ -1,0 +1,75 @@
+{
+  "id": 874043761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.580821,41.307251,-105.580821,41.307251",
+    "geom:latitude":41.307251,
+    "geom:longitude":-105.580821,
+    "iso:country":"US",
+    "sg:address":"618 S 13th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8468",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jkMWGJ5WyHcFJ9shK0c3e_41.307251_-105.580821@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311182,
+    "wof:geomhash":"3bd7cf542380f9d53def16bfc86d5631",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874043761
+        }
+    ],
+    "wof:id":874043761,
+    "wof:lastmodified":1464311182,
+    "wof:name":"Wyoming Youth Opportunities",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "organization",
+        "center"
+    ]
+},
+  "bbox": [
+    -105.580821,
+    41.307251,
+    -105.580821,
+    41.307251
+],
+  "geometry": {"coordinates":[-105.580821,41.307251],"type":"Point"}
+}

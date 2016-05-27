@@ -1,0 +1,58 @@
+{
+  "id": 874035673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.238088,41.792122,-107.238088,41.792122",
+    "geom:latitude":41.792122,
+    "geom:longitude":-107.238088,
+    "iso:country":"US",
+    "sg:address":"214 W Maple St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 4826",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38KqdkElSIPi0jGYsCOZzH_41.792122_-107.238088@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311100,
+    "wof:geomhash":"d7fe1c29da0461b305186ef7f6b74366",
+    "wof:hierarchy":[],
+    "wof:id":874035673,
+    "wof:lastmodified":1464311100,
+    "wof:name":"Wendy Gersing PHD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -107.238088,
+    41.792122,
+    -107.238088,
+    41.792122
+],
+  "geometry": {"coordinates":[-107.238088,41.792122],"type":"Point"}
+}

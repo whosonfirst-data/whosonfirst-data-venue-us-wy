@@ -1,0 +1,66 @@
+{
+  "id": 874061609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592691,41.308054,-105.592691,41.308054",
+    "geom:latitude":41.308054,
+    "geom:longitude":-105.592691,
+    "iso:country":"US",
+    "sg:address":"608 S 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6363",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JeHDWHw30KofhoRebubfx_41.308054_-105.592691@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311350,
+    "wof:geomhash":"dc8eab429689d5da920f1393480394dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874061609
+        }
+    ],
+    "wof:id":874061609,
+    "wof:lastmodified":1464311350,
+    "wof:name":"St Laurence Elementary School",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.592691,
+    41.308054,
+    -105.592691,
+    41.308054
+],
+  "geometry": {"coordinates":[-105.592691,41.308054],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874181019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.31945,42.853298,-106.31945,42.853298",
+    "geom:latitude":42.853298,
+    "geom:longitude":-106.31945,
+    "iso:country":"US",
+    "sg:address":"235 N Kimball St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5277",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03ism4Z4AFNIIobXYogh7i_42.853298_-106.319450@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312640,
+    "wof:geomhash":"c6a3d02e30d23fe21fe40ae54bd42230",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874181019
+        }
+    ],
+    "wof:id":874181019,
+    "wof:lastmodified":1464312640,
+    "wof:name":"United Glass Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.31945,
+    42.853298,
+    -106.31945,
+    42.853298
+],
+  "geometry": {"coordinates":[-106.31945,42.853298],"type":"Point"}
+}

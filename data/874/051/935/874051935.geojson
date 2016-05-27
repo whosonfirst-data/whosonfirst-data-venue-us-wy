@@ -1,0 +1,75 @@
+{
+  "id": 874051935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.580548,41.308196,-105.580548,41.308196",
+    "geom:latitude":41.308196,
+    "geom:longitude":-105.580548,
+    "iso:country":"US",
+    "sg:address":"1310 E Custer St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 1889",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kYvjxLiynjxSDqHY5MeN1_41.308196_-105.580548@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311259,
+    "wof:geomhash":"c7e551c4185105bd9dcf9fbf6485e088",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874051935
+        }
+    ],
+    "wof:id":874051935,
+    "wof:lastmodified":1464311259,
+    "wof:name":"High Country Lawn & Landscape",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -105.580548,
+    41.308196,
+    -105.580548,
+    41.308196
+],
+  "geometry": {"coordinates":[-105.58054799999999,41.308196],"type":"Point"}
+}

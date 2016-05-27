@@ -1,0 +1,56 @@
+{
+  "id": 874103703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.401689,42.76282,-105.401689,42.76282",
+    "geom:latitude":42.76282,
+    "geom:longitude":-105.401689,
+    "iso:country":"US",
+    "sg:address":"100 Wind River Dr",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 5285",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53UGfaBYlmukkP8OlP4emN_42.762820_-105.401689@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311840,
+    "wof:geomhash":"4a9b33b3ab1659d74893cb77e85000aa",
+    "wof:hierarchy":[],
+    "wof:id":874103703,
+    "wof:lastmodified":1464311840,
+    "wof:name":"Wind River Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -105.401689,
+    42.76282,
+    -105.401689,
+    42.76282
+],
+  "geometry": {"coordinates":[-105.401689,42.76282],"type":"Point"}
+}

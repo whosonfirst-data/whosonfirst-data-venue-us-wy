@@ -1,0 +1,69 @@
+{
+  "id": 874007439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.3881,42.824059,-106.3881,42.824059",
+    "geom:latitude":42.824059,
+    "geom:longitude":-106.3881,
+    "iso:country":"US",
+    "sg:address":"2512 River Meadows Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 5215",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "archaeologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f22eS8msgI4nSI4qxJEVr_42.824059_-106.388100@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310836,
+    "wof:geomhash":"4fa261da1cf02c2732b00b7c77fe1d4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874007439
+        }
+    ],
+    "wof:id":874007439,
+    "wof:lastmodified":1464310836,
+    "wof:name":"Pronghorn Archaeology LLC",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "archaeologist"
+    ]
+},
+  "bbox": [
+    -106.3881,
+    42.824059,
+    -106.3881,
+    42.824059
+],
+  "geometry": {"coordinates":[-106.38809999999999,42.824059],"type":"Point"}
+}

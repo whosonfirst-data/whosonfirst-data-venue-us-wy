@@ -1,0 +1,56 @@
+{
+  "id": 874037743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.755127,41.149271,-104.755127,41.149271",
+    "geom:latitude":41.149271,
+    "geom:longitude":-104.755127,
+    "iso:country":"US",
+    "sg:address":"4510 Charles St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 8840",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1frf81DClZdW3mhOcajR5T_41.149271_-104.755127@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311123,
+    "wof:geomhash":"60c9f02856aa43df297de36c92a3dfdc",
+    "wof:hierarchy":[],
+    "wof:id":874037743,
+    "wof:lastmodified":1464311123,
+    "wof:name":"KOA Kampground",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -104.755127,
+    41.149271,
+    -104.755127,
+    41.149271
+],
+  "geometry": {"coordinates":[-104.755127,41.149271],"type":"Point"}
+}

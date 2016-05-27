@@ -1,0 +1,75 @@
+{
+  "id": 874148163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.567429,41.325985,-105.567429,41.325985",
+    "geom:latitude":41.325985,
+    "geom:longitude":-105.567429,
+    "iso:country":"US",
+    "sg:address":"1558 N Henry Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7688",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "appliance",
+        "electrical",
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YupC5CV9YIZTbyyawkIKZ_41.325985_-105.567429@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312312,
+    "wof:geomhash":"aec1c80e050c04ba8a84a6871a46a546",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874148163
+        }
+    ],
+    "wof:id":874148163,
+    "wof:lastmodified":1464312312,
+    "wof:name":"A-1 Petroskis Appliance Repair",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance",
+        "electrical",
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -105.567429,
+    41.325985,
+    -105.567429,
+    41.325985
+],
+  "geometry": {"coordinates":[-105.567429,41.325985],"type":"Point"}
+}

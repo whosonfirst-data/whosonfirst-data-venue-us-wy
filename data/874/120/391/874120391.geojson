@@ -1,0 +1,71 @@
+{
+  "id": 874120391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.306092,42.848844,-106.306092,42.848844",
+    "geom:latitude":42.848844,
+    "geom:longitude":-106.306092,
+    "iso:country":"US",
+    "sg:address":"1402 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 0517",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sgeHtDL1p2n3uTVPinuw5_42.848844_-106.306092@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312044,
+    "wof:geomhash":"3a49c4e98b7b345e90317517c6b88830",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874120391
+        }
+    ],
+    "wof:id":874120391,
+    "wof:lastmodified":1464312044,
+    "wof:name":"Thomas Crawford Auto",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -106.306092,
+    42.848844,
+    -106.306092,
+    42.848844
+],
+  "geometry": {"coordinates":[-106.30609200000001,42.848844],"type":"Point"}
+}

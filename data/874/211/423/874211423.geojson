@@ -1,0 +1,56 @@
+{
+  "id": 874211423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.261045,44.875101,-107.261045,44.875101",
+    "geom:latitude":44.875101,
+    "geom:longitude":-107.261045,
+    "iso:country":"US",
+    "sg:address":"510 Broadway Ave",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 655 9659",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "preparation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UBKsruMZGpmK8o76Kokmb_44.875101_-107.261045@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312968,
+    "wof:geomhash":"7acb5a975445069b0c6bda3849d53ee3",
+    "wof:hierarchy":[],
+    "wof:id":874211423,
+    "wof:lastmodified":1464312968,
+    "wof:name":"Tongue River Apiaries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation"
+    ]
+},
+  "bbox": [
+    -107.261045,
+    44.875101,
+    -107.261045,
+    44.875101
+],
+  "geometry": {"coordinates":[-107.261045,44.875101],"type":"Point"}
+}

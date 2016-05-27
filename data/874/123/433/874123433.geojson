@@ -1,0 +1,56 @@
+{
+  "id": 874123433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.97127,41.256799,-110.97127,41.256799",
+    "geom:latitude":41.256799,
+    "geom:longitude":-110.97127,
+    "iso:country":"US",
+    "sg:address":"624 W Cheyenne Dr",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 1908",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mVlfw7GXgkZteTj8Erp1C_41.256799_-110.971270@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312072,
+    "wof:geomhash":"dea4eee51b6f1339258368b7092e0957",
+    "wof:hierarchy":[],
+    "wof:id":874123433,
+    "wof:lastmodified":1464312072,
+    "wof:name":"Finishing Touch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -110.97127,
+    41.256799,
+    -110.97127,
+    41.256799
+],
+  "geometry": {"coordinates":[-110.97127,41.256799],"type":"Point"}
+}

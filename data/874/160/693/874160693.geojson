@@ -1,0 +1,51 @@
+{
+  "id": 874160693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.494045,44.290228,-105.494045,44.290228",
+    "geom:latitude":44.290228,
+    "geom:longitude":-105.494045,
+    "iso:country":"US",
+    "sg:address":"509 S Douglas Hwy",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 8117",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bTgfvpwHQBxuEE8jQmTC9_44.290228_-105.494045@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312439,
+    "wof:geomhash":"cbe9405039f907b39d8c7bf8a2df7085",
+    "wof:hierarchy":[],
+    "wof:id":874160693,
+    "wof:lastmodified":1464312439,
+    "wof:name":"US Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.494045,
+    44.290228,
+    -105.494045,
+    44.290228
+],
+  "geometry": {"coordinates":[-105.494045,44.290228],"type":"Point"}
+}

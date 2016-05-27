@@ -1,0 +1,76 @@
+{
+  "id": 874212515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.36545,42.823898,-106.36545,42.823898",
+    "geom:latitude":42.823898,
+    "geom:longitude":-106.36545,
+    "iso:country":"US",
+    "sg:address":"3500 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 3711",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gVAErpasq3TweUhPYKbl9_42.823898_-106.365450@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312979,
+    "wof:geomhash":"b3a9987587be9e266b98338157f69ce9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874212515
+        }
+    ],
+    "wof:id":874212515,
+    "wof:lastmodified":1464312979,
+    "wof:name":"Wyoming Health Fairs",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "care"
+    ]
+},
+  "bbox": [
+    -106.36545,
+    42.823898,
+    -106.36545,
+    42.823898
+],
+  "geometry": {"coordinates":[-106.36545,42.823898],"type":"Point"}
+}

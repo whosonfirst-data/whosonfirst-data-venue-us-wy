@@ -1,0 +1,77 @@
+{
+  "id": 874100627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.732558,41.238387,-105.732558,41.238387",
+    "geom:latitude":41.238387,
+    "geom:longitude":-105.732558,
+    "iso:country":"US",
+    "sg:address":"963 State Hwy 230",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5708",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "contractor",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kIyQvxvCcuXP8amXafyxm_41.238387_-105.732558@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311803,
+    "wof:geomhash":"970381cd951000a5fa13e38237e5cace",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874100627
+        }
+    ],
+    "wof:id":874100627,
+    "wof:lastmodified":1464311803,
+    "wof:name":"Summit Trucking Service",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "contractor",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -105.732558,
+    41.238387,
+    -105.732558,
+    41.238387
+],
+  "geometry": {"coordinates":[-105.732558,41.238387],"type":"Point"}
+}

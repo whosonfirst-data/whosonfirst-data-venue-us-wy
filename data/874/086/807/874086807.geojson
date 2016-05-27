@@ -1,0 +1,77 @@
+{
+  "id": 874086807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.326486,42.848758,-106.326486,42.848758",
+    "geom:latitude":42.848758,
+    "geom:longitude":-106.326486,
+    "iso:country":"US",
+    "sg:address":"110 W 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5985",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "exploration",
+        "royalty",
+        "tr",
+        "publishing",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W2dBBxCiPJwxTrm4ZF7vU_42.848758_-106.326486@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311628,
+    "wof:geomhash":"ace76960632dac262f4f6f953b349ec8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874086807
+        }
+    ],
+    "wof:id":874086807,
+    "wof:lastmodified":1464311628,
+    "wof:name":"Lockhart Federal Unit Service",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exploration",
+        "royalty",
+        "tr",
+        "publishing",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.326486,
+    42.848758,
+    -106.326486,
+    42.848758
+],
+  "geometry": {"coordinates":[-106.326486,42.848758],"type":"Point"}
+}

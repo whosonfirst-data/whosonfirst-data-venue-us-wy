@@ -1,0 +1,64 @@
+{
+  "id": 874019307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.403111,42.818096,-106.403111,42.818096",
+    "geom:latitude":42.818096,
+    "geom:longitude":-106.403111,
+    "iso:country":"US",
+    "sg:address":"80 Primrose St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 8282",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Vd8jCGqg2Jhp45AzlsGYv_42.818096_-106.403111@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310940,
+    "wof:geomhash":"e2649ba1151f8aafe89e78aa23d74d64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874019307
+        }
+    ],
+    "wof:id":874019307,
+    "wof:lastmodified":1464310940,
+    "wof:name":"Robert E Wellborn",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.403111,
+    42.818096,
+    -106.403111,
+    42.818096
+],
+  "geometry": {"coordinates":[-106.403111,42.818096],"type":"Point"}
+}

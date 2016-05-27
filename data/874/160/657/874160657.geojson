@@ -1,0 +1,71 @@
+{
+  "id": 874160657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.587946,41.313843,-105.587946,41.313843",
+    "geom:latitude":41.313843,
+    "geom:longitude":-105.587946,
+    "iso:country":"US",
+    "sg:address":"265 N 7th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3314",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Uum7ZPG13cPEgAHSh7TBy_41.313843_-105.587946@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312439,
+    "wof:geomhash":"43715895d71d3affcba990b20cbaf0c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874160657
+        }
+    ],
+    "wof:id":874160657,
+    "wof:lastmodified":1464312439,
+    "wof:name":"C & W Rentals",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -105.587946,
+    41.313843,
+    -105.587946,
+    41.313843
+],
+  "geometry": {"coordinates":[-105.587946,41.313843],"type":"Point"}
+}

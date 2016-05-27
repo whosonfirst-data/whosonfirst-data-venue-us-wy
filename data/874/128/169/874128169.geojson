@@ -1,0 +1,56 @@
+{
+  "id": 874128169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.775911,43.423335,-110.775911,43.423335",
+    "geom:latitude":43.423335,
+    "geom:longitude":-110.775911,
+    "iso:country":"US",
+    "sg:address":"615 W Elk Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 734 0377",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66XG54ED0xYkqzggozqlAM_43.423335_-110.775911@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312113,
+    "wof:geomhash":"3b90789639c06e717b9b280715140e23",
+    "wof:hierarchy":[],
+    "wof:id":874128169,
+    "wof:lastmodified":1464312113,
+    "wof:name":"Hadley Brothers Painting Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -110.775911,
+    43.423335,
+    -110.775911,
+    43.423335
+],
+  "geometry": {"coordinates":[-110.77591099999999,43.423335],"type":"Point"}
+}

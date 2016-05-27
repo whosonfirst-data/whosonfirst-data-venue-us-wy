@@ -1,0 +1,56 @@
+{
+  "id": 874222699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.626008,44.099908,-104.626008,44.099908",
+    "geom:latitude":44.099908,
+    "geom:longitude":-104.626008,
+    "iso:country":"US",
+    "sg:address":"717 Pine St",
+    "sg:city":"Upton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 468 2302",
+    "sg:postcode":"82730",
+    "sg:province":"WY",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mV4bPmpbrLxrslZoV5sah_44.099908_-104.626008@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313091,
+    "wof:geomhash":"0e946020b664b5935b422c7a55da4ac2",
+    "wof:hierarchy":[],
+    "wof:id":874222699,
+    "wof:lastmodified":1464313091,
+    "wof:name":"Cedar Hills Family Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -104.626008,
+    44.099908,
+    -104.626008,
+    44.099908
+],
+  "geometry": {"coordinates":[-104.626008,44.099908],"type":"Point"}
+}

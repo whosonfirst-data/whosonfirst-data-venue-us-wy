@@ -1,0 +1,71 @@
+{
+  "id": 874048521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.339759,42.811534,-106.339759,42.811534",
+    "geom:latitude":42.811534,
+    "geom:longitude":-106.339759,
+    "iso:country":"US",
+    "sg:address":"1035 Beaumont Dr",
+    "sg:city":"Mills",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1492",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38fudS9VrhLBvWrO1hK2d4_42.811534_-106.339759@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311228,
+    "wof:geomhash":"b180d74187812c33a36396640c61acd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874048521
+        }
+    ],
+    "wof:id":874048521,
+    "wof:lastmodified":1464311228,
+    "wof:name":"Wyoming Drill Collar Svc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.339759,
+    42.811534,
+    -106.339759,
+    42.811534
+],
+  "geometry": {"coordinates":[-106.339759,42.811534],"type":"Point"}
+}

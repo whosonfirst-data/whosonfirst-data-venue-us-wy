@@ -1,0 +1,71 @@
+{
+  "id": 874218499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.328134,42.848847,-106.328134,42.848847",
+    "geom:latitude":42.848847,
+    "geom:longitude":-106.328134,
+    "iso:country":"US",
+    "sg:address":"216 Industrial Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 5492",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "refrigeration",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4O3u4k8nKuPdlavVnXgD3K_42.848847_-106.328134@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313037,
+    "wof:geomhash":"77f775037cee4c23067f440e46e2bfcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874218499
+        }
+    ],
+    "wof:id":874218499,
+    "wof:lastmodified":1464313037,
+    "wof:name":"Arrowhead Meat Proc & Stor",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration",
+        "special"
+    ]
+},
+  "bbox": [
+    -106.328134,
+    42.848847,
+    -106.328134,
+    42.848847
+],
+  "geometry": {"coordinates":[-106.32813400000001,42.848847],"type":"Point"}
+}

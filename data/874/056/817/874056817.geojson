@@ -1,0 +1,71 @@
+{
+  "id": 874056817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.597107,41.189444,-105.597107,41.189444",
+    "geom:latitude":41.189444,
+    "geom:longitude":-105.597107,
+    "iso:country":"US",
+    "sg:address":"847 US Hwy 287",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 9540",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ranch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Mn9mjPUBtpFSm6WDvNm0p_41.189444_-105.597107@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311308,
+    "wof:geomhash":"6a829f71615333749176980bd794226b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874056817
+        }
+    ],
+    "wof:id":874056817,
+    "wof:lastmodified":1464311308,
+    "wof:name":"Monaghan Ranch",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranch"
+    ]
+},
+  "bbox": [
+    -105.597107,
+    41.189444,
+    -105.597107,
+    41.189444
+],
+  "geometry": {"coordinates":[-105.59710699999999,41.189444],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 874228411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.813781,41.13219,-104.813781,41.13219",
+    "geom:latitude":41.13219,
+    "geom:longitude":-104.813781,
+    "iso:country":"US",
+    "sg:address":"115 W 15th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/5732-snake-river-pub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 7625",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FQQBSzluoGS4KmpDG9ATb_41.132190_-104.813781@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313145,
+    "wof:geomhash":"4c33ce682a5680653b51e3554da6d2d9",
+    "wof:hierarchy":[],
+    "wof:id":874228411,
+    "wof:lastmodified":1464313145,
+    "wof:name":"Snake River Pub",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -104.813781,
+    41.13219,
+    -104.813781,
+    41.13219
+],
+  "geometry": {"coordinates":[-104.81378100000001,41.13219],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 874038547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.47048,41.52617,-109.47048,41.52617",
+    "geom:latitude":41.52617,
+    "geom:longitude":-109.47048,
+    "iso:country":"US",
+    "sg:address":"101 S Center St",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 8636",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BZnbpArcVGvSVem7Mz7sv_41.526170_-109.470480@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311130,
+    "wof:geomhash":"9d1f46cfb698abbfcf044af0e36b8f3d",
+    "wof:hierarchy":[],
+    "wof:id":874038547,
+    "wof:lastmodified":1464311130,
+    "wof:name":"Brady's Auto Body Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -109.47048,
+    41.52617,
+    -109.47048,
+    41.52617
+],
+  "geometry": {"coordinates":[-109.47047999999999,41.52617],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874176803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.383919,42.809718,-106.383919,42.809718",
+    "geom:latitude":42.809718,
+    "geom:longitude":-106.383919,
+    "iso:country":"US",
+    "sg:address":"3363 Squaw Creek Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 8636",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "specialty",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33FQybKft6cpLLir2gqbrs_42.809718_-106.383919@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312595,
+    "wof:geomhash":"7e420998d51e1155b82fc7a152a7aa36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874176803
+        }
+    ],
+    "wof:id":874176803,
+    "wof:lastmodified":1464312595,
+    "wof:name":"Rustys Engrv & Vinyl Letters",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -106.383919,
+    42.809718,
+    -106.383919,
+    42.809718
+],
+  "geometry": {"coordinates":[-106.38391900000001,42.809718],"type":"Point"}
+}

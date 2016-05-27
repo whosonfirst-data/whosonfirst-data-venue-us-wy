@@ -1,0 +1,56 @@
+{
+  "id": 874051781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.758162,43.47968,-110.758162,43.47968",
+    "geom:latitude":43.47968,
+    "geom:longitude":-110.758162,
+    "iso:country":"US",
+    "sg:address":"245 E Broadway",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 4778",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1U7wYlGmWBTUeY1LbaHJUa_43.479680_-110.758162@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311258,
+    "wof:geomhash":"2ff9c1263b44a7777034077f337bd4d9",
+    "wof:hierarchy":[],
+    "wof:id":874051781,
+    "wof:lastmodified":1464311258,
+    "wof:name":"Larsen Family Dentistry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -110.758162,
+    43.47968,
+    -110.758162,
+    43.47968
+],
+  "geometry": {"coordinates":[-110.758162,43.47968],"type":"Point"}
+}

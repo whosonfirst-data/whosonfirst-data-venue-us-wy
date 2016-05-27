@@ -1,0 +1,76 @@
+{
+  "id": 873990111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.318037,42.853611,-106.318037,42.853611",
+    "geom:latitude":42.853611,
+    "geom:longitude":-106.318037,
+    "iso:country":"US",
+    "sg:address":"305 N Park St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Toys & Hobbies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 4107",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "bingo",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OqpKMxckR5ta5voWtBLNp_42.853611_-106.318037@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310690,
+    "wof:geomhash":"ac854413ed938ff35d4fdd1d3416020b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873990111
+        }
+    ],
+    "wof:id":873990111,
+    "wof:lastmodified":1464310690,
+    "wof:name":"High Country Amusement & Bingo",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bingo",
+        "supply"
+    ]
+},
+  "bbox": [
+    -106.318037,
+    42.853611,
+    -106.318037,
+    42.853611
+],
+  "geometry": {"coordinates":[-106.318037,42.853611],"type":"Point"}
+}

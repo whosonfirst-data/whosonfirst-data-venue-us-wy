@@ -1,0 +1,66 @@
+{
+  "id": 874044253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.596106,41.311262,-105.596106,41.311262",
+    "geom:latitude":41.311262,
+    "geom:longitude":-105.596106,
+    "iso:country":"US",
+    "sg:address":"211 S 1st St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 1191",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xD6fOZ3OF2TVVYQmjJFUZ_41.311262_-105.596106@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311187,
+    "wof:geomhash":"9605527049393bf20e05994b3ece8070",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874044253
+        }
+    ],
+    "wof:id":874044253,
+    "wof:lastmodified":1464311187,
+    "wof:name":"Atmosphere Mountainworks",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.596106,
+    41.311262,
+    -105.596106,
+    41.311262
+],
+  "geometry": {"coordinates":[-105.59610600000001,41.311262],"type":"Point"}
+}

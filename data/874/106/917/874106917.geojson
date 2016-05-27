@@ -1,0 +1,69 @@
+{
+  "id": 874106917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.514,42.89245,-106.514,42.89245",
+    "geom:latitude":42.89245,
+    "geom:longitude":-106.514,
+    "iso:country":"US",
+    "sg:address":"1500 Ten Mile Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 1126",
+    "sg:postcode":"82644",
+    "sg:province":"WY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EmKg3u45e1KQpoANaF5hH_42.892450_-106.514000@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311882,
+    "wof:geomhash":"cc3bfa8837551f66f2453597793eb31c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874106917
+        }
+    ],
+    "wof:id":874106917,
+    "wof:lastmodified":1464311882,
+    "wof:name":"Karst & Karst",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -106.514,
+    42.89245,
+    -106.514,
+    42.89245
+],
+  "geometry": {"coordinates":[-106.514,42.89245],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 874039335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.244602,43.850251,-104.244602,43.850251",
+    "geom:latitude":43.850251,
+    "geom:longitude":-104.244602,
+    "iso:country":"US",
+    "sg:address":"3450 W Main St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 2966",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "material",
+        "wrecking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G7zr9rOlAnwy9Ex5EjVjQ_43.850251_-104.244602@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311137,
+    "wof:geomhash":"93bbf01202c09a889fcb279d6a9da01e",
+    "wof:hierarchy":[],
+    "wof:id":874039335,
+    "wof:lastmodified":1464311137,
+    "wof:name":"Outback Salvage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "material",
+        "wrecking"
+    ]
+},
+  "bbox": [
+    -104.244602,
+    43.850251,
+    -104.244602,
+    43.850251
+],
+  "geometry": {"coordinates":[-104.244602,43.850251],"type":"Point"}
+}

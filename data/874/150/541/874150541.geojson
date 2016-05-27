@@ -1,0 +1,56 @@
+{
+  "id": 874150541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.267797,44.506921,-109.267797,44.506921",
+    "geom:latitude":44.506921,
+    "geom:longitude":-109.267797,
+    "iso:country":"US",
+    "sg:address":"47 Lakeside Dr",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 6210",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NaySJ0g7NQfDQZYZ4JnWW_44.506921_-109.267797@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312333,
+    "wof:geomhash":"ae2f5086dd156fce48cfe88066016ab1",
+    "wof:hierarchy":[],
+    "wof:id":874150541,
+    "wof:lastmodified":1464312333,
+    "wof:name":"Buffalo Bill State Park",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "park"
+    ]
+},
+  "bbox": [
+    -109.267797,
+    44.506921,
+    -109.267797,
+    44.506921
+],
+  "geometry": {"coordinates":[-109.267797,44.506921],"type":"Point"}
+}

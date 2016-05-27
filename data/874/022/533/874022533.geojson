@@ -1,0 +1,69 @@
+{
+  "id": 874022533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.543895,42.805679,-106.543895,42.805679",
+    "geom:latitude":42.805679,
+    "geom:longitude":-106.543895,
+    "iso:country":"US",
+    "sg:address":"12950 Shinn Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 0193",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vjeOxAg0yK38Dp1mm2OIQ_42.805679_-106.543895@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310969,
+    "wof:geomhash":"9848ce1c60ea39e03b88214fbbcec098",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874022533
+        }
+    ],
+    "wof:id":874022533,
+    "wof:lastmodified":1464310969,
+    "wof:name":"Instant Tree Svc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -106.543895,
+    42.805679,
+    -106.543895,
+    42.805679
+],
+  "geometry": {"coordinates":[-106.54389500000001,42.805679],"type":"Point"}
+}

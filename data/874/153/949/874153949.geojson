@@ -1,0 +1,57 @@
+{
+  "id": 874153949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.953189,44.796263,-106.953189,44.796263",
+    "geom:latitude":44.796263,
+    "geom:longitude":-106.953189,
+    "iso:country":"US",
+    "sg:address":"212 E Works St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 7244",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.sheridanfirerescue.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZHpD5BJFtUOWDmqho94uL_44.796263_-106.953189@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312366,
+    "wof:geomhash":"da1c870bf3ba7ba51b591a62c7129fd7",
+    "wof:hierarchy":[],
+    "wof:id":874153949,
+    "wof:lastmodified":1464312366,
+    "wof:name":"Sheridan Fire & Rescue Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -106.953189,
+    44.796263,
+    -106.953189,
+    44.796263
+],
+  "geometry": {"coordinates":[-106.95318899999999,44.796263],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874173185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.184457,42.064892,-104.184457,42.064892",
+    "geom:latitude":42.064892,
+    "geom:longitude":-104.184457,
+    "iso:country":"US",
+    "sg:address":"2012 Main St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 9940",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y8wPrhLPTzXvIzoRwQklR_42.064892_-104.184457@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312560,
+    "wof:geomhash":"acf0df91045fd317d0896f0f048a3309",
+    "wof:hierarchy":[],
+    "wof:id":874173185,
+    "wof:lastmodified":1464312560,
+    "wof:name":"Gallery Place",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -104.184457,
+    42.064892,
+    -104.184457,
+    42.064892
+],
+  "geometry": {"coordinates":[-104.18445699999999,42.064892],"type":"Point"}
+}

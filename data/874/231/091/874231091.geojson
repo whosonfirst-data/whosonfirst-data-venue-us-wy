@@ -1,0 +1,59 @@
+{
+  "id": 874231091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.493978,44.293108,-105.493978,44.293108",
+    "geom:latitude":44.293108,
+    "geom:longitude":-105.493978,
+    "iso:country":"US",
+    "sg:address":"808 E 2nd St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/gillette-north/96480-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 2224",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dF3Pt7m7Ig17Giooj3hVZ_44.293078_-105.494058@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313175,
+    "wof:geomhash":"75f2a68a355436adde8825532daaaec4",
+    "wof:hierarchy":[],
+    "wof:id":874231091,
+    "wof:lastmodified":1464313175,
+    "wof:name":"Taco John's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -105.493978,
+    44.293108,
+    -105.493978,
+    44.293108
+],
+  "geometry": {"coordinates":[-105.493978,44.293108],"type":"Point"}
+}

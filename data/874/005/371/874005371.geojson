@@ -1,0 +1,60 @@
+{
+  "id": 874005371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.197587,43.848124,-104.197587,43.848124",
+    "geom:latitude":43.848124,
+    "geom:longitude":-104.197587,
+    "iso:country":"US",
+    "sg:address":"720 Winfield St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 9338",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x42ieDVp7maQBgoIzMp2H_43.848124_-104.197587@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310818,
+    "wof:geomhash":"9d9cca83df841d5be26e35af2b37d825",
+    "wof:hierarchy":[],
+    "wof:id":874005371,
+    "wof:lastmodified":1464310818,
+    "wof:name":"Rich's Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -104.197587,
+    43.848124,
+    -104.197587,
+    43.848124
+],
+  "geometry": {"coordinates":[-104.197587,43.848124],"type":"Point"}
+}

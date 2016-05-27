@@ -1,0 +1,56 @@
+{
+  "id": 874057015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.46478,41.17273,-104.46478,41.17273",
+    "geom:latitude":41.17273,
+    "geom:longitude":-104.46478,
+    "iso:country":"US",
+    "sg:address":"1141 Co Rd 143",
+    "sg:city":"Burns",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 547 3936",
+    "sg:postcode":"82053",
+    "sg:province":"WY",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xS89sBrX5d8vS6i8X0SFP_41.172730_-104.464780@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311309,
+    "wof:geomhash":"98864e3ae8d68398faaa8a3a9df091da",
+    "wof:hierarchy":[],
+    "wof:id":874057015,
+    "wof:lastmodified":1464311309,
+    "wof:name":"American Refrigeration Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -104.46478,
+    41.17273,
+    -104.46478,
+    41.17273
+],
+  "geometry": {"coordinates":[-104.46478,41.17273],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874110103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.184293,42.060433,-104.184293,42.060433",
+    "geom:latitude":42.060433,
+    "geom:longitude":-104.184293,
+    "iso:country":"US",
+    "sg:address":"1601 Main St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 5429",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101733937,
+        102080733,
+        85850153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48KZau5eGvUFQGtIeUskWz_42.060433_-104.184293@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311922,
+    "wof:geomhash":"ae82f34133729994f5907a72839d2af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080733,
+            "locality_id":101733937,
+            "neighbourhood_id":85850153,
+            "region_id":85688475,
+            "venue_id":874110103
+        }
+    ],
+    "wof:id":874110103,
+    "wof:lastmodified":1464311922,
+    "wof:name":"Trail Elementary School",
+    "wof:parent_id":85850153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -104.184293,
+    42.060433,
+    -104.184293,
+    42.060433
+],
+  "geometry": {"coordinates":[-104.184293,42.060433],"type":"Point"}
+}

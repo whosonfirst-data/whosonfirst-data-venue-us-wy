@@ -1,0 +1,71 @@
+{
+  "id": 874081999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.415918,42.80733,-106.415918,42.80733",
+    "geom:latitude":42.80733,
+    "geom:longitude":-106.415918,
+    "iso:country":"US",
+    "sg:address":"4252 Cabin Creek Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1710",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65IXuQR9UVEhz9kyfKYSaM_42.807330_-106.415918@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311576,
+    "wof:geomhash":"32d7bfb52fb51e7e0bdb34f8a0b4b11d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874081999
+        }
+    ],
+    "wof:id":874081999,
+    "wof:lastmodified":1464311576,
+    "wof:name":"Nelson Cv Properties LLC",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -106.415918,
+    42.80733,
+    -106.415918,
+    42.80733
+],
+  "geometry": {"coordinates":[-106.415918,42.80733],"type":"Point"}
+}

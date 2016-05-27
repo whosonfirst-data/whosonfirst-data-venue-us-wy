@@ -1,0 +1,71 @@
+{
+  "id": 874146713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.312375,42.832088,-106.312375,42.832088",
+    "geom:latitude":42.832088,
+    "geom:longitude":-106.312375,
+    "iso:country":"US",
+    "sg:address":"1723 S McKinley St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 6464",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3whk2dx2W8MRnuxetBUxxN_42.832088_-106.312375@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312300,
+    "wof:geomhash":"1674c5ac2463cf5ff9c7a991bb982df0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874146713
+        }
+    ],
+    "wof:id":874146713,
+    "wof:lastmodified":1464312300,
+    "wof:name":"Cole Enterprises",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.312375,
+    42.832088,
+    -106.312375,
+    42.832088
+],
+  "geometry": {"coordinates":[-106.312375,42.832088],"type":"Point"}
+}

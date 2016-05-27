@@ -1,0 +1,58 @@
+{
+  "id": 873989783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.800487,41.163047,-104.800487,41.163047",
+    "geom:latitude":41.163047,
+    "geom:longitude":-104.800487,
+    "iso:country":"US",
+    "sg:address":"4505 Frontier Mall Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 5553",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VHPW4BDsG7AN5UQEV5b9U_41.163047_-104.800487@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310688,
+    "wof:geomhash":"9da9891a26848d76304e709bcb186670",
+    "wof:hierarchy":[],
+    "wof:id":873989783,
+    "wof:lastmodified":1464310688,
+    "wof:name":"Lightning Lube",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -104.800487,
+    41.163047,
+    -104.800487,
+    41.163047
+],
+  "geometry": {"coordinates":[-104.800487,41.163047],"type":"Point"}
+}

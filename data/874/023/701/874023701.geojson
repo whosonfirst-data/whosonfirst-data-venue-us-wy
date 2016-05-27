@@ -1,0 +1,71 @@
+{
+  "id": 874023701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955415,44.817138,-106.955415,44.817138",
+    "geom:latitude":44.817138,
+    "geom:longitude":-106.955415,
+    "iso:country":"US",
+    "sg:address":"1705 N Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 5115",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repair",
+        "saddlery",
+        "saddle",
+        "boot",
+        "harness",
+        "shoe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pQ2G410omlUI9dK3nOzsm_44.817138_-106.955415@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310980,
+    "wof:geomhash":"56308e65f990cdd339e6a01eaea928a3",
+    "wof:hierarchy":[],
+    "wof:id":874023701,
+    "wof:lastmodified":1464310980,
+    "wof:name":"Dooley's Leather Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "saddlery",
+        "saddle",
+        "boot",
+        "harness",
+        "shoe"
+    ]
+},
+  "bbox": [
+    -106.955415,
+    44.817138,
+    -106.955415,
+    44.817138
+],
+  "geometry": {"coordinates":[-106.955415,44.817138],"type":"Point"}
+}

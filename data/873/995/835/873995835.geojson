@@ -1,0 +1,58 @@
+{
+  "id": 873995835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.071935,44.526107,-109.071935,44.526107",
+    "geom:latitude":44.526107,
+    "geom:longitude":-109.071935,
+    "iso:country":"US",
+    "sg:address":"721 Sheridan Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 5538",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mtcqSXu87QCX0YHmvE3ND_44.526107_-109.071935@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310731,
+    "wof:geomhash":"160cb852a3c4ecaa71627b60d91bd4af",
+    "wof:hierarchy":[],
+    "wof:id":873995835,
+    "wof:lastmodified":1464310731,
+    "wof:name":"Northern Wyoming Ophthalmology",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -109.071935,
+    44.526107,
+    -109.071935,
+    44.526107
+],
+  "geometry": {"coordinates":[-109.071935,44.526107],"type":"Point"}
+}

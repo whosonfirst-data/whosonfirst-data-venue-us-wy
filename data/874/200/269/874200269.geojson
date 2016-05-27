@@ -1,0 +1,56 @@
+{
+  "id": 874200269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.947165,44.743445,-106.947165,44.743445",
+    "geom:latitude":44.743445,
+    "geom:longitude":-106.947165,
+    "iso:country":"US",
+    "sg:address":"5008 Coffeen Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 6581",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WNcMAcC2EfHpOEV1PEDgz_44.743445_-106.947165@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312846,
+    "wof:geomhash":"f62ddc0ea8bce6d2230b1c4eaa057050",
+    "wof:hierarchy":[],
+    "wof:id":874200269,
+    "wof:lastmodified":1464312846,
+    "wof:name":"U-Haul",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -106.947165,
+    44.743445,
+    -106.947165,
+    44.743445
+],
+  "geometry": {"coordinates":[-106.947165,44.743445],"type":"Point"}
+}

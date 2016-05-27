@@ -1,0 +1,84 @@
+{
+  "id": 874128403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.725023,41.226913,-105.725023,41.226913",
+    "geom:latitude":41.226913,
+    "geom:longitude":-105.725023,
+    "iso:country":"US",
+    "sg:address":"102 Ryff Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 4007",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "racing",
+        "automobile",
+        "car",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I6FLqeWLOXiHVuU8b0fCL_41.226913_-105.725023@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312114,
+    "wof:geomhash":"07dca09119b080beff5adef5d52d60ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874128403
+        }
+    ],
+    "wof:id":874128403,
+    "wof:lastmodified":1464312114,
+    "wof:name":"Smiley's Performance Engnrng",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "racing",
+        "automobile",
+        "car",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -105.725023,
+    41.226913,
+    -105.725023,
+    41.226913
+],
+  "geometry": {"coordinates":[-105.72502299999999,41.226913],"type":"Point"}
+}

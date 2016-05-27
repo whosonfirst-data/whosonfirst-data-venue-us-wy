@@ -1,0 +1,64 @@
+{
+  "id": 874145659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.383777,42.807638,-106.383777,42.807638",
+    "geom:latitude":42.807638,
+    "geom:longitude":-106.383777,
+    "iso:country":"US",
+    "sg:address":"4180 Squaw Creek Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4435",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FaZ45pukyfavIoCwfFIaf_42.807638_-106.383777@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312285,
+    "wof:geomhash":"50e710a38658d5426767d27b156da682",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874145659
+        }
+    ],
+    "wof:id":874145659,
+    "wof:lastmodified":1464312285,
+    "wof:name":"R&G Rentals LLC",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.383777,
+    42.807638,
+    -106.383777,
+    42.807638
+],
+  "geometry": {"coordinates":[-106.38377699999999,42.807638],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874128997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.068077,41.180941,-104.068077,41.180941",
+    "geom:latitude":41.180941,
+    "geom:longitude":-104.068077,
+    "iso:country":"US",
+    "sg:address":"117 E 4th St",
+    "sg:city":"Pine Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 245 3666",
+    "sg:postcode":"82082",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rovVTL7pB2bYjRmFOPGzm_41.180941_-104.068077@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312121,
+    "wof:geomhash":"822f7c091519d5daafd809b710ad51ce",
+    "wof:hierarchy":[],
+    "wof:id":874128997,
+    "wof:lastmodified":1464312121,
+    "wof:name":"Uw Tri-County Medical Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -104.068077,
+    41.180941,
+    -104.068077,
+    41.180941
+],
+  "geometry": {"coordinates":[-104.068077,41.180941],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 874043769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.53277,44.25591,-105.53277,44.25591",
+    "geom:latitude":44.25591,
+    "geom:longitude":-105.53277,
+    "iso:country":"US",
+    "sg:address":"2100 Stampede Dr",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 8629",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IxopM9dmqimlFY328NaG0_44.255910_-105.532770@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311183,
+    "wof:geomhash":"47ec6b61c086276c86f99a72eedaaac1",
+    "wof:hierarchy":[],
+    "wof:id":874043769,
+    "wof:lastmodified":1464311183,
+    "wof:name":"Carson Body Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -105.53277,
+    44.25591,
+    -105.53277,
+    44.25591
+],
+  "geometry": {"coordinates":[-105.53277,44.25591],"type":"Point"}
+}

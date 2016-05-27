@@ -1,0 +1,66 @@
+{
+  "id": 874221109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592233,41.310852,-105.592233,41.310852",
+    "geom:latitude":41.310852,
+    "geom:longitude":-105.592233,
+    "iso:country":"US",
+    "sg:address":"309 S 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 8755",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZxaKatMQdf8ldCTtXORN5_41.310852_-105.592233@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313075,
+    "wof:geomhash":"3ea0129ebed900388a72ce8b6ce5c720",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874221109
+        }
+    ],
+    "wof:id":874221109,
+    "wof:lastmodified":1464313075,
+    "wof:name":"Homefinders Realty Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.592233,
+    41.310852,
+    -105.592233,
+    41.310852
+],
+  "geometry": {"coordinates":[-105.59223299999999,41.310852],"type":"Point"}
+}

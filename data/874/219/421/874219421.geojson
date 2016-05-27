@@ -1,0 +1,71 @@
+{
+  "id": 874219421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.30348,42.829584,-106.30348,42.829584",
+    "geom:latitude":42.829584,
+    "geom:longitude":-106.30348,
+    "iso:country":"US",
+    "sg:address":"2004 Eastbrook Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 8180",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Barwr9AElCgGdP5pgK5Lv_42.829584_-106.303480@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313049,
+    "wof:geomhash":"0532fd7df52e231d4febfa995d36844d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874219421
+        }
+    ],
+    "wof:id":874219421,
+    "wof:lastmodified":1464313049,
+    "wof:name":"Willhaul",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -106.30348,
+    42.829584,
+    -106.30348,
+    42.829584
+],
+  "geometry": {"coordinates":[-106.30347999999999,42.829584],"type":"Point"}
+}

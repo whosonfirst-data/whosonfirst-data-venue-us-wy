@@ -1,0 +1,72 @@
+{
+  "id": 874178985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955587,44.813907,-106.955587,44.813907",
+    "geom:latitude":44.813907,
+    "geom:longitude":-106.955587,
+    "iso:country":"US",
+    "sg:address":"1574 N Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 7512",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "used",
+        "farm",
+        "automobile",
+        "equipment",
+        "carburetor"
+    ],
+    "sg:website":"www.wyocarb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2czfHrhOQFw473mR8ghm96_44.813907_-106.955587@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312620,
+    "wof:geomhash":"eea7838c525ba890c606681e658cc213",
+    "wof:hierarchy":[],
+    "wof:id":874178985,
+    "wof:lastmodified":1464312620,
+    "wof:name":"Wyoming Carburetor Technology",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "used",
+        "farm",
+        "automobile",
+        "equipment",
+        "carburetor"
+    ]
+},
+  "bbox": [
+    -106.955587,
+    44.813907,
+    -106.955587,
+    44.813907
+],
+  "geometry": {"coordinates":[-106.95558699999999,44.813907],"type":"Point"}
+}

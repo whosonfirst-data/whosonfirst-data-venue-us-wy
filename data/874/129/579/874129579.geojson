@@ -1,0 +1,77 @@
+{
+  "id": 874129579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.330274,42.839859,-106.330274,42.839859",
+    "geom:latitude":42.839859,
+    "geom:longitude":-106.330274,
+    "iso:country":"US",
+    "sg:address":"425 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 7366",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "info",
+        "addiction",
+        "abuse",
+        "treatment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VnQNX8rXzTOan5r1d5ocl_42.839859_-106.330274@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312129,
+    "wof:geomhash":"f9eca3c47608d68dd18cde68880f5690",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874129579
+        }
+    ],
+    "wof:id":874129579,
+    "wof:lastmodified":1464312129,
+    "wof:name":"Mercer House",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "info",
+        "addiction",
+        "abuse",
+        "treatment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -106.330274,
+    42.839859,
+    -106.330274,
+    42.839859
+],
+  "geometry": {"coordinates":[-106.330274,42.839859],"type":"Point"}
+}

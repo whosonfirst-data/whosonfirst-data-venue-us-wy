@@ -1,0 +1,71 @@
+{
+  "id": 874101149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.59218,41.312768,-105.59218,41.312768",
+    "geom:latitude":41.312768,
+    "geom:longitude":-105.59218,
+    "iso:country":"US",
+    "sg:address":"104 S 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6608",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fFK7aDPFXl941DN1g47Zi_41.312768_-105.592180@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311808,
+    "wof:geomhash":"551c38edf0b77a0faed6f08cb7e95995",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874101149
+        }
+    ],
+    "wof:id":874101149,
+    "wof:lastmodified":1464311808,
+    "wof:name":"St Matthews Cathedral",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -105.59218,
+    41.312768,
+    -105.59218,
+    41.312768
+],
+  "geometry": {"coordinates":[-105.59218,41.312768],"type":"Point"}
+}

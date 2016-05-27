@@ -1,0 +1,66 @@
+{
+  "id": 874047957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.556794,41.321419,-105.556794,41.321419",
+    "geom:latitude":41.321419,
+    "geom:longitude":-105.556794,
+    "iso:country":"US",
+    "sg:address":"1067 Alta Vista Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 5986",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ShSPJGL2jkV2UdSkDZsj2_41.321419_-105.556794@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311223,
+    "wof:geomhash":"e2386e075617427875f21f2f8158e999",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874047957
+        }
+    ],
+    "wof:id":874047957,
+    "wof:lastmodified":1464311223,
+    "wof:name":"Ash Management Engineering",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.556794,
+    41.321419,
+    -105.556794,
+    41.321419
+],
+  "geometry": {"coordinates":[-105.556794,41.321419],"type":"Point"}
+}

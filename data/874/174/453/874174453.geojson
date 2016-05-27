@@ -1,0 +1,64 @@
+{
+  "id": 874174453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.305173,42.824997,-106.305173,42.824997",
+    "geom:latitude":42.824997,
+    "geom:longitude":-106.305173,
+    "iso:country":"US",
+    "sg:address":"2311 Shattuck Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 262 5857",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FhgfR5S0C799MDtAB6SMM_42.824997_-106.305173@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312573,
+    "wof:geomhash":"35d5692faaf5ca4a44875d9fb520577e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874174453
+        }
+    ],
+    "wof:id":874174453,
+    "wof:lastmodified":1464312573,
+    "wof:name":"Al Services Lachance",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.305173,
+    42.824997,
+    -106.305173,
+    42.824997
+],
+  "geometry": {"coordinates":[-106.305173,42.824997],"type":"Point"}
+}

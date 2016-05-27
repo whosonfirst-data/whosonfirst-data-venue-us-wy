@@ -1,0 +1,56 @@
+{
+  "id": 874000815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.983775,44.786188,-106.983775,44.786188",
+    "geom:latitude":44.786188,
+    "geom:longitude":-106.983775,
+    "iso:country":"US",
+    "sg:address":"1600 Leopard St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 6418",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gNCROyEZDhHx4aKHJfIQI_44.786188_-106.983775@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310766,
+    "wof:geomhash":"19c317e710029706ba2172bd70d015f6",
+    "wof:hierarchy":[],
+    "wof:id":874000815,
+    "wof:lastmodified":1464310766,
+    "wof:name":"Doug Shryack Contracting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.983775,
+    44.786188,
+    -106.983775,
+    44.786188
+],
+  "geometry": {"coordinates":[-106.98377499999999,44.786188],"type":"Point"}
+}

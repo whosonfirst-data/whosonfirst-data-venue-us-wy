@@ -1,0 +1,58 @@
+{
+  "id": 874139701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.360647,43.022894,-108.360647,43.022894",
+    "geom:latitude":43.022894,
+    "geom:longitude":-108.360647,
+    "iso:country":"US",
+    "sg:address":"305 S Smith Rd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 857 3030",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r2SDDQqHFpXHDXeJwwjDg_43.022894_-108.360647@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312232,
+    "wof:geomhash":"3eac34ab92bea9f8f5bcba74102feedd",
+    "wof:hierarchy":[],
+    "wof:id":874139701,
+    "wof:lastmodified":1464312232,
+    "wof:name":"Fremont Cnty Fire Prtction Dst",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -108.360647,
+    43.022894,
+    -108.360647,
+    43.022894
+],
+  "geometry": {"coordinates":[-108.360647,43.022894],"type":"Point"}
+}

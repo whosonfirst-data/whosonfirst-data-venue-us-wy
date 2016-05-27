@@ -1,0 +1,83 @@
+{
+  "id": 874185357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.217155,41.587333,-109.217155,41.587333",
+    "geom:latitude":41.587333,
+    "geom:longitude":-109.217155,
+    "iso:country":"US",
+    "sg:address":"604 Broadway St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 4782",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "malt",
+        "beverage",
+        "mfg"
+    ],
+    "sg:website":"www.bittercreekbrewing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RWvwnihRmOFmbcpYHOVIV_41.587333_-109.217155@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312694,
+    "wof:geomhash":"8db68e73903e70597f9d1fa57750769a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874185357
+        }
+    ],
+    "wof:id":874185357,
+    "wof:lastmodified":1464312694,
+    "wof:name":"Bitter Creek Brewing LLC",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "malt",
+        "beverage",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -109.217155,
+    41.587333,
+    -109.217155,
+    41.587333
+],
+  "geometry": {"coordinates":[-109.21715500000001,41.587333],"type":"Point"}
+}

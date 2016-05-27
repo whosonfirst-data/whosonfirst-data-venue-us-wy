@@ -1,0 +1,73 @@
+{
+  "id": 874025781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594442,41.304418,-105.594442,41.304418",
+    "geom:latitude":41.304418,
+    "geom:longitude":-105.594442,
+    "iso:country":"US",
+    "sg:address":"1002 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6604",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OZPZOHIpLiYAYbs7prwHT_41.304418_-105.594442@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311005,
+    "wof:geomhash":"f6834e623aa3a6afa806411532672f2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874025781
+        }
+    ],
+    "wof:id":874025781,
+    "wof:lastmodified":1464311005,
+    "wof:name":"Public Defender",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -105.594442,
+    41.304418,
+    -105.594442,
+    41.304418
+],
+  "geometry": {"coordinates":[-105.594442,41.304418],"type":"Point"}
+}

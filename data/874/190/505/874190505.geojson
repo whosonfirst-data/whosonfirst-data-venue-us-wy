@@ -1,0 +1,73 @@
+{
+  "id": 874190505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.308938,42.852431,-106.308938,42.852431",
+    "geom:latitude":42.852431,
+    "geom:longitude":-106.308938,
+    "iso:country":"US",
+    "sg:address":"1241 E Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 1473",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68Uthqr7yF6t027FyyJYeI_42.852431_-106.308938@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312745,
+    "wof:geomhash":"13cecd3a287b856cde9c30639a25f0c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874190505
+        }
+    ],
+    "wof:id":874190505,
+    "wof:lastmodified":1464312745,
+    "wof:name":"Casper Well Products",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -106.308938,
+    42.852431,
+    -106.308938,
+    42.852431
+],
+  "geometry": {"coordinates":[-106.308938,42.852431],"type":"Point"}
+}

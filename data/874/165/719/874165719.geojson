@@ -1,0 +1,58 @@
+{
+  "id": 874165719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.761326,43.481474,-110.761326,43.481474",
+    "geom:latitude":43.481474,
+    "geom:longitude":-110.761326,
+    "iso:country":"US",
+    "sg:address":"125 Center St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 6991",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "environmental",
+        "org"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uygNvHtBYTfY94SDSaxZ9_43.481474_-110.761326@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312487,
+    "wof:geomhash":"975816147fa6e11a883f1e2fc2af5b0d",
+    "wof:hierarchy":[],
+    "wof:id":874165719,
+    "wof:lastmodified":1464312487,
+    "wof:name":"Trout Unlimited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "org"
+    ]
+},
+  "bbox": [
+    -110.761326,
+    43.481474,
+    -110.761326,
+    43.481474
+],
+  "geometry": {"coordinates":[-110.761326,43.481474],"type":"Point"}
+}

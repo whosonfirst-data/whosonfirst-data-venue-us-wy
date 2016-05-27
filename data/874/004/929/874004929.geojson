@@ -1,0 +1,69 @@
+{
+  "id": 874004929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33695,42.835969,-106.33695,42.835969",
+    "geom:latitude":42.835969,
+    "geom:longitude":-106.33695,
+    "iso:country":"US",
+    "sg:address":"1445 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1010",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BsqxhExcHZNbEMK1WK6am_42.835969_-106.336950@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310814,
+    "wof:geomhash":"367a53ccbca914c72173230c1f2c57a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874004929
+        }
+    ],
+    "wof:id":874004929,
+    "wof:lastmodified":1464310814,
+    "wof:name":"Manville Claims Svc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adjuster"
+    ]
+},
+  "bbox": [
+    -106.33695,
+    42.835969,
+    -106.33695,
+    42.835969
+],
+  "geometry": {"coordinates":[-106.33695,42.835969],"type":"Point"}
+}

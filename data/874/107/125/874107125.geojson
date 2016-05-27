@@ -1,0 +1,65 @@
+{
+  "id": 874107125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.900794,43.633414,-109.900794,43.633414",
+    "geom:latitude":43.633414,
+    "geom:longitude":-109.900794,
+    "iso:country":"US",
+    "sg:address":"3945 US Hwy 26",
+    "sg:city":"Dubois",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 455 3415",
+    "sg:postcode":"82513",
+    "sg:province":"WY",
+    "sg:tags":[
+        "camp",
+        "guest",
+        "ranch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GPwA7TU8c06gkuMjtphE8_43.633414_-109.900794@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311884,
+    "wof:geomhash":"a3f51bad54193c1d8675fe7834e26b49",
+    "wof:hierarchy":[],
+    "wof:id":874107125,
+    "wof:lastmodified":1464311884,
+    "wof:name":"Mac Kenzie Highland Ranch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp",
+        "guest",
+        "ranch"
+    ]
+},
+  "bbox": [
+    -109.900794,
+    43.633414,
+    -109.900794,
+    43.633414
+],
+  "geometry": {"coordinates":[-109.900794,43.633414],"type":"Point"}
+}

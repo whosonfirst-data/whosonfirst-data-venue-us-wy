@@ -1,0 +1,58 @@
+{
+  "id": 874079643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.813868,41.141032,-104.813868,41.141032",
+    "geom:latitude":41.141032,
+    "geom:longitude":-104.813868,
+    "iso:country":"US",
+    "sg:address":"414 E 23rd St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 7905",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11X6umWcicilsxBKvG4lSS_41.141032_-104.813868@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311548,
+    "wof:geomhash":"fa93bb1e6e35e1ce25d857a829996ef8",
+    "wof:hierarchy":[],
+    "wof:id":874079643,
+    "wof:lastmodified":1464311548,
+    "wof:name":"Cheyenne Allergy Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -104.813868,
+    41.141032,
+    -104.813868,
+    41.141032
+],
+  "geometry": {"coordinates":[-104.813868,41.141032],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874170617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.283229,42.848925,-106.283229,42.848925",
+    "geom:latitude":42.848925,
+    "geom:longitude":-106.283229,
+    "iso:country":"US",
+    "sg:address":"3540 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3595",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "duplicating",
+        "copying"
+    ],
+    "sg:website":"www.copymax.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BDB2IDieAdzywJQ3gZbul_42.848925_-106.283229@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312532,
+    "wof:geomhash":"5242cf96713cf25746bb83b6007c920d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874170617
+        }
+    ],
+    "wof:id":874170617,
+    "wof:lastmodified":1464312532,
+    "wof:name":"Copy Max",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "duplicating",
+        "copying"
+    ]
+},
+  "bbox": [
+    -106.283229,
+    42.848925,
+    -106.283229,
+    42.848925
+],
+  "geometry": {"coordinates":[-106.28322900000001,42.848925],"type":"Point"}
+}

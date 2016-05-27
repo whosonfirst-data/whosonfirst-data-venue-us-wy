@@ -1,0 +1,56 @@
+{
+  "id": 874064719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.95956,44.802456,-106.95956,44.802456",
+    "geom:latitude":44.802456,
+    "geom:longitude":-106.95956,
+    "iso:country":"US",
+    "sg:address":"330 W Dow St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 0290",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J7HvYmRbKuYbRUqQ3ITcW_44.802456_-106.959560@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311377,
+    "wof:geomhash":"7d0b381d645c1d0a998ec61aa4800a8a",
+    "wof:hierarchy":[],
+    "wof:id":874064719,
+    "wof:lastmodified":1464311377,
+    "wof:name":"Scott N Bateman MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -106.95956,
+    44.802456,
+    -106.95956,
+    44.802456
+],
+  "geometry": {"coordinates":[-106.95956,44.802456],"type":"Point"}
+}

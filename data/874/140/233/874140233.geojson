@@ -1,0 +1,56 @@
+{
+  "id": 874140233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955988,44.77383,-106.955988,44.77383",
+    "geom:latitude":44.77383,
+    "geom:longitude":-106.955988,
+    "iso:country":"US",
+    "sg:address":"2040 Colonial Dr",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 4571",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GdV2OcxYrG1d5ZN0xcRSI_44.773830_-106.955988@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312237,
+    "wof:geomhash":"1217a901ddc54f1eda016e3ef2193d8b",
+    "wof:hierarchy":[],
+    "wof:id":874140233,
+    "wof:lastmodified":1464312237,
+    "wof:name":"United Welders",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.955988,
+    44.77383,
+    -106.955988,
+    44.77383
+],
+  "geometry": {"coordinates":[-106.955988,44.77383],"type":"Point"}
+}

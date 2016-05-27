@@ -1,0 +1,56 @@
+{
+  "id": 874023241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.38139,42.74846,-105.38139,42.74846",
+    "geom:latitude":42.74846,
+    "geom:longitude":-105.38139,
+    "iso:country":"US",
+    "sg:address":"501 E Richards St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 9318",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zLOgfKn0se1MrpDZK3KXT_42.748460_-105.381390@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310976,
+    "wof:geomhash":"60ee7375ebf7a5a840744a527318e2ec",
+    "wof:hierarchy":[],
+    "wof:id":874023241,
+    "wof:lastmodified":1464310976,
+    "wof:name":"Douglas Pawn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -105.38139,
+    42.74846,
+    -105.38139,
+    42.74846
+],
+  "geometry": {"coordinates":[-105.38139,42.74846],"type":"Point"}
+}

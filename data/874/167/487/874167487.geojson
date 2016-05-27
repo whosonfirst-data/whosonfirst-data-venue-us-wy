@@ -1,0 +1,56 @@
+{
+  "id": 874167487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.92673,44.56558,-106.92673,44.56558",
+    "geom:latitude":44.56558,
+    "geom:longitude":-106.92673,
+    "iso:country":"US",
+    "sg:address":"311 Fish Hatchery Rd",
+    "sg:city":"Story",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 683 2234",
+    "sg:postcode":"82842",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3svCFPKiqS3Ouzry6xddAg_44.565580_-106.926730@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312502,
+    "wof:geomhash":"31864c0d87f7e7859e85717c9abdaa7e",
+    "wof:hierarchy":[],
+    "wof:id":874167487,
+    "wof:lastmodified":1464312502,
+    "wof:name":"Fish Hatchery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -106.92673,
+    44.56558,
+    -106.92673,
+    44.56558
+],
+  "geometry": {"coordinates":[-106.92673000000001,44.56558],"type":"Point"}
+}

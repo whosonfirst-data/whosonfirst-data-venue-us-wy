@@ -1,0 +1,56 @@
+{
+  "id": 874082545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.21905,41.585678,-109.21905,41.585678",
+    "geom:latitude":41.585678,
+    "geom:longitude":-109.21905,
+    "iso:country":"US",
+    "sg:address":"212 D St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 352 1500",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qxxk9F7toODMtpCP5NspD_41.585678_-109.219050@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311584,
+    "wof:geomhash":"0b7631b8bb07af464ae0e2c943e11c6f",
+    "wof:hierarchy":[],
+    "wof:id":874082545,
+    "wof:lastmodified":1464311584,
+    "wof:name":"Rock Springs Clerk",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -109.21905,
+    41.585678,
+    -109.21905,
+    41.585678
+],
+  "geometry": {"coordinates":[-109.21905,41.585678],"type":"Point"}
+}

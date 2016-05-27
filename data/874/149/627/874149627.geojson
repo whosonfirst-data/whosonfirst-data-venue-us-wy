@@ -1,0 +1,56 @@
+{
+  "id": 874149627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.246312,41.796658,-107.246312,41.796658",
+    "geom:latitude":41.796658,
+    "geom:longitude":-107.246312,
+    "iso:country":"US",
+    "sg:address":"815 High St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 4026",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KtSx2o7QI6Sp0evjc3zds_41.796658_-107.246312@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312325,
+    "wof:geomhash":"760f48c4ff6cd66198574050dc827fcf",
+    "wof:hierarchy":[],
+    "wof:id":874149627,
+    "wof:lastmodified":1464312325,
+    "wof:name":"Rawlins Barber Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -107.246312,
+    41.796658,
+    -107.246312,
+    41.796658
+],
+  "geometry": {"coordinates":[-107.246312,41.796658],"type":"Point"}
+}

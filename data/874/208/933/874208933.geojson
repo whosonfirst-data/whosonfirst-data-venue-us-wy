@@ -1,0 +1,56 @@
+{
+  "id": 874208933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.828495,41.179114,-104.828495,41.179114",
+    "geom:latitude":41.179114,
+    "geom:longitude":-104.828495,
+    "iso:country":"US",
+    "sg:address":"6501 Yellowstone Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 1100",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mF1JshXhOPH0f3Fr6906f_41.179114_-104.828495@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312938,
+    "wof:geomhash":"de720a05ef20b7c23fa3b0b742b31867",
+    "wof:hierarchy":[],
+    "wof:id":874208933,
+    "wof:lastmodified":1464312938,
+    "wof:name":"Aspen Grove Dental Arts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -104.828495,
+    41.179114,
+    -104.828495,
+    41.179114
+],
+  "geometry": {"coordinates":[-104.828495,41.179114],"type":"Point"}
+}

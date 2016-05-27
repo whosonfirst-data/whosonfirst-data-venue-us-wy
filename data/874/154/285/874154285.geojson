@@ -1,0 +1,56 @@
+{
+  "id": 874154285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.807077,41.453795,-106.807077,41.453795",
+    "geom:latitude":41.453795,
+    "geom:longitude":-106.807077,
+    "iso:country":"US",
+    "sg:address":"112 E Spring Ave",
+    "sg:city":"Saratoga",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 326 5333",
+    "sg:postcode":"82331",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mjafQjGaMxLJJjf2Ughak_41.453795_-106.807077@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312370,
+    "wof:geomhash":"0f6aed1b2eeb66de50f2210ae9465b47",
+    "wof:hierarchy":[],
+    "wof:id":874154285,
+    "wof:lastmodified":1464312370,
+    "wof:name":"Saratoga Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -106.807077,
+    41.453795,
+    -106.807077,
+    41.453795
+],
+  "geometry": {"coordinates":[-106.80707700000001,41.453795],"type":"Point"}
+}

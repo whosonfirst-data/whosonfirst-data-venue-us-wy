@@ -1,0 +1,72 @@
+{
+  "id": 874177725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.59392,41.308226,-105.59392,41.308226",
+    "geom:latitude":41.308226,
+    "geom:longitude":-105.59392,
+    "iso:country":"US",
+    "sg:address":"600 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7344",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "printer"
+    ],
+    "sg:website":"www.modernwyoming.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47F5Y9fi3213TpKcU7XZCE_41.308226_-105.593920@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312603,
+    "wof:geomhash":"7da14c708b3b53570224f8fc53f7dd8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874177725
+        }
+    ],
+    "wof:id":874177725,
+    "wof:lastmodified":1464312603,
+    "wof:name":"Modern Printing Co",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -105.59392,
+    41.308226,
+    -105.59392,
+    41.308226
+],
+  "geometry": {"coordinates":[-105.59392,41.308226],"type":"Point"}
+}

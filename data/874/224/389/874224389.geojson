@@ -1,0 +1,69 @@
+{
+  "id": 874224389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.279387,42.835806,-106.279387,42.835806",
+    "geom:latitude":42.835806,
+    "geom:longitude":-106.279387,
+    "iso:country":"US",
+    "sg:address":"1221 Manor Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 6546",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nt4DQrmrc2rDICtjg1Rjp_42.835806_-106.279387@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313106,
+    "wof:geomhash":"0e64abc55c14c0ca8b64bf9f0fd9b6a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874224389
+        }
+    ],
+    "wof:id":874224389,
+    "wof:lastmodified":1464313106,
+    "wof:name":"Floyd Barry",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -106.279387,
+    42.835806,
+    -106.279387,
+    42.835806
+],
+  "geometry": {"coordinates":[-106.279387,42.835806],"type":"Point"}
+}

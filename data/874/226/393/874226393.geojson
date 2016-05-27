@@ -1,0 +1,65 @@
+{
+  "id": 874226393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591024,41.30975,-105.591024,41.30975",
+    "geom:latitude":41.30975,
+    "geom:longitude":-105.591024,
+    "iso:country":"US",
+    "sg:address":"419 S 5th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 0066",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hydrologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C3eD4NuFamrCIQTQpHEU8_41.309750_-105.591024@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313125,
+    "wof:geomhash":"b3536b3e51d374e98ced5101f3d90f9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874226393
+        }
+    ],
+    "wof:id":874226393,
+    "wof:lastmodified":1464313125,
+    "wof:name":"Hinckley Consulting",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hydrologist"
+    ]
+},
+  "bbox": [
+    -105.591024,
+    41.30975,
+    -105.591024,
+    41.30975
+],
+  "geometry": {"coordinates":[-105.591024,41.30975],"type":"Point"}
+}

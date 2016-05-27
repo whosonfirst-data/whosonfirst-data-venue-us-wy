@@ -1,0 +1,73 @@
+{
+  "id": 874208027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.34384,42.809319,-106.34384,42.809319",
+    "geom:latitude":42.809319,
+    "geom:longitude":-106.34384,
+    "iso:country":"US",
+    "sg:address":"3900 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 5115",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "station",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7daLgFUuJp8L7Pug79UzWu_42.809319_-106.343840@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312930,
+    "wof:geomhash":"c9740d15a33c3fe787cbd084a877d783",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874208027
+        }
+    ],
+    "wof:id":874208027,
+    "wof:lastmodified":1464312930,
+    "wof:name":"Sunrise Conoco",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "station",
+        "repair"
+    ]
+},
+  "bbox": [
+    -106.34384,
+    42.809319,
+    -106.34384,
+    42.809319
+],
+  "geometry": {"coordinates":[-106.34384,42.809319],"type":"Point"}
+}

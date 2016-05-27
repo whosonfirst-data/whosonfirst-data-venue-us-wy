@@ -1,0 +1,56 @@
+{
+  "id": 874147589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.065379,44.525972,-109.065379,44.525972",
+    "geom:latitude":44.525972,
+    "geom:longitude":-109.065379,
+    "iso:country":"US",
+    "sg:address":"1130 Sheridan Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 9729",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AObZ4PyP1IBCUYn93tSmX_44.525972_-109.065379@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312307,
+    "wof:geomhash":"f493b87324047b7563c796c643fc2704",
+    "wof:hierarchy":[],
+    "wof:id":874147589,
+    "wof:lastmodified":1464312307,
+    "wof:name":"Wyoming Highway Patrol",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -109.065379,
+    44.525972,
+    -109.065379,
+    44.525972
+],
+  "geometry": {"coordinates":[-109.06537899999999,44.525972],"type":"Point"}
+}

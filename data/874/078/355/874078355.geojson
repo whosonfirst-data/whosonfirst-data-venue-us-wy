@@ -1,0 +1,73 @@
+{
+  "id": 874078355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.628453,41.311894,-105.628453,41.311894",
+    "geom:latitude":41.311894,
+    "geom:longitude":-105.628453,
+    "iso:country":"US",
+    "sg:address":"2363 W Jefferson St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2557",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "psychic",
+        "medium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R1YK3yJPGuxJ4x8wJnBeU_41.311894_-105.628453@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311531,
+    "wof:geomhash":"e765017fef9925db54c4c31bb09a69dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874078355
+        }
+    ],
+    "wof:id":874078355,
+    "wof:lastmodified":1464311531,
+    "wof:name":"Palm & Tarot Card Reading",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychic",
+        "medium"
+    ]
+},
+  "bbox": [
+    -105.628453,
+    41.311894,
+    -105.628453,
+    41.311894
+],
+  "geometry": {"coordinates":[-105.62845299999999,41.311894],"type":"Point"}
+}

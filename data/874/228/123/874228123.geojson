@@ -1,0 +1,65 @@
+{
+  "id": 874228123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.600979,41.311432,-105.600979,41.311432",
+    "geom:latitude":41.311432,
+    "geom:longitude":-105.600979,
+    "iso:country":"US",
+    "sg:address":"302 S Cedar St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2871",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O5UWLPQBsKLj5MYQVJcWV_41.311432_-105.600979@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313142,
+    "wof:geomhash":"bc8f5ea67c6462ca9b8cc40a00a4cffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874228123
+        }
+    ],
+    "wof:id":874228123,
+    "wof:lastmodified":1464313142,
+    "wof:name":"Hartman Distributing",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -105.600979,
+    41.311432,
+    -105.600979,
+    41.311432
+],
+  "geometry": {"coordinates":[-105.600979,41.311432],"type":"Point"}
+}

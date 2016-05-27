@@ -1,0 +1,70 @@
+{
+  "id": 874102621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.341647,42.832303,-106.341647,42.832303",
+    "geom:latitude":42.832303,
+    "geom:longitude":-106.341647,
+    "iso:country":"US",
+    "sg:address":"1815 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 0815",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "sg:website":"www.crystalbiz.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WMaUmq9mYJGgOAnvNiYDM_42.832303_-106.341647@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311827,
+    "wof:geomhash":"45d1970ce607d2bfc69af47ad17be296",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874102621
+        }
+    ],
+    "wof:id":874102621,
+    "wof:lastmodified":1464311827,
+    "wof:name":"Jewelry Factory",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -106.341647,
+    42.832303,
+    -106.341647,
+    42.832303
+],
+  "geometry": {"coordinates":[-106.34164699999999,42.832303],"type":"Point"}
+}

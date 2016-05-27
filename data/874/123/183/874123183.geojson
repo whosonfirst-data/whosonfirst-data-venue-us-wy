@@ -1,0 +1,72 @@
+{
+  "id": 874123183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.339495,42.914794,-106.339495,42.914794",
+    "geom:latitude":42.914794,
+    "geom:longitude":-106.339495,
+    "iso:country":"US",
+    "sg:address":"1410 Prairie Ln",
+    "sg:city":"Bar Nunn",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2509",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "sg:website":"www.bundysmarine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PrO3xiYMzUHNRIX2s959F_42.914794_-106.339495@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312070,
+    "wof:geomhash":"155ad9c287bb5760f556c69b07f3f96a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874123183
+        }
+    ],
+    "wof:id":874123183,
+    "wof:lastmodified":1464312070,
+    "wof:name":"Bundy's Marine Products",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -106.339495,
+    42.914794,
+    -106.339495,
+    42.914794
+],
+  "geometry": {"coordinates":[-106.339495,42.914794],"type":"Point"}
+}

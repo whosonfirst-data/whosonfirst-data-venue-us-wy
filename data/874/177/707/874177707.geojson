@@ -1,0 +1,83 @@
+{
+  "id": 874177707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.585072,41.303714,-105.585072,41.303714",
+    "geom:latitude":41.303714,
+    "geom:longitude":-105.585072,
+    "iso:country":"US",
+    "sg:address":"1009 S 10th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 760 0110",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "audio",
+        "theater",
+        "sales",
+        "an",
+        "design",
+        "home",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fgkiYPklYSjmaHRKl192x_41.303714_-105.585072@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312603,
+    "wof:geomhash":"f3ed8d40ab04f9a802dc6b016e24f6f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874177707
+        }
+    ],
+    "wof:id":874177707,
+    "wof:lastmodified":1464312603,
+    "wof:name":"Premier Home Theater Systems",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audio",
+        "theater",
+        "sales",
+        "an",
+        "design",
+        "home",
+        "custom"
+    ]
+},
+  "bbox": [
+    -105.585072,
+    41.303714,
+    -105.585072,
+    41.303714
+],
+  "geometry": {"coordinates":[-105.585072,41.303714],"type":"Point"}
+}

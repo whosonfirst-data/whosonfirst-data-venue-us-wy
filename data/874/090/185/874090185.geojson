@@ -1,0 +1,58 @@
+{
+  "id": 874090185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.80069,41.109711,-104.80069,41.109711",
+    "geom:latitude":41.109711,
+    "geom:longitude":-104.80069,
+    "iso:country":"US",
+    "sg:address":"514 S Greeley Hwy",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 6662",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NtRE2ACw0W55HvlLDWk4c_41.109711_-104.800690@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311665,
+    "wof:geomhash":"26edf5ba30ae4cfc558ec64add40abce",
+    "wof:hierarchy":[],
+    "wof:id":874090185,
+    "wof:lastmodified":1464311665,
+    "wof:name":"Town & Country Pharmacy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -104.80069,
+    41.109711,
+    -104.80069,
+    41.109711
+],
+  "geometry": {"coordinates":[-104.80069,41.109711],"type":"Point"}
+}

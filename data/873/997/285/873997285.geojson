@@ -1,0 +1,64 @@
+{
+  "id": 873997285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.32417,42.848795,-106.32417,42.848795",
+    "geom:latitude":42.848795,
+    "geom:longitude":-106.32417,
+    "iso:country":"US",
+    "sg:address":"132 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 5808",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZGDBfLnaSqayXMv2wG5Qz_42.848795_-106.324170@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310742,
+    "wof:geomhash":"7622884061a1a841473d858d13b1a15a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873997285
+        }
+    ],
+    "wof:id":873997285,
+    "wof:lastmodified":1464310742,
+    "wof:name":"Casper Parcel Svc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.32417,
+    42.848795,
+    -106.32417,
+    42.848795
+],
+  "geometry": {"coordinates":[-106.32417,42.848795],"type":"Point"}
+}

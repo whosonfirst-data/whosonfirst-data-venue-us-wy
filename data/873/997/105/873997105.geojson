@@ -1,0 +1,56 @@
+{
+  "id": 873997105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.230413,41.789888,-107.230413,41.789888",
+    "geom:latitude":41.789888,
+    "geom:longitude":-107.230413,
+    "iso:country":"US",
+    "sg:address":"725 E Cedar St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 6666",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q6pnE0oyxeU1ox83xCWlw_41.789888_-107.230413@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310740,
+    "wof:geomhash":"82d1aefe8f96731339e57893b6d03c71",
+    "wof:hierarchy":[],
+    "wof:id":873997105,
+    "wof:lastmodified":1464310740,
+    "wof:name":"Discount Grocery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -107.230413,
+    41.789888,
+    -107.230413,
+    41.789888
+],
+  "geometry": {"coordinates":[-107.230413,41.789888],"type":"Point"}
+}

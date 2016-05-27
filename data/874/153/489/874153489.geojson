@@ -1,0 +1,56 @@
+{
+  "id": 874153489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.212136,43.637945,-108.212136,43.637945",
+    "geom:latitude":43.637945,
+    "geom:longitude":-108.212136,
+    "iso:country":"US",
+    "sg:address":"827 S 6th St",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 5553",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MzCHwlOrUOGiengN6GVTv_43.637945_-108.212136@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312360,
+    "wof:geomhash":"af5529bacc3c89935658d0621568a06d",
+    "wof:hierarchy":[],
+    "wof:id":874153489,
+    "wof:lastmodified":1464312360,
+    "wof:name":"Hot Springs Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -108.212136,
+    43.637945,
+    -108.212136,
+    43.637945
+],
+  "geometry": {"coordinates":[-108.212136,43.637945],"type":"Point"}
+}

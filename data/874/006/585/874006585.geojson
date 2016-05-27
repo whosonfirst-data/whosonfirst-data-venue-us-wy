@@ -1,0 +1,69 @@
+{
+  "id": 874006585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.400847,42.821567,-106.400847,42.821567",
+    "geom:latitude":42.821567,
+    "geom:longitude":-106.400847,
+    "iso:country":"US",
+    "sg:address":"51 Primrose St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 3503",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GIJtzxbtwSyJL3ojeKoKD_42.821567_-106.400847@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310829,
+    "wof:geomhash":"97a8cdbf52e4a88180681014954248b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874006585
+        }
+    ],
+    "wof:id":874006585,
+    "wof:lastmodified":1464310829,
+    "wof:name":"Good Shepherd Lutheran Church",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -106.400847,
+    42.821567,
+    -106.400847,
+    42.821567
+],
+  "geometry": {"coordinates":[-106.400847,42.821567],"type":"Point"}
+}

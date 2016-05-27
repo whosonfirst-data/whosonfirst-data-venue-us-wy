@@ -1,0 +1,71 @@
+{
+  "id": 874014063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592093,41.311793,-105.592093,41.311793",
+    "geom:latitude":41.311793,
+    "geom:longitude":-105.592093,
+    "iso:country":"US",
+    "sg:address":"209 S 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 5232",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MxoioIZQ4BVeZZd5FadY1_41.311793_-105.592093@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310884,
+    "wof:geomhash":"a462860bcd067a07370413a660bb109b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874014063
+        }
+    ],
+    "wof:id":874014063,
+    "wof:lastmodified":1464310884,
+    "wof:name":"Laramie Ambulance Svc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -105.592093,
+    41.311793,
+    -105.592093,
+    41.311793
+],
+  "geometry": {"coordinates":[-105.59209300000001,41.311793],"type":"Point"}
+}

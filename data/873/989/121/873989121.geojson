@@ -1,0 +1,75 @@
+{
+  "id": 873989121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594977,41.311129,-105.594977,41.311129",
+    "geom:latitude":41.311129,
+    "geom:longitude":-105.594977,
+    "iso:country":"US",
+    "sg:address":"300 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3774",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AkgYE2GFmYJodYqUzvS7S_41.311129_-105.594977@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310684,
+    "wof:geomhash":"ad1a0ef5de1bb046c22bed6871cb8a8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873989121
+        }
+    ],
+    "wof:id":873989121,
+    "wof:lastmodified":1464310684,
+    "wof:name":"Music Box",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -105.594977,
+    41.311129,
+    -105.594977,
+    41.311129
+],
+  "geometry": {"coordinates":[-105.594977,41.311129],"type":"Point"}
+}

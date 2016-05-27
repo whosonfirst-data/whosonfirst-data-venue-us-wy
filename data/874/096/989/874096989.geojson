@@ -1,0 +1,74 @@
+{
+  "id": 874096989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.420882,42.872675,-106.420882,42.872675",
+    "geom:latitude":42.872675,
+    "geom:longitude":-106.420882,
+    "iso:country":"US",
+    "sg:address":"6400 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 7183",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil",
+        "equipment"
+    ],
+    "sg:website":"www.natco-us.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Vzj0q3DCnw0jLJ8xFKcKh_42.872675_-106.420882@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311743,
+    "wof:geomhash":"4e1f839f2071c605027fcedc605b76b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874096989
+        }
+    ],
+    "wof:id":874096989,
+    "wof:lastmodified":1464311743,
+    "wof:name":"Natco National Tank Co",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -106.420882,
+    42.872675,
+    -106.420882,
+    42.872675
+],
+  "geometry": {"coordinates":[-106.42088200000001,42.872675],"type":"Point"}
+}

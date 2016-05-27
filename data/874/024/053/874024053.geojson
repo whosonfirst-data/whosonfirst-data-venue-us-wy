@@ -1,0 +1,73 @@
+{
+  "id": 874024053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.448516,42.877724,-106.448516,42.877724",
+    "geom:latitude":42.877724,
+    "geom:longitude":-106.448516,
+    "iso:country":"US",
+    "sg:address":"7424 W 6 W N Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 0001",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil",
+        "exploration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26yY6LP5y7QP16d2vqwMTP_42.877724_-106.448516@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310984,
+    "wof:geomhash":"fba6f8c4cd1258b2d0f15f257d71d418",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874024053
+        }
+    ],
+    "wof:id":874024053,
+    "wof:lastmodified":1464310984,
+    "wof:name":"Baker Hughes Oilfld Operations",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil",
+        "exploration"
+    ]
+},
+  "bbox": [
+    -106.448516,
+    42.877724,
+    -106.448516,
+    42.877724
+],
+  "geometry": {"coordinates":[-106.448516,42.877724],"type":"Point"}
+}

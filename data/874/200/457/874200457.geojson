@@ -1,0 +1,69 @@
+{
+  "id": 874200457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.313928,42.83825,-106.313928,42.83825",
+    "geom:latitude":42.83825,
+    "geom:longitude":-106.313928,
+    "iso:country":"US",
+    "sg:address":"1218 S Jefferson St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 0303",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78Tags1ZybJwaUCfBn83UJ_42.838250_-106.313928@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312848,
+    "wof:geomhash":"8f79b19667c4f9d08df4e47588f83391",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874200457
+        }
+    ],
+    "wof:id":874200457,
+    "wof:lastmodified":1464312848,
+    "wof:name":"Cardenas Day Care",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -106.313928,
+    42.83825,
+    -106.313928,
+    42.83825
+],
+  "geometry": {"coordinates":[-106.313928,42.83825],"type":"Point"}
+}

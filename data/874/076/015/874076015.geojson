@@ -1,0 +1,71 @@
+{
+  "id": 874076015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.59345,41.311793,-105.59345,41.311793",
+    "geom:latitude":41.311793,
+    "geom:longitude":-105.59345,
+    "iso:country":"US",
+    "sg:address":"217 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4280",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G8Vyx6V1hysbBwXkiIdDc_41.311793_-105.593450@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311511,
+    "wof:geomhash":"5d5c6104580c6a289da5246e82d4ed58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874076015
+        }
+    ],
+    "wof:id":874076015,
+    "wof:lastmodified":1464311511,
+    "wof:name":"Connor Flower Shop",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    -105.59345,
+    41.311793,
+    -105.59345,
+    41.311793
+],
+  "geometry": {"coordinates":[-105.59345,41.311793],"type":"Point"}
+}

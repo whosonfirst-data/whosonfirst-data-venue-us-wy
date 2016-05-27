@@ -1,0 +1,52 @@
+{
+  "id": 874207075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.38409,42.76088,-105.38409,42.76088",
+    "geom:latitude":42.76088,
+    "geom:longitude":-105.38409,
+    "iso:country":"US",
+    "sg:address":"300 Walnut St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 3644",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:website":"www.conversecountylibrary.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A5PDvn5Mr4oSmZVT9vGgF_42.760880_-105.384090@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312921,
+    "wof:geomhash":"ebd251960ec5892bc1a419cd5394f816",
+    "wof:hierarchy":[],
+    "wof:id":874207075,
+    "wof:lastmodified":1464312921,
+    "wof:name":"Converse County Library",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.38409,
+    42.76088,
+    -105.38409,
+    42.76088
+],
+  "geometry": {"coordinates":[-105.38409,42.76088],"type":"Point"}
+}

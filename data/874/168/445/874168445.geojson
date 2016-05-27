@@ -1,0 +1,58 @@
+{
+  "id": 874168445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.976379,44.806402,-106.976379,44.806402",
+    "geom:latitude":44.806402,
+    "geom:longitude":-106.976379,
+    "iso:country":"US",
+    "sg:address":"944 Jackson Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 673 5501",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rOE8ztsRezGtMbEdJx9Ai_44.806402_-106.976379@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312511,
+    "wof:geomhash":"80c8c13a321b8332aebc1a25b5a35986",
+    "wof:hierarchy":[],
+    "wof:id":874168445,
+    "wof:lastmodified":1464312511,
+    "wof:name":"Roberto Fars MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -106.976379,
+    44.806402,
+    -106.976379,
+    44.806402
+],
+  "geometry": {"coordinates":[-106.97637899999999,44.806402],"type":"Point"}
+}

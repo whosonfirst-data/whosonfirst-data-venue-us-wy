@@ -1,0 +1,58 @@
+{
+  "id": 874115299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.789517,43.473128,-110.789517,43.473128",
+    "geom:latitude":43.473128,
+    "geom:longitude":-110.789517,
+    "iso:country":"US",
+    "sg:address":"1190 US Hwy 89",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 8372",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dx0gmWgLqWaxzCBDeTbSe_43.473128_-110.789517@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311990,
+    "wof:geomhash":"4cde34428d03cd7c8d54a213a6b49a66",
+    "wof:hierarchy":[],
+    "wof:id":874115299,
+    "wof:lastmodified":1464311990,
+    "wof:name":"Jackson Hole Security",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -110.789517,
+    43.473128,
+    -110.789517,
+    43.473128
+],
+  "geometry": {"coordinates":[-110.789517,43.473128],"type":"Point"}
+}

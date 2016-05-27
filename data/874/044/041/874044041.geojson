@@ -1,0 +1,75 @@
+{
+  "id": 874044041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.247238,41.574856,-109.247238,41.574856",
+    "geom:latitude":41.574856,
+    "geom:longitude":-109.247238,
+    "iso:country":"US",
+    "sg:address":"1429 Dewar Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 3870",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61j1YdZSoUWm75PF9fRnOD_41.574856_-109.247238@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311185,
+    "wof:geomhash":"c1b50ad275297d692c7fef9dfddc9bfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874044041
+        }
+    ],
+    "wof:id":874044041,
+    "wof:lastmodified":1464311185,
+    "wof:name":"Sweetwater Sno N Jo",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -109.247238,
+    41.574856,
+    -109.247238,
+    41.574856
+],
+  "geometry": {"coordinates":[-109.247238,41.574856],"type":"Point"}
+}

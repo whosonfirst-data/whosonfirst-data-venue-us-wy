@@ -1,0 +1,56 @@
+{
+  "id": 874004189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.123687,41.28763,-106.123687,41.28763",
+    "geom:latitude":41.28763,
+    "geom:longitude":-106.123687,
+    "iso:country":"US",
+    "sg:address":"17 Old Ranch Rd",
+    "sg:city":"Centennial",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2546",
+    "sg:postcode":"82055",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bT8W1zeVvfRoZqOkguk88_41.287630_-106.123687@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310805,
+    "wof:geomhash":"19390c7b395fdff8fe35628181d38f2f",
+    "wof:hierarchy":[],
+    "wof:id":874004189,
+    "wof:lastmodified":1464310805,
+    "wof:name":"Centennial Valley Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -106.123687,
+    41.28763,
+    -106.123687,
+    41.28763
+],
+  "geometry": {"coordinates":[-106.123687,41.28763],"type":"Point"}
+}

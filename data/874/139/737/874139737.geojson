@@ -1,0 +1,51 @@
+{
+  "id": 874139737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.978611,44.807402,-106.978611,44.807402",
+    "geom:latitude":44.807402,
+    "geom:longitude":-106.978611,
+    "iso:country":"US",
+    "sg:address":"1514 W 5th St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 7900",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gDGr6ZXVgqU51TcWoSWOM_44.807402_-106.978611@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312233,
+    "wof:geomhash":"f456055c4e7c1b095b4599d653de5ecc",
+    "wof:hierarchy":[],
+    "wof:id":874139737,
+    "wof:lastmodified":1464312233,
+    "wof:name":"Rock Stop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.978611,
+    44.807402,
+    -106.978611,
+    44.807402
+],
+  "geometry": {"coordinates":[-106.978611,44.807402],"type":"Point"}
+}

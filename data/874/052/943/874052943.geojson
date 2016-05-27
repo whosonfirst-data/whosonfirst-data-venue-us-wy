@@ -1,0 +1,56 @@
+{
+  "id": 874052943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.508299,44.292256,-105.508299,44.292256",
+    "geom:latitude":44.292256,
+    "geom:longitude":-105.508299,
+    "iso:country":"US",
+    "sg:address":"306 W 3rd St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 687 0486",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LCVK2hn21xUHSahPAoN1f_44.292256_-105.508299@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311268,
+    "wof:geomhash":"ae57de835e0935bd4c572e017057692b",
+    "wof:hierarchy":[],
+    "wof:id":874052943,
+    "wof:lastmodified":1464311268,
+    "wof:name":"Sagebrush Dental Lab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -105.508299,
+    44.292256,
+    -105.508299,
+    44.292256
+],
+  "geometry": {"coordinates":[-105.50829899999999,44.292256],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874148487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.59654,41.292035,-105.59654,41.292035",
+    "geom:latitude":41.292035,
+    "geom:longitude":-105.59654,
+    "iso:country":"US",
+    "sg:address":"2441 Fort Sanders Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5325",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "saw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z8Ld9ci4hvW3pDBLdZnqu_41.292035_-105.596540@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312315,
+    "wof:geomhash":"75d7cd8b3fb6cc402e388cb9fabe569e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874148487
+        }
+    ],
+    "wof:id":874148487,
+    "wof:lastmodified":1464312315,
+    "wof:name":"Heggie Logging & Equipment Co",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saw"
+    ]
+},
+  "bbox": [
+    -105.59654,
+    41.292035,
+    -105.59654,
+    41.292035
+],
+  "geometry": {"coordinates":[-105.59654,41.292035],"type":"Point"}
+}

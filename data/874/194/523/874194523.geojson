@@ -1,0 +1,51 @@
+{
+  "id": 874194523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.749952,42.84789,-108.749952,42.84789",
+    "geom:latitude":42.84789,
+    "geom:longitude":-108.749952,
+    "iso:country":"US",
+    "sg:address":"1315 W Main St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 7000",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mhZlQGFAC2nBOBcsMEkqJ_42.847890_-108.749952@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312785,
+    "wof:geomhash":"cad489068e85d3ba603ef4a24375f2a8",
+    "wof:hierarchy":[],
+    "wof:id":874194523,
+    "wof:lastmodified":1464312785,
+    "wof:name":"Pit Stop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.749952,
+    42.84789,
+    -108.749952,
+    42.84789
+],
+  "geometry": {"coordinates":[-108.74995199999999,42.84789],"type":"Point"}
+}

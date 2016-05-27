@@ -1,0 +1,56 @@
+{
+  "id": 874140187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.066413,42.868174,-110.066413,42.868174",
+    "geom:latitude":42.868174,
+    "geom:longitude":-110.066413,
+    "iso:country":"US",
+    "sg:address":"64 Prairie Creek Rd",
+    "sg:city":"Daniel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 859 8675",
+    "sg:postcode":"83115",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aoAzovqfdZBpOXNwc661h_42.868174_-110.066413@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312236,
+    "wof:geomhash":"99d07f8c115abad1a8db79b94126a3f8",
+    "wof:hierarchy":[],
+    "wof:id":874140187,
+    "wof:lastmodified":1464312236,
+    "wof:name":"Anderson Trailer Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -110.066413,
+    42.868174,
+    -110.066413,
+    42.868174
+],
+  "geometry": {"coordinates":[-110.066413,42.868174],"type":"Point"}
+}

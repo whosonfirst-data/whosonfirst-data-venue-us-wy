@@ -1,0 +1,75 @@
+{
+  "id": 874042769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.363024,42.827761,-106.363024,42.827761",
+    "geom:latitude":42.827761,
+    "geom:longitude":-106.363024,
+    "iso:country":"US",
+    "sg:address":"2080 Fairgrounds Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 9724",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V6IIUpBjTD6D979vR5rou_42.827761_-106.363024@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311172,
+    "wof:geomhash":"4da9fce4b4b9ea0b2e7019b7ecf6d7d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874042769
+        }
+    ],
+    "wof:id":874042769,
+    "wof:lastmodified":1464311172,
+    "wof:name":"Mullen's Heating & Sheet Metal",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.363024,
+    42.827761,
+    -106.363024,
+    42.827761
+],
+  "geometry": {"coordinates":[-106.363024,42.827761],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874032601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.699158,44.349154,-106.699158,44.349154",
+    "geom:latitude":44.349154,
+    "geom:longitude":-106.699158,
+    "iso:country":"US",
+    "sg:address":"180 N Main St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 9850",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cheese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H0DW8b9lPLvTAEnKk7QR5_44.349154_-106.699158@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311071,
+    "wof:geomhash":"fcf06258c7d56b7bbae1f7e1585178b5",
+    "wof:hierarchy":[],
+    "wof:id":874032601,
+    "wof:lastmodified":1464311071,
+    "wof:name":"Buffalo Mouse Hse Cheese Hse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cheese"
+    ]
+},
+  "bbox": [
+    -106.699158,
+    44.349154,
+    -106.699158,
+    44.349154
+],
+  "geometry": {"coordinates":[-106.699158,44.349154],"type":"Point"}
+}

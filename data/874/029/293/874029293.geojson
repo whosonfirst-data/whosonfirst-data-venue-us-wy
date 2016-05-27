@@ -1,0 +1,56 @@
+{
+  "id": 874029293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.031342,44.535257,-109.031342,44.535257",
+    "geom:latitude":44.535257,
+    "geom:longitude":-109.031342,
+    "iso:country":"US",
+    "sg:address":"331 Robert St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 6932",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dcbmCed5iwhAFzYvggzBJ_44.535257_-109.031342@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311042,
+    "wof:geomhash":"71889d17ee5d58a00b0b371863297255",
+    "wof:hierarchy":[],
+    "wof:id":874029293,
+    "wof:lastmodified":1464311042,
+    "wof:name":"Leading Edge Taxidermy Studio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -109.031342,
+    44.535257,
+    -109.031342,
+    44.535257
+],
+  "geometry": {"coordinates":[-109.031342,44.535257],"type":"Point"}
+}

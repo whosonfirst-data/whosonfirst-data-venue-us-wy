@@ -1,0 +1,75 @@
+{
+  "id": 874189399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.397959,42.821097,-106.397959,42.821097",
+    "geom:latitude":42.821097,
+    "geom:longitude":-106.397959,
+    "iso:country":"US",
+    "sg:address":"97 Calypso St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 5509",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01TYPbsopJNmeKwGXggNkb_42.821097_-106.397959@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312734,
+    "wof:geomhash":"8742e0b80d995509a3a383bfd3bd1544",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874189399
+        }
+    ],
+    "wof:id":874189399,
+    "wof:lastmodified":1464312734,
+    "wof:name":"Sewer Muckers",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -106.397959,
+    42.821097,
+    -106.397959,
+    42.821097
+],
+  "geometry": {"coordinates":[-106.397959,42.821097],"type":"Point"}
+}

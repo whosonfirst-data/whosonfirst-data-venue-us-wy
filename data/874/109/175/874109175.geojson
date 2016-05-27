@@ -1,0 +1,73 @@
+{
+  "id": 874109175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.802166,41.159166,-104.802166,41.159166",
+    "geom:latitude":41.159166,
+    "geom:longitude":-104.802166,
+    "iso:country":"US",
+    "sg:address":"1637 Stillwater Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 772 2305",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6P1ZXZckAF5Kpkecn9PdBk_41.159166_-104.802166@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311905,
+    "wof:geomhash":"01e37a65fa0a77f1e9a685642606ab09",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":874109175
+        }
+    ],
+    "wof:id":874109175,
+    "wof:lastmodified":1464311905,
+    "wof:name":"Federal Mtr Carier Safety ADM",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transportation"
+    ]
+},
+  "bbox": [
+    -104.802166,
+    41.159166,
+    -104.802166,
+    41.159166
+],
+  "geometry": {"coordinates":[-104.802166,41.159166],"type":"Point"}
+}

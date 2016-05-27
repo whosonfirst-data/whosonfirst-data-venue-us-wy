@@ -1,0 +1,58 @@
+{
+  "id": 874230145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.230003,41.610429,-109.230003,41.610429",
+    "geom:latitude":41.610429,
+    "geom:longitude":-109.230003,
+    "iso:country":"US",
+    "sg:address":"1607 Elk St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/rock-springs-north/206520-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JL2KP72WX1uuLpHfnNXsD_41.610429_-109.230003@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313161,
+    "wof:geomhash":"eaa8727a1c404cc56654b886063e1654",
+    "wof:hierarchy":[],
+    "wof:id":874230145,
+    "wof:lastmodified":1464313161,
+    "wof:name":"McDonald's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -109.230003,
+    41.610429,
+    -109.230003,
+    41.610429
+],
+  "geometry": {"coordinates":[-109.230003,41.610429],"type":"Point"}
+}

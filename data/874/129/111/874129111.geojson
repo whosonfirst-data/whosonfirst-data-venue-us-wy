@@ -1,0 +1,60 @@
+{
+  "id": 874129111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.486405,44.251919,-105.486405,44.251919",
+    "geom:latitude":44.251919,
+    "geom:longitude":-105.486405,
+    "iso:country":"US",
+    "sg:address":"4520 S Douglas Hwy",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 6000",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "garbage",
+        "system",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vx87RNR9H4TM0yRHwZzc8_44.251919_-105.486405@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312123,
+    "wof:geomhash":"6c20d72808bf200bf715bf2f9f2f315f",
+    "wof:hierarchy":[],
+    "wof:id":874129111,
+    "wof:lastmodified":1464312123,
+    "wof:name":"Waste Connections Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "system",
+        "collection"
+    ]
+},
+  "bbox": [
+    -105.486405,
+    44.251919,
+    -105.486405,
+    44.251919
+],
+  "geometry": {"coordinates":[-105.486405,44.251919],"type":"Point"}
+}

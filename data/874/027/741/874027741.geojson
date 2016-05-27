@@ -1,0 +1,82 @@
+{
+  "id": 874027741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.305288,42.853779,-106.305288,42.853779",
+    "geom:latitude":42.853779,
+    "geom:longitude":-106.305288,
+    "iso:country":"US",
+    "sg:address":"1530 E C St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 8800",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repair",
+        "processing",
+        "datum",
+        "parts",
+        "electronic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v70HUPTS4yvvuPeAX3flG_42.853779_-106.305288@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311022,
+    "wof:geomhash":"64fa3d451685e72170a30aaec2284628",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874027741
+        }
+    ],
+    "wof:id":874027741,
+    "wof:lastmodified":1464311022,
+    "wof:name":"Hitek Communications Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "processing",
+        "datum",
+        "parts",
+        "electronic"
+    ]
+},
+  "bbox": [
+    -106.305288,
+    42.853779,
+    -106.305288,
+    42.853779
+],
+  "geometry": {"coordinates":[-106.305288,42.853779],"type":"Point"}
+}

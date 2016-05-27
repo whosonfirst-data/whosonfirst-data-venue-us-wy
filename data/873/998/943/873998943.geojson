@@ -1,0 +1,69 @@
+{
+  "id": 873998943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.306828,42.848187,-106.306828,42.848187",
+    "geom:latitude":42.848187,
+    "geom:longitude":-106.306828,
+    "iso:country":"US",
+    "sg:address":"264 S Wilson St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3259",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YLmWz1p9aqlzuBdsMzNMw_42.848187_-106.306828@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310753,
+    "wof:geomhash":"0cef01e83347a9ecc356be84f0d3c2fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873998943
+        }
+    ],
+    "wof:id":873998943,
+    "wof:lastmodified":1464310753,
+    "wof:name":"John C Logan DDS",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -106.306828,
+    42.848187,
+    -106.306828,
+    42.848187
+],
+  "geometry": {"coordinates":[-106.306828,42.848187],"type":"Point"}
+}

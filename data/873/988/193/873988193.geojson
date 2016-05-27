@@ -1,0 +1,73 @@
+{
+  "id": 873988193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.611985,41.422146,-105.611985,41.422146",
+    "geom:latitude":41.422146,
+    "geom:longitude":-105.611985,
+    "iso:country":"US",
+    "sg:address":"40 Badger Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 4121",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kJLDM6mYPyFkWdjlrNnfW_41.422146_-105.611985@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310677,
+    "wof:geomhash":"fcc42769a45b92609835d57fe2b4c8a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":873988193
+        }
+    ],
+    "wof:id":873988193,
+    "wof:lastmodified":1464310677,
+    "wof:name":"D & I Contracting Inc",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.611985,
+    41.422146,
+    -105.611985,
+    41.422146
+],
+  "geometry": {"coordinates":[-105.611985,41.422146],"type":"Point"}
+}

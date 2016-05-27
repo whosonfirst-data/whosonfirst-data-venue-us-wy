@@ -1,0 +1,64 @@
+{
+  "id": 874210129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.071775,44.522732,-109.071775,44.522732",
+    "geom:latitude":44.522732,
+    "geom:longitude":-109.071775,
+    "iso:country":"US",
+    "sg:address":"1402 8th St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 578 5802",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "house",
+        "mail"
+    ],
+    "sg:website":"www.sierratradingpost.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NWGuJ3E0DW1QAawdtUAux_44.522732_-109.071775@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312951,
+    "wof:geomhash":"d8b4a4234112eddaa9bfd2f5330038db",
+    "wof:hierarchy":[],
+    "wof:id":874210129,
+    "wof:lastmodified":1464312951,
+    "wof:name":"Sierra Trading Post Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "mail"
+    ]
+},
+  "bbox": [
+    -109.071775,
+    44.522732,
+    -109.071775,
+    44.522732
+],
+  "geometry": {"coordinates":[-109.071775,44.522732],"type":"Point"}
+}

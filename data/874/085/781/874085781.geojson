@@ -1,0 +1,56 @@
+{
+  "id": 874085781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.763255,44.766679,-108.763255,44.766679",
+    "geom:latitude":44.766679,
+    "geom:longitude":-108.763255,
+    "iso:country":"US",
+    "sg:address":"1105 Crandall Dr",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 9617",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sMwILwnP8dzvz3uBULHx2_44.766679_-108.763255@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311618,
+    "wof:geomhash":"6e6de241450ec71ca28e693d83744e7c",
+    "wof:hierarchy":[],
+    "wof:id":874085781,
+    "wof:lastmodified":1464311618,
+    "wof:name":"Custom & Classic Restoration",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -108.763255,
+    44.766679,
+    -108.763255,
+    44.766679
+],
+  "geometry": {"coordinates":[-108.763255,44.766679],"type":"Point"}
+}

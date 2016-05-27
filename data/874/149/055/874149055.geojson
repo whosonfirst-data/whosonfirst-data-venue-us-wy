@@ -1,0 +1,73 @@
+{
+  "id": 874149055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.563464,41.300317,-105.563464,41.300317",
+    "geom:latitude":41.300317,
+    "geom:longitude":-105.563464,
+    "iso:country":"US",
+    "sg:address":"1433 S Bridger St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7977",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YxwSM3lFfJQcZ2FWCE6T7_41.300317_-105.563464@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312320,
+    "wof:geomhash":"41ddf432572fc2d3a698f05c43d0746a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874149055
+        }
+    ],
+    "wof:id":874149055,
+    "wof:lastmodified":1464312320,
+    "wof:name":"Johnnys Motor Transport I",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -105.563464,
+    41.300317,
+    -105.563464,
+    41.300317
+],
+  "geometry": {"coordinates":[-105.563464,41.300317],"type":"Point"}
+}

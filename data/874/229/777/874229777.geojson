@@ -1,0 +1,59 @@
+{
+  "id": 874229777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.194636,43.848091,-104.194636,43.848091",
+    "geom:latitude":43.848091,
+    "geom:longitude":-104.194636,
+    "iso:country":"US",
+    "sg:address":"802 S Seneca Ave",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/newcastle/67233-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 3507",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qLtwiWiciITnBYJDF2rb3_43.848091_-104.194636@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313158,
+    "wof:geomhash":"98507987d04d0f44f134930d5ab7922f",
+    "wof:hierarchy":[],
+    "wof:id":874229777,
+    "wof:lastmodified":1464313158,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -104.194636,
+    43.848091,
+    -104.194636,
+    43.848091
+],
+  "geometry": {"coordinates":[-104.194636,43.848091],"type":"Point"}
+}

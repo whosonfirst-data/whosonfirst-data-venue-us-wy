@@ -1,0 +1,64 @@
+{
+  "id": 874204147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.294215,42.836085,-106.294215,42.836085",
+    "geom:latitude":42.836085,
+    "geom:longitude":-106.294215,
+    "iso:country":"US",
+    "sg:address":"1442 S Pennsylvania Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 5097",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P6RwGBomYTkNrodh6nhuQ_42.836085_-106.294215@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312885,
+    "wof:geomhash":"3b9f1dc4ab09ade742302f74cbcdb22f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874204147
+        }
+    ],
+    "wof:id":874204147,
+    "wof:lastmodified":1464312885,
+    "wof:name":"Kansas City Life",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.294215,
+    42.836085,
+    -106.294215,
+    42.836085
+],
+  "geometry": {"coordinates":[-106.29421499999999,42.836085],"type":"Point"}
+}

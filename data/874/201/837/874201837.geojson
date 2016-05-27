@@ -1,0 +1,56 @@
+{
+  "id": 874201837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.535783,41.800944,-110.535783,41.800944",
+    "geom:latitude":41.800944,
+    "geom:longitude":-110.535783,
+    "iso:country":"US",
+    "sg:address":"414 Aspen Ave",
+    "sg:city":"Kemmerer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 877 3380",
+    "sg:postcode":"83101",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mL82XJWlcD4ZTeJbgNYvk_41.800944_-110.535783@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312862,
+    "wof:geomhash":"a8c5b9d8c5a996808d950569a2c08cf8",
+    "wof:hierarchy":[],
+    "wof:id":874201837,
+    "wof:lastmodified":1464312862,
+    "wof:name":"Auto-Inn Repair Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -110.535783,
+    41.800944,
+    -110.535783,
+    41.800944
+],
+  "geometry": {"coordinates":[-110.535783,41.800944],"type":"Point"}
+}

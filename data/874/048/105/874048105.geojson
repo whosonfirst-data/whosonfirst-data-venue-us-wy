@@ -1,0 +1,56 @@
+{
+  "id": 874048105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.38132,42.75672,-105.38132,42.75672",
+    "geom:latitude":42.75672,
+    "geom:longitude":-105.38132,
+    "iso:country":"US",
+    "sg:address":"301 S 5th St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 2338",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hdl2ySyOba8UQ3AJbdX82_42.756720_-105.381320@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311224,
+    "wof:geomhash":"b7b42f574932d1f2e837dd9c3f06b84f",
+    "wof:hierarchy":[],
+    "wof:id":874048105,
+    "wof:lastmodified":1464311224,
+    "wof:name":"St James Catholic Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -105.38132,
+    42.75672,
+    -105.38132,
+    42.75672
+],
+  "geometry": {"coordinates":[-105.38132,42.75672],"type":"Point"}
+}

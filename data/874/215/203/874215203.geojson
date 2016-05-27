@@ -1,0 +1,69 @@
+{
+  "id": 874215203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.332003,42.840923,-106.332003,42.840923",
+    "geom:latitude":42.840923,
+    "geom:longitude":-106.332003,
+    "iso:country":"US",
+    "sg:address":"914 S Spruce St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 4644",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4va9cNRhzVhijFME39kWHL_42.840923_-106.332003@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313006,
+    "wof:geomhash":"9bf51d13180b32dfe97ccfc30748c4ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874215203
+        }
+    ],
+    "wof:id":874215203,
+    "wof:lastmodified":1464313006,
+    "wof:name":"D&M Cleaning Service",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -106.332003,
+    42.840923,
+    -106.332003,
+    42.840923
+],
+  "geometry": {"coordinates":[-106.332003,42.840923],"type":"Point"}
+}

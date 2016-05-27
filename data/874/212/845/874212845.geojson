@@ -1,0 +1,83 @@
+{
+  "id": 874212845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.344803,42.894231,-106.344803,42.894231",
+    "geom:latitude":42.894231,
+    "geom:longitude":-106.344803,
+    "iso:country":"US",
+    "sg:address":"3999 Salt Creek Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 9957",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil",
+        "field",
+        "mfg",
+        "gas",
+        "equipment",
+        "heat",
+        "vessel",
+        "pressure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uqhp6honxpZIBolJmnOn8_42.894231_-106.344803@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312982,
+    "wof:geomhash":"c2ddd3d3b6a91c435c0bc2d43a3d791c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874212845
+        }
+    ],
+    "wof:id":874212845,
+    "wof:lastmodified":1464312982,
+    "wof:name":"J W Williams Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "field",
+        "mfg",
+        "gas",
+        "equipment",
+        "heat",
+        "vessel",
+        "pressure"
+    ]
+},
+  "bbox": [
+    -106.344803,
+    42.894231,
+    -106.344803,
+    42.894231
+],
+  "geometry": {"coordinates":[-106.344803,42.894231],"type":"Point"}
+}

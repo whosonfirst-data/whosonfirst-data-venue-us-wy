@@ -1,0 +1,64 @@
+{
+  "id": 874100343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.274294,42.847516,-106.274294,42.847516",
+    "geom:latitude":42.847516,
+    "geom:longitude":-106.274294,
+    "iso:country":"US",
+    "sg:address":"327 Thelma Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 3357",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D9G4KwgUBW0LUimJ9n2m5_42.847516_-106.274294@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311798,
+    "wof:geomhash":"b1d1b859ac4616a06ca672c223ccbffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874100343
+        }
+    ],
+    "wof:id":874100343,
+    "wof:lastmodified":1464311798,
+    "wof:name":"Allstate",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.274294,
+    42.847516,
+    -106.274294,
+    42.847516
+],
+  "geometry": {"coordinates":[-106.274294,42.847516],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 874170267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.31434,42.856708,-106.31434,42.856708",
+    "geom:latitude":42.856708,
+    "geom:longitude":-106.31434,
+    "iso:country":"US",
+    "sg:address":"301 E E St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1159",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:website":"www.daysinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZKANPdniGvRpzN5AiZChk_42.856708_-106.314340@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312529,
+    "wof:geomhash":"c1b09b4f414e1a63c452366f97c7f974",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874170267
+        }
+    ],
+    "wof:id":874170267,
+    "wof:lastmodified":1464312529,
+    "wof:name":"Days Inn",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.31434,
+    42.856708,
+    -106.31434,
+    42.856708
+],
+  "geometry": {"coordinates":[-106.31434,42.856708],"type":"Point"}
+}

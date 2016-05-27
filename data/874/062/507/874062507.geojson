@@ -1,0 +1,56 @@
+{
+  "id": 874062507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.068318,41.182754,-104.068318,41.182754",
+    "geom:latitude":41.182754,
+    "geom:longitude":-104.068318,
+    "iso:country":"US",
+    "sg:address":"220 Main St",
+    "sg:city":"Pine Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 245 3746",
+    "sg:postcode":"82082",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U0Klu5IzHJvo4Ab2kDLOS_41.182754_-104.068318@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311358,
+    "wof:geomhash":"d57a26cc27deaa7b091d05912b8905e7",
+    "wof:hierarchy":[],
+    "wof:id":874062507,
+    "wof:lastmodified":1464311358,
+    "wof:name":"Pine Bluff Town Clerk",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -104.068318,
+    41.182754,
+    -104.068318,
+    41.182754
+],
+  "geometry": {"coordinates":[-104.068318,41.182754],"type":"Point"}
+}

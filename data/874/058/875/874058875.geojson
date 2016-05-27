@@ -1,0 +1,58 @@
+{
+  "id": 874058875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.190472,43.846575,-104.190472,43.846575",
+    "geom:latitude":43.846575,
+    "geom:longitude":-104.190472,
+    "iso:country":"US",
+    "sg:address":"1122 S Summit Ave",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 4502",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kCcpaqdFvw7sIzHzC8QeB_43.846575_-104.190472@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311325,
+    "wof:geomhash":"5f8776c8717537a78d9b9470d1da3629",
+    "wof:hierarchy":[],
+    "wof:id":874058875,
+    "wof:lastmodified":1464311325,
+    "wof:name":"Black Hills Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -104.190472,
+    43.846575,
+    -104.190472,
+    43.846575
+],
+  "geometry": {"coordinates":[-104.190472,43.846575],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874150693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.823365,41.172301,-104.823365,41.172301",
+    "geom:latitude":41.172301,
+    "geom:longitude":-104.823365,
+    "iso:country":"US",
+    "sg:address":"5907 Townsend Pl",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 0681",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kYCz5QNZyhQuhjHo9D694_41.172301_-104.823365@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312335,
+    "wof:geomhash":"cb9ad17c32a910db585d60b971f5eeca",
+    "wof:hierarchy":[],
+    "wof:id":874150693,
+    "wof:lastmodified":1464312335,
+    "wof:name":"Summit Engineering LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -104.823365,
+    41.172301,
+    -104.823365,
+    41.172301
+],
+  "geometry": {"coordinates":[-104.823365,41.172301],"type":"Point"}
+}

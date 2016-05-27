@@ -1,0 +1,58 @@
+{
+  "id": 874168743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.721348,44.345084,-106.721348,44.345084",
+    "geom:latitude":44.345084,
+    "geom:longitude":-106.721348,
+    "iso:country":"US",
+    "sg:address":"1211 Fort St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 5549",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UX0tDxID4k34waBRI3hj0_44.345084_-106.721348@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312515,
+    "wof:geomhash":"293b860546abf0ba080b95a8c20dd610",
+    "wof:hierarchy":[],
+    "wof:id":874168743,
+    "wof:lastmodified":1464312515,
+    "wof:name":"Eds Body Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "general"
+    ]
+},
+  "bbox": [
+    -106.721348,
+    44.345084,
+    -106.721348,
+    44.345084
+],
+  "geometry": {"coordinates":[-106.72134800000001,44.345084],"type":"Point"}
+}

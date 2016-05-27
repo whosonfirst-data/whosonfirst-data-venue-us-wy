@@ -1,0 +1,56 @@
+{
+  "id": 874214879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.489905,43.758831,-105.489905,43.758831",
+    "geom:latitude":43.758831,
+    "geom:longitude":-105.489905,
+    "iso:country":"US",
+    "sg:address":"515 Latigo Dr",
+    "sg:city":"Wright",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 464 0039",
+    "sg:postcode":"82732",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G5JLwEbEYhCEqSM0kXkTm_43.758831_-105.489905@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313003,
+    "wof:geomhash":"07cad3a7261a406d532b14c32b7d89b8",
+    "wof:hierarchy":[],
+    "wof:id":874214879,
+    "wof:lastmodified":1464313003,
+    "wof:name":"Campbell County Wright Sheriff",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -105.489905,
+    43.758831,
+    -105.489905,
+    43.758831
+],
+  "geometry": {"coordinates":[-105.48990499999999,43.758831],"type":"Point"}
+}

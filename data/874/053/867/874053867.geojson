@@ -1,0 +1,64 @@
+{
+  "id": 874053867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.324722,42.850009,-106.324722,42.850009",
+    "geom:latitude":42.850009,
+    "geom:longitude":-106.324722,
+    "iso:country":"US",
+    "sg:address":"125 E 1st St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 5929",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZpUL2a6cMUb04m8Wd7Fzx_42.850009_-106.324722@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311277,
+    "wof:geomhash":"fe27e72483efcc4852d80180883d571d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874053867
+        }
+    ],
+    "wof:id":874053867,
+    "wof:lastmodified":1464311277,
+    "wof:name":"Hair Center",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.324722,
+    42.850009,
+    -106.324722,
+    42.850009
+],
+  "geometry": {"coordinates":[-106.32472199999999,42.850009],"type":"Point"}
+}

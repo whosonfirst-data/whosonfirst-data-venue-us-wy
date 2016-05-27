@@ -1,0 +1,71 @@
+{
+  "id": 874146091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.597056,41.263033,-105.597056,41.263033",
+    "geom:latitude":41.263033,
+    "geom:longitude":-105.597056,
+    "iso:country":"US",
+    "sg:address":"196 Howe Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Toys & Hobbies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 2064",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "firework"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cq6ua8kACjK23aaz2d4If_41.263033_-105.597056@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312294,
+    "wof:geomhash":"e9a8d883e45b8347a0f08955bb77dc96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874146091
+        }
+    ],
+    "wof:id":874146091,
+    "wof:lastmodified":1464312294,
+    "wof:name":"J & G Wholesale",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "firework"
+    ]
+},
+  "bbox": [
+    -105.597056,
+    41.263033,
+    -105.597056,
+    41.263033
+],
+  "geometry": {"coordinates":[-105.59705599999999,41.263033],"type":"Point"}
+}

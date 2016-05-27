@@ -1,0 +1,73 @@
+{
+  "id": 874105225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.36564,42.819438,-106.36564,42.819438",
+    "geom:latitude":42.819438,
+    "geom:longitude":-106.36564,
+    "iso:country":"US",
+    "sg:address":"3513 Quail Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 4946",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "excavation",
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VIQXSVoS5oqlfumjr5Xtm_42.819438_-106.365640@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311859,
+    "wof:geomhash":"e35c22163c12594f7cc779d893c868fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874105225
+        }
+    ],
+    "wof:id":874105225,
+    "wof:lastmodified":1464311859,
+    "wof:name":"Fowler Trucking",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.36564,
+    42.819438,
+    -106.36564,
+    42.819438
+],
+  "geometry": {"coordinates":[-106.36564,42.819438],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874119029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.625218,44.100808,-104.625218,44.100808",
+    "geom:latitude":44.100808,
+    "geom:longitude":-104.625218,
+    "iso:country":"US",
+    "sg:address":"622 Pine St",
+    "sg:city":"Upton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 468 2530",
+    "sg:postcode":"82730",
+    "sg:province":"WY",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RKLpOBF0cq19MXWO2fe0w_44.100808_-104.625218@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312025,
+    "wof:geomhash":"d05d4daae102feea448dfc2d3d3e00df",
+    "wof:hierarchy":[],
+    "wof:id":874119029,
+    "wof:lastmodified":1464312025,
+    "wof:name":"Upton Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -104.625218,
+    44.100808,
+    -104.625218,
+    44.100808
+],
+  "geometry": {"coordinates":[-104.625218,44.100808],"type":"Point"}
+}

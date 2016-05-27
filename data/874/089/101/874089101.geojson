@@ -1,0 +1,56 @@
+{
+  "id": 874089101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.759558,43.476495,-110.759558,43.476495",
+    "geom:latitude":43.476495,
+    "geom:longitude":-110.759558,
+    "iso:country":"US",
+    "sg:address":"185 E Hansen Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 0166",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mpofOSHw4R4Op8YAm7yr2_43.476495_-110.759558@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311652,
+    "wof:geomhash":"7292b8d3e170a5130b338c11d57147ac",
+    "wof:hierarchy":[],
+    "wof:id":874089101,
+    "wof:lastmodified":1464311652,
+    "wof:name":"Mead & Mead",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -110.759558,
+    43.476495,
+    -110.759558,
+    43.476495
+],
+  "geometry": {"coordinates":[-110.759558,43.476495],"type":"Point"}
+}

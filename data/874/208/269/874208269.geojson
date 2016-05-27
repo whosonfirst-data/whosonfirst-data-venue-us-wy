@@ -1,0 +1,72 @@
+{
+  "id": 874208269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.316535,42.856765,-106.316535,42.856765",
+    "geom:latitude":42.856765,
+    "geom:longitude":-106.316535,
+    "iso:country":"US",
+    "sg:address":"401 E E St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 8933",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "sg:website":"www.isccorp.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tT0do1asChDUL8C0CDIuM_42.856765_-106.316535@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312932,
+    "wof:geomhash":"e8e87bf6fb43223c2d696a3b824465aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874208269
+        }
+    ],
+    "wof:id":874208269,
+    "wof:lastmodified":1464312932,
+    "wof:name":"ISC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -106.316535,
+    42.856765,
+    -106.316535,
+    42.856765
+],
+  "geometry": {"coordinates":[-106.316535,42.856765],"type":"Point"}
+}

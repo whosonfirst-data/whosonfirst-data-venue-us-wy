@@ -1,0 +1,56 @@
+{
+  "id": 874216751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.257829,41.588956,-109.257829,41.588956",
+    "geom:latitude":41.588956,
+    "geom:longitude":-109.257829,
+    "iso:country":"US",
+    "sg:address":"916 Continental St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 352 0135",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DN9gwqCeUVkIqGroW1MH6_41.588956_-109.257829@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313020,
+    "wof:geomhash":"562984d94b66db99cd5c049a683bd834",
+    "wof:hierarchy":[],
+    "wof:id":874216751,
+    "wof:lastmodified":1464313020,
+    "wof:name":"Southwest Wyoming Rehab Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -109.257829,
+    41.588956,
+    -109.257829,
+    41.588956
+],
+  "geometry": {"coordinates":[-109.257829,41.588956],"type":"Point"}
+}

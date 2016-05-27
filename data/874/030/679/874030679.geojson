@@ -1,0 +1,56 @@
+{
+  "id": 874030679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.51586,44.26415,-105.51586,44.26415",
+    "geom:latitude":44.26415,
+    "geom:longitude":-105.51586,
+    "iso:country":"US",
+    "sg:address":"3302 Sutherland Dr",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 3984",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "athletic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GiWPO0jrt3KzLfzblfHYw_44.264150_-105.515860@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311054,
+    "wof:geomhash":"b81a16e1cbfdeabc59300bd0cf144b85",
+    "wof:hierarchy":[],
+    "wof:id":874030679,
+    "wof:lastmodified":1464311054,
+    "wof:name":"Youth Gillette",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "athletic"
+    ]
+},
+  "bbox": [
+    -105.51586,
+    44.26415,
+    -105.51586,
+    44.26415
+],
+  "geometry": {"coordinates":[-105.51586,44.26415],"type":"Point"}
+}

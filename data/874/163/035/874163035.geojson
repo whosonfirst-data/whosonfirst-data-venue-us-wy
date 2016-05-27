@@ -1,0 +1,71 @@
+{
+  "id": 874163035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.297712,42.856693,-106.297712,42.856693",
+    "geom:latitude":42.856693,
+    "geom:longitude":-106.297712,
+    "iso:country":"US",
+    "sg:address":"800 Bryan Stock Trl",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 3333",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SuVBNQVRrXWGCyufYT8SG_42.856693_-106.297712@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312460,
+    "wof:geomhash":"0ed5bbbca0039cb4123c7add8ee71a4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874163035
+        }
+    ],
+    "wof:id":874163035,
+    "wof:lastmodified":1464312460,
+    "wof:name":"Drivers License Dept",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -106.297712,
+    42.856693,
+    -106.297712,
+    42.856693
+],
+  "geometry": {"coordinates":[-106.297712,42.856693],"type":"Point"}
+}

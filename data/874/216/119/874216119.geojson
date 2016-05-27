@@ -1,0 +1,56 @@
+{
+  "id": 874216119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.792779,41.137468,-104.792779,41.137468",
+    "geom:latitude":41.137468,
+    "geom:longitude":-104.792779,
+    "iso:country":"US",
+    "sg:address":"2017 E 13th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 6728",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WQAv19x8fM0X9IT4PziyP_41.137468_-104.792779@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313015,
+    "wof:geomhash":"4c825712b898eb177a355ad4c0cc6035",
+    "wof:hierarchy":[],
+    "wof:id":874216119,
+    "wof:lastmodified":1464313015,
+    "wof:name":"C-D Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -104.792779,
+    41.137468,
+    -104.792779,
+    41.137468
+],
+  "geometry": {"coordinates":[-104.792779,41.137468],"type":"Point"}
+}

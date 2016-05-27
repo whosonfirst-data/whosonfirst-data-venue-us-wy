@@ -1,0 +1,64 @@
+{
+  "id": 874172845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.333952,42.837349,-106.333952,42.837349",
+    "geom:latitude":42.837349,
+    "geom:longitude":-106.333952,
+    "iso:country":"US",
+    "sg:address":"728 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 8539",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QfcCUUbXRaXFBwlZJOsVz_42.837349_-106.333952@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312557,
+    "wof:geomhash":"c165d8332c569a7f53b6bb82c374514b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874172845
+        }
+    ],
+    "wof:id":874172845,
+    "wof:lastmodified":1464312557,
+    "wof:name":"U Bett It Hurts Body Art",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.333952,
+    42.837349,
+    -106.333952,
+    42.837349
+],
+  "geometry": {"coordinates":[-106.333952,42.837349],"type":"Point"}
+}

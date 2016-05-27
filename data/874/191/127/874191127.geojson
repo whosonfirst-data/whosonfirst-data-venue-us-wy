@@ -1,0 +1,71 @@
+{
+  "id": 874191127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.277575,42.848829,-106.277575,42.848829",
+    "geom:latitude":42.848829,
+    "geom:longitude":-106.277575,
+    "iso:country":"US",
+    "sg:address":"4241 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7110",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "liquor",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mP4SkTNgolTZpRkk8DlA5_42.848829_-106.277575@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312750,
+    "wof:geomhash":"6f8372236424d6e111cc76ee5242d6fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874191127
+        }
+    ],
+    "wof:id":874191127,
+    "wof:lastmodified":1464312750,
+    "wof:name":"Liquor Shed",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquor",
+        "store"
+    ]
+},
+  "bbox": [
+    -106.277575,
+    42.848829,
+    -106.277575,
+    42.848829
+],
+  "geometry": {"coordinates":[-106.277575,42.848829],"type":"Point"}
+}

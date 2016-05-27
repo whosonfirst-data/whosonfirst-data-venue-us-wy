@@ -1,0 +1,56 @@
+{
+  "id": 874134767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.731847,42.495383,-108.731847,42.495383",
+    "geom:latitude":42.495383,
+    "geom:longitude":-108.731847,
+    "iso:country":"US",
+    "sg:address":"40 S Dexter Ave",
+    "sg:city":"Atlantic City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 5671",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6c49ieLJMWZ9sHm4rvuTq5_42.495383_-108.731847@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312188,
+    "wof:geomhash":"aa4f47e7506f51403ab47e9d59a8b09f",
+    "wof:hierarchy":[],
+    "wof:id":874134767,
+    "wof:lastmodified":1464312188,
+    "wof:name":"Atlantic City Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -108.731847,
+    42.495383,
+    -108.731847,
+    42.495383
+],
+  "geometry": {"coordinates":[-108.731847,42.495383],"type":"Point"}
+}

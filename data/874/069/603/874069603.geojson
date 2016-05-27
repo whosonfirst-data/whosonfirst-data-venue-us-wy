@@ -1,0 +1,74 @@
+{
+  "id": 874069603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.28549,42.853609,-106.28549,42.853609",
+    "geom:latitude":42.853609,
+    "geom:longitude":-106.28549,
+    "iso:country":"US",
+    "sg:address":"501 N Sun Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3505",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "sg:website":"www.girlscoutswyoming.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gDptdWjElQMB6nuHSvYfE_42.853609_-106.285490@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311428,
+    "wof:geomhash":"43bf674dbb4727bb9f03c70e5c69acd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874069603
+        }
+    ],
+    "wof:id":874069603,
+    "wof:lastmodified":1464311428,
+    "wof:name":"Girl Scouts",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "organization",
+        "center"
+    ]
+},
+  "bbox": [
+    -106.28549,
+    42.853609,
+    -106.28549,
+    42.853609
+],
+  "geometry": {"coordinates":[-106.28549,42.853609],"type":"Point"}
+}

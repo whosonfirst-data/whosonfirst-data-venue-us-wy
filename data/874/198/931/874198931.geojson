@@ -1,0 +1,58 @@
+{
+  "id": 874198931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.750861,42.849347,-108.750861,42.849347",
+    "geom:latitude":42.849347,
+    "geom:longitude":-108.750861,
+    "iso:country":"US",
+    "sg:address":"1500 W Main St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 5442",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mq60WYzbtwfcPHA330BSH_42.849347_-108.750861@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312834,
+    "wof:geomhash":"1f78a55a28db81c811fdb7e4e526b842",
+    "wof:hierarchy":[],
+    "wof:id":874198931,
+    "wof:lastmodified":1464312834,
+    "wof:name":"Bill Jones Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.750861,
+    42.849347,
+    -108.750861,
+    42.849347
+],
+  "geometry": {"coordinates":[-108.750861,42.849347],"type":"Point"}
+}

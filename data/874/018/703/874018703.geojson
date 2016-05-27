@@ -1,0 +1,58 @@
+{
+  "id": 874018703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.452086,42.762251,-104.452086,42.762251",
+    "geom:latitude":42.762251,
+    "geom:longitude":-104.452086,
+    "iso:country":"US",
+    "sg:address":"327 US Hwy 85",
+    "sg:city":"Hawk Springs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 8885",
+    "sg:postcode":"82225",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iCqasS99vUQR5rsCQIpyJ_42.762251_-104.452086@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310934,
+    "wof:geomhash":"92366627d64cf01d34dbea963e26597d",
+    "wof:hierarchy":[],
+    "wof:id":874018703,
+    "wof:lastmodified":1464310934,
+    "wof:name":"Hawk Sprng Fire Protection Dst",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -104.452086,
+    42.762251,
+    -104.452086,
+    42.762251
+],
+  "geometry": {"coordinates":[-104.45208599999999,42.762251],"type":"Point"}
+}

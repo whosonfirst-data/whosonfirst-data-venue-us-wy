@@ -1,0 +1,59 @@
+{
+  "id": 874230859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.211632,43.638382,-108.211632,43.638382",
+    "geom:latitude":43.638382,
+    "geom:longitude":-108.211632,
+    "iso:country":"US",
+    "sg:address":"545 Shoshoni St",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/thermopolis-west/67224-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 2345",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g7tWtRIQ5R7IAhDdcqrG0_43.638321_-108.211200@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313173,
+    "wof:geomhash":"fba110fcb4b2da9b202e590dd6f8a969",
+    "wof:hierarchy":[],
+    "wof:id":874230859,
+    "wof:lastmodified":1464313173,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -108.211632,
+    43.638382,
+    -108.211632,
+    43.638382
+],
+  "geometry": {"coordinates":[-108.21163199999999,43.638382],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874004273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.36377,42.850701,-106.36377,42.850701",
+    "geom:latitude":42.850701,
+    "geom:longitude":-106.36377,
+    "iso:country":"US",
+    "sg:address":"172 Progress Cir",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1833",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37JWRYqpoVVKMws0RMOdWN_42.850701_-106.363770@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310806,
+    "wof:geomhash":"2ecba4f13f18a7b9490e1681737aa26f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874004273
+        }
+    ],
+    "wof:id":874004273,
+    "wof:lastmodified":1464310806,
+    "wof:name":"Support Systems Intl",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -106.36377,
+    42.850701,
+    -106.36377,
+    42.850701
+],
+  "geometry": {"coordinates":[-106.36377,42.850701],"type":"Point"}
+}

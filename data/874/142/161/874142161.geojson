@@ -1,0 +1,69 @@
+{
+  "id": 874142161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.335995,42.807145,-106.335995,42.807145",
+    "geom:latitude":42.807145,
+    "geom:longitude":-106.335995,
+    "iso:country":"US",
+    "sg:address":"4210 S Oak St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 6452",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UkStlSXjVF9AwB8FIMkYQ_42.807145_-106.335995@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312254,
+    "wof:geomhash":"d742dfd90faf0659b0b4e03ffcbd2816",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874142161
+        }
+    ],
+    "wof:id":874142161,
+    "wof:lastmodified":1464312254,
+    "wof:name":"Burger King",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -106.335995,
+    42.807145,
+    -106.335995,
+    42.807145
+],
+  "geometry": {"coordinates":[-106.335995,42.807145],"type":"Point"}
+}

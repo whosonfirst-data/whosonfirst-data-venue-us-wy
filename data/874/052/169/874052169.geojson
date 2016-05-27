@@ -1,0 +1,66 @@
+{
+  "id": 874052169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594796,41.300202,-105.594796,41.300202",
+    "geom:latitude":41.300202,
+    "geom:longitude":-105.594796,
+    "iso:country":"US",
+    "sg:address":"1501 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7966",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w1RfRcgGWvev6YSWhi5Cd_41.300202_-105.594796@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311261,
+    "wof:geomhash":"1bfd35d06a82f72631ec8b49386542b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874052169
+        }
+    ],
+    "wof:id":874052169,
+    "wof:lastmodified":1464311261,
+    "wof:name":"New Great Wall Restaurant",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.594796,
+    41.300202,
+    -105.594796,
+    41.300202
+],
+  "geometry": {"coordinates":[-105.594796,41.300202],"type":"Point"}
+}

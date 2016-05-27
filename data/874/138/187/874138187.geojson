@@ -1,0 +1,58 @@
+{
+  "id": 874138187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.957588,44.798989,-106.957588,44.798989",
+    "geom:latitude":44.798989,
+    "geom:longitude":-106.957588,
+    "iso:country":"US",
+    "sg:address":"200 Smith St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 8283",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r2hCntgtj5sb4Nk2E6o0I_44.798989_-106.957588@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312219,
+    "wof:geomhash":"c13ba6f8bb51821e73222d0751641fad",
+    "wof:hierarchy":[],
+    "wof:id":874138187,
+    "wof:lastmodified":1464312219,
+    "wof:name":"Sheridan Square Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -106.957588,
+    44.798989,
+    -106.957588,
+    44.798989
+],
+  "geometry": {"coordinates":[-106.957588,44.798989],"type":"Point"}
+}

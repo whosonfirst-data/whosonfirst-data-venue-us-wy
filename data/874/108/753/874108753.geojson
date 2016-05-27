@@ -1,0 +1,56 @@
+{
+  "id": 874108753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.763474,43.479657,-110.763474,43.479657",
+    "geom:latitude":43.479657,
+    "geom:longitude":-110.763474,
+    "iso:country":"US",
+    "sg:address":"25 W Broadway",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 5714",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q962CosnryWCdPUhjP6mq_43.479657_-110.763474@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311901,
+    "wof:geomhash":"05bc04a719a93b5bb89ca98b5aefa920",
+    "wof:hierarchy":[],
+    "wof:id":874108753,
+    "wof:lastmodified":1464311901,
+    "wof:name":"Jackson Trading Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -110.763474,
+    43.479657,
+    -110.763474,
+    43.479657
+],
+  "geometry": {"coordinates":[-110.763474,43.479657],"type":"Point"}
+}

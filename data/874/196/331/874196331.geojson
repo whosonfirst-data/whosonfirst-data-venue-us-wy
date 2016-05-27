@@ -1,0 +1,73 @@
+{
+  "id": 874196331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.219833,41.588379,-109.219833,41.588379",
+    "geom:latitude":41.588379,
+    "geom:longitude":-109.219833,
+    "iso:country":"US",
+    "sg:address":"507 5th St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 1054",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DiZKoQYinIEy64EJd4wKG_41.588379_-109.219833@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312808,
+    "wof:geomhash":"1443e23b58375397f396ef01f4519e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874196331
+        }
+    ],
+    "wof:id":874196331,
+    "wof:lastmodified":1464312808,
+    "wof:name":"Violette Engineering Software",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -109.219833,
+    41.588379,
+    -109.219833,
+    41.588379
+],
+  "geometry": {"coordinates":[-109.21983299999999,41.588379],"type":"Point"}
+}

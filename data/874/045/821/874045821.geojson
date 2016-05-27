@@ -1,0 +1,71 @@
+{
+  "id": 874045821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.327695,42.848362,-106.327695,42.848362",
+    "geom:latitude":42.848362,
+    "geom:longitude":-106.327695,
+    "iso:country":"US",
+    "sg:address":"300 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 2210",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "auto"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27WAnjVn83VIENM6DzEfkG_42.848362_-106.327695@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311205,
+    "wof:geomhash":"7f6c019258e5d5a28c23ecc56bb106ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874045821
+        }
+    ],
+    "wof:id":874045821,
+    "wof:lastmodified":1464311205,
+    "wof:name":"Chip Tech",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "auto"
+    ]
+},
+  "bbox": [
+    -106.327695,
+    42.848362,
+    -106.327695,
+    42.848362
+],
+  "geometry": {"coordinates":[-106.32769500000001,42.848362],"type":"Point"}
+}

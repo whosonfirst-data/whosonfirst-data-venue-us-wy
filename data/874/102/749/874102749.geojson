@@ -1,0 +1,64 @@
+{
+  "id": 874102749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.417341,42.815966,-106.417341,42.815966",
+    "geom:latitude":42.815966,
+    "geom:longitude":-106.417341,
+    "iso:country":"US",
+    "sg:address":"6332 Buckboard Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 4578",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JpvxoxOuG7M0Jx2u0A0RE_42.815966_-106.417341@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311828,
+    "wof:geomhash":"b99ae9a37f3f3a071101f2d17043a43b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874102749
+        }
+    ],
+    "wof:id":874102749,
+    "wof:lastmodified":1464311828,
+    "wof:name":"Oregon Trail Elementary School",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.417341,
+    42.815966,
+    -106.417341,
+    42.815966
+],
+  "geometry": {"coordinates":[-106.41734099999999,42.815966],"type":"Point"}
+}

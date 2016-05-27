@@ -1,0 +1,64 @@
+{
+  "id": 874053649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.32022,42.84466,-106.32022,42.84466",
+    "geom:latitude":42.84466,
+    "geom:longitude":-106.32022,
+    "iso:country":"US",
+    "sg:address":"501 S Kimball St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 1955",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79qAnwJj63yH4VNt9sUhzW_42.844660_-106.320220@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311275,
+    "wof:geomhash":"c96e1ab69cf7f4d1cf1d83a7a52cd9c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874053649
+        }
+    ],
+    "wof:id":874053649,
+    "wof:lastmodified":1464311275,
+    "wof:name":"Bulfer Rentals",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.32022,
+    42.84466,
+    -106.32022,
+    42.84466
+],
+  "geometry": {"coordinates":[-106.32022000000001,42.84466],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874181957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.961095,44.802037,-106.961095,44.802037",
+    "geom:latitude":44.802037,
+    "geom:longitude":-106.961095,
+    "iso:country":"US",
+    "sg:address":"336 N Jefferson St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 5824",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13kpDszQBWCrmKI3dhYINe_44.802037_-106.961095@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312650,
+    "wof:geomhash":"54c969d40ce3681201384abcca4f30bf",
+    "wof:hierarchy":[],
+    "wof:id":874181957,
+    "wof:lastmodified":1464312650,
+    "wof:name":"Wilson Animal Hospital",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -106.961095,
+    44.802037,
+    -106.961095,
+    44.802037
+],
+  "geometry": {"coordinates":[-106.961095,44.802037],"type":"Point"}
+}

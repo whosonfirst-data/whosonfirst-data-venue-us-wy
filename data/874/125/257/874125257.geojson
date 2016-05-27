@@ -1,0 +1,75 @@
+{
+  "id": 874125257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.280449,42.849055,-106.280449,42.849055",
+    "geom:latitude":42.849055,
+    "geom:longitude":-106.280449,
+    "iso:country":"US",
+    "sg:address":"110 N Forest Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 8831",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tool",
+        "garden",
+        "landscape",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WqnFxfU4clf176PhS9DCl_42.849055_-106.280449@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312088,
+    "wof:geomhash":"03170dc4e8baf2cbf6c3a3123e324864",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874125257
+        }
+    ],
+    "wof:id":874125257,
+    "wof:lastmodified":1464312088,
+    "wof:name":"Hood Landscaping",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool",
+        "garden",
+        "landscape",
+        "supply"
+    ]
+},
+  "bbox": [
+    -106.280449,
+    42.849055,
+    -106.280449,
+    42.849055
+],
+  "geometry": {"coordinates":[-106.280449,42.849055],"type":"Point"}
+}

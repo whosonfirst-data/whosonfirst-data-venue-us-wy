@@ -1,0 +1,56 @@
+{
+  "id": 874154001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.808737,41.135267,-104.808737,41.135267",
+    "geom:latitude":41.135267,
+    "geom:longitude":-104.808737,
+    "iso:country":"US",
+    "sg:address":"516 E Lincolnway",
+    "sg:city":"Pine Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 245 3300",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KzCU9Lbrfr7CmeJwBoAxd_41.135267_-104.808737@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312367,
+    "wof:geomhash":"dd97c23acc6f519788dc284b510c686c",
+    "wof:hierarchy":[],
+    "wof:id":874154001,
+    "wof:lastmodified":1464312367,
+    "wof:name":"ABC Towing & Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -104.808737,
+    41.135267,
+    -104.808737,
+    41.135267
+],
+  "geometry": {"coordinates":[-104.80873699999999,41.135267],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874133661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.769989,41.110559,-104.769989,41.110559",
+    "geom:latitude":41.110559,
+    "geom:longitude":-104.769989,
+    "iso:country":"US",
+    "sg:address":"200 S College Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 9909",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fceXBqVnjv5iAAL4Dlrlr_41.110559_-104.769989@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312179,
+    "wof:geomhash":"8328b93526fa6a18af49233ae6bb21e6",
+    "wof:hierarchy":[],
+    "wof:id":874133661,
+    "wof:lastmodified":1464312179,
+    "wof:name":"AAA Self Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -104.769989,
+    41.110559,
+    -104.769989,
+    41.110559
+],
+  "geometry": {"coordinates":[-104.769989,41.110559],"type":"Point"}
+}

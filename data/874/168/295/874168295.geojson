@@ -1,0 +1,69 @@
+{
+  "id": 874168295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.352048,42.829625,-106.352048,42.829625",
+    "geom:latitude":42.829625,
+    "geom:longitude":-106.352048,
+    "iso:country":"US",
+    "sg:address":"2727 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 3939",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WNgiWjhgyeR5VvBX7s0tx_42.829625_-106.352048@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312510,
+    "wof:geomhash":"dc4dbbd60e648c6deb2fec73b8bef564",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874168295
+        }
+    ],
+    "wof:id":874168295,
+    "wof:lastmodified":1464312510,
+    "wof:name":"Big O Tires",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -106.352048,
+    42.829625,
+    -106.352048,
+    42.829625
+],
+  "geometry": {"coordinates":[-106.352048,42.829625],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874203329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.429645,44.272134,-105.429645,44.272134",
+    "geom:latitude":44.272134,
+    "geom:longitude":-105.429645,
+    "iso:country":"US",
+    "sg:address":"2509 Cheryl Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 687 7192",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "county",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0njGtBSQk5GM1cPDCswkT6_44.272134_-105.429645@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312877,
+    "wof:geomhash":"0b34939815d4c0d81d0b7090f63fadda",
+    "wof:hierarchy":[],
+    "wof:id":874203329,
+    "wof:lastmodified":1464312877,
+    "wof:name":"Campbell County Fire Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "protection"
+    ]
+},
+  "bbox": [
+    -105.429645,
+    44.272134,
+    -105.429645,
+    44.272134
+],
+  "geometry": {"coordinates":[-105.42964499999999,44.272134],"type":"Point"}
+}

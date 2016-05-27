@@ -1,0 +1,51 @@
+{
+  "id": 874214123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.535392,41.805493,-110.535392,41.805493",
+    "geom:latitude":41.805493,
+    "geom:longitude":-110.535392,
+    "iso:country":"US",
+    "sg:address":"302 US Hwy 189",
+    "sg:city":"Kemmerer",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 877 6666",
+    "sg:postcode":"83101",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6C4k3oaY6hmwVhCVroJThS_41.805493_-110.535392@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312996,
+    "wof:geomhash":"9bf502d606a3ab65a2a4e61454c3da5d",
+    "wof:hierarchy":[],
+    "wof:id":874214123,
+    "wof:lastmodified":1464312996,
+    "wof:name":"189 Liquor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.535392,
+    41.805493,
+    -110.535392,
+    41.805493
+],
+  "geometry": {"coordinates":[-110.535392,41.805493],"type":"Point"}
+}

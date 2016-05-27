@@ -1,0 +1,56 @@
+{
+  "id": 874103581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.05269,44.518753,-109.05269,44.518753",
+    "geom:latitude":44.518753,
+    "geom:longitude":-109.05269,
+    "iso:country":"US",
+    "sg:address":"1826 Stampede Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 3311",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uTW1K7cUMPlFBOUE6dwx1_44.518753_-109.052690@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311839,
+    "wof:geomhash":"8825dd5984dbc37746c0ce9c86efad6f",
+    "wof:hierarchy":[],
+    "wof:id":874103581,
+    "wof:lastmodified":1464311839,
+    "wof:name":"Cody Church Of Christ",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -109.05269,
+    44.518753,
+    -109.05269,
+    44.518753
+],
+  "geometry": {"coordinates":[-109.05269,44.518753],"type":"Point"}
+}

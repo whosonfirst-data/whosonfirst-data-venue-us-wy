@@ -1,0 +1,71 @@
+{
+  "id": 874119793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.32524,42.851059,-106.32524,42.851059",
+    "geom:latitude":42.851059,
+    "geom:longitude":-106.32524,
+    "iso:country":"US",
+    "sg:address":"140 N Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1225",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "investment",
+        "closed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a59D25PA6odrWb48Nq14t_42.851059_-106.325240@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312033,
+    "wof:geomhash":"eb51e7d98afc75cb2113ee81f741347d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874119793
+        }
+    ],
+    "wof:id":874119793,
+    "wof:lastmodified":1464312033,
+    "wof:name":"Benson Assoc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investment",
+        "closed"
+    ]
+},
+  "bbox": [
+    -106.32524,
+    42.851059,
+    -106.32524,
+    42.851059
+],
+  "geometry": {"coordinates":[-106.32523999999999,42.851059],"type":"Point"}
+}

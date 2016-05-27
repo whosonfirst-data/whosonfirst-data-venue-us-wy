@@ -1,0 +1,56 @@
+{
+  "id": 874153963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.801901,41.14212,-104.801901,41.14212",
+    "geom:latitude":41.14212,
+    "geom:longitude":-104.801901,
+    "iso:country":"US",
+    "sg:address":"1300 E 20th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 2020",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ReAtFoa9Xa7o7e7OjVT8R_41.142120_-104.801901@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312366,
+    "wof:geomhash":"d1def452be2045821a1351e6d4363871",
+    "wof:hierarchy":[],
+    "wof:id":874153963,
+    "wof:lastmodified":1464312366,
+    "wof:name":"Dirk Dijkstal MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -104.801901,
+    41.14212,
+    -104.801901,
+    41.14212
+],
+  "geometry": {"coordinates":[-104.801901,41.14212],"type":"Point"}
+}

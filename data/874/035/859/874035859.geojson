@@ -1,0 +1,76 @@
+{
+  "id": 874035859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.609852,41.327441,-105.609852,41.327441",
+    "geom:latitude":41.327441,
+    "geom:longitude":-105.609852,
+    "iso:country":"US",
+    "sg:address":"1564 N McCue St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6443",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ],
+    "sg:website":"www.pilot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52bJmCKhE2VHYEXBqWXfUy_41.327441_-105.609852@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311103,
+    "wof:geomhash":"425830beb28724a7e873b0e7e120714b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874035859
+        }
+    ],
+    "wof:id":874035859,
+    "wof:lastmodified":1464311103,
+    "wof:name":"Pilot Travel Ctr",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ]
+},
+  "bbox": [
+    -105.609852,
+    41.327441,
+    -105.609852,
+    41.327441
+],
+  "geometry": {"coordinates":[-105.609852,41.327441],"type":"Point"}
+}

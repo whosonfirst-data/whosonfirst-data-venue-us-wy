@@ -1,0 +1,51 @@
+{
+  "id": 874163179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.501925,44.269001,-105.501925,44.269001",
+    "geom:latitude":44.269001,
+    "geom:longitude":-105.501925,
+    "iso:country":"US",
+    "sg:address":"2808 Elder St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 0306",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uHMdhSqEMlREqv6gtkwWs_44.269001_-105.501925@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312461,
+    "wof:geomhash":"32724b0dc0c97ce9dd1e04bbdcdf8b94",
+    "wof:hierarchy":[],
+    "wof:id":874163179,
+    "wof:lastmodified":1464312461,
+    "wof:name":"Mannings Upholstery & Customs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.501925,
+    44.269001,
+    -105.501925,
+    44.269001
+],
+  "geometry": {"coordinates":[-105.501925,44.269001],"type":"Point"}
+}

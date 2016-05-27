@@ -1,0 +1,69 @@
+{
+  "id": 874198957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323748,42.846868,-106.323748,42.846868",
+    "geom:latitude":42.846868,
+    "geom:longitude":-106.323748,
+    "iso:country":"US",
+    "sg:address":"300 S Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 6244",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kZ6Y2jnwexU2mNmtLr1TC_42.846868_-106.323748@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312834,
+    "wof:geomhash":"07832b4a6fc5a22aab552bd84fddc796",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874198957
+        }
+    ],
+    "wof:id":874198957,
+    "wof:lastmodified":1464312834,
+    "wof:name":"Mark D Vuolo MD",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -106.323748,
+    42.846868,
+    -106.323748,
+    42.846868
+],
+  "geometry": {"coordinates":[-106.32374799999999,42.846868],"type":"Point"}
+}

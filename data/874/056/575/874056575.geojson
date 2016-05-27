@@ -1,0 +1,75 @@
+{
+  "id": 874056575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.339789,42.858444,-106.339789,42.858444",
+    "geom:latitude":42.858444,
+    "geom:longitude":-106.339789,
+    "iso:country":"US",
+    "sg:address":"1044 N Foster Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 8078",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "fire",
+        "mechanical",
+        "sprinkler",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BfeRjNbZQDBD6WRW2Wxwa_42.858444_-106.339789@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311306,
+    "wof:geomhash":"16fb26286008c4bae23efa0ffba47898",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874056575
+        }
+    ],
+    "wof:id":874056575,
+    "wof:lastmodified":1464311306,
+    "wof:name":"Advanced Heating & Plumbing",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "mechanical",
+        "sprinkler",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.339789,
+    42.858444,
+    -106.339789,
+    42.858444
+],
+  "geometry": {"coordinates":[-106.339789,42.858444],"type":"Point"}
+}

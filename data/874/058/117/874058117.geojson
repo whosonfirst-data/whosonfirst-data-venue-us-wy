@@ -1,0 +1,73 @@
+{
+  "id": 874058117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.273298,42.845304,-106.273298,42.845304",
+    "geom:latitude":42.845304,
+    "geom:longitude":-106.273298,
+    "iso:country":"US",
+    "sg:address":"4040 Crystie Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3519",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31cpaMfsjpfbTaTCsZwqYD_42.845304_-106.273298@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311318,
+    "wof:geomhash":"eeacc3ed69b0e838bdd8fb884866a85f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874058117
+        }
+    ],
+    "wof:id":874058117,
+    "wof:lastmodified":1464311318,
+    "wof:name":"McGinty Plumbing and Heating",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.273298,
+    42.845304,
+    -106.273298,
+    42.845304
+],
+  "geometry": {"coordinates":[-106.273298,42.845304],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874038381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.333874,42.801433,-106.333874,42.801433",
+    "geom:latitude":42.801433,
+    "geom:longitude":-106.333874,
+    "iso:country":"US",
+    "sg:address":"731 W 53rd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 258 8244",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_533fBPl5FnLtmrI9ZP2SaS_42.801433_-106.333874@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311129,
+    "wof:geomhash":"2512e9c649fb227b8f7c513c8dd185c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874038381
+        }
+    ],
+    "wof:id":874038381,
+    "wof:lastmodified":1464311129,
+    "wof:name":"Haid's Plumbing & Heating",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.333874,
+    42.801433,
+    -106.333874,
+    42.801433
+],
+  "geometry": {"coordinates":[-106.33387399999999,42.801433],"type":"Point"}
+}

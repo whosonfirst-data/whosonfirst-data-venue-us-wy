@@ -1,0 +1,69 @@
+{
+  "id": 874154173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.424205,42.809188,-106.424205,42.809188",
+    "geom:latitude":42.809188,
+    "geom:longitude":-106.424205,
+    "iso:country":"US",
+    "sg:address":"6686 Riverside Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 0017",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xpMRH4h7Q45XKosT2jLEt_42.809188_-106.424205@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312369,
+    "wof:geomhash":"b15c1f2d51feb5761269d69e4f8c265f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874154173
+        }
+    ],
+    "wof:id":874154173,
+    "wof:lastmodified":1464312369,
+    "wof:name":"Hein Construction Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -106.424205,
+    42.809188,
+    -106.424205,
+    42.809188
+],
+  "geometry": {"coordinates":[-106.424205,42.809188],"type":"Point"}
+}

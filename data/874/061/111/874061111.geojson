@@ -1,0 +1,57 @@
+{
+  "id": 874061111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.954837,44.79521,-106.954837,44.79521",
+    "geom:latitude":44.79521,
+    "geom:longitude":-106.954837,
+    "iso:country":"US",
+    "sg:address":"51 Coffeen Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 8991",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "security"
+    ],
+    "sg:website":"www.morganstanley.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Us98vHLwdgeQdh3J9mMKR_44.795210_-106.954837@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311345,
+    "wof:geomhash":"e05f56e8d352a6f4ff4a1b876372d7bb",
+    "wof:hierarchy":[],
+    "wof:id":874061111,
+    "wof:lastmodified":1464311345,
+    "wof:name":"Morgan Stanley",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -106.954837,
+    44.79521,
+    -106.954837,
+    44.79521
+],
+  "geometry": {"coordinates":[-106.954837,44.79521],"type":"Point"}
+}

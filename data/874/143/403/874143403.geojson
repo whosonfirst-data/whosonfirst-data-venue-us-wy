@@ -1,0 +1,77 @@
+{
+  "id": 874143403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.3284,42.850023,-106.3284,42.850023",
+    "geom:latitude":42.850023,
+    "geom:longitude":-106.3284,
+    "iso:country":"US",
+    "sg:address":"229 W 1st St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 1595",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "glass",
+        "window",
+        "lu",
+        "contractor",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0obYc07WH3MA7vZxi91PUe_42.850023_-106.328400@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312266,
+    "wof:geomhash":"034179b32e77ea0c27a7a147acb7cce1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874143403
+        }
+    ],
+    "wof:id":874143403,
+    "wof:lastmodified":1464312266,
+    "wof:name":"Lee's Glass Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "lu",
+        "contractor",
+        "plate"
+    ]
+},
+  "bbox": [
+    -106.3284,
+    42.850023,
+    -106.3284,
+    42.850023
+],
+  "geometry": {"coordinates":[-106.3284,42.850023],"type":"Point"}
+}

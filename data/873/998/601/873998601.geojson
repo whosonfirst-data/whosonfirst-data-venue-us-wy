@@ -1,0 +1,51 @@
+{
+  "id": 873998601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.641444,43.536386,-109.641444,43.536386",
+    "geom:latitude":43.536386,
+    "geom:longitude":-109.641444,
+    "iso:country":"US",
+    "sg:address":"602 W Rams Horn St",
+    "sg:city":"Dubois",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 455 3330",
+    "sg:postcode":"82513",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wYVziSrNIWCGoaKaybL0d_43.536386_-109.641444@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310751,
+    "wof:geomhash":"488106b3592653831f08cf4ea13d3055",
+    "wof:hierarchy":[],
+    "wof:id":873998601,
+    "wof:lastmodified":1464310751,
+    "wof:name":"Pit Stop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.641444,
+    43.536386,
+    -109.641444,
+    43.536386
+],
+  "geometry": {"coordinates":[-109.64144400000001,43.536386],"type":"Point"}
+}

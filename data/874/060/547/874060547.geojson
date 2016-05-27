@@ -1,0 +1,58 @@
+{
+  "id": 874060547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.806323,41.136092,-104.806323,41.136092",
+    "geom:latitude":41.136092,
+    "geom:longitude":-104.806323,
+    "iso:country":"US",
+    "sg:address":"701 E Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 5666",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e9Ajn1JIbuinF5Efk4rXn_41.136092_-104.806323@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311340,
+    "wof:geomhash":"9f166d738db71cf12dfa7ad6b993738d",
+    "wof:hierarchy":[],
+    "wof:id":874060547,
+    "wof:lastmodified":1464311340,
+    "wof:name":"Payless Car Rental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -104.806323,
+    41.136092,
+    -104.806323,
+    41.136092
+],
+  "geometry": {"coordinates":[-104.80632300000001,41.136092],"type":"Point"}
+}

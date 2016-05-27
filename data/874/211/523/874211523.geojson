@@ -1,0 +1,56 @@
+{
+  "id": 874211523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.49415,44.28732,-105.49415,44.28732",
+    "geom:latitude":44.28732,
+    "geom:longitude":-105.49415,
+    "iso:country":"US",
+    "sg:address":"801 E 8th St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 685 0705",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QSGYvmuWofV8g0CUXhrWQ_44.287320_-105.494150@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312969,
+    "wof:geomhash":"871e6421239fd16ae2585a94d9f80333",
+    "wof:hierarchy":[],
+    "wof:id":874211523,
+    "wof:lastmodified":1464312969,
+    "wof:name":"Any Time Mini Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage"
+    ]
+},
+  "bbox": [
+    -105.49415,
+    44.28732,
+    -105.49415,
+    44.28732
+],
+  "geometry": {"coordinates":[-105.49415,44.28732],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 874089167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.635261,41.297802,-105.635261,41.297802",
+    "geom:latitude":41.297802,
+    "geom:longitude":-105.635261,
+    "iso:country":"US",
+    "sg:address":"2684 Riverside Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7464",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "house",
+        "c",
+        "hanging",
+        "painter",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QHm9kYC3wCjDMrg5w6bmO_41.297802_-105.635261@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311652,
+    "wof:geomhash":"e9040ea7f3be7b0de8bf2335be2222e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874089167
+        }
+    ],
+    "wof:id":874089167,
+    "wof:lastmodified":1464311652,
+    "wof:name":"Lance's Painting",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "c",
+        "hanging",
+        "painter",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.635261,
+    41.297802,
+    -105.635261,
+    41.297802
+],
+  "geometry": {"coordinates":[-105.635261,41.297802],"type":"Point"}
+}

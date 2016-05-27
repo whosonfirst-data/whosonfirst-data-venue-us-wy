@@ -1,0 +1,71 @@
+{
+  "id": 874117589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.438955,42.879707,-106.438955,42.879707",
+    "geom:latitude":42.879707,
+    "geom:longitude":-106.438955,
+    "iso:country":"US",
+    "sg:address":"2278 Clover Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 3110",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rjbwlQyoYqBcPr6GqYbB0_42.879707_-106.438955@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312012,
+    "wof:geomhash":"d1dcd35e4ca26e637848ba336d2bef61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874117589
+        }
+    ],
+    "wof:id":874117589,
+    "wof:lastmodified":1464312012,
+    "wof:name":"Quadco Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.438955,
+    42.879707,
+    -106.438955,
+    42.879707
+],
+  "geometry": {"coordinates":[-106.43895500000001,42.879707],"type":"Point"}
+}

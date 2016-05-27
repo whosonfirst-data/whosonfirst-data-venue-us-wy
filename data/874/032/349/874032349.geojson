@@ -1,0 +1,71 @@
+{
+  "id": 874032349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.600633,41.313252,-105.600633,41.313252",
+    "geom:latitude":41.313252,
+    "geom:longitude":-105.600633,
+    "iso:country":"US",
+    "sg:address":"113 S Cedar St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3908",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gdDtMgQZH3BO0qIo7ufmF_41.313252_-105.600633@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311069,
+    "wof:geomhash":"97c9360cd7f444303fd1c2e8ff389f2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874032349
+        }
+    ],
+    "wof:id":874032349,
+    "wof:lastmodified":1464311069,
+    "wof:name":"Tweet Treats",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -105.600633,
+    41.313252,
+    -105.600633,
+    41.313252
+],
+  "geometry": {"coordinates":[-105.600633,41.313252],"type":"Point"}
+}

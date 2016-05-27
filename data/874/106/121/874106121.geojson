@@ -1,0 +1,56 @@
+{
+  "id": 874106121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.939701,44.008137,-107.939701,44.008137",
+    "geom:latitude":44.008137,
+    "geom:longitude":-107.939701,
+    "iso:country":"US",
+    "sg:address":"1000 Wilson Dr",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 8890",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06XYNa4vEQgTB72cv76viC_44.008137_-107.939701@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311870,
+    "wof:geomhash":"97cb15c7bd0e46761a9e0cba4b9a1fcb",
+    "wof:hierarchy":[],
+    "wof:id":874106121,
+    "wof:lastmodified":1464311870,
+    "wof:name":"Worland Pre-Sch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -107.939701,
+    44.008137,
+    -107.939701,
+    44.008137
+],
+  "geometry": {"coordinates":[-107.939701,44.008137],"type":"Point"}
+}

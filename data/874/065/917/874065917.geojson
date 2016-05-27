@@ -1,0 +1,71 @@
+{
+  "id": 874065917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.398025,42.855007,-106.398025,42.855007",
+    "geom:latitude":42.855007,
+    "geom:longitude":-106.398025,
+    "iso:country":"US",
+    "sg:address":"550 Gehring St",
+    "sg:city":"Mills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 5869",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KiVVaIgquv2gABAYTSeu1_42.855007_-106.398025@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311387,
+    "wof:geomhash":"e881b7b2c4fdc6ee0f07c6fa57446be8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874065917
+        }
+    ],
+    "wof:id":874065917,
+    "wof:lastmodified":1464311387,
+    "wof:name":"Eastside Fleet Svc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -106.398025,
+    42.855007,
+    -106.398025,
+    42.855007
+],
+  "geometry": {"coordinates":[-106.398025,42.855007],"type":"Point"}
+}

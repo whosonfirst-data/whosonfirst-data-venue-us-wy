@@ -1,0 +1,56 @@
+{
+  "id": 874163999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.730978,44.317905,-106.730978,44.317905",
+    "geom:latitude":44.317905,
+    "geom:longitude":-106.730978,
+    "iso:country":"US",
+    "sg:address":"12 Burger Ln",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 7222",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "photography"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FnU2DPDABAWGNqg9SXSgv_44.317905_-106.730978@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312469,
+    "wof:geomhash":"8d7e1e22464f083c8d69c3c1b179d140",
+    "wof:hierarchy":[],
+    "wof:id":874163999,
+    "wof:lastmodified":1464312469,
+    "wof:name":"K-Bar Studio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography"
+    ]
+},
+  "bbox": [
+    -106.730978,
+    44.317905,
+    -106.730978,
+    44.317905
+],
+  "geometry": {"coordinates":[-106.73097799999999,44.317905],"type":"Point"}
+}

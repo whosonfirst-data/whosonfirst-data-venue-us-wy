@@ -1,0 +1,64 @@
+{
+  "id": 874078575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.41947,42.871847,-106.41947,42.871847",
+    "geom:latitude":42.871847,
+    "geom:longitude":-106.41947,
+    "iso:country":"US",
+    "sg:address":"6470 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 7476",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hw37PeChJbcm60GwRBbAK_42.871847_-106.419470@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311533,
+    "wof:geomhash":"df4235a49bcc25d7779361a12a96fd9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874078575
+        }
+    ],
+    "wof:id":874078575,
+    "wof:lastmodified":1464311533,
+    "wof:name":"Cowboy's Saloon & Dancehall",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.41947,
+    42.871847,
+    -106.41947,
+    42.871847
+],
+  "geometry": {"coordinates":[-106.41947,42.871847],"type":"Point"}
+}

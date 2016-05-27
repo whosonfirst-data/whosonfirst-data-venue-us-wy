@@ -1,0 +1,83 @@
+{
+  "id": 874146347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.223179,41.58955,-109.223179,41.58955",
+    "geom:latitude":41.58955,
+    "geom:longitude":-109.223179,
+    "iso:country":"US",
+    "sg:address":"246 Elk St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 7129",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "manufacture",
+        "picture",
+        "art",
+        "frame",
+        "custom",
+        "gallery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pq1qXT3ahuJPdaOpVkX2U_41.589550_-109.223179@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312296,
+    "wof:geomhash":"1fb703bbc128081d610f458244b851c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874146347
+        }
+    ],
+    "wof:id":874146347,
+    "wof:lastmodified":1464312296,
+    "wof:name":"High Desert Art Galleries",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacture",
+        "picture",
+        "art",
+        "frame",
+        "custom",
+        "gallery"
+    ]
+},
+  "bbox": [
+    -109.223179,
+    41.58955,
+    -109.223179,
+    41.58955
+],
+  "geometry": {"coordinates":[-109.223179,41.58955],"type":"Point"}
+}

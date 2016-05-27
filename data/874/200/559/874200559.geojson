@@ -1,0 +1,62 @@
+{
+  "id": 874200559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.054025,44.518807,-109.054025,44.518807",
+    "geom:latitude":44.518807,
+    "geom:longitude":-109.054025,
+    "iso:country":"US",
+    "sg:address":"1802 17th St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 9431",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "gasoline"
+    ],
+    "sg:website":"www.maverik.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U9PitISjtsY8IikIpjend_44.518807_-109.054025@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312849,
+    "wof:geomhash":"6a81ff8b0535df42569fab42a650c70b",
+    "wof:hierarchy":[],
+    "wof:id":874200559,
+    "wof:lastmodified":1464312849,
+    "wof:name":"Maverik Country Stores 202",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -109.054025,
+    44.518807,
+    -109.054025,
+    44.518807
+],
+  "geometry": {"coordinates":[-109.054025,44.518807],"type":"Point"}
+}

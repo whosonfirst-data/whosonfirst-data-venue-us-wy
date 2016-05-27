@@ -1,0 +1,56 @@
+{
+  "id": 874205615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.479137,44.287314,-105.479137,44.287314",
+    "geom:latitude":44.287314,
+    "geom:longitude":-105.479137,
+    "iso:country":"US",
+    "sg:address":"800 Butler-Spaeth Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 7291",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C9D90HSA5TtZz5SmZaZhX_44.287314_-105.479137@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312900,
+    "wof:geomhash":"649063216bc6fa9312ad87037d1db951",
+    "wof:hierarchy":[],
+    "wof:id":874205615,
+    "wof:lastmodified":1464312900,
+    "wof:name":"Hillcrest Elementary School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -105.479137,
+    44.287314,
+    -105.479137,
+    44.287314
+],
+  "geometry": {"coordinates":[-105.47913699999999,44.287314],"type":"Point"}
+}

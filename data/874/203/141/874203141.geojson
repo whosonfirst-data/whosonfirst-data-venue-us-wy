@@ -1,0 +1,71 @@
+{
+  "id": 874203141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.408124,42.864963,-106.408124,42.864963",
+    "geom:latitude":42.864963,
+    "geom:longitude":-106.408124,
+    "iso:country":"US",
+    "sg:address":"5740 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 1416",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aFiltpf8JVqU5zpAKDgYi_42.864963_-106.408124@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312876,
+    "wof:geomhash":"99fdd3906517785e9f1b0325db8bb80c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874203141
+        }
+    ],
+    "wof:id":874203141,
+    "wof:lastmodified":1464312876,
+    "wof:name":"Silvertip Electric",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.408124,
+    42.864963,
+    -106.408124,
+    42.864963
+],
+  "geometry": {"coordinates":[-106.408124,42.864963],"type":"Point"}
+}

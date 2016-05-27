@@ -1,0 +1,75 @@
+{
+  "id": 874089915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.695182,41.447346,-105.695182,41.447346",
+    "geom:latitude":41.447346,
+    "geom:longitude":-105.695182,
+    "iso:country":"US",
+    "sg:address":"618 Howell Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 9210",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00ODyLPl8CuvSrV3a5tCEj_41.447346_-105.695182@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311660,
+    "wof:geomhash":"78492a5484a4b1054b6a39388e2b4502",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874089915
+        }
+    ],
+    "wof:id":874089915,
+    "wof:lastmodified":1464311660,
+    "wof:name":"Biddick Ranch",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -105.695182,
+    41.447346,
+    -105.695182,
+    41.447346
+],
+  "geometry": {"coordinates":[-105.695182,41.447346],"type":"Point"}
+}

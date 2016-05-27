@@ -1,0 +1,73 @@
+{
+  "id": 874077123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595326,41.289159,-105.595326,41.289159",
+    "geom:latitude":41.289159,
+    "geom:longitude":-105.595326,
+    "iso:country":"US",
+    "sg:address":"2920 County Shop Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2534",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "grading",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YehLfM81Vdfw2v1gf0CVt_41.289159_-105.595326@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311521,
+    "wof:geomhash":"c4ad53ba85619cb8193e3283bed7695d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874077123
+        }
+    ],
+    "wof:id":874077123,
+    "wof:lastmodified":1464311521,
+    "wof:name":"Albany County Road Maintenance",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grading",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.595326,
+    41.289159,
+    -105.595326,
+    41.289159
+],
+  "geometry": {"coordinates":[-105.595326,41.289159],"type":"Point"}
+}

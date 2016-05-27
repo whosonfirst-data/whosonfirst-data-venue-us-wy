@@ -1,0 +1,71 @@
+{
+  "id": 874063471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.563427,41.306177,-105.563427,41.306177",
+    "geom:latitude":41.306177,
+    "geom:longitude":-105.563427,
+    "iso:country":"US",
+    "sg:address":"703 S 23rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6574",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f2vPRnDxoPmWkw3s9UPHy_41.306177_-105.563427@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311366,
+    "wof:geomhash":"f125bf4491d673ab299895dbd383132d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874063471
+        }
+    ],
+    "wof:id":874063471,
+    "wof:lastmodified":1464311366,
+    "wof:name":"Henry Bauer",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -105.563427,
+    41.306177,
+    -105.563427,
+    41.306177
+],
+  "geometry": {"coordinates":[-105.563427,41.306177],"type":"Point"}
+}

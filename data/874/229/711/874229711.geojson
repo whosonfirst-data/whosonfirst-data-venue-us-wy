@@ -1,0 +1,58 @@
+{
+  "id": 874229711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.402226,42.763034,-105.402226,42.763034",
+    "geom:latitude":42.763034,
+    "geom:longitude":-105.402226,
+    "iso:country":"US",
+    "sg:address":"1090 Yellowstone Hwy",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/douglas/206446-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bZzU4i8kTnpdzokKCyVqB_42.763034_-105.402226@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313157,
+    "wof:geomhash":"de59a9ea24c75a3fccd3a590894e62d8",
+    "wof:hierarchy":[],
+    "wof:id":874229711,
+    "wof:lastmodified":1464313157,
+    "wof:name":"McDonald's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -105.402226,
+    42.763034,
+    -105.402226,
+    42.763034
+],
+  "geometry": {"coordinates":[-105.402226,42.763034],"type":"Point"}
+}

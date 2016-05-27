@@ -1,0 +1,61 @@
+{
+  "id": 874205115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.36677,43.019438,-108.36677,43.019438",
+    "geom:latitude":43.019438,
+    "geom:longitude":-108.36677,
+    "iso:country":"US",
+    "sg:address":"1975 E Monroe Ave",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 857 1996",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WYIYw76vInsKRSI2heiJj_43.019438_-108.366770@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312896,
+    "wof:geomhash":"4d7d89558c16aaf799f93cad8cd5fd82",
+    "wof:hierarchy":[],
+    "wof:id":874205115,
+    "wof:lastmodified":1464312896,
+    "wof:name":"G Bar G Veterinary Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -108.36677,
+    43.019438,
+    -108.36677,
+    43.019438
+],
+  "geometry": {"coordinates":[-108.36677,43.019438],"type":"Point"}
+}

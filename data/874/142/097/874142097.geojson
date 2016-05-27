@@ -1,0 +1,51 @@
+{
+  "id": 874142097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.690549,43.245244,-108.690549,43.245244",
+    "geom:latitude":43.245244,
+    "geom:longitude":-108.690549,
+    "iso:country":"US",
+    "sg:address":"224 N Main St",
+    "sg:city":"Pavillion",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 6333",
+    "sg:postcode":"82523",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31jPba5wlGJZJLmMh6xGmh_43.245244_-108.690549@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312254,
+    "wof:geomhash":"ea4c5c8d3d6a6d9e6b6c40a711be2f9a",
+    "wof:hierarchy":[],
+    "wof:id":874142097,
+    "wof:lastmodified":1464312254,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.690549,
+    43.245244,
+    -108.690549,
+    43.245244
+],
+  "geometry": {"coordinates":[-108.690549,43.245244],"type":"Point"}
+}

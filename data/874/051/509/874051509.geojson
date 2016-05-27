@@ -1,0 +1,71 @@
+{
+  "id": 874051509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.384951,42.815723,-106.384951,42.815723",
+    "geom:latitude":42.815723,
+    "geom:longitude":-106.384951,
+    "iso:country":"US",
+    "sg:address":"5005 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1291",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3splxa6EUBfxhIMs9AnouE_42.815723_-106.384951@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311255,
+    "wof:geomhash":"2e49e53a5ccd436401afd2dc8b818be7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874051509
+        }
+    ],
+    "wof:id":874051509,
+    "wof:lastmodified":1464311255,
+    "wof:name":"C-Y Mini Storage",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -106.384951,
+    42.815723,
+    -106.384951,
+    42.815723
+],
+  "geometry": {"coordinates":[-106.384951,42.815723],"type":"Point"}
+}

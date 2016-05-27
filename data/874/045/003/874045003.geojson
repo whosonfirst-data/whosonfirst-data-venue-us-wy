@@ -1,0 +1,58 @@
+{
+  "id": 874045003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.804611,41.135605,-104.804611,41.135605",
+    "geom:latitude":41.135605,
+    "geom:longitude":-104.804611,
+    "iso:country":"US",
+    "sg:address":"701 E 15th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 5557",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u5RiCtvcx99G3UsHGmuYB_41.135605_-104.804611@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311194,
+    "wof:geomhash":"b185725aaaadefe3cfa29dc3f534d2cb",
+    "wof:hierarchy":[],
+    "wof:id":874045003,
+    "wof:lastmodified":1464311194,
+    "wof:name":"L G Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -104.804611,
+    41.135605,
+    -104.804611,
+    41.135605
+],
+  "geometry": {"coordinates":[-104.80461099999999,41.135605],"type":"Point"}
+}

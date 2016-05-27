@@ -1,0 +1,71 @@
+{
+  "id": 874138027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.410112,42.81589,-106.410112,42.81589",
+    "geom:latitude":42.81589,
+    "geom:longitude":-106.410112,
+    "iso:country":"US",
+    "sg:address":"361 Indian Paintbrush",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 2030",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "downspouts",
+        "gutter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AsJNImjPXSadNinxDmbDh_42.815890_-106.410112@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312218,
+    "wof:geomhash":"134fc1b73736858725ada2411e13a1ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874138027
+        }
+    ],
+    "wof:id":874138027,
+    "wof:lastmodified":1464312218,
+    "wof:name":"Thunderbird Seamless Gutter",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "downspouts",
+        "gutter"
+    ]
+},
+  "bbox": [
+    -106.410112,
+    42.81589,
+    -106.410112,
+    42.81589
+],
+  "geometry": {"coordinates":[-106.410112,42.81589],"type":"Point"}
+}

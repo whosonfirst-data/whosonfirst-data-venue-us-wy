@@ -1,0 +1,63 @@
+{
+  "id": 874135967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.803032,41.141698,-104.803032,41.141698",
+    "geom:latitude":41.141698,
+    "geom:longitude":-104.803032,
+    "iso:country":"US",
+    "sg:address":"1200 E 20th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 7700",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical",
+        "plan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i96md8jGMBcqQFganHRCt_41.141698_-104.803032@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312199,
+    "wof:geomhash":"f0ba63960b37bae3fa8cc64fb4b774eb",
+    "wof:hierarchy":[],
+    "wof:id":874135967,
+    "wof:lastmodified":1464312199,
+    "wof:name":"Win Health Partners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "plan"
+    ]
+},
+  "bbox": [
+    -104.803032,
+    41.141698,
+    -104.803032,
+    41.141698
+],
+  "geometry": {"coordinates":[-104.803032,41.141698],"type":"Point"}
+}

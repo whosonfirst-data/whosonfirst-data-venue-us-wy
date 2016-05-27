@@ -1,0 +1,58 @@
+{
+  "id": 874035267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.539616,41.878066,-106.539616,41.878066",
+    "geom:latitude":41.878066,
+    "geom:longitude":-106.539616,
+    "iso:country":"US",
+    "sg:address":"2105 2nd St",
+    "sg:city":"Hanna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 325 9373",
+    "sg:postcode":"82327",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79PeuG9kT5dbMa5IR6MEf8_41.878066_-106.539616@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311097,
+    "wof:geomhash":"910f06418737314eeb9dc966895337a4",
+    "wof:hierarchy":[],
+    "wof:id":874035267,
+    "wof:lastmodified":1464311097,
+    "wof:name":"Patton's Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -106.539616,
+    41.878066,
+    -106.539616,
+    41.878066
+],
+  "geometry": {"coordinates":[-106.539616,41.878066],"type":"Point"}
+}

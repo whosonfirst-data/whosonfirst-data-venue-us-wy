@@ -1,0 +1,71 @@
+{
+  "id": 873988451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.334901,42.851319,-106.334901,42.851319",
+    "geom:latitude":42.851319,
+    "geom:longitude":-106.334901,
+    "iso:country":"US",
+    "sg:address":"800 Antler Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0006",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Yw4P5WpqvoKzXqzG9ZadR_42.851319_-106.334901@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310679,
+    "wof:geomhash":"e4d490a035346cbc646046066d83f810",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873988451
+        }
+    ],
+    "wof:id":873988451,
+    "wof:lastmodified":1464310679,
+    "wof:name":"Casper Rental Agency",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -106.334901,
+    42.851319,
+    -106.334901,
+    42.851319
+],
+  "geometry": {"coordinates":[-106.334901,42.851319],"type":"Point"}
+}

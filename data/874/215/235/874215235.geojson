@@ -1,0 +1,58 @@
+{
+  "id": 874215235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955806,44.795439,-106.955806,44.795439",
+    "geom:latitude":44.795439,
+    "geom:longitude":-106.955806,
+    "iso:country":"US",
+    "sg:address":"203 S Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 8156",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SHXZaxfwSL76jjruneXYa_44.795439_-106.955806@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313007,
+    "wof:geomhash":"6d4e7fb1315c2254381eb9d72bd81d64",
+    "wof:hierarchy":[],
+    "wof:id":874215235,
+    "wof:lastmodified":1464313007,
+    "wof:name":"Public Defender",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -106.955806,
+    44.795439,
+    -106.955806,
+    44.795439
+],
+  "geometry": {"coordinates":[-106.955806,44.795439],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 873993497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.271639,42.856065,-106.271639,42.856065",
+    "geom:latitude":42.856065,
+    "geom:longitude":-106.271639,
+    "iso:country":"US",
+    "sg:address":"739 Luker Ln",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Race Track",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4801",
+    "sg:postcode":"82636",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cx2PpNq08KehKyCwIA1C8_42.856065_-106.271639@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310715,
+    "wof:geomhash":"ab71a1b7989e82525df06475681631d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873993497
+        }
+    ],
+    "wof:id":873993497,
+    "wof:lastmodified":1464310715,
+    "wof:name":"Wyoming Downs Off Track Bet",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.271639,
+    42.856065,
+    -106.271639,
+    42.856065
+],
+  "geometry": {"coordinates":[-106.27163899999999,42.856065],"type":"Point"}
+}

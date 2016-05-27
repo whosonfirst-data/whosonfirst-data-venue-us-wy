@@ -1,0 +1,66 @@
+{
+  "id": 874056965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592606,41.320754,-105.592606,41.320754",
+    "geom:latitude":41.320754,
+    "geom:longitude":-105.592606,
+    "iso:country":"US",
+    "sg:address":"960 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6616",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04eRmWRMj65y5xGfQa9f8U_41.320754_-105.592606@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311309,
+    "wof:geomhash":"b936ce473106ca63aa40369bddd333b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874056965
+        }
+    ],
+    "wof:id":874056965,
+    "wof:lastmodified":1464311309,
+    "wof:name":"Best Western Gas Lite Motel",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.592606,
+    41.320754,
+    -105.592606,
+    41.320754
+],
+  "geometry": {"coordinates":[-105.592606,41.320754],"type":"Point"}
+}

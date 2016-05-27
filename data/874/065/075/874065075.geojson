@@ -1,0 +1,77 @@
+{
+  "id": 874065075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.585578,41.292124,-105.585578,41.292124",
+    "geom:latitude":41.292124,
+    "geom:longitude":-105.585578,
+    "iso:country":"US",
+    "sg:address":"1100 Skyline Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6653",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "general",
+        "storage",
+        "warehousing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yjqdKfrW8y9u5gFUARRPc_41.292124_-105.585578@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311380,
+    "wof:geomhash":"301db962ea91e1c594e029cdc9f0ba56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874065075
+        }
+    ],
+    "wof:id":874065075,
+    "wof:lastmodified":1464311380,
+    "wof:name":"Vern's Self Storage",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "general",
+        "storage",
+        "warehousing"
+    ]
+},
+  "bbox": [
+    -105.585578,
+    41.292124,
+    -105.585578,
+    41.292124
+],
+  "geometry": {"coordinates":[-105.585578,41.292124],"type":"Point"}
+}

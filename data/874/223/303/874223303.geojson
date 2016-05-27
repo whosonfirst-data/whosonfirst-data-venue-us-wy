@@ -1,0 +1,63 @@
+{
+  "id": 874223303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.22253,41.587977,-109.22253,41.587977",
+    "geom:latitude":41.587977,
+    "geom:longitude":-109.22253,
+    "iso:country":"US",
+    "sg:address":"128 Elk St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 9333",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "diving",
+        "instruction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tyPw8K7B62EGky9PAFNVC_41.587977_-109.222530@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313097,
+    "wof:geomhash":"37c2773ea50c428ede09367a85158a83",
+    "wof:hierarchy":[],
+    "wof:id":874223303,
+    "wof:lastmodified":1464313097,
+    "wof:name":"Mountain Bay Scuba Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diving",
+        "instruction"
+    ]
+},
+  "bbox": [
+    -109.22253,
+    41.587977,
+    -109.22253,
+    41.587977
+],
+  "geometry": {"coordinates":[-109.22253000000001,41.587977],"type":"Point"}
+}

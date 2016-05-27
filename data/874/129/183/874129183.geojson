@@ -1,0 +1,56 @@
+{
+  "id": 874129183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.446259,41.500585,-109.446259,41.500585",
+    "geom:latitude":41.500585,
+    "geom:longitude":-109.446259,
+    "iso:country":"US",
+    "sg:address":"1830 Montana Way",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 1041",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FlR0zH262LJa3W8rnMhYJ_41.500585_-109.446259@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312124,
+    "wof:geomhash":"a057071fe9b930e0fa259beaab04f132",
+    "wof:hierarchy":[],
+    "wof:id":874129183,
+    "wof:lastmodified":1464312124,
+    "wof:name":"Cal Sanitation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -109.446259,
+    41.500585,
+    -109.446259,
+    41.500585
+],
+  "geometry": {"coordinates":[-109.446259,41.500585],"type":"Point"}
+}

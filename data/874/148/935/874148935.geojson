@@ -1,0 +1,51 @@
+{
+  "id": 874148935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.81853,41.150348,-104.81853,41.150348",
+    "geom:latitude":41.150348,
+    "geom:longitude":-104.81853,
+    "iso:country":"US",
+    "sg:address":"3715 Evans Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 0288",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s8M50C3rK8zk3k8BlHLr6_41.150348_-104.818530@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312319,
+    "wof:geomhash":"bfdc9593d7037ba5bbc6db9454df3af9",
+    "wof:hierarchy":[],
+    "wof:id":874148935,
+    "wof:lastmodified":1464312319,
+    "wof:name":"Cheyenne Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.81853,
+    41.150348,
+    -104.81853,
+    41.150348
+],
+  "geometry": {"coordinates":[-104.81853,41.150348],"type":"Point"}
+}

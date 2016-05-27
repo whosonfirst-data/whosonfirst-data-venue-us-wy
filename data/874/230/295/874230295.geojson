@@ -1,0 +1,61 @@
+{
+  "id": 874230295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.292995,41.327455,-110.292995,41.327455",
+    "geom:latitude":41.327455,
+    "geom:longitude":-110.292995,
+    "iso:country":"US",
+    "sg:address":"104 North Main Street",
+    "sg:city":"Lyman",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/bridger-valley/235565-taco-time/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 787 6528",
+    "sg:postcode":"82937",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vTaSSs0OKDeq1MkCOH1I4_41.327455_-110.292995@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313163,
+    "wof:geomhash":"04c8b4151c1a43812085ff332328bde3",
+    "wof:hierarchy":[],
+    "wof:id":874230295,
+    "wof:lastmodified":1464313163,
+    "wof:name":"Taco Time",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -110.292995,
+    41.327455,
+    -110.292995,
+    41.327455
+],
+  "geometry": {"coordinates":[-110.292995,41.327455],"type":"Point"}
+}

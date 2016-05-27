@@ -1,0 +1,71 @@
+{
+  "id": 874162793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.578328,41.318552,-105.578328,41.318552",
+    "geom:latitude":41.318552,
+    "geom:longitude":-105.578328,
+    "iso:country":"US",
+    "sg:address":"1402 E Harney St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4717",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6do7Mfrtorryl8ZiSEHD7q_41.318552_-105.578328@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312457,
+    "wof:geomhash":"69b35910fbe5c241f324028d4909e403",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874162793
+        }
+    ],
+    "wof:id":874162793,
+    "wof:lastmodified":1464312457,
+    "wof:name":"Bethel Baptist Church-Larmamie",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -105.578328,
+    41.318552,
+    -105.578328,
+    41.318552
+],
+  "geometry": {"coordinates":[-105.578328,41.318552],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 874135447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.053994,44.518038,-109.053994,44.518038",
+    "geom:latitude":44.518038,
+    "geom:longitude":-109.053994,
+    "iso:country":"US",
+    "sg:address":"1902 17th St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 2216",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T0zelHXDl2tSLaVO0uYy1_44.518038_-109.053994@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312195,
+    "wof:geomhash":"a06716506db097fac16da25045ee5cec",
+    "wof:hierarchy":[],
+    "wof:id":874135447,
+    "wof:lastmodified":1464312195,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -109.053994,
+    44.518038,
+    -109.053994,
+    44.518038
+],
+  "geometry": {"coordinates":[-109.053994,44.518038],"type":"Point"}
+}

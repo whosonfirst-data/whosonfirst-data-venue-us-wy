@@ -1,0 +1,58 @@
+{
+  "id": 874184399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.818293,41.143741,-104.818293,41.143741",
+    "geom:latitude":41.143741,
+    "geom:longitude":-104.818293,
+    "iso:country":"US",
+    "sg:address":"2810 House Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 771 2100",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "county",
+        "district"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AitB9SxUNvUB6SAhsn8Dm_41.143741_-104.818293@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312683,
+    "wof:geomhash":"f6ec64047bb2ef0c6472b1829770a063",
+    "wof:hierarchy":[],
+    "wof:id":874184399,
+    "wof:lastmodified":1464312683,
+    "wof:name":"Laramie County School Dist 01",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "district"
+    ]
+},
+  "bbox": [
+    -104.818293,
+    41.143741,
+    -104.818293,
+    41.143741
+],
+  "geometry": {"coordinates":[-104.818293,41.143741],"type":"Point"}
+}

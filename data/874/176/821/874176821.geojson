@@ -1,0 +1,66 @@
+{
+  "id": 874176821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.572229,41.321978,-105.572229,41.321978",
+    "geom:latitude":41.321978,
+    "geom:longitude":-105.572229,
+    "iso:country":"US",
+    "sg:address":"1162 N 19th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 2129",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YOdWx4vAuaoPpJ2IZVHrI_41.321978_-105.572229@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312595,
+    "wof:geomhash":"1ae414d7c4aaf540ebfb615fc9c3702e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874176821
+        }
+    ],
+    "wof:id":874176821,
+    "wof:lastmodified":1464312595,
+    "wof:name":"Aid Association For Lutherans",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.572229,
+    41.321978,
+    -105.572229,
+    41.321978
+],
+  "geometry": {"coordinates":[-105.57222899999999,41.321978],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874222027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591763,41.314996,-105.591763,41.314996",
+    "geom:latitude":41.314996,
+    "geom:longitude":-105.591763,
+    "iso:country":"US",
+    "sg:address":"369 N 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3362",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BGxM9ORrkosLZXqyFh3Ms_41.314996_-105.591763@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313084,
+    "wof:geomhash":"dc20e4520440383d74c78f8afe8ec839",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874222027
+        }
+    ],
+    "wof:id":874222027,
+    "wof:lastmodified":1464313084,
+    "wof:name":"Alpha Inspections",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -105.591763,
+    41.314996,
+    -105.591763,
+    41.314996
+],
+  "geometry": {"coordinates":[-105.591763,41.314996],"type":"Point"}
+}

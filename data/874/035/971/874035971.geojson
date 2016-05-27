@@ -1,0 +1,58 @@
+{
+  "id": 874035971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.851978,44.67152,-103.851978,44.67152",
+    "geom:latitude":44.67152,
+    "geom:longitude":-103.851978,
+    "iso:country":"US",
+    "sg:address":"617 State St",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 723 3343",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "music",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GoRrpr5ZANHCnaUt8wZGN_44.671520_-103.851978@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311104,
+    "wof:geomhash":"1f365182ecd195dc7509cbd4b048cb62",
+    "wof:hierarchy":[],
+    "wof:id":874035971,
+    "wof:lastmodified":1464311104,
+    "wof:name":"Edge Music",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -103.851978,
+    44.67152,
+    -103.851978,
+    44.67152
+],
+  "geometry": {"coordinates":[-103.851978,44.67152],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 874231729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.576327,41.309916,-105.576327,41.309916",
+    "geom:latitude":41.309916,
+    "geom:longitude":-105.576327,
+    "iso:country":"US",
+    "sg:address":"1604 E. Grand Ave.",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 9227",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plastic",
+        "polymer",
+        "resin",
+        "bioplastic",
+        "biopolymer"
+    ],
+    "sg:website":"http://www.ides.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65SEGnbGRSRmpdm2rWs2B7_41.309916_-105.576327@1308186499"
+    },
+    "wof:country":"US",
+    "wof:created":1464313183,
+    "wof:geomhash":"5ee3ed416009848052df292edaaa683f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874231729
+        }
+    ],
+    "wof:id":874231729,
+    "wof:lastmodified":1464313183,
+    "wof:name":"IDES - The Plastics Web\u00ae",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plastic",
+        "polymer",
+        "resin",
+        "bioplastic",
+        "biopolymer"
+    ]
+},
+  "bbox": [
+    -105.576327,
+    41.309916,
+    -105.576327,
+    41.309916
+],
+  "geometry": {"coordinates":[-105.57632700000001,41.309916],"type":"Point"}
+}

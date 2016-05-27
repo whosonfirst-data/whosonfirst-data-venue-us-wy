@@ -1,0 +1,69 @@
+{
+  "id": 874169247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.325245,42.855169,-106.325245,42.855169",
+    "geom:latitude":42.855169,
+    "geom:longitude":-106.325245,
+    "iso:country":"US",
+    "sg:address":"510 N Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 6600",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51syRBBPjoGyqeDgvv6pIs_42.855169_-106.325245@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312519,
+    "wof:geomhash":"df0d58182e1ec6be2bcc7cca235a10cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874169247
+        }
+    ],
+    "wof:id":874169247,
+    "wof:lastmodified":1464312519,
+    "wof:name":"Statewide Collections Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -106.325245,
+    42.855169,
+    -106.325245,
+    42.855169
+],
+  "geometry": {"coordinates":[-106.325245,42.855169],"type":"Point"}
+}

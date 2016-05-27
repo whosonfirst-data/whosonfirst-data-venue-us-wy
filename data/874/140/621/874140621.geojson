@@ -1,0 +1,52 @@
+{
+  "id": 874140621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.663766,43.546742,-109.663766,43.546742",
+    "geom:latitude":43.546742,
+    "geom:longitude":-109.663766,
+    "iso:country":"US",
+    "sg:address":"1412 Warm Springs Dr",
+    "sg:city":"Dubois",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 455 3694",
+    "sg:postcode":"82513",
+    "sg:province":"WY",
+    "sg:website":"www.super8.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dGsmFXOwGwhkENWSzXv0I_43.546742_-109.663766@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312240,
+    "wof:geomhash":"b7781c7a46409aa647910986dbc3663d",
+    "wof:hierarchy":[],
+    "wof:id":874140621,
+    "wof:lastmodified":1464312240,
+    "wof:name":"Super 8 Motel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.663766,
+    43.546742,
+    -109.663766,
+    43.546742
+],
+  "geometry": {"coordinates":[-109.663766,43.546742],"type":"Point"}
+}

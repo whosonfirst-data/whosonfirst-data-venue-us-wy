@@ -1,0 +1,58 @@
+{
+  "id": 874074707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.799509,41.070657,-104.799509,41.070657",
+    "geom:latitude":41.070657,
+    "geom:longitude":-104.799509,
+    "iso:country":"US",
+    "sg:address":"6525 S Greeley Hwy",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 777 4895",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yeiiD2o5QIONOaRAHAYft_41.070657_-104.799509@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311500,
+    "wof:geomhash":"e96852c0e0950cd604e489058ac68c4d",
+    "wof:hierarchy":[],
+    "wof:id":874074707,
+    "wof:lastmodified":1464311500,
+    "wof:name":"Transportation Dept Port-Entry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -104.799509,
+    41.070657,
+    -104.799509,
+    41.070657
+],
+  "geometry": {"coordinates":[-104.799509,41.070657],"type":"Point"}
+}

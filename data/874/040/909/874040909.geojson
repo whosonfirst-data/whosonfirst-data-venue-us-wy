@@ -1,0 +1,56 @@
+{
+  "id": 874040909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.450893,42.761057,-104.450893,42.761057",
+    "geom:latitude":42.761057,
+    "geom:longitude":-104.450893,
+    "iso:country":"US",
+    "sg:address":"416 S Elm St",
+    "sg:city":"Lusk",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 334 2240",
+    "sg:postcode":"82225",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cUoo7FcThw2aGenDDBQxw_42.761057_-104.450893@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311151,
+    "wof:geomhash":"ff83691836b0e07e09027e05fe51e18b",
+    "wof:hierarchy":[],
+    "wof:id":874040909,
+    "wof:lastmodified":1464311151,
+    "wof:name":"Niobrara County Sheriff Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -104.450893,
+    42.761057,
+    -104.450893,
+    42.761057
+],
+  "geometry": {"coordinates":[-104.45089299999999,42.761057],"type":"Point"}
+}

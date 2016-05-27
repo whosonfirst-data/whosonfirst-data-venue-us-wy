@@ -1,0 +1,64 @@
+{
+  "id": 874000531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.39192,42.855682,-106.39192,42.855682",
+    "geom:latitude":42.855682,
+    "geom:longitude":-106.39192,
+    "iso:country":"US",
+    "sg:address":"5081 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 0022",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E7qQWkBBXt03EsdybyShm_42.855682_-106.391920@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310764,
+    "wof:geomhash":"653a6bf9c00af5a420d6e5938614ddad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874000531
+        }
+    ],
+    "wof:id":874000531,
+    "wof:lastmodified":1464310764,
+    "wof:name":"Homes America",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.39192,
+    42.855682,
+    -106.39192,
+    42.855682
+],
+  "geometry": {"coordinates":[-106.39192,42.855682],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 874031453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.389014,44.840539,-108.389014,44.840539",
+    "geom:latitude":44.840539,
+    "geom:longitude":-108.389014,
+    "iso:country":"US",
+    "sg:address":"203 E 2nd St",
+    "sg:city":"Lovell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 548 2494",
+    "sg:postcode":"82431",
+    "sg:province":"WY",
+    "sg:tags":[
+        "driver",
+        "station",
+        "examination",
+        "license"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23K2ap18OHKlnk1YW4B2Ed_44.840539_-108.389014@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311061,
+    "wof:geomhash":"a3acb25b39dfa1e34b31754432c5b296",
+    "wof:hierarchy":[],
+    "wof:id":874031453,
+    "wof:lastmodified":1464311061,
+    "wof:name":"Wydot Drver Lcnse Exmntion Stn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "driver",
+        "station",
+        "examination",
+        "license"
+    ]
+},
+  "bbox": [
+    -108.389014,
+    44.840539,
+    -108.389014,
+    44.840539
+],
+  "geometry": {"coordinates":[-108.389014,44.840539],"type":"Point"}
+}

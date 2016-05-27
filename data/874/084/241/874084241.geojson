@@ -1,0 +1,71 @@
+{
+  "id": 874084241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.337093,42.921709,-106.337093,42.921709",
+    "geom:latitude":42.921709,
+    "geom:longitude":-106.337093,
+    "iso:country":"US",
+    "sg:address":"7040 Salt Creek Rte",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8981",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil",
+        "well"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wX9Y0OAdIeA9rSBqbupcp_42.921709_-106.337093@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311601,
+    "wof:geomhash":"c0707dcc34dce9ace686375b39320f37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874084241
+        }
+    ],
+    "wof:id":874084241,
+    "wof:lastmodified":1464311601,
+    "wof:name":"Schlumberger Well Services",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "well"
+    ]
+},
+  "bbox": [
+    -106.337093,
+    42.921709,
+    -106.337093,
+    42.921709
+],
+  "geometry": {"coordinates":[-106.337093,42.921709],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874046819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.493656,44.273517,-105.493656,44.273517",
+    "geom:latitude":44.273517,
+    "geom:longitude":-105.493656,
+    "iso:country":"US",
+    "sg:address":"814 Madison St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 238 5355",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "courier",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NyElc8vujzafVkGzRDGhV_44.273517_-105.493656@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311213,
+    "wof:geomhash":"37e9bde7a8382b5389d2453e618059ba",
+    "wof:hierarchy":[],
+    "wof:id":874046819,
+    "wof:lastmodified":1464311213,
+    "wof:name":"Fedex",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier",
+        "air"
+    ]
+},
+  "bbox": [
+    -105.493656,
+    44.273517,
+    -105.493656,
+    44.273517
+],
+  "geometry": {"coordinates":[-105.493656,44.273517],"type":"Point"}
+}

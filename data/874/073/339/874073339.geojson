@@ -1,0 +1,58 @@
+{
+  "id": 874073339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.052749,44.530659,-109.052749,44.530659",
+    "geom:latitude":44.530659,
+    "geom:longitude":-109.052749,
+    "iso:country":"US",
+    "sg:address":"619 18th St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 272 2442",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "correction",
+        "radon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Zm8FmHOEDbMTto0aU5rBw_44.530659_-109.052749@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311483,
+    "wof:geomhash":"d5bdd22ad2479666921684ffe1cd1cf6",
+    "wof:hierarchy":[],
+    "wof:id":874073339,
+    "wof:lastmodified":1464311483,
+    "wof:name":"Radon Detection & Control",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correction",
+        "radon"
+    ]
+},
+  "bbox": [
+    -109.052749,
+    44.530659,
+    -109.052749,
+    44.530659
+],
+  "geometry": {"coordinates":[-109.05274900000001,44.530659],"type":"Point"}
+}

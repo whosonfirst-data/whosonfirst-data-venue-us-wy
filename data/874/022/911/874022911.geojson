@@ -1,0 +1,79 @@
+{
+  "id": 874022911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.804902,41.159402,-104.804902,41.159402",
+    "geom:latitude":41.159402,
+    "geom:longitude":-104.804902,
+    "iso:country":"US",
+    "sg:address":"1450 Stillwater Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 9323",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "nurse",
+        "supply",
+        "help",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4enDULcsqSIylvIVckUE9d_41.159402_-104.804902@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310973,
+    "wof:geomhash":"d8ca6146e87b8f179c9337064a030747",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":874022911
+        }
+    ],
+    "wof:id":874022911,
+    "wof:lastmodified":1464310973,
+    "wof:name":"Nurses Connection Of Wyoming",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "supply",
+        "help",
+        "registry"
+    ]
+},
+  "bbox": [
+    -104.804902,
+    41.159402,
+    -104.804902,
+    41.159402
+],
+  "geometry": {"coordinates":[-104.804902,41.159402],"type":"Point"}
+}

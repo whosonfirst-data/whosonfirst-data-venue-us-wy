@@ -1,0 +1,71 @@
+{
+  "id": 874142609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.419006,42.87104,-106.419006,42.87104",
+    "geom:latitude":42.87104,
+    "geom:longitude":-106.419006,
+    "iso:country":"US",
+    "sg:address":"6375 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2068",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W2VS5ojlCsIcRnegj76vq_42.871040_-106.419006@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312258,
+    "wof:geomhash":"290aac6cb0b9a2ec5842dc7e16e1ef50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874142609
+        }
+    ],
+    "wof:id":874142609,
+    "wof:lastmodified":1464312258,
+    "wof:name":"Scherer Construction LLC",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.419006,
+    42.87104,
+    -106.419006,
+    42.87104
+],
+  "geometry": {"coordinates":[-106.419006,42.87104],"type":"Point"}
+}

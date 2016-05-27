@@ -1,0 +1,64 @@
+{
+  "id": 874219261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.29784,42.839439,-106.29784,42.839439",
+    "geom:latitude":42.839439,
+    "geom:longitude":-106.29784,
+    "iso:country":"US",
+    "sg:address":"1199 S Beverly St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5284",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07Kbuh653WEXK2AoW6fvFl_42.839439_-106.297840@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313047,
+    "wof:geomhash":"b69ada9b7bc90ba7b040661e8904598d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874219261
+        }
+    ],
+    "wof:id":874219261,
+    "wof:lastmodified":1464313047,
+    "wof:name":"Mini Mart 109",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.29784,
+    42.839439,
+    -106.29784,
+    42.839439
+],
+  "geometry": {"coordinates":[-106.29783999999999,42.839439],"type":"Point"}
+}

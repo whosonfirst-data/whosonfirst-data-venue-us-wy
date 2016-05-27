@@ -1,0 +1,61 @@
+{
+  "id": 874231583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.95815,41.26335,-110.95815,41.26335",
+    "geom:latitude":41.26335,
+    "geom:longitude":-110.95815,
+    "iso:country":"US",
+    "sg:address":"106 N 3rd St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/evanston/78187-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 7899",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ehWv7rGqQgr3JRdfHRhK0_41.263445_-110.958196@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464313181,
+    "wof:geomhash":"6af8d5e73633060546e69ddb5b440175",
+    "wof:hierarchy":[],
+    "wof:id":874231583,
+    "wof:lastmodified":1464313181,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -110.95815,
+    41.26335,
+    -110.95815,
+    41.26335
+],
+  "geometry": {"coordinates":[-110.95815,41.26335],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874078301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.29186,42.848705,-106.29186,42.848705",
+    "geom:latitude":42.848705,
+    "geom:longitude":-106.29186,
+    "iso:country":"US",
+    "sg:address":"2605 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 1954",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ge350rc95AK0BiYJ7zBNO_42.848705_-106.291860@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311531,
+    "wof:geomhash":"bfa2576dc146a4c584c7b3ab3a049f68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874078301
+        }
+    ],
+    "wof:id":874078301,
+    "wof:lastmodified":1464311531,
+    "wof:name":"Step N Fetch Shoe Repair",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.29186,
+    42.848705,
+    -106.29186,
+    42.848705
+],
+  "geometry": {"coordinates":[-106.29186,42.848705],"type":"Point"}
+}

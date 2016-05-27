@@ -1,0 +1,69 @@
+{
+  "id": 874127651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.274101,42.84781,-106.274101,42.84781",
+    "geom:latitude":42.84781,
+    "geom:longitude":-106.274101,
+    "iso:country":"US",
+    "sg:address":"301 Thelma Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 259 1059",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HbyxXb2y1AkO9HbFz7mIR_42.847810_-106.274101@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312108,
+    "wof:geomhash":"bd972aa5b6213a43f153a13132c21d1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874127651
+        }
+    ],
+    "wof:id":874127651,
+    "wof:lastmodified":1464312108,
+    "wof:name":"Clean Solutions",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -106.274101,
+    42.84781,
+    -106.274101,
+    42.84781
+],
+  "geometry": {"coordinates":[-106.274101,42.84781],"type":"Point"}
+}

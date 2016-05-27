@@ -1,0 +1,56 @@
+{
+  "id": 874019229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.110994,43.71884,-111.110994,43.71884",
+    "geom:latitude":43.71884,
+    "geom:longitude":-111.110994,
+    "iso:country":"US",
+    "sg:address":"115 S Main St",
+    "sg:city":"Driggs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 354 2312",
+    "sg:postcode":"83422",
+    "sg:province":"WY",
+    "sg:tags":[
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AB2TrLNLRYMSbQJiHtQLQ_43.718840_-111.110994@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310940,
+    "wof:geomhash":"5187b66e2ea6ca85bc202062cf7e1cb2",
+    "wof:hierarchy":[],
+    "wof:id":874019229,
+    "wof:lastmodified":1464310940,
+    "wof:name":"US Forest Svc District Ranger",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government"
+    ]
+},
+  "bbox": [
+    -111.110994,
+    43.71884,
+    -111.110994,
+    43.71884
+],
+  "geometry": {"coordinates":[-111.11099400000001,43.71884],"type":"Point"}
+}

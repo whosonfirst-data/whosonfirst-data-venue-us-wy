@@ -1,0 +1,69 @@
+{
+  "id": 874095721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.417652,42.814419,-106.417652,42.814419",
+    "geom:latitude":42.814419,
+    "geom:longitude":-106.417652,
+    "iso:country":"US",
+    "sg:address":"3431 Stagecoach Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 3615",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E7h66EvwGCoO4np0s3eqN_42.814419_-106.417652@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311721,
+    "wof:geomhash":"9d23c5eaccfb96376dbc8007d85386e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874095721
+        }
+    ],
+    "wof:id":874095721,
+    "wof:lastmodified":1464311721,
+    "wof:name":"Hollis Investments LLC",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -106.417652,
+    42.814419,
+    -106.417652,
+    42.814419
+],
+  "geometry": {"coordinates":[-106.417652,42.814419],"type":"Point"}
+}

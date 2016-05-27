@@ -1,0 +1,58 @@
+{
+  "id": 873988049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.74498,42.839797,-108.74498,42.839797",
+    "geom:latitude":42.839797,
+    "geom:longitude":-108.74498,
+    "iso:country":"US",
+    "sg:address":"595 W Main St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 4075",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gltYpsLKbsqzQss3IoBvH_42.839797_-108.744980@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310676,
+    "wof:geomhash":"a6aa9501b8ccfa6fc894be0d3a0f044e",
+    "wof:hierarchy":[],
+    "wof:id":873988049,
+    "wof:lastmodified":1464310676,
+    "wof:name":"Palmeno's Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.74498,
+    42.839797,
+    -108.74498,
+    42.839797
+],
+  "geometry": {"coordinates":[-108.74498,42.839797],"type":"Point"}
+}

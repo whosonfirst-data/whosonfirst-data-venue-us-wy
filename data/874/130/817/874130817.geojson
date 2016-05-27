@@ -1,0 +1,71 @@
+{
+  "id": 874130817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.30266,42.828739,-106.30266,42.828739",
+    "geom:latitude":42.828739,
+    "geom:longitude":-106.30266,
+    "iso:country":"US",
+    "sg:address":"2009 Eastbrook Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2425",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "photography",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U71LnJZiTwk1ta2cFlOTj_42.828739_-106.302660@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312147,
+    "wof:geomhash":"5270a53c6605ebb99a4ef08badb3371b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874130817
+        }
+    ],
+    "wof:id":874130817,
+    "wof:lastmodified":1464312147,
+    "wof:name":"Hubbell Rodeo Photos",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -106.30266,
+    42.828739,
+    -106.30266,
+    42.828739
+],
+  "geometry": {"coordinates":[-106.30266,42.828739],"type":"Point"}
+}

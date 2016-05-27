@@ -1,0 +1,56 @@
+{
+  "id": 874048333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.72513,44.76083,-108.72513,44.76083",
+    "geom:latitude":44.76083,
+    "geom:longitude":-108.72513,
+    "iso:country":"US",
+    "sg:address":"745 Hwy 14A",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 4192",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XRjq3vQu6ftxye5Vhc5f5_44.760830_-108.725130@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311226,
+    "wof:geomhash":"b606dde52b323801d0015fe9d007b54f",
+    "wof:hierarchy":[],
+    "wof:id":874048333,
+    "wof:lastmodified":1464311226,
+    "wof:name":"Big Horn Animal Care Ctr-Powel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -108.72513,
+    44.76083,
+    -108.72513,
+    44.76083
+],
+  "geometry": {"coordinates":[-108.72512999999999,44.76083],"type":"Point"}
+}

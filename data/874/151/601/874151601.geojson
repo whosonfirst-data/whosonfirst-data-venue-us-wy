@@ -1,0 +1,56 @@
+{
+  "id": 874151601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.368391,43.042441,-108.368391,43.042441",
+    "geom:latitude":43.042441,
+    "geom:longitude":-108.368391,
+    "iso:country":"US",
+    "sg:address":"1602 Debbie St",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 3708",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZygEy5qFDepas3hnji8xl_43.042441_-108.368391@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312343,
+    "wof:geomhash":"aed5ba1781d7e90bbd2fc752c56f3260",
+    "wof:hierarchy":[],
+    "wof:id":874151601,
+    "wof:lastmodified":1464312343,
+    "wof:name":"Carroll Septic Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -108.368391,
+    43.042441,
+    -108.368391,
+    43.042441
+],
+  "geometry": {"coordinates":[-108.368391,43.042441],"type":"Point"}
+}

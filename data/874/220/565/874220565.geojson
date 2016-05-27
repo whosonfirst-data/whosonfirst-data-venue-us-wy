@@ -1,0 +1,51 @@
+{
+  "id": 874220565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.979036,44.807386,-106.979036,44.807386",
+    "geom:latitude":44.807386,
+    "geom:longitude":-106.979036,
+    "iso:country":"US",
+    "sg:address":"1534 W 5th St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 7874",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PUCgFRa6PuPbWvp4UJLV1_44.807386_-106.979036@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313070,
+    "wof:geomhash":"38c82da3b493e4940c4b882be9531b74",
+    "wof:hierarchy":[],
+    "wof:id":874220565,
+    "wof:lastmodified":1464313070,
+    "wof:name":"Sheridan Surgical Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.979036,
+    44.807386,
+    -106.979036,
+    44.807386
+],
+  "geometry": {"coordinates":[-106.97903599999999,44.807386],"type":"Point"}
+}

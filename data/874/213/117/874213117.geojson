@@ -1,0 +1,75 @@
+{
+  "id": 874213117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594358,41.326167,-105.594358,41.326167",
+    "geom:latitude":41.326167,
+    "geom:longitude":-105.594358,
+    "iso:country":"US",
+    "sg:address":"122 E McConnel St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 9453",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Fl5TKI3xJVXKjQlE0BMc0_41.326167_-105.594358@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312985,
+    "wof:geomhash":"4b040423bca316743a50c8b4152f4ecc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874213117
+        }
+    ],
+    "wof:id":874213117,
+    "wof:lastmodified":1464312985,
+    "wof:name":"Laramie Machine Shop",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -105.594358,
+    41.326167,
+    -105.594358,
+    41.326167
+],
+  "geometry": {"coordinates":[-105.594358,41.326167],"type":"Point"}
+}

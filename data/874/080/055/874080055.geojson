@@ -1,0 +1,69 @@
+{
+  "id": 874080055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.32648,42.848608,-106.32648,42.848608",
+    "geom:latitude":42.848608,
+    "geom:longitude":-106.32648,
+    "iso:country":"US",
+    "sg:address":"111 W 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0821",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bbXwg1H3YmYwiVFNIhogf_42.848608_-106.326480@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311552,
+    "wof:geomhash":"6d72879c2c8de9f9cfff6068aa76c043",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874080055
+        }
+    ],
+    "wof:id":874080055,
+    "wof:lastmodified":1464311552,
+    "wof:name":"Miracle RW",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -106.32648,
+    42.848608,
+    -106.32648,
+    42.848608
+],
+  "geometry": {"coordinates":[-106.32648,42.848608],"type":"Point"}
+}

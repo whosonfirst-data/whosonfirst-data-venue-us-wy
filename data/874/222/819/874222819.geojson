@@ -1,0 +1,56 @@
+{
+  "id": 874222819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.831455,41.142782,-104.831455,41.142782",
+    "geom:latitude":41.142782,
+    "geom:longitude":-104.831455,
+    "iso:country":"US",
+    "sg:address":"3046 Snyder Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 5001",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H3iz6ehkzhpjY8tsl7WkW_41.142782_-104.831455@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313092,
+    "wof:geomhash":"83c19b3d6f8fd632d6f438b4a0599525",
+    "wof:hierarchy":[],
+    "wof:id":874222819,
+    "wof:lastmodified":1464313092,
+    "wof:name":"Recovery House",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -104.831455,
+    41.142782,
+    -104.831455,
+    41.142782
+],
+  "geometry": {"coordinates":[-104.83145500000001,41.142782],"type":"Point"}
+}

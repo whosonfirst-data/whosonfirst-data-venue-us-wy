@@ -1,0 +1,69 @@
+{
+  "id": 874124819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343615,42.810275,-106.343615,42.810275",
+    "geom:latitude":42.810275,
+    "geom:longitude":-106.343615,
+    "iso:country":"US",
+    "sg:address":"4330 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2252",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kcH8pjyEQP9MEE0YrBVOM_42.810275_-106.343615@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312084,
+    "wof:geomhash":"d1ffd68d0c26092ddda87ae3cf317277",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874124819
+        }
+    ],
+    "wof:id":874124819,
+    "wof:lastmodified":1464312084,
+    "wof:name":"Sunrise Images",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.343615,
+    42.810275,
+    -106.343615,
+    42.810275
+],
+  "geometry": {"coordinates":[-106.343615,42.810275],"type":"Point"}
+}

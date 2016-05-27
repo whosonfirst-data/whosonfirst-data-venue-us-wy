@@ -1,0 +1,71 @@
+{
+  "id": 874042907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.424537,42.879225,-106.424537,42.879225",
+    "geom:latitude":42.879225,
+    "geom:longitude":-106.424537,
+    "iso:country":"US",
+    "sg:address":"6672 Coal Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 0988",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil",
+        "well"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bzobjOP42d04kRUDyUjE8_42.879225_-106.424537@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311174,
+    "wof:geomhash":"d1a45ce2f08d92393d27f792e38aa9bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874042907
+        }
+    ],
+    "wof:id":874042907,
+    "wof:lastmodified":1464311174,
+    "wof:name":"Fuller Petroleum Consulting",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "well"
+    ]
+},
+  "bbox": [
+    -106.424537,
+    42.879225,
+    -106.424537,
+    42.879225
+],
+  "geometry": {"coordinates":[-106.424537,42.879225],"type":"Point"}
+}

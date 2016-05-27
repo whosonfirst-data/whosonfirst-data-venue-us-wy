@@ -1,0 +1,58 @@
+{
+  "id": 874225425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.818117,41.136924,-104.818117,41.136924",
+    "geom:latitude":41.136924,
+    "geom:longitude":-104.818117,
+    "iso:country":"US",
+    "sg:address":"2022 Capitol Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 6253",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eMjKm3HVFmnO2dkWqJWdd_41.136924_-104.818117@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313115,
+    "wof:geomhash":"ea97024b8a3fee2b3a4aae100b97986a",
+    "wof:hierarchy":[],
+    "wof:id":874225425,
+    "wof:lastmodified":1464313115,
+    "wof:name":"Cheyenne Public City Bus",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -104.818117,
+    41.136924,
+    -104.818117,
+    41.136924
+],
+  "geometry": {"coordinates":[-104.818117,41.136924],"type":"Point"}
+}

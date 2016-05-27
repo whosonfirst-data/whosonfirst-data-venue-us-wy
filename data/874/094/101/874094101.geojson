@@ -1,0 +1,60 @@
+{
+  "id": 874094101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.632196,43.536101,-109.632196,43.536101",
+    "geom:latitude":43.536101,
+    "geom:longitude":-109.632196,
+    "iso:country":"US",
+    "sg:address":"113 Mercantile St",
+    "sg:city":"Dubois",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 455 4021",
+    "sg:postcode":"82513",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cat",
+        "dog",
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mp7oS4no90vLGOPuHGuSx_43.536101_-109.632196@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311704,
+    "wof:geomhash":"26115b8f6ea5804f2b4baf9e376f1525",
+    "wof:hierarchy":[],
+    "wof:id":874094101,
+    "wof:lastmodified":1464311704,
+    "wof:name":"Pampered Pets",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cat",
+        "dog",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -109.632196,
+    43.536101,
+    -109.632196,
+    43.536101
+],
+  "geometry": {"coordinates":[-109.63219599999999,43.536101],"type":"Point"}
+}

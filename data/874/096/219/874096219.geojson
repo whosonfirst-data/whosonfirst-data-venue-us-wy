@@ -1,0 +1,73 @@
+{
+  "id": 874096219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.576629,41.326498,-105.576629,41.326498",
+    "geom:latitude":41.326498,
+    "geom:longitude":-105.576629,
+    "iso:country":"US",
+    "sg:address":"1667 N 15th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3319",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zdsf8xYfoZTU1DxXv7kD4_41.326498_-105.576629@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311731,
+    "wof:geomhash":"6fd756f5e522aaa215671d9760c72117",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874096219
+        }
+    ],
+    "wof:id":874096219,
+    "wof:lastmodified":1464311731,
+    "wof:name":"Grooman Graphics",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -105.576629,
+    41.326498,
+    -105.576629,
+    41.326498
+],
+  "geometry": {"coordinates":[-105.576629,41.326498],"type":"Point"}
+}

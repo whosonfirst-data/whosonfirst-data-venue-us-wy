@@ -1,0 +1,56 @@
+{
+  "id": 874101255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.819871,41.135334,-104.819871,41.135334",
+    "geom:latitude":41.135334,
+    "geom:longitude":-104.819871,
+    "iso:country":"US",
+    "sg:address":"1910 Pioneer Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 633 4751",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eNZ1xBktdXW5gW2vn4jec_41.135334_-104.819871@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311809,
+    "wof:geomhash":"f2f17947a726a81cfaee041c71ccb245",
+    "wof:hierarchy":[],
+    "wof:id":874101255,
+    "wof:lastmodified":1464311809,
+    "wof:name":"Laramie County Crime Prvntn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -104.819871,
+    41.135334,
+    -104.819871,
+    41.135334
+],
+  "geometry": {"coordinates":[-104.81987100000001,41.135334],"type":"Point"}
+}

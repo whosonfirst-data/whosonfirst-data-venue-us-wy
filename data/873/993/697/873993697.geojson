@@ -1,0 +1,71 @@
+{
+  "id": 873993697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594117,41.306304,-105.594117,41.306304",
+    "geom:latitude":41.306304,
+    "geom:longitude":-105.594117,
+    "iso:country":"US",
+    "sg:address":"800 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7339",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KGh4xcdfOTwDucFa5RdIR_41.306304_-105.594117@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310716,
+    "wof:geomhash":"5916ea736fcd761d9f568440c6757ade",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873993697
+        }
+    ],
+    "wof:id":873993697,
+    "wof:lastmodified":1464310716,
+    "wof:name":"Laramie Chamber of Commerce",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -105.594117,
+    41.306304,
+    -105.594117,
+    41.306304
+],
+  "geometry": {"coordinates":[-105.594117,41.306304],"type":"Point"}
+}

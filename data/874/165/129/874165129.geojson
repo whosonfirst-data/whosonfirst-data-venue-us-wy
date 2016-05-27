@@ -1,0 +1,51 @@
+{
+  "id": 874165129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.959769,44.797073,-106.959769,44.797073",
+    "geom:latitude":44.797073,
+    "geom:longitude":-106.959769,
+    "iso:country":"US",
+    "sg:address":"26 S Thurmond St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 0275",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03wEoeo77WwAI2tWIHiu0X_44.797073_-106.959769@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312481,
+    "wof:geomhash":"824ce1656fc748ccb0350fa5c194e4b1",
+    "wof:hierarchy":[],
+    "wof:id":874165129,
+    "wof:lastmodified":1464312481,
+    "wof:name":"Healthworks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.959769,
+    44.797073,
+    -106.959769,
+    44.797073
+],
+  "geometry": {"coordinates":[-106.95976899999999,44.797073],"type":"Point"}
+}

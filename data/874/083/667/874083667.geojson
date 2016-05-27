@@ -1,0 +1,58 @@
+{
+  "id": 874083667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955842,44.794586,-106.955842,44.794586",
+    "geom:latitude":44.794586,
+    "geom:longitude":-106.955842,
+    "iso:country":"US",
+    "sg:address":"297 S Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 5174",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "county",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n78pzejvIoq96wAuZNgBj_44.794586_-106.955842@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311596,
+    "wof:geomhash":"5fc582d137070815df6c0ab79f7d6a76",
+    "wof:hierarchy":[],
+    "wof:id":874083667,
+    "wof:lastmodified":1464311596,
+    "wof:name":"Sheridan County Wic Program",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "resource"
+    ]
+},
+  "bbox": [
+    -106.955842,
+    44.794586,
+    -106.955842,
+    44.794586
+],
+  "geometry": {"coordinates":[-106.955842,44.794586],"type":"Point"}
+}

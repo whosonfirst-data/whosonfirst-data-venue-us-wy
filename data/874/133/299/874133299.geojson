@@ -1,0 +1,58 @@
+{
+  "id": 874133299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.345542,42.136874,-104.345542,42.136874",
+    "geom:latitude":42.136874,
+    "geom:longitude":-104.345542,
+    "iso:country":"US",
+    "sg:address":"312 Main St",
+    "sg:city":"Lingle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 837 2655",
+    "sg:postcode":"82223",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kmXBXQoLza4ID1RgMRaXR_42.136874_-104.345542@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312175,
+    "wof:geomhash":"2fb036a9c5eafa88bb9913cabe072c5a",
+    "wof:hierarchy":[],
+    "wof:id":874133299,
+    "wof:lastmodified":1464312175,
+    "wof:name":"Car Craft Body Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -104.345542,
+    42.136874,
+    -104.345542,
+    42.136874
+],
+  "geometry": {"coordinates":[-104.34554199999999,42.136874],"type":"Point"}
+}

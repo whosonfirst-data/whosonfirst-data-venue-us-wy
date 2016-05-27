@@ -1,0 +1,63 @@
+{
+  "id": 874066993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.053236,44.523878,-109.053236,44.523878",
+    "geom:latitude":44.523878,
+    "geom:longitude":-109.053236,
+    "iso:country":"US",
+    "sg:address":"1701 Alger Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 3861",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "reservation",
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LOROQsZgRcxpPvBU87ypD_44.523878_-109.053236@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311397,
+    "wof:geomhash":"ce9d60d6429fa126a66c02144f357f6a",
+    "wof:hierarchy":[],
+    "wof:id":874066993,
+    "wof:lastmodified":1464311397,
+    "wof:name":"Cody's Wigwam Motel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reservation",
+        "operation"
+    ]
+},
+  "bbox": [
+    -109.053236,
+    44.523878,
+    -109.053236,
+    44.523878
+],
+  "geometry": {"coordinates":[-109.053236,44.523878],"type":"Point"}
+}

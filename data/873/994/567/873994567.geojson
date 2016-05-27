@@ -1,0 +1,64 @@
+{
+  "id": 873994567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323673,42.846888,-106.323673,42.846888",
+    "geom:latitude":42.846888,
+    "geom:longitude":-106.323673,
+    "iso:country":"US",
+    "sg:address":"303 S Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 233 4303",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pU2H8yvGLlpSvBYTvGytX_42.846888_-106.323673@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310723,
+    "wof:geomhash":"7632b86581c2b4d102a5396121faa937",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873994567
+        }
+    ],
+    "wof:id":873994567,
+    "wof:lastmodified":1464310723,
+    "wof:name":"303",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.323673,
+    42.846888,
+    -106.323673,
+    42.846888
+],
+  "geometry": {"coordinates":[-106.323673,42.846888],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874138657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.851914,44.677121,-103.851914,44.677121",
+    "geom:latitude":44.677121,
+    "geom:longitude":-103.851914,
+    "iso:country":"US",
+    "sg:address":"202 6th Ave",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 4648",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02I25DTvIS7YQHk0sDbDw9_44.677121_-103.851914@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312224,
+    "wof:geomhash":"ec7d112f2e7f2558994cf2086c176c1a",
+    "wof:hierarchy":[],
+    "wof:id":874138657,
+    "wof:lastmodified":1464312224,
+    "wof:name":"Can AM Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -103.851914,
+    44.677121,
+    -103.851914,
+    44.677121
+],
+  "geometry": {"coordinates":[-103.85191399999999,44.677121],"type":"Point"}
+}

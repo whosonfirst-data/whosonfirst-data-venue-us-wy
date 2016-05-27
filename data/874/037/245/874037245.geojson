@@ -1,0 +1,71 @@
+{
+  "id": 874037245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.602579,41.308689,-105.602579,41.308689",
+    "geom:latitude":41.308689,
+    "geom:longitude":-105.602579,
+    "iso:country":"US",
+    "sg:address":"608 S Spruce St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3689",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5upWHzmrdV8yj5PQScgQIW_41.308689_-105.602579@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311118,
+    "wof:geomhash":"1acfd06fa2dbcdc409fade9ec8e5184d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874037245
+        }
+    ],
+    "wof:id":874037245,
+    "wof:lastmodified":1464311118,
+    "wof:name":"Riverside Chapel Assembly-God",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -105.602579,
+    41.308689,
+    -105.602579,
+    41.308689
+],
+  "geometry": {"coordinates":[-105.60257900000001,41.308689],"type":"Point"}
+}

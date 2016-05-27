@@ -1,0 +1,71 @@
+{
+  "id": 874172343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.28958,42.855374,-106.28958,42.855374",
+    "geom:latitude":42.855374,
+    "geom:longitude":-106.28958,
+    "iso:country":"US",
+    "sg:address":"3110 E Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 3722",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5foJk7ttXCiHRrqm180ly8_42.855374_-106.289580@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312553,
+    "wof:geomhash":"ba1dd4091df2c33a3c060f63dc021e88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874172343
+        }
+    ],
+    "wof:id":874172343,
+    "wof:lastmodified":1464312553,
+    "wof:name":"Yellowstone Auto Plex",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -106.28958,
+    42.855374,
+    -106.28958,
+    42.855374
+],
+  "geometry": {"coordinates":[-106.28958,42.855374],"type":"Point"}
+}

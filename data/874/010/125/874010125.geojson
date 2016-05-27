@@ -1,0 +1,71 @@
+{
+  "id": 874010125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.437025,42.87899,-106.437025,42.87899",
+    "geom:latitude":42.87899,
+    "geom:longitude":-106.437025,
+    "iso:country":"US",
+    "sg:address":"2354 Brush Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 0843",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "amusement",
+        "devices"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DwZ244fn76wPZ3SgJsrnB_42.878990_-106.437025@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310856,
+    "wof:geomhash":"76d01ba9011b19e894a409d0b140aac7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874010125
+        }
+    ],
+    "wof:id":874010125,
+    "wof:lastmodified":1464310856,
+    "wof:name":"Wyoming Amusement",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "amusement",
+        "devices"
+    ]
+},
+  "bbox": [
+    -106.437025,
+    42.87899,
+    -106.437025,
+    42.87899
+],
+  "geometry": {"coordinates":[-106.43702500000001,42.87899],"type":"Point"}
+}

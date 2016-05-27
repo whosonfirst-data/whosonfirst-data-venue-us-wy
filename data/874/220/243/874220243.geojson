@@ -1,0 +1,74 @@
+{
+  "id": 874220243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.218922,41.585757,-109.218922,41.585757",
+    "geom:latitude":41.585757,
+    "geom:longitude":-109.218922,
+    "iso:country":"US",
+    "sg:address":"215 D St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 3736",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.rocketminer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EyYpKWxSznd0W9hYNCJI9_41.585757_-109.218922@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313064,
+    "wof:geomhash":"a9e359c51768fb1ebefbca932ee5cb42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874220243
+        }
+    ],
+    "wof:id":874220243,
+    "wof:lastmodified":1464313064,
+    "wof:name":"Daily Rocket-Miner",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -109.218922,
+    41.585757,
+    -109.218922,
+    41.585757
+],
+  "geometry": {"coordinates":[-109.21892200000001,41.585757],"type":"Point"}
+}

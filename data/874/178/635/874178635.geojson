@@ -1,0 +1,69 @@
+{
+  "id": 874178635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.318165,42.848163,-106.318165,42.848163",
+    "geom:latitude":42.848163,
+    "geom:longitude":-106.318165,
+    "iso:country":"US",
+    "sg:address":"242 S Park St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 3843",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PWLiBDY5s098eaLJgq2Vd_42.848163_-106.318165@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312615,
+    "wof:geomhash":"16e7c5e6ff8591a30f29ed8b522c6f40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874178635
+        }
+    ],
+    "wof:id":874178635,
+    "wof:lastmodified":1464312615,
+    "wof:name":"Reeves & Miller Law Offices",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -106.318165,
+    42.848163,
+    -106.318165,
+    42.848163
+],
+  "geometry": {"coordinates":[-106.31816499999999,42.848163],"type":"Point"}
+}

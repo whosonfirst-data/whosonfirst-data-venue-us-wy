@@ -1,0 +1,56 @@
+{
+  "id": 874206589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.889011,42.045059,-104.889011,42.045059",
+    "geom:latitude":42.045059,
+    "geom:longitude":-104.889011,
+    "iso:country":"US",
+    "sg:address":"355 Antelope Gap Rd",
+    "sg:city":"Wheatland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 322 3771",
+    "sg:postcode":"82201",
+    "sg:province":"WY",
+    "sg:tags":[
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gQN8LUhHa7EPoH8sYXcoR_42.045059_-104.889011@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312910,
+    "wof:geomhash":"7ccb23cbc9075c73a5422ab0776564ea",
+    "wof:hierarchy":[],
+    "wof:id":874206589,
+    "wof:lastmodified":1464312910,
+    "wof:name":"In-Transit",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -104.889011,
+    42.045059,
+    -104.889011,
+    42.045059
+],
+  "geometry": {"coordinates":[-104.889011,42.045059],"type":"Point"}
+}

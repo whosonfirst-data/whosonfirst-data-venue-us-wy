@@ -1,0 +1,56 @@
+{
+  "id": 874062665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.962455,42.055184,-104.962455,42.055184",
+    "geom:latitude":42.055184,
+    "geom:longitude":-104.962455,
+    "iso:country":"US",
+    "sg:address":"1557 Maple St",
+    "sg:city":"Wheatland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 322 3227",
+    "sg:postcode":"82201",
+    "sg:province":"WY",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17MqQZthVwfPkUibbHZKaP_42.055184_-104.962455@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311359,
+    "wof:geomhash":"0d60247f3aa0677bdcafaa4fd6e76f22",
+    "wof:hierarchy":[],
+    "wof:id":874062665,
+    "wof:lastmodified":1464311359,
+    "wof:name":"Tom's Custom Upholstery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -104.962455,
+    42.055184,
+    -104.962455,
+    42.055184
+],
+  "geometry": {"coordinates":[-104.96245500000001,42.055184],"type":"Point"}
+}

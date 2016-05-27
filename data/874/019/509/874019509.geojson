@@ -1,0 +1,56 @@
+{
+  "id": 874019509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.641612,43.537816,-109.641612,43.537816",
+    "geom:latitude":43.537816,
+    "geom:longitude":-109.641612,
+    "iso:country":"US",
+    "sg:address":"712 Meckem St",
+    "sg:city":"Dubois",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 455 2920",
+    "sg:postcode":"82513",
+    "sg:province":"WY",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zZQyOfTn0wnI8aozICMFA_43.537816_-109.641612@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310943,
+    "wof:geomhash":"39a7ae87e52beb153927b50ab3d20add",
+    "wof:hierarchy":[],
+    "wof:id":874019509,
+    "wof:lastmodified":1464310943,
+    "wof:name":"Fremont County Circuit Court",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -109.641612,
+    43.537816,
+    -109.641612,
+    43.537816
+],
+  "geometry": {"coordinates":[-109.64161199999999,43.537816],"type":"Point"}
+}

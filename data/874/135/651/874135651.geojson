@@ -1,0 +1,69 @@
+{
+  "id": 874135651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.298462,42.850176,-106.298462,42.850176",
+    "geom:latitude":42.850176,
+    "geom:longitude":-106.298462,
+    "iso:country":"US",
+    "sg:address":"1924 E 1st St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 5151",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "legal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ihCLHRfys27DrmSM41dLO_42.850176_-106.298462@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312196,
+    "wof:geomhash":"70ae3a61f2cd7e0752c225c46ddc368d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874135651
+        }
+    ],
+    "wof:id":874135651,
+    "wof:lastmodified":1464312196,
+    "wof:name":"Douglaus R McLaughlin Atty",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "legal"
+    ]
+},
+  "bbox": [
+    -106.298462,
+    42.850176,
+    -106.298462,
+    42.850176
+],
+  "geometry": {"coordinates":[-106.298462,42.850176],"type":"Point"}
+}

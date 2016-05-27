@@ -1,0 +1,71 @@
+{
+  "id": 874123193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.331624,42.772923,-106.331624,42.772923",
+    "geom:latitude":42.772923,
+    "geom:longitude":-106.331624,
+    "iso:country":"US",
+    "sg:address":"6817 S Rotary Park Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 5833",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fijlU7XBPtDc4sIQzQtZ9_42.772923_-106.331624@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312070,
+    "wof:geomhash":"1cc24faa0fa4244effe630d87e4b5d4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874123193
+        }
+    ],
+    "wof:id":874123193,
+    "wof:lastmodified":1464312070,
+    "wof:name":"Paradise Liquors & Lounge",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -106.331624,
+    42.772923,
+    -106.331624,
+    42.772923
+],
+  "geometry": {"coordinates":[-106.33162400000001,42.772923],"type":"Point"}
+}

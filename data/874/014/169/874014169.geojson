@@ -1,0 +1,70 @@
+{
+  "id": 874014169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.332401,42.83845,-106.332401,42.83845",
+    "geom:latitude":42.83845,
+    "geom:longitude":-106.332401,
+    "iso:country":"US",
+    "sg:address":"669 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 3722",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "screen"
+    ],
+    "sg:website":"www.nobet-shirts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yPlZ0Nft4SUECAwQDE2PB_42.838450_-106.332401@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310884,
+    "wof:geomhash":"fba143c3ec65149736419380460f2059",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874014169
+        }
+    ],
+    "wof:id":874014169,
+    "wof:lastmodified":1464310884,
+    "wof:name":"Nobe Screen Printing",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "screen"
+    ]
+},
+  "bbox": [
+    -106.332401,
+    42.83845,
+    -106.332401,
+    42.83845
+],
+  "geometry": {"coordinates":[-106.332401,42.83845],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874094429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.45349,42.950015,-106.45349,42.950015",
+    "geom:latitude":42.950015,
+    "geom:longitude":-106.45349,
+    "iso:country":"US",
+    "sg:address":"8451 Haines Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 0817",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ranch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eTZ342Hcq5MMRCV1jUj4W_42.950015_-106.453490@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311707,
+    "wof:geomhash":"085d43115a03bc95770f4203221159b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874094429
+        }
+    ],
+    "wof:id":874094429,
+    "wof:lastmodified":1464311707,
+    "wof:name":"Forgy Ranch Co",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranch"
+    ]
+},
+  "bbox": [
+    -106.45349,
+    42.950015,
+    -106.45349,
+    42.950015
+],
+  "geometry": {"coordinates":[-106.45349,42.950015],"type":"Point"}
+}

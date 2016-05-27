@@ -1,0 +1,79 @@
+{
+  "id": 873999935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.587986,41.287663,-105.587986,41.287663",
+    "geom:latitude":41.287663,
+    "geom:longitude":-105.587986,
+    "iso:country":"US",
+    "sg:address":"2931 Soldier Springs Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5452",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "analytical",
+        "laboratory",
+        "testing",
+        "proficiency",
+        "standard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_762tpEHuuSBlQ64zy7IgBv_41.287663_-105.587986@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310760,
+    "wof:geomhash":"cba0cc2ba1523bb1b298c4ec5fb9c517",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873999935
+        }
+    ],
+    "wof:id":873999935,
+    "wof:lastmodified":1464310760,
+    "wof:name":"R T C",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "analytical",
+        "laboratory",
+        "testing",
+        "proficiency",
+        "standard"
+    ]
+},
+  "bbox": [
+    -105.587986,
+    41.287663,
+    -105.587986,
+    41.287663
+],
+  "geometry": {"coordinates":[-105.587986,41.287663],"type":"Point"}
+}

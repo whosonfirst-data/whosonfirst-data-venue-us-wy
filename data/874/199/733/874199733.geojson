@@ -1,0 +1,71 @@
+{
+  "id": 874199733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.47392,41.521251,-109.47392,41.521251",
+    "geom:latitude":41.521251,
+    "geom:longitude":-109.47392,
+    "iso:country":"US",
+    "sg:address":"335 Fir St",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 6615",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "door",
+        "devices",
+        "contractor",
+        "operating",
+        "gate",
+        "carpentry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ND7KJ00JKDyd88Cq9zbtF_41.521251_-109.473920@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312841,
+    "wof:geomhash":"2ae321cb15c21f265380887860979a06",
+    "wof:hierarchy":[],
+    "wof:id":874199733,
+    "wof:lastmodified":1464312841,
+    "wof:name":"Southwest Doors Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door",
+        "devices",
+        "contractor",
+        "operating",
+        "gate",
+        "carpentry"
+    ]
+},
+  "bbox": [
+    -109.47392,
+    41.521251,
+    -109.47392,
+    41.521251
+],
+  "geometry": {"coordinates":[-109.47392000000001,41.521251],"type":"Point"}
+}

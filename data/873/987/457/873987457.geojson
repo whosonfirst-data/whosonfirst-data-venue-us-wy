@@ -1,0 +1,58 @@
+{
+  "id": 873987457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.790878,41.10219,-104.790878,41.10219",
+    "geom:latitude":41.10219,
+    "geom:longitude":-104.790878,
+    "iso:country":"US",
+    "sg:address":"711 E College Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 432 9600",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ldkKH5K63jzBPR8v56kM4_41.102190_-104.790878@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310672,
+    "wof:geomhash":"ee90a372846e148fa38454f1483db6cf",
+    "wof:hierarchy":[],
+    "wof:id":873987457,
+    "wof:lastmodified":1464310672,
+    "wof:name":"College Drive Self Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -104.790878,
+    41.10219,
+    -104.790878,
+    41.10219
+],
+  "geometry": {"coordinates":[-104.79087800000001,41.10219],"type":"Point"}
+}

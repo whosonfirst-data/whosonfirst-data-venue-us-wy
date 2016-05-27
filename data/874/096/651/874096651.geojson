@@ -1,0 +1,71 @@
+{
+  "id": 874096651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.310578,42.848694,-106.310578,42.848694",
+    "geom:latitude":42.848694,
+    "geom:longitude":-106.310578,
+    "iso:country":"US",
+    "sg:address":"1125 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 4225",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NIFzYCzGVlOIrpZwnISZy_42.848694_-106.310578@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311739,
+    "wof:geomhash":"ffc99c64cf0f0c2e358c2c7368f2ea06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874096651
+        }
+    ],
+    "wof:id":874096651,
+    "wof:lastmodified":1464311739,
+    "wof:name":"Womens Health Assoc-Wyoming",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -106.310578,
+    42.848694,
+    -106.310578,
+    42.848694
+],
+  "geometry": {"coordinates":[-106.31057800000001,42.848694],"type":"Point"}
+}

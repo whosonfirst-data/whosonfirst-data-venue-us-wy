@@ -1,0 +1,56 @@
+{
+  "id": 874204727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.245382,41.790634,-107.245382,41.790634",
+    "geom:latitude":41.790634,
+    "geom:longitude":-107.245382,
+    "iso:country":"US",
+    "sg:address":"819 W Maple St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 2219",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XrF8EfJ4lUNBs9tTXe5BC_41.790634_-107.245382@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312891,
+    "wof:geomhash":"3059899ad283da2f606f6cc346f5ce78",
+    "wof:hierarchy":[],
+    "wof:id":874204727,
+    "wof:lastmodified":1464312891,
+    "wof:name":"Rawlins Optometric Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -107.245382,
+    41.790634,
+    -107.245382,
+    41.790634
+],
+  "geometry": {"coordinates":[-107.24538200000001,41.790634],"type":"Point"}
+}

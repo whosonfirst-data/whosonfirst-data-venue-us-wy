@@ -1,0 +1,58 @@
+{
+  "id": 874166381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.52857,44.320334,-105.52857,44.320334",
+    "geom:latitude":44.320334,
+    "geom:longitude":-105.52857,
+    "iso:country":"US",
+    "sg:address":"1912 Ratcliff Dr",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 0765",
+    "sg:postcode":"82717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HfVIJTNL1yBrm94JveaII_44.320334_-105.528570@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312493,
+    "wof:geomhash":"6ebfea1f3551433b992e388994eaa2a1",
+    "wof:hierarchy":[],
+    "wof:id":874166381,
+    "wof:lastmodified":1464312493,
+    "wof:name":"Pump Sales & Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -105.52857,
+    44.320334,
+    -105.52857,
+    44.320334
+],
+  "geometry": {"coordinates":[-105.52857,44.320334],"type":"Point"}
+}

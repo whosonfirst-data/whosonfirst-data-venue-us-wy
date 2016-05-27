@@ -1,0 +1,56 @@
+{
+  "id": 874061557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.381178,42.75937,-105.381178,42.75937",
+    "geom:latitude":42.75937,
+    "geom:longitude":-105.381178,
+    "iso:country":"US",
+    "sg:address":"111 S 5th St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 8433",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "nurse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30S2JNmCzJyV6bfOhA7Rwk_42.759370_-105.381178@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311349,
+    "wof:geomhash":"ba16ba509e0db09affa7963118344815",
+    "wof:hierarchy":[],
+    "wof:id":874061557,
+    "wof:lastmodified":1464311349,
+    "wof:name":"Family Practice Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse"
+    ]
+},
+  "bbox": [
+    -105.381178,
+    42.75937,
+    -105.381178,
+    42.75937
+],
+  "geometry": {"coordinates":[-105.38117800000001,42.75937],"type":"Point"}
+}

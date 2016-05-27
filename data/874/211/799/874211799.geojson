@@ -1,0 +1,56 @@
+{
+  "id": 874211799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.855141,44.662282,-103.855141,44.662282",
+    "geom:latitude":44.662282,
+    "geom:longitude":-103.855141,
+    "iso:country":"US",
+    "sg:address":"1400 Mill St",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 4020",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mtsiZBQBf5nWKTVvGz6w9_44.662282_-103.855141@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312972,
+    "wof:geomhash":"9160966de1c05e6daa17234836ce6cea",
+    "wof:hierarchy":[],
+    "wof:id":874211799,
+    "wof:lastmodified":1464312972,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -103.855141,
+    44.662282,
+    -103.855141,
+    44.662282
+],
+  "geometry": {"coordinates":[-103.855141,44.662282],"type":"Point"}
+}

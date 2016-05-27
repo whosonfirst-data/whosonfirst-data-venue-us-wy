@@ -1,0 +1,64 @@
+{
+  "id": 874181345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.355299,42.808161,-106.355299,42.808161",
+    "geom:latitude":42.808161,
+    "geom:longitude":-106.355299,
+    "iso:country":"US",
+    "sg:address":"2554 Rainbow Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 8616",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Hzus62XDtqHFV8IO280FE_42.808161_-106.355299@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312644,
+    "wof:geomhash":"1335b0e3da1c5434200b98cdcd28296d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874181345
+        }
+    ],
+    "wof:id":874181345,
+    "wof:lastmodified":1464312644,
+    "wof:name":"Lori Murphy",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.355299,
+    42.808161,
+    -106.355299,
+    42.808161
+],
+  "geometry": {"coordinates":[-106.355299,42.808161],"type":"Point"}
+}

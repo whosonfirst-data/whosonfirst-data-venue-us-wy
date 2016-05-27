@@ -1,0 +1,56 @@
+{
+  "id": 874012621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.800983,41.12583,-104.800983,41.12583",
+    "geom:latitude":41.12583,
+    "geom:longitude":-104.800983,
+    "iso:country":"US",
+    "sg:address":"413 Seymour Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 771 2450",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CC8VbRFZlqE3S7Em1ZiJj_41.125830_-104.800983@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310873,
+    "wof:geomhash":"7abfc2760d33ed60cc8cdf2c9c05b397",
+    "wof:hierarchy":[],
+    "wof:id":874012621,
+    "wof:lastmodified":1464310873,
+    "wof:name":"Hebard Elementary School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -104.800983,
+    41.12583,
+    -104.800983,
+    41.12583
+],
+  "geometry": {"coordinates":[-104.800983,41.12583],"type":"Point"}
+}

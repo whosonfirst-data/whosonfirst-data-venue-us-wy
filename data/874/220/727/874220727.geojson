@@ -1,0 +1,56 @@
+{
+  "id": 874220727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.737539,42.833611,-108.737539,42.833611",
+    "geom:latitude":42.833611,
+    "geom:longitude":-108.737539,
+    "iso:country":"US",
+    "sg:address":"177 N 3 St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 9032",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v91CSQbcb4QAIkWzefSJY_42.833611_-108.737539@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313072,
+    "wof:geomhash":"625d92ca3d641b0f09d0ac5b92be1b71",
+    "wof:hierarchy":[],
+    "wof:id":874220727,
+    "wof:lastmodified":1464313072,
+    "wof:name":"US District Court",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -108.737539,
+    42.833611,
+    -108.737539,
+    42.833611
+],
+  "geometry": {"coordinates":[-108.737539,42.833611],"type":"Point"}
+}

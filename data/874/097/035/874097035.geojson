@@ -1,0 +1,71 @@
+{
+  "id": 874097035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.564926,41.309957,-105.564926,41.309957",
+    "geom:latitude":41.309957,
+    "geom:longitude":-105.564926,
+    "iso:country":"US",
+    "sg:address":"222 S 22nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 2300",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "conservation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W9USDN5hAKlLk93y48oFg_41.309957_-105.564926@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311744,
+    "wof:geomhash":"a058fd9e05d0eb5b62f04d70304b9b30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874097035
+        }
+    ],
+    "wof:id":874097035,
+    "wof:lastmodified":1464311744,
+    "wof:name":"Laramie Ranger District",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conservation"
+    ]
+},
+  "bbox": [
+    -105.564926,
+    41.309957,
+    -105.564926,
+    41.309957
+],
+  "geometry": {"coordinates":[-105.564926,41.309957],"type":"Point"}
+}

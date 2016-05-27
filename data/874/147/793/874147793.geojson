@@ -1,0 +1,51 @@
+{
+  "id": 874147793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.055298,44.494485,-108.055298,44.494485",
+    "geom:latitude":44.494485,
+    "geom:longitude":-108.055298,
+    "iso:country":"US",
+    "sg:address":"500 N 6th St",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 2162",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4l4t7eIpJprd7hVL4OwTSW_44.494485_-108.055298@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312309,
+    "wof:geomhash":"3c7a553e5aedd7fd9c89b3dc68793c85",
+    "wof:hierarchy":[],
+    "wof:id":874147793,
+    "wof:lastmodified":1464312309,
+    "wof:name":"Express Mart",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.055298,
+    44.494485,
+    -108.055298,
+    44.494485
+],
+  "geometry": {"coordinates":[-108.05529799999999,44.494485],"type":"Point"}
+}

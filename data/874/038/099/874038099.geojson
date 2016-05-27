@@ -1,0 +1,64 @@
+{
+  "id": 874038099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343597,42.81034,-106.343597,42.81034",
+    "geom:latitude":42.81034,
+    "geom:longitude":-106.343597,
+    "iso:country":"US",
+    "sg:address":"4360 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1595",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KgoI5m3ZP9zQ8rPqqeTWG_42.810340_-106.343597@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311126,
+    "wof:geomhash":"4c2762a53844ac782ee07c77f4b809c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874038099
+        }
+    ],
+    "wof:id":874038099,
+    "wof:lastmodified":1464311126,
+    "wof:name":"Sunrise Coffee Cafe",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.343597,
+    42.81034,
+    -106.343597,
+    42.81034
+],
+  "geometry": {"coordinates":[-106.343597,42.81034],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 873994709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.765625,43.575367,-109.765625,43.575367",
+    "geom:latitude":43.575367,
+    "geom:longitude":-109.765625,
+    "iso:country":"US",
+    "sg:address":"114 Uphill Rd",
+    "sg:city":"Dubois",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 455 4090",
+    "sg:postcode":"82513",
+    "sg:province":"WY",
+    "sg:tags":[
+        "instruction",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oR1oyN43bxzHC2hRMlZoR_43.575367_-109.765625@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310724,
+    "wof:geomhash":"454f33ee78602f2c8525be73fea9b8a5",
+    "wof:hierarchy":[],
+    "wof:id":873994709,
+    "wof:lastmodified":1464310724,
+    "wof:name":"Limberpine Associates Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "care"
+    ]
+},
+  "bbox": [
+    -109.765625,
+    43.575367,
+    -109.765625,
+    43.575367
+],
+  "geometry": {"coordinates":[-109.765625,43.575367],"type":"Point"}
+}

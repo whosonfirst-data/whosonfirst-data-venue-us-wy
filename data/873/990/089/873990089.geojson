@@ -1,0 +1,71 @@
+{
+  "id": 873990089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.299221,42.85399,-106.299221,42.85399",
+    "geom:latitude":42.85399,
+    "geom:longitude":-106.299221,
+    "iso:country":"US",
+    "sg:address":"2021 E Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 6255",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MDmljR5qf3sTx8DCdmcgN_42.853990_-106.299221@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310690,
+    "wof:geomhash":"933b6bb8cd67515edaa12e1d5fc4ac7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873990089
+        }
+    ],
+    "wof:id":873990089,
+    "wof:lastmodified":1464310690,
+    "wof:name":"Checker Auto Parts 1104",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -106.299221,
+    42.85399,
+    -106.299221,
+    42.85399
+],
+  "geometry": {"coordinates":[-106.299221,42.85399],"type":"Point"}
+}

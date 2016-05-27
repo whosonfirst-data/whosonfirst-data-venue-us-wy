@@ -1,0 +1,69 @@
+{
+  "id": 874094181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.293612,42.848693,-106.293612,42.848693",
+    "geom:latitude":42.848693,
+    "geom:longitude":-106.293612,
+    "iso:country":"US",
+    "sg:address":"2555 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 6540",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22jUrMeGxycHw5vl4a0857_42.848693_-106.293612@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311705,
+    "wof:geomhash":"4012b50a32d1c499233f27e712e00bd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874094181
+        }
+    ],
+    "wof:id":874094181,
+    "wof:lastmodified":1464311705,
+    "wof:name":"First Southern Baptist Church",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -106.293612,
+    42.848693,
+    -106.293612,
+    42.848693
+],
+  "geometry": {"coordinates":[-106.293612,42.848693],"type":"Point"}
+}

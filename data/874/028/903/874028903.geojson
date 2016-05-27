@@ -1,0 +1,73 @@
+{
+  "id": 874028903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.392619,42.856909,-106.392619,42.856909",
+    "geom:latitude":42.856909,
+    "geom:longitude":-106.392619,
+    "iso:country":"US",
+    "sg:address":"699 N 5th Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 3539",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "glass",
+        "auto",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m08ahN81SsIB4xMBRxLwq_42.856909_-106.392619@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311038,
+    "wof:geomhash":"2b4e86503b7a61e2a36cf852164a2b81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874028903
+        }
+    ],
+    "wof:id":874028903,
+    "wof:lastmodified":1464311038,
+    "wof:name":"Fastbreak Auto Glass",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "auto",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -106.392619,
+    42.856909,
+    -106.392619,
+    42.856909
+],
+  "geometry": {"coordinates":[-106.392619,42.856909],"type":"Point"}
+}

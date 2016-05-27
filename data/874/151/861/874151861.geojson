@@ -1,0 +1,66 @@
+{
+  "id": 874151861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.557588,41.307823,-105.557588,41.307823",
+    "geom:latitude":41.307823,
+    "geom:longitude":-105.557588,
+    "iso:country":"US",
+    "sg:address":"404 S 30th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 5915",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LdjjJDokZZ8AVX3fh0e0o_41.307823_-105.557588@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312345,
+    "wof:geomhash":"9add51d577250822f23fa12fa0f525a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874151861
+        }
+    ],
+    "wof:id":874151861,
+    "wof:lastmodified":1464312345,
+    "wof:name":"Laramie Senior Housing",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.557588,
+    41.307823,
+    -105.557588,
+    41.307823
+],
+  "geometry": {"coordinates":[-105.557588,41.307823],"type":"Point"}
+}

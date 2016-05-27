@@ -1,0 +1,59 @@
+{
+  "id": 874231107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.944376,44.787451,-106.944376,44.787451",
+    "geom:latitude":44.787451,
+    "geom:longitude":-106.944376,
+    "iso:country":"US",
+    "sg:address":"1001 Coffeen Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/sheridan/135379-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 673 1693",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qDsvtm5T4x3k1P0OULUag_44.787994_-106.944931@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313175,
+    "wof:geomhash":"0ed50611b69692f77b4322959dbf0ffe",
+    "wof:hierarchy":[],
+    "wof:id":874231107,
+    "wof:lastmodified":1464313175,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -106.944376,
+    44.787451,
+    -106.944376,
+    44.787451
+],
+  "geometry": {"coordinates":[-106.94437600000001,44.787451],"type":"Point"}
+}

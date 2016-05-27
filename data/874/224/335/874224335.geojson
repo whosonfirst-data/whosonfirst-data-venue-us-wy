@@ -1,0 +1,56 @@
+{
+  "id": 874224335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.153258,43.826847,-104.153258,43.826847",
+    "geom:latitude":43.826847,
+    "geom:longitude":-104.153258,
+    "iso:country":"US",
+    "sg:address":"11 Foothills Dr",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 3336",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74xpVN75DXwLeOGLEm0Y3O_43.826847_-104.153258@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313106,
+    "wof:geomhash":"2f05ba5694543e90c3d790a97e6470ab",
+    "wof:hierarchy":[],
+    "wof:id":874224335,
+    "wof:lastmodified":1464313106,
+    "wof:name":"R & H Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage"
+    ]
+},
+  "bbox": [
+    -104.153258,
+    43.826847,
+    -104.153258,
+    43.826847
+],
+  "geometry": {"coordinates":[-104.15325799999999,43.826847],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874072739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.285088,42.846429,-106.285088,42.846429",
+    "geom:latitude":42.846429,
+    "geom:longitude":-106.285088,
+    "iso:country":"US",
+    "sg:address":"425 S Socony Pl",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 6325",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vagR5ZtMF9ekSg480twHw_42.846429_-106.285088@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311472,
+    "wof:geomhash":"68e76b8cae908b3c2fbbe66e836df461",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874072739
+        }
+    ],
+    "wof:id":874072739,
+    "wof:lastmodified":1464311472,
+    "wof:name":"Perry Construction",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.285088,
+    42.846429,
+    -106.285088,
+    42.846429
+],
+  "geometry": {"coordinates":[-106.285088,42.846429],"type":"Point"}
+}

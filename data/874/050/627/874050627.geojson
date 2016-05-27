@@ -1,0 +1,66 @@
+{
+  "id": 874050627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.621656,41.310141,-105.621656,41.310141",
+    "geom:latitude":41.310141,
+    "geom:longitude":-105.621656,
+    "iso:country":"US",
+    "sg:address":"319 S Buchanan St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3863",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e5KjmaP9att8cQQqXSewy_41.310141_-105.621656@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311246,
+    "wof:geomhash":"5016734f3a297a8041fdd6e27da8557d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874050627
+        }
+    ],
+    "wof:id":874050627,
+    "wof:lastmodified":1464311246,
+    "wof:name":"Absolute Dsign Cstm Shlving HM",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.621656,
+    41.310141,
+    -105.621656,
+    41.310141
+],
+  "geometry": {"coordinates":[-105.621656,41.310141],"type":"Point"}
+}

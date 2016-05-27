@@ -1,0 +1,56 @@
+{
+  "id": 874039751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.188581,42.064552,-104.188581,42.064552",
+    "geom:latitude":42.064552,
+    "geom:longitude":-104.188581,
+    "iso:country":"US",
+    "sg:address":"336 W Valley Rd",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 7001",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WdM4vYD0gYZu5trROfPjx_42.064552_-104.188581@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311141,
+    "wof:geomhash":"ac23a5a139addd057e5aba1cb4467af3",
+    "wof:hierarchy":[],
+    "wof:id":874039751,
+    "wof:lastmodified":1464311141,
+    "wof:name":"Torrington Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -104.188581,
+    42.064552,
+    -104.188581,
+    42.064552
+],
+  "geometry": {"coordinates":[-104.188581,42.064552],"type":"Point"}
+}

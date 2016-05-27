@@ -1,0 +1,58 @@
+{
+  "id": 874215305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955681,44.801404,-106.955681,44.801404",
+    "geom:latitude":44.801404,
+    "geom:longitude":-106.955681,
+    "iso:country":"US",
+    "sg:address":"333 N Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 9454",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q164ctKbnqloiOBkJpqcO_44.801404_-106.955681@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313007,
+    "wof:geomhash":"1a1ebeced3f307f233183a491b4af6ef",
+    "wof:hierarchy":[],
+    "wof:id":874215305,
+    "wof:lastmodified":1464313007,
+    "wof:name":"A Plus Plumbers Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.955681,
+    44.801404,
+    -106.955681,
+    44.801404
+],
+  "geometry": {"coordinates":[-106.955681,44.801404],"type":"Point"}
+}

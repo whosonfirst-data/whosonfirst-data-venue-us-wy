@@ -1,0 +1,71 @@
+{
+  "id": 874214653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.381371,42.757768,-105.381371,42.757768",
+    "geom:latitude":42.757768,
+    "geom:longitude":-105.381371,
+    "iso:country":"US",
+    "sg:address":"222 S 5th St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 9769",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "drug",
+        "equipment",
+        "health",
+        "home",
+        "store",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7S5kJQYlggnz3ENT7mMa26_42.757768_-105.381371@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313001,
+    "wof:geomhash":"db99a47b518ac73bc51b1e7da5d2c56c",
+    "wof:hierarchy":[],
+    "wof:id":874214653,
+    "wof:lastmodified":1464313001,
+    "wof:name":"Dave's Home Oxygen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "equipment",
+        "health",
+        "home",
+        "store",
+        "care"
+    ]
+},
+  "bbox": [
+    -105.381371,
+    42.757768,
+    -105.381371,
+    42.757768
+],
+  "geometry": {"coordinates":[-105.381371,42.757768],"type":"Point"}
+}

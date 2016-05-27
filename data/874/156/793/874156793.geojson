@@ -1,0 +1,60 @@
+{
+  "id": 874156793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.020916,41.401156,-111.020916,41.401156",
+    "geom:latitude":41.401156,
+    "geom:longitude":-111.020916,
+    "iso:country":"US",
+    "sg:address":"242 Quarter Horse Dr",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 0733",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o0CjFaLbo7mgqWWNsUc8Q_41.401156_-111.020916@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312397,
+    "wof:geomhash":"93fa9ea206b6a9f9b751635408e23133",
+    "wof:hierarchy":[],
+    "wof:id":874156793,
+    "wof:lastmodified":1464312397,
+    "wof:name":"8 Lazy K Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.020916,
+    41.401156,
+    -111.020916,
+    41.401156
+],
+  "geometry": {"coordinates":[-111.020916,41.401156],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874009595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.768441,41.156537,-104.768441,41.156537",
+    "geom:latitude":41.156537,
+    "geom:longitude":-104.768441,
+    "iso:country":"US",
+    "sg:address":"4302 Ridge Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 6809",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SVqc7QPCdlaU5Kv8uevOy_41.156537_-104.768441@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310852,
+    "wof:geomhash":"6d25410d10c473d532f8715806a279b6",
+    "wof:hierarchy":[],
+    "wof:id":874009595,
+    "wof:lastmodified":1464310852,
+    "wof:name":"Palmers Auto Service Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -104.768441,
+    41.156537,
+    -104.768441,
+    41.156537
+],
+  "geometry": {"coordinates":[-104.768441,41.156537],"type":"Point"}
+}

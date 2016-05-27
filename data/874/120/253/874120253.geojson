@@ -1,0 +1,58 @@
+{
+  "id": 874120253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.40759,42.7511,-105.40759,42.7511",
+    "geom:latitude":42.7511,
+    "geom:longitude":-105.40759,
+    "iso:country":"US",
+    "sg:address":"49 Esterbrook Rd",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 3255",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plant",
+        "packing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BP5BLUFzbcP7gdUJZrsGB_42.751100_-105.407590@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312043,
+    "wof:geomhash":"310d181f72280f98cc7c1b6fe4beacf4",
+    "wof:hierarchy":[],
+    "wof:id":874120253,
+    "wof:lastmodified":1464312043,
+    "wof:name":"Douglas Meat Processing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "packing"
+    ]
+},
+  "bbox": [
+    -105.40759,
+    42.7511,
+    -105.40759,
+    42.7511
+],
+  "geometry": {"coordinates":[-105.40759,42.7511],"type":"Point"}
+}

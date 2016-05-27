@@ -1,0 +1,64 @@
+{
+  "id": 874093453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.306689,42.848907,-106.306689,42.848907",
+    "geom:latitude":42.848907,
+    "geom:longitude":-106.306689,
+    "iso:country":"US",
+    "sg:address":"111 S Wilson St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 232 5100",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zrGq6SRfD3LEQCzArmpup_42.848907_-106.306689@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311698,
+    "wof:geomhash":"e6f1135504507b31d57ab56c0fb56c27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874093453
+        }
+    ],
+    "wof:id":874093453,
+    "wof:lastmodified":1464311698,
+    "wof:name":"Hearthside",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.306689,
+    42.848907,
+    -106.306689,
+    42.848907
+],
+  "geometry": {"coordinates":[-106.30668900000001,42.848907],"type":"Point"}
+}

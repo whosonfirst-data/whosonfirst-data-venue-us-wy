@@ -1,0 +1,60 @@
+{
+  "id": 874103401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.819471,41.138904,-104.819471,41.138904",
+    "geom:latitude":41.138904,
+    "geom:longitude":-104.819471,
+    "iso:country":"US",
+    "sg:address":"2300 Capitol Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 777 7656",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "administration",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pVp6YooPCi5VXCy3Iwq85_41.138904_-104.819471@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311837,
+    "wof:geomhash":"ba3ea770e717381adf52f18d9a2990c0",
+    "wof:hierarchy":[],
+    "wof:id":874103401,
+    "wof:lastmodified":1464311837,
+    "wof:name":"Department of Health Wyoming",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administration",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -104.819471,
+    41.138904,
+    -104.819471,
+    41.138904
+],
+  "geometry": {"coordinates":[-104.81947099999999,41.138904],"type":"Point"}
+}

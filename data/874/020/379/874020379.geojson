@@ -1,0 +1,73 @@
+{
+  "id": 874020379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.579944,41.328515,-105.579944,41.328515",
+    "geom:latitude":41.328515,
+    "geom:longitude":-105.579944,
+    "iso:country":"US",
+    "sg:address":"1222 Downey St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 9453",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "balloon",
+        "artist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oPrHAWMhJMifDriDAEAig_41.328515_-105.579944@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310952,
+    "wof:geomhash":"8091ec7261a5c03d2203183c8c93d3ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874020379
+        }
+    ],
+    "wof:id":874020379,
+    "wof:lastmodified":1464310952,
+    "wof:name":"Balloon Creations Svc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "balloon",
+        "artist"
+    ]
+},
+  "bbox": [
+    -105.579944,
+    41.328515,
+    -105.579944,
+    41.328515
+],
+  "geometry": {"coordinates":[-105.579944,41.328515],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874163771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.510667,41.294337,-105.510667,41.294337",
+    "geom:latitude":41.294337,
+    "geom:longitude":-105.510667,
+    "iso:country":"US",
+    "sg:address":"50 Black Elk Trl",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4674",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43m8hAn4iUBbXLzAJXqq8M_41.294337_-105.510667@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312467,
+    "wof:geomhash":"4c01cb7a074dc4fec0caab4bae8b4e8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874163771
+        }
+    ],
+    "wof:id":874163771,
+    "wof:lastmodified":1464312467,
+    "wof:name":"Floors Galore",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [
+    -105.510667,
+    41.294337,
+    -105.510667,
+    41.294337
+],
+  "geometry": {"coordinates":[-105.510667,41.294337],"type":"Point"}
+}

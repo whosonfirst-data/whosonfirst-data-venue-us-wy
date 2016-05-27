@@ -1,0 +1,73 @@
+{
+  "id": 874006247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.605453,41.31477,-105.605453,41.31477",
+    "geom:latitude":41.31477,
+    "geom:longitude":-105.605453,
+    "iso:country":"US",
+    "sg:address":"549 State Hwy 230",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7044",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1U1Ibk2IE2Ae4kdXy1msA2_41.314770_-105.605453@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310827,
+    "wof:geomhash":"0af028b9cb6820a3aa566caa02b3555e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874006247
+        }
+    ],
+    "wof:id":874006247,
+    "wof:lastmodified":1464310827,
+    "wof:name":"Pugh Trash Svc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -105.605453,
+    41.31477,
+    -105.605453,
+    41.31477
+],
+  "geometry": {"coordinates":[-105.605453,41.31477],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 874230359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.771585,43.505583,-110.771585,43.505583",
+    "geom:latitude":43.505583,
+    "geom:longitude":-110.771585,
+    "iso:country":"US",
+    "sg:address":"1800 Spirit Dance Rd.",
+    "sg:city":"Jackson Hole",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/jackson-hole/236552-the-granary/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 732 8112",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51SowIgQRD3qoWBGkPRg0E_43.505583_-110.771585@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313163,
+    "wof:geomhash":"82c572e583e0814bcec1fa2827881931",
+    "wof:hierarchy":[],
+    "wof:id":874230359,
+    "wof:lastmodified":1464313163,
+    "wof:name":"The Granary",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -110.771585,
+    43.505583,
+    -110.771585,
+    43.505583
+],
+  "geometry": {"coordinates":[-110.771585,43.505583],"type":"Point"}
+}

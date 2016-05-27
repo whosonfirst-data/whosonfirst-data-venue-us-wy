@@ -1,0 +1,56 @@
+{
+  "id": 874123649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.849587,44.677297,-103.849587,44.677297",
+    "geom:latitude":44.677297,
+    "geom:longitude":-103.849587,
+    "iso:country":"US",
+    "sg:address":"183 8th Ave",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 3530",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54FFqIfFy9dkFysATvd6Na_44.677297_-103.849587@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312074,
+    "wof:geomhash":"5108221fbc8defb9b9b7c0a323844345",
+    "wof:hierarchy":[],
+    "wof:id":874123649,
+    "wof:lastmodified":1464312074,
+    "wof:name":"Belle Fourche Landfill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -103.849587,
+    44.677297,
+    -103.849587,
+    44.677297
+],
+  "geometry": {"coordinates":[-103.849587,44.677297],"type":"Point"}
+}

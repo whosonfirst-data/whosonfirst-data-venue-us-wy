@@ -1,0 +1,56 @@
+{
+  "id": 874170379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.489967,44.28175,-105.489967,44.28175",
+    "geom:latitude":44.28175,
+    "geom:longitude":-105.489967,
+    "iso:country":"US",
+    "sg:address":"806 Camel Dr",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 0606",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C5ACDxLBUmhxpvb6HD3iU_44.281750_-105.489967@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312530,
+    "wof:geomhash":"338c8dd008038f587f1e030feddf815c",
+    "wof:hierarchy":[],
+    "wof:id":874170379,
+    "wof:lastmodified":1464312530,
+    "wof:name":"McDonalds",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -105.489967,
+    44.28175,
+    -105.489967,
+    44.28175
+],
+  "geometry": {"coordinates":[-105.48996699999999,44.28175],"type":"Point"}
+}

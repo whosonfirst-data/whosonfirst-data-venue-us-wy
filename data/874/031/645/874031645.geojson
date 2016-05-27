@@ -1,0 +1,56 @@
+{
+  "id": 874031645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.957602,41.271345,-110.957602,41.271345",
+    "geom:latitude":41.271345,
+    "geom:longitude":-110.957602,
+    "iso:country":"US",
+    "sg:address":"202 Bear River Dr",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 6830",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a5xB21TaGGINu1wLJNi9b_41.271345_-110.957602@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311063,
+    "wof:geomhash":"9048910379715a246f2916ea96ef4058",
+    "wof:hierarchy":[],
+    "wof:id":874031645,
+    "wof:lastmodified":1464311063,
+    "wof:name":"Classic Lodge Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -110.957602,
+    41.271345,
+    -110.957602,
+    41.271345
+],
+  "geometry": {"coordinates":[-110.95760199999999,41.271345],"type":"Point"}
+}

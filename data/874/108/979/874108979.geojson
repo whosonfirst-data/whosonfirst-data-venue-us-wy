@@ -1,0 +1,59 @@
+{
+  "id": 874108979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.239935,41.787102,-107.239935,41.787102",
+    "geom:latitude":41.787102,
+    "geom:longitude":-107.239935,
+    "iso:country":"US",
+    "sg:address":"106 5th St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 3521",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "sg:website":"www.usps.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QEHLOIOwcNyUSmDA7xod8_41.787102_-107.239935@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311903,
+    "wof:geomhash":"f6de7f8b8c9d6a0bb3c8565a088f32df",
+    "wof:hierarchy":[],
+    "wof:id":874108979,
+    "wof:lastmodified":1464311903,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -107.239935,
+    41.787102,
+    -107.239935,
+    41.787102
+],
+  "geometry": {"coordinates":[-107.239935,41.787102],"type":"Point"}
+}

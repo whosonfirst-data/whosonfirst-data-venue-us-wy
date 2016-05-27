@@ -1,0 +1,56 @@
+{
+  "id": 874218885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.225925,41.586791,-109.225925,41.586791",
+    "geom:latitude":41.586791,
+    "geom:longitude":-109.225925,
+    "iso:country":"US",
+    "sg:address":"221 Sherman St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 9239",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QRKAJpbBu923zd0KCBEnD_41.586791_-109.225925@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313042,
+    "wof:geomhash":"6c99b0ed34e6982ea68e34912ca5aff9",
+    "wof:hierarchy":[],
+    "wof:id":874218885,
+    "wof:lastmodified":1464313042,
+    "wof:name":"Wyoming Catering Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catering"
+    ]
+},
+  "bbox": [
+    -109.225925,
+    41.586791,
+    -109.225925,
+    41.586791
+],
+  "geometry": {"coordinates":[-109.225925,41.586791],"type":"Point"}
+}

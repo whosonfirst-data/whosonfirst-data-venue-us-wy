@@ -1,0 +1,56 @@
+{
+  "id": 874212023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.236395,41.791467,-107.236395,41.791467",
+    "geom:latitude":41.791467,
+    "geom:longitude":-107.236395,
+    "iso:country":"US",
+    "sg:address":"104 W Spruce St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 3484",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I5nN8OC9B9x4GLrSwaib8_41.791467_-107.236395@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312974,
+    "wof:geomhash":"83ae61c832b0ab03328d966e4d7d2b5f",
+    "wof:hierarchy":[],
+    "wof:id":874212023,
+    "wof:lastmodified":1464312974,
+    "wof:name":"William E Scoggin DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -107.236395,
+    41.791467,
+    -107.236395,
+    41.791467
+],
+  "geometry": {"coordinates":[-107.236395,41.791467],"type":"Point"}
+}

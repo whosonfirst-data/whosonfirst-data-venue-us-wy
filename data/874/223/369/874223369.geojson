@@ -1,0 +1,51 @@
+{
+  "id": 874223369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.86958,42.85702,-105.86958,42.85702",
+    "geom:latitude":42.85702,
+    "geom:longitude":-105.86958,
+    "iso:country":"US",
+    "sg:address":"601 S 2nd St",
+    "sg:city":"Glenrock",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 436 2547",
+    "sg:postcode":"82637",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51WVP1A9zRtdRmWP9ORHvD_42.857020_-105.869580@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313097,
+    "wof:geomhash":"9d488cf366667c4d7497a99f97fdb3b9",
+    "wof:hierarchy":[],
+    "wof:id":874223369,
+    "wof:lastmodified":1464313097,
+    "wof:name":"Flower Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.86958,
+    42.85702,
+    -105.86958,
+    42.85702
+],
+  "geometry": {"coordinates":[-105.86958,42.85702],"type":"Point"}
+}

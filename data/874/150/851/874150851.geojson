@@ -1,0 +1,71 @@
+{
+  "id": 874150851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.247233,43.412461,-106.247233,43.412461",
+    "geom:latitude":43.412461,
+    "geom:longitude":-106.247233,
+    "iso:country":"US",
+    "sg:address":"309 S 2nd St",
+    "sg:city":"Edgerton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 437 6638",
+    "sg:postcode":"82635",
+    "sg:province":"WY",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BcubBcOTkGQFbPPv4ZHwy_43.412461_-106.247233@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312336,
+    "wof:geomhash":"54f31cdd905b93adb0546f5c29dd1203",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874150851
+        }
+    ],
+    "wof:id":874150851,
+    "wof:lastmodified":1464312336,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -106.247233,
+    43.412461,
+    -106.247233,
+    43.412461
+],
+  "geometry": {"coordinates":[-106.24723299999999,43.412461],"type":"Point"}
+}

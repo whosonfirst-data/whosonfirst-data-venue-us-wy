@@ -1,0 +1,57 @@
+{
+  "id": 874198041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.807467,41.454745,-106.807467,41.454745",
+    "geom:latitude":41.454745,
+    "geom:longitude":-106.807467,
+    "iso:country":"US",
+    "sg:address":"119 E Bridge Ave",
+    "sg:city":"Saratoga",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 326 8349",
+    "sg:postcode":"82331",
+    "sg:province":"WY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.pmpc-eng.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11dMqUyXBrcQDLtYhKDOA5_41.454745_-106.807467@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312826,
+    "wof:geomhash":"626e341b3c32b305edec534ee56576a9",
+    "wof:hierarchy":[],
+    "wof:id":874198041,
+    "wof:lastmodified":1464312826,
+    "wof:name":"PMPC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -106.807467,
+    41.454745,
+    -106.807467,
+    41.454745
+],
+  "geometry": {"coordinates":[-106.807467,41.454745],"type":"Point"}
+}

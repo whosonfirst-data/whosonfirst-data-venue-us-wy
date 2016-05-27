@@ -1,0 +1,69 @@
+{
+  "id": 874087683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.294787,42.843622,-106.294787,42.843622",
+    "geom:latitude":42.843622,
+    "geom:longitude":-106.294787,
+    "iso:country":"US",
+    "sg:address":"2440 E 7th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 2936",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1q5vfOlil9JHuYMZ8fBKF9_42.843622_-106.294787@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311638,
+    "wof:geomhash":"39ca24b739d52bcafd7eb5ef4737e4cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874087683
+        }
+    ],
+    "wof:id":874087683,
+    "wof:lastmodified":1464311638,
+    "wof:name":"Boyles Family Day Care",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -106.294787,
+    42.843622,
+    -106.294787,
+    42.843622
+],
+  "geometry": {"coordinates":[-106.294787,42.843622],"type":"Point"}
+}

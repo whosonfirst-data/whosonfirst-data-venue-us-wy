@@ -1,0 +1,71 @@
+{
+  "id": 874152417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.330452,42.850816,-106.330452,42.850816",
+    "geom:latitude":42.850816,
+    "geom:longitude":-106.330452,
+    "iso:country":"US",
+    "sg:address":"128 Nichols Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 8743",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pet",
+        "grooming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TAJ0w401NrG7S6QF5JdiS_42.850816_-106.330452@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312350,
+    "wof:geomhash":"1af75343dc67636870d2015c485f18ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874152417
+        }
+    ],
+    "wof:id":874152417,
+    "wof:lastmodified":1464312350,
+    "wof:name":"Connies Pet Palace",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming"
+    ]
+},
+  "bbox": [
+    -106.330452,
+    42.850816,
+    -106.330452,
+    42.850816
+],
+  "geometry": {"coordinates":[-106.33045199999999,42.850816],"type":"Point"}
+}

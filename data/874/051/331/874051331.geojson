@@ -1,0 +1,66 @@
+{
+  "id": 874051331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.621867,41.308863,-105.621867,41.308863",
+    "geom:latitude":41.308863,
+    "geom:longitude":-105.621867,
+    "iso:country":"US",
+    "sg:address":"1990 Snowy Range Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 6304",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TyVOEobPbVXwdHy3m3Jke_41.308863_-105.621867@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311253,
+    "wof:geomhash":"a5f76b384ac8e1fdb332732c2fb19693",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874051331
+        }
+    ],
+    "wof:id":874051331,
+    "wof:lastmodified":1464311253,
+    "wof:name":"Snowy Range Real Estate",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.621867,
+    41.308863,
+    -105.621867,
+    41.308863
+],
+  "geometry": {"coordinates":[-105.62186699999999,41.308863],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 874229861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.495343,44.276475,-105.495343,44.276475",
+    "geom:latitude":44.276475,
+    "geom:longitude":-105.495343,
+    "iso:country":"US",
+    "sg:address":"701 E Boxelder Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/gillette-north/214078-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 3355",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W32dO2X31T073YVtpGtBO_44.276475_-105.495343@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313159,
+    "wof:geomhash":"dceb15e91178edd3a99379a80271f29d",
+    "wof:hierarchy":[],
+    "wof:id":874229861,
+    "wof:lastmodified":1464313159,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -105.495343,
+    44.276475,
+    -105.495343,
+    44.276475
+],
+  "geometry": {"coordinates":[-105.49534300000001,44.276475],"type":"Point"}
+}

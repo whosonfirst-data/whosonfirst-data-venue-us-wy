@@ -1,0 +1,72 @@
+{
+  "id": 874107661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.581652,41.310364,-105.581652,41.310364",
+    "geom:latitude":41.310364,
+    "geom:longitude":-105.581652,
+    "iso:country":"US",
+    "sg:address":"1205 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5496",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.ldsces.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5grZNe73mkloxpeG9ug2Xj_41.310364_-105.581652@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311890,
+    "wof:geomhash":"5ad20a7d17c3cf335e5698be96dc6548",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874107661
+        }
+    ],
+    "wof:id":874107661,
+    "wof:lastmodified":1464311890,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -105.581652,
+    41.310364,
+    -105.581652,
+    41.310364
+],
+  "geometry": {"coordinates":[-105.58165200000001,41.310364],"type":"Point"}
+}

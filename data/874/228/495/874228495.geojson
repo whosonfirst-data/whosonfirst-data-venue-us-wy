@@ -1,0 +1,59 @@
+{
+  "id": 874228495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.828636,41.16767,-104.828636,41.16767",
+    "geom:latitude":41.16767,
+    "geom:longitude":-104.828636,
+    "iso:country":"US",
+    "sg:address":"5320 Yellowstone Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/67239-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 0854",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zs8Q5VVtaCjdM6ogSO8YM_41.167670_-104.828636@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313146,
+    "wof:geomhash":"66e3acd047515005915a3c153e8f3ea7",
+    "wof:hierarchy":[],
+    "wof:id":874228495,
+    "wof:lastmodified":1464313146,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -104.828636,
+    41.16767,
+    -104.828636,
+    41.16767
+],
+  "geometry": {"coordinates":[-104.828636,41.16767],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 874095765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.227386,43.851145,-104.227386,43.851145",
+    "geom:latitude":43.851145,
+    "geom:longitude":-104.227386,
+    "iso:country":"US",
+    "sg:address":"2000 W Main St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 9500",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.outlawmotors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P9PjCHaBK4IqXYRvYLxIO_43.851145_-104.227386@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311722,
+    "wof:geomhash":"a254c73c744ede7080efb98c10a7e18d",
+    "wof:hierarchy":[],
+    "wof:id":874095765,
+    "wof:lastmodified":1464311722,
+    "wof:name":"Outlaw Motors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -104.227386,
+    43.851145,
+    -104.227386,
+    43.851145
+],
+  "geometry": {"coordinates":[-104.227386,43.851145],"type":"Point"}
+}

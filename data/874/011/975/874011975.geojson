@@ -1,0 +1,64 @@
+{
+  "id": 874011975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.312175,42.850187,-106.312175,42.850187",
+    "geom:latitude":42.850187,
+    "geom:longitude":-106.312175,
+    "iso:country":"US",
+    "sg:address":"1032 E 1st St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 2704",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RZnEzolRMolznBBfnM1wp_42.850187_-106.312175@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310869,
+    "wof:geomhash":"fbd0f6e2fc82e9a7897217363feddb0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874011975
+        }
+    ],
+    "wof:id":874011975,
+    "wof:lastmodified":1464310869,
+    "wof:name":"Meredith Russell Ms LPC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.312175,
+    42.850187,
+    -106.312175,
+    42.850187
+],
+  "geometry": {"coordinates":[-106.312175,42.850187],"type":"Point"}
+}

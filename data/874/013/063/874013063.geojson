@@ -1,0 +1,73 @@
+{
+  "id": 874013063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.214517,41.79378,-107.214517,41.79378",
+    "geom:latitude":41.79378,
+    "geom:longitude":-107.214517,
+    "iso:country":"US",
+    "sg:address":"502 N Higley Blvd",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 9006",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102528131,
+        85688475,
+        102191575,
+        85633793,
+        101734107,
+        102081173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cNK5q9ieRBggbBIHQbMNq_41.793780_-107.214517@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310877,
+    "wof:geomhash":"72cfb75ba8614581ab72c9d2cb8cdc48",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528131,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081173,
+            "locality_id":101734107,
+            "region_id":85688475,
+            "venue_id":874013063
+        }
+    ],
+    "wof:id":874013063,
+    "wof:lastmodified":1464310877,
+    "wof:name":"ALCO",
+    "wof:parent_id":102528131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -107.214517,
+    41.79378,
+    -107.214517,
+    41.79378
+],
+  "geometry": {"coordinates":[-107.214517,41.79378],"type":"Point"}
+}

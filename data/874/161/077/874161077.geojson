@@ -1,0 +1,56 @@
+{
+  "id": 874161077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.958262,44.015703,-107.958262,44.015703",
+    "geom:latitude":44.015703,
+    "geom:longitude":-107.958262,
+    "iso:country":"US",
+    "sg:address":"820 Coburn Ave",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 6545",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67GfP0WcJhQhm96M5DIQ7k_44.015703_-107.958262@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312443,
+    "wof:geomhash":"9ae03c6202a536fb437893a7121d66d2",
+    "wof:hierarchy":[],
+    "wof:id":874161077,
+    "wof:lastmodified":1464312443,
+    "wof:name":"Wyoming Highway Patrol",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -107.958262,
+    44.015703,
+    -107.958262,
+    44.015703
+],
+  "geometry": {"coordinates":[-107.958262,44.015703],"type":"Point"}
+}

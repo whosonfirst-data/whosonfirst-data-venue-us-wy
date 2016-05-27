@@ -1,0 +1,71 @@
+{
+  "id": 874076289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.541616,41.292723,-105.541616,41.292723",
+    "geom:latitude":41.292723,
+    "geom:longitude":-105.541616,
+    "iso:country":"US",
+    "sg:address":"4232 E Kerry Lynne Ln",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 5766",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k0P7Hx2sB7TTQXgagSkxA_41.292723_-105.541616@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311514,
+    "wof:geomhash":"0eb9698d04442593970a2df8f95b046a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874076289
+        }
+    ],
+    "wof:id":874076289,
+    "wof:lastmodified":1464311514,
+    "wof:name":"Target Shooter",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -105.541616,
+    41.292723,
+    -105.541616,
+    41.292723
+],
+  "geometry": {"coordinates":[-105.541616,41.292723],"type":"Point"}
+}

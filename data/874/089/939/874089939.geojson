@@ -1,0 +1,56 @@
+{
+  "id": 874089939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.988119,41.242147,-110.988119,41.242147",
+    "geom:latitude":41.242147,
+    "geom:longitude":-110.988119,
+    "iso:country":"US",
+    "sg:address":"51 Arrowhead Dr",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 0775",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uq7ipvWeocP8wtD0Iuo6j_41.242147_-110.988119@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311661,
+    "wof:geomhash":"79f289a011b6c64daf2767ead91f2e7b",
+    "wof:hierarchy":[],
+    "wof:id":874089939,
+    "wof:lastmodified":1464311661,
+    "wof:name":"Penske Truck Rental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -110.988119,
+    41.242147,
+    -110.988119,
+    41.242147
+],
+  "geometry": {"coordinates":[-110.988119,41.242147],"type":"Point"}
+}

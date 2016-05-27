@@ -1,0 +1,74 @@
+{
+  "id": 874228567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.80495,41.159171,-104.80495,41.159171",
+    "geom:latitude":41.159171,
+    "geom:longitude":-104.80495,
+    "iso:country":"US",
+    "sg:address":"1507 Stillwater Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/20890-big-city-burrito/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 6272",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IHrZ9pWMURgMLarHstasQ_41.159171_-104.804950@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313146,
+    "wof:geomhash":"fa0e59f6dec044c92bcd0561c8c52847",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":874228567
+        }
+    ],
+    "wof:id":874228567,
+    "wof:lastmodified":1464313146,
+    "wof:name":"Big City Burrito",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -104.80495,
+    41.159171,
+    -104.80495,
+    41.159171
+],
+  "geometry": {"coordinates":[-104.80495000000001,41.159171],"type":"Point"}
+}

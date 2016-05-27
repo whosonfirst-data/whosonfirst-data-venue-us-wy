@@ -1,0 +1,59 @@
+{
+  "id": 874231063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.365495,42.746199,-105.365495,42.746199",
+    "geom:latitude":42.746199,
+    "geom:longitude":-105.365495,
+    "iso:country":"US",
+    "sg:address":"1840 E Richards St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/douglas/109476-village-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 5600",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bRya1Vz3eVkAO2X0esooc_42.746126_-105.365554@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313175,
+    "wof:geomhash":"c455bee32c169bee6996ee25d52b114a",
+    "wof:hierarchy":[],
+    "wof:id":874231063,
+    "wof:lastmodified":1464313175,
+    "wof:name":"Village Inn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -105.365495,
+    42.746199,
+    -105.365495,
+    42.746199
+],
+  "geometry": {"coordinates":[-105.365495,42.746199],"type":"Point"}
+}

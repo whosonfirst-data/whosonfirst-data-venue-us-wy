@@ -1,0 +1,71 @@
+{
+  "id": 874063577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.307811,42.853774,-106.307811,42.853774",
+    "geom:latitude":42.853774,
+    "geom:longitude":-106.307811,
+    "iso:country":"US",
+    "sg:address":"1302 E C St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 9064",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LVf4oE1spA6B0Ap4FlPJR_42.853774_-106.307811@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311367,
+    "wof:geomhash":"42c46e6ac1e0b739579ea0fdac98bf0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874063577
+        }
+    ],
+    "wof:id":874063577,
+    "wof:lastmodified":1464311367,
+    "wof:name":"Haass Construction Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.307811,
+    42.853774,
+    -106.307811,
+    42.853774
+],
+  "geometry": {"coordinates":[-106.307811,42.853774],"type":"Point"}
+}

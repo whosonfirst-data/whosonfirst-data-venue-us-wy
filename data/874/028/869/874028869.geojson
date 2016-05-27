@@ -1,0 +1,76 @@
+{
+  "id": 874028869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.26081,42.847789,-106.26081,42.847789",
+    "geom:latitude":42.847789,
+    "geom:longitude":-106.26081,
+    "iso:country":"US",
+    "sg:address":"300 Landmark Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 2582",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "club",
+        "health",
+        "studio",
+        "gymnasium"
+    ],
+    "sg:website":"www.lifetimehealthandfitness.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Wzji73Yc8S1wfGyTjSvuE_42.847789_-106.260810@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311037,
+    "wof:geomhash":"d9eb25aa434cc81d163433736981ecec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874028869
+        }
+    ],
+    "wof:id":874028869,
+    "wof:lastmodified":1464311037,
+    "wof:name":"Life Time Health & Fitness Ctr",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "health",
+        "studio",
+        "gymnasium"
+    ]
+},
+  "bbox": [
+    -106.26081,
+    42.847789,
+    -106.26081,
+    42.847789
+],
+  "geometry": {"coordinates":[-106.26081000000001,42.847789],"type":"Point"}
+}

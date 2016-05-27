@@ -1,0 +1,58 @@
+{
+  "id": 874063925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.390001,44.837598,-108.390001,44.837598",
+    "geom:latitude":44.837598,
+    "geom:longitude":-108.390001,
+    "iso:country":"US",
+    "sg:address":"187 E Main St",
+    "sg:city":"Lovell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 548 9200",
+    "sg:postcode":"82431",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I8tsKIWEVd4hDOi9mqgxX_44.837598_-108.390001@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311370,
+    "wof:geomhash":"712ed39689e1ee78574c987b9ff4bde1",
+    "wof:hierarchy":[],
+    "wof:id":874063925,
+    "wof:lastmodified":1464311370,
+    "wof:name":"Lovell Car Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.390001,
+    44.837598,
+    -108.390001,
+    44.837598
+],
+  "geometry": {"coordinates":[-108.390001,44.837598],"type":"Point"}
+}

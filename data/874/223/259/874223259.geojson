@@ -1,0 +1,69 @@
+{
+  "id": 874223259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.32648,42.848608,-106.32648,42.848608",
+    "geom:latitude":42.848608,
+    "geom:longitude":-106.32648,
+    "iso:country":"US",
+    "sg:address":"111 W 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2227",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y7iTzcOWdZJatMBDknMj4_42.848608_-106.326480@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313096,
+    "wof:geomhash":"6d72879c2c8de9f9cfff6068aa76c043",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874223259
+        }
+    ],
+    "wof:id":874223259,
+    "wof:lastmodified":1464313096,
+    "wof:name":"Ogle Corp",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -106.32648,
+    42.848608,
+    -106.32648,
+    42.848608
+],
+  "geometry": {"coordinates":[-106.32648,42.848608],"type":"Point"}
+}

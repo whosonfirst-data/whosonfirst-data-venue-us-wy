@@ -1,0 +1,73 @@
+{
+  "id": 874045245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.29775,42.85595,-106.29775,42.85595",
+    "geom:latitude":42.85595,
+    "geom:longitude":-106.29775,
+    "iso:country":"US",
+    "sg:address":"612 N Beverly St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 5686",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Xk2A4PUx0kzIdh3KzXZlV_42.855950_-106.297750@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311198,
+    "wof:geomhash":"8f3f5c6bebca33f4a723b9555d2d7d18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874045245
+        }
+    ],
+    "wof:id":874045245,
+    "wof:lastmodified":1464311198,
+    "wof:name":"Barber Shop At Kritter Kottage",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -106.29775,
+    42.85595,
+    -106.29775,
+    42.85595
+],
+  "geometry": {"coordinates":[-106.29774999999999,42.85595],"type":"Point"}
+}

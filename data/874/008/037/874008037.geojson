@@ -1,0 +1,56 @@
+{
+  "id": 874008037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.968745,44.791136,-106.968745,44.791136",
+    "geom:latitude":44.791136,
+    "geom:longitude":-106.968745,
+    "iso:country":"US",
+    "sg:address":"828 Leopard St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 673 1895",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79GSwO0PRruVFBRadjs10P_44.791136_-106.968745@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310841,
+    "wof:geomhash":"35beea281ae06eeabfd75f7cb0037653",
+    "wof:hierarchy":[],
+    "wof:id":874008037,
+    "wof:lastmodified":1464310841,
+    "wof:name":"Bassett Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -106.968745,
+    44.791136,
+    -106.968745,
+    44.791136
+],
+  "geometry": {"coordinates":[-106.968745,44.791136],"type":"Point"}
+}

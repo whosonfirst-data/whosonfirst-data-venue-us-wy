@@ -1,0 +1,58 @@
+{
+  "id": 874028771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.176192,43.734995,-108.176192,43.734995",
+    "geom:latitude":43.734995,
+    "geom:longitude":-108.176192,
+    "iso:country":"US",
+    "sg:address":"700 US Hwy 20 N",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 5645",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63XwL3GjyO5bjdbFoSSdbt_43.734995_-108.176192@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311031,
+    "wof:geomhash":"bf9df4d257a5eeae1a79c28477248300",
+    "wof:hierarchy":[],
+    "wof:id":874028771,
+    "wof:lastmodified":1464311031,
+    "wof:name":"Wilson Sanitation Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -108.176192,
+    43.734995,
+    -108.176192,
+    43.734995
+],
+  "geometry": {"coordinates":[-108.176192,43.734995],"type":"Point"}
+}

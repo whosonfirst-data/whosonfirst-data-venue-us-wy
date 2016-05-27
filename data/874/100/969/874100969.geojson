@@ -1,0 +1,71 @@
+{
+  "id": 874100969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.290987,42.848718,-106.290987,42.848718",
+    "geom:latitude":42.848718,
+    "geom:longitude":-106.290987,
+    "iso:country":"US",
+    "sg:address":"2649 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 8802",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tk2F5EFmkUTvE71z0hMdv_42.848718_-106.290987@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311806,
+    "wof:geomhash":"4012c60b6cb9ee029d0bdcfc09ec732d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874100969
+        }
+    ],
+    "wof:id":874100969,
+    "wof:lastmodified":1464311806,
+    "wof:name":"Computer Logic Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -106.290987,
+    42.848718,
+    -106.290987,
+    42.848718
+],
+  "geometry": {"coordinates":[-106.290987,42.848718],"type":"Point"}
+}

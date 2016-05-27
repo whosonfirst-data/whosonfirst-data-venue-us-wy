@@ -1,0 +1,58 @@
+{
+  "id": 874112525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.521464,44.291114,-105.521464,44.291114",
+    "geom:latitude":44.291114,
+    "geom:longitude":-105.521464,
+    "iso:country":"US",
+    "sg:address":"1206 W 4th St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 685 0130",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qiEY00lJOhQmK56QfVxEN_44.291114_-105.521464@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311963,
+    "wof:geomhash":"ff812456daf1d221cf04e9450476b998",
+    "wof:hierarchy":[],
+    "wof:id":874112525,
+    "wof:lastmodified":1464311963,
+    "wof:name":"Shelley M Shepard MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -105.521464,
+    44.291114,
+    -105.521464,
+    44.291114
+],
+  "geometry": {"coordinates":[-105.52146399999999,44.291114],"type":"Point"}
+}

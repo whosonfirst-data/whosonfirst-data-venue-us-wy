@@ -1,0 +1,56 @@
+{
+  "id": 874108961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.782825,41.136585,-104.782825,41.136585",
+    "geom:latitude":41.136585,
+    "geom:longitude":-104.782825,
+    "iso:country":"US",
+    "sg:address":"2700 E 12th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 7986",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78xCx9ZOdUvQiZxDk8GPhq_41.136585_-104.782825@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311903,
+    "wof:geomhash":"80a7b11561e259a3ecb7754d0c1dc412",
+    "wof:hierarchy":[],
+    "wof:id":874108961,
+    "wof:lastmodified":1464311903,
+    "wof:name":"Cheyenne Health Care Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -104.782825,
+    41.136585,
+    -104.782825,
+    41.136585
+],
+  "geometry": {"coordinates":[-104.782825,41.136585],"type":"Point"}
+}

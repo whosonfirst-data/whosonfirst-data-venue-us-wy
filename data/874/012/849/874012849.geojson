@@ -1,0 +1,62 @@
+{
+  "id": 874012849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.855848,44.662659,-103.855848,44.662659",
+    "geom:latitude":44.662659,
+    "geom:longitude":-103.855848,
+    "iso:country":"US",
+    "sg:address":"311 National St",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 2851",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wheel",
+        "automotive",
+        "axle",
+        "alignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OLk3KjEv6LvYFAzMbAfFl_44.662659_-103.855848@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310875,
+    "wof:geomhash":"bd1ba56ef3f6a0ac0fa2646687b5bc03",
+    "wof:hierarchy":[],
+    "wof:id":874012849,
+    "wof:lastmodified":1464310875,
+    "wof:name":"Green's Alignment",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "automotive",
+        "axle",
+        "alignment"
+    ]
+},
+  "bbox": [
+    -103.855848,
+    44.662659,
+    -103.855848,
+    44.662659
+],
+  "geometry": {"coordinates":[-103.85584799999999,44.662659],"type":"Point"}
+}

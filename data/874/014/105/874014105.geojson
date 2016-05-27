@@ -1,0 +1,69 @@
+{
+  "id": 874014105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.322285,42.84623,-106.322285,42.84623",
+    "geom:latitude":42.84623,
+    "geom:longitude":-106.322285,
+    "iso:country":"US",
+    "sg:address":"451 S Durbin St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 3130",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nnaofuMvKkP6UowTWltPq_42.846230_-106.322285@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310884,
+    "wof:geomhash":"dfe761307077f221bb5b7120fd9c9e9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874014105
+        }
+    ],
+    "wof:id":874014105,
+    "wof:lastmodified":1464310884,
+    "wof:name":"AT&T",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television"
+    ]
+},
+  "bbox": [
+    -106.322285,
+    42.84623,
+    -106.322285,
+    42.84623
+],
+  "geometry": {"coordinates":[-106.32228499999999,42.84623],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874185623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.26044,42.83774,-106.26044,42.83774",
+    "geom:latitude":42.83774,
+    "geom:longitude":-106.26044,
+    "iso:country":"US",
+    "sg:address":"1060 Donegal St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2561",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cMpwIp4HCEm8SCQzu0pim_42.837740_-106.260440@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312697,
+    "wof:geomhash":"bcff3b778b22d9fc35673c46cf72332b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874185623
+        }
+    ],
+    "wof:id":874185623,
+    "wof:lastmodified":1464312697,
+    "wof:name":"Lantz Appraisal Services",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.26044,
+    42.83774,
+    -106.26044,
+    42.83774
+],
+  "geometry": {"coordinates":[-106.26044,42.83774],"type":"Point"}
+}

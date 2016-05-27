@@ -1,0 +1,56 @@
+{
+  "id": 874117831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.00691,44.78544,-107.00691,44.78544",
+    "geom:latitude":44.78544,
+    "geom:longitude":-107.00691,
+    "iso:country":"US",
+    "sg:address":"2 Sunset Ln",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 4686",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J9BqZb8ZMqiSOaFiKyUEt_44.785440_-107.006910@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312014,
+    "wof:geomhash":"061a2271478e0fb63242c36253f393cf",
+    "wof:hierarchy":[],
+    "wof:id":874117831,
+    "wof:lastmodified":1464312014,
+    "wof:name":"Mike Kinzer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -107.00691,
+    44.78544,
+    -107.00691,
+    44.78544
+],
+  "geometry": {"coordinates":[-107.00691,44.78544],"type":"Point"}
+}

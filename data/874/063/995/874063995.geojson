@@ -1,0 +1,66 @@
+{
+  "id": 874063995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592466,41.320496,-105.592466,41.320496",
+    "geom:latitude":41.320496,
+    "geom:longitude":-105.592466,
+    "iso:country":"US",
+    "sg:address":"311 E Canby St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4682",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rPMBuExufDS1PSxOSTx3U_41.320496_-105.592466@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311371,
+    "wof:geomhash":"bf5a0deb12cfe6f22764856542e9f4f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874063995
+        }
+    ],
+    "wof:id":874063995,
+    "wof:lastmodified":1464311371,
+    "wof:name":"Kotby Body Shop",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.592466,
+    41.320496,
+    -105.592466,
+    41.320496
+],
+  "geometry": {"coordinates":[-105.592466,41.320496],"type":"Point"}
+}

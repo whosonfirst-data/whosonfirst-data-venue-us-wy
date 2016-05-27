@@ -1,0 +1,69 @@
+{
+  "id": 874087697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.32727,42.826527,-106.32727,42.826527",
+    "geom:latitude":42.826527,
+    "geom:longitude":-106.32727,
+    "iso:country":"US",
+    "sg:address":"2625 Casper Mountain Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 5619",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TnWwYX2mAHRmmzM3oC70B_42.826527_-106.327270@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311638,
+    "wof:geomhash":"01d11af6e569706722e76fd068323a2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874087697
+        }
+    ],
+    "wof:id":874087697,
+    "wof:lastmodified":1464311638,
+    "wof:name":"Seventh Day Adventist Church",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -106.32727,
+    42.826527,
+    -106.32727,
+    42.826527
+],
+  "geometry": {"coordinates":[-106.32727,42.826527],"type":"Point"}
+}

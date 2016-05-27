@@ -1,0 +1,74 @@
+{
+  "id": 874076131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.32596,42.85196,-106.32596,42.85196",
+    "geom:latitude":42.85196,
+    "geom:longitude":-106.32596,
+    "iso:country":"US",
+    "sg:address":"100 W B St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2730",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YgWDKektUqHhNquFfJdGt_42.851960_-106.325960@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311512,
+    "wof:geomhash":"bada284bf93d4c61d8940e8c53b0893c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874076131
+        }
+    ],
+    "wof:id":874076131,
+    "wof:lastmodified":1464311512,
+    "wof:name":"Action Bailbonds",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bond"
+    ]
+},
+  "bbox": [
+    -106.32596,
+    42.85196,
+    -106.32596,
+    42.85196
+],
+  "geometry": {"coordinates":[-106.32595999999999,42.85196],"type":"Point"}
+}

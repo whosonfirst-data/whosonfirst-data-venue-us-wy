@@ -1,0 +1,69 @@
+{
+  "id": 874050403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.298004,42.838798,-106.298004,42.838798",
+    "geom:latitude":42.838798,
+    "geom:longitude":-106.298004,
+    "iso:country":"US",
+    "sg:address":"2117 E 12th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 232 8979",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7204LI30i0vuGuBLO871he_42.838798_-106.298004@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311244,
+    "wof:geomhash":"d50d58b0f5be5dca757454a505c56794",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874050403
+        }
+    ],
+    "wof:id":874050403,
+    "wof:lastmodified":1464311244,
+    "wof:name":"All That Yarn",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [
+    -106.298004,
+    42.838798,
+    -106.298004,
+    42.838798
+],
+  "geometry": {"coordinates":[-106.29800400000001,42.838798],"type":"Point"}
+}

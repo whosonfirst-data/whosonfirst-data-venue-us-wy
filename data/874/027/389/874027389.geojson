@@ -1,0 +1,66 @@
+{
+  "id": 874027389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.584735,41.30676,-105.584735,41.30676",
+    "geom:latitude":41.30676,
+    "geom:longitude":-105.584735,
+    "iso:country":"US",
+    "sg:address":"1007 E Sheridan St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 1300",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63fZFp5L74w1q0anqMxVkt_41.306760_-105.584735@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311019,
+    "wof:geomhash":"d89e72bbca0556e85c1b3fc5026e9e4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874027389
+        }
+    ],
+    "wof:id":874027389,
+    "wof:lastmodified":1464311019,
+    "wof:name":"Herbalife Distributors",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.584735,
+    41.30676,
+    -105.584735,
+    41.30676
+],
+  "geometry": {"coordinates":[-105.58473499999999,41.30676],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 874032891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.330221,42.847301,-106.330221,42.847301",
+    "geom:latitude":42.847301,
+    "geom:longitude":-106.330221,
+    "iso:country":"US",
+    "sg:address":"535 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 3389",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "home",
+        "planning",
+        "design",
+        "studio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3G6b0bhGx9lVpCJuQRMqNS_42.847301_-106.330221@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311074,
+    "wof:geomhash":"87b5f3c1e92aaa7b7190d6ab54e35fc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874032891
+        }
+    ],
+    "wof:id":874032891,
+    "wof:lastmodified":1464311074,
+    "wof:name":"Design Studio Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "planning",
+        "design",
+        "studio"
+    ]
+},
+  "bbox": [
+    -106.330221,
+    42.847301,
+    -106.330221,
+    42.847301
+],
+  "geometry": {"coordinates":[-106.33022099999999,42.847301],"type":"Point"}
+}

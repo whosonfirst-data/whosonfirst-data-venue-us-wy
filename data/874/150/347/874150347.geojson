@@ -1,0 +1,66 @@
+{
+  "id": 874150347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.575083,41.305187,-105.575083,41.305187",
+    "geom:latitude":41.305187,
+    "geom:longitude":-105.575083,
+    "iso:country":"US",
+    "sg:address":"811 S 17th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 4436",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_451JYXxhYQxXnURYppQLf4_41.305187_-105.575083@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312331,
+    "wof:geomhash":"260e9a07cd0c847fd32516a362528f1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874150347
+        }
+    ],
+    "wof:id":874150347,
+    "wof:lastmodified":1464312331,
+    "wof:name":"Beitel Elementary School",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.575083,
+    41.305187,
+    -105.575083,
+    41.305187
+],
+  "geometry": {"coordinates":[-105.57508300000001,41.305187],"type":"Point"}
+}

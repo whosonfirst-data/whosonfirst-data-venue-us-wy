@@ -1,0 +1,56 @@
+{
+  "id": 874200111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.85082,44.672389,-103.85082,44.672389",
+    "geom:latitude":44.672389,
+    "geom:longitude":-103.85082,
+    "iso:country":"US",
+    "sg:address":"606 7th Ave",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 3482",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IanQbdOFyOje56ivHqhoL_44.672389_-103.850820@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312845,
+    "wof:geomhash":"4777205478d2d8a31779563cf9048f84",
+    "wof:hierarchy":[],
+    "wof:id":874200111,
+    "wof:lastmodified":1464312845,
+    "wof:name":"Hitzel Drywall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -103.85082,
+    44.672389,
+    -103.85082,
+    44.672389
+],
+  "geometry": {"coordinates":[-103.85082,44.672389],"type":"Point"}
+}

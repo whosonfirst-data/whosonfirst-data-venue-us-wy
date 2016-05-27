@@ -1,0 +1,58 @@
+{
+  "id": 874024287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.055223,44.490955,-108.055223,44.490955",
+    "geom:latitude":44.490955,
+    "geom:longitude":-108.055223,
+    "iso:country":"US",
+    "sg:address":"247 N 6th St",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 2452",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c58RKNMKtKIi6H4vUVtGP_44.490955_-108.055223@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310986,
+    "wof:geomhash":"963357135844387c4f40dcfacc5474a8",
+    "wof:hierarchy":[],
+    "wof:id":874024287,
+    "wof:lastmodified":1464310986,
+    "wof:name":"Millers Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.055223,
+    44.490955,
+    -108.055223,
+    44.490955
+],
+  "geometry": {"coordinates":[-108.055223,44.490955],"type":"Point"}
+}

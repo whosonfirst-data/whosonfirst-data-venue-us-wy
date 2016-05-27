@@ -1,0 +1,56 @@
+{
+  "id": 874075621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.223619,41.578705,-109.223619,41.578705",
+    "geom:latitude":41.578705,
+    "geom:longitude":-109.223619,
+    "iso:country":"US",
+    "sg:address":"430 W Blair Ave",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 352 6770",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RpLFXhxRjAkM6KEtqcN3q_41.578705_-109.223619@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311507,
+    "wof:geomhash":"e6e43897e3776211e4e957da1f52cbe0",
+    "wof:hierarchy":[],
+    "wof:id":874075621,
+    "wof:lastmodified":1464311507,
+    "wof:name":"County Fire Warden",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -109.223619,
+    41.578705,
+    -109.223619,
+    41.578705
+],
+  "geometry": {"coordinates":[-109.223619,41.578705],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874025293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.28296,42.831399,-106.28296,42.831399",
+    "geom:latitude":42.831399,
+    "geom:longitude":-106.28296,
+    "iso:country":"US",
+    "sg:address":"1924 Rustic Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8558",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XBhvEB5DusksGMjtSnTio_42.831399_-106.282960@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311000,
+    "wof:geomhash":"cf99105b8e1027352b9912cef2a9eb1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874025293
+        }
+    ],
+    "wof:id":874025293,
+    "wof:lastmodified":1464311000,
+    "wof:name":"Richard Lisco",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -106.28296,
+    42.831399,
+    -106.28296,
+    42.831399
+],
+  "geometry": {"coordinates":[-106.28296,42.831399],"type":"Point"}
+}

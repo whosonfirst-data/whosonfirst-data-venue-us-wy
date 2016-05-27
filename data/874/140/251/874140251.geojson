@@ -1,0 +1,56 @@
+{
+  "id": 874140251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.365251,43.839581,-105.365251,43.839581",
+    "geom:latitude":43.839581,
+    "geom:longitude":-105.365251,
+    "iso:country":"US",
+    "sg:address":"1464 Hilight Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 939 1370",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76CkQusaqERBvYvIE8Hz25_43.839581_-105.365251@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312237,
+    "wof:geomhash":"9969d21c57250286bfe5298ad9a2a835",
+    "wof:hierarchy":[],
+    "wof:id":874140251,
+    "wof:lastmodified":1464312237,
+    "wof:name":"Western Gas Resources Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -105.365251,
+    43.839581,
+    -105.365251,
+    43.839581
+],
+  "geometry": {"coordinates":[-105.365251,43.839581],"type":"Point"}
+}

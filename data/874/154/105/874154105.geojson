@@ -1,0 +1,56 @@
+{
+  "id": 874154105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.211131,41.796092,-107.211131,41.796092",
+    "geom:latitude":41.796092,
+    "geom:longitude":-107.211131,
+    "iso:country":"US",
+    "sg:address":"2302 Daley St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 328 0668",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61BKwoC3CjjS3JdePVHywr_41.796092_-107.211131@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312368,
+    "wof:geomhash":"dd924ea1fa9ee35cd8a33c0e257dc303",
+    "wof:hierarchy":[],
+    "wof:id":874154105,
+    "wof:lastmodified":1464312368,
+    "wof:name":"Hyland Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -107.211131,
+    41.796092,
+    -107.211131,
+    41.796092
+],
+  "geometry": {"coordinates":[-107.21113099999999,41.796092],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874153417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.315587,42.856754,-106.315587,42.856754",
+    "geom:latitude":42.856754,
+    "geom:longitude":-106.315587,
+    "iso:country":"US",
+    "sg:address":"341 E E St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 5575",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OD4qKJgrr96uYBbWQ7X8l_42.856754_-106.315587@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312359,
+    "wof:geomhash":"cce250ac46960a7bd4f6c9097ef08e25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874153417
+        }
+    ],
+    "wof:id":874153417,
+    "wof:lastmodified":1464312359,
+    "wof:name":"Satellite TV",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [
+    -106.315587,
+    42.856754,
+    -106.315587,
+    42.856754
+],
+  "geometry": {"coordinates":[-106.31558699999999,42.856754],"type":"Point"}
+}

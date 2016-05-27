@@ -1,0 +1,74 @@
+{
+  "id": 874195031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.583178,41.30942,-105.583178,41.30942",
+    "geom:latitude":41.30942,
+    "geom:longitude":-105.583178,
+    "iso:country":"US",
+    "sg:address":"407 S 11th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7624",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "environmental",
+        "ecological"
+    ],
+    "sg:website":"www.cadmusgroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xusepGW7XK4Ts1vn1nL3e_41.309420_-105.583178@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312794,
+    "wof:geomhash":"15d223f2a61dbed1f4257c18083348b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874195031
+        }
+    ],
+    "wof:id":874195031,
+    "wof:lastmodified":1464312794,
+    "wof:name":"Cadmus Group Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "ecological"
+    ]
+},
+  "bbox": [
+    -105.583178,
+    41.30942,
+    -105.583178,
+    41.30942
+],
+  "geometry": {"coordinates":[-105.583178,41.30942],"type":"Point"}
+}

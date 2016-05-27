@@ -1,0 +1,69 @@
+{
+  "id": 874047887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.457874,42.900137,-106.457874,42.900137",
+    "geom:latitude":42.900137,
+    "geom:longitude":-106.457874,
+    "iso:country":"US",
+    "sg:address":"3746 Esmay Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 268 8638",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "coating",
+        "powder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        102525293,
+        85688475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oLNjNA5wlb7Fe2LuIwoUJ_42.900137_-106.457874@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311223,
+    "wof:geomhash":"264060679c673d59b3da991ccb53d913",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525293,
+            "country_id":85633793,
+            "region_id":85688475,
+            "venue_id":874047887
+        }
+    ],
+    "wof:id":874047887,
+    "wof:lastmodified":1464311223,
+    "wof:name":"BME Ind Powder Coating",
+    "wof:parent_id":102525293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coating",
+        "powder"
+    ]
+},
+  "bbox": [
+    -106.457874,
+    42.900137,
+    -106.457874,
+    42.900137
+],
+  "geometry": {"coordinates":[-106.457874,42.900137],"type":"Point"}
+}

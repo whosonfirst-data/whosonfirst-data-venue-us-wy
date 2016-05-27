@@ -1,0 +1,71 @@
+{
+  "id": 873991999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.582349,41.316902,-105.582349,41.316902",
+    "geom:latitude":41.316902,
+    "geom:longitude":-105.582349,
+    "iso:country":"US",
+    "sg:address":"1110 E Flint St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7852",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hypnotherapy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xIlolEbr8YDJJwWjIRtTj_41.316902_-105.582349@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310705,
+    "wof:geomhash":"08cb77a76429ac1b019b01a265851185",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873991999
+        }
+    ],
+    "wof:id":873991999,
+    "wof:lastmodified":1464310705,
+    "wof:name":"A New Angle Hypnotherapy",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hypnotherapy"
+    ]
+},
+  "bbox": [
+    -105.582349,
+    41.316902,
+    -105.582349,
+    41.316902
+],
+  "geometry": {"coordinates":[-105.58234899999999,41.316902],"type":"Point"}
+}

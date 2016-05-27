@@ -1,0 +1,58 @@
+{
+  "id": 874202565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.828683,41.168948,-104.828683,41.168948",
+    "geom:latitude":41.168948,
+    "geom:longitude":-104.828683,
+    "iso:country":"US",
+    "sg:address":"5400 Yellowstone Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 3484",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KmbE02sLtp04fAJmCFys5_41.168948_-104.828683@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312870,
+    "wof:geomhash":"4cf17590bd01d447f37923f0b23e0c41",
+    "wof:hierarchy":[],
+    "wof:id":874202565,
+    "wof:lastmodified":1464312870,
+    "wof:name":"Grease Monkey",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -104.828683,
+    41.168948,
+    -104.828683,
+    41.168948
+],
+  "geometry": {"coordinates":[-104.828683,41.168948],"type":"Point"}
+}

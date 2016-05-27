@@ -1,0 +1,58 @@
+{
+  "id": 874188015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.819094,41.152654,-104.819094,41.152654",
+    "geom:latitude":41.152654,
+    "geom:longitude":-104.819094,
+    "iso:country":"US",
+    "sg:address":"300 E 8th Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 9371",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FmSRFfz5vGLnQ887BzYU2_41.152654_-104.819094@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312720,
+    "wof:geomhash":"f3db58c83a1bcf7f4f2efe206ac10bbb",
+    "wof:hierarchy":[],
+    "wof:id":874188015,
+    "wof:lastmodified":1464312720,
+    "wof:name":"Avis Rent A Car",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -104.819094,
+    41.152654,
+    -104.819094,
+    41.152654
+],
+  "geometry": {"coordinates":[-104.81909400000001,41.152654],"type":"Point"}
+}

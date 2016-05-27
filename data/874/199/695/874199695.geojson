@@ -1,0 +1,58 @@
+{
+  "id": 874199695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.755131,41.162099,-104.755131,41.162099",
+    "geom:latitude":41.162099,
+    "geom:longitude":-104.755131,
+    "iso:country":"US",
+    "sg:address":"4700 Ocean Loop",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 772 2225",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eVXYrW7u6J6N3KCGHroKK_41.162099_-104.755131@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312841,
+    "wof:geomhash":"7bd625b56bf24ed34d001e073159d279",
+    "wof:hierarchy":[],
+    "wof:id":874199695,
+    "wof:lastmodified":1464312841,
+    "wof:name":"US Naval Reserve",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -104.755131,
+    41.162099,
+    -104.755131,
+    41.162099
+],
+  "geometry": {"coordinates":[-104.75513100000001,41.162099],"type":"Point"}
+}

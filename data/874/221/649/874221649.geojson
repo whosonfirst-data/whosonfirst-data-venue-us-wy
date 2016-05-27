@@ -1,0 +1,58 @@
+{
+  "id": 874221649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.479415,44.249507,-105.479415,44.249507",
+    "geom:latitude":44.249507,
+    "geom:longitude":-105.479415,
+    "iso:country":"US",
+    "sg:address":"4900 Butler Spaeth Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 685 7255",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PWah5wL3ePqCGHZqp8Xbo_44.249507_-105.479415@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313080,
+    "wof:geomhash":"b91b4949e7ef04c59ddabc15e7f0ac45",
+    "wof:hierarchy":[],
+    "wof:id":874221649,
+    "wof:lastmodified":1464313080,
+    "wof:name":"Joe's Plumbing & Heating Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.479415,
+    44.249507,
+    -105.479415,
+    44.249507
+],
+  "geometry": {"coordinates":[-105.479415,44.249507],"type":"Point"}
+}

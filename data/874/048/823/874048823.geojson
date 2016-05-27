@@ -1,0 +1,71 @@
+{
+  "id": 874048823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.560169,41.306297,-105.560169,41.306297",
+    "geom:latitude":41.306297,
+    "geom:longitude":-105.560169,
+    "iso:country":"US",
+    "sg:address":"2621 E Sheridan St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6366",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JFkgwapJowfqaT0RUwdbj_41.306297_-105.560169@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311230,
+    "wof:geomhash":"9c2bfbd43e816989c4a207b4b1964960",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874048823
+        }
+    ],
+    "wof:id":874048823,
+    "wof:lastmodified":1464311230,
+    "wof:name":"Regency Retirement Residence",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -105.560169,
+    41.306297,
+    -105.560169,
+    41.306297
+],
+  "geometry": {"coordinates":[-105.560169,41.306297],"type":"Point"}
+}

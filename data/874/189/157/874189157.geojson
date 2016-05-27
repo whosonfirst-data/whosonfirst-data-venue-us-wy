@@ -1,0 +1,74 @@
+{
+  "id": 874189157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.36986,42.820993,-106.36986,42.820993",
+    "geom:latitude":42.820993,
+    "geom:longitude":-106.36986,
+    "iso:country":"US",
+    "sg:address":"4067 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 7278",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ],
+    "sg:website":"www.radioshack.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78RGr4ZhsSQjSRbLNUxC9F_42.820993_-106.369860@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312732,
+    "wof:geomhash":"a0216aee57ac9857c2bb2ebb48508464",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874189157
+        }
+    ],
+    "wof:id":874189157,
+    "wof:lastmodified":1464312732,
+    "wof:name":"Radio Shack",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -106.36986,
+    42.820993,
+    -106.36986,
+    42.820993
+],
+  "geometry": {"coordinates":[-106.36986,42.820993],"type":"Point"}
+}

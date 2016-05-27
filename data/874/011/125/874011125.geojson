@@ -1,0 +1,58 @@
+{
+  "id": 874011125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.215543,43.656102,-108.215543,43.656102",
+    "geom:latitude":43.656102,
+    "geom:longitude":-108.215543,
+    "iso:country":"US",
+    "sg:address":"140 Airport Rd",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 5571",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tI4NGu6yycJPnsV26vwh3_43.656102_-108.215543@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310863,
+    "wof:geomhash":"f2e3c4eee52afe7a63e99e8f0a0b4191",
+    "wof:hierarchy":[],
+    "wof:id":874011125,
+    "wof:lastmodified":1464310863,
+    "wof:name":"Rent-A-Wreck",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.215543,
+    43.656102,
+    -108.215543,
+    43.656102
+],
+  "geometry": {"coordinates":[-108.215543,43.656102],"type":"Point"}
+}

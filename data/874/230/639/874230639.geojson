@@ -1,0 +1,76 @@
+{
+  "id": 874230639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592766,41.317629,-105.592766,41.317629",
+    "geom:latitude":41.317629,
+    "geom:longitude":-105.592766,
+    "iso:country":"US",
+    "sg:address":"309 E Flint St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/laramie/78194-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 0030",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CWRzK4NZ8GmTPru6Tb5CX_41.317682_-105.592807@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313171,
+    "wof:geomhash":"fab93fe5b3e89f97e13b4a457ee2804d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874230639
+        }
+    ],
+    "wof:id":874230639,
+    "wof:lastmodified":1464313171,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -105.592766,
+    41.317629,
+    -105.592766,
+    41.317629
+],
+  "geometry": {"coordinates":[-105.592766,41.317629],"type":"Point"}
+}

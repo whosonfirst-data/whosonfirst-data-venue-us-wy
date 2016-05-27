@@ -1,0 +1,69 @@
+{
+  "id": 874059877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.422356,42.821013,-106.422356,42.821013",
+    "geom:latitude":42.821013,
+    "geom:longitude":-106.422356,
+    "iso:country":"US",
+    "sg:address":"6660 Henderson Creek Pl",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1859",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Mp3GJH1FyEOCQG6QJQAZv_42.821013_-106.422356@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311334,
+    "wof:geomhash":"da31d4fbbd9a3b0e43f4085a91bace93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874059877
+        }
+    ],
+    "wof:id":874059877,
+    "wof:lastmodified":1464311334,
+    "wof:name":"RMR Construction",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -106.422356,
+    42.821013,
+    -106.422356,
+    42.821013
+],
+  "geometry": {"coordinates":[-106.42235599999999,42.821013],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874122443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.353671,42.808105,-106.353671,42.808105",
+    "geom:latitude":42.808105,
+    "geom:longitude":-106.353671,
+    "iso:country":"US",
+    "sg:address":"4361 Arroyo Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5940",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VGg0lYOHoSt1yIa5ryj7P_42.808105_-106.353671@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312063,
+    "wof:geomhash":"eac71519862edacfc40eee06f9f1072f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874122443
+        }
+    ],
+    "wof:id":874122443,
+    "wof:lastmodified":1464312063,
+    "wof:name":"Game Warden",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.353671,
+    42.808105,
+    -106.353671,
+    42.808105
+],
+  "geometry": {"coordinates":[-106.35367100000001,42.808105],"type":"Point"}
+}

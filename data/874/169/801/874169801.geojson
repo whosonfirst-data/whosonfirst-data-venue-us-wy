@@ -1,0 +1,58 @@
+{
+  "id": 874169801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.013045,44.539574,-109.013045,44.539574",
+    "geom:latitude":44.539574,
+    "geom:longitude":-109.013045,
+    "iso:country":"US",
+    "sg:address":"139 McCullough Dr",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 3019",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "nonscheduled",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zPx7LvRlTBfTEeG2mkvvw_44.539574_-109.013045@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312525,
+    "wof:geomhash":"945a882b9904286ddd73d5fa9f74efee",
+    "wof:hierarchy":[],
+    "wof:id":874169801,
+    "wof:lastmodified":1464312525,
+    "wof:name":"Yellowstone Zephyr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonscheduled",
+        "air"
+    ]
+},
+  "bbox": [
+    -109.013045,
+    44.539574,
+    -109.013045,
+    44.539574
+],
+  "geometry": {"coordinates":[-109.01304500000001,44.539574],"type":"Point"}
+}

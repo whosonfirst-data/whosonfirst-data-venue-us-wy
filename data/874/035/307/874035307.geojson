@@ -1,0 +1,69 @@
+{
+  "id": 874035307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.322577,42.848303,-106.322577,42.848303",
+    "geom:latitude":42.848303,
+    "geom:longitude":-106.322577,
+    "iso:country":"US",
+    "sg:address":"236 E Midwest Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 6826",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mh23hPZRkau56vLb8F7ad_42.848303_-106.322577@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311097,
+    "wof:geomhash":"f777ce55213838f12c0354e5605ec1e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874035307
+        }
+    ],
+    "wof:id":874035307,
+    "wof:lastmodified":1464311097,
+    "wof:name":"Accurate Accounting",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -106.322577,
+    42.848303,
+    -106.322577,
+    42.848303
+],
+  "geometry": {"coordinates":[-106.322577,42.848303],"type":"Point"}
+}

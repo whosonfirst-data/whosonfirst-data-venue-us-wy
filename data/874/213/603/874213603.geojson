@@ -1,0 +1,56 @@
+{
+  "id": 874213603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.547565,41.800967,-110.547565,41.800967",
+    "geom:latitude":41.800967,
+    "geom:longitude":-110.547565,
+    "iso:country":"US",
+    "sg:address":"100 Canyon Rd",
+    "sg:city":"Diamondville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 877 6951",
+    "sg:postcode":"83101",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IE95EdJZPHVkT3gOoh9y8_41.800967_-110.547565@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312990,
+    "wof:geomhash":"a9ec378fb91fd568b48a1da496be9b86",
+    "wof:hierarchy":[],
+    "wof:id":874213603,
+    "wof:lastmodified":1464312990,
+    "wof:name":"Karen Cheek Family Dentistry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -110.547565,
+    41.800967,
+    -110.547565,
+    41.800967
+],
+  "geometry": {"coordinates":[-110.54756500000001,41.800967],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 874077935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.38297,43.015854,-108.38297,43.015854",
+    "geom:latitude":43.015854,
+    "geom:longitude":-108.38297,
+    "iso:country":"US",
+    "sg:address":"600 Fairgrounds Dr",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 2209",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "auction",
+        "livestock",
+        "market"
+    ],
+    "sg:website":"www.rivertonlivestock.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SmewlGWJFKLx5eA02Dcs8_43.015854_-108.382970@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311527,
+    "wof:geomhash":"847149b1e61cd9760864ea94c65d8652",
+    "wof:hierarchy":[],
+    "wof:id":874077935,
+    "wof:lastmodified":1464311527,
+    "wof:name":"Riverton Livestock Auction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auction",
+        "livestock",
+        "market"
+    ]
+},
+  "bbox": [
+    -108.38297,
+    43.015854,
+    -108.38297,
+    43.015854
+],
+  "geometry": {"coordinates":[-108.38297,43.015854],"type":"Point"}
+}

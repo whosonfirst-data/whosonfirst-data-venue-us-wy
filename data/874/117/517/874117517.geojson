@@ -1,0 +1,77 @@
+{
+  "id": 874117517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.319381,42.847564,-106.319381,42.847564",
+    "geom:latitude":42.847564,
+    "geom:longitude":-106.319381,
+    "iso:country":"US",
+    "sg:address":"400 E Collins Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 5247",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "fine",
+        "arts",
+        "art",
+        "center",
+        "gallery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k88cCSrDH8f19vzj1GAIz_42.847564_-106.319381@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312011,
+    "wof:geomhash":"7a1ff8f18c73d738638a9e45f3945709",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874117517
+        }
+    ],
+    "wof:id":874117517,
+    "wof:lastmodified":1464312011,
+    "wof:name":"THE MUSEUM SHOP",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fine",
+        "arts",
+        "art",
+        "center",
+        "gallery"
+    ]
+},
+  "bbox": [
+    -106.319381,
+    42.847564,
+    -106.319381,
+    42.847564
+],
+  "geometry": {"coordinates":[-106.31938100000001,42.847564],"type":"Point"}
+}

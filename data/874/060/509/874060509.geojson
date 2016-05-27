@@ -1,0 +1,56 @@
+{
+  "id": 874060509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.18886,42.072664,-104.18886,42.072664",
+    "geom:latitude":42.072664,
+    "geom:longitude":-104.18886,
+    "iso:country":"US",
+    "sg:address":"2802 W C St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 2253",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GAE2vrE8IeP7yvWR3q8Ex_42.072664_-104.188860@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311339,
+    "wof:geomhash":"a3358a85539db2b4fc5c37e6322617ac",
+    "wof:hierarchy":[],
+    "wof:id":874060509,
+    "wof:lastmodified":1464311339,
+    "wof:name":"Smith's Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -104.18886,
+    42.072664,
+    -104.18886,
+    42.072664
+],
+  "geometry": {"coordinates":[-104.18886000000001,42.072664],"type":"Point"}
+}

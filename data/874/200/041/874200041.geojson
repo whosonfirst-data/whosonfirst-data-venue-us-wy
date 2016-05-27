@@ -1,0 +1,57 @@
+{
+  "id": 874200041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.828227,41.131323,-104.828227,41.131323",
+    "geom:latitude":41.131323,
+    "geom:longitude":-104.828227,
+    "iso:country":"US",
+    "sg:address":"1102 W 19th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 7273",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "sg:website":"www.steilsurvey.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rdqepljy8KtrIcbSC76ek_41.131323_-104.828227@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312843,
+    "wof:geomhash":"667177f6e97ed07a606976cf4dba996e",
+    "wof:hierarchy":[],
+    "wof:id":874200041,
+    "wof:lastmodified":1464312843,
+    "wof:name":"Steil Surveying Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -104.828227,
+    41.131323,
+    -104.828227,
+    41.131323
+],
+  "geometry": {"coordinates":[-104.828227,41.131323],"type":"Point"}
+}

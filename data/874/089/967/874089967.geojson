@@ -1,0 +1,75 @@
+{
+  "id": 874089967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.600527,41.315835,-105.600527,41.315835",
+    "geom:latitude":41.315835,
+    "geom:longitude":-105.600527,
+    "iso:country":"US",
+    "sg:address":"362 N Cedar St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 4264",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "house",
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eOl9ciB3oic4x4oxyNwbJ_41.315835_-105.600527@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311662,
+    "wof:geomhash":"7b2366b13c4bd73dd96eab85bdf5c3bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874089967
+        }
+    ],
+    "wof:id":874089967,
+    "wof:lastmodified":1464311662,
+    "wof:name":"J C Construction Design L L C",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.600527,
+    41.315835,
+    -105.600527,
+    41.315835
+],
+  "geometry": {"coordinates":[-105.600527,41.315835],"type":"Point"}
+}

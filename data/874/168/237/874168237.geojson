@@ -1,0 +1,56 @@
+{
+  "id": 874168237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.397443,43.024534,-108.397443,43.024534",
+    "geom:latitude":43.024534,
+    "geom:longitude":-108.397443,
+    "iso:country":"US",
+    "sg:address":"519 W Main St",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 857 7306",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qANNgGZsL5nhbGH618yih_43.024534_-108.397443@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312509,
+    "wof:geomhash":"4f449c350451f2b1ed2bb58cd314f36c",
+    "wof:hierarchy":[],
+    "wof:id":874168237,
+    "wof:lastmodified":1464312509,
+    "wof:name":"Perrett's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -108.397443,
+    43.024534,
+    -108.397443,
+    43.024534
+],
+  "geometry": {"coordinates":[-108.397443,43.024534],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874199741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.404509,42.828067,-106.404509,42.828067",
+    "geom:latitude":42.828067,
+    "geom:longitude":-106.404509,
+    "iso:country":"US",
+    "sg:address":"2120 Jonquil St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 6919",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O6pggbRnnwHnW9xfnkWqM_42.828067_-106.404509@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312841,
+    "wof:geomhash":"3a483ad38201a278e607b4d6ad1d54e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874199741
+        }
+    ],
+    "wof:id":874199741,
+    "wof:lastmodified":1464312841,
+    "wof:name":"American Drapery & Design",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.404509,
+    42.828067,
+    -106.404509,
+    42.828067
+],
+  "geometry": {"coordinates":[-106.404509,42.828067],"type":"Point"}
+}

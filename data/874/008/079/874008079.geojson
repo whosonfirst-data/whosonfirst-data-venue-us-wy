@@ -1,0 +1,56 @@
+{
+  "id": 874008079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.113362,43.748939,-111.113362,43.748939",
+    "geom:latitude":43.748939,
+    "geom:longitude":-111.113362,
+    "iso:country":"US",
+    "sg:address":"59 Grandview Dr",
+    "sg:city":"Driggs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 354 3608",
+    "sg:postcode":"83422",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BFqfuJ3BOLcZF06SejFn3_43.748939_-111.113362@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310842,
+    "wof:geomhash":"a5097f67f0aef55c210cdf953765674c",
+    "wof:hierarchy":[],
+    "wof:id":874008079,
+    "wof:lastmodified":1464310842,
+    "wof:name":"Brijohn Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.113362,
+    43.748939,
+    -111.113362,
+    43.748939
+],
+  "geometry": {"coordinates":[-111.113362,43.748939],"type":"Point"}
+}

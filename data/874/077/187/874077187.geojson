@@ -1,0 +1,66 @@
+{
+  "id": 874077187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.566703,41.308558,-105.566703,41.308558",
+    "geom:latitude":41.308558,
+    "geom:longitude":-105.566703,
+    "iso:country":"US",
+    "sg:address":"2130 E Garfield St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4248",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ei9vA5LxpABsDxKUhv8jS_41.308558_-105.566703@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311521,
+    "wof:geomhash":"d074719e04063b5c45c8638a8297d07a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874077187
+        }
+    ],
+    "wof:id":874077187,
+    "wof:lastmodified":1464311521,
+    "wof:name":"First Christian Church",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.566703,
+    41.308558,
+    -105.566703,
+    41.308558
+],
+  "geometry": {"coordinates":[-105.566703,41.308558],"type":"Point"}
+}

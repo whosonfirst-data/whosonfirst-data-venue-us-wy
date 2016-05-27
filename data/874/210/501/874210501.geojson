@@ -1,0 +1,71 @@
+{
+  "id": 874210501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.36256,42.852228,-106.36256,42.852228",
+    "geom:latitude":42.852228,
+    "geom:longitude":-106.36256,
+    "iso:country":"US",
+    "sg:address":"118 Progress Cir",
+    "sg:city":"Mills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 5050",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u5Es9T8CmcuCIiaKcY0ky_42.852228_-106.362560@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312955,
+    "wof:geomhash":"af080a30891826455bf23087509aa99e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874210501
+        }
+    ],
+    "wof:id":874210501,
+    "wof:lastmodified":1464312955,
+    "wof:name":"S & L Classics Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -106.36256,
+    42.852228,
+    -106.36256,
+    42.852228
+],
+  "geometry": {"coordinates":[-106.36256,42.852228],"type":"Point"}
+}

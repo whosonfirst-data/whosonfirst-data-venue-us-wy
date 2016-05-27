@@ -1,0 +1,71 @@
+{
+  "id": 874015373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.620287,41.310242,-105.620287,41.310242",
+    "geom:latitude":41.310242,
+    "geom:longitude":-105.620287,
+    "iso:country":"US",
+    "sg:address":"312 S Pierce St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6168",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wADEi2yZjiMyUz3rxKzET_41.310242_-105.620287@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310894,
+    "wof:geomhash":"c5061a43a0327aa9fcf7af3a37b74396",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874015373
+        }
+    ],
+    "wof:id":874015373,
+    "wof:lastmodified":1464310894,
+    "wof:name":"Church Laramie Faith Community",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -105.620287,
+    41.310242,
+    -105.620287,
+    41.310242
+],
+  "geometry": {"coordinates":[-105.620287,41.310242],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874193673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.278725,42.830318,-106.278725,42.830318",
+    "geom:latitude":42.830318,
+    "geom:longitude":-106.278725,
+    "iso:country":"US",
+    "sg:address":"2012 Nottingham Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 5974",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dD5Er8Ov0hoLomjV9VzjW_42.830318_-106.278725@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312776,
+    "wof:geomhash":"fd9580a01927a55eafa65e9bb2046c3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874193673
+        }
+    ],
+    "wof:id":874193673,
+    "wof:lastmodified":1464312776,
+    "wof:name":"Generose Industries LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.278725,
+    42.830318,
+    -106.278725,
+    42.830318
+],
+  "geometry": {"coordinates":[-106.27872499999999,42.830318],"type":"Point"}
+}

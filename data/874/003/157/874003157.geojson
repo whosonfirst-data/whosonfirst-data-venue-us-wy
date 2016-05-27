@@ -1,0 +1,72 @@
+{
+  "id": 874003157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.596109,41.300669,-105.596109,41.300669",
+    "geom:latitude":41.300669,
+    "geom:longitude":-105.596109,
+    "iso:country":"US",
+    "sg:address":"1420 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7158",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "herb"
+    ],
+    "sg:website":"www.herballifestyles.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZrxEElng4nNZZTg3cm1FS_41.300669_-105.596109@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310794,
+    "wof:geomhash":"eff5d2c8e4ac0050fe8342105cfed35c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874003157
+        }
+    ],
+    "wof:id":874003157,
+    "wof:lastmodified":1464310794,
+    "wof:name":"Herbal Remedies",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "herb"
+    ]
+},
+  "bbox": [
+    -105.596109,
+    41.300669,
+    -105.596109,
+    41.300669
+],
+  "geometry": {"coordinates":[-105.596109,41.300669],"type":"Point"}
+}

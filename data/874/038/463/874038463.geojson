@@ -1,0 +1,72 @@
+{
+  "id": 874038463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.366338,42.830631,-106.366338,42.830631",
+    "geom:latitude":42.830631,
+    "geom:longitude":-106.366338,
+    "iso:country":"US",
+    "sg:address":"1500 SW Wyoming Blvd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 6063",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "sg:website":"www.wyowater.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IpdqkMXIDVD1B657xwFzk_42.830631_-106.366338@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311130,
+    "wof:geomhash":"2e0319570f40af69cb0e8c8c06e5e486",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874038463
+        }
+    ],
+    "wof:id":874038463,
+    "wof:lastmodified":1464311130,
+    "wof:name":"Central Wyoming Regional Water",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -106.366338,
+    42.830631,
+    -106.366338,
+    42.830631
+],
+  "geometry": {"coordinates":[-106.366338,42.830631],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874050991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.578511,41.316223,-105.578511,41.316223",
+    "geom:latitude":41.316223,
+    "geom:longitude":-105.578511,
+    "iso:country":"US",
+    "sg:address":"555 N 14th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 0578",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vtELZ1yLnKFZo5SRwv7Fe_41.316223_-105.578511@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311250,
+    "wof:geomhash":"a80dbd9a07d0a7a3357e6f535d04ad71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874050991
+        }
+    ],
+    "wof:id":874050991,
+    "wof:lastmodified":1464311250,
+    "wof:name":"University Child Care Center",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -105.578511,
+    41.316223,
+    -105.578511,
+    41.316223
+],
+  "geometry": {"coordinates":[-105.57851100000001,41.316223],"type":"Point"}
+}

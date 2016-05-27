@@ -1,0 +1,58 @@
+{
+  "id": 873995901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.406309,42.750432,-105.406309,42.750432",
+    "geom:latitude":42.750432,
+    "geom:longitude":-105.406309,
+    "iso:country":"US",
+    "sg:address":"741 S Riverbend Dr",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 5915",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tSEzPwtjAmAkPwlKZhQee_42.750432_-105.406309@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310732,
+    "wof:geomhash":"45c2ec68fab7fd8f7e6d04c5006a571f",
+    "wof:hierarchy":[],
+    "wof:id":873995901,
+    "wof:lastmodified":1464310732,
+    "wof:name":"North Park Transportation Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -105.406309,
+    42.750432,
+    -105.406309,
+    42.750432
+],
+  "geometry": {"coordinates":[-105.40630899999999,42.750432],"type":"Point"}
+}

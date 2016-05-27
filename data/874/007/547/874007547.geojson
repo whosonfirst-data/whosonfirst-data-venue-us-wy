@@ -1,0 +1,56 @@
+{
+  "id": 874007547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.699114,44.351093,-106.699114,44.351093",
+    "geom:latitude":44.351093,
+    "geom:longitude":-106.699114,
+    "iso:country":"US",
+    "sg:address":"360 N Main St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 9531",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HncAmiIt6ONaVtVU7Q8cp_44.351093_-106.699114@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310836,
+    "wof:geomhash":"78f54791daa85b8659c9aed1c5dcec26",
+    "wof:hierarchy":[],
+    "wof:id":874007547,
+    "wof:lastmodified":1464310836,
+    "wof:name":"Century 21",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker"
+    ]
+},
+  "bbox": [
+    -106.699114,
+    44.351093,
+    -106.699114,
+    44.351093
+],
+  "geometry": {"coordinates":[-106.69911399999999,44.351093],"type":"Point"}
+}

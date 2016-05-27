@@ -1,0 +1,72 @@
+{
+  "id": 874164887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593117,41.316184,-105.593117,41.316184",
+    "geom:latitude":41.316184,
+    "geom:longitude":-105.593117,
+    "iso:country":"US",
+    "sg:address":"450 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4828",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lumber"
+    ],
+    "sg:website":"www.bloedornlumber.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43Xt20FxY0No0AUMzmycW6_41.316184_-105.593117@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312478,
+    "wof:geomhash":"0582cf8f3dae6f5e62942487b031acdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874164887
+        }
+    ],
+    "wof:id":874164887,
+    "wof:lastmodified":1464312478,
+    "wof:name":"Bloedorn Lumber-Laramie",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lumber"
+    ]
+},
+  "bbox": [
+    -105.593117,
+    41.316184,
+    -105.593117,
+    41.316184
+],
+  "geometry": {"coordinates":[-105.59311700000001,41.316184],"type":"Point"}
+}

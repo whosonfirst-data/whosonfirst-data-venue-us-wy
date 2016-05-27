@@ -1,0 +1,56 @@
+{
+  "id": 874179563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.781596,43.414864,-110.781596,43.414864",
+    "geom:latitude":43.414864,
+    "geom:longitude":-110.781596,
+    "iso:country":"US",
+    "sg:address":"5300 S Ricks Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 734 5710",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08eeveSmYnwFUBG9fSQ0Ma_43.414864_-110.781596@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312626,
+    "wof:geomhash":"415298b022ff02106baeec04c0446522",
+    "wof:hierarchy":[],
+    "wof:id":874179563,
+    "wof:lastmodified":1464312626,
+    "wof:name":"Jackson Hole Polo Club",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -110.781596,
+    43.414864,
+    -110.781596,
+    43.414864
+],
+  "geometry": {"coordinates":[-110.78159599999999,43.414864],"type":"Point"}
+}

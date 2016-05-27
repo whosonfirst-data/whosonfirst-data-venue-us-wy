@@ -1,0 +1,51 @@
+{
+  "id": 874215379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.697418,44.354284,-106.697418,44.354284",
+    "geom:latitude":44.354284,
+    "geom:longitude":-106.697418,
+    "iso:country":"US",
+    "sg:address":"106 US Hwy 16",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 0101",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38wjEU4EKIDV8LKoaUPmqh_44.354284_-106.697418@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313008,
+    "wof:geomhash":"03bec4db5fe0aa648af5fa0d07c42440",
+    "wof:hierarchy":[],
+    "wof:id":874215379,
+    "wof:lastmodified":1464313008,
+    "wof:name":"White Buffalo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.697418,
+    44.354284,
+    -106.697418,
+    44.354284
+],
+  "geometry": {"coordinates":[-106.697418,44.354284],"type":"Point"}
+}

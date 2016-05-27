@@ -1,0 +1,58 @@
+{
+  "id": 874228429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.855837,41.096925,-104.855837,41.096925",
+    "geom:latitude":41.096925,
+    "geom:longitude":-104.855837,
+    "iso:country":"US",
+    "sg:address":"4000 W College Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne-west/206226-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hQuJdnr9GuJxzMwOT6JJb_41.096925_-104.855837@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313145,
+    "wof:geomhash":"d1e51663f3fcec2bdee9bedab08775df",
+    "wof:hierarchy":[],
+    "wof:id":874228429,
+    "wof:lastmodified":1464313145,
+    "wof:name":"McDonald's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -104.855837,
+    41.096925,
+    -104.855837,
+    41.096925
+],
+  "geometry": {"coordinates":[-104.85583699999999,41.096925],"type":"Point"}
+}

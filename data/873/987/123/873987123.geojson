@@ -1,0 +1,56 @@
+{
+  "id": 873987123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.050693,44.403774,-108.050693,44.403774",
+    "geom:latitude":44.403774,
+    "geom:longitude":-108.050693,
+    "iso:country":"US",
+    "sg:address":"4140 Golf Course Rd",
+    "sg:city":"Basin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 568 2409",
+    "sg:postcode":"82410",
+    "sg:province":"WY",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1adR4r8kghe4zSiI7vkfK3_44.403774_-108.050693@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310669,
+    "wof:geomhash":"3b70cb35ddf0147f5d08ea8150bfa1b0",
+    "wof:hierarchy":[],
+    "wof:id":873987123,
+    "wof:lastmodified":1464310669,
+    "wof:name":"Basin Sewer Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -108.050693,
+    44.403774,
+    -108.050693,
+    44.403774
+],
+  "geometry": {"coordinates":[-108.050693,44.403774],"type":"Point"}
+}

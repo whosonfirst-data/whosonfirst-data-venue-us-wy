@@ -1,0 +1,66 @@
+{
+  "id": 874111535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.618653,41.3117,-105.618653,41.3117",
+    "geom:latitude":41.3117,
+    "geom:longitude":-105.618653,
+    "iso:country":"US",
+    "sg:address":"213 S Fillmore St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4766",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RNbXKm6DMpSUDYC03Zlhc_41.311700_-105.618653@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311949,
+    "wof:geomhash":"2315e8b2ee73b066049e6f7548cede97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874111535
+        }
+    ],
+    "wof:id":874111535,
+    "wof:lastmodified":1464311949,
+    "wof:name":"Extreme Point Tattoo",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.618653,
+    41.3117,
+    -105.618653,
+    41.3117
+],
+  "geometry": {"coordinates":[-105.61865299999999,41.3117],"type":"Point"}
+}

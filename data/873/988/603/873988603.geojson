@@ -1,0 +1,58 @@
+{
+  "id": 873988603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.698677,44.345231,-106.698677,44.345231",
+    "geom:latitude":44.345231,
+    "geom:longitude":-106.698677,
+    "iso:country":"US",
+    "sg:address":"66 W Angus St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 7364",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pujuF6eCRYrTQVks8RXDi_44.345231_-106.698677@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310680,
+    "wof:geomhash":"71337ae0772eac5c5410ab9de1cae95c",
+    "wof:hierarchy":[],
+    "wof:id":873988603,
+    "wof:lastmodified":1464310680,
+    "wof:name":"City Electric Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.698677,
+    44.345231,
+    -106.698677,
+    44.345231
+],
+  "geometry": {"coordinates":[-106.698677,44.345231],"type":"Point"}
+}

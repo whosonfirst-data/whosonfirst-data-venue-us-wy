@@ -1,0 +1,69 @@
+{
+  "id": 874147567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.446307,42.873526,-106.446307,42.873526",
+    "geom:latitude":42.873526,
+    "geom:longitude":-106.446307,
+    "iso:country":"US",
+    "sg:address":"7679 W Chalk Creek Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 0828",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3khbwCbfGpPopdw5CfNCQv_42.873526_-106.446307@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312307,
+    "wof:geomhash":"5723dd746fd85044bc09c6db7d88c5b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874147567
+        }
+    ],
+    "wof:id":874147567,
+    "wof:lastmodified":1464312307,
+    "wof:name":"Maxwells Group Day Care Home",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -106.446307,
+    42.873526,
+    -106.446307,
+    42.873526
+],
+  "geometry": {"coordinates":[-106.446307,42.873526],"type":"Point"}
+}

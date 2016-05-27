@@ -1,0 +1,56 @@
+{
+  "id": 874171695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.863662,42.866425,-109.863662,42.866425",
+    "geom:latitude":42.866425,
+    "geom:longitude":-109.863662,
+    "iso:country":"US",
+    "sg:address":"21 S Franklin Ave",
+    "sg:city":"Pinedale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 367 4443",
+    "sg:postcode":"82941",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20QTYfo1FsSzy5lcz44CtP_42.866425_-109.863662@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312546,
+    "wof:geomhash":"f8312e53cee72fbad433906b541013cc",
+    "wof:hierarchy":[],
+    "wof:id":874171695,
+    "wof:lastmodified":1464312546,
+    "wof:name":"Mc Gregor's Pub",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -109.863662,
+    42.866425,
+    -109.863662,
+    42.866425
+],
+  "geometry": {"coordinates":[-109.86366200000001,42.866425],"type":"Point"}
+}

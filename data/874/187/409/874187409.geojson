@@ -1,0 +1,73 @@
+{
+  "id": 874187409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.573461,41.305182,-105.573461,41.305182",
+    "geom:latitude":41.305182,
+    "geom:longitude":-105.573461,
+    "iso:country":"US",
+    "sg:address":"1730 E Park Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6381",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uYEcemOH5P6eVC1b7Ukfr_41.305182_-105.573461@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312713,
+    "wof:geomhash":"78c0c95b3b6c5cfb0f32edc070d13822",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874187409
+        }
+    ],
+    "wof:id":874187409,
+    "wof:lastmodified":1464312713,
+    "wof:name":"Richmike Enterprises Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -105.573461,
+    41.305182,
+    -105.573461,
+    41.305182
+],
+  "geometry": {"coordinates":[-105.57346099999999,41.305182],"type":"Point"}
+}

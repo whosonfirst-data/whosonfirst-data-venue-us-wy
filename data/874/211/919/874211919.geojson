@@ -1,0 +1,56 @@
+{
+  "id": 874211919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.1843,43.845397,-104.1843,43.845397",
+    "geom:latitude":43.845397,
+    "geom:longitude":-104.1843,
+    "iso:country":"US",
+    "sg:address":"1550 Gray Blvd",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 9608",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wlnX6xVtSW1tBuD2PHmK3_43.845397_-104.184300@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312973,
+    "wof:geomhash":"16b13ab995378b6d1bc5d34918cd91a0",
+    "wof:hierarchy":[],
+    "wof:id":874211919,
+    "wof:lastmodified":1464312973,
+    "wof:name":"R & H Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage"
+    ]
+},
+  "bbox": [
+    -104.1843,
+    43.845397,
+    -104.1843,
+    43.845397
+],
+  "geometry": {"coordinates":[-104.18429999999999,43.845397],"type":"Point"}
+}

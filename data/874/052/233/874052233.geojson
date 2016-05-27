@@ -1,0 +1,58 @@
+{
+  "id": 874052233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.210418,43.642593,-108.210418,43.642593",
+    "geom:latitude":43.642593,
+    "geom:longitude":-108.210418,
+    "iso:country":"US",
+    "sg:address":"410 S 5th St",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 5601",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4luWezvm6pGgsTck0YChMw_43.642593_-108.210418@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311261,
+    "wof:geomhash":"02b20774c0010cca9c5abff669b16d24",
+    "wof:hierarchy":[],
+    "wof:id":874052233,
+    "wof:lastmodified":1464311261,
+    "wof:name":"Pete's Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.210418,
+    43.642593,
+    -108.210418,
+    43.642593
+],
+  "geometry": {"coordinates":[-108.210418,43.642593],"type":"Point"}
+}

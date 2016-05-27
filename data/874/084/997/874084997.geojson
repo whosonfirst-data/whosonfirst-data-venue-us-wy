@@ -1,0 +1,71 @@
+{
+  "id": 874084997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.350197,42.816806,-106.350197,42.816806",
+    "geom:latitude":42.816806,
+    "geom:longitude":-106.350197,
+    "iso:country":"US",
+    "sg:address":"3440 Navarre Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 0775",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hMmtdGtjFcTnpnMRDvsk2_42.816806_-106.350197@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311609,
+    "wof:geomhash":"1b7bbe80db20eb1d86db244510d52274",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874084997
+        }
+    ],
+    "wof:id":874084997,
+    "wof:lastmodified":1464311609,
+    "wof:name":"Mel Klaus Consulting",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -106.350197,
+    42.816806,
+    -106.350197,
+    42.816806
+],
+  "geometry": {"coordinates":[-106.35019699999999,42.816806],"type":"Point"}
+}

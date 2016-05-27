@@ -1,0 +1,56 @@
+{
+  "id": 874055999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.948311,44.013729,-107.948311,44.013729",
+    "geom:latitude":44.013729,
+    "geom:longitude":-107.948311,
+    "iso:country":"US",
+    "sg:address":"403 S 15th St",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 4422",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YFndxn8Jw8aEvFNoJ7VSG_44.013729_-107.948311@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311301,
+    "wof:geomhash":"194c32f0dc49318259b3d03b74ef2be2",
+    "wof:hierarchy":[],
+    "wof:id":874055999,
+    "wof:lastmodified":1464311301,
+    "wof:name":"Presbyterian Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -107.948311,
+    44.013729,
+    -107.948311,
+    44.013729
+],
+  "geometry": {"coordinates":[-107.948311,44.013729],"type":"Point"}
+}

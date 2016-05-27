@@ -1,0 +1,64 @@
+{
+  "id": 874092445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.427916,42.876162,-106.427916,42.876162",
+    "geom:latitude":42.876162,
+    "geom:longitude":-106.427916,
+    "iso:country":"US",
+    "sg:address":"6819 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 5559",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OHQF4YP0ReITH4DGqG9jK_42.876162_-106.427916@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311690,
+    "wof:geomhash":"3380ba7f3886428ba802bad373091064",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874092445
+        }
+    ],
+    "wof:id":874092445,
+    "wof:lastmodified":1464311690,
+    "wof:name":"Natrona County Weed Control",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.427916,
+    42.876162,
+    -106.427916,
+    42.876162
+],
+  "geometry": {"coordinates":[-106.427916,42.876162],"type":"Point"}
+}

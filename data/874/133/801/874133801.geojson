@@ -1,0 +1,60 @@
+{
+  "id": 874133801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.996322,41.318494,-110.996322,41.318494",
+    "geom:latitude":41.318494,
+    "geom:longitude":-110.996322,
+    "iso:country":"US",
+    "sg:address":"3281 State Hwy 89 N",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 783 7684",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46G7KYZfHwRBpzCOgrOjbS_41.318494_-110.996322@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312180,
+    "wof:geomhash":"576bb8309d2816a03ded745fc74b4132",
+    "wof:hierarchy":[],
+    "wof:id":874133801,
+    "wof:lastmodified":1464312180,
+    "wof:name":"Lambchop Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -110.996322,
+    41.318494,
+    -110.996322,
+    41.318494
+],
+  "geometry": {"coordinates":[-110.99632200000001,41.318494],"type":"Point"}
+}

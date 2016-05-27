@@ -1,0 +1,58 @@
+{
+  "id": 874158853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.027562,44.778533,-107.027562,44.778533",
+    "geom:latitude":44.778533,
+    "geom:longitude":-107.027562,
+    "iso:country":"US",
+    "sg:address":"385 Big Goose Rd",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 9249",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pavement",
+        "marking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BcahImab0qp2COiOkVgZO_44.778533_-107.027562@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312420,
+    "wof:geomhash":"503e0237c10b4a88aec48efaa1368bb2",
+    "wof:hierarchy":[],
+    "wof:id":874158853,
+    "wof:lastmodified":1464312420,
+    "wof:name":"Pavement Markings",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pavement",
+        "marking"
+    ]
+},
+  "bbox": [
+    -107.027562,
+    44.778533,
+    -107.027562,
+    44.778533
+],
+  "geometry": {"coordinates":[-107.027562,44.778533],"type":"Point"}
+}

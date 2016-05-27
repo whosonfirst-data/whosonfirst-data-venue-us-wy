@@ -1,0 +1,56 @@
+{
+  "id": 874120125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.060271,44.531361,-109.060271,44.531361",
+    "geom:latitude":44.531361,
+    "geom:longitude":-109.060271,
+    "iso:country":"US",
+    "sg:address":"553 14th St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 7464",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uOIZzHm0eFrC3fjU6RbCD_44.531361_-109.060271@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312042,
+    "wof:geomhash":"52fff87b799c3674d5993efb6c8f0cca",
+    "wof:hierarchy":[],
+    "wof:id":874120125,
+    "wof:lastmodified":1464312042,
+    "wof:name":"Yellowstone Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -109.060271,
+    44.531361,
+    -109.060271,
+    44.531361
+],
+  "geometry": {"coordinates":[-109.060271,44.531361],"type":"Point"}
+}

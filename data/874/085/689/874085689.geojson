@@ -1,0 +1,51 @@
+{
+  "id": 874085689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.067476,41.182889,-104.067476,41.182889",
+    "geom:latitude":41.182889,
+    "geom:longitude":-104.067476,
+    "iso:country":"US",
+    "sg:address":"110 E 2nd St",
+    "sg:city":"Pine Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 245 3646",
+    "sg:postcode":"82082",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wJpfP0kzyb8IPzhx45P9U_41.182889_-104.067476@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311617,
+    "wof:geomhash":"8dbee4ed8d00649887f4e5a35aa91fd2",
+    "wof:hierarchy":[],
+    "wof:id":874085689,
+    "wof:lastmodified":1464311617,
+    "wof:name":"Pine Bluffs Branch Library",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.067476,
+    41.182889,
+    -104.067476,
+    41.182889
+],
+  "geometry": {"coordinates":[-104.067476,41.182889],"type":"Point"}
+}

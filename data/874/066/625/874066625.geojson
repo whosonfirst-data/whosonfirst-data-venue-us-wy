@@ -1,0 +1,73 @@
+{
+  "id": 874066625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.548504,41.372619,-105.548504,41.372619",
+    "geom:latitude":41.372619,
+    "geom:longitude":-105.548504,
+    "iso:country":"US",
+    "sg:address":"467 Roger Canyon Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2527",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "leasing",
+        "snowmobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XWztEXRSKB4FCdYZCfBUm_41.372619_-105.548504@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311394,
+    "wof:geomhash":"ff35c65b11a3d5d09788b20c650f5835",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874066625
+        }
+    ],
+    "wof:id":874066625,
+    "wof:lastmodified":1464311394,
+    "wof:name":"Snomotion Snowmobile & Atv",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "snowmobile"
+    ]
+},
+  "bbox": [
+    -105.548504,
+    41.372619,
+    -105.548504,
+    41.372619
+],
+  "geometry": {"coordinates":[-105.54850399999999,41.372619],"type":"Point"}
+}

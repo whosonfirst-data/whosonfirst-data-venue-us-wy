@@ -1,0 +1,58 @@
+{
+  "id": 874048573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.809416,41.10877,-104.809416,41.10877",
+    "geom:latitude":41.10877,
+    "geom:longitude":-104.809416,
+    "iso:country":"US",
+    "sg:address":"1005 Walterscheid Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 6409",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "car",
+        "pilot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vqD4iwfOYJNgGVAH6xJQc_41.108770_-104.809416@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311228,
+    "wof:geomhash":"080918b69537aecafc06f902d47e6f72",
+    "wof:hierarchy":[],
+    "wof:id":874048573,
+    "wof:lastmodified":1464311228,
+    "wof:name":"Frontier Highway Escort",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "pilot"
+    ]
+},
+  "bbox": [
+    -104.809416,
+    41.10877,
+    -104.809416,
+    41.10877
+],
+  "geometry": {"coordinates":[-104.809416,41.10877],"type":"Point"}
+}

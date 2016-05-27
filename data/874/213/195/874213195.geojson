@@ -1,0 +1,66 @@
+{
+  "id": 874213195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593554,41.311108,-105.593554,41.311108",
+    "geom:latitude":41.311108,
+    "geom:longitude":-105.593554,
+    "iso:country":"US",
+    "sg:address":"307 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 8965",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_601hlicW28oO3w3OyYWMrt_41.311108_-105.593554@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312986,
+    "wof:geomhash":"e2559b072986a4ba397a02365d0e62d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874213195
+        }
+    ],
+    "wof:id":874213195,
+    "wof:lastmodified":1464312986,
+    "wof:name":"Snowy Range Coffee Roasters",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.593554,
+    41.311108,
+    -105.593554,
+    41.311108
+],
+  "geometry": {"coordinates":[-105.593554,41.311108],"type":"Point"}
+}

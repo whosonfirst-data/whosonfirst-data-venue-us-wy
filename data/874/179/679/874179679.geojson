@@ -1,0 +1,71 @@
+{
+  "id": 874179679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.309615,42.854665,-106.309615,42.854665",
+    "geom:latitude":42.854665,
+    "geom:longitude":-106.309615,
+    "iso:country":"US",
+    "sg:address":"413 N Washington St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 8060",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qwz1AH7PW18F7l1F3IVe1_42.854665_-106.309615@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312626,
+    "wof:geomhash":"4c878a94258d40d1b386a3c94c719a5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874179679
+        }
+    ],
+    "wof:id":874179679,
+    "wof:lastmodified":1464312626,
+    "wof:name":"Hutchs HI-Country Plumbing",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.309615,
+    42.854665,
+    -106.309615,
+    42.854665
+],
+  "geometry": {"coordinates":[-106.30961499999999,42.854665],"type":"Point"}
+}

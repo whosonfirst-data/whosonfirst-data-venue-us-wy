@@ -1,0 +1,71 @@
+{
+  "id": 874061753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.430734,42.872108,-106.430734,42.872108",
+    "geom:latitude":42.872108,
+    "geom:longitude":-106.430734,
+    "iso:country":"US",
+    "sg:address":"7197 W Derick Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 6045",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28xRZdYpuIHyUquQ8VB1Xa_42.872108_-106.430734@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311351,
+    "wof:geomhash":"49b6ef8bdc51effb2734b7af26a35630",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874061753
+        }
+    ],
+    "wof:id":874061753,
+    "wof:lastmodified":1464311351,
+    "wof:name":"Security Dbs Halliburton Co",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -106.430734,
+    42.872108,
+    -106.430734,
+    42.872108
+],
+  "geometry": {"coordinates":[-106.430734,42.872108],"type":"Point"}
+}

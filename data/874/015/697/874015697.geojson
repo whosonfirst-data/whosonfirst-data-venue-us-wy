@@ -1,0 +1,69 @@
+{
+  "id": 874015697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.397838,42.85511,-106.397838,42.85511",
+    "geom:latitude":42.85511,
+    "geom:longitude":-106.397838,
+    "iso:country":"US",
+    "sg:address":"540 Gehring St",
+    "sg:city":"Mills",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 6432",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hLYEvq3Cd4RDmvkxJvqPw_42.855110_-106.397838@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310897,
+    "wof:geomhash":"aa248fdf7473e8d49732a65f47356fd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874015697
+        }
+    ],
+    "wof:id":874015697,
+    "wof:lastmodified":1464310897,
+    "wof:name":"Nicro Plating Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plating"
+    ]
+},
+  "bbox": [
+    -106.397838,
+    42.85511,
+    -106.397838,
+    42.85511
+],
+  "geometry": {"coordinates":[-106.39783799999999,42.85511],"type":"Point"}
+}

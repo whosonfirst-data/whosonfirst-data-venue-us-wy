@@ -1,0 +1,56 @@
+{
+  "id": 874126693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.388971,42.853478,-106.388971,42.853478",
+    "geom:latitude":42.853478,
+    "geom:longitude":-106.388971,
+    "iso:country":"US",
+    "sg:address":"481 N 2nd Ave",
+    "sg:city":"Mills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 1224",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ykB0XcGLgxN6xTIinQpDr_42.853478_-106.388971@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312100,
+    "wof:geomhash":"8f8018f0b679b54649b66aea8732d5df",
+    "wof:hierarchy":[],
+    "wof:id":874126693,
+    "wof:lastmodified":1464312100,
+    "wof:name":"Bison Truck & Diesel",
+    "wof:parent_id":420550301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -106.388971,
+    42.853478,
+    -106.388971,
+    42.853478
+],
+  "geometry": {"coordinates":[-106.388971,42.853478],"type":"Point"}
+}

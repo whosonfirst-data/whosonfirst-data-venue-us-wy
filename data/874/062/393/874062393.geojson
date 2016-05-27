@@ -1,0 +1,73 @@
+{
+  "id": 874062393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.250642,41.575625,-109.250642,41.575625",
+    "geom:latitude":41.575625,
+    "geom:longitude":-109.250642,
+    "iso:country":"US",
+    "sg:address":"2002 Sunset Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 8484",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZXAIs5ohfYEj6Pub1Rg59_41.575625_-109.250642@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311357,
+    "wof:geomhash":"d2f63923232d7e37007238e8eb8c98e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874062393
+        }
+    ],
+    "wof:id":874062393,
+    "wof:lastmodified":1464311357,
+    "wof:name":"84 Lumber",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lumber"
+    ]
+},
+  "bbox": [
+    -109.250642,
+    41.575625,
+    -109.250642,
+    41.575625
+],
+  "geometry": {"coordinates":[-109.250642,41.575625],"type":"Point"}
+}

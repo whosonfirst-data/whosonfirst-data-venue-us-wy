@@ -1,0 +1,60 @@
+{
+  "id": 874006339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.45084,42.763885,-104.45084,42.763885",
+    "geom:latitude":42.763885,
+    "geom:longitude":-104.45084,
+    "iso:country":"US",
+    "sg:address":"211 S Elm St",
+    "sg:city":"Lusk",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 334 2565",
+    "sg:postcode":"82225",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fhV3MK1M1uh17UlTk2LHG_42.763885_-104.450840@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310827,
+    "wof:geomhash":"2b393d27794993a66c1a4f60d2243390",
+    "wof:hierarchy":[],
+    "wof:id":874006339,
+    "wof:lastmodified":1464310827,
+    "wof:name":"S & S Auto Body Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -104.45084,
+    42.763885,
+    -104.45084,
+    42.763885
+],
+  "geometry": {"coordinates":[-104.45084,42.763885],"type":"Point"}
+}

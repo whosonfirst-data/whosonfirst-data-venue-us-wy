@@ -1,0 +1,71 @@
+{
+  "id": 874200525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.430653,42.863163,-106.430653,42.863163",
+    "geom:latitude":42.863163,
+    "geom:longitude":-106.430653,
+    "iso:country":"US",
+    "sg:address":"7094 W Zero Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 1041",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zYwMU4q3KXdvE1ECX3P7b_42.863163_-106.430653@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312849,
+    "wof:geomhash":"217f5ca7a11ab5ab7b680eab85adc879",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874200525
+        }
+    ],
+    "wof:id":874200525,
+    "wof:lastmodified":1464312849,
+    "wof:name":"Cobra Trucking",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -106.430653,
+    42.863163,
+    -106.430653,
+    42.863163
+],
+  "geometry": {"coordinates":[-106.43065300000001,42.863163],"type":"Point"}
+}

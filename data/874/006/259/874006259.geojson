@@ -1,0 +1,69 @@
+{
+  "id": 874006259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.287285,42.854002,-106.287285,42.854002",
+    "geom:latitude":42.854002,
+    "geom:longitude":-106.287285,
+    "iso:country":"US",
+    "sg:address":"3085 Gary Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 7433",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ptC5tWrKRKP6bBCHjPHs1_42.854002_-106.287285@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310827,
+    "wof:geomhash":"090067a8afbfb003fef1d9ef08b526e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874006259
+        }
+    ],
+    "wof:id":874006259,
+    "wof:lastmodified":1464310827,
+    "wof:name":"Exterior Home Improvement",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.287285,
+    42.854002,
+    -106.287285,
+    42.854002
+],
+  "geometry": {"coordinates":[-106.287285,42.854002],"type":"Point"}
+}

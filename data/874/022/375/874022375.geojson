@@ -1,0 +1,73 @@
+{
+  "id": 874022375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.583249,41.309484,-105.583249,41.309484",
+    "geom:latitude":41.309484,
+    "geom:longitude":-105.583249,
+    "iso:country":"US",
+    "sg:address":"1100 E Garfield St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3370",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JQnEiAi8pSDheHY3Hm58C_41.309484_-105.583249@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310968,
+    "wof:geomhash":"1bb15fad67caa13135e0a6e79ea440e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874022375
+        }
+    ],
+    "wof:id":874022375,
+    "wof:lastmodified":1464310968,
+    "wof:name":"Amen Carpentry & Fine Finish",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.583249,
+    41.309484,
+    -105.583249,
+    41.309484
+],
+  "geometry": {"coordinates":[-105.583249,41.309484],"type":"Point"}
+}

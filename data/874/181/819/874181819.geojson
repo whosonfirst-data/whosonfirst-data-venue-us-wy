@@ -1,0 +1,77 @@
+{
+  "id": 874181819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.184317,42.06376,-104.184317,42.06376",
+    "geom:latitude":42.06376,
+    "geom:longitude":-104.184317,
+    "iso:country":"US",
+    "sg:address":"1927 Main St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 8849",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pet",
+        "food",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101733937,
+        102080733,
+        85850153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7X7MFx7vjTVctr1CEGaUUh_42.063760_-104.184317@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312649,
+    "wof:geomhash":"b441b58539582886d21073e71770a4bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080733,
+            "locality_id":101733937,
+            "neighbourhood_id":85850153,
+            "region_id":85688475,
+            "venue_id":874181819
+        }
+    ],
+    "wof:id":874181819,
+    "wof:lastmodified":1464312649,
+    "wof:name":"Wyoming Plus Pets",
+    "wof:parent_id":85850153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food",
+        "supply"
+    ]
+},
+  "bbox": [
+    -104.184317,
+    42.06376,
+    -104.184317,
+    42.06376
+],
+  "geometry": {"coordinates":[-104.18431699999999,42.06376],"type":"Point"}
+}

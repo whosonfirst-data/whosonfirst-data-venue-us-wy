@@ -1,0 +1,73 @@
+{
+  "id": 873998959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.341407,42.793692,-106.341407,42.793692",
+    "geom:latitude":42.793692,
+    "geom:longitude":-106.341407,
+    "iso:country":"US",
+    "sg:address":"6230 S Chestnut St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 7560",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "crude",
+        "production",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55iSyPSyMD5wSn799Lh0s2_42.793692_-106.341407@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310753,
+    "wof:geomhash":"9d5904946fb9c23c436534e2a71279ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873998959
+        }
+    ],
+    "wof:id":873998959,
+    "wof:lastmodified":1464310753,
+    "wof:name":"Allagesh Oil A Wyoming PA",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crude",
+        "production",
+        "gas"
+    ]
+},
+  "bbox": [
+    -106.341407,
+    42.793692,
+    -106.341407,
+    42.793692
+],
+  "geometry": {"coordinates":[-106.341407,42.793692],"type":"Point"}
+}

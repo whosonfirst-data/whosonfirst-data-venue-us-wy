@@ -1,0 +1,59 @@
+{
+  "id": 874229173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.380614,43.025915,-108.380614,43.025915",
+    "geom:latitude":43.025915,
+    "geom:longitude":-108.380614,
+    "iso:country":"US",
+    "sg:address":"215 N Federal Blvd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/wind-river/67222-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 2808",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uqEb5GHtOZjoKDpEZTPYj_43.025915_-108.380614@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313152,
+    "wof:geomhash":"7ed13240e83de5805beae15d95dd4102",
+    "wof:hierarchy":[],
+    "wof:id":874229173,
+    "wof:lastmodified":1464313152,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -108.380614,
+    43.025915,
+    -108.380614,
+    43.025915
+],
+  "geometry": {"coordinates":[-108.38061399999999,43.025915],"type":"Point"}
+}

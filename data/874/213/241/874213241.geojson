@@ -1,0 +1,71 @@
+{
+  "id": 874213241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.197424,42.888108,-106.197424,42.888108",
+    "geom:latitude":42.888108,
+    "geom:longitude":-106.197424,
+    "iso:country":"US",
+    "sg:address":"7846 E Easy St",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 259 7843",
+    "sg:postcode":"82636",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WrdGRapDrvWqCQF12Y0pa_42.888108_-106.197424@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312986,
+    "wof:geomhash":"8bde420ed66e5d5e9a0decde897f3408",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874213241
+        }
+    ],
+    "wof:id":874213241,
+    "wof:lastmodified":1464312986,
+    "wof:name":"Atlantic Electrical LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.197424,
+    42.888108,
+    -106.197424,
+    42.888108
+],
+  "geometry": {"coordinates":[-106.197424,42.888108],"type":"Point"}
+}

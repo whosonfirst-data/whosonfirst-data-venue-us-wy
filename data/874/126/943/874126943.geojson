@@ -1,0 +1,71 @@
+{
+  "id": 874126943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.581166,41.305297,-105.581166,41.305297",
+    "geom:latitude":41.305297,
+    "geom:longitude":-105.581166,
+    "iso:country":"US",
+    "sg:address":"812 S 13th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2488",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z0qAZlOJb6P2ufmt20Bko_41.305297_-105.581166@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312102,
+    "wof:geomhash":"0034f5c30f84a07f31d33b6d7630e6cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874126943
+        }
+    ],
+    "wof:id":874126943,
+    "wof:lastmodified":1464312102,
+    "wof:name":"Healing Ways Veterinary Car E",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -105.581166,
+    41.305297,
+    -105.581166,
+    41.305297
+],
+  "geometry": {"coordinates":[-105.581166,41.305297],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873992957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33501,42.839671,-106.33501,42.839671",
+    "geom:latitude":42.839671,
+    "geom:longitude":-106.33501,
+    "iso:country":"US",
+    "sg:address":"817 W 11th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 9997",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74qlrFtKzfRKiytiqu75Cc_42.839671_-106.335010@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310711,
+    "wof:geomhash":"334df839fd5801b6a6ec91e6e351604b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873992957
+        }
+    ],
+    "wof:id":873992957,
+    "wof:lastmodified":1464310711,
+    "wof:name":"Marv's Speed & Machine",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.33501,
+    42.839671,
+    -106.33501,
+    42.839671
+],
+  "geometry": {"coordinates":[-106.33501,42.839671],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 874228379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.765454,41.139603,-104.765454,41.139603",
+    "geom:latitude":41.139603,
+    "geom:longitude":-104.765454,
+    "iso:country":"US",
+    "sg:address":"3753 E Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/20876-parkway-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 2949",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jeYzumUVrFUdrbp6VtWEw_41.139603_-104.765454@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313144,
+    "wof:geomhash":"946bf58f21a5e64042fba162927e3560",
+    "wof:hierarchy":[],
+    "wof:id":874228379,
+    "wof:lastmodified":1464313144,
+    "wof:name":"Parkway Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -104.765454,
+    41.139603,
+    -104.765454,
+    41.139603
+],
+  "geometry": {"coordinates":[-104.76545400000001,41.139603],"type":"Point"}
+}

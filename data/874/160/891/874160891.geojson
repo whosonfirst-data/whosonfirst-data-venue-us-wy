@@ -1,0 +1,56 @@
+{
+  "id": 874160891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.800449,41.103738,-104.800449,41.103738",
+    "geom:latitude":41.103738,
+    "geom:longitude":-104.800449,
+    "iso:country":"US",
+    "sg:address":"1505 S Greeley Hwy",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 433 1661",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ciFTr6bFRLjq1EteDsici_41.103738_-104.800449@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312441,
+    "wof:geomhash":"41e87db61276652c2cef119df14dff14",
+    "wof:hierarchy":[],
+    "wof:id":874160891,
+    "wof:lastmodified":1464312441,
+    "wof:name":"Impression Yellow Cab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -104.800449,
+    41.103738,
+    -104.800449,
+    41.103738
+],
+  "geometry": {"coordinates":[-104.800449,41.103738],"type":"Point"}
+}

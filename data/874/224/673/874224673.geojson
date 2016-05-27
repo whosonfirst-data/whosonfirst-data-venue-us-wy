@@ -1,0 +1,71 @@
+{
+  "id": 874224673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.276911,42.851652,-106.276911,42.851652",
+    "geom:latitude":42.851652,
+    "geom:longitude":-106.276911,
+    "iso:country":"US",
+    "sg:address":"345 N Walsh Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 0148",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CS7x73MaXNKED44b1mqHa_42.851652_-106.276911@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313108,
+    "wof:geomhash":"6906afde90dcdb6f50a31a4c06097a20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874224673
+        }
+    ],
+    "wof:id":874224673,
+    "wof:lastmodified":1464313108,
+    "wof:name":"US Army Dept",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -106.276911,
+    42.851652,
+    -106.276911,
+    42.851652
+],
+  "geometry": {"coordinates":[-106.276911,42.851652],"type":"Point"}
+}

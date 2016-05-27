@@ -1,0 +1,69 @@
+{
+  "id": 874104331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.325241,42.849219,-106.325241,42.849219",
+    "geom:latitude":42.849219,
+    "geom:longitude":-106.325241,
+    "iso:country":"US",
+    "sg:address":"136 S Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1057",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "embroidery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gdYR7oz61AhzrodaA75gA_42.849219_-106.325241@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311849,
+    "wof:geomhash":"3fb37973e19ae10590e453f2eada7d77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874104331
+        }
+    ],
+    "wof:id":874104331,
+    "wof:lastmodified":1464311849,
+    "wof:name":"Shirts 'n Things",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "embroidery"
+    ]
+},
+  "bbox": [
+    -106.325241,
+    42.849219,
+    -106.325241,
+    42.849219
+],
+  "geometry": {"coordinates":[-106.32524100000001,42.849219],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874167409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.813133,41.135672,-104.813133,41.135672",
+    "geom:latitude":41.135672,
+    "geom:longitude":-104.813133,
+    "iso:country":"US",
+    "sg:address":"209 E 18th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 6188",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EibNHngC5jHDwoywV4sXg_41.135672_-104.813133@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312501,
+    "wof:geomhash":"1da05dab7ab2010df00ef04a6d2f8c03",
+    "wof:hierarchy":[],
+    "wof:id":874167409,
+    "wof:lastmodified":1464312501,
+    "wof:name":"Vital Arts Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -104.813133,
+    41.135672,
+    -104.813133,
+    41.135672
+],
+  "geometry": {"coordinates":[-104.81313299999999,41.135672],"type":"Point"}
+}

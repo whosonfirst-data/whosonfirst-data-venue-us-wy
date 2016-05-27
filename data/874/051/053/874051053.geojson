@@ -1,0 +1,71 @@
+{
+  "id": 874051053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.573789,41.304354,-105.573789,41.304354",
+    "geom:latitude":41.304354,
+    "geom:longitude":-105.573789,
+    "iso:country":"US",
+    "sg:address":"1814 E Steele St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 0418",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZogKGRbw5gdmhPxx9pPUM_41.304354_-105.573789@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311250,
+    "wof:geomhash":"dd0ef7c9d2fe7ab83197e1267a1990bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874051053
+        }
+    ],
+    "wof:id":874051053,
+    "wof:lastmodified":1464311250,
+    "wof:name":"Chemical Tracers Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field"
+    ]
+},
+  "bbox": [
+    -105.573789,
+    41.304354,
+    -105.573789,
+    41.304354
+],
+  "geometry": {"coordinates":[-105.573789,41.304354],"type":"Point"}
+}

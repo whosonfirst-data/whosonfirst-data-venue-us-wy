@@ -1,0 +1,72 @@
+{
+  "id": 874159181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.360455,42.82679,-106.360455,42.82679",
+    "geom:latitude":42.82679,
+    "geom:longitude":-106.360455,
+    "iso:country":"US",
+    "sg:address":"3401 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 4930",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "motorcycle",
+        "snowmobile"
+    ],
+    "sg:website":"www.caspermountainmotorsports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RfVJcTv9ffc3YMpPVe897_42.826790_-106.360455@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312423,
+    "wof:geomhash":"4c1ac9b7a0fcf09e657fa6054cf7312f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874159181
+        }
+    ],
+    "wof:id":874159181,
+    "wof:lastmodified":1464312423,
+    "wof:name":"Casper Mountain Motorsports",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motorcycle",
+        "snowmobile"
+    ]
+},
+  "bbox": [
+    -106.360455,
+    42.82679,
+    -106.360455,
+    42.82679
+],
+  "geometry": {"coordinates":[-106.360455,42.82679],"type":"Point"}
+}

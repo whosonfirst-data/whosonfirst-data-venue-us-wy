@@ -1,0 +1,56 @@
+{
+  "id": 874071121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.697004,44.354129,-106.697004,44.354129",
+    "geom:latitude":44.354129,
+    "geom:longitude":-106.697004,
+    "iso:country":"US",
+    "sg:address":"145 US Hwy 16",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 5310",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qd7YpOYhGb8EODpjB3sRY_44.354129_-106.697004@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311446,
+    "wof:geomhash":"8e29ef90b010e554c85a866dd366ae0a",
+    "wof:hierarchy":[],
+    "wof:id":874071121,
+    "wof:lastmodified":1464311446,
+    "wof:name":"Big Horn Veterinary Hospital",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -106.697004,
+    44.354129,
+    -106.697004,
+    44.354129
+],
+  "geometry": {"coordinates":[-106.69700400000001,44.354129],"type":"Point"}
+}

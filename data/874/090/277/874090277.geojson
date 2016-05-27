@@ -1,0 +1,56 @@
+{
+  "id": 874090277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.957238,44.806326,-106.957238,44.806326",
+    "geom:latitude":44.806326,
+    "geom:longitude":-106.957238,
+    "iso:country":"US",
+    "sg:address":"850 Val Vista St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 2095",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SUSkvczDh0DDflzKudXTs_44.806326_-106.957238@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311666,
+    "wof:geomhash":"bdf82a7cf8fa6357248329860cd94321",
+    "wof:hierarchy":[],
+    "wof:id":874090277,
+    "wof:lastmodified":1464311666,
+    "wof:name":"Sheridan Medical Laboratories",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -106.957238,
+    44.806326,
+    -106.957238,
+    44.806326
+],
+  "geometry": {"coordinates":[-106.957238,44.806326],"type":"Point"}
+}

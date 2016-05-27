@@ -1,0 +1,71 @@
+{
+  "id": 874096167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.270711,42.846708,-106.270711,42.846708",
+    "geom:latitude":42.846708,
+    "geom:longitude":-106.270711,
+    "iso:country":"US",
+    "sg:address":"521 Shannon Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 4445",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "industrial",
+        "mach"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45EtRxA3STLNfalnfv6xJJ_42.846708_-106.270711@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311731,
+    "wof:geomhash":"fc4a32809bd5db4c8f18155622a63fef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874096167
+        }
+    ],
+    "wof:id":874096167,
+    "wof:lastmodified":1464311731,
+    "wof:name":"Kj Sales Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "mach"
+    ]
+},
+  "bbox": [
+    -106.270711,
+    42.846708,
+    -106.270711,
+    42.846708
+],
+  "geometry": {"coordinates":[-106.27071100000001,42.846708],"type":"Point"}
+}

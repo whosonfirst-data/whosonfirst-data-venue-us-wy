@@ -1,0 +1,71 @@
+{
+  "id": 874010251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.59473,41.311997,-105.59473,41.311997",
+    "geom:latitude":41.311997,
+    "geom:longitude":-105.59473,
+    "iso:country":"US",
+    "sg:address":"207 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 3939",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QFpfwS1qrVw4O2BmxSRam_41.311997_-105.594730@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310857,
+    "wof:geomhash":"0442f9c444d1bd42c77d7a2ccdd9480b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874010251
+        }
+    ],
+    "wof:id":874010251,
+    "wof:lastmodified":1464310857,
+    "wof:name":"Augusta Mizzelwitt's Back",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -105.59473,
+    41.311997,
+    -105.59473,
+    41.311997
+],
+  "geometry": {"coordinates":[-105.59473,41.311997],"type":"Point"}
+}

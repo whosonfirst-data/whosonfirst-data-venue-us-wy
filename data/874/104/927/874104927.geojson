@@ -1,0 +1,60 @@
+{
+  "id": 874104927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.216568,43.851301,-104.216568,43.851301",
+    "geom:latitude":43.851301,
+    "geom:longitude":-104.216568,
+    "iso:country":"US",
+    "sg:address":"933 W Main St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 2400",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a9m1xlE2koEOj4mbWvXar_43.851301_-104.216568@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311856,
+    "wof:geomhash":"a1f80483d5760cf855ba2ab9f4761c4e",
+    "wof:hierarchy":[],
+    "wof:id":874104927,
+    "wof:lastmodified":1464311856,
+    "wof:name":"Franks Tire Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "supply"
+    ]
+},
+  "bbox": [
+    -104.216568,
+    43.851301,
+    -104.216568,
+    43.851301
+],
+  "geometry": {"coordinates":[-104.216568,43.851301],"type":"Point"}
+}

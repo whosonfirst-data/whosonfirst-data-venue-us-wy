@@ -1,0 +1,61 @@
+{
+  "id": 874228453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.805482,41.119678,-104.805482,41.119678",
+    "geom:latitude":41.119678,
+    "geom:longitude":-104.805482,
+    "iso:country":"US",
+    "sg:address":"100 N Greeley Hwy",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/78185-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 3030",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FwfLQoPuFNGse6vruYK7k_41.119678_-104.805482@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313145,
+    "wof:geomhash":"1f9f8527c23bb4f569a071ae53f20948",
+    "wof:hierarchy":[],
+    "wof:id":874228453,
+    "wof:lastmodified":1464313145,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -104.805482,
+    41.119678,
+    -104.805482,
+    41.119678
+],
+  "geometry": {"coordinates":[-104.805482,41.119678],"type":"Point"}
+}

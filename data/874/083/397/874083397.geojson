@@ -1,0 +1,73 @@
+{
+  "id": 874083397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594906,41.311027,-105.594906,41.311027",
+    "geom:latitude":41.311027,
+    "geom:longitude":-105.594906,
+    "iso:country":"US",
+    "sg:address":"311 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 0932",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tours",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OuiSovbBMqreQHsI8VO3a_41.311027_-105.594906@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311593,
+    "wof:geomhash":"987b2c855bb90e625e8949370acdaa48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874083397
+        }
+    ],
+    "wof:id":874083397,
+    "wof:lastmodified":1464311593,
+    "wof:name":"High Plains Outdoor Institute",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tours",
+        "promoter"
+    ]
+},
+  "bbox": [
+    -105.594906,
+    41.311027,
+    -105.594906,
+    41.311027
+],
+  "geometry": {"coordinates":[-105.59490599999999,41.311027],"type":"Point"}
+}

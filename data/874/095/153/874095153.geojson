@@ -1,0 +1,61 @@
+{
+  "id": 874095153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.254567,41.588819,-109.254567,41.588819",
+    "geom:latitude":41.588819,
+    "geom:longitude":-109.254567,
+    "iso:country":"US",
+    "sg:address":"1005 Pinto St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 8843",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YrLaZo81jorqp6BWppsc0_41.588819_-109.254567@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311714,
+    "wof:geomhash":"3736cdc37e9a82cb16fd4f08cb3afab0",
+    "wof:hierarchy":[],
+    "wof:id":874095153,
+    "wof:lastmodified":1464311714,
+    "wof:name":"Heart To Heart Adult Day Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -109.254567,
+    41.588819,
+    -109.254567,
+    41.588819
+],
+  "geometry": {"coordinates":[-109.25456699999999,41.588819],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874129323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.314649,42.851554,-106.314649,42.851554",
+    "geom:latitude":42.851554,
+    "geom:longitude":-106.314649,
+    "iso:country":"US",
+    "sg:address":"808 E A St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 0383",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fMHtNm3BXAVDEHr0iYvoF_42.851554_-106.314649@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312126,
+    "wof:geomhash":"2475dd5c900aa03744242f6390803870",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874129323
+        }
+    ],
+    "wof:id":874129323,
+    "wof:lastmodified":1464312126,
+    "wof:name":"West Law",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -106.314649,
+    42.851554,
+    -106.314649,
+    42.851554
+],
+  "geometry": {"coordinates":[-106.314649,42.851554],"type":"Point"}
+}

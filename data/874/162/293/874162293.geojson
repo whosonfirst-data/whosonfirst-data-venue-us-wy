@@ -1,0 +1,60 @@
+{
+  "id": 874162293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.968475,44.000661,-107.968475,44.000661",
+    "geom:latitude":44.000661,
+    "geom:longitude":-107.968475,
+    "iso:country":"US",
+    "sg:address":"1248 S Flat Rd",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 8779",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "industrial",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T6PRLk0YpcaNSorZMcLhp_44.000661_-107.968475@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312453,
+    "wof:geomhash":"1ad0ff06cf244729a7dc6f723c6f19e5",
+    "wof:hierarchy":[],
+    "wof:id":874162293,
+    "wof:lastmodified":1464312453,
+    "wof:name":"Shoshone Engine Exchange",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "industrial",
+        "general"
+    ]
+},
+  "bbox": [
+    -107.968475,
+    44.000661,
+    -107.968475,
+    44.000661
+],
+  "geometry": {"coordinates":[-107.968475,44.000661],"type":"Point"}
+}

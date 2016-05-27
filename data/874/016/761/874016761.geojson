@@ -1,0 +1,71 @@
+{
+  "id": 874016761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.315033,42.834324,-106.315033,42.834324",
+    "geom:latitude":42.834324,
+    "geom:longitude":-106.315033,
+    "iso:country":"US",
+    "sg:address":"720 E 16th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2693",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JHo6fl6ON3dbcwB1xKqPY_42.834324_-106.315033@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310905,
+    "wof:geomhash":"f45b9b2b9abcdbf651833efb1bf26e8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874016761
+        }
+    ],
+    "wof:id":874016761,
+    "wof:lastmodified":1464310905,
+    "wof:name":"Master's Construction Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.315033,
+    42.834324,
+    -106.315033,
+    42.834324
+],
+  "geometry": {"coordinates":[-106.315033,42.834324],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 874085727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.756155,44.754837,-108.756155,44.754837",
+    "geom:latitude":44.754837,
+    "geom:longitude":-108.756155,
+    "iso:country":"US",
+    "sg:address":"250 N Clark St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 2212",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.cityofpowell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35aoOCtbBfAhlLerpmwhcR_44.754837_-108.756155@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311617,
+    "wof:geomhash":"4e1a0c3dd4463804360d56ad56ca8906",
+    "wof:hierarchy":[],
+    "wof:id":874085727,
+    "wof:lastmodified":1464311617,
+    "wof:name":"Powell Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -108.756155,
+    44.754837,
+    -108.756155,
+    44.754837
+],
+  "geometry": {"coordinates":[-108.75615500000001,44.754837],"type":"Point"}
+}

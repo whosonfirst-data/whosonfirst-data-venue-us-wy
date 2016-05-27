@@ -1,0 +1,58 @@
+{
+  "id": 874068257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.236508,41.617558,-109.236508,41.617558",
+    "geom:latitude":41.617558,
+    "geom:longitude":-109.236508,
+    "iso:country":"US",
+    "sg:address":"264 Industrial Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 4520",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ymCRNUvqGVs3TQS2V1ef1_41.617558_-109.236508@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311416,
+    "wof:geomhash":"2bcc0e5338911cc79080631f10b26ca5",
+    "wof:hierarchy":[],
+    "wof:id":874068257,
+    "wof:lastmodified":1464311416,
+    "wof:name":"North Park Transportation Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -109.236508,
+    41.617558,
+    -109.236508,
+    41.617558
+],
+  "geometry": {"coordinates":[-109.236508,41.617558],"type":"Point"}
+}

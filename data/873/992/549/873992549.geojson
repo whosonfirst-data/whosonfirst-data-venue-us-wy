@@ -1,0 +1,56 @@
+{
+  "id": 873992549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.00672,44.79105,-107.00672,44.79105",
+    "geom:latitude":44.79105,
+    "geom:longitude":-107.00672,
+    "iso:country":"US",
+    "sg:address":"99 Red Fox Dr",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 7240",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JQ2qM78lRSJ6wRYq0dgqT_44.791050_-107.006720@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310709,
+    "wof:geomhash":"e759594c9e4f76cbf6a1fbf4ffe9b99b",
+    "wof:hierarchy":[],
+    "wof:id":873992549,
+    "wof:lastmodified":1464310709,
+    "wof:name":"Mr Trash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -107.00672,
+    44.79105,
+    -107.00672,
+    44.79105
+],
+  "geometry": {"coordinates":[-107.00672,44.79105],"type":"Point"}
+}

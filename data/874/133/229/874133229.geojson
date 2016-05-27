@@ -1,0 +1,56 @@
+{
+  "id": 874133229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.785242,41.160276,-104.785242,41.160276",
+    "geom:latitude":41.160276,
+    "geom:longitude":-104.785242,
+    "iso:country":"US",
+    "sg:address":"2424 Dell Range Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 4600",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Jah2KWhlMJUmB9pVCdOcr_41.160276_-104.785242@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312175,
+    "wof:geomhash":"341f18c2240d79ff71a4950bfc7f7b26",
+    "wof:hierarchy":[],
+    "wof:id":874133229,
+    "wof:lastmodified":1464312175,
+    "wof:name":"Cheyenne Christian Bookstore",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -104.785242,
+    41.160276,
+    -104.785242,
+    41.160276
+],
+  "geometry": {"coordinates":[-104.785242,41.160276],"type":"Point"}
+}

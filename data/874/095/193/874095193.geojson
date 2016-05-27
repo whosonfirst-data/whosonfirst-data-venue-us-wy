@@ -1,0 +1,51 @@
+{
+  "id": 874095193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955831,44.801381,-106.955831,44.801381",
+    "geom:latitude":44.801381,
+    "geom:longitude":-106.955831,
+    "iso:country":"US",
+    "sg:address":"334 N Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 2453",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oA79X77qzN0khYXKsld0F_44.801381_-106.955831@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311715,
+    "wof:geomhash":"bb338a0e88d276d9a5f3467914f18033",
+    "wof:hierarchy":[],
+    "wof:id":874095193,
+    "wof:lastmodified":1464311715,
+    "wof:name":"Back Country Bicycles",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.955831,
+    44.801381,
+    -106.955831,
+    44.801381
+],
+  "geometry": {"coordinates":[-106.955831,44.801381],"type":"Point"}
+}

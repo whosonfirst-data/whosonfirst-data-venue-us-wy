@@ -1,0 +1,56 @@
+{
+  "id": 874022543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.852221,44.673455,-103.852221,44.673455",
+    "geom:latitude":44.673455,
+    "geom:longitude":-103.852221,
+    "iso:country":"US",
+    "sg:address":"506 6th Ave",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 4354",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Nwi3gy4wXF3OoY6LVFh88_44.673455_-103.852221@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310969,
+    "wof:geomhash":"3b0e5f3ca123c6340146087dd6781baf",
+    "wof:hierarchy":[],
+    "wof:id":874022543,
+    "wof:lastmodified":1464310969,
+    "wof:name":"Belle Fourche Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -103.852221,
+    44.673455,
+    -103.852221,
+    44.673455
+],
+  "geometry": {"coordinates":[-103.852221,44.673455],"type":"Point"}
+}

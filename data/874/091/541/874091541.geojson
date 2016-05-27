@@ -1,0 +1,70 @@
+{
+  "id": 874091541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.30632,42.838064,-106.30632,42.838064",
+    "geom:latitude":42.838064,
+    "geom:longitude":-106.30632,
+    "iso:country":"US",
+    "sg:address":"1244 S Wilson St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 5702",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.cjeconcepts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b4yuheOKDpRGPGR2VP5nM_42.838064_-106.306320@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311682,
+    "wof:geomhash":"53cb5ecccbe06d4ef410c781a698b81d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874091541
+        }
+    ],
+    "wof:id":874091541,
+    "wof:lastmodified":1464311682,
+    "wof:name":"C J Engineering Concepts",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -106.30632,
+    42.838064,
+    -106.30632,
+    42.838064
+],
+  "geometry": {"coordinates":[-106.30632,42.838064],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874160107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.53659,43.118556,-108.53659,43.118556",
+    "geom:latitude":43.118556,
+    "geom:longitude":-108.53659,
+    "iso:country":"US",
+    "sg:address":"124 Elkhorn Dr",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 3507",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zwWJfgujTKC5NtrpHSAj3_43.118556_-108.536590@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312433,
+    "wof:geomhash":"909d73bee4b9ddc1a802639fda82f04d",
+    "wof:hierarchy":[],
+    "wof:id":874160107,
+    "wof:lastmodified":1464312433,
+    "wof:name":"Hershel Dike Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.53659,
+    43.118556,
+    -108.53659,
+    43.118556
+],
+  "geometry": {"coordinates":[-108.53659,43.118556],"type":"Point"}
+}

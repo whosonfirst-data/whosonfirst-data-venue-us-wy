@@ -1,0 +1,58 @@
+{
+  "id": 874042357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.959743,44.808845,-106.959743,44.808845",
+    "geom:latitude":44.808845,
+    "geom:longitude":-106.959743,
+    "iso:country":"US",
+    "sg:address":"248 W 7th St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 5359",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20SREBAT6k67NHVBeUU2UN_44.808845_-106.959743@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311169,
+    "wof:geomhash":"3ffa6008a077614fef73a61e2e48290a",
+    "wof:hierarchy":[],
+    "wof:id":874042357,
+    "wof:lastmodified":1464311169,
+    "wof:name":"Bob's Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.959743,
+    44.808845,
+    -106.959743,
+    44.808845
+],
+  "geometry": {"coordinates":[-106.959743,44.808845],"type":"Point"}
+}

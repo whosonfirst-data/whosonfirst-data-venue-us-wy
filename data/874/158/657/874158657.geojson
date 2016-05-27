@@ -1,0 +1,71 @@
+{
+  "id": 874158657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.349902,42.815718,-106.349902,42.815718",
+    "geom:latitude":42.815718,
+    "geom:longitude":-106.349902,
+    "iso:country":"US",
+    "sg:address":"3251 Brookview Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 9676",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LEILzYoZYeznAEirBkeOy_42.815718_-106.349902@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312419,
+    "wof:geomhash":"df31b32a8aa446e981f4d06897351268",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874158657
+        }
+    ],
+    "wof:id":874158657,
+    "wof:lastmodified":1464312419,
+    "wof:name":"Center For New Life",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -106.349902,
+    42.815718,
+    -106.349902,
+    42.815718
+],
+  "geometry": {"coordinates":[-106.349902,42.815718],"type":"Point"}
+}

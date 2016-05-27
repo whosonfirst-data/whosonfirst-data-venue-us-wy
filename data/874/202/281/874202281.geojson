@@ -1,0 +1,71 @@
+{
+  "id": 874202281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.601237,41.30755,-105.601237,41.30755",
+    "geom:latitude":41.30755,
+    "geom:longitude":-105.601237,
+    "iso:country":"US",
+    "sg:address":"715 S Cedar St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3750",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Pzx5Z1mvh9HsgNgdq6SAs_41.307550_-105.601237@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312867,
+    "wof:geomhash":"d0a344c42abd6d433b964055dfce9762",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874202281
+        }
+    ],
+    "wof:id":874202281,
+    "wof:lastmodified":1464312867,
+    "wof:name":"Cocas Automotive & Tire Repr",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -105.601237,
+    41.30755,
+    -105.601237,
+    41.30755
+],
+  "geometry": {"coordinates":[-105.601237,41.30755],"type":"Point"}
+}

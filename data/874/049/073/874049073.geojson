@@ -1,0 +1,58 @@
+{
+  "id": 874049073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.502424,44.292111,-105.502424,44.292111",
+    "geom:latitude":44.292111,
+    "geom:longitude":-105.502424,
+    "iso:country":"US",
+    "sg:address":"311 S Kendrick Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 3727",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_464pkyFR2DpkDkytBOTLUy_44.292111_-105.502424@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311232,
+    "wof:geomhash":"bdfbf0808d4a619b19ae5b9b56d6b087",
+    "wof:hierarchy":[],
+    "wof:id":874049073,
+    "wof:lastmodified":1464311232,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -105.502424,
+    44.292111,
+    -105.502424,
+    44.292111
+],
+  "geometry": {"coordinates":[-105.502424,44.292111],"type":"Point"}
+}

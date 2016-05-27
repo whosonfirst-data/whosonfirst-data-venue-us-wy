@@ -1,0 +1,64 @@
+{
+  "id": 874155497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.423287,42.877044,-106.423287,42.877044",
+    "geom:latitude":42.877044,
+    "geom:longitude":-106.423287,
+    "iso:country":"US",
+    "sg:address":"6747 W Uranium Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 2288",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64cD0Zm7D3gqzIwdqFLyHF_42.877044_-106.423287@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312382,
+    "wof:geomhash":"ae0be2e34a51015b2a6d65ca4e61310e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874155497
+        }
+    ],
+    "wof:id":874155497,
+    "wof:lastmodified":1464312382,
+    "wof:name":"Concept Component Cars",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.423287,
+    42.877044,
+    -106.423287,
+    42.877044
+],
+  "geometry": {"coordinates":[-106.423287,42.877044],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874104445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.215215,41.796222,-107.215215,41.796222",
+    "geom:latitude":41.796222,
+    "geom:longitude":-107.215215,
+    "iso:country":"US",
+    "sg:address":"2115 Daley St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 328 0332",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eWwIxziCrjTafqA5e380t_41.796222_-107.215215@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311849,
+    "wof:geomhash":"f28d4ceb2d0500312055270753e7ea84",
+    "wof:hierarchy":[],
+    "wof:id":874104445,
+    "wof:lastmodified":1464311849,
+    "wof:name":"Ross Automotive Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -107.215215,
+    41.796222,
+    -107.215215,
+    41.796222
+],
+  "geometry": {"coordinates":[-107.215215,41.796222],"type":"Point"}
+}

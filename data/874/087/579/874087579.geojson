@@ -1,0 +1,58 @@
+{
+  "id": 874087579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.948469,44.012506,-107.948469,44.012506",
+    "geom:latitude":44.012506,
+    "geom:longitude":-107.948469,
+    "iso:country":"US",
+    "sg:address":"510 S 15th St",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 9817",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01c7ot7uDzEFKShiDi04Ml_44.012506_-107.948469@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311637,
+    "wof:geomhash":"3885d26cb5a2876f733d4d177f1508ea",
+    "wof:hierarchy":[],
+    "wof:id":874087579,
+    "wof:lastmodified":1464311637,
+    "wof:name":"Washakie Medical Ctr Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -107.948469,
+    44.012506,
+    -107.948469,
+    44.012506
+],
+  "geometry": {"coordinates":[-107.948469,44.012506],"type":"Point"}
+}

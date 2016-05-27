@@ -1,0 +1,71 @@
+{
+  "id": 874085633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.408852,42.869376,-106.408852,42.869376",
+    "geom:latitude":42.869376,
+    "geom:longitude":-106.408852,
+    "iso:country":"US",
+    "sg:address":"6008 Old Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 4868",
+    "sg:postcode":"82644",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tours",
+        "sightseeing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yovxHP5OSItM2kX7Vzpuo_42.869376_-106.408852@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311616,
+    "wof:geomhash":"846160b0d0aa9efb6732f4b4a842437c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874085633
+        }
+    ],
+    "wof:id":874085633,
+    "wof:lastmodified":1464311616,
+    "wof:name":"Historic Trails West",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tours",
+        "sightseeing"
+    ]
+},
+  "bbox": [
+    -106.408852,
+    42.869376,
+    -106.408852,
+    42.869376
+],
+  "geometry": {"coordinates":[-106.408852,42.869376],"type":"Point"}
+}

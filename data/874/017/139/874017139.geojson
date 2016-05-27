@@ -1,0 +1,51 @@
+{
+  "id": 874017139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.831903,44.770286,-108.831903,44.770286",
+    "geom:latitude":44.770286,
+    "geom:longitude":-108.831903,
+    "iso:country":"US",
+    "sg:address":"796 Meadow Rd",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 4173",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GdkvpwpuajK8Fp3lOD3kz_44.770286_-108.831903@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310914,
+    "wof:geomhash":"33c397f7134ecadf3f1e51814c99897a",
+    "wof:hierarchy":[],
+    "wof:id":874017139,
+    "wof:lastmodified":1464310914,
+    "wof:name":"Wyoming Metals Smiths",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.831903,
+    44.770286,
+    -108.831903,
+    44.770286
+],
+  "geometry": {"coordinates":[-108.831903,44.770286],"type":"Point"}
+}

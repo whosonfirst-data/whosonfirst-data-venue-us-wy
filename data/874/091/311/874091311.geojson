@@ -1,0 +1,71 @@
+{
+  "id": 874091311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595648,41.291767,-105.595648,41.291767",
+    "geom:latitude":41.291767,
+    "geom:longitude":-105.595648,
+    "iso:country":"US",
+    "sg:address":"2461 County Shop Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8955",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YeLy1iqW4nXpmAB9qPoBo_41.291767_-105.595648@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311679,
+    "wof:geomhash":"5a2ea1167442d876e9e59415ff3222f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874091311
+        }
+    ],
+    "wof:id":874091311,
+    "wof:lastmodified":1464311679,
+    "wof:name":"South Laramie Wtr & Sewer Dst",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -105.595648,
+    41.291767,
+    -105.595648,
+    41.291767
+],
+  "geometry": {"coordinates":[-105.595648,41.291767],"type":"Point"}
+}

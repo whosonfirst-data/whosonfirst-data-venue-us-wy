@@ -1,0 +1,57 @@
+{
+  "id": 874190227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.830245,41.174844,-104.830245,41.174844",
+    "geom:latitude":41.174844,
+    "geom:longitude":-104.830245,
+    "iso:country":"US",
+    "sg:address":"123 Western Hills Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 0226",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.cheyenneskinclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I9HUZnFIcKPmCgcbUxm1T_41.174844_-104.830245@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312742,
+    "wof:geomhash":"f73def72c493ba41c61ecbcea22acbd7",
+    "wof:hierarchy":[],
+    "wof:id":874190227,
+    "wof:lastmodified":1464312742,
+    "wof:name":"Cheyenne Skin Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -104.830245,
+    41.174844,
+    -104.830245,
+    41.174844
+],
+  "geometry": {"coordinates":[-104.83024500000001,41.174844],"type":"Point"}
+}

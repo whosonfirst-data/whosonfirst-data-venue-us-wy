@@ -1,0 +1,77 @@
+{
+  "id": 873988181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.623774,41.308864,-105.623774,41.308864",
+    "geom:latitude":41.308864,
+    "geom:longitude":-105.623774,
+    "iso:country":"US",
+    "sg:address":"2076 Snowy Range Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 760 1711",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4O8Ice6mRqClckVP03cOra_41.308864_-105.623774@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310677,
+    "wof:geomhash":"c92bdb16465c166d36f43a10cf792c9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":873988181
+        }
+    ],
+    "wof:id":873988181,
+    "wof:lastmodified":1464310677,
+    "wof:name":"A C Mechanical",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.623774,
+    41.308864,
+    -105.623774,
+    41.308864
+],
+  "geometry": {"coordinates":[-105.623774,41.308864],"type":"Point"}
+}

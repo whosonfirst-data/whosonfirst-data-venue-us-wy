@@ -1,0 +1,58 @@
+{
+  "id": 874141115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.455934,44.29457,-105.455934,44.29457",
+    "geom:latitude":44.29457,
+    "geom:longitude":-105.455934,
+    "iso:country":"US",
+    "sg:address":"3202 Conestoga Dr",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 6095",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49PtNIrcs6R4ZnyesuldQH_44.294570_-105.455934@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312244,
+    "wof:geomhash":"a42fed883083eadc4c1a5bb8b93b4b43",
+    "wof:hierarchy":[],
+    "wof:id":874141115,
+    "wof:lastmodified":1464312244,
+    "wof:name":"Alternative Fuel Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -105.455934,
+    44.29457,
+    -105.455934,
+    44.29457
+],
+  "geometry": {"coordinates":[-105.455934,44.29457],"type":"Point"}
+}

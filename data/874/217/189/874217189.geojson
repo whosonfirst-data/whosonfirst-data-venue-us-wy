@@ -1,0 +1,69 @@
+{
+  "id": 874217189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323825,42.838652,-106.323825,42.838652",
+    "geom:latitude":42.838652,
+    "geom:longitude":-106.323825,
+    "iso:country":"US",
+    "sg:address":"1108 S Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 5823",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pyy7lAlssoBV06GCd4JLo_42.838652_-106.323825@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313024,
+    "wof:geomhash":"f161f87c2524f05c03bb8136b663cb0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874217189
+        }
+    ],
+    "wof:id":874217189,
+    "wof:lastmodified":1464313024,
+    "wof:name":"Wild West Wines & Spirits Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -106.323825,
+    42.838652,
+    -106.323825,
+    42.838652
+],
+  "geometry": {"coordinates":[-106.323825,42.838652],"type":"Point"}
+}

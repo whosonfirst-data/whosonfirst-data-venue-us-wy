@@ -1,0 +1,71 @@
+{
+  "id": 873989917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595052,41.326297,-105.595052,41.326297",
+    "geom:latitude":41.326297,
+    "geom:longitude":-105.595052,
+    "iso:country":"US",
+    "sg:address":"101 E McConnel St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2337",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A8Bsv8y0xESid85slmSMe_41.326297_-105.595052@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310689,
+    "wof:geomhash":"6e108a400c1fbd1482075543dd49f2fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873989917
+        }
+    ],
+    "wof:id":873989917,
+    "wof:lastmodified":1464310689,
+    "wof:name":"North Ridge Discount Liquor",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -105.595052,
+    41.326297,
+    -105.595052,
+    41.326297
+],
+  "geometry": {"coordinates":[-105.595052,41.326297],"type":"Point"}
+}

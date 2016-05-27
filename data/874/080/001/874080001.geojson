@@ -1,0 +1,73 @@
+{
+  "id": 874080001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.258892,42.838026,-106.258892,42.838026",
+    "geom:latitude":42.838026,
+    "geom:longitude":-106.258892,
+    "iso:country":"US",
+    "sg:address":"1046 Surrey Ct",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 6300",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KWzgbo30zxaNp0OiUqWLc_42.838026_-106.258892@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311551,
+    "wof:geomhash":"12a3300819aafade6dce5ac9cf731f53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874080001
+        }
+    ],
+    "wof:id":874080001,
+    "wof:lastmodified":1464311551,
+    "wof:name":"Strohecker Ranch LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -106.258892,
+    42.838026,
+    -106.258892,
+    42.838026
+],
+  "geometry": {"coordinates":[-106.258892,42.838026],"type":"Point"}
+}

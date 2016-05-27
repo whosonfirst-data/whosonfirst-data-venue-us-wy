@@ -1,0 +1,56 @@
+{
+  "id": 874199865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.948386,44.013752,-107.948386,44.013752",
+    "geom:latitude":44.013752,
+    "geom:longitude":-107.948386,
+    "iso:country":"US",
+    "sg:address":"401 S 15th St",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 2525",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cptThxxarR7s76pDQAeZL_44.013752_-107.948386@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312842,
+    "wof:geomhash":"98ae59404824d3216fcbeabc3f26cad3",
+    "wof:hierarchy":[],
+    "wof:id":874199865,
+    "wof:lastmodified":1464312842,
+    "wof:name":"John E Thurston MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -107.948386,
+    44.013752,
+    -107.948386,
+    44.013752
+],
+  "geometry": {"coordinates":[-107.948386,44.013752],"type":"Point"}
+}

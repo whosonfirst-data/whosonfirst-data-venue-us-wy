@@ -1,0 +1,71 @@
+{
+  "id": 874155975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.288721,42.839759,-106.288721,42.839759",
+    "geom:latitude":42.839759,
+    "geom:longitude":-106.288721,
+    "iso:country":"US",
+    "sg:address":"2909 E 11th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 1704",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QOHv3o4kXhm6AJ7ZFt6ls_42.839759_-106.288721@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312389,
+    "wof:geomhash":"c1f631fb821b0585a832455ba093ba76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874155975
+        }
+    ],
+    "wof:id":874155975,
+    "wof:lastmodified":1464312389,
+    "wof:name":"Hamre Painting",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.288721,
+    42.839759,
+    -106.288721,
+    42.839759
+],
+  "geometry": {"coordinates":[-106.288721,42.839759],"type":"Point"}
+}

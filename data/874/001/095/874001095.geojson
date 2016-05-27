@@ -1,0 +1,58 @@
+{
+  "id": 874001095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.163065,43.822713,-104.163065,43.822713",
+    "geom:latitude":43.822713,
+    "geom:longitude":-104.163065,
+    "iso:country":"US",
+    "sg:address":"11 Happy Face Dr",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 2364",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18QFMEWL653WAqI5pEmazI_43.822713_-104.163065@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310768,
+    "wof:geomhash":"1fb039b4b9d6bbdc82af93396e0647e5",
+    "wof:hierarchy":[],
+    "wof:id":874001095,
+    "wof:lastmodified":1464310768,
+    "wof:name":"John's Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -104.163065,
+    43.822713,
+    -104.163065,
+    43.822713
+],
+  "geometry": {"coordinates":[-104.163065,43.822713],"type":"Point"}
+}

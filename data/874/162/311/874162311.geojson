@@ -1,0 +1,69 @@
+{
+  "id": 874162311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.35234,42.8071,-106.35234,42.8071",
+    "geom:latitude":42.8071,
+    "geom:longitude":-106.35234,
+    "iso:country":"US",
+    "sg:address":"4301 Valley Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 9254",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "exploration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I2oAVRAVB01dD0J44WJ27_42.807100_-106.352340@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312454,
+    "wof:geomhash":"9c9273cae167a8fd05710673d21ef81c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874162311
+        }
+    ],
+    "wof:id":874162311,
+    "wof:lastmodified":1464312454,
+    "wof:name":"Richard A Bassham Jr Co",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exploration"
+    ]
+},
+  "bbox": [
+    -106.35234,
+    42.8071,
+    -106.35234,
+    42.8071
+],
+  "geometry": {"coordinates":[-106.35234,42.8071],"type":"Point"}
+}

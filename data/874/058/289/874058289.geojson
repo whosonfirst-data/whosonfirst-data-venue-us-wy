@@ -1,0 +1,58 @@
+{
+  "id": 874058289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.47412,41.53292,-109.47412,41.53292",
+    "geom:latitude":41.53292,
+    "geom:longitude":-109.47412,
+    "iso:country":"US",
+    "sg:address":"501 W Flaming Gorge Way",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 3012",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BSoZsNMKwhd0lRj2q43Lj_41.532920_-109.474120@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311320,
+    "wof:geomhash":"3974283ba43263faeb85bb8792364f7f",
+    "wof:hierarchy":[],
+    "wof:id":874058289,
+    "wof:lastmodified":1464311320,
+    "wof:name":"Castle Rock Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.47412,
+    41.53292,
+    -109.47412,
+    41.53292
+],
+  "geometry": {"coordinates":[-109.47412,41.53292],"type":"Point"}
+}

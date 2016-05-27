@@ -1,0 +1,69 @@
+{
+  "id": 874109905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.318232,42.843255,-106.318232,42.843255",
+    "geom:latitude":42.843255,
+    "geom:longitude":-106.318232,
+    "iso:country":"US",
+    "sg:address":"727 S Grant St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 4647",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WJ1aI8oyqRGPdZAPO5Exi_42.843255_-106.318232@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311918,
+    "wof:geomhash":"7c2e61796275ae8c19602217c674e1a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874109905
+        }
+    ],
+    "wof:id":874109905,
+    "wof:lastmodified":1464311918,
+    "wof:name":"Great Panes Window Cleaning",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -106.318232,
+    42.843255,
+    -106.318232,
+    42.843255
+],
+  "geometry": {"coordinates":[-106.31823199999999,42.843255],"type":"Point"}
+}

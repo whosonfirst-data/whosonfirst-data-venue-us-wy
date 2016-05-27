@@ -1,0 +1,56 @@
+{
+  "id": 874041139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955575,44.816108,-106.955575,44.816108",
+    "geom:latitude":44.816108,
+    "geom:longitude":-106.955575,
+    "iso:country":"US",
+    "sg:address":"1604 N Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 4566",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r65b8Z310t35sCSfwzokH_44.816108_-106.955575@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311154,
+    "wof:geomhash":"cebdaee84bdb9bd13a926faff8101d8f",
+    "wof:hierarchy":[],
+    "wof:id":874041139,
+    "wof:lastmodified":1464311154,
+    "wof:name":"KFC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -106.955575,
+    44.816108,
+    -106.955575,
+    44.816108
+],
+  "geometry": {"coordinates":[-106.955575,44.816108],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 874198889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.950091,44.806747,-106.950091,44.806747",
+    "geom:latitude":44.806747,
+    "geom:longitude":-106.950091,
+    "iso:country":"US",
+    "sg:address":"410 E 5th St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 4773",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3evyUXzQsgFQBO0kxU1WkH_44.806747_-106.950091@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312833,
+    "wof:geomhash":"3a163b29fc95952b30c8f5d8089eee63",
+    "wof:hierarchy":[],
+    "wof:id":874198889,
+    "wof:lastmodified":1464312833,
+    "wof:name":"Ace Radiator Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -106.950091,
+    44.806747,
+    -106.950091,
+    44.806747
+],
+  "geometry": {"coordinates":[-106.950091,44.806747],"type":"Point"}
+}

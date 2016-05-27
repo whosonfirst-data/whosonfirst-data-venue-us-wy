@@ -1,0 +1,57 @@
+{
+  "id": 874229953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.942521,44.780186,-106.942521,44.780186",
+    "geom:latitude":44.780186,
+    "geom:longitude":-106.942521,
+    "iso:country":"US",
+    "sg:address":"1655 Coffeen Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/sheridan/214080-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 8866",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QS93UTPf6sqBgqHJf1jI1_44.780186_-106.942521@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313159,
+    "wof:geomhash":"147a535b7c207315b764126de6c99c91",
+    "wof:hierarchy":[],
+    "wof:id":874229953,
+    "wof:lastmodified":1464313159,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -106.942521,
+    44.780186,
+    -106.942521,
+    44.780186
+],
+  "geometry": {"coordinates":[-106.942521,44.780186],"type":"Point"}
+}

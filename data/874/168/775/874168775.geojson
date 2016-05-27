@@ -1,0 +1,56 @@
+{
+  "id": 874168775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.056118,44.519604,-109.056118,44.519604",
+    "geom:latitude":44.519604,
+    "geom:longitude":-109.056118,
+    "iso:country":"US",
+    "sg:address":"1619 S Park Dr",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 6249",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CpKCNPHtw68gj7FXhTFPw_44.519604_-109.056118@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312515,
+    "wof:geomhash":"36f3aa78e0f326e2d5cf27aaa1ad2eb5",
+    "wof:hierarchy":[],
+    "wof:id":874168775,
+    "wof:lastmodified":1464312515,
+    "wof:name":"South Park Comprehensive Denta",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -109.056118,
+    44.519604,
+    -109.056118,
+    44.519604
+],
+  "geometry": {"coordinates":[-109.056118,44.519604],"type":"Point"}
+}

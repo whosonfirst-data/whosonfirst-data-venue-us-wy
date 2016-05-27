@@ -1,0 +1,56 @@
+{
+  "id": 874158793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.805154,41.106064,-104.805154,41.106064",
+    "geom:latitude":41.106064,
+    "geom:longitude":-104.805154,
+    "iso:country":"US",
+    "sg:address":"416 W Prosser Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 6280",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45wI8mW4CBjZfEnytz1oEH_41.106064_-104.805154@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312420,
+    "wof:geomhash":"6f28a47660cdfd1a7b7e279fae075024",
+    "wof:hierarchy":[],
+    "wof:id":874158793,
+    "wof:lastmodified":1464312420,
+    "wof:name":"Double S Garage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -104.805154,
+    41.106064,
+    -104.805154,
+    41.106064
+],
+  "geometry": {"coordinates":[-104.805154,41.106064],"type":"Point"}
+}

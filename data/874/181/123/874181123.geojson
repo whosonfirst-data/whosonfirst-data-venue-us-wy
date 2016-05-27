@@ -1,0 +1,51 @@
+{
+  "id": 874181123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.236501,41.788356,-107.236501,41.788356",
+    "geom:latitude":41.788356,
+    "geom:longitude":-107.236501,
+    "iso:country":"US",
+    "sg:address":"208 W Cedar St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 4400",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x1JF6BZRp3s3tEgPwVZ1a_41.788356_-107.236501@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312642,
+    "wof:geomhash":"dcad1153212a37bf67f2285c46f34323",
+    "wof:hierarchy":[],
+    "wof:id":874181123,
+    "wof:lastmodified":1464312642,
+    "wof:name":"Surprise Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.236501,
+    41.788356,
+    -107.236501,
+    41.788356
+],
+  "geometry": {"coordinates":[-107.236501,41.788356],"type":"Point"}
+}

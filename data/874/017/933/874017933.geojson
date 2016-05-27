@@ -1,0 +1,71 @@
+{
+  "id": 874017933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590692,41.324987,-105.590692,41.324987",
+    "geom:latitude":41.324987,
+    "geom:longitude":-105.590692,
+    "iso:country":"US",
+    "sg:address":"410 E Lyons St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5052",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xS7XmfhBdiKX8sKHvfAtr_41.324987_-105.590692@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310925,
+    "wof:geomhash":"209a3d5c917d2b31937e462e582d8c97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874017933
+        }
+    ],
+    "wof:id":874017933,
+    "wof:lastmodified":1464310925,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -105.590692,
+    41.324987,
+    -105.590692,
+    41.324987
+],
+  "geometry": {"coordinates":[-105.590692,41.324987],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874137301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.330884,42.8477,-106.330884,42.8477",
+    "geom:latitude":42.8477,
+    "geom:longitude":-106.330884,
+    "iso:country":"US",
+    "sg:address":"411 Industrial Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8463",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Tiz6hR8dtxhNA1Fg5y3t6_42.847700_-106.330884@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312211,
+    "wof:geomhash":"9c419317ad1684e09b7da2abb1ba7903",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874137301
+        }
+    ],
+    "wof:id":874137301,
+    "wof:lastmodified":1464312211,
+    "wof:name":"A1 Used Tires",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.330884,
+    42.8477,
+    -106.330884,
+    42.8477
+],
+  "geometry": {"coordinates":[-106.330884,42.8477],"type":"Point"}
+}

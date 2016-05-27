@@ -1,0 +1,71 @@
+{
+  "id": 874133715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.383919,42.809725,-106.383919,42.809725",
+    "geom:latitude":42.809725,
+    "geom:longitude":-106.383919,
+    "iso:country":"US",
+    "sg:address":"3364 Squaw Creek Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5103",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pJcXZcbCRapmflUb7HFN5_42.809725_-106.383919@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312179,
+    "wof:geomhash":"c9a36ae3816a34e6a9930358ada313cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874133715
+        }
+    ],
+    "wof:id":874133715,
+    "wof:lastmodified":1464312179,
+    "wof:name":"Jack R Whitlock Trucking",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -106.383919,
+    42.809725,
+    -106.383919,
+    42.809725
+],
+  "geometry": {"coordinates":[-106.38391900000001,42.809725],"type":"Point"}
+}

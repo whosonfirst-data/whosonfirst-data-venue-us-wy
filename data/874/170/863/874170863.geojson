@@ -1,0 +1,69 @@
+{
+  "id": 874170863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.397398,42.818326,-106.397398,42.818326",
+    "geom:latitude":42.818326,
+    "geom:longitude":-106.397398,
+    "iso:country":"US",
+    "sg:address":"38 Honeysuckle St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 8071",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fG13cYgHPCNkceot0fOPB_42.818326_-106.397398@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312535,
+    "wof:geomhash":"8350028b62287c6a239222843ec3968c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874170863
+        }
+    ],
+    "wof:id":874170863,
+    "wof:lastmodified":1464312535,
+    "wof:name":"Cobra Graphics",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -106.397398,
+    42.818326,
+    -106.397398,
+    42.818326
+],
+  "geometry": {"coordinates":[-106.397398,42.818326],"type":"Point"}
+}

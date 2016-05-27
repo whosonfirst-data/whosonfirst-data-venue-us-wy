@@ -1,0 +1,69 @@
+{
+  "id": 874217215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.273504,42.842344,-106.273504,42.842344",
+    "geom:latitude":42.842344,
+    "geom:longitude":-106.273504,
+    "iso:country":"US",
+    "sg:address":"3918 Dorset Ct",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 0335",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YxlCmfEas73uvPLXZnlak_42.842344_-106.273504@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313024,
+    "wof:geomhash":"45bdb1a5a709c2c98826c21bd9cba167",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874217215
+        }
+    ],
+    "wof:id":874217215,
+    "wof:lastmodified":1464313024,
+    "wof:name":"Rainbow Point Lodge LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -106.273504,
+    42.842344,
+    -106.273504,
+    42.842344
+],
+  "geometry": {"coordinates":[-106.273504,42.842344],"type":"Point"}
+}

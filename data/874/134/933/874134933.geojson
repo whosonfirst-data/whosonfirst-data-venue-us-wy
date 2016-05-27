@@ -1,0 +1,56 @@
+{
+  "id": 874134933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.537416,41.789758,-110.537416,41.789758",
+    "geom:latitude":41.789758,
+    "geom:longitude":-110.537416,
+    "iso:country":"US",
+    "sg:address":"1255 Coral St",
+    "sg:city":"Kemmerer",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 877 3442",
+    "sg:postcode":"83101",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GbxCOrMtT0hGWedMsFybM_41.789758_-110.537416@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312190,
+    "wof:geomhash":"c468ecd4d9039aef5f46ed85151a558c",
+    "wof:hierarchy":[],
+    "wof:id":874134933,
+    "wof:lastmodified":1464312190,
+    "wof:name":"South Lincoln Fire District",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -110.537416,
+    41.789758,
+    -110.537416,
+    41.789758
+],
+  "geometry": {"coordinates":[-110.53741599999999,41.789758],"type":"Point"}
+}

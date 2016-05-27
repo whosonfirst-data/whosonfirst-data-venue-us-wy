@@ -1,0 +1,60 @@
+{
+  "id": 874133619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.381371,42.757768,-105.381371,42.757768",
+    "geom:latitude":42.757768,
+    "geom:longitude":-105.381371,
+    "iso:country":"US",
+    "sg:address":"222 S 5th St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 6050",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MWsEvfQq6Ofoi0b373xyZ_42.757768_-105.381371@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312178,
+    "wof:geomhash":"db99a47b518ac73bc51b1e7da5d2c56c",
+    "wof:hierarchy":[],
+    "wof:id":874133619,
+    "wof:lastmodified":1464312178,
+    "wof:name":"RLR Occupational Testing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -105.381371,
+    42.757768,
+    -105.381371,
+    42.757768
+],
+  "geometry": {"coordinates":[-105.381371,42.757768],"type":"Point"}
+}

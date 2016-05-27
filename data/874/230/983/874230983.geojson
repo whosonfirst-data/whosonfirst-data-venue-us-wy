@@ -1,0 +1,70 @@
+{
+  "id": 874230983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.361111,42.826495,-106.361111,42.826495",
+    "geom:latitude":42.826495,
+    "geom:longitude":-106.361111,
+    "iso:country":"US",
+    "sg:address":"3340 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/casper/214074-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 4769",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ruEeEJ8vuJd4yIpobf1GD_42.826218_-106.361501@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313174,
+    "wof:geomhash":"6f3a0528fb11275dd9d9be97ef47f0ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874230983
+        }
+    ],
+    "wof:id":874230983,
+    "wof:lastmodified":1464313174,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -106.361111,
+    42.826495,
+    -106.361111,
+    42.826495
+],
+  "geometry": {"coordinates":[-106.36111099999999,42.826495],"type":"Point"}
+}

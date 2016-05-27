@@ -1,0 +1,73 @@
+{
+  "id": 874104809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.309523,42.846138,-106.309523,42.846138",
+    "geom:latitude":42.846138,
+    "geom:longitude":-106.309523,
+    "iso:country":"US",
+    "sg:address":"419 S Washington St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 6963",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "radiologist",
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RjPJ5ZCSTBafxUXeP9TQa_42.846138_-106.309523@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311855,
+    "wof:geomhash":"f777a5cf754e96b036ce9f5b368b0a9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874104809
+        }
+    ],
+    "wof:id":874104809,
+    "wof:lastmodified":1464311855,
+    "wof:name":"Casper Medical Imaging PC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radiologist",
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -106.309523,
+    42.846138,
+    -106.309523,
+    42.846138
+],
+  "geometry": {"coordinates":[-106.309523,42.846138],"type":"Point"}
+}

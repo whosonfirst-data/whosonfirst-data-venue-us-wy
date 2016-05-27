@@ -1,0 +1,56 @@
+{
+  "id": 874201511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.962434,44.497205,-108.962434,44.497205",
+    "geom:latitude":44.497205,
+    "geom:longitude":-108.962434,
+    "iso:country":"US",
+    "sg:address":"15 Wild Horse Rd",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 6198",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dmrFEBYGmXkBi4GUXLFtn_44.497205_-108.962434@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312858,
+    "wof:geomhash":"451414333895e78aaf155e938c3030af",
+    "wof:hierarchy":[],
+    "wof:id":874201511,
+    "wof:lastmodified":1464312858,
+    "wof:name":"Richmond Fencing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.962434,
+    44.497205,
+    -108.962434,
+    44.497205
+],
+  "geometry": {"coordinates":[-108.962434,44.497205],"type":"Point"}
+}

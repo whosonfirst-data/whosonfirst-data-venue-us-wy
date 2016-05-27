@@ -1,0 +1,69 @@
+{
+  "id": 873994637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.261212,42.84061,-106.261212,42.84061",
+    "geom:latitude":42.84061,
+    "geom:longitude":-106.261212,
+    "iso:country":"US",
+    "sg:address":"910 Stafford St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 3018",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3h11KSmW2ATcZ7hui1BUDD_42.840610_-106.261212@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310723,
+    "wof:geomhash":"e73927862ffcec734de643fadde4ac3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873994637
+        }
+    ],
+    "wof:id":873994637,
+    "wof:lastmodified":1464310723,
+    "wof:name":"Jeta Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.261212,
+    42.84061,
+    -106.261212,
+    42.84061
+],
+  "geometry": {"coordinates":[-106.261212,42.84061],"type":"Point"}
+}

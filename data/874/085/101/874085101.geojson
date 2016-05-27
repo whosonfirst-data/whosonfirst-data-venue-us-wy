@@ -1,0 +1,71 @@
+{
+  "id": 874085101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590498,41.314688,-105.590498,41.314688",
+    "geom:latitude":41.314688,
+    "geom:longitude":-105.590498,
+    "iso:country":"US",
+    "sg:address":"507 E Clark St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6576",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NwsZ8N6VaKelVKfx6r79V_41.314688_-105.590498@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311610,
+    "wof:geomhash":"7926f9582023e2879ec4eecb19b0e69a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874085101
+        }
+    ],
+    "wof:id":874085101,
+    "wof:lastmodified":1464311610,
+    "wof:name":"Jehovahs S Witnesses",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -105.590498,
+    41.314688,
+    -105.590498,
+    41.314688
+],
+  "geometry": {"coordinates":[-105.590498,41.314688],"type":"Point"}
+}

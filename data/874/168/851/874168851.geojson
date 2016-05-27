@@ -1,0 +1,56 @@
+{
+  "id": 874168851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.801219,43.605332,-109.801219,43.605332",
+    "geom:latitude":43.605332,
+    "geom:longitude":-109.801219,
+    "iso:country":"US",
+    "sg:address":"50 Wind River Dr",
+    "sg:city":"Dubois",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 455 3915",
+    "sg:postcode":"82513",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ranch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_465gVef50vFSowaFOwdJKP_43.605332_-109.801219@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312516,
+    "wof:geomhash":"949e9a837cf27914177674563ab62bae",
+    "wof:hierarchy":[],
+    "wof:id":874168851,
+    "wof:lastmodified":1464312516,
+    "wof:name":"Wind River Ranch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranch"
+    ]
+},
+  "bbox": [
+    -109.801219,
+    43.605332,
+    -109.801219,
+    43.605332
+],
+  "geometry": {"coordinates":[-109.801219,43.605332],"type":"Point"}
+}

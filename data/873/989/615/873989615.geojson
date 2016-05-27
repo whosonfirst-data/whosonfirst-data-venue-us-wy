@@ -1,0 +1,72 @@
+{
+  "id": 873989615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.42115,42.87428,-106.42115,42.87428",
+    "geom:latitude":42.87428,
+    "geom:longitude":-106.42115,
+    "iso:country":"US",
+    "sg:address":"2000 Oil Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 2900",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "hydraulic"
+    ],
+    "sg:website":"www.brake.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mS53jdSvHcuUMXbiNnwHS_42.874280_-106.421150@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310687,
+    "wof:geomhash":"d068744c6e0dca4adc3f7246c35b60b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873989615
+        }
+    ],
+    "wof:id":873989615,
+    "wof:lastmodified":1464310687,
+    "wof:name":"Brake Supply Co Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "hydraulic"
+    ]
+},
+  "bbox": [
+    -106.42115,
+    42.87428,
+    -106.42115,
+    42.87428
+],
+  "geometry": {"coordinates":[-106.42115,42.87428],"type":"Point"}
+}

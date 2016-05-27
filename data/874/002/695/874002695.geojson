@@ -1,0 +1,56 @@
+{
+  "id": 874002695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.385487,42.759544,-105.385487,42.759544",
+    "geom:latitude":42.759544,
+    "geom:longitude":-105.385487,
+    "iso:country":"US",
+    "sg:address":"102 N 2nd St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 8093",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nio3ayyXToVW4zICxJ281_42.759544_-105.385487@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310788,
+    "wof:geomhash":"3e5d292d4b33314126d58459b473cf68",
+    "wof:hierarchy":[],
+    "wof:id":874002695,
+    "wof:lastmodified":1464310788,
+    "wof:name":"Jen's Books",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -105.385487,
+    42.759544,
+    -105.385487,
+    42.759544
+],
+  "geometry": {"coordinates":[-105.385487,42.759544],"type":"Point"}
+}

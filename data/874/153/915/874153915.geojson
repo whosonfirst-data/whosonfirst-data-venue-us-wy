@@ -1,0 +1,64 @@
+{
+  "id": 874153915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.901946,41.371328,-105.901946,41.371328",
+    "geom:latitude":41.371328,
+    "geom:longitude":-105.901946,
+    "iso:country":"US",
+    "sg:address":"140 Mandel Ln",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5765",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "feedlot",
+        "field",
+        "crop",
+        "beef",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EP8azhV3d9m3LGPzUvihi_41.371328_-105.901946@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312365,
+    "wof:geomhash":"9d1cf709370fb868408c59dbb9605a6a",
+    "wof:hierarchy":[],
+    "wof:id":874153915,
+    "wof:lastmodified":1464312365,
+    "wof:name":"Arthur Ranch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feedlot",
+        "field",
+        "crop",
+        "beef",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -105.901946,
+    41.371328,
+    -105.901946,
+    41.371328
+],
+  "geometry": {"coordinates":[-105.901946,41.371328],"type":"Point"}
+}

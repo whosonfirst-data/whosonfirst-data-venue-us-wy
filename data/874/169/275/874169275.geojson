@@ -1,0 +1,71 @@
+{
+  "id": 874169275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.563843,41.307632,-105.563843,41.307632",
+    "geom:latitude":41.307632,
+    "geom:longitude":-105.563843,
+    "iso:country":"US",
+    "sg:address":"414 S Stetson Ct",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3590",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43ipU8i0urQWKDga7hE4i5_41.307632_-105.563843@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312520,
+    "wof:geomhash":"dc41244a5afd1adeecb6d2ec909999bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874169275
+        }
+    ],
+    "wof:id":874169275,
+    "wof:lastmodified":1464312520,
+    "wof:name":"Sumikos Art",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -105.563843,
+    41.307632,
+    -105.563843,
+    41.307632
+],
+  "geometry": {"coordinates":[-105.56384300000001,41.307632],"type":"Point"}
+}

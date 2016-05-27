@@ -1,0 +1,51 @@
+{
+  "id": 874169319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.431618,44.445171,-108.431618,44.445171",
+    "geom:latitude":44.445171,
+    "geom:longitude":-108.431618,
+    "iso:country":"US",
+    "sg:address":"211 Main St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 762 3323",
+    "sg:postcode":"82411",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A2eBtvkC9tMa34RaQLFtM_44.445171_-108.431618@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312520,
+    "wof:geomhash":"02951d43650b4b8eebf824524286d244",
+    "wof:hierarchy":[],
+    "wof:id":874169319,
+    "wof:lastmodified":1464312520,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.431618,
+    44.445171,
+    -108.431618,
+    44.445171
+],
+  "geometry": {"coordinates":[-108.431618,44.445171],"type":"Point"}
+}

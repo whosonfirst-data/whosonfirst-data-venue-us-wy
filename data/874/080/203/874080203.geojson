@@ -1,0 +1,56 @@
+{
+  "id": 874080203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.954645,44.796248,-106.954645,44.796248",
+    "geom:latitude":44.796248,
+    "geom:longitude":-106.954645,
+    "iso:country":"US",
+    "sg:address":"110 S Gould St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 7108",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DJNXiPbeqv9GceEOORrxC_44.796248_-106.954645@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311553,
+    "wof:geomhash":"05116be2e7bada519fb08e28e1756763",
+    "wof:hierarchy":[],
+    "wof:id":874080203,
+    "wof:lastmodified":1464311553,
+    "wof:name":"Daniel L Morin DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -106.954645,
+    44.796248,
+    -106.954645,
+    44.796248
+],
+  "geometry": {"coordinates":[-106.954645,44.796248],"type":"Point"}
+}

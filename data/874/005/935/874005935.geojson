@@ -1,0 +1,56 @@
+{
+  "id": 874005935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.634443,43.537445,-109.634443,43.537445",
+    "geom:latitude":43.537445,
+    "geom:longitude":-109.634443,
+    "iso:country":"US",
+    "sg:address":"302 Horse Creek Rd",
+    "sg:city":"Dubois",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 455 2690",
+    "sg:postcode":"82513",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BIRQ9ZAayeSEZXdoGVM0Y_43.537445_-109.634443@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310824,
+    "wof:geomhash":"1497627fa78a0bd96b6b57fe6c661d34",
+    "wof:hierarchy":[],
+    "wof:id":874005935,
+    "wof:lastmodified":1464310824,
+    "wof:name":"Dubois Technical Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -109.634443,
+    43.537445,
+    -109.634443,
+    43.537445
+],
+  "geometry": {"coordinates":[-109.634443,43.537445],"type":"Point"}
+}

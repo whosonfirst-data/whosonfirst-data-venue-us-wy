@@ -1,0 +1,76 @@
+{
+  "id": 874149869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.537715,42.770221,-106.537715,42.770221",
+    "geom:latitude":42.770221,
+    "geom:longitude":-106.537715,
+    "iso:country":"US",
+    "sg:address":"6882 Laura Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 0073",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aZHsDhM2BQCUswpqMPGfs_42.770221_-106.537715@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312327,
+    "wof:geomhash":"5b5b8d6fe704d6de3603ba42eb54cfab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874149869
+        }
+    ],
+    "wof:id":874149869,
+    "wof:lastmodified":1464312327,
+    "wof:name":"Lonnie Robinson Construction",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.537715,
+    42.770221,
+    -106.537715,
+    42.770221
+],
+  "geometry": {"coordinates":[-106.53771500000001,42.770221],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874113721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955714,44.800745,-106.955714,44.800745",
+    "geom:latitude":44.800745,
+    "geom:longitude":-106.955714,
+    "iso:country":"US",
+    "sg:address":"5 E Alger St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 4300",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5StrLJ8JXkAhD937izzWcq_44.800745_-106.955714@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311974,
+    "wof:geomhash":"cb000fe1a349b89c270b0b5dd7e4cf0c",
+    "wof:hierarchy":[],
+    "wof:id":874113721,
+    "wof:lastmodified":1464311974,
+    "wof:name":"Empire Grill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -106.955714,
+    44.800745,
+    -106.955714,
+    44.800745
+],
+  "geometry": {"coordinates":[-106.955714,44.800745],"type":"Point"}
+}

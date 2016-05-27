@@ -1,0 +1,60 @@
+{
+  "id": 874042475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.319189,41.37176,-110.319189,41.37176",
+    "geom:latitude":41.37176,
+    "geom:longitude":-110.319189,
+    "iso:country":"US",
+    "sg:address":"110 Sandhill Rd",
+    "sg:city":"Lyman",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 787 3409",
+    "sg:postcode":"82937",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1q2FL2tTC6n0PmKQzP0T6Y_41.371760_-110.319189@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311170,
+    "wof:geomhash":"6895e9812801ea624fa2943539b933e9",
+    "wof:hierarchy":[],
+    "wof:id":874042475,
+    "wof:lastmodified":1464311170,
+    "wof:name":"Eyre Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -110.319189,
+    41.37176,
+    -110.319189,
+    41.37176
+],
+  "geometry": {"coordinates":[-110.31918899999999,41.37176],"type":"Point"}
+}

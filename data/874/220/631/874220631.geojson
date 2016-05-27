@@ -1,0 +1,56 @@
+{
+  "id": 874220631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.972485,41.264054,-110.972485,41.264054",
+    "geom:latitude":41.264054,
+    "geom:longitude":-110.972485,
+    "iso:country":"US",
+    "sg:address":"1600 Harrison Dr",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 3437",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Gas08VqTHf7zsY8SQwahk_41.264054_-110.972485@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313070,
+    "wof:geomhash":"581a4ad638f7fd2092a76f530e030915",
+    "wof:hierarchy":[],
+    "wof:id":874220631,
+    "wof:lastmodified":1464313070,
+    "wof:name":"Fountain Gate Christian Bk Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -110.972485,
+    41.264054,
+    -110.972485,
+    41.264054
+],
+  "geometry": {"coordinates":[-110.97248500000001,41.264054],"type":"Point"}
+}

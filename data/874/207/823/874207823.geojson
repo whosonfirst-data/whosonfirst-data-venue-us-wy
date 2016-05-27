@@ -1,0 +1,56 @@
+{
+  "id": 874207823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.828302,41.123519,-104.828302,41.123519",
+    "geom:latitude":41.123519,
+    "geom:longitude":-104.828302,
+    "iso:country":"US",
+    "sg:address":"501 Parsley Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 6655",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Xv7vrcqKnLOfKGQVi1kZ7_41.123519_-104.828302@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312927,
+    "wof:geomhash":"3ba82d9931ad77aaa11272b3cbb2e7ff",
+    "wof:hierarchy":[],
+    "wof:id":874207823,
+    "wof:lastmodified":1464312927,
+    "wof:name":"Cheyenne Animal Control",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinary"
+    ]
+},
+  "bbox": [
+    -104.828302,
+    41.123519,
+    -104.828302,
+    41.123519
+],
+  "geometry": {"coordinates":[-104.82830199999999,41.123519],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874191545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.335214,42.853665,-106.335214,42.853665",
+    "geom:latitude":42.853665,
+    "geom:longitude":-106.335214,
+    "iso:country":"US",
+    "sg:address":"106 Big Horn Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 5407",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TmVhHb0uvFi5xkwEaIv9W_42.853665_-106.335214@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312754,
+    "wof:geomhash":"bd7463613d7a22d573152601bc5d1704",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874191545
+        }
+    ],
+    "wof:id":874191545,
+    "wof:lastmodified":1464312754,
+    "wof:name":"Home Remedy",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing"
+    ]
+},
+  "bbox": [
+    -106.335214,
+    42.853665,
+    -106.335214,
+    42.853665
+],
+  "geometry": {"coordinates":[-106.33521399999999,42.853665],"type":"Point"}
+}

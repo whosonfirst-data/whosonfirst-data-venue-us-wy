@@ -1,0 +1,69 @@
+{
+  "id": 874001657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.364756,42.830346,-106.364756,42.830346",
+    "geom:latitude":42.830346,
+    "geom:longitude":-106.364756,
+    "iso:country":"US",
+    "sg:address":"2121 Midway Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 5786",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "steel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lwKSi1cYJiCIXrFasKIT3_42.830346_-106.364756@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310772,
+    "wof:geomhash":"f36d113f98e4a549443c34c994615e62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874001657
+        }
+    ],
+    "wof:id":874001657,
+    "wof:lastmodified":1464310772,
+    "wof:name":"Cook's Fabrication Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel"
+    ]
+},
+  "bbox": [
+    -106.364756,
+    42.830346,
+    -106.364756,
+    42.830346
+],
+  "geometry": {"coordinates":[-106.364756,42.830346],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874145915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.841501,41.171352,-104.841501,41.171352",
+    "geom:latitude":41.171352,
+    "geom:longitude":-104.841501,
+    "iso:country":"US",
+    "sg:address":"671 Vista Ln",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 4174",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_609pgm3YHA1Rt26LgYyYsQ_41.171352_-104.841501@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312293,
+    "wof:geomhash":"302174fb6d3e61adc0659007f03a3624",
+    "wof:hierarchy":[],
+    "wof:id":874145915,
+    "wof:lastmodified":1464312293,
+    "wof:name":"Quality Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -104.841501,
+    41.171352,
+    -104.841501,
+    41.171352
+],
+  "geometry": {"coordinates":[-104.84150099999999,41.171352],"type":"Point"}
+}

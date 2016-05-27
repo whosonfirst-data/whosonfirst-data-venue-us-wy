@@ -1,0 +1,69 @@
+{
+  "id": 874100731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.45624,42.903148,-106.45624,42.903148",
+    "geom:latitude":42.903148,
+    "geom:longitude":-106.45624,
+    "iso:country":"US",
+    "sg:address":"7710 Fuller St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 8940",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "control",
+        "tower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        102525293,
+        85688475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51hE1qt90vAxhZt9DUFPdf_42.903148_-106.456240@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311804,
+    "wof:geomhash":"016d825aa10859f766d3cc30c9b7733d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525293,
+            "country_id":85633793,
+            "region_id":85688475,
+            "venue_id":874100731
+        }
+    ],
+    "wof:id":874100731,
+    "wof:lastmodified":1464311804,
+    "wof:name":"Airport Traffic Control Tower",
+    "wof:parent_id":102525293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "tower"
+    ]
+},
+  "bbox": [
+    -106.45624,
+    42.903148,
+    -106.45624,
+    42.903148
+],
+  "geometry": {"coordinates":[-106.45623999999999,42.903148],"type":"Point"}
+}

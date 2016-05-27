@@ -1,0 +1,56 @@
+{
+  "id": 874203123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.871799,43.500023,-110.871799,43.500023",
+    "geom:latitude":43.500023,
+    "geom:longitude":-110.871799,
+    "iso:country":"US",
+    "sg:address":"5575 Main St",
+    "sg:city":"Wilson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 3064",
+    "sg:postcode":"83014",
+    "sg:province":"WY",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05vABzwC52G4b3abZUSSys_43.500023_-110.871799@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312875,
+    "wof:geomhash":"1f79829c35848f956d46316fec34f11c",
+    "wof:hierarchy":[],
+    "wof:id":874203123,
+    "wof:lastmodified":1464312875,
+    "wof:name":"Dick May Welding",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -110.871799,
+    43.500023,
+    -110.871799,
+    43.500023
+],
+  "geometry": {"coordinates":[-110.871799,43.500023],"type":"Point"}
+}

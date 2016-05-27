@@ -1,0 +1,71 @@
+{
+  "id": 874170877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590758,41.324475,-105.590758,41.324475",
+    "geom:latitude":41.324475,
+    "geom:longitude":-105.590758,
+    "iso:country":"US",
+    "sg:address":"1363 N 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 9655",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "fastener"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uEbXfZn9FPALmB8WYIOfo_41.324475_-105.590758@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312535,
+    "wof:geomhash":"3f16ac9786d2724d9929a139ddb5a210",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874170877
+        }
+    ],
+    "wof:id":874170877,
+    "wof:lastmodified":1464312535,
+    "wof:name":"Fastenal Company",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fastener"
+    ]
+},
+  "bbox": [
+    -105.590758,
+    41.324475,
+    -105.590758,
+    41.324475
+],
+  "geometry": {"coordinates":[-105.59075799999999,41.324475],"type":"Point"}
+}

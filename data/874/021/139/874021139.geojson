@@ -1,0 +1,56 @@
+{
+  "id": 874021139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.210844,41.586023,-109.210844,41.586023",
+    "geom:latitude":41.586023,
+    "geom:longitude":-109.210844,
+    "iso:country":"US",
+    "sg:address":"413 I St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 2567",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xUPLPdbZZA7Szo9h3DcFh_41.586023_-109.210844@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310958,
+    "wof:geomhash":"8285a876eb86f3ed8b9926112379ad53",
+    "wof:hierarchy":[],
+    "wof:id":874021139,
+    "wof:lastmodified":1464310958,
+    "wof:name":"Rickshaw Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -109.210844,
+    41.586023,
+    -109.210844,
+    41.586023
+],
+  "geometry": {"coordinates":[-109.21084399999999,41.586023],"type":"Point"}
+}

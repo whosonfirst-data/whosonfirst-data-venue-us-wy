@@ -1,0 +1,76 @@
+{
+  "id": 874089317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.333672,42.845937,-106.333672,42.845937",
+    "geom:latitude":42.845937,
+    "geom:longitude":-106.333672,
+    "iso:country":"US",
+    "sg:address":"458 S Walnut St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 6411",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "metaphysical",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dAUTq1rrcW2hLlQzajtyd_42.845937_-106.333672@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311654,
+    "wof:geomhash":"4ded5229ce67c19f9af11f7b55dc1093",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874089317
+        }
+    ],
+    "wof:id":874089317,
+    "wof:lastmodified":1464311654,
+    "wof:name":"Pan's Grove",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metaphysical",
+        "supply"
+    ]
+},
+  "bbox": [
+    -106.333672,
+    42.845937,
+    -106.333672,
+    42.845937
+],
+  "geometry": {"coordinates":[-106.33367200000001,42.845937],"type":"Point"}
+}

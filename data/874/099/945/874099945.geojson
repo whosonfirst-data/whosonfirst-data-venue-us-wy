@@ -1,0 +1,71 @@
+{
+  "id": 874099945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.297986,42.838799,-106.297986,42.838799",
+    "geom:latitude":42.838799,
+    "geom:longitude":-106.297986,
+    "iso:country":"US",
+    "sg:address":"2115 E 12th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 6792",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YZxjExKea7h3AH0lnpGBq_42.838799_-106.297986@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311792,
+    "wof:geomhash":"03fba0b97a7a8538e5ae7ca998876142",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874099945
+        }
+    ],
+    "wof:id":874099945,
+    "wof:lastmodified":1464311792,
+    "wof:name":"Rocky Mountian School Of Dance",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -106.297986,
+    42.838799,
+    -106.297986,
+    42.838799
+],
+  "geometry": {"coordinates":[-106.29798599999999,42.838799],"type":"Point"}
+}

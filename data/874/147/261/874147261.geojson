@@ -1,0 +1,79 @@
+{
+  "id": 874147261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.181676,42.04968,-104.181676,42.04968",
+    "geom:latitude":42.04968,
+    "geom:longitude":-104.181676,
+    "iso:country":"US",
+    "sg:address":"201 E 5th Ave",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 2723",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "farm",
+        "repair",
+        "mfg",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101733937,
+        102080733,
+        85850153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ke8TYbUn5JE342HXFpVDe_42.049680_-104.181676@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312305,
+    "wof:geomhash":"cfc1303292dc1dea67c3e0181a809eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080733,
+            "locality_id":101733937,
+            "neighbourhood_id":85850153,
+            "region_id":85688475,
+            "venue_id":874147261
+        }
+    ],
+    "wof:id":874147261,
+    "wof:lastmodified":1464312305,
+    "wof:name":"Holler Blacksmith Shop",
+    "wof:parent_id":85850153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "repair",
+        "mfg",
+        "welding"
+    ]
+},
+  "bbox": [
+    -104.181676,
+    42.04968,
+    -104.181676,
+    42.04968
+],
+  "geometry": {"coordinates":[-104.181676,42.04968],"type":"Point"}
+}

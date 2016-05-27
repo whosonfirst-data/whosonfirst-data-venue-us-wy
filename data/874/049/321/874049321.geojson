@@ -1,0 +1,71 @@
+{
+  "id": 874049321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.34253,42.82485,-106.34253,42.82485",
+    "geom:latitude":42.82485,
+    "geom:longitude":-106.34253,
+    "iso:country":"US",
+    "sg:address":"1700 W 25th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 6562",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zCgeyQ396sC258fJKgVL2_42.824850_-106.342530@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311234,
+    "wof:geomhash":"9a87c7ae86062bca9858844e0ea91128",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874049321
+        }
+    ],
+    "wof:id":874049321,
+    "wof:lastmodified":1464311234,
+    "wof:name":"Conquistador Apartments",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -106.34253,
+    42.82485,
+    -106.34253,
+    42.82485
+],
+  "geometry": {"coordinates":[-106.34253,42.82485],"type":"Point"}
+}

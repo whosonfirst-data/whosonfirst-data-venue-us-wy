@@ -1,0 +1,71 @@
+{
+  "id": 874097809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.27418,42.848929,-106.27418,42.848929",
+    "geom:latitude":42.848929,
+    "geom:longitude":-106.27418,
+    "iso:country":"US",
+    "sg:address":"4600 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2387",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JQhmO9SDncYUhHfT4hvZz_42.848929_-106.274180@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311754,
+    "wof:geomhash":"47cc17d6e9dd4c48b65c7ac47538e951",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874097809
+        }
+    ],
+    "wof:id":874097809,
+    "wof:lastmodified":1464311754,
+    "wof:name":"Wireless Retail Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -106.27418,
+    42.848929,
+    -106.27418,
+    42.848929
+],
+  "geometry": {"coordinates":[-106.27418,42.848929],"type":"Point"}
+}

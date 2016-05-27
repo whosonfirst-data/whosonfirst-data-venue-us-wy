@@ -1,0 +1,73 @@
+{
+  "id": 874004423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.81869,41.152294,-104.81869,41.152294",
+    "geom:latitude":41.152294,
+    "geom:longitude":-104.81869,
+    "iso:country":"US",
+    "sg:address":"4101 Evans Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 9711",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hIICboRv5Vc8T2qf23JE7_41.152294_-104.818690@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310808,
+    "wof:geomhash":"dbca0ba4bf93ce7d48c46f1745c800e1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":874004423
+        }
+    ],
+    "wof:id":874004423,
+    "wof:lastmodified":1464310808,
+    "wof:name":"Us Faa",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -104.81869,
+    41.152294,
+    -104.81869,
+    41.152294
+],
+  "geometry": {"coordinates":[-104.81869,41.152294],"type":"Point"}
+}

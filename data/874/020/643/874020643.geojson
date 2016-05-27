@@ -1,0 +1,56 @@
+{
+  "id": 874020643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.365981,42.746447,-105.365981,42.746447",
+    "geom:latitude":42.746447,
+    "geom:longitude":-105.365981,
+    "iso:country":"US",
+    "sg:address":"1843 Madora Ave",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 9625",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JaFt4tHM4yqfeJzZgESBK_42.746447_-105.365981@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310953,
+    "wof:geomhash":"85f4383f5e0a46c3363ec6568c929692",
+    "wof:hierarchy":[],
+    "wof:id":874020643,
+    "wof:lastmodified":1464310953,
+    "wof:name":"W Scott Kreycik DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -105.365981,
+    42.746447,
+    -105.365981,
+    42.746447
+],
+  "geometry": {"coordinates":[-105.365981,42.746447],"type":"Point"}
+}

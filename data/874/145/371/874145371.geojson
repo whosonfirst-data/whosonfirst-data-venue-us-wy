@@ -1,0 +1,64 @@
+{
+  "id": 874145371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.329376,42.840698,-106.329376,42.840698",
+    "geom:latitude":42.840698,
+    "geom:longitude":-106.329376,
+    "iso:country":"US",
+    "sg:address":"930 S Elm St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 0330",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jZW66jaA7gjN166ELDTJV_42.840698_-106.329376@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312283,
+    "wof:geomhash":"0817fb7614cd76fa6d1183199589e0ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874145371
+        }
+    ],
+    "wof:id":874145371,
+    "wof:lastmodified":1464312283,
+    "wof:name":"Natrona County Sr High School",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.329376,
+    42.840698,
+    -106.329376,
+    42.840698
+],
+  "geometry": {"coordinates":[-106.329376,42.840698],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874090245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.060988,44.525981,-109.060988,44.525981",
+    "geom:latitude":44.525981,
+    "geom:longitude":-109.060988,
+    "iso:country":"US",
+    "sg:address":"1362 Sheridan Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 7181",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZvDyQdr7BUQwEVFhHisUD_44.525981_-109.060988@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311666,
+    "wof:geomhash":"d4861c6495a8b4d82ad1101d9aeda404",
+    "wof:hierarchy":[],
+    "wof:id":874090245,
+    "wof:lastmodified":1464311666,
+    "wof:name":"Zapatas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -109.060988,
+    44.525981,
+    -109.060988,
+    44.525981
+],
+  "geometry": {"coordinates":[-109.06098799999999,44.525981],"type":"Point"}
+}

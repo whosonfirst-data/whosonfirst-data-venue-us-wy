@@ -1,0 +1,67 @@
+{
+  "id": 874179965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.544805,41.305913,-105.544805,41.305913",
+    "geom:latitude":41.305913,
+    "geom:longitude":-105.544805,
+    "iso:country":"US",
+    "sg:address":"4037 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 9930",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:website":"www.snowyrangeacademy.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZujdkbYCpnTjRAGoeY9rc_41.305913_-105.544805@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312629,
+    "wof:geomhash":"d009650cd234e760f1edee14b011fff0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874179965
+        }
+    ],
+    "wof:id":874179965,
+    "wof:lastmodified":1464312629,
+    "wof:name":"Snowy Range Academy Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.544805,
+    41.305913,
+    -105.544805,
+    41.305913
+],
+  "geometry": {"coordinates":[-105.544805,41.305913],"type":"Point"}
+}

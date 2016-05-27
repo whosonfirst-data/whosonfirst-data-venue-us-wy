@@ -1,0 +1,71 @@
+{
+  "id": 874092193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.175146,41.006546,-106.175146,41.006546",
+    "geom:latitude":41.006546,
+    "geom:longitude":-106.175146,
+    "iso:country":"US",
+    "sg:address":"4039 State Hwy 230",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 5160",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lodge"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yj4FCwR99a98xO55ZPP8z_41.006546_-106.175146@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311688,
+    "wof:geomhash":"24b1f6d0a45e8118162426f04a106657",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874092193
+        }
+    ],
+    "wof:id":874092193,
+    "wof:lastmodified":1464311688,
+    "wof:name":"WYCOLO Lodge",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodge"
+    ]
+},
+  "bbox": [
+    -106.175146,
+    41.006546,
+    -106.175146,
+    41.006546
+],
+  "geometry": {"coordinates":[-106.175146,41.006546],"type":"Point"}
+}

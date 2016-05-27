@@ -1,0 +1,59 @@
+{
+  "id": 874037639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.793233,43.461446,-110.793233,43.461446",
+    "geom:latitude":43.461446,
+    "geom:longitude":-110.793233,
+    "iso:country":"US",
+    "sg:address":"1255 US Hwy 89",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Ferry",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 6203",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "river",
+        "trip"
+    ],
+    "sg:website":"www.madriver.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mbCgI9Hd82AaPBceIvYXg_43.461446_-110.793233@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311122,
+    "wof:geomhash":"4b056f13401770da89a6746ab64c5f31",
+    "wof:hierarchy":[],
+    "wof:id":874037639,
+    "wof:lastmodified":1464311122,
+    "wof:name":"Mad River Boat Trips Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "river",
+        "trip"
+    ]
+},
+  "bbox": [
+    -110.793233,
+    43.461446,
+    -110.793233,
+    43.461446
+],
+  "geometry": {"coordinates":[-110.793233,43.461446],"type":"Point"}
+}

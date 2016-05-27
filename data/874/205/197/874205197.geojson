@@ -1,0 +1,71 @@
+{
+  "id": 874205197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.558742,41.322635,-105.558742,41.322635",
+    "geom:latitude":41.322635,
+    "geom:longitude":-105.558742,
+    "iso:country":"US",
+    "sg:address":"2824 Dover Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 1199",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tJGiN3Zw7JkPPD9qYZcbv_41.322635_-105.558742@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312896,
+    "wof:geomhash":"3a7aadec2e1f3efafff6768c4de6db07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874205197
+        }
+    ],
+    "wof:id":874205197,
+    "wof:lastmodified":1464312896,
+    "wof:name":"James F Polis CPA",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -105.558742,
+    41.322635,
+    -105.558742,
+    41.322635
+],
+  "geometry": {"coordinates":[-105.558742,41.322635],"type":"Point"}
+}

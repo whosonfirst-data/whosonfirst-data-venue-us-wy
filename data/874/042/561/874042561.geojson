@@ -1,0 +1,51 @@
+{
+  "id": 874042561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.474045,41.532771,-109.474045,41.532771",
+    "geom:latitude":41.532771,
+    "geom:longitude":-109.474045,
+    "iso:country":"US",
+    "sg:address":"515 W Flaming Gorge Way",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 6733",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LsACky8LcyYTjZih7XiCm_41.532771_-109.474045@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311170,
+    "wof:geomhash":"23fc8db8133156ddc34173b11658f883",
+    "wof:hierarchy":[],
+    "wof:id":874042561,
+    "wof:lastmodified":1464311170,
+    "wof:name":"Mini Mart",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.474045,
+    41.532771,
+    -109.474045,
+    41.532771
+],
+  "geometry": {"coordinates":[-109.474045,41.532771],"type":"Point"}
+}

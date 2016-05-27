@@ -1,0 +1,58 @@
+{
+  "id": 874190351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.469431,41.516954,-109.469431,41.516954",
+    "geom:latitude":41.516954,
+    "geom:longitude":-109.469431,
+    "iso:country":"US",
+    "sg:address":"350 Uinta Dr",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 4920",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11SdxeioDin2ckCPoUgTuP_41.516954_-109.469431@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312743,
+    "wof:geomhash":"aaa06247c792c8305d1ce7a469767e6f",
+    "wof:hierarchy":[],
+    "wof:id":874190351,
+    "wof:lastmodified":1464312743,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -109.469431,
+    41.516954,
+    -109.469431,
+    41.516954
+],
+  "geometry": {"coordinates":[-109.469431,41.516954],"type":"Point"}
+}

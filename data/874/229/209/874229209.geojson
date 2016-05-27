@@ -1,0 +1,59 @@
+{
+  "id": 874229209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.38064,43.043289,-108.38064,43.043289",
+    "geom:latitude":43.043289,
+    "geom:longitude":-108.38064,
+    "iso:country":"US",
+    "sg:address":"1960 N Federal Blvd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/wind-river/86225-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 857 2077",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ueeRqPkio4bxal62PDfAb_43.043289_-108.380640@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313152,
+    "wof:geomhash":"6b284a96bbadab5991a49ef8e21923cd",
+    "wof:hierarchy":[],
+    "wof:id":874229209,
+    "wof:lastmodified":1464313152,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -108.38064,
+    43.043289,
+    -108.38064,
+    43.043289
+],
+  "geometry": {"coordinates":[-108.38064,43.043289],"type":"Point"}
+}

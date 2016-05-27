@@ -1,0 +1,58 @@
+{
+  "id": 874146493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.292844,41.3274,-110.292844,41.3274",
+    "geom:latitude":41.3274,
+    "geom:longitude":-110.292844,
+    "iso:country":"US",
+    "sg:address":"102 S Main St",
+    "sg:city":"Lyman",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 787 3207",
+    "sg:postcode":"82937",
+    "sg:province":"WY",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Shda0rjWQIkaFsrplKbjY_41.327400_-110.292844@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312298,
+    "wof:geomhash":"cc7a66de847e65d269a3227ce831a401",
+    "wof:hierarchy":[],
+    "wof:id":874146493,
+    "wof:lastmodified":1464312298,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -110.292844,
+    41.3274,
+    -110.292844,
+    41.3274
+],
+  "geometry": {"coordinates":[-110.292844,41.3274],"type":"Point"}
+}

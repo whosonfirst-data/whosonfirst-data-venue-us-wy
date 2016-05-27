@@ -1,0 +1,56 @@
+{
+  "id": 874219017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.725259,42.831686,-108.725259,42.831686",
+    "geom:latitude":42.831686,
+    "geom:longitude":-108.725259,
+    "iso:country":"US",
+    "sg:address":"333 E Main St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 5460",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nKWn9Y74aFVlVGj8jDg0A_42.831686_-108.725259@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313044,
+    "wof:geomhash":"c719dcfff23f95822a8e82b537626f37",
+    "wof:hierarchy":[],
+    "wof:id":874219017,
+    "wof:lastmodified":1464313044,
+    "wof:name":"US Forest Svc Ranger Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government"
+    ]
+},
+  "bbox": [
+    -108.725259,
+    42.831686,
+    -108.725259,
+    42.831686
+],
+  "geometry": {"coordinates":[-108.72525899999999,42.831686],"type":"Point"}
+}

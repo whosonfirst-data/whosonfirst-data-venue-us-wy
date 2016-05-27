@@ -1,0 +1,63 @@
+{
+  "id": 874187185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.355086,42.737461,-106.355086,42.737461",
+    "geom:latitude":42.737461,
+    "geom:longitude":-106.355086,
+    "iso:country":"US",
+    "sg:address":"9267 Red Creek Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2665",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "technical",
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u0or1M3i02bGCUoPaM4QU_42.737461_-106.355086@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312711,
+    "wof:geomhash":"725c9f6c62800e2a126336f5e49d07d5",
+    "wof:hierarchy":[],
+    "wof:id":874187185,
+    "wof:lastmodified":1464312711,
+    "wof:name":"Kilowatt Classroom LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "secondary"
+    ]
+},
+  "bbox": [
+    -106.355086,
+    42.737461,
+    -106.355086,
+    42.737461
+],
+  "geometry": {"coordinates":[-106.355086,42.737461],"type":"Point"}
+}

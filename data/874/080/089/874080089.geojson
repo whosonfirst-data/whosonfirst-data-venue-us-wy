@@ -1,0 +1,66 @@
+{
+  "id": 874080089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.88525,41.164606,-105.88525,41.164606",
+    "geom:latitude":41.164606,
+    "geom:longitude":-105.88525,
+    "iso:country":"US",
+    "sg:address":"20 Lewis Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5720",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64OAdZ69gr7wDo8lNktj4G_41.164606_-105.885250@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311552,
+    "wof:geomhash":"7c494d2e9cd39ad60959de19967c214d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874080089
+        }
+    ],
+    "wof:id":874080089,
+    "wof:lastmodified":1464311552,
+    "wof:name":"Harmony Elementary School",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.88525,
+    41.164606,
+    -105.88525,
+    41.164606
+],
+  "geometry": {"coordinates":[-105.88525,41.164606],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 874113421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591633,41.315569,-105.591633,41.315569",
+    "geom:latitude":41.315569,
+    "geom:longitude":-105.591633,
+    "iso:country":"US",
+    "sg:address":"414 E Lewis St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 1592",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "for",
+        "mortgage",
+        "money",
+        "loan",
+        "broker",
+        "arranging",
+        "using"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lcclBXNosKguVBdQHzDSD_41.315569_-105.591633@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311971,
+    "wof:geomhash":"2aaf6d3877d0738eb371918eab04a91f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874113421
+        }
+    ],
+    "wof:id":874113421,
+    "wof:lastmodified":1464311971,
+    "wof:name":"Mortgage Source Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "for",
+        "mortgage",
+        "money",
+        "loan",
+        "broker",
+        "arranging",
+        "using"
+    ]
+},
+  "bbox": [
+    -105.591633,
+    41.315569,
+    -105.591633,
+    41.315569
+],
+  "geometry": {"coordinates":[-105.591633,41.315569],"type":"Point"}
+}

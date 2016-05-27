@@ -1,0 +1,58 @@
+{
+  "id": 874159199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.95338,42.065989,-104.95338,42.065989",
+    "geom:latitude":42.065989,
+    "geom:longitude":-104.95338,
+    "iso:country":"US",
+    "sg:address":"1602 9th St",
+    "sg:city":"Wheatland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 322 5386",
+    "sg:postcode":"82201",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zIB1RP4X6Bx3f1Q2V0UTA_42.065989_-104.953380@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312424,
+    "wof:geomhash":"9d889e08b7f759159f87196c7ba03f38",
+    "wof:hierarchy":[],
+    "wof:id":874159199,
+    "wof:lastmodified":1464312424,
+    "wof:name":"Busy B Cleaning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -104.95338,
+    42.065989,
+    -104.95338,
+    42.065989
+],
+  "geometry": {"coordinates":[-104.95338,42.065989],"type":"Point"}
+}

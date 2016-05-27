@@ -1,0 +1,56 @@
+{
+  "id": 874177215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.849335,44.666775,-103.849335,44.666775",
+    "geom:latitude":44.666775,
+    "geom:longitude":-103.849335,
+    "iso:country":"US",
+    "sg:address":"1010 8th Ave",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 4354",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CAkQ6HbKY9qZjhPf2HbU0_44.666775_-103.849335@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312598,
+    "wof:geomhash":"ffe84c6ebd59efffbc82350b93006fc7",
+    "wof:hierarchy":[],
+    "wof:id":874177215,
+    "wof:lastmodified":1464312598,
+    "wof:name":"Belle Fourche Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -103.849335,
+    44.666775,
+    -103.849335,
+    44.666775
+],
+  "geometry": {"coordinates":[-103.849335,44.666775],"type":"Point"}
+}

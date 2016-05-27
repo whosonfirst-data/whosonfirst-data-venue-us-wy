@@ -1,0 +1,58 @@
+{
+  "id": 874060405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.109668,42.540402,-110.109668,42.540402",
+    "geom:latitude":42.540402,
+    "geom:longitude":-110.109668,
+    "iso:country":"US",
+    "sg:address":"131 Front St",
+    "sg:city":"Big Piney",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 276 5701",
+    "sg:postcode":"83113",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YbIz68AynfuaIvwNgztlK_42.540402_-110.109668@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311339,
+    "wof:geomhash":"791e6da4b869d90b53eefcda597aa56c",
+    "wof:hierarchy":[],
+    "wof:id":874060405,
+    "wof:lastmodified":1464311339,
+    "wof:name":"Big Piney Lube & Detail",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -110.109668,
+    42.540402,
+    -110.109668,
+    42.540402
+],
+  "geometry": {"coordinates":[-110.109668,42.540402],"type":"Point"}
+}

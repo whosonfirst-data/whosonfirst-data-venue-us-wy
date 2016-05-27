@@ -1,0 +1,52 @@
+{
+  "id": 874219323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.698301,44.34532,-106.698301,44.34532",
+    "geom:latitude":44.34532,
+    "geom:longitude":-106.698301,
+    "iso:country":"US",
+    "sg:address":"130 S Main St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 9556",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:website":"www.pearsonrealestate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CnMf16W3FGAnnU8qcmbGD_44.345320_-106.698301@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313047,
+    "wof:geomhash":"815b703ed300411b780de8e0fdc6d6d1",
+    "wof:hierarchy":[],
+    "wof:id":874219323,
+    "wof:lastmodified":1464313047,
+    "wof:name":"Pearson Real Estate Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.698301,
+    44.34532,
+    -106.698301,
+    44.34532
+],
+  "geometry": {"coordinates":[-106.698301,44.34532],"type":"Point"}
+}

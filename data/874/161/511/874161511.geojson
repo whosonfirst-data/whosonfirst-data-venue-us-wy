@@ -1,0 +1,71 @@
+{
+  "id": 874161511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.429055,42.879991,-106.429055,42.879991",
+    "geom:latitude":42.879991,
+    "geom:longitude":-106.429055,
+    "iso:country":"US",
+    "sg:address":"2384 Mine Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 5264",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UbWOMtK53H68ghJHTcTtx_42.879991_-106.429055@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312446,
+    "wof:geomhash":"b268005df2adafe668d71445ce2ed520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874161511
+        }
+    ],
+    "wof:id":874161511,
+    "wof:lastmodified":1464312446,
+    "wof:name":"C A White Wireline Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.429055,
+    42.879991,
+    -106.429055,
+    42.879991
+],
+  "geometry": {"coordinates":[-106.42905500000001,42.879991],"type":"Point"}
+}

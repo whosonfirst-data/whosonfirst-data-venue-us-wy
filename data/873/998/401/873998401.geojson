@@ -1,0 +1,71 @@
+{
+  "id": 873998401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590669,41.312642,-105.590669,41.312642",
+    "geom:latitude":41.312642,
+    "geom:longitude":-105.590669,
+    "iso:country":"US",
+    "sg:address":"512 E University Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2028",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uQesN71TATCwQbaz1bHc8_41.312642_-105.590669@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310749,
+    "wof:geomhash":"05f92062f78e66d1cdcd29d846ab2b3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873998401
+        }
+    ],
+    "wof:id":873998401,
+    "wof:lastmodified":1464310749,
+    "wof:name":"Wercs Comm Tribcsr",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -105.590669,
+    41.312642,
+    -105.590669,
+    41.312642
+],
+  "geometry": {"coordinates":[-105.59066900000001,41.312642],"type":"Point"}
+}

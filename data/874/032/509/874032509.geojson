@@ -1,0 +1,58 @@
+{
+  "id": 874032509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.229336,41.574404,-109.229336,41.574404",
+    "geom:latitude":41.574404,
+    "geom:longitude":-109.229336,
+    "iso:country":"US",
+    "sg:address":"1330 W 2nd St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 7431",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xNJZz2bnIcRc0mzsjcU92_41.574404_-109.229336@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311070,
+    "wof:geomhash":"91c7f6b2e470856d4d4a8ade6f708b28",
+    "wof:hierarchy":[],
+    "wof:id":874032509,
+    "wof:lastmodified":1464311070,
+    "wof:name":"Rock Springs Machine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -109.229336,
+    41.574404,
+    -109.229336,
+    41.574404
+],
+  "geometry": {"coordinates":[-109.229336,41.574404],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874083765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.579515,41.330949,-105.579515,41.330949",
+    "geom:latitude":41.330949,
+    "geom:longitude":-105.579515,
+    "iso:country":"US",
+    "sg:address":"1309 Mill St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 3938",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OMylEJmnTOVBkcGXDf8GN_41.330949_-105.579515@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311596,
+    "wof:geomhash":"14b052d1c570bd693d6302126b71ae32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874083765
+        }
+    ],
+    "wof:id":874083765,
+    "wof:lastmodified":1464311596,
+    "wof:name":"Voltech Electric Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.579515,
+    41.330949,
+    -105.579515,
+    41.330949
+],
+  "geometry": {"coordinates":[-105.579515,41.330949],"type":"Point"}
+}

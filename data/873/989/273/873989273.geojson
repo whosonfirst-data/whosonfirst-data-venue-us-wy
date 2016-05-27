@@ -1,0 +1,58 @@
+{
+  "id": 873989273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.264493,43.036746,-105.264493,43.036746",
+    "geom:latitude":43.036746,
+    "geom:longitude":-105.264493,
+    "iso:country":"US",
+    "sg:address":"2070 State Hwy 59",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 6341",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plant",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nHBaJwOd3zHWoV6371E64_43.036746_-105.264493@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310685,
+    "wof:geomhash":"3adf5872500149ad39695310bb8c99f3",
+    "wof:hierarchy":[],
+    "wof:id":873989273,
+    "wof:lastmodified":1464310685,
+    "wof:name":"Interline Energy Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "gas"
+    ]
+},
+  "bbox": [
+    -105.264493,
+    43.036746,
+    -105.264493,
+    43.036746
+],
+  "geometry": {"coordinates":[-105.264493,43.036746],"type":"Point"}
+}

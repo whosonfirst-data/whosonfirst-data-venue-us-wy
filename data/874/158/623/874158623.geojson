@@ -1,0 +1,60 @@
+{
+  "id": 874158623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.986312,41.24381,-110.986312,41.24381",
+    "geom:latitude":41.24381,
+    "geom:longitude":-110.986312,
+    "iso:country":"US",
+    "sg:address":"749 Overthrust Rd",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 9402",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bpDFRQbf4ASwgiV8rHiyN_41.243810_-110.986312@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312419,
+    "wof:geomhash":"d7b745af8137be36ca521ea608fc7da5",
+    "wof:hierarchy":[],
+    "wof:id":874158623,
+    "wof:lastmodified":1464312419,
+    "wof:name":"Tri-Valley",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -110.986312,
+    41.24381,
+    -110.986312,
+    41.24381
+],
+  "geometry": {"coordinates":[-110.986312,41.24381],"type":"Point"}
+}

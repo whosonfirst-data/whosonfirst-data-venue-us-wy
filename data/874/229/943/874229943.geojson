@@ -1,0 +1,56 @@
+{
+  "id": 874229943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.942565,44.773557,-106.942565,44.773557",
+    "geom:latitude":44.773557,
+    "geom:longitude":-106.942565,
+    "iso:country":"US",
+    "sg:address":"2208 Coffeen Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/sheridan/118385-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KyJt6Usi8J5YJcRzWcq2v_44.773557_-106.942565@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313159,
+    "wof:geomhash":"a45a11ae1c1f92f89b3b644e944743b2",
+    "wof:hierarchy":[],
+    "wof:id":874229943,
+    "wof:lastmodified":1464313159,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -106.942565,
+    44.773557,
+    -106.942565,
+    44.773557
+],
+  "geometry": {"coordinates":[-106.942565,44.773557],"type":"Point"}
+}

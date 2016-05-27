@@ -1,0 +1,61 @@
+{
+  "id": 874147301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.382118,43.024588,-108.382118,43.024588",
+    "geom:latitude":43.024588,
+    "geom:longitude":-108.382118,
+    "iso:country":"US",
+    "sg:address":"611 E Main St",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 7496",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60ig3JUY603hs4iEFR34vQ_43.024588_-108.382118@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312305,
+    "wof:geomhash":"11142ab52b116d87e2a57ebfdfab2a64",
+    "wof:hierarchy":[],
+    "wof:id":874147301,
+    "wof:lastmodified":1464312305,
+    "wof:name":"Styles School of Cosmetology",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school"
+    ]
+},
+  "bbox": [
+    -108.382118,
+    43.024588,
+    -108.382118,
+    43.024588
+],
+  "geometry": {"coordinates":[-108.38211800000001,43.024588],"type":"Point"}
+}

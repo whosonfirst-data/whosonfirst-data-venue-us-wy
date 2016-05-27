@@ -1,0 +1,58 @@
+{
+  "id": 874119757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.761177,43.481664,-110.761177,43.481664",
+    "geom:latitude":43.481664,
+    "geom:longitude":-110.761177,
+    "iso:country":"US",
+    "sg:address":"112 Center St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 3737",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_041XxgGHyUf8vWUIjDKdSm_43.481664_-110.761177@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312033,
+    "wof:geomhash":"01f9f4df8a002cb28dd11b52155292bb",
+    "wof:hierarchy":[],
+    "wof:id":874119757,
+    "wof:lastmodified":1464312033,
+    "wof:name":"Jackson State Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -110.761177,
+    43.481664,
+    -110.761177,
+    43.481664
+],
+  "geometry": {"coordinates":[-110.761177,43.481664],"type":"Point"}
+}

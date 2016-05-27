@@ -1,0 +1,66 @@
+{
+  "id": 874021973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.588779,41.293794,-105.588779,41.293794",
+    "geom:latitude":41.293794,
+    "geom:longitude":-105.588779,
+    "iso:country":"US",
+    "sg:address":"2335 S 8th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 0722",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OKCxbh5yeDYCcsHBU5pJc_41.293794_-105.588779@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310964,
+    "wof:geomhash":"ce08e690abd1fb09e6ed7c677e18803b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874021973
+        }
+    ],
+    "wof:id":874021973,
+    "wof:lastmodified":1464310964,
+    "wof:name":"Health Management Worldwide",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.588779,
+    41.293794,
+    -105.588779,
+    41.293794
+],
+  "geometry": {"coordinates":[-105.588779,41.293794],"type":"Point"}
+}

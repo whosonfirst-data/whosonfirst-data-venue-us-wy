@@ -1,0 +1,69 @@
+{
+  "id": 874122897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323838,42.84415,-106.323838,42.84415",
+    "geom:latitude":42.84415,
+    "geom:longitude":-106.323838,
+    "iso:country":"US",
+    "sg:address":"604 S Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 1040",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EgFwRSjAPxVhpVtfhgiz2_42.844150_-106.323838@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312067,
+    "wof:geomhash":"bda9918d728411f383015d32c7c5228c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874122897
+        }
+    ],
+    "wof:id":874122897,
+    "wof:lastmodified":1464312067,
+    "wof:name":"Wrasper & Associates",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -106.323838,
+    42.84415,
+    -106.323838,
+    42.84415
+],
+  "geometry": {"coordinates":[-106.32383799999999,42.84415],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874084475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.24915,43.849956,-104.24915,43.849956",
+    "geom:latitude":43.849956,
+    "geom:longitude":-104.24915,
+    "iso:country":"US",
+    "sg:address":"11 Cantel Dr",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 4191",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68OIj5ibV8FLz5rtmO5SJq_43.849956_-104.249150@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311603,
+    "wof:geomhash":"4e262a6ea3d49e774e98db0ad79bee55",
+    "wof:hierarchy":[],
+    "wof:id":874084475,
+    "wof:lastmodified":1464311603,
+    "wof:name":"Consolidated Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -104.24915,
+    43.849956,
+    -104.24915,
+    43.849956
+],
+  "geometry": {"coordinates":[-104.24915,43.849956],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874164163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.071613,44.526106,-109.071613,44.526106",
+    "geom:latitude":44.526106,
+    "geom:longitude":-109.071613,
+    "iso:country":"US",
+    "sg:address":"707 Sheridan Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 5802",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pathologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hlFtA15XzwSYGY4oavYV8_44.526106_-109.071613@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312470,
+    "wof:geomhash":"ce2e4da0e621d9fdc92ad89719e048b5",
+    "wof:hierarchy":[],
+    "wof:id":874164163,
+    "wof:lastmodified":1464312470,
+    "wof:name":"Big Horn Basin Pathology",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pathologist"
+    ]
+},
+  "bbox": [
+    -109.071613,
+    44.526106,
+    -109.071613,
+    44.526106
+],
+  "geometry": {"coordinates":[-109.071613,44.526106],"type":"Point"}
+}

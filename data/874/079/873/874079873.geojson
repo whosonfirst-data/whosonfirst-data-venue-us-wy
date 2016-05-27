@@ -1,0 +1,73 @@
+{
+  "id": 874079873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.573303,41.308272,-105.573303,41.308272",
+    "geom:latitude":41.308272,
+    "geom:longitude":-105.573303,
+    "iso:country":"US",
+    "sg:address":"503 S 18th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3728",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HwDja5W3WWqE7msuoQXtb_41.308272_-105.573303@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311550,
+    "wof:geomhash":"13866756fbac88494554adbd299a54a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874079873
+        }
+    ],
+    "wof:id":874079873,
+    "wof:lastmodified":1464311550,
+    "wof:name":"LARAMIE Care Ctr",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -105.573303,
+    41.308272,
+    -105.573303,
+    41.308272
+],
+  "geometry": {"coordinates":[-105.573303,41.308272],"type":"Point"}
+}

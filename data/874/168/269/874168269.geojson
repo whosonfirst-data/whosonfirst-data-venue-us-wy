@@ -1,0 +1,69 @@
+{
+  "id": 874168269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.337335,42.85704,-106.337335,42.85704",
+    "geom:latitude":42.85704,
+    "geom:longitude":-106.337335,
+    "iso:country":"US",
+    "sg:address":"730 N Glenn Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 8800",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4szTYXSfFdsZzzofeiUHur_42.857040_-106.337335@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312509,
+    "wof:geomhash":"3fa4bc1d9659eb5cd5cc0db736a1bb8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874168269
+        }
+    ],
+    "wof:id":874168269,
+    "wof:lastmodified":1464312509,
+    "wof:name":"Omni Lab Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -106.337335,
+    42.85704,
+    -106.337335,
+    42.85704
+],
+  "geometry": {"coordinates":[-106.337335,42.85704],"type":"Point"}
+}

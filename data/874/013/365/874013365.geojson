@@ -1,0 +1,66 @@
+{
+  "id": 874013365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.59611,41.311224,-105.59611,41.311224",
+    "geom:latitude":41.311224,
+    "geom:longitude":-105.59611,
+    "iso:country":"US",
+    "sg:address":"207 S 1st St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5533",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HdsyNilmjMYJY2Vae504h_41.311224_-105.596110@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310879,
+    "wof:geomhash":"102ecbd344440d48c1088d1da613f538",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874013365
+        }
+    ],
+    "wof:id":874013365,
+    "wof:lastmodified":1464310879,
+    "wof:name":"Pedal House",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.59611,
+    41.311224,
+    -105.59611,
+    41.311224
+],
+  "geometry": {"coordinates":[-105.59611,41.311224],"type":"Point"}
+}

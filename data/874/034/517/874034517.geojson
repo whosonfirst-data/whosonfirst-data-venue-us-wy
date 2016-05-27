@@ -1,0 +1,73 @@
+{
+  "id": 874034517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.601863,41.325721,-105.601863,41.325721",
+    "geom:latitude":41.325721,
+    "geom:longitude":-105.601863,
+    "iso:country":"US",
+    "sg:address":"372 W Lyons St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2829",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "development",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_529kGplQfT612sxBE9ybI7_41.325721_-105.601863@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311090,
+    "wof:geomhash":"1882f414685409b784711dbcd923e5e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874034517
+        }
+    ],
+    "wof:id":874034517,
+    "wof:lastmodified":1464311090,
+    "wof:name":"Cha Corp",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -105.601863,
+    41.325721,
+    -105.601863,
+    41.325721
+],
+  "geometry": {"coordinates":[-105.60186299999999,41.325721],"type":"Point"}
+}

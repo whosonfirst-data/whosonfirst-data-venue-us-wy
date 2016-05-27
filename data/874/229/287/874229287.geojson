@@ -1,0 +1,72 @@
+{
+  "id": 874229287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.30081,42.838846,-106.30081,42.838846",
+    "geom:latitude":42.838846,
+    "geom:longitude":-106.30081,
+    "iso:country":"US",
+    "sg:address":"2117 E 12th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/casper/236563-philly-steak-n-company/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 5600",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cheesesteaks",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lb1mJSrIwwXm1WU6ZbJIJ_42.838846_-106.300810@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313153,
+    "wof:geomhash":"2b8f6f45cb5d9eb35263a34272e6b1e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874229287
+        }
+    ],
+    "wof:id":874229287,
+    "wof:lastmodified":1464313153,
+    "wof:name":"Philly Steak N' Company",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cheesesteaks",
+        "american"
+    ]
+},
+  "bbox": [
+    -106.30081,
+    42.838846,
+    -106.30081,
+    42.838846
+],
+  "geometry": {"coordinates":[-106.30081,42.838846],"type":"Point"}
+}

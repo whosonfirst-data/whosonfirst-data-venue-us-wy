@@ -1,0 +1,56 @@
+{
+  "id": 874147519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.711429,44.396607,-106.711429,44.396607",
+    "geom:latitude":44.396607,
+    "geom:longitude":-106.711429,
+    "iso:country":"US",
+    "sg:address":"130 Rock Creek Rd",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 9423",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n8k3ogbAH82tax5TxRYnv_44.396607_-106.711429@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312306,
+    "wof:geomhash":"53330921fbe340872d969946614c4cd5",
+    "wof:hierarchy":[],
+    "wof:id":874147519,
+    "wof:lastmodified":1464312306,
+    "wof:name":"Rock Creek Greenhouse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -106.711429,
+    44.396607,
+    -106.711429,
+    44.396607
+],
+  "geometry": {"coordinates":[-106.711429,44.396607],"type":"Point"}
+}

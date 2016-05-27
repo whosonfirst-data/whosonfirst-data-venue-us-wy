@@ -1,0 +1,75 @@
+{
+  "id": 874145265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.400418,42.829288,-106.400418,42.829288",
+    "geom:latitude":42.829288,
+    "geom:longitude":-106.400418,
+    "iso:country":"US",
+    "sg:address":"2077 Fontenelle St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 1188",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "resurfacing",
+        "laying",
+        "refinishing",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WqysKXm8BpYBBZA1LSxN9_42.829288_-106.400418@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312282,
+    "wof:geomhash":"d40687518d37b2e8b62af3956341a879",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874145265
+        }
+    ],
+    "wof:id":874145265,
+    "wof:lastmodified":1464312282,
+    "wof:name":"A Floor & More",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resurfacing",
+        "laying",
+        "refinishing",
+        "floor"
+    ]
+},
+  "bbox": [
+    -106.400418,
+    42.829288,
+    -106.400418,
+    42.829288
+],
+  "geometry": {"coordinates":[-106.400418,42.829288],"type":"Point"}
+}

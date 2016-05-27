@@ -1,0 +1,69 @@
+{
+  "id": 874092697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.342189,42.859869,-106.342189,42.859869",
+    "geom:latitude":42.859869,
+    "geom:longitude":-106.342189,
+    "iso:country":"US",
+    "sg:address":"913 N Foster Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1593",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "exploration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XRHihxl6O3v8HvnqmoFow_42.859869_-106.342189@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311692,
+    "wof:geomhash":"41eea39a9ae7cb9936e273e5de884690",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874092697
+        }
+    ],
+    "wof:id":874092697,
+    "wof:lastmodified":1464311692,
+    "wof:name":"Hawks Industries Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exploration"
+    ]
+},
+  "bbox": [
+    -106.342189,
+    42.859869,
+    -106.342189,
+    42.859869
+],
+  "geometry": {"coordinates":[-106.342189,42.859869],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874111717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.802785,41.159431,-104.802785,41.159431",
+    "geom:latitude":41.159431,
+    "geom:longitude":-104.802785,
+    "iso:country":"US",
+    "sg:address":"1706 Stillwater Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 8781",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "paint",
+        "floor",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59PBq0GMac4WA7jWgDdlyH_41.159431_-104.802785@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311953,
+    "wof:geomhash":"c1f9e72b79b061b82f64a4520c37e51f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":874111717
+        }
+    ],
+    "wof:id":874111717,
+    "wof:lastmodified":1464311953,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "floor",
+        "covering"
+    ]
+},
+  "bbox": [
+    -104.802785,
+    41.159431,
+    -104.802785,
+    41.159431
+],
+  "geometry": {"coordinates":[-104.802785,41.159431],"type":"Point"}
+}

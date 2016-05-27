@@ -1,0 +1,77 @@
+{
+  "id": 874165751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595222,41.308268,-105.595222,41.308268",
+    "geom:latitude":41.308268,
+    "geom:longitude":-105.595222,
+    "iso:country":"US",
+    "sg:address":"601 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 9033",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wheel",
+        "tire",
+        "axle",
+        "alignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pMMztM3oGvYPB7asMgelC_41.308268_-105.595222@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312487,
+    "wof:geomhash":"bf9267ce99ab6c97f3fa2fafbde8eef9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874165751
+        }
+    ],
+    "wof:id":874165751,
+    "wof:lastmodified":1464312487,
+    "wof:name":"Plains Tire Company",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "tire",
+        "axle",
+        "alignment"
+    ]
+},
+  "bbox": [
+    -105.595222,
+    41.308268,
+    -105.595222,
+    41.308268
+],
+  "geometry": {"coordinates":[-105.59522200000001,41.308268],"type":"Point"}
+}

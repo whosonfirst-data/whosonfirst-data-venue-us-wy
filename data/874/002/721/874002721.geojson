@@ -1,0 +1,71 @@
+{
+  "id": 874002721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.586114,41.306685,-105.586114,41.306685",
+    "geom:latitude":41.306685,
+    "geom:longitude":-105.586114,
+    "iso:country":"US",
+    "sg:address":"712 S 9th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3496",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aR5G4P8vaCLLnTGIWOjbF_41.306685_-105.586114@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310788,
+    "wof:geomhash":"e673eb56323346ff559a6fd211a5d09b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874002721
+        }
+    ],
+    "wof:id":874002721,
+    "wof:lastmodified":1464310788,
+    "wof:name":"Buckley Powder Co",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -105.586114,
+    41.306685,
+    -105.586114,
+    41.306685
+],
+  "geometry": {"coordinates":[-105.58611399999999,41.306685],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874067101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.335992,42.851223,-106.335992,42.851223",
+    "geom:latitude":42.851223,
+    "geom:longitude":-106.335992,
+    "iso:country":"US",
+    "sg:address":"660 Antler Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 4662",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "arts",
+        "supply",
+        "martial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15pRa8Q6699oOsxjAOKjfG_42.851223_-106.335992@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311398,
+    "wof:geomhash":"c048e38c1ef5baa3631bfaf0ec6a0f12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874067101
+        }
+    ],
+    "wof:id":874067101,
+    "wof:lastmodified":1464311398,
+    "wof:name":"O K Fine Productions",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "arts",
+        "supply",
+        "martial"
+    ]
+},
+  "bbox": [
+    -106.335992,
+    42.851223,
+    -106.335992,
+    42.851223
+],
+  "geometry": {"coordinates":[-106.335992,42.851223],"type":"Point"}
+}

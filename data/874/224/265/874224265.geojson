@@ -1,0 +1,58 @@
+{
+  "id": 874224265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.763647,43.477071,-110.763647,43.477071",
+    "geom:latitude":43.477071,
+    "geom:longitude":-110.763647,
+    "iso:country":"US",
+    "sg:address":"240 S Glenwood St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 6398",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G9bx7nVuxyvFywvKWyHca_43.477071_-110.763647@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313105,
+    "wof:geomhash":"746204c42ebe27a7f5138da9d5426ba7",
+    "wof:hierarchy":[],
+    "wof:id":874224265,
+    "wof:lastmodified":1464313105,
+    "wof:name":"Dancer's Workshop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -110.763647,
+    43.477071,
+    -110.763647,
+    43.477071
+],
+  "geometry": {"coordinates":[-110.76364700000001,43.477071],"type":"Point"}
+}

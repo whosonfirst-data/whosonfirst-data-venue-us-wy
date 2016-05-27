@@ -1,0 +1,56 @@
+{
+  "id": 874112007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.811696,41.137283,-104.811696,41.137283",
+    "geom:latitude":41.137283,
+    "geom:longitude":-104.811696,
+    "iso:country":"US",
+    "sg:address":"433 E 19th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 3111",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FkSMjHGifqONat8n1QeSk_41.137283_-104.811696@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311957,
+    "wof:geomhash":"590cb6c39c9ec81d38003f3dcd5a864b",
+    "wof:hierarchy":[],
+    "wof:id":874112007,
+    "wof:lastmodified":1464311957,
+    "wof:name":"Edith Wilson MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -104.811696,
+    41.137283,
+    -104.811696,
+    41.137283
+],
+  "geometry": {"coordinates":[-104.811696,41.137283],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874108015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.068318,41.182861,-104.068318,41.182861",
+    "geom:latitude":41.182861,
+    "geom:longitude":-104.068318,
+    "iso:country":"US",
+    "sg:address":"210 Main St",
+    "sg:city":"Pine Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 245 3392",
+    "sg:postcode":"82082",
+    "sg:province":"WY",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iTbKWr78lTRMPQczF4Owr_41.182861_-104.068318@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311894,
+    "wof:geomhash":"1e3beae7ec4f2f1947576efd82105561",
+    "wof:hierarchy":[],
+    "wof:id":874108015,
+    "wof:lastmodified":1464311894,
+    "wof:name":"Pine Bluffs Community TV",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television"
+    ]
+},
+  "bbox": [
+    -104.068318,
+    41.182861,
+    -104.068318,
+    41.182861
+],
+  "geometry": {"coordinates":[-104.068318,41.182861],"type":"Point"}
+}

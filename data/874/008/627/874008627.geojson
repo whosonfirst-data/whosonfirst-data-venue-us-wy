@@ -1,0 +1,60 @@
+{
+  "id": 874008627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.754482,41.137874,-104.754482,41.137874",
+    "geom:latitude":41.137874,
+    "geom:longitude":-104.754482,
+    "iso:country":"US",
+    "sg:address":"4500 E 13th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 630 8115",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tOJbBa9PBCksnY1X51DlW_41.137874_-104.754482@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310845,
+    "wof:geomhash":"04d40d3f00de029f224ff767495e11af",
+    "wof:hierarchy":[],
+    "wof:id":874008627,
+    "wof:lastmodified":1464310845,
+    "wof:name":"Wyoming Atm Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ]
+},
+  "bbox": [
+    -104.754482,
+    41.137874,
+    -104.754482,
+    41.137874
+],
+  "geometry": {"coordinates":[-104.754482,41.137874],"type":"Point"}
+}

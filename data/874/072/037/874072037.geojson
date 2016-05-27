@@ -1,0 +1,58 @@
+{
+  "id": 874072037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.794504,41.137152,-104.794504,41.137152",
+    "geom:latitude":41.137152,
+    "geom:longitude":-104.794504,
+    "iso:country":"US",
+    "sg:address":"1215 Logan Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 8674",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31qCA1pEx8F7xXjmCmHI5m_41.137152_-104.794504@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311462,
+    "wof:geomhash":"792cf85ae103e77446e26b05c923a151",
+    "wof:hierarchy":[],
+    "wof:id":874072037,
+    "wof:lastmodified":1464311462,
+    "wof:name":"Elder Auto Sales",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "eating"
+    ]
+},
+  "bbox": [
+    -104.794504,
+    41.137152,
+    -104.794504,
+    41.137152
+],
+  "geometry": {"coordinates":[-104.794504,41.137152],"type":"Point"}
+}

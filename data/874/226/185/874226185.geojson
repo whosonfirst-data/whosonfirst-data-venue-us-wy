@@ -1,0 +1,67 @@
+{
+  "id": 874226185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33823,42.79466,-106.33823,42.79466",
+    "geom:latitude":42.79466,
+    "geom:longitude":-106.33823,
+    "iso:country":"US",
+    "sg:address":"6041 S Walnut St",
+    "sg:city":"Casper",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 232 8992",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OHfZDUnffZEwBqQnvIAsY_42.794660_-106.338230@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313123,
+    "wof:geomhash":"656d06f0c052c01fe7208cc1ed13299f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874226185
+        }
+    ],
+    "wof:id":874226185,
+    "wof:lastmodified":1464313123,
+    "wof:name":"Fiddleback Farms",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "grain",
+        "cash"
+    ]
+},
+  "bbox": [
+    -106.33823,
+    42.79466,
+    -106.33823,
+    42.79466
+],
+  "geometry": {"coordinates":[-106.33823,42.79466],"type":"Point"}
+}

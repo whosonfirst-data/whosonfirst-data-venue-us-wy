@@ -1,0 +1,60 @@
+{
+  "id": 874132609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.729697,42.831574,-108.729697,42.831574",
+    "geom:latitude":42.831574,
+    "geom:longitude":-108.729697,
+    "iso:country":"US",
+    "sg:address":"295 Garfield St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 5886",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aN4TubhW6mBQlGoEQNW0m_42.831574_-108.729697@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312169,
+    "wof:geomhash":"562d5cde3467683f3c974b42b352f019",
+    "wof:hierarchy":[],
+    "wof:id":874132609,
+    "wof:lastmodified":1464312169,
+    "wof:name":"Peter Crane MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -108.729697,
+    42.831574,
+    -108.729697,
+    42.831574
+],
+  "geometry": {"coordinates":[-108.729697,42.831574],"type":"Point"}
+}

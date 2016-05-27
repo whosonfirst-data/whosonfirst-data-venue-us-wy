@@ -1,0 +1,69 @@
+{
+  "id": 874150833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.2807,42.828759,-106.2807,42.828759",
+    "geom:latitude":42.828759,
+    "geom:longitude":-106.2807,
+    "iso:country":"US",
+    "sg:address":"1901 Linda Vista Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 6645",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cz9CJOadaAYoy9ffGgvh9_42.828759_-106.280700@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312336,
+    "wof:geomhash":"991eb741349b1963dc2d5ff4bcec033a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874150833
+        }
+    ],
+    "wof:id":874150833,
+    "wof:lastmodified":1464312336,
+    "wof:name":"Lindas Quality Day Care",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -106.2807,
+    42.828759,
+    -106.2807,
+    42.828759
+],
+  "geometry": {"coordinates":[-106.2807,42.828759],"type":"Point"}
+}

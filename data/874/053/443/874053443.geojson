@@ -1,0 +1,58 @@
+{
+  "id": 874053443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.448711,42.767024,-104.448711,42.767024",
+    "geom:latitude":42.767024,
+    "geom:longitude":-104.448711,
+    "iso:country":"US",
+    "sg:address":"210 N Maple St",
+    "sg:city":"Lusk",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 334 2798",
+    "sg:postcode":"82225",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "saw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QoYGClD3R3jXsrkljm3du_42.767024_-104.448711@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311273,
+    "wof:geomhash":"3671ec7c327f290dd46f9bb4f3ff3551",
+    "wof:hierarchy":[],
+    "wof:id":874053443,
+    "wof:lastmodified":1464311273,
+    "wof:name":"L & H Saw Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "saw"
+    ]
+},
+  "bbox": [
+    -104.448711,
+    42.767024,
+    -104.448711,
+    42.767024
+],
+  "geometry": {"coordinates":[-104.448711,42.767024],"type":"Point"}
+}

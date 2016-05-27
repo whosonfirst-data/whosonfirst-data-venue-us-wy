@@ -1,0 +1,69 @@
+{
+  "id": 874034425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323675,42.840912,-106.323675,42.840912",
+    "geom:latitude":42.840912,
+    "geom:longitude":-106.323675,
+    "iso:country":"US",
+    "sg:address":"933 S Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 4386",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VuDrdBe4fAvnlwCc6ULBE_42.840912_-106.323675@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311089,
+    "wof:geomhash":"30d82b65486d9ef9c53164ca8749b2e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874034425
+        }
+    ],
+    "wof:id":874034425,
+    "wof:lastmodified":1464311089,
+    "wof:name":"Whatever It Takes",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -106.323675,
+    42.840912,
+    -106.323675,
+    42.840912
+],
+  "geometry": {"coordinates":[-106.32367499999999,42.840912],"type":"Point"}
+}

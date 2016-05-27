@@ -1,0 +1,69 @@
+{
+  "id": 874179163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.391359,42.858104,-106.391359,42.858104",
+    "geom:latitude":42.858104,
+    "geom:longitude":-106.391359,
+    "iso:country":"US",
+    "sg:address":"5008 Paige St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0715",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "concrete",
+        "structural",
+        "fabrication",
+        "reinforcement",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y0EOyWDV0JqEIHtozk4DI_42.858104_-106.391359@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312622,
+    "wof:geomhash":"6fea698228c5f21a33f8551f0b5f3a42",
+    "wof:hierarchy":[],
+    "wof:id":874179163,
+    "wof:lastmodified":1464312622,
+    "wof:name":"Teton Steel Co",
+    "wof:parent_id":420550301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "structural",
+        "fabrication",
+        "reinforcement",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -106.391359,
+    42.858104,
+    -106.391359,
+    42.858104
+],
+  "geometry": {"coordinates":[-106.39135899999999,42.858104],"type":"Point"}
+}

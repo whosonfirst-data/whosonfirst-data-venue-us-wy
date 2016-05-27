@@ -1,0 +1,56 @@
+{
+  "id": 874071089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.380649,43.017714,-108.380649,43.017714",
+    "geom:latitude":43.017714,
+    "geom:longitude":-108.380649,
+    "iso:country":"US",
+    "sg:address":"818 S Federal Blvd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 7200",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zZlgtG21P13SCS3yAs7gV_43.017714_-108.380649@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311446,
+    "wof:geomhash":"721647acfc7d2a65e7e029b1a18131d7",
+    "wof:hierarchy":[],
+    "wof:id":874071089,
+    "wof:lastmodified":1464311446,
+    "wof:name":"County Sheriff",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -108.380649,
+    43.017714,
+    -108.380649,
+    43.017714
+],
+  "geometry": {"coordinates":[-108.38064900000001,43.017714],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874223989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.116032,42.678248,-105.116032,42.678248",
+    "geom:latitude":42.678248,
+    "geom:longitude":-105.116032,
+    "iso:country":"US",
+    "sg:address":"465 US Hwy 20",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 5391",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aXCH1Dj6QbJHezxSB4oTk_42.678248_-105.116032@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313103,
+    "wof:geomhash":"0ef1081a1f1bd5b4268d2741f7158f27",
+    "wof:hierarchy":[],
+    "wof:id":874223989,
+    "wof:lastmodified":1464313103,
+    "wof:name":"3 W Welding & Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -105.116032,
+    42.678248,
+    -105.116032,
+    42.678248
+],
+  "geometry": {"coordinates":[-105.116032,42.678248],"type":"Point"}
+}

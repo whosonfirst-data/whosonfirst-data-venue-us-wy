@@ -1,0 +1,58 @@
+{
+  "id": 874066919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.954465,44.79723,-106.954465,44.79723",
+    "geom:latitude":44.79723,
+    "geom:longitude":-106.954465,
+    "iso:country":"US",
+    "sg:address":"3 S Gould St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 7000",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tavern",
+        "packaged"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yQ7ynclkbaVOVLCm7H8oK_44.797230_-106.954465@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311396,
+    "wof:geomhash":"ec81bc964ac0858c774a7ef97ba8f5fb",
+    "wof:hierarchy":[],
+    "wof:id":874066919,
+    "wof:lastmodified":1464311396,
+    "wof:name":"Pony Bar & Grill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern",
+        "packaged"
+    ]
+},
+  "bbox": [
+    -106.954465,
+    44.79723,
+    -106.954465,
+    44.79723
+],
+  "geometry": {"coordinates":[-106.954465,44.79723],"type":"Point"}
+}

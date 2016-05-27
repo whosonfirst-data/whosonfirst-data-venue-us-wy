@@ -1,0 +1,71 @@
+{
+  "id": 874129393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.1599,41.037568,-106.1599,41.037568",
+    "geom:latitude":41.037568,
+    "geom:longitude":-106.1599,
+    "iso:country":"US",
+    "sg:address":"10 Valley Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 0055",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nfjVUYq4TXzadwgQhuz7L_41.037568_-106.159900@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312127,
+    "wof:geomhash":"44584b08675c1c81bbec0f02440e66ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874129393
+        }
+    ],
+    "wof:id":874129393,
+    "wof:lastmodified":1464312127,
+    "wof:name":"Alpine Adventures",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -106.1599,
+    41.037568,
+    -106.1599,
+    41.037568
+],
+  "geometry": {"coordinates":[-106.15989999999999,41.037568],"type":"Point"}
+}

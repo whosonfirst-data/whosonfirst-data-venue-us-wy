@@ -1,0 +1,58 @@
+{
+  "id": 874159369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.237422,43.85073,-104.237422,43.85073",
+    "geom:latitude":43.85073,
+    "geom:longitude":-104.237422,
+    "iso:country":"US",
+    "sg:address":"2891 W Main St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 3600",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bZFZpFguphioKGKMmtab1_43.850730_-104.237422@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312425,
+    "wof:geomhash":"2ad33d2fb389da30ea52b172f1f6b6ca",
+    "wof:hierarchy":[],
+    "wof:id":874159369,
+    "wof:lastmodified":1464312425,
+    "wof:name":"Motorworx",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -104.237422,
+    43.85073,
+    -104.237422,
+    43.85073
+],
+  "geometry": {"coordinates":[-104.237422,43.85073],"type":"Point"}
+}

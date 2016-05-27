@@ -1,0 +1,61 @@
+{
+  "id": 874230395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.536116,41.79094,-110.536116,41.79094",
+    "geom:latitude":41.79094,
+    "geom:longitude":-110.536116,
+    "iso:country":"US",
+    "sg:address":"1121 Coral St",
+    "sg:city":"Kemmerer",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/kemmerer-east/235564-taco-time/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 877 3357",
+    "sg:postcode":"83101",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hWxGqHvRRfuysq8tdi3qf_41.790940_-110.536116@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313163,
+    "wof:geomhash":"ac77c13f2afae5538f90c2b5448af05c",
+    "wof:hierarchy":[],
+    "wof:id":874230395,
+    "wof:lastmodified":1464313163,
+    "wof:name":"Taco Time",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -110.536116,
+    41.79094,
+    -110.536116,
+    41.79094
+],
+  "geometry": {"coordinates":[-110.53611600000001,41.79094],"type":"Point"}
+}

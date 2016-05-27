@@ -1,0 +1,60 @@
+{
+  "id": 873989093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.797796,43.46238,-110.797796,43.46238",
+    "geom:latitude":43.46238,
+    "geom:longitude":-110.797796,
+    "iso:country":"US",
+    "sg:address":"1225 Gregory Ln",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 2633",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MhnIqtnO9o36gIeNTbscf_43.462380_-110.797796@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310683,
+    "wof:geomhash":"e80bbfddf778bac697cf131bc3bb02d5",
+    "wof:hierarchy":[],
+    "wof:id":873989093,
+    "wof:lastmodified":1464310683,
+    "wof:name":"Kindness Kennels",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -110.797796,
+    43.46238,
+    -110.797796,
+    43.46238
+],
+  "geometry": {"coordinates":[-110.79779600000001,43.46238],"type":"Point"}
+}

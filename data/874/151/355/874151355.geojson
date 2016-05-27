@@ -1,0 +1,71 @@
+{
+  "id": 874151355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.56663,41.307184,-105.56663,41.307184",
+    "geom:latitude":41.307184,
+    "geom:longitude":-105.56663,
+    "iso:country":"US",
+    "sg:address":"2133 E Rainbow Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2479",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58H6Ozi6HcUpW2HUQm3Jq1_41.307184_-105.566630@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312340,
+    "wof:geomhash":"cbf1593da65be19ee77587ce1e3ef0fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874151355
+        }
+    ],
+    "wof:id":874151355,
+    "wof:lastmodified":1464312340,
+    "wof:name":"Montgomery-Stryker Monuments",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -105.56663,
+    41.307184,
+    -105.56663,
+    41.307184
+],
+  "geometry": {"coordinates":[-105.56663,41.307184],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874113951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.974325,44.807455,-106.974325,44.807455",
+    "geom:latitude":44.807455,
+    "geom:longitude":-106.974325,
+    "iso:country":"US",
+    "sg:address":"1221 W 5th St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 4405",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IJStf5iObmsW6aPgkP0c3_44.807455_-106.974325@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311976,
+    "wof:geomhash":"79a56739d0af8e87fcf2af065b582f20",
+    "wof:hierarchy":[],
+    "wof:id":874113951,
+    "wof:lastmodified":1464311976,
+    "wof:name":"Northern Wyoming Mental Health",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -106.974325,
+    44.807455,
+    -106.974325,
+    44.807455
+],
+  "geometry": {"coordinates":[-106.97432499999999,44.807455],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874053561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.818178,41.137156,-104.818178,41.137156",
+    "geom:latitude":41.137156,
+    "geom:longitude":-104.818178,
+    "iso:country":"US",
+    "sg:address":"2001 Capitol Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 777 6714",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YaQqdVbPUXMaJFnyIpHbQ_41.137156_-104.818178@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311274,
+    "wof:geomhash":"9885900d3d659617c375902eba7f5ae7",
+    "wof:hierarchy":[],
+    "wof:id":874053561,
+    "wof:lastmodified":1464311274,
+    "wof:name":"Wyoming Employees Group",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -104.818178,
+    41.137156,
+    -104.818178,
+    41.137156
+],
+  "geometry": {"coordinates":[-104.818178,41.137156],"type":"Point"}
+}

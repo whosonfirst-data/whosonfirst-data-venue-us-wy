@@ -1,0 +1,71 @@
+{
+  "id": 874088067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.350403,42.818678,-106.350403,42.818678",
+    "geom:latitude":42.818678,
+    "geom:longitude":-106.350403,
+    "iso:country":"US",
+    "sg:address":"2140 Kingsboro Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 8465",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57oFMQXfSNMS2jiqDp4tjY_42.818678_-106.350403@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311642,
+    "wof:geomhash":"3b30e04b22ea6052eaadddf60750b69f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874088067
+        }
+    ],
+    "wof:id":874088067,
+    "wof:lastmodified":1464311642,
+    "wof:name":"American Investment Corp Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -106.350403,
+    42.818678,
+    -106.350403,
+    42.818678
+],
+  "geometry": {"coordinates":[-106.350403,42.818678],"type":"Point"}
+}

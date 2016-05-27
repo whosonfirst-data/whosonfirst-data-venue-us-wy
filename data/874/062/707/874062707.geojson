@@ -1,0 +1,73 @@
+{
+  "id": 874062707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.394587,42.844117,-106.394587,42.844117",
+    "geom:latitude":42.844117,
+    "geom:longitude":-106.394587,
+    "iso:country":"US",
+    "sg:address":"414 S 6th Ave",
+    "sg:city":"Mills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 4675",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V8UaTjVIq5A4Dh9outBsX_42.844117_-106.394587@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311359,
+    "wof:geomhash":"d8b4236351d0d34627dedc917a38df58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874062707
+        }
+    ],
+    "wof:id":874062707,
+    "wof:lastmodified":1464311359,
+    "wof:name":"N C Energy & Electronics",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -106.394587,
+    42.844117,
+    -106.394587,
+    42.844117
+],
+  "geometry": {"coordinates":[-106.394587,42.844117],"type":"Point"}
+}

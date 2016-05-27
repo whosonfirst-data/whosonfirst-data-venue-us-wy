@@ -1,0 +1,69 @@
+{
+  "id": 874135421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.313883,42.848685,-106.313883,42.848685",
+    "geom:latitude":42.848685,
+    "geom:longitude":-106.313883,
+    "iso:country":"US",
+    "sg:address":"805 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 3926",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HUCJyE06dkLF2zbbkqaqt_42.848685_-106.313883@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312194,
+    "wof:geomhash":"6a378d876b59e994aecd8c23abc3eb24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874135421
+        }
+    ],
+    "wof:id":874135421,
+    "wof:lastmodified":1464312194,
+    "wof:name":"Country Keepsakes",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.313883,
+    42.848685,
+    -106.313883,
+    42.848685
+],
+  "geometry": {"coordinates":[-106.313883,42.848685],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874098007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.559778,41.308349,-105.559778,41.308349",
+    "geom:latitude":41.308349,
+    "geom:longitude":-105.559778,
+    "iso:country":"US",
+    "sg:address":"2605 E Garfield St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 9652",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "child",
+        "day",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OgY8BBJ1kDlz07DxYciEl_41.308349_-105.559778@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311756,
+    "wof:geomhash":"492417ca83ecfcb2c4a384d0ed5ef520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874098007
+        }
+    ],
+    "wof:id":874098007,
+    "wof:lastmodified":1464311756,
+    "wof:name":"Bright Horizons",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "child",
+        "day",
+        "care"
+    ]
+},
+  "bbox": [
+    -105.559778,
+    41.308349,
+    -105.559778,
+    41.308349
+],
+  "geometry": {"coordinates":[-105.55977799999999,41.308349],"type":"Point"}
+}

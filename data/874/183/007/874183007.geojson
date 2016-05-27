@@ -1,0 +1,71 @@
+{
+  "id": 874183007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595366,41.289579,-105.595366,41.289579",
+    "geom:latitude":41.289579,
+    "geom:longitude":-105.595366,
+    "iso:country":"US",
+    "sg:address":"2742 County Shop Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7292",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qd6wwJdLgJHFGxfUK6joy_41.289579_-105.595366@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312660,
+    "wof:geomhash":"f23a11fa661a748f6bb425c6dfba3281",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874183007
+        }
+    ],
+    "wof:id":874183007,
+    "wof:lastmodified":1464312660,
+    "wof:name":"Tri-Spar Lumber & Supply",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lumber"
+    ]
+},
+  "bbox": [
+    -105.595366,
+    41.289579,
+    -105.595366,
+    41.289579
+],
+  "geometry": {"coordinates":[-105.595366,41.289579],"type":"Point"}
+}

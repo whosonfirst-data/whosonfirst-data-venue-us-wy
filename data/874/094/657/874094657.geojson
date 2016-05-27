@@ -1,0 +1,58 @@
+{
+  "id": 874094657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.959712,44.820851,-106.959712,44.820851",
+    "geom:latitude":44.820851,
+    "geom:longitude":-106.959712,
+    "iso:country":"US",
+    "sg:address":"370 Fort Rd",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 673 4842",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CVNAU3nSfEPvIEvOg5T0t_44.820851_-106.959712@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311709,
+    "wof:geomhash":"35a4db76216e4eb5de77e564d2094664",
+    "wof:hierarchy":[],
+    "wof:id":874094657,
+    "wof:lastmodified":1464311709,
+    "wof:name":"Mitch's Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -106.959712,
+    44.820851,
+    -106.959712,
+    44.820851
+],
+  "geometry": {"coordinates":[-106.959712,44.820851],"type":"Point"}
+}

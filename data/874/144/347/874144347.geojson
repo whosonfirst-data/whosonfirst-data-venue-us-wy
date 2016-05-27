@@ -1,0 +1,56 @@
+{
+  "id": 874144347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.056405,44.530279,-109.056405,44.530279",
+    "geom:latitude":44.530279,
+    "geom:longitude":-109.056405,
+    "iso:country":"US",
+    "sg:address":"713 16th St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 2622",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XwtW0hTq5g6zCYttt86Vd_44.530279_-109.056405@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312275,
+    "wof:geomhash":"56067929a42c8257bf9196f1bc294dc2",
+    "wof:hierarchy":[],
+    "wof:id":874144347,
+    "wof:lastmodified":1464312275,
+    "wof:name":"Heritage Bakery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -109.056405,
+    44.530279,
+    -109.056405,
+    44.530279
+],
+  "geometry": {"coordinates":[-109.056405,44.530279],"type":"Point"}
+}

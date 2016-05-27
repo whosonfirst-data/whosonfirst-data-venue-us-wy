@@ -1,0 +1,69 @@
+{
+  "id": 874192153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.36545,42.823898,-106.36545,42.823898",
+    "geom:latitude":42.823898,
+    "geom:longitude":-106.36545,
+    "iso:country":"US",
+    "sg:address":"3500 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 233 4455",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DMEQgsLnkWnLmobcOQwDF_42.823898_-106.365450@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312760,
+    "wof:geomhash":"b3a9987587be9e266b98338157f69ce9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874192153
+        }
+    ],
+    "wof:id":874192153,
+    "wof:lastmodified":1464312760,
+    "wof:name":"Blue Envelope",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -106.36545,
+    42.823898,
+    -106.36545,
+    42.823898
+],
+  "geometry": {"coordinates":[-106.36545,42.823898],"type":"Point"}
+}

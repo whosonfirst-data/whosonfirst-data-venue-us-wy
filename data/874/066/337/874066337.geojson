@@ -1,0 +1,69 @@
+{
+  "id": 874066337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.325106,42.856647,-106.325106,42.856647",
+    "geom:latitude":42.856647,
+    "geom:longitude":-106.325106,
+    "iso:country":"US",
+    "sg:address":"707 N Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 9643",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48LwvcoGjWuwt4GfGs9jVY_42.856647_-106.325106@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311391,
+    "wof:geomhash":"a7f70b7ccc627ba05dfd1fbb36849c3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874066337
+        }
+    ],
+    "wof:id":874066337,
+    "wof:lastmodified":1464311391,
+    "wof:name":"Jerry's Interstate Svc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.325106,
+    42.856647,
+    -106.325106,
+    42.856647
+],
+  "geometry": {"coordinates":[-106.32510600000001,42.856647],"type":"Point"}
+}

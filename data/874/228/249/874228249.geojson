@@ -1,0 +1,61 @@
+{
+  "id": 874228249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.816745,41.145966,-104.816745,41.145966",
+    "geom:latitude":41.145966,
+    "geom:longitude":-104.816745,
+    "iso:country":"US",
+    "sg:address":"511 E Pershing Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/5946-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 3030",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DxECXQ00Cj53mb78MgZqf_41.145966_-104.816745@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313143,
+    "wof:geomhash":"28e41c8cd1129005d73b89f06c0bfe4f",
+    "wof:hierarchy":[],
+    "wof:id":874228249,
+    "wof:lastmodified":1464313143,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -104.816745,
+    41.145966,
+    -104.816745,
+    41.145966
+],
+  "geometry": {"coordinates":[-104.816745,41.145966],"type":"Point"}
+}

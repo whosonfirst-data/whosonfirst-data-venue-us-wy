@@ -1,0 +1,56 @@
+{
+  "id": 874027525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.200703,42.260992,-110.200703,42.260992",
+    "geom:latitude":42.260992,
+    "geom:longitude":-110.200703,
+    "iso:country":"US",
+    "sg:address":"288 John Marx St",
+    "sg:city":"La Barge",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 386 2264",
+    "sg:postcode":"83123",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iUMJh08tTftsb7uEiVus9_42.260992_-110.200703@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311021,
+    "wof:geomhash":"a7bddb9ed43b11faf61999a1ce9fa13c",
+    "wof:hierarchy":[],
+    "wof:id":874027525,
+    "wof:lastmodified":1464311021,
+    "wof:name":"Diamond Energy Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -110.200703,
+    42.260992,
+    -110.200703,
+    42.260992
+],
+  "geometry": {"coordinates":[-110.200703,42.260992],"type":"Point"}
+}

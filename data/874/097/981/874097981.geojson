@@ -1,0 +1,56 @@
+{
+  "id": 874097981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.932966,42.716105,-110.932966,42.716105",
+    "geom:latitude":42.716105,
+    "geom:longitude":-110.932966,
+    "iso:country":"US",
+    "sg:address":"110 Hospital Ln",
+    "sg:city":"Afton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 885 5845",
+    "sg:postcode":"83110",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JGHKcH9fd1dNmDCs5EiWg_42.716105_-110.932966@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311756,
+    "wof:geomhash":"feaa184cb862d15628b8df458469e2ea",
+    "wof:hierarchy":[],
+    "wof:id":874097981,
+    "wof:lastmodified":1464311756,
+    "wof:name":"Allen D Carter MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -110.932966,
+    42.716105,
+    -110.932966,
+    42.716105
+],
+  "geometry": {"coordinates":[-110.93296599999999,42.716105],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874120667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.339058,42.853956,-106.339058,42.853956",
+    "geom:latitude":42.853956,
+    "geom:longitude":-106.339058,
+    "iso:country":"US",
+    "sg:address":"590 Circle Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2730",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "industrial"
+    ],
+    "sg:website":"www.pro-kote.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qMaU6Vyy0gbmlcLZKNvY3_42.853956_-106.339058@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312047,
+    "wof:geomhash":"eb9507d9d883aaaef2386dc5267dcd9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874120667
+        }
+    ],
+    "wof:id":874120667,
+    "wof:lastmodified":1464312047,
+    "wof:name":"Pro-KOTE Engineering & Supply",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -106.339058,
+    42.853956,
+    -106.339058,
+    42.853956
+],
+  "geometry": {"coordinates":[-106.33905799999999,42.853956],"type":"Point"}
+}

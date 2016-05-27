@@ -1,0 +1,63 @@
+{
+  "id": 874215537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.766051,41.145516,-104.766051,41.145516",
+    "geom:latitude":41.145516,
+    "geom:longitude":-104.766051,
+    "iso:country":"US",
+    "sg:address":"3411 E Pershing Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 8134",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NY3W2xyrhidatYXltvxe0_41.145516_-104.766051@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313009,
+    "wof:geomhash":"e19fc2d50c8a93e653fe02e0af07d659",
+    "wof:hierarchy":[],
+    "wof:id":874215537,
+    "wof:lastmodified":1464313009,
+    "wof:name":"Elite Auto Upholstery & Top",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -104.766051,
+    41.145516,
+    -104.766051,
+    41.145516
+],
+  "geometry": {"coordinates":[-104.766051,41.145516],"type":"Point"}
+}

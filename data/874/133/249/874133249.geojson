@@ -1,0 +1,58 @@
+{
+  "id": 874133249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.204442,43.854678,-104.204442,43.854678",
+    "geom:latitude":43.854678,
+    "geom:longitude":-104.204442,
+    "iso:country":"US",
+    "sg:address":"212 W Main St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 9170",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IcExIi8BIfpwALAminTHu_43.854678_-104.204442@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312175,
+    "wof:geomhash":"3e726f538ecfa47580eb2e2e13f0169e",
+    "wof:hierarchy":[],
+    "wof:id":874133249,
+    "wof:lastmodified":1464312175,
+    "wof:name":"Something Healthy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -104.204442,
+    43.854678,
+    -104.204442,
+    43.854678
+],
+  "geometry": {"coordinates":[-104.204442,43.854678],"type":"Point"}
+}

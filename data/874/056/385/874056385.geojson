@@ -1,0 +1,71 @@
+{
+  "id": 874056385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.26674,42.844139,-106.26674,42.844139",
+    "geom:latitude":42.844139,
+    "geom:longitude":-106.26674,
+    "iso:country":"US",
+    "sg:address":"601 SE Wyoming Blvd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 5228",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fBuwU6VwaI00wdNBonIzZ_42.844139_-106.266740@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311304,
+    "wof:geomhash":"b06320def8440078fd98826b2ad12455",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874056385
+        }
+    ],
+    "wof:id":874056385,
+    "wof:lastmodified":1464311304,
+    "wof:name":"General Nutrition Ctr",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -106.26674,
+    42.844139,
+    -106.26674,
+    42.844139
+],
+  "geometry": {"coordinates":[-106.26674,42.844139],"type":"Point"}
+}

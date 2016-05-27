@@ -1,0 +1,56 @@
+{
+  "id": 873995889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.414146,41.687662,-106.414146,41.687662",
+    "geom:latitude":41.687662,
+    "geom:longitude":-106.414146,
+    "iso:country":"US",
+    "sg:address":"206 Bridge St",
+    "sg:city":"Elk Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 348 7387",
+    "sg:postcode":"82324",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EgABQVQUSnjPq4FyRaYMd_41.687662_-106.414146@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310732,
+    "wof:geomhash":"a7de2ea82461c310f2eb4f72c0f1f0f4",
+    "wof:hierarchy":[],
+    "wof:id":873995889,
+    "wof:lastmodified":1464310732,
+    "wof:name":"Town of Elk Mountain",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -106.414146,
+    41.687662,
+    -106.414146,
+    41.687662
+],
+  "geometry": {"coordinates":[-106.414146,41.687662],"type":"Point"}
+}

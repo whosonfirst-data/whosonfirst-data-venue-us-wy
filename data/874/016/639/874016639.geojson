@@ -1,0 +1,69 @@
+{
+  "id": 874016639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.315355,42.845915,-106.315355,42.845915",
+    "geom:latitude":42.845915,
+    "geom:longitude":-106.315355,
+    "iso:country":"US",
+    "sg:address":"424 S Lincoln St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3472",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eRQeelI23KFDnheOPnSkP_42.845915_-106.315355@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310904,
+    "wof:geomhash":"76b7ebd64ddf9418d0aaec6ba9919e36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874016639
+        }
+    ],
+    "wof:id":874016639,
+    "wof:lastmodified":1464310904,
+    "wof:name":"Ball Advertising Group Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -106.315355,
+    42.845915,
+    -106.315355,
+    42.845915
+],
+  "geometry": {"coordinates":[-106.315355,42.845915],"type":"Point"}
+}

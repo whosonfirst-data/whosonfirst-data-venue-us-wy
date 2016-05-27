@@ -1,0 +1,58 @@
+{
+  "id": 874204459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.746425,44.756384,-108.746425,44.756384",
+    "geom:latitude":44.756384,
+    "geom:longitude":-108.746425,
+    "iso:country":"US",
+    "sg:address":"413 N Ingalls St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 3552",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QOpyWuCzvoUvPZwCh5gAT_44.756384_-108.746425@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312888,
+    "wof:geomhash":"03b55a7d7bf625e07a0a16ae0b7ba735",
+    "wof:hierarchy":[],
+    "wof:id":874204459,
+    "wof:lastmodified":1464312888,
+    "wof:name":"Powell City Sanitation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "program"
+    ]
+},
+  "bbox": [
+    -108.746425,
+    44.756384,
+    -108.746425,
+    44.756384
+],
+  "geometry": {"coordinates":[-108.746425,44.756384],"type":"Point"}
+}

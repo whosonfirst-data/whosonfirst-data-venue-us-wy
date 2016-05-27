@@ -1,0 +1,66 @@
+{
+  "id": 874052765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.574028,41.298908,-105.574028,41.298908",
+    "geom:latitude":41.298908,
+    "geom:longitude":-105.574028,
+    "iso:country":"US",
+    "sg:address":"1701 E Person St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5142",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J6Nc06ZHB0ry0Y99a3acI_41.298908_-105.574028@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311266,
+    "wof:geomhash":"d10dee5e7d408b2d03cd50b1b6d360b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874052765
+        }
+    ],
+    "wof:id":874052765,
+    "wof:lastmodified":1464311266,
+    "wof:name":"Foundation For Christian",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.574028,
+    41.298908,
+    -105.574028,
+    41.298908
+],
+  "geometry": {"coordinates":[-105.574028,41.298908],"type":"Point"}
+}

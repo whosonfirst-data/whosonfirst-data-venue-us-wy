@@ -1,0 +1,58 @@
+{
+  "id": 874026113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.11893,41.77994,-107.11893,41.77994",
+    "geom:latitude":41.77994,
+    "geom:longitude":-107.11893,
+    "iso:country":"US",
+    "sg:address":"101 N 8th St",
+    "sg:city":"Sinclair",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 9404",
+    "sg:postcode":"82334",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4woeWrfNyqGTQ3ZHQsTeHH_41.779940_-107.118930@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311008,
+    "wof:geomhash":"ce48acd9f44a2c252edc63d39acbc3a1",
+    "wof:hierarchy":[],
+    "wof:id":874026113,
+    "wof:lastmodified":1464311008,
+    "wof:name":"B & A Auto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -107.11893,
+    41.77994,
+    -107.11893,
+    41.77994
+],
+  "geometry": {"coordinates":[-107.11893000000001,41.77994],"type":"Point"}
+}

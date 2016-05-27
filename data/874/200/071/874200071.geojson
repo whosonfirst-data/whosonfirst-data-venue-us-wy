@@ -1,0 +1,71 @@
+{
+  "id": 874200071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.285577,42.854366,-106.285577,42.854366",
+    "geom:latitude":42.854366,
+    "geom:longitude":-106.285577,
+    "iso:country":"US",
+    "sg:address":"3004 Gary Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 0941",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GKE11xxUrJAgGzlF6wE6z_42.854366_-106.285577@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312844,
+    "wof:geomhash":"0086a585a5af9f446e8568abb503461d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874200071
+        }
+    ],
+    "wof:id":874200071,
+    "wof:lastmodified":1464312844,
+    "wof:name":"Classy Chassis Auto & Truck",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -106.285577,
+    42.854366,
+    -106.285577,
+    42.854366
+],
+  "geometry": {"coordinates":[-106.285577,42.854366],"type":"Point"}
+}

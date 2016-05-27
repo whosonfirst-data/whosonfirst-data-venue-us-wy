@@ -1,0 +1,71 @@
+{
+  "id": 874051647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.404474,42.86584,-106.404474,42.86584",
+    "geom:latitude":42.86584,
+    "geom:longitude":-106.404474,
+    "iso:country":"US",
+    "sg:address":"5601 Old Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 3333",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MJByGz8KGq5xyyoDhtQSt_42.865840_-106.404474@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311256,
+    "wof:geomhash":"66865319a280c26b39b172050ba71c13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874051647
+        }
+    ],
+    "wof:id":874051647,
+    "wof:lastmodified":1464311256,
+    "wof:name":"Norton Oil Tool Co",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.404474,
+    42.86584,
+    -106.404474,
+    42.86584
+],
+  "geometry": {"coordinates":[-106.40447399999999,42.86584],"type":"Point"}
+}

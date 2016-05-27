@@ -1,0 +1,71 @@
+{
+  "id": 874072975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.587049,41.322949,-105.587049,41.322949",
+    "geom:latitude":41.322949,
+    "geom:longitude":-105.587049,
+    "iso:country":"US",
+    "sg:address":"1054 N 5th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 5385",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21ck8gkiVbK3nhFHeboBl3_41.322949_-105.587049@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311477,
+    "wof:geomhash":"c60596c24153e56110ad434df9d26068",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874072975
+        }
+    ],
+    "wof:id":874072975,
+    "wof:lastmodified":1464311477,
+    "wof:name":"Laramie City Animal Control",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -105.587049,
+    41.322949,
+    -105.587049,
+    41.322949
+],
+  "geometry": {"coordinates":[-105.58704899999999,41.322949],"type":"Point"}
+}

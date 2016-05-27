@@ -1,0 +1,56 @@
+{
+  "id": 874182857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.757663,44.746535,-108.757663,44.746535",
+    "geom:latitude":44.746535,
+    "geom:longitude":-108.757663,
+    "iso:country":"US",
+    "sg:address":"590 S Bent St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 5036",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QTLMNNq8fpGhMRQFNNukP_44.746535_-108.757663@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312658,
+    "wof:geomhash":"625d5dbdeeb649821dbb629025f9e9d2",
+    "wof:hierarchy":[],
+    "wof:id":874182857,
+    "wof:lastmodified":1464312658,
+    "wof:name":"Body & Paint By Tait",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -108.757663,
+    44.746535,
+    -108.757663,
+    44.746535
+],
+  "geometry": {"coordinates":[-108.75766299999999,44.746535],"type":"Point"}
+}

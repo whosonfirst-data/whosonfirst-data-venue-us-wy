@@ -1,0 +1,51 @@
+{
+  "id": 874127119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.689519,44.336305,-106.689519,44.336305",
+    "geom:latitude":44.336305,
+    "geom:longitude":-106.689519,
+    "iso:country":"US",
+    "sg:address":"1121 S Main St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 1700",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bMbxoztqthoE8IhNq3Mvu_44.336305_-106.689519@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312104,
+    "wof:geomhash":"b87cf35024bdae31aacc7b41f4e5f73a",
+    "wof:hierarchy":[],
+    "wof:id":874127119,
+    "wof:lastmodified":1464312104,
+    "wof:name":"Dino's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.689519,
+    44.336305,
+    -106.689519,
+    44.336305
+],
+  "geometry": {"coordinates":[-106.689519,44.336305],"type":"Point"}
+}

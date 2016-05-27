@@ -1,0 +1,71 @@
+{
+  "id": 874111241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.305698,42.855227,-106.305698,42.855227",
+    "geom:latitude":42.855227,
+    "geom:longitude":-106.305698,
+    "iso:country":"US",
+    "sg:address":"1516 Burlington Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 4132",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L957wUuvWNS1jKItSC4HD_42.855227_-106.305698@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311944,
+    "wof:geomhash":"e71c7a11067c4acc7f92ec85fc55fb73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874111241
+        }
+    ],
+    "wof:id":874111241,
+    "wof:lastmodified":1464311944,
+    "wof:name":"Hurley Plumbing Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.305698,
+    42.855227,
+    -106.305698,
+    42.855227
+],
+  "geometry": {"coordinates":[-106.30569800000001,42.855227],"type":"Point"}
+}

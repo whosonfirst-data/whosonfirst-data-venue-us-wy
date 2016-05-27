@@ -1,0 +1,64 @@
+{
+  "id": 874068395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.291226,42.851323,-106.291226,42.851323",
+    "geom:latitude":42.851323,
+    "geom:longitude":-106.291226,
+    "iso:country":"US",
+    "sg:address":"245 N Pennsylvania Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 7962",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FtAWKBISc4TYlTy9pz4hJ_42.851323_-106.291226@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311417,
+    "wof:geomhash":"22f252cf09de19afd9bbab0e9e89c5e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874068395
+        }
+    ],
+    "wof:id":874068395,
+    "wof:lastmodified":1464311417,
+    "wof:name":"Decker Real Estate LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.291226,
+    42.851323,
+    -106.291226,
+    42.851323
+],
+  "geometry": {"coordinates":[-106.29122599999999,42.851323],"type":"Point"}
+}

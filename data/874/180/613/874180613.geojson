@@ -1,0 +1,51 @@
+{
+  "id": 874180613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.453887,41.505742,-109.453887,41.505742",
+    "geom:latitude":41.505742,
+    "geom:longitude":-109.453887,
+    "iso:country":"US",
+    "sg:address":"1340 E Teton Blvd",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 4703",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MlySTVBYQSCyb6ssG4l4d_41.505742_-109.453887@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312636,
+    "wof:geomhash":"6a9386179812bb89f452bf3d57a1c433",
+    "wof:hierarchy":[],
+    "wof:id":874180613,
+    "wof:lastmodified":1464312636,
+    "wof:name":"Mini-Mart Inc Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.453887,
+    41.505742,
+    -109.453887,
+    41.505742
+],
+  "geometry": {"coordinates":[-109.45388699999999,41.505742],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874181257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.309815,42.830846,-106.309815,42.830846",
+    "geom:latitude":42.830846,
+    "geom:longitude":-106.309815,
+    "iso:country":"US",
+    "sg:address":"1830 S Washington St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 268 4788",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f3Y3uPHuG0EIRCkDXKyuQ_42.830846_-106.309815@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312644,
+    "wof:geomhash":"3cc725477a0e5badf0e58ba9285e2e8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874181257
+        }
+    ],
+    "wof:id":874181257,
+    "wof:lastmodified":1464312644,
+    "wof:name":"Mjs Enterprises",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -106.309815,
+    42.830846,
+    -106.309815,
+    42.830846
+],
+  "geometry": {"coordinates":[-106.309815,42.830846],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 874027141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.802032,41.114598,-104.802032,41.114598",
+    "geom:latitude":41.114598,
+    "geom:longitude":-104.802032,
+    "iso:country":"US",
+    "sg:address":"311 S Greeley Hwy",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 2468",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fWiReQe22t8OwTQ3J5D4t_41.114598_-104.802032@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311017,
+    "wof:geomhash":"961df4389b36ee7c9f9cca2c329079de",
+    "wof:hierarchy":[],
+    "wof:id":874027141,
+    "wof:lastmodified":1464311017,
+    "wof:name":"Sam's Enterprises Auto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -104.802032,
+    41.114598,
+    -104.802032,
+    41.114598
+],
+  "geometry": {"coordinates":[-104.802032,41.114598],"type":"Point"}
+}

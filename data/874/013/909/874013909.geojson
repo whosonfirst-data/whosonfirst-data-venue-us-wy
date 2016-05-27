@@ -1,0 +1,72 @@
+{
+  "id": 874013909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.448516,42.877724,-106.448516,42.877724",
+    "geom:latitude":42.877724,
+    "geom:longitude":-106.448516,
+    "iso:country":"US",
+    "sg:address":"7424 W 6 W N Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8888",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "sg:website":"www.bakerhughes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zr5222C9kphKQ4hrXw9ia_42.877724_-106.448516@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310883,
+    "wof:geomhash":"fba6f8c4cd1258b2d0f15f257d71d418",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874013909
+        }
+    ],
+    "wof:id":874013909,
+    "wof:lastmodified":1464310883,
+    "wof:name":"Drilex Systems Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.448516,
+    42.877724,
+    -106.448516,
+    42.877724
+],
+  "geometry": {"coordinates":[-106.448516,42.877724],"type":"Point"}
+}

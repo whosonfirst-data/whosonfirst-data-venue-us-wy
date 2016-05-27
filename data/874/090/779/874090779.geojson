@@ -1,0 +1,73 @@
+{
+  "id": 874090779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.288205,42.841517,-106.288205,42.841517",
+    "geom:latitude":42.841517,
+    "geom:longitude":-106.288205,
+    "iso:country":"US",
+    "sg:address":"907 Derington Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 3535",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "control",
+        "security",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fSMi0g4L6iiw4lBAgVyZY_42.841517_-106.288205@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311671,
+    "wof:geomhash":"e027057d0af6dc02c247d342b1d42140",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874090779
+        }
+    ],
+    "wof:id":874090779,
+    "wof:lastmodified":1464311671,
+    "wof:name":"Advance Technologies Corp",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "security",
+        "system"
+    ]
+},
+  "bbox": [
+    -106.288205,
+    42.841517,
+    -106.288205,
+    42.841517
+],
+  "geometry": {"coordinates":[-106.288205,42.841517],"type":"Point"}
+}

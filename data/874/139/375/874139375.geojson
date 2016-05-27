@@ -1,0 +1,64 @@
+{
+  "id": 874139375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.325125,42.859456,-106.325125,42.859456",
+    "geom:latitude":42.859456,
+    "geom:longitude":-106.325125,
+    "iso:country":"US",
+    "sg:address":"933 N Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1896",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eRKxYAnF2NHjCwVXrPH2g_42.859456_-106.325125@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312229,
+    "wof:geomhash":"787e2a8c40332b6a8e1489b00a0570a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874139375
+        }
+    ],
+    "wof:id":874139375,
+    "wof:lastmodified":1464312229,
+    "wof:name":"Mini Mart",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.325125,
+    42.859456,
+    -106.325125,
+    42.859456
+],
+  "geometry": {"coordinates":[-106.325125,42.859456],"type":"Point"}
+}

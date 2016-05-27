@@ -1,0 +1,56 @@
+{
+  "id": 874138459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.422682,43.983948,-104.422682,43.983948",
+    "geom:latitude":43.983948,
+    "geom:longitude":-104.422682,
+    "iso:country":"US",
+    "sg:address":"463 Nefsy Ave",
+    "sg:city":"Osage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 465 2445",
+    "sg:postcode":"82723",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bcLj2ZSUYWNUkCgzQB3nX_43.983948_-104.422682@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312221,
+    "wof:geomhash":"280cfcccdaa5e53ae07a265eeee36eba",
+    "wof:hierarchy":[],
+    "wof:id":874138459,
+    "wof:lastmodified":1464312221,
+    "wof:name":"Osage Fire Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -104.422682,
+    43.983948,
+    -104.422682,
+    43.983948
+],
+  "geometry": {"coordinates":[-104.42268199999999,43.983948],"type":"Point"}
+}

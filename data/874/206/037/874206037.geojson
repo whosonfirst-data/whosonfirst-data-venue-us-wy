@@ -1,0 +1,71 @@
+{
+  "id": 874206037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.57896,41.329413,-105.57896,41.329413",
+    "geom:latitude":41.329413,
+    "geom:longitude":-105.57896,
+    "iso:country":"US",
+    "sg:address":"1321 E Renshaw St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6674",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tLThU891oJYJ7SkSmhW2q_41.329413_-105.578960@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312905,
+    "wof:geomhash":"e3f3a380f83482a13c76b7cc84fba278",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874206037
+        }
+    ],
+    "wof:id":874206037,
+    "wof:lastmodified":1464312905,
+    "wof:name":"Cindy Greenwald Day Care",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -105.57896,
+    41.329413,
+    -105.57896,
+    41.329413
+],
+  "geometry": {"coordinates":[-105.57896,41.329413],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874079447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.426135,43.027627,-108.426135,43.027627",
+    "geom:latitude":43.027627,
+    "geom:longitude":-108.426135,
+    "iso:country":"US",
+    "sg:address":"2725 W Main St",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 8651",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nou7fM91UARGuXiGOymtq_43.027627_-108.426135@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311546,
+    "wof:geomhash":"12765bdda16507e1d6190900eba7bfbf",
+    "wof:hierarchy":[],
+    "wof:id":874079447,
+    "wof:lastmodified":1464311546,
+    "wof:name":"University Of Wyoming",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -108.426135,
+    43.027627,
+    -108.426135,
+    43.027627
+],
+  "geometry": {"coordinates":[-108.426135,43.027627],"type":"Point"}
+}

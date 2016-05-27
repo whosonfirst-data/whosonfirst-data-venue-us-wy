@@ -1,0 +1,56 @@
+{
+  "id": 874079439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.763934,43.473473,-110.763934,43.473473",
+    "geom:latitude":43.473473,
+    "geom:longitude":-110.763934,
+    "iso:country":"US",
+    "sg:address":"115 W Snow King Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 2046",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_322POK5xPFILzD1xSz9ol8_43.473473_-110.763934@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311546,
+    "wof:geomhash":"1635465fd165cf79cd0e4d7d2b084fc4",
+    "wof:hierarchy":[],
+    "wof:id":874079439,
+    "wof:lastmodified":1464311546,
+    "wof:name":"Jackson Hole Cmnty Cnslng Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -110.763934,
+    43.473473,
+    -110.763934,
+    43.473473
+],
+  "geometry": {"coordinates":[-110.76393400000001,43.473473],"type":"Point"}
+}

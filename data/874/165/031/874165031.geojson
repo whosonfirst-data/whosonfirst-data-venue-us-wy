@@ -1,0 +1,66 @@
+{
+  "id": 874165031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.581502,41.330812,-105.581502,41.330812",
+    "geom:latitude":41.330812,
+    "geom:longitude":-105.581502,
+    "iso:country":"US",
+    "sg:address":"1116 E Albin St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5840",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VtA9h9njEH8ItAwqsHu2U_41.330812_-105.581502@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312480,
+    "wof:geomhash":"18e0d3413adf6a216aaea32d134028d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874165031
+        }
+    ],
+    "wof:id":874165031,
+    "wof:lastmodified":1464312480,
+    "wof:name":"Cycle Wyoming",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.581502,
+    41.330812,
+    -105.581502,
+    41.330812
+],
+  "geometry": {"coordinates":[-105.581502,41.330812],"type":"Point"}
+}

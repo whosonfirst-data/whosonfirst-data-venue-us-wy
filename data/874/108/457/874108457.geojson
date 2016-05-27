@@ -1,0 +1,73 @@
+{
+  "id": 874108457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591009,41.323529,-105.591009,41.323529",
+    "geom:latitude":41.323529,
+    "geom:longitude":-105.591009,
+    "iso:country":"US",
+    "sg:address":"1264 N 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4409",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z7Zr4U4oh2fB3sR8KIhpN_41.323529_-105.591009@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311898,
+    "wof:geomhash":"c871edc4e8969cf59c359ec3ea4b858d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874108457
+        }
+    ],
+    "wof:id":874108457,
+    "wof:lastmodified":1464311898,
+    "wof:name":"Cheyenne Housing Authority",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -105.591009,
+    41.323529,
+    -105.591009,
+    41.323529
+],
+  "geometry": {"coordinates":[-105.591009,41.323529],"type":"Point"}
+}

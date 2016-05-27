@@ -1,0 +1,65 @@
+{
+  "id": 874101931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.207189,43.641639,-108.207189,43.641639",
+    "geom:latitude":43.641639,
+    "geom:longitude":-108.207189,
+    "iso:country":"US",
+    "sg:address":"346 Amoretti St",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 867 2374",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "camp",
+        "guest",
+        "ranch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D4ync3jnDz66SwqxzGuRL_43.641639_-108.207189@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311817,
+    "wof:geomhash":"cf1ed773ab3b0075b742f1507c5f9161",
+    "wof:hierarchy":[],
+    "wof:id":874101931,
+    "wof:lastmodified":1464311817,
+    "wof:name":"High Island Ranch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp",
+        "guest",
+        "ranch"
+    ]
+},
+  "bbox": [
+    -108.207189,
+    43.641639,
+    -108.207189,
+    43.641639
+],
+  "geometry": {"coordinates":[-108.207189,43.641639],"type":"Point"}
+}

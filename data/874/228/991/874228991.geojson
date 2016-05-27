@@ -1,0 +1,59 @@
+{
+  "id": 874228991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.223157,41.776788,-107.223157,41.776788",
+    "geom:latitude":41.776788,
+    "geom:longitude":-107.223157,
+    "iso:country":"US",
+    "sg:address":"1400 S Higley Blvd",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/rawlins/135374-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 328 2103",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n3XNi6Ch3KgbpppCfoeaU_41.776788_-107.223157@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313151,
+    "wof:geomhash":"812ea818ae93e1c3ad4f363df3f2b1ca",
+    "wof:hierarchy":[],
+    "wof:id":874228991,
+    "wof:lastmodified":1464313151,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -107.223157,
+    41.776788,
+    -107.223157,
+    41.776788
+],
+  "geometry": {"coordinates":[-107.223157,41.776788],"type":"Point"}
+}

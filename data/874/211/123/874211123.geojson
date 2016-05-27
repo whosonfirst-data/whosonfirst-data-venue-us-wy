@@ -1,0 +1,56 @@
+{
+  "id": 874211123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.505576,44.292275,-105.505576,44.292275",
+    "geom:latitude":44.292275,
+    "geom:longitude":-105.505576,
+    "iso:country":"US",
+    "sg:address":"210 W 3rd St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 3143",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45fY8LsktY5pagRSdZp8g2_44.292275_-105.505576@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312964,
+    "wof:geomhash":"cda50189d5dc70013c1e77d47b08cdfc",
+    "wof:hierarchy":[],
+    "wof:id":874211123,
+    "wof:lastmodified":1464312964,
+    "wof:name":"Fraternal Order Of Eagles",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -105.505576,
+    44.292275,
+    -105.505576,
+    44.292275
+],
+  "geometry": {"coordinates":[-105.505576,44.292275],"type":"Point"}
+}

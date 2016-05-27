@@ -1,0 +1,69 @@
+{
+  "id": 874154065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.316085,42.83863,-106.316085,42.83863",
+    "geom:latitude":42.83863,
+    "geom:longitude":-106.316085,
+    "iso:country":"US",
+    "sg:address":"770 E 12th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 4116",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BVKTleZMer8M02Gv9uhpM_42.838630_-106.316085@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312368,
+    "wof:geomhash":"918a83f03f49d183346d4aded69acc4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874154065
+        }
+    ],
+    "wof:id":874154065,
+    "wof:lastmodified":1464312368,
+    "wof:name":"Thomas A Lockhart Consult",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -106.316085,
+    42.83863,
+    -106.316085,
+    42.83863
+],
+  "geometry": {"coordinates":[-106.316085,42.83863],"type":"Point"}
+}

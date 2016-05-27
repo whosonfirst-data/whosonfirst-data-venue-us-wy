@@ -1,0 +1,59 @@
+{
+  "id": 874167497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.819018,41.132381,-104.819018,41.132381",
+    "geom:latitude":41.132381,
+    "geom:longitude":-104.819018,
+    "iso:country":"US",
+    "sg:address":"419 W 17th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 2440",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.dinneenmotors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3B2rIEysAGinvL0k46uY0e_41.132381_-104.819018@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312502,
+    "wof:geomhash":"32fa8f8f63313dd7e21ff97405b3c031",
+    "wof:hierarchy":[],
+    "wof:id":874167497,
+    "wof:lastmodified":1464312502,
+    "wof:name":"Dinneen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -104.819018,
+    41.132381,
+    -104.819018,
+    41.132381
+],
+  "geometry": {"coordinates":[-104.819018,41.132381],"type":"Point"}
+}

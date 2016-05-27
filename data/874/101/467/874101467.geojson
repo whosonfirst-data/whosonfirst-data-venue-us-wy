@@ -1,0 +1,58 @@
+{
+  "id": 874101467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.21203,43.64594,-108.21203,43.64594",
+    "geom:latitude":43.64594,
+    "geom:longitude":-108.21203,
+    "iso:country":"US",
+    "sg:address":"108 S 6th St",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 4191",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7drzN44brPge5UAT0gIroL_43.645940_-108.212030@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311811,
+    "wof:geomhash":"b9a164d443e158151c404b49f0f864e7",
+    "wof:hierarchy":[],
+    "wof:id":874101467,
+    "wof:lastmodified":1464311811,
+    "wof:name":"Pro Service Tire & Oil",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.21203,
+    43.64594,
+    -108.21203,
+    43.64594
+],
+  "geometry": {"coordinates":[-108.21203,43.64594],"type":"Point"}
+}

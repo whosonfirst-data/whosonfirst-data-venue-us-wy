@@ -1,0 +1,66 @@
+{
+  "id": 874113151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.589402,41.313983,-105.589402,41.313983",
+    "geom:latitude":41.313983,
+    "geom:longitude":-105.589402,
+    "iso:country":"US",
+    "sg:address":"262 N 6th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 0724",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dW24GjZDgLxFq6gGLMp9Q_41.313983_-105.589402@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311969,
+    "wof:geomhash":"8997917fe922c8e3ab8f883aa659fa1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874113151
+        }
+    ],
+    "wof:id":874113151,
+    "wof:lastmodified":1464311969,
+    "wof:name":"Big Hollow Guitars",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.589402,
+    41.313983,
+    -105.589402,
+    41.313983
+],
+  "geometry": {"coordinates":[-105.58940200000001,41.313983],"type":"Point"}
+}

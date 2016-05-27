@@ -1,0 +1,61 @@
+{
+  "id": 874230691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.965254,44.016814,-107.965254,44.016814",
+    "geom:latitude":44.016814,
+    "geom:longitude":-107.965254,
+    "iso:country":"US",
+    "sg:address":"308 Big Horn Ave",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/worland/78200-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 8961",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EZxjG2g9UIgESim45bKct_44.016734_-107.965240@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313172,
+    "wof:geomhash":"38d9c8c8e19fe4b0ece7b45c00603e17",
+    "wof:hierarchy":[],
+    "wof:id":874230691,
+    "wof:lastmodified":1464313172,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -107.965254,
+    44.016814,
+    -107.965254,
+    44.016814
+],
+  "geometry": {"coordinates":[-107.965254,44.016814],"type":"Point"}
+}

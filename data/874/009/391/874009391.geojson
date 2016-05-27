@@ -1,0 +1,69 @@
+{
+  "id": 874009391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33867,42.834194,-106.33867,42.834194",
+    "geom:latitude":42.834194,
+    "geom:longitude":-106.33867,
+    "iso:country":"US",
+    "sg:address":"1375 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 3232",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pslRdDCtu8Zm4La5i8utO_42.834194_-106.338670@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310851,
+    "wof:geomhash":"766e78b99edac617540bf9940424766f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874009391
+        }
+    ],
+    "wof:id":874009391,
+    "wof:lastmodified":1464310851,
+    "wof:name":"Safeway",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -106.33867,
+    42.834194,
+    -106.33867,
+    42.834194
+],
+  "geometry": {"coordinates":[-106.33866999999999,42.834194],"type":"Point"}
+}

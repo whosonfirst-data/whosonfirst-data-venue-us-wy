@@ -1,0 +1,71 @@
+{
+  "id": 874147637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.264503,42.839371,-106.264503,42.839371",
+    "geom:latitude":42.839371,
+    "geom:longitude":-106.264503,
+    "iso:country":"US",
+    "sg:address":"970 Stafford St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 8149",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "glass",
+        "leaded"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e7nzwtx79xVhE6H4zohcO_42.839371_-106.264503@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312308,
+    "wof:geomhash":"c038c1a41cf469f48b8142ab6054bba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874147637
+        }
+    ],
+    "wof:id":874147637,
+    "wof:lastmodified":1464312308,
+    "wof:name":"Northern Lights Art Glass",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "leaded"
+    ]
+},
+  "bbox": [
+    -106.264503,
+    42.839371,
+    -106.264503,
+    42.839371
+],
+  "geometry": {"coordinates":[-106.264503,42.839371],"type":"Point"}
+}

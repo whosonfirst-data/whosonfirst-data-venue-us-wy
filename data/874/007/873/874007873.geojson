@@ -1,0 +1,60 @@
+{
+  "id": 874007873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.577912,42.801754,-105.577912,42.801754",
+    "geom:latitude":42.801754,
+    "geom:longitude":-105.577912,
+    "iso:country":"US",
+    "sg:address":"468 Cherokee Trl",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 6120",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dSnM8jdG61ty2zjGah7CV_42.801754_-105.577912@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310839,
+    "wof:geomhash":"e344c5c8bb5c3f3008c67ffbfb1611c3",
+    "wof:hierarchy":[],
+    "wof:id":874007873,
+    "wof:lastmodified":1464310839,
+    "wof:name":"Geho Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -105.577912,
+    42.801754,
+    -105.577912,
+    42.801754
+],
+  "geometry": {"coordinates":[-105.577912,42.801754],"type":"Point"}
+}

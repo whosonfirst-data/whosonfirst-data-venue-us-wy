@@ -1,0 +1,60 @@
+{
+  "id": 874006933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.188785,42.072683,-104.188785,42.072683",
+    "geom:latitude":42.072683,
+    "geom:longitude":-104.188785,
+    "iso:country":"US",
+    "sg:address":"2801 W C St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 2646",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06TwVstjjflAjZYX8gyn0D_42.072683_-104.188785@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310832,
+    "wof:geomhash":"7a2e0e80ec5b8ed490fe378c323e4c74",
+    "wof:hierarchy":[],
+    "wof:id":874006933,
+    "wof:lastmodified":1464310832,
+    "wof:name":"Deluxe Body Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -104.188785,
+    42.072683,
+    -104.188785,
+    42.072683
+],
+  "geometry": {"coordinates":[-104.188785,42.072683],"type":"Point"}
+}

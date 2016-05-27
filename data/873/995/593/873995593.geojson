@@ -1,0 +1,73 @@
+{
+  "id": 873995593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.355228,42.845296,-106.355228,42.845296",
+    "geom:latitude":42.845296,
+    "geom:longitude":-106.355228,
+    "iso:country":"US",
+    "sg:address":"1700 W 1st St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 5656",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UdrrEgXpNzy2cU4rQ7mrF_42.845296_-106.355228@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310729,
+    "wof:geomhash":"7ade9556173cadf8eb827a1c3e3e551c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873995593
+        }
+    ],
+    "wof:id":873995593,
+    "wof:lastmodified":1464310729,
+    "wof:name":"Express Business Systems",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ]
+},
+  "bbox": [
+    -106.355228,
+    42.845296,
+    -106.355228,
+    42.845296
+],
+  "geometry": {"coordinates":[-106.355228,42.845296],"type":"Point"}
+}

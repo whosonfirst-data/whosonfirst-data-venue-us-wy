@@ -1,0 +1,56 @@
+{
+  "id": 874150901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.93338,42.72741,-110.93338,42.72741",
+    "geom:latitude":42.72741,
+    "geom:longitude":-110.93338,
+    "iso:country":"US",
+    "sg:address":"300 Washington St",
+    "sg:city":"Afton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 885 0229",
+    "sg:postcode":"83110",
+    "sg:province":"WY",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hFXXT1vwp5LSXQcDrYTki_42.727410_-110.933380@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312336,
+    "wof:geomhash":"f4d482477bc501b4891c9d35553ed3d3",
+    "wof:hierarchy":[],
+    "wof:id":874150901,
+    "wof:lastmodified":1464312336,
+    "wof:name":"Lasting Impressions",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -110.93338,
+    42.72741,
+    -110.93338,
+    42.72741
+],
+  "geometry": {"coordinates":[-110.93338,42.72741],"type":"Point"}
+}

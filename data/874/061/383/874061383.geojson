@@ -1,0 +1,56 @@
+{
+  "id": 874061383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.727045,42.837736,-108.727045,42.837736",
+    "geom:latitude":42.837736,
+    "geom:longitude":-108.727045,
+    "iso:country":"US",
+    "sg:address":"107 Wood St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 4648",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sanitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nGwRSmAdGbe7bOhYP1xi2_42.837736_-108.727045@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311347,
+    "wof:geomhash":"cb9f5e19cbf623019e470c8bf3929683",
+    "wof:hierarchy":[],
+    "wof:id":874061383,
+    "wof:lastmodified":1464311347,
+    "wof:name":"Huff Sanitation Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitation"
+    ]
+},
+  "bbox": [
+    -108.727045,
+    42.837736,
+    -108.727045,
+    42.837736
+],
+  "geometry": {"coordinates":[-108.727045,42.837736],"type":"Point"}
+}

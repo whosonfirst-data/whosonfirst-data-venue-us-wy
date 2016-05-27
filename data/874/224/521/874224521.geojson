@@ -1,0 +1,58 @@
+{
+  "id": 874224521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.820878,41.137349,-104.820878,41.137349",
+    "geom:latitude":41.137349,
+    "geom:longitude":-104.820878,
+    "iso:country":"US",
+    "sg:address":"316 W 22nd St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 777 7181",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "criminal",
+        "investigation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bVXVpI1kMQT61w9ah2Fgt_41.137349_-104.820878@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313107,
+    "wof:geomhash":"9212fa135a495ee08c581dcb67860f0d",
+    "wof:hierarchy":[],
+    "wof:id":874224521,
+    "wof:lastmodified":1464313107,
+    "wof:name":"Attorney General Wyoming",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "criminal",
+        "investigation"
+    ]
+},
+  "bbox": [
+    -104.820878,
+    41.137349,
+    -104.820878,
+    41.137349
+],
+  "geometry": {"coordinates":[-104.82087799999999,41.137349],"type":"Point"}
+}

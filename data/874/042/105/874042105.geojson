@@ -1,0 +1,73 @@
+{
+  "id": 874042105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.30333,42.853709,-106.30333,42.853709",
+    "geom:latitude":42.853709,
+    "geom:longitude":-106.30333,
+    "iso:country":"US",
+    "sg:address":"1713 E Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1566",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R2pdpeveeVQlpScYi8Scr_42.853709_-106.303330@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311166,
+    "wof:geomhash":"23db11497c55dc5e3fd47b35193f2c15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874042105
+        }
+    ],
+    "wof:id":874042105,
+    "wof:lastmodified":1464311166,
+    "wof:name":"Kleen Sweep Professional Auto",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -106.30333,
+    42.853709,
+    -106.30333,
+    42.853709
+],
+  "geometry": {"coordinates":[-106.30333,42.853709],"type":"Point"}
+}

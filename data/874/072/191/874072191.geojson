@@ -1,0 +1,71 @@
+{
+  "id": 874072191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.309205,42.861838,-106.309205,42.861838",
+    "geom:latitude":42.861838,
+    "geom:longitude":-106.309205,
+    "iso:country":"US",
+    "sg:address":"1111 N Elma St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3639",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dance",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fDP0mHIGNvjLAgoeRc0Q1_42.861838_-106.309205@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311465,
+    "wof:geomhash":"8ef6c1fe7f35095644040131815573fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874072191
+        }
+    ],
+    "wof:id":874072191,
+    "wof:lastmodified":1464311465,
+    "wof:name":"Jamal Kema",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dance",
+        "group"
+    ]
+},
+  "bbox": [
+    -106.309205,
+    42.861838,
+    -106.309205,
+    42.861838
+],
+  "geometry": {"coordinates":[-106.30920500000001,42.861838],"type":"Point"}
+}

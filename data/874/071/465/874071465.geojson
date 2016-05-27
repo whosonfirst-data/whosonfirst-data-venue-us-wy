@@ -1,0 +1,64 @@
+{
+  "id": 874071465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.290457,42.835543,-106.290457,42.835543",
+    "geom:latitude":42.835543,
+    "geom:longitude":-106.290457,
+    "iso:country":"US",
+    "sg:address":"1412 Country Club Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 3020",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yHQsGhkbr4fLH8Z1DXMxu_42.835543_-106.290457@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311451,
+    "wof:geomhash":"45542fae26bf13d828dc844ecbab4e14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874071465
+        }
+    ],
+    "wof:id":874071465,
+    "wof:lastmodified":1464311451,
+    "wof:name":"Richard E Notestine",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.290457,
+    42.835543,
+    -106.290457,
+    42.835543
+],
+  "geometry": {"coordinates":[-106.290457,42.835543],"type":"Point"}
+}

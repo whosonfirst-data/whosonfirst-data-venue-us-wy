@@ -1,0 +1,71 @@
+{
+  "id": 874187597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.349248,42.817211,-106.349248,42.817211",
+    "geom:latitude":42.817211,
+    "geom:longitude":-106.349248,
+    "iso:country":"US",
+    "sg:address":"3521 Navarre Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0904",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ueRRsH0JWx2cvMXFGq9iE_42.817211_-106.349248@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312715,
+    "wof:geomhash":"d5af5b76a2048885efeb446e1092a355",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874187597
+        }
+    ],
+    "wof:id":874187597,
+    "wof:lastmodified":1464312715,
+    "wof:name":"Apex Concrete Repair",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.349248,
+    42.817211,
+    -106.349248,
+    42.817211
+],
+  "geometry": {"coordinates":[-106.349248,42.817211],"type":"Point"}
+}

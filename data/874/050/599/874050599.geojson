@@ -1,0 +1,71 @@
+{
+  "id": 874050599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.427815,42.880679,-106.427815,42.880679",
+    "geom:latitude":42.880679,
+    "geom:longitude":-106.427815,
+    "iso:country":"US",
+    "sg:address":"2663 Oil Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 1257",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S9hVMisKACSXDG0aD02XT_42.880679_-106.427815@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311246,
+    "wof:geomhash":"ebea919713b412feccd184db9dde7bdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874050599
+        }
+    ],
+    "wof:id":874050599,
+    "wof:lastmodified":1464311246,
+    "wof:name":"FMC Energy Systems",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.427815,
+    42.880679,
+    -106.427815,
+    42.880679
+],
+  "geometry": {"coordinates":[-106.427815,42.880679],"type":"Point"}
+}

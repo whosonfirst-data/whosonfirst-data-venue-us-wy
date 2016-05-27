@@ -1,0 +1,58 @@
+{
+  "id": 874199505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.702204,44.373771,-106.702204,44.373771",
+    "geom:latitude":44.373771,
+    "geom:longitude":-106.702204,
+    "iso:country":"US",
+    "sg:address":"93 Airport Rd",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 2980",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_615x2i6LUr9F1f4fe1hv5U_44.373771_-106.702204@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312839,
+    "wof:geomhash":"6075e558c03e92a6ae9c5b7a44ea493d",
+    "wof:hierarchy":[],
+    "wof:id":874199505,
+    "wof:lastmodified":1464312839,
+    "wof:name":"Miller & Miller",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -106.702204,
+    44.373771,
+    -106.702204,
+    44.373771
+],
+  "geometry": {"coordinates":[-106.70220399999999,44.373771],"type":"Point"}
+}

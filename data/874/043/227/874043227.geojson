@@ -1,0 +1,51 @@
+{
+  "id": 874043227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.40103,43.024677,-108.40103,43.024677",
+    "geom:latitude":43.024677,
+    "geom:longitude":-108.40103,
+    "iso:country":"US",
+    "sg:address":"832 W Main St",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 857 2700",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qCpobXJ0UWMexVtFjIHTe_43.024677_-108.401030@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311178,
+    "wof:geomhash":"630a0a8fe88dd326a20e6ec3f40e9e16",
+    "wof:hierarchy":[],
+    "wof:id":874043227,
+    "wof:lastmodified":1464311178,
+    "wof:name":"El Tapatio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.40103,
+    43.024677,
+    -108.40103,
+    43.024677
+],
+  "geometry": {"coordinates":[-108.40103000000001,43.024677],"type":"Point"}
+}

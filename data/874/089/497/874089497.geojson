@@ -1,0 +1,69 @@
+{
+  "id": 874089497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.352895,42.874779,-106.352895,42.874779",
+    "geom:latitude":42.874779,
+    "geom:longitude":-106.352895,
+    "iso:country":"US",
+    "sg:address":"1855 Skyview Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0641",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "crane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EwWPQtUowCk0WzMqnBhgl_42.874779_-106.352895@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311655,
+    "wof:geomhash":"8ae849f10d9126c6f5cc2b992b234ff9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874089497
+        }
+    ],
+    "wof:id":874089497,
+    "wof:lastmodified":1464311655,
+    "wof:name":"B & W Crane Svc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crane"
+    ]
+},
+  "bbox": [
+    -106.352895,
+    42.874779,
+    -106.352895,
+    42.874779
+],
+  "geometry": {"coordinates":[-106.352895,42.874779],"type":"Point"}
+}

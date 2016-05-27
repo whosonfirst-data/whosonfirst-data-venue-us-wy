@@ -1,0 +1,60 @@
+{
+  "id": 874089957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.938804,44.789482,-106.938804,44.789482",
+    "geom:latitude":44.789482,
+    "geom:longitude":-106.938804,
+    "iso:country":"US",
+    "sg:address":"711 Ponderosa Dr",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 1575",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16b8OF7dX3Qv5Gztj6eObW_44.789482_-106.938804@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311662,
+    "wof:geomhash":"b9909c8e54e7ae1b54da8ed15a17364f",
+    "wof:hierarchy":[],
+    "wof:id":874089957,
+    "wof:lastmodified":1464311662,
+    "wof:name":"Pet Pal",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -106.938804,
+    44.789482,
+    -106.938804,
+    44.789482
+],
+  "geometry": {"coordinates":[-106.938804,44.789482],"type":"Point"}
+}

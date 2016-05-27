@@ -1,0 +1,73 @@
+{
+  "id": 873992291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.584411,41.329693,-105.584411,41.329693",
+    "geom:latitude":41.329693,
+    "geom:longitude":-105.584411,
+    "iso:country":"US",
+    "sg:address":"809 E Renshaw St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5030",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z707mJn7bcWWCdKvufYL7_41.329693_-105.584411@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310707,
+    "wof:geomhash":"11dcae87b7ccd9808760073272ecc40c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873992291
+        }
+    ],
+    "wof:id":873992291,
+    "wof:lastmodified":1464310707,
+    "wof:name":"Heather-Snow Plumbing & Htg",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.584411,
+    41.329693,
+    -105.584411,
+    41.329693
+],
+  "geometry": {"coordinates":[-105.584411,41.329693],"type":"Point"}
+}

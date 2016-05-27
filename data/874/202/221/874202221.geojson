@@ -1,0 +1,71 @@
+{
+  "id": 874202221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592338,41.323556,-105.592338,41.323556",
+    "geom:latitude":41.323556,
+    "geom:longitude":-105.592338,
+    "iso:country":"US",
+    "sg:address":"1270 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 2894",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57rlIlZhsQxWKIwcdQ1IRu_41.323556_-105.592338@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312866,
+    "wof:geomhash":"b3333daaa30626f2fb1759db4580013e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874202221
+        }
+    ],
+    "wof:id":874202221,
+    "wof:lastmodified":1464312866,
+    "wof:name":"Laramie Lanes Lounge & Liquor",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -105.592338,
+    41.323556,
+    -105.592338,
+    41.323556
+],
+  "geometry": {"coordinates":[-105.592338,41.323556],"type":"Point"}
+}

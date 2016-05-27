@@ -1,0 +1,56 @@
+{
+  "id": 874061495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.758888,43.4796,-110.758888,43.4796",
+    "geom:latitude":43.4796,
+    "geom:longitude":-110.758888,
+    "iso:country":"US",
+    "sg:address":"200 E Broadway",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 2555",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JDWc4isgQjPSX9XRmViwH_43.479600_-110.758888@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311349,
+    "wof:geomhash":"cce1b84a8f1eb72664b9d336aa55dd2d",
+    "wof:hierarchy":[],
+    "wof:id":874061495,
+    "wof:lastmodified":1464311349,
+    "wof:name":"Elkridge Dental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -110.758888,
+    43.4796,
+    -110.758888,
+    43.4796
+],
+  "geometry": {"coordinates":[-110.758888,43.4796],"type":"Point"}
+}

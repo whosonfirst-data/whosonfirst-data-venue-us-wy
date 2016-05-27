@@ -1,0 +1,73 @@
+{
+  "id": 874133645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.874798,41.150347,-105.874798,41.150347",
+    "geom:latitude":41.150347,
+    "geom:longitude":-105.874798,
+    "iso:country":"US",
+    "sg:address":"133 Lewis Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7370",
+    "sg:postcode":"82073",
+    "sg:province":"WY",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28rdpBoSRlP7zDdLZDLeuX_41.150347_-105.874798@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312178,
+    "wof:geomhash":"7cd9c40aab088463437f78fb5b41dc4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874133645
+        }
+    ],
+    "wof:id":874133645,
+    "wof:lastmodified":1464312178,
+    "wof:name":"Johnson Excavation",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.874798,
+    41.150347,
+    -105.874798,
+    41.150347
+],
+  "geometry": {"coordinates":[-105.874798,41.150347],"type":"Point"}
+}

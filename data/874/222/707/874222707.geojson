@@ -1,0 +1,56 @@
+{
+  "id": 874222707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.73144,43.601043,-110.73144,43.601043",
+    "geom:latitude":43.601043,
+    "geom:longitude":-110.73144,
+    "iso:country":"US",
+    "sg:address":"1250 E Airport Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 5278",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zKRof1ord4nFzqZllzEFm_43.601043_-110.731440@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313091,
+    "wof:geomhash":"de0f47f58d4f117f6f2bf665ab7798fd",
+    "wof:hierarchy":[],
+    "wof:id":874222707,
+    "wof:lastmodified":1464313091,
+    "wof:name":"Us Faa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -110.73144,
+    43.601043,
+    -110.73144,
+    43.601043
+],
+  "geometry": {"coordinates":[-110.73144000000001,43.601043],"type":"Point"}
+}

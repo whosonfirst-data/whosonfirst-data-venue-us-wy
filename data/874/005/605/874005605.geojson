@@ -1,0 +1,73 @@
+{
+  "id": 874005605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.352832,42.874938,-106.352832,42.874938",
+    "geom:latitude":42.874938,
+    "geom:longitude":-106.352832,
+    "iso:country":"US",
+    "sg:address":"1845 Skyview Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 9391",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Dgz7qP5QkiAnBtDbCAXPL_42.874938_-106.352832@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310821,
+    "wof:geomhash":"91275df41df30616fcc8d99cdef75ada",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874005605
+        }
+    ],
+    "wof:id":874005605,
+    "wof:lastmodified":1464310821,
+    "wof:name":"Satel-Lite Industries",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -106.352832,
+    42.874938,
+    -106.352832,
+    42.874938
+],
+  "geometry": {"coordinates":[-106.35283200000001,42.874938],"type":"Point"}
+}

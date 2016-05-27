@@ -1,0 +1,71 @@
+{
+  "id": 874103395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.292975,42.839324,-106.292975,42.839324",
+    "geom:latitude":42.839324,
+    "geom:longitude":-106.292975,
+    "iso:country":"US",
+    "sg:address":"1104 S Missouri Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 4775",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49WbFX4Goj3aGpEtwMhvt5_42.839324_-106.292975@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311837,
+    "wof:geomhash":"3eb5d679a319317f53edf572e1660061",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874103395
+        }
+    ],
+    "wof:id":874103395,
+    "wof:lastmodified":1464311837,
+    "wof:name":"Casper Daily Grind LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -106.292975,
+    42.839324,
+    -106.292975,
+    42.839324
+],
+  "geometry": {"coordinates":[-106.292975,42.839324],"type":"Point"}
+}

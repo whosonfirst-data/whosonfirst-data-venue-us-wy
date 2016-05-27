@@ -1,0 +1,69 @@
+{
+  "id": 874033057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.331711,42.846993,-106.331711,42.846993",
+    "geom:latitude":42.846993,
+    "geom:longitude":-106.331711,
+    "iso:country":"US",
+    "sg:address":"333 S Spruce St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 2203",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yPaoFKOZAfg4YXL67jdr0_42.846993_-106.331711@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311076,
+    "wof:geomhash":"d8f847b5a20282051bc470dee3e94f49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874033057
+        }
+    ],
+    "wof:id":874033057,
+    "wof:lastmodified":1464311076,
+    "wof:name":"Wyoming Transfer & Storage",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -106.331711,
+    42.846993,
+    -106.331711,
+    42.846993
+],
+  "geometry": {"coordinates":[-106.331711,42.846993],"type":"Point"}
+}

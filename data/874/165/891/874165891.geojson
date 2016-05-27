@@ -1,0 +1,56 @@
+{
+  "id": 874165891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.800465,41.104797,-104.800465,41.104797",
+    "geom:latitude":41.104797,
+    "geom:longitude":-104.800465,
+    "iso:country":"US",
+    "sg:address":"1305 S Greeley Hwy",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 4494",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4efTiJADs3zHqhuDH4xc3x_41.104797_-104.800465@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312488,
+    "wof:geomhash":"0049d2f6aa4526697e083de78b9782f0",
+    "wof:hierarchy":[],
+    "wof:id":874165891,
+    "wof:lastmodified":1464312488,
+    "wof:name":"Family Dollar Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -104.800465,
+    41.104797,
+    -104.800465,
+    41.104797
+],
+  "geometry": {"coordinates":[-104.800465,41.104797],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 874168287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.580428,41.310301,-105.580428,41.310301",
+    "geom:latitude":41.310301,
+    "geom:longitude":-105.580428,
+    "iso:country":"US",
+    "sg:address":"1309 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5892",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jzgFY7UR1C5CklsCKEAVx_41.310301_-105.580428@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312510,
+    "wof:geomhash":"bdff515852948cecce79f1630da0021a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874168287
+        }
+    ],
+    "wof:id":874168287,
+    "wof:lastmodified":1464312510,
+    "wof:name":"Lutheran Campus Center",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.580428,
+    41.310301,
+    -105.580428,
+    41.310301
+],
+  "geometry": {"coordinates":[-105.580428,41.310301],"type":"Point"}
+}

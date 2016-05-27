@@ -1,0 +1,59 @@
+{
+  "id": 874229433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.463087,42.897703,-106.463087,42.897703",
+    "geom:latitude":42.897703,
+    "geom:longitude":-106.463087,
+    "iso:country":"US",
+    "sg:address":"8500 Airport Pkwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/hells-half-acre/135339-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 3010",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FdkIKvcPOtTkJ6EVDc9Gv_42.897703_-106.463087@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313154,
+    "wof:geomhash":"f610c608d513bf2f0ec265946c9b9d6e",
+    "wof:hierarchy":[],
+    "wof:id":874229433,
+    "wof:lastmodified":1464313154,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -106.463087,
+    42.897703,
+    -106.463087,
+    42.897703
+],
+  "geometry": {"coordinates":[-106.463087,42.897703],"type":"Point"}
+}

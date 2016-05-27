@@ -1,0 +1,71 @@
+{
+  "id": 874184863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.021785,44.533395,-109.021785,44.533395",
+    "geom:latitude":44.533395,
+    "geom:longitude":-109.021785,
+    "iso:country":"US",
+    "sg:address":"3430 Big Horn Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 9693",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mfg",
+        "arms",
+        "gunsmith",
+        "gun",
+        "small",
+        "ammunition"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r1UKSmo3fhZWSzCIpj9n4_44.533395_-109.021785@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312690,
+    "wof:geomhash":"5c389d9bfa27be3bfdca98c14e1ada52",
+    "wof:hierarchy":[],
+    "wof:id":874184863,
+    "wof:lastmodified":1464312690,
+    "wof:name":"Rocky Mountain Cartridge",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "arms",
+        "gunsmith",
+        "gun",
+        "small",
+        "ammunition"
+    ]
+},
+  "bbox": [
+    -109.021785,
+    44.533395,
+    -109.021785,
+    44.533395
+],
+  "geometry": {"coordinates":[-109.02178499999999,44.533395],"type":"Point"}
+}

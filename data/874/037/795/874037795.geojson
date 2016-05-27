@@ -1,0 +1,75 @@
+{
+  "id": 874037795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.347178,42.869386,-106.347178,42.869386",
+    "geom:latitude":42.869386,
+    "geom:longitude":-106.347178,
+    "iso:country":"US",
+    "sg:address":"1820 S Loop Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 1300",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "water",
+        "equipment",
+        "works",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tbEgafOW7m9KxLI3SJ3C4_42.869386_-106.347178@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311124,
+    "wof:geomhash":"d4fc5c4d492dc61fb8dadd81a3f14ecf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874037795
+        }
+    ],
+    "wof:id":874037795,
+    "wof:lastmodified":1464311124,
+    "wof:name":"Dana Kepner Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "equipment",
+        "works",
+        "supply"
+    ]
+},
+  "bbox": [
+    -106.347178,
+    42.869386,
+    -106.347178,
+    42.869386
+],
+  "geometry": {"coordinates":[-106.347178,42.869386],"type":"Point"}
+}

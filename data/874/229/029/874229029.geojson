@@ -1,0 +1,59 @@
+{
+  "id": 874229029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.955806,44.017891,-107.955806,44.017891",
+    "geom:latitude":44.017891,
+    "geom:longitude":-107.955806,
+    "iso:country":"US",
+    "sg:address":"201 N 10th St",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/worland/135384-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 2885",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J5aEvWt3kqohYoIgSbKAs_44.017891_-107.955806@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313151,
+    "wof:geomhash":"1f445ede5852fdb0e676d849dfe83cd1",
+    "wof:hierarchy":[],
+    "wof:id":874229029,
+    "wof:lastmodified":1464313151,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -107.955806,
+    44.017891,
+    -107.955806,
+    44.017891
+],
+  "geometry": {"coordinates":[-107.955806,44.017891],"type":"Point"}
+}

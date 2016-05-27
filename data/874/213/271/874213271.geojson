@@ -1,0 +1,56 @@
+{
+  "id": 874213271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.504582,44.795465,-108.504582,44.795465",
+    "geom:latitude":44.795465,
+    "geom:longitude":-108.504582,
+    "iso:country":"US",
+    "sg:address":"41 S Pryor St",
+    "sg:city":"Byron",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 548 6560",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dZBnVyuU36Svm9yQfqNG5_44.795465_-108.504582@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312987,
+    "wof:geomhash":"7db451719601e7e3e4c1cff0fc64438f",
+    "wof:hierarchy":[],
+    "wof:id":874213271,
+    "wof:lastmodified":1464312987,
+    "wof:name":"Byron Seminary",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -108.504582,
+    44.795465,
+    -108.504582,
+    44.795465
+],
+  "geometry": {"coordinates":[-108.504582,44.795465],"type":"Point"}
+}

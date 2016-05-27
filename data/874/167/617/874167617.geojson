@@ -1,0 +1,80 @@
+{
+  "id": 874167617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.585955,41.329542,-105.585955,41.329542",
+    "geom:latitude":41.329542,
+    "geom:longitude":-105.585955,
+    "iso:country":"US",
+    "sg:address":"716 E Renshaw St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 1939",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mobile",
+        "home",
+        "site"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1msyT7kdrquBMhGzGeb5mw_41.329542_-105.585955@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312503,
+    "wof:geomhash":"3107c682ec3e7307f1330d7b47684786",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874167617
+        }
+    ],
+    "wof:id":874167617,
+    "wof:lastmodified":1464312503,
+    "wof:name":"Giese's Mobile Home Park",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home",
+        "site"
+    ]
+},
+  "bbox": [
+    -105.585955,
+    41.329542,
+    -105.585955,
+    41.329542
+],
+  "geometry": {"coordinates":[-105.585955,41.329542],"type":"Point"}
+}

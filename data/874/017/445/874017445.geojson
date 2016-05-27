@@ -1,0 +1,69 @@
+{
+  "id": 874017445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.359706,42.827072,-106.359706,42.827072",
+    "geom:latitude":42.827072,
+    "geom:longitude":-106.359706,
+    "iso:country":"US",
+    "sg:address":"3201 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 3168",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZOaJz3DNRcIVAKSIKPb02_42.827072_-106.359706@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310918,
+    "wof:geomhash":"2666bf84d33bcd720c7ed9ccf9e6688e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874017445
+        }
+    ],
+    "wof:id":874017445,
+    "wof:lastmodified":1464310918,
+    "wof:name":"American Auto Repr Restoration",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -106.359706,
+    42.827072,
+    -106.359706,
+    42.827072
+],
+  "geometry": {"coordinates":[-106.359706,42.827072],"type":"Point"}
+}

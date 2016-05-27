@@ -1,0 +1,66 @@
+{
+  "id": 874154965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.573388,41.305318,-105.573388,41.305318",
+    "geom:latitude":41.305318,
+    "geom:longitude":-105.573388,
+    "iso:country":"US",
+    "sg:address":"1815 E Park Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4321",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78K6c5ZLtjVD42f2AF7jgn_41.305318_-105.573388@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312376,
+    "wof:geomhash":"93aa04a2ffdd06ac965bbc90aba79c5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874154965
+        }
+    ],
+    "wof:id":874154965,
+    "wof:lastmodified":1464312376,
+    "wof:name":"Vargas Astrid",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.573388,
+    41.305318,
+    -105.573388,
+    41.305318
+],
+  "geometry": {"coordinates":[-105.57338799999999,41.305318],"type":"Point"}
+}

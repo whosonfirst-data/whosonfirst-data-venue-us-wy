@@ -1,0 +1,58 @@
+{
+  "id": 874080679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.241625,43.850206,-104.241625,43.850206",
+    "geom:latitude":43.850206,
+    "geom:longitude":-104.241625,
+    "iso:country":"US",
+    "sg:address":"3050 W Main St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 9842",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a8oH7SfYmq6wNpRC4Vuse_43.850206_-104.241625@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311559,
+    "wof:geomhash":"6b066e187af25bab6122521153bf605f",
+    "wof:hierarchy":[],
+    "wof:id":874080679,
+    "wof:lastmodified":1464311559,
+    "wof:name":"Jacob's Ranch Mine Bus Barn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -104.241625,
+    43.850206,
+    -104.241625,
+    43.850206
+],
+  "geometry": {"coordinates":[-104.241625,43.850206],"type":"Point"}
+}

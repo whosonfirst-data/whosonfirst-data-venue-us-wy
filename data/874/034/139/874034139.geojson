@@ -1,0 +1,58 @@
+{
+  "id": 874034139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.50246,44.29025,-105.50246,44.29025",
+    "geom:latitude":44.29025,
+    "geom:longitude":-105.50246,
+    "iso:country":"US",
+    "sg:address":"201 E 5th St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 5290",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k942P9asw72bmkJbAQh7K_44.290250_-105.502460@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311086,
+    "wof:geomhash":"3efe0feb9935bc523d6a62517861bb98",
+    "wof:hierarchy":[],
+    "wof:id":874034139,
+    "wof:lastmodified":1464311086,
+    "wof:name":"Gillette City Attorney",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -105.50246,
+    44.29025,
+    -105.50246,
+    44.29025
+],
+  "geometry": {"coordinates":[-105.50246,44.29025],"type":"Point"}
+}

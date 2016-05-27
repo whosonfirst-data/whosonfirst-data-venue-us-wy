@@ -1,0 +1,72 @@
+{
+  "id": 873996445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.599713,41.253873,-105.599713,41.253873",
+    "geom:latitude":41.253873,
+    "geom:longitude":-105.599713,
+    "iso:country":"US",
+    "sg:address":"5704 S South View Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 9555",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "sg:website":"www.consolidatedconcepts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40zBrtX1biX1SR3nbz53d3_41.253873_-105.599713@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310735,
+    "wof:geomhash":"b15473667575b2d25eb20738070995f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873996445
+        }
+    ],
+    "wof:id":873996445,
+    "wof:lastmodified":1464310735,
+    "wof:name":"Consolidated Concepts Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -105.599713,
+    41.253873,
+    -105.599713,
+    41.253873
+],
+  "geometry": {"coordinates":[-105.59971299999999,41.253873],"type":"Point"}
+}

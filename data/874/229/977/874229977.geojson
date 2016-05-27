@@ -1,0 +1,57 @@
+{
+  "id": 874229977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.942525,44.78153,-106.942525,44.78153",
+    "geom:latitude":44.78153,
+    "geom:longitude":-106.942525,
+    "iso:country":"US",
+    "sg:address":"1529 Coffeen Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/sheridan/166988-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 6617",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jqBGHlCBCYzcQZ4U6XYwO_44.781530_-106.942525@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313160,
+    "wof:geomhash":"bf4e743294113ec39e5df5ae0e61fdb5",
+    "wof:hierarchy":[],
+    "wof:id":874229977,
+    "wof:lastmodified":1464313160,
+    "wof:name":"Burger King",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -106.942525,
+    44.78153,
+    -106.942525,
+    44.78153
+],
+  "geometry": {"coordinates":[-106.942525,44.78153],"type":"Point"}
+}

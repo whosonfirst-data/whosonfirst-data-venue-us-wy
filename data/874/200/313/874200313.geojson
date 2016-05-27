@@ -1,0 +1,56 @@
+{
+  "id": 874200313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.225645,41.62092,-109.225645,41.62092",
+    "geom:latitude":41.62092,
+    "geom:longitude":-109.225645,
+    "iso:country":"US",
+    "sg:address":"1033 Maple Way",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 3167",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "artist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PrWajVQimSSGxvHjhXRFS_41.620920_-109.225645@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312847,
+    "wof:geomhash":"5fcb6485b399d2c7f96b904b645d02e5",
+    "wof:hierarchy":[],
+    "wof:id":874200313,
+    "wof:lastmodified":1464312847,
+    "wof:name":"R C Jones",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "artist"
+    ]
+},
+  "bbox": [
+    -109.225645,
+    41.62092,
+    -109.225645,
+    41.62092
+],
+  "geometry": {"coordinates":[-109.225645,41.62092],"type":"Point"}
+}

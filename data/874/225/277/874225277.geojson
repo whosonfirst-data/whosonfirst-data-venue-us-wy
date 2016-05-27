@@ -1,0 +1,56 @@
+{
+  "id": 874225277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.053992,44.488617,-108.053992,44.488617",
+    "geom:latitude":44.488617,
+    "geom:longitude":-108.053992,
+    "iso:country":"US",
+    "sg:address":"24 S 5th St",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 9431",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VGJOR7TvsZSJ3swNtUMQ6_44.488617_-108.053992@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313114,
+    "wof:geomhash":"ebb04810813515016649cca165b1fda4",
+    "wof:hierarchy":[],
+    "wof:id":874225277,
+    "wof:lastmodified":1464313114,
+    "wof:name":"Greybull Town Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -108.053992,
+    44.488617,
+    -108.053992,
+    44.488617
+],
+  "geometry": {"coordinates":[-108.05399199999999,44.488617],"type":"Point"}
+}

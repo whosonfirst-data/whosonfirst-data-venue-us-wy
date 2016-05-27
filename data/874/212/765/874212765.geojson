@@ -1,0 +1,56 @@
+{
+  "id": 874212765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.96638,42.04387,-104.96638,42.04387",
+    "geom:latitude":42.04387,
+    "geom:longitude":-104.96638,
+    "iso:country":"US",
+    "sg:address":"28 W Frontage Rd",
+    "sg:city":"Wheatland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 322 3640",
+    "sg:postcode":"82201",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gg19Byb4qY1JNMEZcwdSq_42.043870_-104.966380@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312982,
+    "wof:geomhash":"fb82a444d2d175873917ca26532ceb2c",
+    "wof:hierarchy":[],
+    "wof:id":874212765,
+    "wof:lastmodified":1464312982,
+    "wof:name":"Laramie Peak Veterinary Assoc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -104.96638,
+    42.04387,
+    -104.96638,
+    42.04387
+],
+  "geometry": {"coordinates":[-104.96638,42.04387],"type":"Point"}
+}

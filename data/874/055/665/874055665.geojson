@@ -1,0 +1,56 @@
+{
+  "id": 874055665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.750202,44.343735,-106.750202,44.343735",
+    "geom:latitude":44.343735,
+    "geom:longitude":-106.750202,
+    "iso:country":"US",
+    "sg:address":"700 Hemlock St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 5909",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PDeDfuoFa9wY1g4SjZTcI_44.343735_-106.750202@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311298,
+    "wof:geomhash":"82bcb3270630892c43ef06bd99b9c5a5",
+    "wof:hierarchy":[],
+    "wof:id":874055665,
+    "wof:lastmodified":1464311298,
+    "wof:name":"Shelton Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -106.750202,
+    44.343735,
+    -106.750202,
+    44.343735
+],
+  "geometry": {"coordinates":[-106.750202,44.343735],"type":"Point"}
+}

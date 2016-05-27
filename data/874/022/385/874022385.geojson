@@ -1,0 +1,73 @@
+{
+  "id": 874022385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.303862,42.825176,-106.303862,42.825176",
+    "geom:latitude":42.825176,
+    "geom:longitude":-106.303862,
+    "iso:country":"US",
+    "sg:address":"2321 Breck Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1693",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05atK6K5gkyWKyuUrFxaFO_42.825176_-106.303862@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310968,
+    "wof:geomhash":"9b6c97b8813bee4f54eb04a8ba68b55c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874022385
+        }
+    ],
+    "wof:id":874022385,
+    "wof:lastmodified":1464310968,
+    "wof:name":"Bottom Line",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -106.303862,
+    42.825176,
+    -106.303862,
+    42.825176
+],
+  "geometry": {"coordinates":[-106.303862,42.825176],"type":"Point"}
+}

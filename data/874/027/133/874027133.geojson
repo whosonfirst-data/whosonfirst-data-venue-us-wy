@@ -1,0 +1,51 @@
+{
+  "id": 874027133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.931069,42.725345,-110.931069,42.725345",
+    "geom:latitude":42.725345,
+    "geom:longitude":-110.931069,
+    "iso:country":"US",
+    "sg:address":"175 E 4th Ave",
+    "sg:city":"Afton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 885 8002",
+    "sg:postcode":"83110",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53Zg70CEwTywSs9RFXC0qa_42.725345_-110.931069@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311017,
+    "wof:geomhash":"0cbd58c3b85d9f4ebf3b2dd30b405988",
+    "wof:hierarchy":[],
+    "wof:id":874027133,
+    "wof:lastmodified":1464311017,
+    "wof:name":"Afton Elementary",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.931069,
+    42.725345,
+    -110.931069,
+    42.725345
+],
+  "geometry": {"coordinates":[-110.93106899999999,42.725345],"type":"Point"}
+}

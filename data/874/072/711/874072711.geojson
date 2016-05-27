@@ -1,0 +1,71 @@
+{
+  "id": 874072711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594217,41.325197,-105.594217,41.325197",
+    "geom:latitude":41.325197,
+    "geom:longitude":-105.594217,
+    "iso:country":"US",
+    "sg:address":"126 E Lyons St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2473",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6F16g98cXpFpgK3ULjhzBv_41.325197_-105.594217@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311472,
+    "wof:geomhash":"55d9ffe62286e41cbde1d15f2201f084",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874072711
+        }
+    ],
+    "wof:id":874072711,
+    "wof:lastmodified":1464311472,
+    "wof:name":"Fraternal Order Of Eagles",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -105.594217,
+    41.325197,
+    -105.594217,
+    41.325197
+],
+  "geometry": {"coordinates":[-105.594217,41.325197],"type":"Point"}
+}

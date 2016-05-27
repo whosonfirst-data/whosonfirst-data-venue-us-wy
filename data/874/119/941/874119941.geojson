@@ -1,0 +1,56 @@
+{
+  "id": 874119941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.056276,44.523794,-109.056276,44.523794",
+    "geom:latitude":44.523794,
+    "geom:longitude":-109.056276,
+    "iso:country":"US",
+    "sg:address":"1602 Alger Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 4901",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "blacksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MDHGG2CGCAGb0kOKTxv93_44.523794_-109.056276@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312040,
+    "wof:geomhash":"91daa3890e3585d8cc93b7ce8f53aa55",
+    "wof:hierarchy":[],
+    "wof:id":874119941,
+    "wof:lastmodified":1464312040,
+    "wof:name":"Campbell Farrier Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blacksmith"
+    ]
+},
+  "bbox": [
+    -109.056276,
+    44.523794,
+    -109.056276,
+    44.523794
+],
+  "geometry": {"coordinates":[-109.056276,44.523794],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874033253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.62182,41.308863,-105.62182,41.308863",
+    "geom:latitude":41.308863,
+    "geom:longitude":-105.62182,
+    "iso:country":"US",
+    "sg:address":"1994 State Hwy 230",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 9536",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RDczyo8EaFISxTe3pR1wV_41.308863_-105.621820@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311078,
+    "wof:geomhash":"9c317c5ae1178c0d6c6bb5f8cb3287f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874033253
+        }
+    ],
+    "wof:id":874033253,
+    "wof:lastmodified":1464311078,
+    "wof:name":"Laramie Water Treatment Plant",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -105.62182,
+    41.308863,
+    -105.62182,
+    41.308863
+],
+  "geometry": {"coordinates":[-105.62182,41.308863],"type":"Point"}
+}

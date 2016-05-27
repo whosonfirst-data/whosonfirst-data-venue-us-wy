@@ -1,0 +1,57 @@
+{
+  "id": 874171573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.823648,41.133015,-104.823648,41.133015",
+    "geom:latitude":41.133015,
+    "geom:longitude":-104.823648,
+    "iso:country":"US",
+    "sg:address":"716 W 19th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 6320",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.cheyennecity.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tmTiixufY5JnBH2WTURqU_41.133015_-104.823648@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312545,
+    "wof:geomhash":"f8300d3864c2cc5ce6b2df6ca8eead30",
+    "wof:hierarchy":[],
+    "wof:id":874171573,
+    "wof:lastmodified":1464312545,
+    "wof:name":"Cheyenne Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -104.823648,
+    41.133015,
+    -104.823648,
+    41.133015
+],
+  "geometry": {"coordinates":[-104.82364800000001,41.133015],"type":"Point"}
+}

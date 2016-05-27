@@ -1,0 +1,75 @@
+{
+  "id": 874096347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.626817,41.310474,-105.626817,41.310474",
+    "geom:latitude":41.310474,
+    "geom:longitude":-105.626817,
+    "iso:country":"US",
+    "sg:address":"2261 W Monroe St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5528",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02maHnxlEjtQibdiigIuLc_41.310474_-105.626817@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311733,
+    "wof:geomhash":"cb30eb25382ce0ff80d9212ce1c64334",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874096347
+        }
+    ],
+    "wof:id":874096347,
+    "wof:lastmodified":1464311733,
+    "wof:name":"R C Electric Inc",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.626817,
+    41.310474,
+    -105.626817,
+    41.310474
+],
+  "geometry": {"coordinates":[-105.626817,41.310474],"type":"Point"}
+}

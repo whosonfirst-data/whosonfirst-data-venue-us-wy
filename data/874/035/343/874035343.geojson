@@ -1,0 +1,67 @@
+{
+  "id": 874035343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591055,41.310674,-105.591055,41.310674",
+    "geom:latitude":41.310674,
+    "geom:longitude":-105.591055,
+    "iso:country":"US",
+    "sg:address":"320 S 5th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4818",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:website":"www.hollidayfurniture.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4128vZUO6JqHFcM77RCCeK_41.310674_-105.591055@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311097,
+    "wof:geomhash":"5d83e7e19adacc26dae8c5f8852e475a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874035343
+        }
+    ],
+    "wof:id":874035343,
+    "wof:lastmodified":1464311097,
+    "wof:name":"Holiday Furniture",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.591055,
+    41.310674,
+    -105.591055,
+    41.310674
+],
+  "geometry": {"coordinates":[-105.591055,41.310674],"type":"Point"}
+}

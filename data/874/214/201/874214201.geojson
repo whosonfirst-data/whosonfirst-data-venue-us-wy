@@ -1,0 +1,68 @@
+{
+  "id": 874214201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.214374,41.793437,-107.214374,41.793437",
+    "geom:latitude":41.793437,
+    "geom:longitude":-107.214374,
+    "iso:country":"US",
+    "sg:address":"604 N Higley Blvd",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 6738",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102528131,
+        85688475,
+        102191575,
+        85633793,
+        101734107,
+        102081173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ef6mF80CAw66dD8lJF3CP_41.793437_-107.214374@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312996,
+    "wof:geomhash":"99e212aeb7174e3436df6a1befe82830",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528131,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081173,
+            "locality_id":101734107,
+            "region_id":85688475,
+            "venue_id":874214201
+        }
+    ],
+    "wof:id":874214201,
+    "wof:lastmodified":1464312996,
+    "wof:name":"City Market Liquors",
+    "wof:parent_id":102528131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.214374,
+    41.793437,
+    -107.214374,
+    41.793437
+],
+  "geometry": {"coordinates":[-107.21437400000001,41.793437],"type":"Point"}
+}

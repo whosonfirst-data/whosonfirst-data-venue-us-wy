@@ -1,0 +1,70 @@
+{
+  "id": 874133911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.312351,42.849722,-106.312351,42.849722",
+    "geom:latitude":42.849722,
+    "geom:longitude":-106.312351,
+    "iso:country":"US",
+    "sg:address":"133 S McKinley St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 7410",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "publisher"
+    ],
+    "sg:website":"www.mtstlitho.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J7InHysiskqMInbbpjzJk_42.849722_-106.312351@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312181,
+    "wof:geomhash":"5d7bc3e34a02c62927e50b62de3df41f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874133911
+        }
+    ],
+    "wof:id":874133911,
+    "wof:lastmodified":1464312181,
+    "wof:name":"Endeavor Books",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher"
+    ]
+},
+  "bbox": [
+    -106.312351,
+    42.849722,
+    -106.312351,
+    42.849722
+],
+  "geometry": {"coordinates":[-106.31235100000001,42.849722],"type":"Point"}
+}

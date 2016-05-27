@@ -1,0 +1,71 @@
+{
+  "id": 874041109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.31111,42.851749,-106.31111,42.851749",
+    "geom:latitude":42.851749,
+    "geom:longitude":-106.31111,
+    "iso:country":"US",
+    "sg:address":"1000 E Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 0600",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G0jvbvCrkxCLlcVDRVZbF_42.851749_-106.311110@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311153,
+    "wof:geomhash":"d7f8bc585320f943212a1dc26192bec5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874041109
+        }
+    ],
+    "wof:id":874041109,
+    "wof:lastmodified":1464311153,
+    "wof:name":"Low Bucks Cars & Trucks",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -106.31111,
+    42.851749,
+    -106.31111,
+    42.851749
+],
+  "geometry": {"coordinates":[-106.31111,42.851749],"type":"Point"}
+}

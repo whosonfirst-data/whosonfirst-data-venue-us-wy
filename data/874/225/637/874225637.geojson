@@ -1,0 +1,64 @@
+{
+  "id": 874225637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.332935,42.805122,-106.332935,42.805122",
+    "geom:latitude":42.805122,
+    "geom:longitude":-106.332935,
+    "iso:country":"US",
+    "sg:address":"4910 S Ash St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2725",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Cvjx8frRpXaM8Uk8utjwP_42.805122_-106.332935@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313117,
+    "wof:geomhash":"87426ba126fb1fdc14b809fa5fc7bc1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874225637
+        }
+    ],
+    "wof:id":874225637,
+    "wof:lastmodified":1464313117,
+    "wof:name":"American Diabetes Association",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.332935,
+    42.805122,
+    -106.332935,
+    42.805122
+],
+  "geometry": {"coordinates":[-106.33293500000001,42.805122],"type":"Point"}
+}

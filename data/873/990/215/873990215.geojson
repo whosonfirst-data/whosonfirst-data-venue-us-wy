@@ -1,0 +1,75 @@
+{
+  "id": 873990215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.358131,42.827588,-106.358131,42.827588",
+    "geom:latitude":42.827588,
+    "geom:longitude":-106.358131,
+    "iso:country":"US",
+    "sg:address":"3155 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 3040",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "automotive",
+        "painting",
+        "specializing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gml3PuV70ivCsQLcPf13a_42.827588_-106.358131@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310691,
+    "wof:geomhash":"3597b32a1aac24ac5dcdcfb1f1b7746f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873990215
+        }
+    ],
+    "wof:id":873990215,
+    "wof:lastmodified":1464310691,
+    "wof:name":"Straight Lines",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive",
+        "painting",
+        "specializing"
+    ]
+},
+  "bbox": [
+    -106.358131,
+    42.827588,
+    -106.358131,
+    42.827588
+],
+  "geometry": {"coordinates":[-106.358131,42.827588],"type":"Point"}
+}

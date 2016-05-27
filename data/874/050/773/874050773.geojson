@@ -1,0 +1,64 @@
+{
+  "id": 874050773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.347057,42.89955,-106.347057,42.89955",
+    "geom:latitude":42.89955,
+    "geom:longitude":-106.347057,
+    "iso:country":"US",
+    "sg:address":"3650 Harvey Pl",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 0908",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WRWM9d8pTZiqdSYs48wqn_42.899550_-106.347057@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311248,
+    "wof:geomhash":"aa69cdcc7a5de51af3e2e7af33e843a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874050773
+        }
+    ],
+    "wof:id":874050773,
+    "wof:lastmodified":1464311248,
+    "wof:name":"Keller's Mobile Home Transport",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.347057,
+    42.89955,
+    -106.347057,
+    42.89955
+],
+  "geometry": {"coordinates":[-106.34705700000001,42.89955],"type":"Point"}
+}

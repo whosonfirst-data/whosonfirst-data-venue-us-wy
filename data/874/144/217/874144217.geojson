@@ -1,0 +1,69 @@
+{
+  "id": 874144217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.430891,42.87771,-106.430891,42.87771",
+    "geom:latitude":42.87771,
+    "geom:longitude":-106.430891,
+    "iso:country":"US",
+    "sg:address":"7000 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 8671",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QLTJ8SNrweDIRPXqZ0gyY_42.877710_-106.430891@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312273,
+    "wof:geomhash":"8f68d42ad46b8ca2846dd75e1239ce33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874144217
+        }
+    ],
+    "wof:id":874144217,
+    "wof:lastmodified":1464312273,
+    "wof:name":"Premier Painting",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -106.430891,
+    42.87771,
+    -106.430891,
+    42.87771
+],
+  "geometry": {"coordinates":[-106.430891,42.87771],"type":"Point"}
+}

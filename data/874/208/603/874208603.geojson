@@ -1,0 +1,57 @@
+{
+  "id": 874208603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.191569,42.070901,-104.191569,42.070901",
+    "geom:latitude":42.070901,
+    "geom:longitude":-104.191569,
+    "iso:country":"US",
+    "sg:address":"2602 W E St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 4046",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "district"
+    ],
+    "sg:website":"www.goshen.k12.wy.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rH4VVeLFKraeTXDdULwwU_42.070901_-104.191569@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312935,
+    "wof:geomhash":"f794c41ee4a8b85ced5bb438a09728ef",
+    "wof:hierarchy":[],
+    "wof:id":874208603,
+    "wof:lastmodified":1464312935,
+    "wof:name":"Goshen County School Dist 1",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "district"
+    ]
+},
+  "bbox": [
+    -104.191569,
+    42.070901,
+    -104.191569,
+    42.070901
+],
+  "geometry": {"coordinates":[-104.191569,42.070901],"type":"Point"}
+}

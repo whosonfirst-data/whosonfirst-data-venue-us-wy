@@ -1,0 +1,69 @@
+{
+  "id": 874014717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.313409,42.829803,-106.313409,42.829803",
+    "geom:latitude":42.829803,
+    "geom:longitude":-106.313409,
+    "iso:country":"US",
+    "sg:address":"1945 S Jefferson St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 6368",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NQJjYLxtpy7lVKGqIKWvg_42.829803_-106.313409@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310888,
+    "wof:geomhash":"d94a738a6b88f8cf7c9bb9b5909e674b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874014717
+        }
+    ],
+    "wof:id":874014717,
+    "wof:lastmodified":1464310888,
+    "wof:name":"F Doyal Plumbing & Heating",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.313409,
+    42.829803,
+    -106.313409,
+    42.829803
+],
+  "geometry": {"coordinates":[-106.31340899999999,42.829803],"type":"Point"}
+}

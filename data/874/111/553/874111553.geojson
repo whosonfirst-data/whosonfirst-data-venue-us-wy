@@ -1,0 +1,71 @@
+{
+  "id": 874111553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592406,41.310017,-105.592406,41.310017",
+    "geom:latitude":41.310017,
+    "geom:longitude":-105.592406,
+    "iso:country":"US",
+    "sg:address":"401 E Garfield St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8151",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yoUWLpaT47fvyu6GuPBam_41.310017_-105.592406@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311950,
+    "wof:geomhash":"dec0e3a5d8eb29da1ef40630da621f58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874111553
+        }
+    ],
+    "wof:id":874111553,
+    "wof:lastmodified":1464311950,
+    "wof:name":"Schilling & Winn",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -105.592406,
+    41.310017,
+    -105.592406,
+    41.310017
+],
+  "geometry": {"coordinates":[-105.592406,41.310017],"type":"Point"}
+}

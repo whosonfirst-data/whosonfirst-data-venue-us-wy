@@ -1,0 +1,56 @@
+{
+  "id": 874105185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.055216,44.487542,-108.055216,44.487542",
+    "geom:latitude":44.487542,
+    "geom:longitude":-108.055216,
+    "iso:country":"US",
+    "sg:address":"125 S 6th St",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 2724",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EZv1fb9A9Y8kTVcnKor8I_44.487542_-108.055216@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311859,
+    "wof:geomhash":"525408bcb8ee4c0ea44993deb060860a",
+    "wof:hierarchy":[],
+    "wof:id":874105185,
+    "wof:lastmodified":1464311859,
+    "wof:name":"Classy Chassis",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -108.055216,
+    44.487542,
+    -108.055216,
+    44.487542
+],
+  "geometry": {"coordinates":[-108.055216,44.487542],"type":"Point"}
+}

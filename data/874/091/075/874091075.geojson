@@ -1,0 +1,56 @@
+{
+  "id": 874091075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.79338,41.208381,-106.79338,41.208381",
+    "geom:latitude":41.208381,
+    "geom:longitude":-106.79338,
+    "iso:country":"US",
+    "sg:address":"622 Rankin Ave",
+    "sg:city":"Encampment",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 327 5501",
+    "sg:postcode":"82325",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0T4azBDFnPvOsUKElXXxBr_41.208381_-106.793380@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311676,
+    "wof:geomhash":"98c46f001ad2a780246ba0555af64d5d",
+    "wof:hierarchy":[],
+    "wof:id":874091075,
+    "wof:lastmodified":1464311676,
+    "wof:name":"Encampment City Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -106.79338,
+    41.208381,
+    -106.79338,
+    41.208381
+],
+  "geometry": {"coordinates":[-106.79338,41.208381],"type":"Point"}
+}

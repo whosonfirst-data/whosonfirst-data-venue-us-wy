@@ -1,0 +1,56 @@
+{
+  "id": 874080411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.751612,43.479616,-110.751612,43.479616",
+    "geom:latitude":43.479616,
+    "geom:longitude":-110.751612,
+    "iso:country":"US",
+    "sg:address":"510 E Broadway",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 3103",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3stFtDfqztHnC6ezJTPzS9_43.479616_-110.751612@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311555,
+    "wof:geomhash":"c87d5b52123ba91a2df173cfedb16e63",
+    "wof:hierarchy":[],
+    "wof:id":874080411,
+    "wof:lastmodified":1464311555,
+    "wof:name":"Jackson Second LDS Ward",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -110.751612,
+    43.479616,
+    -110.751612,
+    43.479616
+],
+  "geometry": {"coordinates":[-110.75161199999999,43.479616],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874100519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.312505,42.849308,-106.312505,42.849308",
+    "geom:latitude":42.849308,
+    "geom:longitude":-106.312505,
+    "iso:country":"US",
+    "sg:address":"102 S McKinley St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 232 8492",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "specialty",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WXiEHsMrNvCTJ2iGR2SHQ_42.849308_-106.312505@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311802,
+    "wof:geomhash":"2f12ec0ff6bf4bf9ae4a08f95d810e96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874100519
+        }
+    ],
+    "wof:id":874100519,
+    "wof:lastmodified":1464311802,
+    "wof:name":"Superior Signs & Supply LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -106.312505,
+    42.849308,
+    -106.312505,
+    42.849308
+],
+  "geometry": {"coordinates":[-106.312505,42.849308],"type":"Point"}
+}

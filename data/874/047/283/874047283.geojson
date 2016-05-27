@@ -1,0 +1,56 @@
+{
+  "id": 874047283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.099941,44.510427,-109.099941,44.510427",
+    "geom:latitude":44.510427,
+    "geom:longitude":-109.099941,
+    "iso:country":"US",
+    "sg:address":"2223 Haugen St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 8148",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44tJmClZVdKSK5nzeGopu8_44.510427_-109.099941@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311217,
+    "wof:geomhash":"27ba7c3995be73061f746a0b7ee80754",
+    "wof:hierarchy":[],
+    "wof:id":874047283,
+    "wof:lastmodified":1464311217,
+    "wof:name":"Hendrich Building Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.099941,
+    44.510427,
+    -109.099941,
+    44.510427
+],
+  "geometry": {"coordinates":[-109.099941,44.510427],"type":"Point"}
+}

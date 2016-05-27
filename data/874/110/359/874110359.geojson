@@ -1,0 +1,71 @@
+{
+  "id": 874110359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.622781,41.313198,-105.622781,41.313198",
+    "geom:latitude":41.313198,
+    "geom:longitude":-105.622781,
+    "iso:country":"US",
+    "sg:address":"1966 Wyoming Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 0477",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lk377N953ylaZnId4n9JO_41.313198_-105.622781@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311927,
+    "wof:geomhash":"1b3eaa0e1233c436a59f3b640aa6a967",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874110359
+        }
+    ],
+    "wof:id":874110359,
+    "wof:lastmodified":1464311927,
+    "wof:name":"Summit Trucking & House Moving",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -105.622781,
+    41.313198,
+    -105.622781,
+    41.313198
+],
+  "geometry": {"coordinates":[-105.622781,41.313198],"type":"Point"}
+}

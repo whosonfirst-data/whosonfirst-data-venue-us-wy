@@ -1,0 +1,59 @@
+{
+  "id": 874141617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.957112,44.800604,-106.957112,44.800604",
+    "geom:latitude":44.800604,
+    "geom:longitude":-106.957112,
+    "iso:country":"US",
+    "sg:address":"206 N Brooks St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 8941",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.tomhogartymd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T9jaW2Gptwt0KbUa9tYpo_44.800604_-106.957112@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312249,
+    "wof:geomhash":"ab5d8783ffc66f53ed65eb1a6c576b6b",
+    "wof:hierarchy":[],
+    "wof:id":874141617,
+    "wof:lastmodified":1464312249,
+    "wof:name":"Thomas J Hogarty MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -106.957112,
+    44.800604,
+    -106.957112,
+    44.800604
+],
+  "geometry": {"coordinates":[-106.957112,44.800604],"type":"Point"}
+}

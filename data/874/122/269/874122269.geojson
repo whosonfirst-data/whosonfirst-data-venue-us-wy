@@ -1,0 +1,51 @@
+{
+  "id": 874122269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.492349,44.292231,-105.492349,44.292231",
+    "geom:latitude":44.292231,
+    "geom:longitude":-105.492349,
+    "iso:country":"US",
+    "sg:address":"816 E 3rd St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 4581",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HYaWHZW7fuReFCYCzU6tL_44.292231_-105.492349@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312061,
+    "wof:geomhash":"f42042c25df85c3ce49e83eb69baa519",
+    "wof:hierarchy":[],
+    "wof:id":874122269,
+    "wof:lastmodified":1464312061,
+    "wof:name":"Gillette Floral & Gift Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.492349,
+    44.292231,
+    -105.492349,
+    44.292231
+],
+  "geometry": {"coordinates":[-105.492349,44.292231],"type":"Point"}
+}

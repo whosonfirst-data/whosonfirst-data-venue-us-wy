@@ -1,0 +1,71 @@
+{
+  "id": 874055711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594727,41.312016,-105.594727,41.312016",
+    "geom:latitude":41.312016,
+    "geom:longitude":-105.594727,
+    "iso:country":"US",
+    "sg:address":"205 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4266",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZoiD42TJrIiaPf9NBg1O9_41.312016_-105.594727@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311299,
+    "wof:geomhash":"2ee4994ee69716ea453fb58fba040fd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874055711
+        }
+    ],
+    "wof:id":874055711,
+    "wof:lastmodified":1464311299,
+    "wof:name":"Alexander's Fine Jewelry",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -105.594727,
+    41.312016,
+    -105.594727,
+    41.312016
+],
+  "geometry": {"coordinates":[-105.59472700000001,41.312016],"type":"Point"}
+}

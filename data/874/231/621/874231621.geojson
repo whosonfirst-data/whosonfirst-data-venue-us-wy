@@ -1,0 +1,59 @@
+{
+  "id": 874231621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.4726,41.511218,-109.4726,41.511218",
+    "geom:latitude":41.511218,
+    "geom:longitude":-109.4726,
+    "iso:country":"US",
+    "sg:address":"50 Monroe Ave",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/green-river-north/96482-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 1956",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LCyDbfDt8d27mjjfJIDmd_41.511219_-109.472750@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313182,
+    "wof:geomhash":"260e1e0041a8f53b572ceb7d323008b1",
+    "wof:hierarchy":[],
+    "wof:id":874231621,
+    "wof:lastmodified":1464313182,
+    "wof:name":"Taco John's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -109.4726,
+    41.511218,
+    -109.4726,
+    41.511218
+],
+  "geometry": {"coordinates":[-109.4726,41.511218],"type":"Point"}
+}

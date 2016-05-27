@@ -1,0 +1,71 @@
+{
+  "id": 874221257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.351448,42.845712,-106.351448,42.845712",
+    "geom:latitude":42.845712,
+    "geom:longitude":-106.351448,
+    "iso:country":"US",
+    "sg:address":"1770 W 1st St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 0046",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AuC7k2G5wLLR7P5EqaOGS_42.845712_-106.351448@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313077,
+    "wof:geomhash":"66e5df35386c00949679d502823e94ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874221257
+        }
+    ],
+    "wof:id":874221257,
+    "wof:lastmodified":1464313077,
+    "wof:name":"NAPA Paint & Body",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -106.351448,
+    42.845712,
+    -106.351448,
+    42.845712
+],
+  "geometry": {"coordinates":[-106.351448,42.845712],"type":"Point"}
+}

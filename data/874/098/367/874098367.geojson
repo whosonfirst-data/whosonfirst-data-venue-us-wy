@@ -1,0 +1,65 @@
+{
+  "id": 874098367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.27017,42.84688,-106.27017,42.84688",
+    "geom:latitude":42.84688,
+    "geom:longitude":-106.27017,
+    "iso:country":"US",
+    "sg:address":"401 SE Wyoming Blvd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 8214",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:website":"www.target.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fnO8BJV6rT4s0b5xkw2BL_42.846880_-106.270170@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311761,
+    "wof:geomhash":"29cb5bbe53eeb70f0f18d2990a0dc02b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874098367
+        }
+    ],
+    "wof:id":874098367,
+    "wof:lastmodified":1464311761,
+    "wof:name":"Target",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.27017,
+    42.84688,
+    -106.27017,
+    42.84688
+],
+  "geometry": {"coordinates":[-106.27016999999999,42.84688],"type":"Point"}
+}

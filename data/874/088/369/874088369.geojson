@@ -1,0 +1,85 @@
+{
+  "id": 874088369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33995,42.858495,-106.33995,42.858495",
+    "geom:latitude":42.858495,
+    "geom:longitude":-106.33995,
+    "iso:country":"US",
+    "sg:address":"1038 N Foster Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 0771",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "control",
+        "repair",
+        "industrial",
+        "co",
+        "equipment",
+        "electrical"
+    ],
+    "sg:website":"www.johnsoncontrols.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wefiUHkCmEFWVyteeWraj_42.858495_-106.339950@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311645,
+    "wof:geomhash":"cb2b854df7a3a99d1df0f29e878625c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874088369
+        }
+    ],
+    "wof:id":874088369,
+    "wof:lastmodified":1464311645,
+    "wof:name":"Johnson Controls Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "repair",
+        "industrial",
+        "co",
+        "equipment",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -106.33995,
+    42.858495,
+    -106.33995,
+    42.858495
+],
+  "geometry": {"coordinates":[-106.33995,42.858495],"type":"Point"}
+}

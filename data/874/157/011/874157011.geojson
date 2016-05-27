@@ -1,0 +1,58 @@
+{
+  "id": 874157011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.215111,41.59292,-109.215111,41.59292",
+    "geom:latitude":41.59292,
+    "geom:longitude":-109.215111,
+    "iso:country":"US",
+    "sg:address":"1109 Clark St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 0647",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kZOOMXqJhOz4ejZMp63Fz_41.592920_-109.215111@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312399,
+    "wof:geomhash":"1fae2e273c4f2e4a3465d6149ef92429",
+    "wof:hierarchy":[],
+    "wof:id":874157011,
+    "wof:lastmodified":1464312399,
+    "wof:name":"Electrical Connection",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.215111,
+    41.59292,
+    -109.215111,
+    41.59292
+],
+  "geometry": {"coordinates":[-109.21511099999999,41.59292],"type":"Point"}
+}

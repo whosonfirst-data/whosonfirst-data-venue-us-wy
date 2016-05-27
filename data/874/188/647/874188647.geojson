@@ -1,0 +1,58 @@
+{
+  "id": 874188647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.697549,44.351785,-106.697549,44.351785",
+    "geom:latitude":44.351785,
+    "geom:longitude":-106.697549,
+    "iso:country":"US",
+    "sg:address":"186 E Foote St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 620 9056",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NDLmhHs8LOYBSeFJYzX7n_44.351785_-106.697549@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312727,
+    "wof:geomhash":"8447fd4c19ea762c1017011605cc9d59",
+    "wof:hierarchy":[],
+    "wof:id":874188647,
+    "wof:lastmodified":1464312727,
+    "wof:name":"Thunder Basin Mechanical",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.697549,
+    44.351785,
+    -106.697549,
+    44.351785
+],
+  "geometry": {"coordinates":[-106.697549,44.351785],"type":"Point"}
+}

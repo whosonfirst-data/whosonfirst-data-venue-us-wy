@@ -1,0 +1,75 @@
+{
+  "id": 874008661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594235,41.305347,-105.594235,41.305347",
+    "geom:latitude":41.305347,
+    "geom:longitude":-105.594235,
+    "iso:country":"US",
+    "sg:address":"901 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 4164",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70GjfPINFld79GYUK4BYCu_41.305347_-105.594235@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310846,
+    "wof:geomhash":"22129b2076f713d03ad996dd1f19f4be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874008661
+        }
+    ],
+    "wof:id":874008661,
+    "wof:lastmodified":1464310846,
+    "wof:name":"Wyoming Counseling & Outreach",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -105.594235,
+    41.305347,
+    -105.594235,
+    41.305347
+],
+  "geometry": {"coordinates":[-105.594235,41.305347],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 874230089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.249714,41.577938,-109.249714,41.577938",
+    "geom:latitude":41.577938,
+    "geom:longitude":-109.249714,
+    "iso:country":"US",
+    "sg:address":"80 Gateway Blvd",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/rock-springs-north/67236-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 6561",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46ChoUyGAuuImKWNpFb4CG_41.577938_-109.249714@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313161,
+    "wof:geomhash":"a891e92128c2611ad0419773fc5bcb0e",
+    "wof:hierarchy":[],
+    "wof:id":874230089,
+    "wof:lastmodified":1464313161,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -109.249714,
+    41.577938,
+    -109.249714,
+    41.577938
+],
+  "geometry": {"coordinates":[-109.249714,41.577938],"type":"Point"}
+}

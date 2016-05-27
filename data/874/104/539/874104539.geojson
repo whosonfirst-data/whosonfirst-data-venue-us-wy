@@ -1,0 +1,75 @@
+{
+  "id": 874104539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.264688,42.822878,-106.264688,42.822878",
+    "geom:latitude":42.822878,
+    "geom:longitude":-106.264688,
+    "iso:country":"US",
+    "sg:address":"2840 Ardon Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 4138",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sell",
+        "medical",
+        "disposable",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZtO95Ev14ioJhZU7BWOjM_42.822878_-106.264688@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311851,
+    "wof:geomhash":"5ab3f4df09547f185c9aa56b6d222eb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874104539
+        }
+    ],
+    "wof:id":874104539,
+    "wof:lastmodified":1464311851,
+    "wof:name":"Garryglass LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sell",
+        "medical",
+        "disposable",
+        "supply"
+    ]
+},
+  "bbox": [
+    -106.264688,
+    42.822878,
+    -106.264688,
+    42.822878
+],
+  "geometry": {"coordinates":[-106.26468800000001,42.822878],"type":"Point"}
+}

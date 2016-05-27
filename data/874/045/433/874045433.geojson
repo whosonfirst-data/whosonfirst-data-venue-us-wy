@@ -1,0 +1,51 @@
+{
+  "id": 874045433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.345544,42.135987,-104.345544,42.135987",
+    "geom:latitude":42.135987,
+    "geom:longitude":-104.345544,
+    "iso:country":"US",
+    "sg:address":"204 Main St",
+    "sg:city":"Lingle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 837 3042",
+    "sg:postcode":"82223",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14eJY5fq1hAobG02jm2iHw_42.135987_-104.345544@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311200,
+    "wof:geomhash":"64c9026b21180b33af7727f1aeb6bde1",
+    "wof:hierarchy":[],
+    "wof:id":874045433,
+    "wof:lastmodified":1464311200,
+    "wof:name":"Red Line",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.345544,
+    42.135987,
+    -104.345544,
+    42.135987
+],
+  "geometry": {"coordinates":[-104.345544,42.135987],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 874084363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.622564,41.309015,-105.622564,41.309015",
+    "geom:latitude":41.309015,
+    "geom:longitude":-105.622564,
+    "iso:country":"US",
+    "sg:address":"1951 Snowy Range Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3977",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "saddlery",
+        "harness"
+    ],
+    "sg:website":"www.boardwalktack.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70n4gmTZNEvgQNfBvwvaFS_41.309015_-105.622564@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311602,
+    "wof:geomhash":"3c31fb2b908e611f9b08ab0410334b12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874084363
+        }
+    ],
+    "wof:id":874084363,
+    "wof:lastmodified":1464311602,
+    "wof:name":"Boardwalk",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saddlery",
+        "harness"
+    ]
+},
+  "bbox": [
+    -105.622564,
+    41.309015,
+    -105.622564,
+    41.309015
+],
+  "geometry": {"coordinates":[-105.622564,41.309015],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 874228481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.803175,41.116309,-104.803175,41.116309",
+    "geom:latitude":41.116309,
+    "geom:longitude":-104.803175,
+    "iso:country":"US",
+    "sg:address":"101 S Greeley Hwy",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/96475-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 1555",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iv3wMWRgWfAwbBgRkkU6e_41.116309_-104.803175@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313146,
+    "wof:geomhash":"2f7c2d92fb152195279ec94ca17461c7",
+    "wof:hierarchy":[],
+    "wof:id":874228481,
+    "wof:lastmodified":1464313146,
+    "wof:name":"Taco John's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -104.803175,
+    41.116309,
+    -104.803175,
+    41.116309
+],
+  "geometry": {"coordinates":[-104.803175,41.116309],"type":"Point"}
+}

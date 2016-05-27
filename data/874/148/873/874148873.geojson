@@ -1,0 +1,56 @@
+{
+  "id": 874148873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.150623,43.853454,-104.150623,43.853454",
+    "geom:latitude":43.853454,
+    "geom:longitude":-104.150623,
+    "iso:country":"US",
+    "sg:address":"303 Salt Creek Rd",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 3412",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZaJw7il4kr5UMo04gdpAV_43.853454_-104.150623@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312319,
+    "wof:geomhash":"59adce39a9e1a3b1efc3ae5c75b0100d",
+    "wof:hierarchy":[],
+    "wof:id":874148873,
+    "wof:lastmodified":1464312319,
+    "wof:name":"Kevin's Northeast Wyoming",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -104.150623,
+    43.853454,
+    -104.150623,
+    43.853454
+],
+  "geometry": {"coordinates":[-104.150623,43.853454],"type":"Point"}
+}

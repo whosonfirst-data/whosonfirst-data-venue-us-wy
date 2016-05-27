@@ -1,0 +1,64 @@
+{
+  "id": 873987407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.346077,42.825327,-106.346077,42.825327",
+    "geom:latitude":42.825327,
+    "geom:longitude":-106.346077,
+    "iso:country":"US",
+    "sg:address":"2240 Belmont Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 0591",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4203yBF09tanT7VsR51DOM_42.825327_-106.346077@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310671,
+    "wof:geomhash":"731c036921220dd319a7846e92489a17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873987407
+        }
+    ],
+    "wof:id":873987407,
+    "wof:lastmodified":1464310671,
+    "wof:name":"Gibson Foods Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.346077,
+    42.825327,
+    -106.346077,
+    42.825327
+],
+  "geometry": {"coordinates":[-106.34607699999999,42.825327],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874146315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.40343,42.827339,-106.40343,42.827339",
+    "geom:latitude":42.827339,
+    "geom:longitude":-106.40343,
+    "iso:country":"US",
+    "sg:address":"24 Riverbend Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1141",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Na0D9HecvvJwuTaMPHtvC_42.827339_-106.403430@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312296,
+    "wof:geomhash":"1899481b8c64784772634ac27d57a805",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874146315
+        }
+    ],
+    "wof:id":874146315,
+    "wof:lastmodified":1464312296,
+    "wof:name":"C J's Carpet Cleaning",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -106.40343,
+    42.827339,
+    -106.40343,
+    42.827339
+],
+  "geometry": {"coordinates":[-106.40343,42.827339],"type":"Point"}
+}

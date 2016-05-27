@@ -1,0 +1,56 @@
+{
+  "id": 874101523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.433108,44.229303,-105.433108,44.229303",
+    "geom:latitude":44.229303,
+    "geom:longitude":-105.433108,
+    "iso:country":"US",
+    "sg:address":"5002 Knickerbocker St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 0685",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pL34acA9MUOie0WuzZKxB_44.229303_-105.433108@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311812,
+    "wof:geomhash":"5a657d59c15ba1c9249cc0df3033687b",
+    "wof:hierarchy":[],
+    "wof:id":874101523,
+    "wof:lastmodified":1464311812,
+    "wof:name":"Event Photography",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -105.433108,
+    44.229303,
+    -105.433108,
+    44.229303
+],
+  "geometry": {"coordinates":[-105.433108,44.229303],"type":"Point"}
+}

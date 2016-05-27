@@ -1,0 +1,73 @@
+{
+  "id": 874193119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.534217,41.30272,-105.534217,41.30272",
+    "geom:latitude":41.30272,
+    "geom:longitude":-105.534217,
+    "iso:country":"US",
+    "sg:address":"4815 Quarterhorse Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 4892",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wBZifEZpuG4Etrvf3c2xH_41.302720_-105.534217@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312771,
+    "wof:geomhash":"96f00a71ede1e599bec9dc662059d9e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874193119
+        }
+    ],
+    "wof:id":874193119,
+    "wof:lastmodified":1464312771,
+    "wof:name":"Coulthard Construction Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.534217,
+    41.30272,
+    -105.534217,
+    41.30272
+],
+  "geometry": {"coordinates":[-105.534217,41.30272],"type":"Point"}
+}

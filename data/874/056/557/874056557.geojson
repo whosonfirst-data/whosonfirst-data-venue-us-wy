@@ -1,0 +1,71 @@
+{
+  "id": 874056557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.427247,42.875995,-106.427247,42.875995",
+    "geom:latitude":42.875995,
+    "geom:longitude":-106.427247,
+    "iso:country":"US",
+    "sg:address":"6850 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 9753",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qrSYLh4JUAp7Kqhbhd2cg_42.875995_-106.427247@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311305,
+    "wof:geomhash":"dfb743cf1012d4ebb154d74ade8fe17c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874056557
+        }
+    ],
+    "wof:id":874056557,
+    "wof:lastmodified":1464311305,
+    "wof:name":"Ryan Energy Technologies USA",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.427247,
+    42.875995,
+    -106.427247,
+    42.875995
+],
+  "geometry": {"coordinates":[-106.42724699999999,42.875995],"type":"Point"}
+}

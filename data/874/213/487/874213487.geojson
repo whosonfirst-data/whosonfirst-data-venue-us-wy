@@ -1,0 +1,61 @@
+{
+  "id": 874213487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.380484,43.020384,-108.380484,43.020384",
+    "geom:latitude":43.020384,
+    "geom:longitude":-108.380484,
+    "iso:country":"US",
+    "sg:address":"509 S Federal Blvd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 9234",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6C3i9S13nFYOcNjGeCb3bX_43.020384_-108.380484@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312989,
+    "wof:geomhash":"747d6480bba20a031cfe2e768114647a",
+    "wof:hierarchy":[],
+    "wof:id":874213487,
+    "wof:lastmodified":1464312989,
+    "wof:name":"Western Appliance Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -108.380484,
+    43.020384,
+    -108.380484,
+    43.020384
+],
+  "geometry": {"coordinates":[-108.380484,43.020384],"type":"Point"}
+}

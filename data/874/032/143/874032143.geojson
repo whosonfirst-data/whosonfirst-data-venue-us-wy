@@ -1,0 +1,69 @@
+{
+  "id": 874032143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.4504,42.862939,-106.4504,42.862939",
+    "geom:latitude":42.862939,
+    "geom:longitude":-106.4504,
+    "iso:country":"US",
+    "sg:address":"8188 W Zero Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 8584",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y7YWn2K8DDOEhQKAz6YlU_42.862939_-106.450400@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311067,
+    "wof:geomhash":"619e517cdc127d5e8cd596bdf142bae7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874032143
+        }
+    ],
+    "wof:id":874032143,
+    "wof:lastmodified":1464311067,
+    "wof:name":"Christian Church Vista West",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -106.4504,
+    42.862939,
+    -106.4504,
+    42.862939
+],
+  "geometry": {"coordinates":[-106.4504,42.862939],"type":"Point"}
+}

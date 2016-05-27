@@ -1,0 +1,56 @@
+{
+  "id": 874028801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.761276,41.165374,-104.761276,41.165374",
+    "geom:latitude":41.165374,
+    "geom:longitude":-104.761276,
+    "iso:country":"US",
+    "sg:address":"5110 N College Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 0222",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3coC3RYEL5X6osrnkVcWGt_41.165374_-104.761276@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311032,
+    "wof:geomhash":"4afeafd3992ef500772c0a0f2f0d3911",
+    "wof:hierarchy":[],
+    "wof:id":874028801,
+    "wof:lastmodified":1464311032,
+    "wof:name":"Need-A-Ride Cab Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -104.761276,
+    41.165374,
+    -104.761276,
+    41.165374
+],
+  "geometry": {"coordinates":[-104.761276,41.165374],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874152989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.328525,42.849473,-106.328525,42.849473",
+    "geom:latitude":42.849473,
+    "geom:longitude":-106.328525,
+    "iso:country":"US",
+    "sg:address":"135 S Ash St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0872",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0amVrP7sWMKEaMqW3vBkx8_42.849473_-106.328525@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312355,
+    "wof:geomhash":"8c350931884bcd827e322c24abd5ed6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874152989
+        }
+    ],
+    "wof:id":874152989,
+    "wof:lastmodified":1464312355,
+    "wof:name":"Killmer & Assoc PC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -106.328525,
+    42.849473,
+    -106.328525,
+    42.849473
+],
+  "geometry": {"coordinates":[-106.328525,42.849473],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874130623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.384025,42.75977,-105.384025,42.75977",
+    "geom:latitude":42.75977,
+    "geom:longitude":-105.384025,
+    "iso:country":"US",
+    "sg:address":"123 N 3rd St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 5311",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "instruction",
+        "gymnastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T3JyPViZ5wl9Q8ATwd9Da_42.759770_-105.384025@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312144,
+    "wof:geomhash":"54706352afa0856a180198d45f03f612",
+    "wof:hierarchy":[],
+    "wof:id":874130623,
+    "wof:lastmodified":1464312144,
+    "wof:name":"Douglas Gymnastics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "gymnastic"
+    ]
+},
+  "bbox": [
+    -105.384025,
+    42.75977,
+    -105.384025,
+    42.75977
+],
+  "geometry": {"coordinates":[-105.38402499999999,42.75977],"type":"Point"}
+}

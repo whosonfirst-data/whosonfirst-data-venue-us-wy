@@ -1,0 +1,73 @@
+{
+  "id": 874128653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.574265,41.298984,-105.574265,41.298984",
+    "geom:latitude":41.298984,
+    "geom:longitude":-105.574265,
+    "iso:country":"US",
+    "sg:address":"1707 E Person St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 6060",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "broadcast",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3feEfLiyxhcoxChelmXgJy_41.298984_-105.574265@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312117,
+    "wof:geomhash":"195cbf04f518e0abd4c9c0c3517e885b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874128653
+        }
+    ],
+    "wof:id":874128653,
+    "wof:lastmodified":1464312117,
+    "wof:name":"Dave Walsh Productions",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast",
+        "radio"
+    ]
+},
+  "bbox": [
+    -105.574265,
+    41.298984,
+    -105.574265,
+    41.298984
+],
+  "geometry": {"coordinates":[-105.574265,41.298984],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874144723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.78713,41.168868,-104.78713,41.168868",
+    "geom:latitude":41.168868,
+    "geom:longitude":-104.78713,
+    "iso:country":"US",
+    "sg:address":"2204 Plainview Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 2296",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VuVvd0GA0aePA2d5HbU3B_41.168868_-104.787130@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312278,
+    "wof:geomhash":"b06e2672a44ee54a040c78bb6fac7503",
+    "wof:hierarchy":[],
+    "wof:id":874144723,
+    "wof:lastmodified":1464312278,
+    "wof:name":"Anderson Elementary School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -104.78713,
+    41.168868,
+    -104.78713,
+    41.168868
+],
+  "geometry": {"coordinates":[-104.78713,41.168868],"type":"Point"}
+}

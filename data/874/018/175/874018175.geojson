@@ -1,0 +1,56 @@
+{
+  "id": 874018175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.832263,41.169142,-104.832263,41.169142",
+    "geom:latitude":41.169142,
+    "geom:longitude":-104.832263,
+    "iso:country":"US",
+    "sg:address":"5320 Education Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 5589",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RRAOf6CGqsFLfdmuHwKLT_41.169142_-104.832263@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310929,
+    "wof:geomhash":"740042f72f7729f66d3f186ccde79645",
+    "wof:hierarchy":[],
+    "wof:id":874018175,
+    "wof:lastmodified":1464310929,
+    "wof:name":"Southeast WY Ear NOSe&throat",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -104.832263,
+    41.169142,
+    -104.832263,
+    41.169142
+],
+  "geometry": {"coordinates":[-104.832263,41.169142],"type":"Point"}
+}

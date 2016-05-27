@@ -1,0 +1,59 @@
+{
+  "id": 874228667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.828774,41.17129,-104.828774,41.17129",
+    "geom:latitude":41.17129,
+    "geom:longitude":-104.828774,
+    "iso:country":"US",
+    "sg:address":"111 W Carlson St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/135340-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 3003",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g1adriSPMc9hkbHiGdf5F_41.171290_-104.828774@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313147,
+    "wof:geomhash":"776634284f1af17dd5d7c5fe1e590604",
+    "wof:hierarchy":[],
+    "wof:id":874228667,
+    "wof:lastmodified":1464313147,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -104.828774,
+    41.17129,
+    -104.828774,
+    41.17129
+],
+  "geometry": {"coordinates":[-104.828774,41.17129],"type":"Point"}
+}

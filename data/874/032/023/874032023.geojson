@@ -1,0 +1,58 @@
+{
+  "id": 874032023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.384807,43.025644,-108.384807,43.025644",
+    "geom:latitude":43.025644,
+    "geom:longitude":-108.384807,
+    "iso:country":"US",
+    "sg:address":"505 E Fremont Ave",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 1431",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HPNwt4kEPAFiJWzMy0aMc_43.025644_-108.384807@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311066,
+    "wof:geomhash":"c3f1875869b682283ea6a3e83aacaaaa",
+    "wof:hierarchy":[],
+    "wof:id":874032023,
+    "wof:lastmodified":1464311066,
+    "wof:name":"Roy's Lock Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -108.384807,
+    43.025644,
+    -108.384807,
+    43.025644
+],
+  "geometry": {"coordinates":[-108.384807,43.025644],"type":"Point"}
+}

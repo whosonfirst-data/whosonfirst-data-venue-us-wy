@@ -1,0 +1,58 @@
+{
+  "id": 874008485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.965847,41.268715,-110.965847,41.268715",
+    "geom:latitude":41.268715,
+    "geom:longitude":-110.965847,
+    "iso:country":"US",
+    "sg:address":"1043 Front St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 3028",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c6mNfUKkB3Xp74hRVJJMV_41.268715_-110.965847@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310844,
+    "wof:geomhash":"99e11f2a2c1fbb35ae303f451decaf16",
+    "wof:hierarchy":[],
+    "wof:id":874008485,
+    "wof:lastmodified":1464310844,
+    "wof:name":"City Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -110.965847,
+    41.268715,
+    -110.965847,
+    41.268715
+],
+  "geometry": {"coordinates":[-110.965847,41.268715],"type":"Point"}
+}

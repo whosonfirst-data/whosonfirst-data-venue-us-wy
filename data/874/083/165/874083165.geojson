@@ -1,0 +1,73 @@
+{
+  "id": 874083165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.316784,42.853614,-106.316784,42.853614",
+    "geom:latitude":42.853614,
+    "geom:longitude":-106.316784,
+    "iso:country":"US",
+    "sg:address":"304 N Grant St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8265",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "used",
+        "parts",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TvFUUQBU5pGtldi3NjU5c_42.853614_-106.316784@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311591,
+    "wof:geomhash":"19c6cbaadfc9caa6f01ef8987ea66b01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874083165
+        }
+    ],
+    "wof:id":874083165,
+    "wof:lastmodified":1464311591,
+    "wof:name":"Auto Hospital",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used",
+        "parts",
+        "general"
+    ]
+},
+  "bbox": [
+    -106.316784,
+    42.853614,
+    -106.316784,
+    42.853614
+],
+  "geometry": {"coordinates":[-106.316784,42.853614],"type":"Point"}
+}

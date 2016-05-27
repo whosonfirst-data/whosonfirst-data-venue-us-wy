@@ -1,0 +1,58 @@
+{
+  "id": 874195625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.82265,41.181195,-104.82265,41.181195",
+    "geom:latitude":41.181195,
+    "geom:longitude":-104.82265,
+    "iso:country":"US",
+    "sg:address":"7001 Bomar Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 6322",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77KDIwfNeC8mrleHkcIMe7_41.181195_-104.822650@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312801,
+    "wof:geomhash":"396ce923a2baab2147c7e722a77a81fb",
+    "wof:hierarchy":[],
+    "wof:id":874195625,
+    "wof:lastmodified":1464312801,
+    "wof:name":"Garver Transport LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -104.82265,
+    41.181195,
+    -104.82265,
+    41.181195
+],
+  "geometry": {"coordinates":[-104.82265,41.181195],"type":"Point"}
+}

@@ -1,0 +1,51 @@
+{
+  "id": 874202289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.793445,41.147843,-104.793445,41.147843",
+    "geom:latitude":41.147843,
+    "geom:longitude":-104.793445,
+    "iso:country":"US",
+    "sg:address":"1806 Milton Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 0880",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wbe05iyzw2bGyz5F75huD_41.147843_-104.793445@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312867,
+    "wof:geomhash":"0dc026f77dac843a023a04088557f0d9",
+    "wof:hierarchy":[],
+    "wof:id":874202289,
+    "wof:lastmodified":1464312867,
+    "wof:name":"Bob Storey Realty",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.793445,
+    41.147843,
+    -104.793445,
+    41.147843
+],
+  "geometry": {"coordinates":[-104.79344500000001,41.147843],"type":"Point"}
+}

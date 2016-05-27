@@ -1,0 +1,62 @@
+{
+  "id": 874067791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.400908,42.762953,-105.400908,42.762953",
+    "geom:latitude":42.762953,
+    "geom:longitude":-105.400908,
+    "iso:country":"US",
+    "sg:address":"1125 W Yellowstone Hwy",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 5078",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "driver",
+        "station",
+        "examination",
+        "license"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65skY1jUKSniOZFYaCikD3_42.762953_-105.400908@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311406,
+    "wof:geomhash":"9706e3d53e4081a91c32adb7349a4ab1",
+    "wof:hierarchy":[],
+    "wof:id":874067791,
+    "wof:lastmodified":1464311406,
+    "wof:name":"Wydot Drver Lcnse Exmntion Stn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "driver",
+        "station",
+        "examination",
+        "license"
+    ]
+},
+  "bbox": [
+    -105.400908,
+    42.762953,
+    -105.400908,
+    42.762953
+],
+  "geometry": {"coordinates":[-105.400908,42.762953],"type":"Point"}
+}

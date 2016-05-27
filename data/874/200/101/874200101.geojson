@@ -1,0 +1,56 @@
+{
+  "id": 874200101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.07271,41.176786,-104.07271,41.176786",
+    "geom:latitude":41.176786,
+    "geom:longitude":-104.07271,
+    "iso:country":"US",
+    "sg:address":"417 W 8th St",
+    "sg:city":"Pine Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 245 3390",
+    "sg:postcode":"82082",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M5TL7YBjrLazmys8jhhBV_41.176786_-104.072710@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312845,
+    "wof:geomhash":"71f3941d10ca2b2d517f9b51b92f19c3",
+    "wof:hierarchy":[],
+    "wof:id":874200101,
+    "wof:lastmodified":1464312845,
+    "wof:name":"Grace English Lutheran Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -104.07271,
+    41.176786,
+    -104.07271,
+    41.176786
+],
+  "geometry": {"coordinates":[-104.07271,41.176786],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874067835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.247345,41.789051,-107.247345,41.789051",
+    "geom:latitude":41.789051,
+    "geom:longitude":-107.247345,
+    "iso:country":"US",
+    "sg:address":"1016 W Spruce St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 2789",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28pOHlrVG6uVUZfubhocbx_41.789051_-107.247345@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311406,
+    "wof:geomhash":"a04d6856d9712fed93115d410540de08",
+    "wof:hierarchy":[],
+    "wof:id":874067835,
+    "wof:lastmodified":1464311406,
+    "wof:name":"Family Dollar Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -107.247345,
+    41.789051,
+    -107.247345,
+    41.789051
+],
+  "geometry": {"coordinates":[-107.247345,41.789051],"type":"Point"}
+}

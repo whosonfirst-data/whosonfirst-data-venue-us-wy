@@ -1,0 +1,56 @@
+{
+  "id": 874137443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.100555,41.418547,-104.100555,41.418547",
+    "geom:latitude":41.418547,
+    "geom:longitude":-104.100555,
+    "iso:country":"US",
+    "sg:address":"219 Cheyenne Ave",
+    "sg:city":"Albin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 246 9993",
+    "sg:postcode":"82050",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cafe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AESU3XhNFUlbnLdmGKvgz_41.418547_-104.100555@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312212,
+    "wof:geomhash":"ed956e674c8e183944514b3ec095e6ae",
+    "wof:hierarchy":[],
+    "wof:id":874137443,
+    "wof:lastmodified":1464312212,
+    "wof:name":"Albin Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cafe"
+    ]
+},
+  "bbox": [
+    -104.100555,
+    41.418547,
+    -104.100555,
+    41.418547
+],
+  "geometry": {"coordinates":[-104.100555,41.418547],"type":"Point"}
+}

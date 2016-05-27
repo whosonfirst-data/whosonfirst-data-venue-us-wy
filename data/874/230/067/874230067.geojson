@@ -1,0 +1,59 @@
+{
+  "id": 874230067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.25955,41.580474,-109.25955,41.580474",
+    "geom:latitude":41.580474,
+    "geom:longitude":-109.25955,
+    "iso:country":"US",
+    "sg:address":"2705 Dewar Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/rock-springs-north/181287-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 6906",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2411FqxP8IOZ9pCn0ozhYL_41.580474_-109.259550@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313161,
+    "wof:geomhash":"a54cba16e22e4c68d9e802be32e5ad98",
+    "wof:hierarchy":[],
+    "wof:id":874230067,
+    "wof:lastmodified":1464313161,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -109.25955,
+    41.580474,
+    -109.25955,
+    41.580474
+],
+  "geometry": {"coordinates":[-109.25955,41.580474],"type":"Point"}
+}

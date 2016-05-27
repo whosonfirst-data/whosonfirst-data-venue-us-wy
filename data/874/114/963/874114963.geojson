@@ -1,0 +1,75 @@
+{
+  "id": 874114963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.332792,42.806741,-106.332792,42.806741",
+    "geom:latitude":42.806741,
+    "geom:longitude":-106.332792,
+    "iso:country":"US",
+    "sg:address":"761 W 45th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 4408",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "specializing",
+        "educational",
+        "technology",
+        "calculator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_477l68FGrbV7P8TR0qKfGl_42.806741_-106.332792@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311987,
+    "wof:geomhash":"4df29202a1c68656cab7a345f8575b3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874114963
+        }
+    ],
+    "wof:id":874114963,
+    "wof:lastmodified":1464311987,
+    "wof:name":"Worldwide Eductl Svcs Tech LLP",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specializing",
+        "educational",
+        "technology",
+        "calculator"
+    ]
+},
+  "bbox": [
+    -106.332792,
+    42.806741,
+    -106.332792,
+    42.806741
+],
+  "geometry": {"coordinates":[-106.332792,42.806741],"type":"Point"}
+}

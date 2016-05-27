@@ -1,0 +1,58 @@
+{
+  "id": 874082769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.869883,42.866247,-109.869883,42.866247",
+    "geom:latitude":42.866247,
+    "geom:longitude":-109.869883,
+    "iso:country":"US",
+    "sg:address":"43 S Madison Ave",
+    "sg:city":"Pinedale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 367 4752",
+    "sg:postcode":"82941",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ll0Hn8nBIBaD2S1plvxIM_42.866247_-109.869883@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311587,
+    "wof:geomhash":"fb120a77cf4ac1581589a19630c3472a",
+    "wof:hierarchy":[],
+    "wof:id":874082769,
+    "wof:lastmodified":1464311587,
+    "wof:name":"Animal Clinic Of Pinedale",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -109.869883,
+    42.866247,
+    -109.869883,
+    42.866247
+],
+  "geometry": {"coordinates":[-109.869883,42.866247],"type":"Point"}
+}

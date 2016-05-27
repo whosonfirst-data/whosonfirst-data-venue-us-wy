@@ -1,0 +1,58 @@
+{
+  "id": 874047255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.108943,43.725912,-111.108943,43.725912",
+    "geom:latitude":43.725912,
+    "geom:longitude":-111.108943,
+    "iso:country":"US",
+    "sg:address":"238 S 1st St E",
+    "sg:city":"Driggs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 354 2302",
+    "sg:postcode":"83422",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H4f4WWP8036GO2zsA4oWc_43.725912_-111.108943@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311217,
+    "wof:geomhash":"a752583c44b7ab62e872e5c432bba552",
+    "wof:hierarchy":[],
+    "wof:id":874047255,
+    "wof:lastmodified":1464311217,
+    "wof:name":"Teton Valley Medical Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -111.108943,
+    43.725912,
+    -111.108943,
+    43.725912
+],
+  "geometry": {"coordinates":[-111.108943,43.725912],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 874214513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.762302,43.481664,-110.762302,43.481664",
+    "geom:latitude":43.481664,
+    "geom:longitude":-110.762302,
+    "iso:country":"US",
+    "sg:address":"132 N Cache Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 5933",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "sg:website":"www.jcjewelers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IpXLDb7kxsouz6Wztwa2C_43.481664_-110.762302@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312999,
+    "wof:geomhash":"d10d578c01e7189c3a7c078827ade01c",
+    "wof:hierarchy":[],
+    "wof:id":874214513,
+    "wof:lastmodified":1464312999,
+    "wof:name":"J C Jewelers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -110.762302,
+    43.481664,
+    -110.762302,
+    43.481664
+],
+  "geometry": {"coordinates":[-110.76230200000001,43.481664],"type":"Point"}
+}

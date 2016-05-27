@@ -1,0 +1,66 @@
+{
+  "id": 874027277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.538624,41.321629,-105.538624,41.321629",
+    "geom:latitude":41.321629,
+    "geom:longitude":-105.538624,
+    "iso:country":"US",
+    "sg:address":"4217 Grays Gable Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6791",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rmDe8rBFpjDfcNAAu92Tg_41.321629_-105.538624@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311018,
+    "wof:geomhash":"a666e6a3172e7fa74923aa8dffc1fb90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874027277
+        }
+    ],
+    "wof:id":874027277,
+    "wof:lastmodified":1464311018,
+    "wof:name":"Pochteca Archaeology",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.538624,
+    41.321629,
+    -105.538624,
+    41.321629
+],
+  "geometry": {"coordinates":[-105.538624,41.321629],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874200739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.549397,41.306965,-105.549397,41.306965",
+    "geom:latitude":41.306965,
+    "geom:longitude":-105.549397,
+    "iso:country":"US",
+    "sg:address":"3708 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6709",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75gZhdq2GPXwW415fgtDJW_41.306965_-105.549397@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312851,
+    "wof:geomhash":"a1fe8df09b1e36f2a37af28408d27a54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874200739
+        }
+    ],
+    "wof:id":874200739,
+    "wof:lastmodified":1464312851,
+    "wof:name":"Clay's Service Ctr",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -105.549397,
+    41.306965,
+    -105.549397,
+    41.306965
+],
+  "geometry": {"coordinates":[-105.549397,41.306965],"type":"Point"}
+}

@@ -1,0 +1,51 @@
+{
+  "id": 874180871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.259715,44.870964,-107.259715,44.870964",
+    "geom:latitude":44.870964,
+    "geom:longitude":-107.259715,
+    "iso:country":"US",
+    "sg:address":"824 Clipper Cir",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 655 9210",
+    "sg:postcode":"82836",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pu4inTEwJ6hgXztMGNyf7_44.870964_-107.259715@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312638,
+    "wof:geomhash":"82bd0d1293b5cb5c666a50b0f4b81e72",
+    "wof:hierarchy":[],
+    "wof:id":874180871,
+    "wof:lastmodified":1464312638,
+    "wof:name":"Bob's Pest Control",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.259715,
+    44.870964,
+    -107.259715,
+    44.870964
+],
+  "geometry": {"coordinates":[-107.259715,44.870964],"type":"Point"}
+}

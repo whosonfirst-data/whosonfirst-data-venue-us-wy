@@ -1,0 +1,56 @@
+{
+  "id": 874080885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.964985,41.268154,-110.964985,41.268154",
+    "geom:latitude":41.268154,
+    "geom:longitude":-110.964985,
+    "iso:country":"US",
+    "sg:address":"925 Front St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 1753",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V9bqog6A5mnWPjOXur887_41.268154_-110.964985@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311561,
+    "wof:geomhash":"fb3be74c8a936bc3aeac10cd24610426",
+    "wof:hierarchy":[],
+    "wof:id":874080885,
+    "wof:lastmodified":1464311561,
+    "wof:name":"Bon Rico Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -110.964985,
+    41.268154,
+    -110.964985,
+    41.268154
+],
+  "geometry": {"coordinates":[-110.964985,41.268154],"type":"Point"}
+}

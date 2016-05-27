@@ -1,0 +1,58 @@
+{
+  "id": 874105943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.94255,44.773219,-106.94255,44.773219",
+    "geom:latitude":44.773219,
+    "geom:longitude":-106.94255,
+    "iso:country":"US",
+    "sg:address":"2244 Coffeen Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 8870",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a7XkCuD57HRakPHAqCY6E_44.773219_-106.942550@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311867,
+    "wof:geomhash":"33c467574469e473e5da175609795052",
+    "wof:hierarchy":[],
+    "wof:id":874105943,
+    "wof:lastmodified":1464311867,
+    "wof:name":"Video Depot",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -106.94255,
+    44.773219,
+    -106.94255,
+    44.773219
+],
+  "geometry": {"coordinates":[-106.94255,44.773219],"type":"Point"}
+}

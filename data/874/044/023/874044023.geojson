@@ -1,0 +1,56 @@
+{
+  "id": 874044023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.068443,44.530134,-109.068443,44.530134",
+    "geom:latitude":44.530134,
+    "geom:longitude":-109.068443,
+    "iso:country":"US",
+    "sg:address":"1020 Glade Ct",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 3580",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s658Rnz5ULullG4I4Hh8B_44.530134_-109.068443@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311185,
+    "wof:geomhash":"b21e79845af785c75d0251a6502cc2c3",
+    "wof:hierarchy":[],
+    "wof:id":874044023,
+    "wof:lastmodified":1464311185,
+    "wof:name":"Machine Doctor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -109.068443,
+    44.530134,
+    -109.068443,
+    44.530134
+],
+  "geometry": {"coordinates":[-109.068443,44.530134],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874038351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.617313,41.315304,-105.617313,41.315304",
+    "geom:latitude":41.315304,
+    "geom:longitude":-105.617313,
+    "iso:country":"US",
+    "sg:address":"262 N Taylor St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3961",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6icck6NWbZ9oNbrmgQmPpO_41.315304_-105.617313@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311129,
+    "wof:geomhash":"49345ba4765ad0e97f4619955a4039a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874038351
+        }
+    ],
+    "wof:id":874038351,
+    "wof:lastmodified":1464311129,
+    "wof:name":"Larry Ferguson",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -105.617313,
+    41.315304,
+    -105.617313,
+    41.315304
+],
+  "geometry": {"coordinates":[-105.617313,41.315304],"type":"Point"}
+}

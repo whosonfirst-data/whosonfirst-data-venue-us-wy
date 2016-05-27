@@ -1,0 +1,73 @@
+{
+  "id": 874070657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.322406,42.848999,-106.322406,42.848999",
+    "geom:latitude":42.848999,
+    "geom:longitude":-106.322406,
+    "iso:country":"US",
+    "sg:address":"120 S Durbin St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3222",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "s",
+        "management",
+        "consulting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VVdVbPFOOgpGdLqrgMFGI_42.848999_-106.322406@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311437,
+    "wof:geomhash":"bae2f5d06c612ccf2bb41957e153c4c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874070657
+        }
+    ],
+    "wof:id":874070657,
+    "wof:lastmodified":1464311437,
+    "wof:name":"US Bank",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "s",
+        "management",
+        "consulting"
+    ]
+},
+  "bbox": [
+    -106.322406,
+    42.848999,
+    -106.322406,
+    42.848999
+],
+  "geometry": {"coordinates":[-106.322406,42.848999],"type":"Point"}
+}

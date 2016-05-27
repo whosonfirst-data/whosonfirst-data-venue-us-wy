@@ -1,0 +1,66 @@
+{
+  "id": 874110451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593196,41.314126,-105.593196,41.314126",
+    "geom:latitude":41.314126,
+    "geom:longitude":-105.593196,
+    "iso:country":"US",
+    "sg:address":"269 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 5050",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VtWe25JDTPd9STSFJ9luC_41.314126_-105.593196@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311928,
+    "wof:geomhash":"d44ceb4a432056d8ae4b717628ae2bfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874110451
+        }
+    ],
+    "wof:id":874110451,
+    "wof:lastmodified":1464311928,
+    "wof:name":"T & T Motor Sports",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.593196,
+    41.314126,
+    -105.593196,
+    41.314126
+],
+  "geometry": {"coordinates":[-105.59319600000001,41.314126],"type":"Point"}
+}

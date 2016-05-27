@@ -1,0 +1,66 @@
+{
+  "id": 874102315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.564858,41.308611,-105.564858,41.308611",
+    "geom:latitude":41.308611,
+    "geom:longitude":-105.564858,
+    "iso:country":"US",
+    "sg:address":"2203 E Garfield St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3781",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bjQa5wNewuGfDofa9REXe_41.308611_-105.564858@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311822,
+    "wof:geomhash":"73a54882275f5563a1b6470aac8db622",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874102315
+        }
+    ],
+    "wof:id":874102315,
+    "wof:lastmodified":1464311822,
+    "wof:name":"Hair Loft Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.564858,
+    41.308611,
+    -105.564858,
+    41.308611
+],
+  "geometry": {"coordinates":[-105.564858,41.308611],"type":"Point"}
+}

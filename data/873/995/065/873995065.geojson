@@ -1,0 +1,64 @@
+{
+  "id": 873995065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.28373,42.835539,-106.28373,42.835539",
+    "geom:latitude":42.835539,
+    "geom:longitude":-106.28373,
+    "iso:country":"US",
+    "sg:address":"3201 E 15th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 4545",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dKvSITsbmA4efoXI4qulE_42.835539_-106.283730@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310726,
+    "wof:geomhash":"50af7da27961dcdf486435789d0148f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873995065
+        }
+    ],
+    "wof:id":873995065,
+    "wof:lastmodified":1464310726,
+    "wof:name":"Manor Heights Elementary Schl",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.28373,
+    42.835539,
+    -106.28373,
+    42.835539
+],
+  "geometry": {"coordinates":[-106.28373000000001,42.835539],"type":"Point"}
+}

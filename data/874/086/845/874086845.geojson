@@ -1,0 +1,66 @@
+{
+  "id": 874086845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590949,41.292079,-105.590949,41.292079",
+    "geom:latitude":41.292079,
+    "geom:longitude":-105.590949,
+    "iso:country":"US",
+    "sg:address":"610 Skyline Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7341",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ftnn5B4du11h1yTUdeL3j_41.292079_-105.590949@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311629,
+    "wof:geomhash":"ef535b869b0a4becb6caf42bb6f7fc95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874086845
+        }
+    ],
+    "wof:id":874086845,
+    "wof:lastmodified":1464311629,
+    "wof:name":"Alpine Animal Hospital Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.590949,
+    41.292079,
+    -105.590949,
+    41.292079
+],
+  "geometry": {"coordinates":[-105.59094899999999,41.292079],"type":"Point"}
+}

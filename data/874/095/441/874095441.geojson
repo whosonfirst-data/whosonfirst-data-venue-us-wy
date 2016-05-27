@@ -1,0 +1,71 @@
+{
+  "id": 874095441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.59596,41.312181,-105.59596,41.312181",
+    "geom:latitude":41.312181,
+    "geom:longitude":-105.59596,
+    "iso:country":"US",
+    "sg:address":"111 E Ivinson Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4268",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a1VOcchRJPMDIQ8HG1uYH_41.312181_-105.595960@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311717,
+    "wof:geomhash":"719b8bdfed44ea5bbec65ac4425d08e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874095441
+        }
+    ],
+    "wof:id":874095441,
+    "wof:lastmodified":1464311717,
+    "wof:name":"Whole Earth Grainery",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -105.59596,
+    41.312181,
+    -105.59596,
+    41.312181
+],
+  "geometry": {"coordinates":[-105.59596000000001,41.312181],"type":"Point"}
+}

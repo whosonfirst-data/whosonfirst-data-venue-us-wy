@@ -1,0 +1,56 @@
+{
+  "id": 874081693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.358619,41.192906,-104.358619,41.192906",
+    "geom:latitude":41.192906,
+    "geom:longitude":-104.358619,
+    "iso:country":"US",
+    "sg:address":"102 E 1st St",
+    "sg:city":"Burns",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 547 2206",
+    "sg:postcode":"82053",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cRZ4ybMeJCLGHz1WPs1u5_41.192906_-104.358619@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311572,
+    "wof:geomhash":"59c286b7ecdf2a2f5137e1745ee309cf",
+    "wof:hierarchy":[],
+    "wof:id":874081693,
+    "wof:lastmodified":1464311572,
+    "wof:name":"Burns Town Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -104.358619,
+    41.192906,
+    -104.358619,
+    41.192906
+],
+  "geometry": {"coordinates":[-104.358619,41.192906],"type":"Point"}
+}

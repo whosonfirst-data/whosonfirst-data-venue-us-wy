@@ -1,0 +1,56 @@
+{
+  "id": 874157513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.367585,42.749663,-105.367585,42.749663",
+    "geom:latitude":42.749663,
+    "geom:longitude":-105.367585,
+    "iso:country":"US",
+    "sg:address":"811 Grant St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 5190",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lyAjXbtZOy5DyyJyBXoyI_42.749663_-105.367585@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312404,
+    "wof:geomhash":"6b4c33a64186e3df479f4bb7e3ceef42",
+    "wof:hierarchy":[],
+    "wof:id":874157513,
+    "wof:lastmodified":1464312404,
+    "wof:name":"Kent C Erickson DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -105.367585,
+    42.749663,
+    -105.367585,
+    42.749663
+],
+  "geometry": {"coordinates":[-105.36758500000001,42.749663],"type":"Point"}
+}

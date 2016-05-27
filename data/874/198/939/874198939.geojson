@@ -1,0 +1,58 @@
+{
+  "id": 874198939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.731478,42.823398,-108.731478,42.823398",
+    "geom:latitude":42.823398,
+    "geom:longitude":-108.731478,
+    "iso:country":"US",
+    "sg:address":"140 Wyoming St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 2998",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78p4eBI79CPjKL0BqxV1Xh_42.823398_-108.731478@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312834,
+    "wof:geomhash":"742bc0802e7015b17dcee3a80f30683e",
+    "wof:hierarchy":[],
+    "wof:id":874198939,
+    "wof:lastmodified":1464312834,
+    "wof:name":"Wind River Dialysis Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -108.731478,
+    42.823398,
+    -108.731478,
+    42.823398
+],
+  "geometry": {"coordinates":[-108.731478,42.823398],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 874142373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.57679,41.324315,-105.57679,41.324315",
+    "geom:latitude":41.324315,
+    "geom:longitude":-105.57679,
+    "iso:country":"US",
+    "sg:address":"1267 N 15th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 8362",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KcM7ZMws6o9aN3biW8fUs_41.324315_-105.576790@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312256,
+    "wof:geomhash":"d645f6407124f3fbe82d8f732e251d99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874142373
+        }
+    ],
+    "wof:id":874142373,
+    "wof:lastmodified":1464312256,
+    "wof:name":"Comcast Cable Advertising",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.57679,
+    41.324315,
+    -105.57679,
+    41.324315
+],
+  "geometry": {"coordinates":[-105.57679,41.324315],"type":"Point"}
+}

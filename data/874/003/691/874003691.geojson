@@ -1,0 +1,56 @@
+{
+  "id": 874003691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.792371,41.151522,-104.792371,41.151522",
+    "geom:latitude":41.151522,
+    "geom:longitude":-104.792371,
+    "iso:country":"US",
+    "sg:address":"1919 Cheshire Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 5560",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OeuWpo9I9mkAXanZcLNGQ_41.151522_-104.792371@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310800,
+    "wof:geomhash":"5040e9fa999d009aa4571af1455e360c",
+    "wof:hierarchy":[],
+    "wof:id":874003691,
+    "wof:lastmodified":1464310800,
+    "wof:name":"Warren J Hickman DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -104.792371,
+    41.151522,
+    -104.792371,
+    41.151522
+],
+  "geometry": {"coordinates":[-104.792371,41.151522],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874185209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.417328,42.875458,-106.417328,42.875458",
+    "geom:latitude":42.875458,
+    "geom:longitude":-106.417328,
+    "iso:country":"US",
+    "sg:address":"2110 Pyrite Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1796",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D4xtZF4sDEw1ODBUjEJxQ_42.875458_-106.417328@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312693,
+    "wof:geomhash":"7e3de1f21a5dd395877f9fe7980443ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874185209
+        }
+    ],
+    "wof:id":874185209,
+    "wof:lastmodified":1464312693,
+    "wof:name":"Frank's Westates Svc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.417328,
+    42.875458,
+    -106.417328,
+    42.875458
+],
+  "geometry": {"coordinates":[-106.417328,42.875458],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874081711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.325277,42.858285,-106.325277,42.858285",
+    "geom:latitude":42.858285,
+    "geom:longitude":-106.325277,
+    "iso:country":"US",
+    "sg:address":"940 N Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 8176",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "establishment",
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DSQjlSsDarAwXqk2UPC6Y_42.858285_-106.325277@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311572,
+    "wof:geomhash":"584702b78536b7c755fc87441db6e17f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874081711
+        }
+    ],
+    "wof:id":874081711,
+    "wof:lastmodified":1464311572,
+    "wof:name":"Ziker Taxidermy Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "establishment",
+        "related"
+    ]
+},
+  "bbox": [
+    -106.325277,
+    42.858285,
+    -106.325277,
+    42.858285
+],
+  "geometry": {"coordinates":[-106.325277,42.858285],"type":"Point"}
+}

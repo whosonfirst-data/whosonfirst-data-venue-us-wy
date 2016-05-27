@@ -1,0 +1,56 @@
+{
+  "id": 874172581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.178502,43.861152,-104.178502,43.861152",
+    "geom:latitude":43.861152,
+    "geom:longitude":-104.178502,
+    "iso:country":"US",
+    "sg:address":"6 Mariposa Cir",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 4321",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "district"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VWqbnsvvOKlSNsfsfzy9X_43.861152_-104.178502@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312555,
+    "wof:geomhash":"95ec33eb013b3d373ef11ecbcae245c0",
+    "wof:hierarchy":[],
+    "wof:id":874172581,
+    "wof:lastmodified":1464312555,
+    "wof:name":"Sunset Ranch Water District",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "district"
+    ]
+},
+  "bbox": [
+    -104.178502,
+    43.861152,
+    -104.178502,
+    43.861152
+],
+  "geometry": {"coordinates":[-104.17850199999999,43.861152],"type":"Point"}
+}

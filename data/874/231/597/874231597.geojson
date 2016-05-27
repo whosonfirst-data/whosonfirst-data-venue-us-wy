@@ -1,0 +1,58 @@
+{
+  "id": 874231597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.957505,41.262957,-110.957505,41.262957",
+    "geom:latitude":41.262957,
+    "geom:longitude":-110.957505,
+    "iso:country":"US",
+    "sg:address":"212 Front St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/evanston/206570-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57Bp99fj9PS8IMElzTioxb_41.263396_-110.957959@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464313182,
+    "wof:geomhash":"7ef2e47ebeea3710a2c7cd0a0dc12d30",
+    "wof:hierarchy":[],
+    "wof:id":874231597,
+    "wof:lastmodified":1464313182,
+    "wof:name":"McDonald's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -110.957505,
+    41.262957,
+    -110.957505,
+    41.262957
+],
+  "geometry": {"coordinates":[-110.957505,41.262957],"type":"Point"}
+}

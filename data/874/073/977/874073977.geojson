@@ -1,0 +1,74 @@
+{
+  "id": 874073977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.379713,42.834437,-106.379713,42.834437",
+    "geom:latitude":42.834437,
+    "geom:longitude":-106.379713,
+    "iso:country":"US",
+    "sg:address":"1235 Chamberlain Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 1921",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p4MiRIFXlR5uUSg1BrSEC_42.834437_-106.379713@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311494,
+    "wof:geomhash":"cec7dc33000e16e8415febb78eac252d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874073977
+        }
+    ],
+    "wof:id":874073977,
+    "wof:lastmodified":1464311494,
+    "wof:name":"Brady Engineering Co Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -106.379713,
+    42.834437,
+    -106.379713,
+    42.834437
+],
+  "geometry": {"coordinates":[-106.379713,42.834437],"type":"Point"}
+}

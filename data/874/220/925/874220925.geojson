@@ -1,0 +1,71 @@
+{
+  "id": 874220925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.4078,42.81022,-106.4078,42.81022",
+    "geom:latitude":42.81022,
+    "geom:longitude":-106.4078,
+    "iso:country":"US",
+    "sg:address":"1 Sequoia Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 6229",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VsTtF5Nr2eDKmUCL0HomI_42.810220_-106.407800@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313074,
+    "wof:geomhash":"cf6a16673ee0c6b55d0e9b4a22a7d25a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874220925
+        }
+    ],
+    "wof:id":874220925,
+    "wof:lastmodified":1464313074,
+    "wof:name":"Hidden Hills",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -106.4078,
+    42.81022,
+    -106.4078,
+    42.81022
+],
+  "geometry": {"coordinates":[-106.40779999999999,42.81022],"type":"Point"}
+}

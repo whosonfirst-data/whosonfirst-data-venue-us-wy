@@ -1,0 +1,71 @@
+{
+  "id": 874028499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.338069,42.813778,-106.338069,42.813778",
+    "geom:latitude":42.813778,
+    "geom:longitude":-106.338069,
+    "iso:country":"US",
+    "sg:address":"1153 Horizon Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 3327",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OiNFIOGSSiYoNgGLPhY0i_42.813778_-106.338069@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311029,
+    "wof:geomhash":"4401e33aac9cebb6d91b6c7e3a0e70b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874028499
+        }
+    ],
+    "wof:id":874028499,
+    "wof:lastmodified":1464311029,
+    "wof:name":"Computing Resources Co",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -106.338069,
+    42.813778,
+    -106.338069,
+    42.813778
+],
+  "geometry": {"coordinates":[-106.338069,42.813778],"type":"Point"}
+}

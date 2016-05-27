@@ -1,0 +1,69 @@
+{
+  "id": 873992677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.337207,42.824775,-106.337207,42.824775",
+    "geom:latitude":42.824775,
+    "geom:longitude":-106.337207,
+    "iso:country":"US",
+    "sg:address":"1025 W 25th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1031",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RxkvblsHTQFCJy5PV0FBW_42.824775_-106.337207@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310709,
+    "wof:geomhash":"b37e2352bcc3de7181637a00b0cb1bc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873992677
+        }
+    ],
+    "wof:id":873992677,
+    "wof:lastmodified":1464310709,
+    "wof:name":"Shoshone Mini Warehouse",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -106.337207,
+    42.824775,
+    -106.337207,
+    42.824775
+],
+  "geometry": {"coordinates":[-106.33720700000001,42.824775],"type":"Point"}
+}

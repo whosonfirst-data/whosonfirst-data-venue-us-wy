@@ -1,0 +1,58 @@
+{
+  "id": 874218893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.751566,44.385309,-106.751566,44.385309",
+    "geom:latitude":44.385309,
+    "geom:longitude":-106.751566,
+    "iso:country":"US",
+    "sg:address":"12 Cloud Peak Dr",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 9419",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "organization",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nJUl57aed8iSqyvBZsSeI_44.385309_-106.751566@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313043,
+    "wof:geomhash":"42cbe18f58b16461bc8445be85599552",
+    "wof:hierarchy":[],
+    "wof:id":874218893,
+    "wof:lastmodified":1464313043,
+    "wof:name":"American Bowling Congress Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "membership"
+    ]
+},
+  "bbox": [
+    -106.751566,
+    44.385309,
+    -106.751566,
+    44.385309
+],
+  "geometry": {"coordinates":[-106.751566,44.385309],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874082947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.391828,42.84371,-106.391828,42.84371",
+    "geom:latitude":42.84371,
+    "geom:longitude":-106.391828,
+    "iso:country":"US",
+    "sg:address":"663 S 4th Ave",
+    "sg:city":"Mills",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 4343",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil",
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nODrDIC08wDYjeHAA8t8W_42.843710_-106.391828@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311589,
+    "wof:geomhash":"a6f996c1f9ffc5430699c4f11a34bb4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874082947
+        }
+    ],
+    "wof:id":874082947,
+    "wof:lastmodified":1464311589,
+    "wof:name":"M K Hotshot",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil",
+        "hauling"
+    ]
+},
+  "bbox": [
+    -106.391828,
+    42.84371,
+    -106.391828,
+    42.84371
+],
+  "geometry": {"coordinates":[-106.391828,42.84371],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874205481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.797488,41.145926,-104.797488,41.145926",
+    "geom:latitude":41.145926,
+    "geom:longitude":-104.797488,
+    "iso:country":"US",
+    "sg:address":"1710 E Pershing Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 777 7922",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ReINFQmqT6fgrCcyl7BkW_41.145926_-104.797488@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312899,
+    "wof:geomhash":"523736d1cffe0de430fefc1a97768c38",
+    "wof:hierarchy":[],
+    "wof:id":874205481,
+    "wof:lastmodified":1464312899,
+    "wof:name":"Cheyenne Social Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -104.797488,
+    41.145926,
+    -104.797488,
+    41.145926
+],
+  "geometry": {"coordinates":[-104.797488,41.145926],"type":"Point"}
+}

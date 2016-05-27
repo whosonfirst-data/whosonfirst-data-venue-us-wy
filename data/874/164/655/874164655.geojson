@@ -1,0 +1,71 @@
+{
+  "id": 874164655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591018,41.292081,-105.591018,41.292081",
+    "geom:latitude":41.292081,
+    "geom:longitude":-105.591018,
+    "iso:country":"US",
+    "sg:address":"602 Skyline Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 8814",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Letrjd0TqJ4iP7bOanp4M_41.292081_-105.591018@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312475,
+    "wof:geomhash":"77df96c2a87bdebc8ab510736b7e4ec2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874164655
+        }
+    ],
+    "wof:id":874164655,
+    "wof:lastmodified":1464312475,
+    "wof:name":"Roto-Rooter",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.591018,
+    41.292081,
+    -105.591018,
+    41.292081
+],
+  "geometry": {"coordinates":[-105.59101800000001,41.292081],"type":"Point"}
+}

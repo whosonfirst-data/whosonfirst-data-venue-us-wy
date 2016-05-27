@@ -1,0 +1,60 @@
+{
+  "id": 874223963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.786631,41.145096,-104.786631,41.145096",
+    "geom:latitude":41.145096,
+    "geom:longitude":-104.786631,
+    "iso:country":"US",
+    "sg:address":"2520 Deming Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 631 5146",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "small",
+        "residential",
+        "build"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mZJZEckuFHk4g4ndRKwby_41.145096_-104.786631@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313102,
+    "wof:geomhash":"dc6c87985846e0b670bf58aa646a1370",
+    "wof:hierarchy":[],
+    "wof:id":874223963,
+    "wof:lastmodified":1464313102,
+    "wof:name":"Resource Custom Builders",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "small",
+        "residential",
+        "build"
+    ]
+},
+  "bbox": [
+    -104.786631,
+    41.145096,
+    -104.786631,
+    41.145096
+],
+  "geometry": {"coordinates":[-104.786631,41.145096],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874157291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.466354,41.524289,-109.466354,41.524289",
+    "geom:latitude":41.524289,
+    "geom:longitude":-109.466354,
+    "iso:country":"US",
+    "sg:address":"350 E 2nd S",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 6060",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HgBr4YyH3RvrvcDK13B38_41.524289_-109.466354@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312401,
+    "wof:geomhash":"a8f1c8fd819480622406b6a7c4de81b5",
+    "wof:hierarchy":[],
+    "wof:id":874157291,
+    "wof:lastmodified":1464312401,
+    "wof:name":"Southside Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -109.466354,
+    41.524289,
+    -109.466354,
+    41.524289
+],
+  "geometry": {"coordinates":[-109.466354,41.524289],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873985741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.353301,42.818072,-106.353301,42.818072",
+    "geom:latitude":42.818072,
+    "geom:longitude":-106.353301,
+    "iso:country":"US",
+    "sg:address":"3250 Ridgecrest Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 5205",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant",
+        "computer",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gq3EZfHGAOrSfTot8zwdQ_42.818072_-106.353301@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310655,
+    "wof:geomhash":"04cf46c0bf7429e28f7dfd9d54459df5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873985741
+        }
+    ],
+    "wof:id":873985741,
+    "wof:lastmodified":1464310655,
+    "wof:name":"Walker & Associates",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "computer",
+        "system"
+    ]
+},
+  "bbox": [
+    -106.353301,
+    42.818072,
+    -106.353301,
+    42.818072
+],
+  "geometry": {"coordinates":[-106.353301,42.818072],"type":"Point"}
+}

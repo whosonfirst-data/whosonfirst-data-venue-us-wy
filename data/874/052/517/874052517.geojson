@@ -1,0 +1,73 @@
+{
+  "id": 874052517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.529894,41.3023,-105.529894,41.3023",
+    "geom:latitude":41.3023,
+    "geom:longitude":-105.529894,
+    "iso:country":"US",
+    "sg:address":"1517 S Hackney Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2115",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L5bkMXOkIS9gvPNEWV7DF_41.302300_-105.529894@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311264,
+    "wof:geomhash":"a77d0c714346872a997aed3a1900cadc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874052517
+        }
+    ],
+    "wof:id":874052517,
+    "wof:lastmodified":1464311264,
+    "wof:name":"Form Master Construction",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.529894,
+    41.3023,
+    -105.529894,
+    41.3023
+],
+  "geometry": {"coordinates":[-105.529894,41.3023],"type":"Point"}
+}

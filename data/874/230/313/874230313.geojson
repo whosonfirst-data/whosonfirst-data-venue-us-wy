@@ -1,0 +1,66 @@
+{
+  "id": 874230313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.787864,43.470271,-110.787864,43.470271",
+    "geom:latitude":43.470271,
+    "geom:longitude":-110.787864,
+    "iso:country":"US",
+    "sg:address":"1110 Maple Way",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/jackson-hole/236546-hard-drive-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 5282",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WlyJPqCRR0M4xVnfo3K18_43.470271_-110.787864@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313163,
+    "wof:geomhash":"cf27aa5ccfc7570ca8ac78d109a3e36a",
+    "wof:hierarchy":[],
+    "wof:id":874230313,
+    "wof:lastmodified":1464313163,
+    "wof:name":"Cafe Boheme",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -110.787864,
+    43.470271,
+    -110.787864,
+    43.470271
+],
+  "geometry": {"coordinates":[-110.787864,43.470271],"type":"Point"}
+}

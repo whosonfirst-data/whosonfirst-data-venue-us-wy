@@ -1,0 +1,58 @@
+{
+  "id": 874116269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.76507,43.484226,-110.76507,43.484226",
+    "geom:latitude":43.484226,
+    "geom:longitude":-110.76507,
+    "iso:country":"US",
+    "sg:address":"360 N Millward St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 734 8022",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09kDQKY1wY1qAQRbmAIVgb_43.484226_-110.765070@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311999,
+    "wof:geomhash":"98862375641ccc7516344a891caac99f",
+    "wof:hierarchy":[],
+    "wof:id":874116269,
+    "wof:lastmodified":1464311999,
+    "wof:name":"RAD Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -110.76507,
+    43.484226,
+    -110.76507,
+    43.484226
+],
+  "geometry": {"coordinates":[-110.76506999999999,43.484226],"type":"Point"}
+}

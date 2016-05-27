@@ -1,0 +1,69 @@
+{
+  "id": 874070081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.300811,42.854456,-106.300811,42.854456",
+    "geom:latitude":42.854456,
+    "geom:longitude":-106.300811,
+    "iso:country":"US",
+    "sg:address":"531 N Lowell St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1445",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OWzXEDRfHO7b6Qi0eOgGG_42.854456_-106.300811@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311432,
+    "wof:geomhash":"fa052cb8e6be3fae0920e164b4061b6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874070081
+        }
+    ],
+    "wof:id":874070081,
+    "wof:lastmodified":1464311432,
+    "wof:name":"Alerin Management Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -106.300811,
+    42.854456,
+    -106.300811,
+    42.854456
+],
+  "geometry": {"coordinates":[-106.300811,42.854456],"type":"Point"}
+}

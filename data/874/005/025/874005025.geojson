@@ -1,0 +1,58 @@
+{
+  "id": 874005025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.800978,41.163379,-104.800978,41.163379",
+    "geom:latitude":41.163379,
+    "geom:longitude":-104.800978,
+    "iso:country":"US",
+    "sg:address":"1331 Prairie Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 4617",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hIVTEEwqJtGgojtUJt3sT_41.163379_-104.800978@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310814,
+    "wof:geomhash":"c67a249ee1eccc5d6fb8415c93b993b7",
+    "wof:hierarchy":[],
+    "wof:id":874005025,
+    "wof:lastmodified":1464310814,
+    "wof:name":"Hands On Physical Therapy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -104.800978,
+    41.163379,
+    -104.800978,
+    41.163379
+],
+  "geometry": {"coordinates":[-104.800978,41.163379],"type":"Point"}
+}

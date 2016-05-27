@@ -1,0 +1,58 @@
+{
+  "id": 874154603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.040224,44.515269,-109.040224,44.515269",
+    "geom:latitude":44.515269,
+    "geom:longitude":-109.040224,
+    "iso:country":"US",
+    "sg:address":"2407 Mountain View Dr",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 2910",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TnHgeL8GFGO525QlHBnsm_44.515269_-109.040224@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312373,
+    "wof:geomhash":"0cc32fb3c4416fd8e04d8a41a936cd28",
+    "wof:hierarchy":[],
+    "wof:id":874154603,
+    "wof:lastmodified":1464312373,
+    "wof:name":"Nielsen Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.040224,
+    44.515269,
+    -109.040224,
+    44.515269
+],
+  "geometry": {"coordinates":[-109.04022399999999,44.515269],"type":"Point"}
+}

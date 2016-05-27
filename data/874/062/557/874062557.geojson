@@ -1,0 +1,56 @@
+{
+  "id": 874062557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.22124,41.798739,-107.22124,41.798739",
+    "geom:latitude":41.798739,
+    "geom:longitude":-107.22124,
+    "iso:country":"US",
+    "sg:address":"1425 E Murray St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 5007",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d7PBblvG3yh3IaHErmON1_41.798739_-107.221240@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311358,
+    "wof:geomhash":"5cc499ccb33d169838779fecac3abded",
+    "wof:hierarchy":[],
+    "wof:id":874062557,
+    "wof:lastmodified":1464311358,
+    "wof:name":"Whiteass Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -107.22124,
+    41.798739,
+    -107.22124,
+    41.798739
+],
+  "geometry": {"coordinates":[-107.22123999999999,41.798739],"type":"Point"}
+}

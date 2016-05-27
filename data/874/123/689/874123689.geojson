@@ -1,0 +1,56 @@
+{
+  "id": 874123689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.812236,41.454704,-106.812236,41.454704",
+    "geom:latitude":41.454704,
+    "geom:longitude":-106.812236,
+    "iso:country":"US",
+    "sg:address":"303 W Bridge Ave",
+    "sg:city":"Saratoga",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 326 5337",
+    "sg:postcode":"82331",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XIv0QLurYM81AbKt9ja05_41.454704_-106.812236@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312074,
+    "wof:geomhash":"a02f020f66d21b1455aee11c058c3626",
+    "wof:hierarchy":[],
+    "wof:id":874123689,
+    "wof:lastmodified":1464312074,
+    "wof:name":"Saratoga Presbyterian Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -106.812236,
+    41.454704,
+    -106.812236,
+    41.454704
+],
+  "geometry": {"coordinates":[-106.812236,41.454704],"type":"Point"}
+}

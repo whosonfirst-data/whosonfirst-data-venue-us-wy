@@ -1,0 +1,66 @@
+{
+  "id": 874021817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595212,41.30903,-105.595212,41.30903",
+    "geom:latitude":41.30903,
+    "geom:longitude":-105.595212,
+    "iso:country":"US",
+    "sg:address":"520 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8548",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28okXTVc28TXHMhxICf0cy_41.309030_-105.595212@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310963,
+    "wof:geomhash":"674d3f67b25beab2fa85e03852d994eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874021817
+        }
+    ],
+    "wof:id":874021817,
+    "wof:lastmodified":1464310963,
+    "wof:name":"Clure Brothers Furniture",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.595212,
+    41.30903,
+    -105.595212,
+    41.30903
+],
+  "geometry": {"coordinates":[-105.595212,41.30903],"type":"Point"}
+}

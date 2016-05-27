@@ -1,0 +1,59 @@
+{
+  "id": 874230009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955666,44.821527,-106.955666,44.821527",
+    "geom:latitude":44.821527,
+    "geom:longitude":-106.955666,
+    "iso:country":"US",
+    "sg:address":"2547 N Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/sheridan/67231-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 9041",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38C7ogvqvynnMHC8zC5P2C_44.821527_-106.955666@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313160,
+    "wof:geomhash":"2ed6d7b5301623a30e9ee31be1e1387c",
+    "wof:hierarchy":[],
+    "wof:id":874230009,
+    "wof:lastmodified":1464313160,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -106.955666,
+    44.821527,
+    -106.955666,
+    44.821527
+],
+  "geometry": {"coordinates":[-106.95566599999999,44.821527],"type":"Point"}
+}

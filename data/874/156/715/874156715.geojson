@@ -1,0 +1,58 @@
+{
+  "id": 874156715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.042035,44.533494,-109.042035,44.533494",
+    "geom:latitude":44.533494,
+    "geom:longitude":-109.042035,
+    "iso:country":"US",
+    "sg:address":"2425 Big Horn Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 0055",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "windshield",
+        "installation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WlTTcNbfEIAteR9bdVIe0_44.533494_-109.042035@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312396,
+    "wof:geomhash":"1837cc69280070a9f3c34fd406ee75a0",
+    "wof:hierarchy":[],
+    "wof:id":874156715,
+    "wof:lastmodified":1464312396,
+    "wof:name":"Windshields of Wyoming LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windshield",
+        "installation"
+    ]
+},
+  "bbox": [
+    -109.042035,
+    44.533494,
+    -109.042035,
+    44.533494
+],
+  "geometry": {"coordinates":[-109.042035,44.533494],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874122299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594904,41.311086,-105.594904,41.311086",
+    "geom:latitude":41.311086,
+    "geom:longitude":-105.594904,
+    "iso:country":"US",
+    "sg:address":"305 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3682",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZTF8BnBRwCYXktNlz4evS_41.311086_-105.594904@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312061,
+    "wof:geomhash":"44d5eee312b99224b5fb5a94b0117507",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874122299
+        }
+    ],
+    "wof:id":874122299,
+    "wof:lastmodified":1464312061,
+    "wof:name":"Optical Fashions Of Wyoming",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -105.594904,
+    41.311086,
+    -105.594904,
+    41.311086
+],
+  "geometry": {"coordinates":[-105.594904,41.311086],"type":"Point"}
+}

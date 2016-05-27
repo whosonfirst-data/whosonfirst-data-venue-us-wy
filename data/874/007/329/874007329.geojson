@@ -1,0 +1,56 @@
+{
+  "id": 874007329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.46774,41.529001,-109.46774,41.529001",
+    "geom:latitude":41.529001,
+    "geom:longitude":-109.46774,
+    "iso:country":"US",
+    "sg:address":"27 N Center St",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 9600",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YIERv4bodbTm4iH0rU1PY_41.529001_-109.467740@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310835,
+    "wof:geomhash":"f74dedd5b3f464e5a3662a7c03edcd91",
+    "wof:hierarchy":[],
+    "wof:id":874007329,
+    "wof:lastmodified":1464310835,
+    "wof:name":"Food Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "social"
+    ]
+},
+  "bbox": [
+    -109.46774,
+    41.529001,
+    -109.46774,
+    41.529001
+],
+  "geometry": {"coordinates":[-109.46774000000001,41.529001],"type":"Point"}
+}

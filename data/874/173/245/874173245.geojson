@@ -1,0 +1,84 @@
+{
+  "id": 874173245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.398102,42.844286,-106.398102,42.844286",
+    "geom:latitude":42.844286,
+    "geom:longitude":-106.398102,
+    "iso:country":"US",
+    "sg:address":"5700 Poison Spider Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 7522",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "sign",
+        "traffic",
+        "safety",
+        "signal",
+        "highway"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UkH9cSl9hpN6kNgPy7RGi_42.844286_-106.398102@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312560,
+    "wof:geomhash":"a9cfb0c2095410619c0ae3e629ef5d8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874173245
+        }
+    ],
+    "wof:id":874173245,
+    "wof:lastmodified":1464312560,
+    "wof:name":"Keyhole Technologies LLC",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sign",
+        "traffic",
+        "safety",
+        "signal",
+        "highway"
+    ]
+},
+  "bbox": [
+    -106.398102,
+    42.844286,
+    -106.398102,
+    42.844286
+],
+  "geometry": {"coordinates":[-106.39810199999999,42.844286],"type":"Point"}
+}

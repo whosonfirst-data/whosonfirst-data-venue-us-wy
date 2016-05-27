@@ -1,0 +1,58 @@
+{
+  "id": 874095709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.4614,41.49707,-109.4614,41.49707",
+    "geom:latitude":41.49707,
+    "geom:longitude":-109.4614,
+    "iso:country":"US",
+    "sg:address":"190 Grand View Dr",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 7311",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AL1CAQCt14enDZ0oqCOkP_41.497070_-109.461400@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311721,
+    "wof:geomhash":"75ea38da471ee19c09dd8e9f40567449",
+    "wof:hierarchy":[],
+    "wof:id":874095709,
+    "wof:lastmodified":1464311721,
+    "wof:name":"Loc Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.4614,
+    41.49707,
+    -109.4614,
+    41.49707
+],
+  "geometry": {"coordinates":[-109.4614,41.49707],"type":"Point"}
+}

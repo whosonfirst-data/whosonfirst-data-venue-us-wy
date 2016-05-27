@@ -1,0 +1,51 @@
+{
+  "id": 874101299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.779249,43.47405,-110.779249,43.47405",
+    "geom:latitude":43.47405,
+    "geom:longitude":-110.779249,
+    "iso:country":"US",
+    "sg:address":"55 Virginian Ln",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 739 8516",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i7w0JJxUqETnO7U1n47cl_43.474050_-110.779249@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311809,
+    "wof:geomhash":"3059266c46b9771c5b64c74e90d3db2d",
+    "wof:hierarchy":[],
+    "wof:id":874101299,
+    "wof:lastmodified":1464311809,
+    "wof:name":"Virginian Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.779249,
+    43.47405,
+    -110.779249,
+    43.47405
+],
+  "geometry": {"coordinates":[-110.77924899999999,43.47405],"type":"Point"}
+}

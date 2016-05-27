@@ -1,0 +1,56 @@
+{
+  "id": 874099957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.433095,44.271386,-105.433095,44.271386",
+    "geom:latitude":44.271386,
+    "geom:longitude":-105.433095,
+    "iso:country":"US",
+    "sg:address":"2403 Sammye Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 7481",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GLZeLLWfpZyr9MaMImn9V_44.271386_-105.433095@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311792,
+    "wof:geomhash":"1c040b9a0ae03da447491a26d2597cdb",
+    "wof:hierarchy":[],
+    "wof:id":874099957,
+    "wof:lastmodified":1464311792,
+    "wof:name":"Speedy Delivery Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -105.433095,
+    44.271386,
+    -105.433095,
+    44.271386
+],
+  "geometry": {"coordinates":[-105.43309499999999,44.271386],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 873991587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.927334,44.800095,-106.927334,44.800095",
+    "geom:latitude":44.800095,
+    "geom:longitude":-106.927334,
+    "iso:country":"US",
+    "sg:address":"36 E Ridge Rd",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 5281",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2euA9Tba1qDKrpcDlDWJk6_44.800095_-106.927334@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310701,
+    "wof:geomhash":"7f7cbf00bf3355597a25949e103d0c05",
+    "wof:hierarchy":[],
+    "wof:id":873991587,
+    "wof:lastmodified":1464310701,
+    "wof:name":"Pert's Towing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -106.927334,
+    44.800095,
+    -106.927334,
+    44.800095
+],
+  "geometry": {"coordinates":[-106.927334,44.800095],"type":"Point"}
+}

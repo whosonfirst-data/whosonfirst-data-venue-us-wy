@@ -1,0 +1,60 @@
+{
+  "id": 874059805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.52362,44.29096,-105.52362,44.29096",
+    "geom:latitude":44.29096,
+    "geom:longitude":-105.52362,
+    "iso:country":"US",
+    "sg:address":"1300 W 4th St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 4900",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nrCiBMzAQJsLA2SaPGxhD_44.290960_-105.523620@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311334,
+    "wof:geomhash":"84704215ea1b71946750ab3ac26be6d3",
+    "wof:hierarchy":[],
+    "wof:id":874059805,
+    "wof:lastmodified":1464311334,
+    "wof:name":"ABC Pediatrics LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -105.52362,
+    44.29096,
+    -105.52362,
+    44.29096
+],
+  "geometry": {"coordinates":[-105.52361999999999,44.29096],"type":"Point"}
+}

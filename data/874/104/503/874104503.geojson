@@ -1,0 +1,58 @@
+{
+  "id": 874104503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.841774,41.122693,-104.841774,41.122693",
+    "geom:latitude":41.122693,
+    "geom:longitude":-104.841774,
+    "iso:country":"US",
+    "sg:address":"2310 W Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 1093",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DEQMoguNugKlQ0y7M8uxt_41.122693_-104.841774@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311850,
+    "wof:geomhash":"bf8758ddd73d774a991f6f007c19592e",
+    "wof:hierarchy":[],
+    "wof:id":874104503,
+    "wof:lastmodified":1464311850,
+    "wof:name":"Conoco",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -104.841774,
+    41.122693,
+    -104.841774,
+    41.122693
+],
+  "geometry": {"coordinates":[-104.841774,41.122693],"type":"Point"}
+}

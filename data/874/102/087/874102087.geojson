@@ -1,0 +1,60 @@
+{
+  "id": 874102087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.83325,41.091761,-110.83325,41.091761",
+    "geom:latitude":41.091761,
+    "geom:longitude":-110.83325,
+    "iso:country":"US",
+    "sg:address":"3301 Co Rd 165",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 4188",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dY1oI4tA4ya0u9hBHVsLM_41.091761_-110.833250@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311819,
+    "wof:geomhash":"63ae1bd52a00a2a26d47ed4b134df257",
+    "wof:hierarchy":[],
+    "wof:id":874102087,
+    "wof:lastmodified":1464311819,
+    "wof:name":"S Bar S Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -110.83325,
+    41.091761,
+    -110.83325,
+    41.091761
+],
+  "geometry": {"coordinates":[-110.83325000000001,41.091761],"type":"Point"}
+}

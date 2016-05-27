@@ -1,0 +1,71 @@
+{
+  "id": 874141303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.280761,42.827327,-106.280761,42.827327",
+    "geom:latitude":42.827327,
+    "geom:longitude":-106.280761,
+    "iso:country":"US",
+    "sg:address":"2212 Linda Vista Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 5966",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "control",
+        "weed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OntCL5zmwt3Somhq6mRpc_42.827327_-106.280761@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312246,
+    "wof:geomhash":"cde6571d1e7c0a1974811eeb0f84bc38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874141303
+        }
+    ],
+    "wof:id":874141303,
+    "wof:lastmodified":1464312246,
+    "wof:name":"Chemical Weed Control",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "weed"
+    ]
+},
+  "bbox": [
+    -106.280761,
+    42.827327,
+    -106.280761,
+    42.827327
+],
+  "geometry": {"coordinates":[-106.280761,42.827327],"type":"Point"}
+}

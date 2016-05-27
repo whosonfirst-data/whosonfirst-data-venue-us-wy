@@ -1,0 +1,64 @@
+{
+  "id": 874169987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.335425,42.836309,-106.335425,42.836309",
+    "geom:latitude":42.836309,
+    "geom:longitude":-106.335425,
+    "iso:country":"US",
+    "sg:address":"832 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 2915",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e8flLYMkxlsphjwFkhyL5_42.836309_-106.335425@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312526,
+    "wof:geomhash":"d80644fa9a4c90d0f6d9ffe82307a839",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874169987
+        }
+    ],
+    "wof:id":874169987,
+    "wof:lastmodified":1464312526,
+    "wof:name":"New Moon Cafe",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.335425,
+    42.836309,
+    -106.335425,
+    42.836309
+],
+  "geometry": {"coordinates":[-106.335425,42.836309],"type":"Point"}
+}

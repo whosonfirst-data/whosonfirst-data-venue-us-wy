@@ -1,0 +1,71 @@
+{
+  "id": 874084729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.583017,41.310252,-105.583017,41.310252",
+    "geom:latitude":41.310252,
+    "geom:longitude":-105.583017,
+    "iso:country":"US",
+    "sg:address":"315 S 11th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4704",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lz2mORoSWdgcr7nc3dySP_41.310252_-105.583017@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311607,
+    "wof:geomhash":"055a891903a63c7f59db8f340ef61d18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874084729
+        }
+    ],
+    "wof:id":874084729,
+    "wof:lastmodified":1464311607,
+    "wof:name":"Iriss House",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -105.583017,
+    41.310252,
+    -105.583017,
+    41.310252
+],
+  "geometry": {"coordinates":[-105.583017,41.310252],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874066121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.235796,41.57684,-109.235796,41.57684",
+    "geom:latitude":41.57684,
+    "geom:longitude":-109.235796,
+    "iso:country":"US",
+    "sg:address":"1315 Dewar Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 9767",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GruWU3EZpKrPB1gkEw5OV_41.576840_-109.235796@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311389,
+    "wof:geomhash":"96827d5bb8b777ccccfaf79e2cd56c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874066121
+        }
+    ],
+    "wof:id":874066121,
+    "wof:lastmodified":1464311389,
+    "wof:name":"Ogden's Carpet Outlets",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    -109.235796,
+    41.57684,
+    -109.235796,
+    41.57684
+],
+  "geometry": {"coordinates":[-109.23579599999999,41.57684],"type":"Point"}
+}

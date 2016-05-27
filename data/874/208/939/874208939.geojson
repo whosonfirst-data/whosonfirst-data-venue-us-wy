@@ -1,0 +1,56 @@
+{
+  "id": 874208939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.93388,44.778669,-106.93388,44.778669",
+    "geom:latitude":44.778669,
+    "geom:longitude":-106.93388,
+    "iso:country":"US",
+    "sg:address":"1755 Commercial Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 3199",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NcH9VfD5lerAG3Flu7bHO_44.778669_-106.933880@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312938,
+    "wof:geomhash":"15a400968bf8f2b02e7af118e2db0636",
+    "wof:hierarchy":[],
+    "wof:id":874208939,
+    "wof:lastmodified":1464312938,
+    "wof:name":"Hi Tech Transmissions Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -106.93388,
+    44.778669,
+    -106.93388,
+    44.778669
+],
+  "geometry": {"coordinates":[-106.93388,44.778669],"type":"Point"}
+}

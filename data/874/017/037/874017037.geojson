@@ -1,0 +1,73 @@
+{
+  "id": 874017037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.21438,41.793451,-107.21438,41.793451",
+    "geom:latitude":41.793451,
+    "geom:longitude":-107.21438,
+    "iso:country":"US",
+    "sg:address":"600 N Higley Blvd",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 3989",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102528131,
+        85688475,
+        102191575,
+        85633793,
+        101734107,
+        102081173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mo1euCdTG6nbDBKwQPay8_41.793451_-107.214380@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310913,
+    "wof:geomhash":"b3abd10f3b0c24a9cb510b6791dbfaaa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528131,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081173,
+            "locality_id":101734107,
+            "region_id":85688475,
+            "venue_id":874017037
+        }
+    ],
+    "wof:id":874017037,
+    "wof:lastmodified":1464310913,
+    "wof:name":"Daniel T Massey PC",
+    "wof:parent_id":102528131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -107.21438,
+    41.793451,
+    -107.21438,
+    41.793451
+],
+  "geometry": {"coordinates":[-107.21438000000001,41.793451],"type":"Point"}
+}

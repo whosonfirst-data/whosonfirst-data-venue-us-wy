@@ -1,0 +1,56 @@
+{
+  "id": 874051151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.492694,44.281732,-105.492694,44.281732",
+    "geom:latitude":44.281732,
+    "geom:longitude":-105.492694,
+    "iso:country":"US",
+    "sg:address":"906 Camel Dr",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 1103",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LKeCxOoyvSUukjaenUpCm_44.281732_-105.492694@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311251,
+    "wof:geomhash":"10b111cfe3dd0caab5b576039dad1b9d",
+    "wof:hierarchy":[],
+    "wof:id":874051151,
+    "wof:lastmodified":1464311251,
+    "wof:name":"Smith's Food & Drug Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -105.492694,
+    44.281732,
+    -105.492694,
+    44.281732
+],
+  "geometry": {"coordinates":[-105.492694,44.281732],"type":"Point"}
+}

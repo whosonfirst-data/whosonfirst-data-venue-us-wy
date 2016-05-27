@@ -1,0 +1,73 @@
+{
+  "id": 874097093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.604617,41.315167,-105.604617,41.315167",
+    "geom:latitude":41.315167,
+    "geom:longitude":-105.604617,
+    "iso:country":"US",
+    "sg:address":"429 State Hwy 230",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6553",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HVdDjhFARL8fJqGYf0aY1_41.315167_-105.604617@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311745,
+    "wof:geomhash":"67f021b2fd1e166de4db5586d08e9d07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874097093
+        }
+    ],
+    "wof:id":874097093,
+    "wof:lastmodified":1464311745,
+    "wof:name":"Westgate Mobile Home Park",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -105.604617,
+    41.315167,
+    -105.604617,
+    41.315167
+],
+  "geometry": {"coordinates":[-105.604617,41.315167],"type":"Point"}
+}

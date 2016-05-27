@@ -1,0 +1,51 @@
+{
+  "id": 874166687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.713052,44.378261,-106.713052,44.378261",
+    "geom:latitude":44.378261,
+    "geom:longitude":-106.713052,
+    "iso:country":"US",
+    "sg:address":"158 Airport Rd",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 9672",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gLfESHrG2I1UFCHSGtBoa_44.378261_-106.713052@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312495,
+    "wof:geomhash":"27fd1d893637d94d3d78d06e0cc17a9a",
+    "wof:hierarchy":[],
+    "wof:id":874166687,
+    "wof:lastmodified":1464312495,
+    "wof:name":"City of Buffalo Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.713052,
+    44.378261,
+    -106.713052,
+    44.378261
+],
+  "geometry": {"coordinates":[-106.713052,44.378261],"type":"Point"}
+}

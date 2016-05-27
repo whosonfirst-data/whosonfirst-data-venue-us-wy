@@ -1,0 +1,66 @@
+{
+  "id": 874154465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.583501,41.318797,-105.583501,41.318797",
+    "geom:latitude":41.318797,
+    "geom:longitude":-105.583501,
+    "iso:country":"US",
+    "sg:address":"765 N 10th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5616",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_379abFjQ1C7vAEoQbohqJu_41.318797_-105.583501@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312372,
+    "wof:geomhash":"91f81bf5a7717b7a45f726e79575e3b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874154465
+        }
+    ],
+    "wof:id":874154465,
+    "wof:lastmodified":1464312372,
+    "wof:name":"Falling Leaf Furnishings",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.583501,
+    41.318797,
+    -105.583501,
+    41.318797
+],
+  "geometry": {"coordinates":[-105.583501,41.318797],"type":"Point"}
+}

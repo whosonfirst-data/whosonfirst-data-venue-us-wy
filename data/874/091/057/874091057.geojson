@@ -1,0 +1,77 @@
+{
+  "id": 874091057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.221147,41.586987,-109.221147,41.586987",
+    "geom:latitude":41.586987,
+    "geom:longitude":-109.221147,
+    "iso:country":"US",
+    "sg:address":"457 N Front St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 7529",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "paint",
+        "game",
+        "ball"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CC4cSTdhi62xJwOY2RQfO_41.586987_-109.221147@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311676,
+    "wof:geomhash":"f8a4873cc633920987411859682a658c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874091057
+        }
+    ],
+    "wof:id":874091057,
+    "wof:lastmodified":1464311676,
+    "wof:name":"Weltz Paintball Supply",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "game",
+        "ball"
+    ]
+},
+  "bbox": [
+    -109.221147,
+    41.586987,
+    -109.221147,
+    41.586987
+],
+  "geometry": {"coordinates":[-109.221147,41.586987],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874026217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343855,42.809536,-106.343855,42.809536",
+    "geom:latitude":42.809536,
+    "geom:longitude":-106.343855,
+    "iso:country":"US",
+    "sg:address":"3990 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 5209",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UAwn0Q0fSGav8JYN8vVyA_42.809536_-106.343855@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311009,
+    "wof:geomhash":"872522e988c0dc3da0d288962936a7fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874026217
+        }
+    ],
+    "wof:id":874026217,
+    "wof:lastmodified":1464311009,
+    "wof:name":"Lanes Tobacco & Gifts",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.343855,
+    42.809536,
+    -106.343855,
+    42.809536
+],
+  "geometry": {"coordinates":[-106.343855,42.809536],"type":"Point"}
+}

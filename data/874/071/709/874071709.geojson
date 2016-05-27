@@ -1,0 +1,71 @@
+{
+  "id": 874071709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.341634,42.832286,-106.341634,42.832286",
+    "geom:latitude":42.832286,
+    "geom:longitude":-106.341634,
+    "iso:country":"US",
+    "sg:address":"1835 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 1322",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72tb2D8xyASGRoK0Sm8V96_42.832286_-106.341634@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311456,
+    "wof:geomhash":"f4293785dbe5168f11668ac03152720c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874071709
+        }
+    ],
+    "wof:id":874071709,
+    "wof:lastmodified":1464311456,
+    "wof:name":"Fast-Cash",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -106.341634,
+    42.832286,
+    -106.341634,
+    42.832286
+],
+  "geometry": {"coordinates":[-106.341634,42.832286],"type":"Point"}
+}

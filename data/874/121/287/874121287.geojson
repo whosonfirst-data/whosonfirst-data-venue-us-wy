@@ -1,0 +1,56 @@
+{
+  "id": 874121287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.503343,44.295967,-105.503343,44.295967",
+    "geom:latitude":44.295967,
+    "geom:longitude":-105.503343,
+    "iso:country":"US",
+    "sg:address":"104 E Railroad St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 3131",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aGX0sfGiMuZYEQVlGoQDx_44.295967_-105.503343@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312052,
+    "wof:geomhash":"89c8acd649a9241f62bc268f22b21349",
+    "wof:hierarchy":[],
+    "wof:id":874121287,
+    "wof:lastmodified":1464312052,
+    "wof:name":"Reynolds Transportation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -105.503343,
+    44.295967,
+    -105.503343,
+    44.295967
+],
+  "geometry": {"coordinates":[-105.503343,44.295967],"type":"Point"}
+}

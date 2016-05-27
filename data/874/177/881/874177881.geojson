@@ -1,0 +1,79 @@
+{
+  "id": 874177881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.615828,41.308568,-105.615828,41.308568",
+    "geom:latitude":41.308568,
+    "geom:longitude":-105.615828,
+    "iso:country":"US",
+    "sg:address":"430 S Adams St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 9014",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "automobile",
+        "repairing",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EKPXaIDQuiZizX3BI3uY1_41.308568_-105.615828@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312605,
+    "wof:geomhash":"cf899c398d080edc273fd5b6a9a2c525",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874177881
+        }
+    ],
+    "wof:id":874177881,
+    "wof:lastmodified":1464312605,
+    "wof:name":"Mike's Repair",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "automobile",
+        "repairing",
+        "general"
+    ]
+},
+  "bbox": [
+    -105.615828,
+    41.308568,
+    -105.615828,
+    41.308568
+],
+  "geometry": {"coordinates":[-105.61582799999999,41.308568],"type":"Point"}
+}

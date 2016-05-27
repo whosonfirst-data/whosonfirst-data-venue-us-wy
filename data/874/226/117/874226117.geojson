@@ -1,0 +1,67 @@
+{
+  "id": 874226117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.285483,42.846098,-106.285483,42.846098",
+    "geom:latitude":42.846098,
+    "geom:longitude":-106.285483,
+    "iso:country":"US",
+    "sg:address":"3025 E 4th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1825",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "farm",
+        "field",
+        "crop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H4duYdkEWNBgDraijnpIP_42.846098_-106.285483@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313122,
+    "wof:geomhash":"f4fb160267d90a015ed7027f123b5aac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874226117
+        }
+    ],
+    "wof:id":874226117,
+    "wof:lastmodified":1464313122,
+    "wof:name":"Franklin Stofflet",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "field",
+        "crop"
+    ]
+},
+  "bbox": [
+    -106.285483,
+    42.846098,
+    -106.285483,
+    42.846098
+],
+  "geometry": {"coordinates":[-106.285483,42.846098],"type":"Point"}
+}

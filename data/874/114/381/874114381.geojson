@@ -1,0 +1,79 @@
+{
+  "id": 874114381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.335678,42.861035,-106.335678,42.861035",
+    "geom:latitude":42.861035,
+    "geom:longitude":-106.335678,
+    "iso:country":"US",
+    "sg:address":"951 Werner Ct",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5333",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil",
+        "gas",
+        "trade"
+    ],
+    "sg:website":"www.pawyo.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iNgWaCiFwrwTmAMMGwJMV_42.861035_-106.335678@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311981,
+    "wof:geomhash":"cb220464853b8db10665aa49d0e36d97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874114381
+        }
+    ],
+    "wof:id":874114381,
+    "wof:lastmodified":1464311981,
+    "wof:name":"Petroleum Association Wyoming",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "gas",
+        "trade"
+    ]
+},
+  "bbox": [
+    -106.335678,
+    42.861035,
+    -106.335678,
+    42.861035
+],
+  "geometry": {"coordinates":[-106.335678,42.861035],"type":"Point"}
+}

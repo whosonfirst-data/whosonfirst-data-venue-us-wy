@@ -1,0 +1,69 @@
+{
+  "id": 874042775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.29788,42.83706,-106.29788,42.83706",
+    "geom:latitude":42.83706,
+    "geom:longitude":-106.29788,
+    "iso:country":"US",
+    "sg:address":"1303 S Beverly St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 8532",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QTp0N3nSOZyGL87B35DR1_42.837060_-106.297880@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311173,
+    "wof:geomhash":"e47c45e0b3eaad74afcb6ed7005fcbf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874042775
+        }
+    ],
+    "wof:id":874042775,
+    "wof:lastmodified":1464311173,
+    "wof:name":"Shell",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.29788,
+    42.83706,
+    -106.29788,
+    42.83706
+],
+  "geometry": {"coordinates":[-106.29788000000001,42.83706],"type":"Point"}
+}

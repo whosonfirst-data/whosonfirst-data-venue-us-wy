@@ -1,0 +1,56 @@
+{
+  "id": 874143935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.222581,43.646349,-108.222581,43.646349",
+    "geom:latitude":43.646349,
+    "geom:longitude":-108.222581,
+    "iso:country":"US",
+    "sg:address":"1232 Broadway St",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 3852",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v0QzhC7auwhC2DalpnI7o_43.646349_-108.222581@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312271,
+    "wof:geomhash":"7946aaa34896f5fb5dd8a62269f46b14",
+    "wof:hierarchy":[],
+    "wof:id":874143935,
+    "wof:lastmodified":1464312271,
+    "wof:name":"Bob's Upholstery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -108.222581,
+    43.646349,
+    -108.222581,
+    43.646349
+],
+  "geometry": {"coordinates":[-108.22258100000001,43.646349],"type":"Point"}
+}

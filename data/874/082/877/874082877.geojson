@@ -1,0 +1,79 @@
+{
+  "id": 874082877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.352354,42.81149,-106.352354,42.81149",
+    "geom:latitude":42.81149,
+    "geom:longitude":-106.352354,
+    "iso:country":"US",
+    "sg:address":"3961 Janel Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 3163",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mfg",
+        "house",
+        "construct",
+        "cabinet",
+        "wood",
+        "kitchen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59GK2yGMBXZlFOFcaiGFol_42.811490_-106.352354@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311588,
+    "wof:geomhash":"e394b2f02627ec8ec858ce7d8cfb4ac7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874082877
+        }
+    ],
+    "wof:id":874082877,
+    "wof:lastmodified":1464311588,
+    "wof:name":"Casper Mill & Fixture Company",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "house",
+        "construct",
+        "cabinet",
+        "wood",
+        "kitchen"
+    ]
+},
+  "bbox": [
+    -106.352354,
+    42.81149,
+    -106.352354,
+    42.81149
+],
+  "geometry": {"coordinates":[-106.35235400000001,42.81149],"type":"Point"}
+}

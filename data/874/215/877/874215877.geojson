@@ -1,0 +1,75 @@
+{
+  "id": 874215877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.308616,42.837099,-106.308616,42.837099",
+    "geom:latitude":42.837099,
+    "geom:longitude":-106.308616,
+    "iso:country":"US",
+    "sg:address":"1205 S Melrose St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 577 6340",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "marker",
+        "mfg",
+        "grave",
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76rWUjtwi6gfxXi2absmnc_42.837099_-106.308616@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313012,
+    "wof:geomhash":"c0dcdf7992d2459056a9a29121b17ab5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874215877
+        }
+    ],
+    "wof:id":874215877,
+    "wof:lastmodified":1464313012,
+    "wof:name":"Hoffman Memorials",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marker",
+        "mfg",
+        "grave",
+        "monument"
+    ]
+},
+  "bbox": [
+    -106.308616,
+    42.837099,
+    -106.308616,
+    42.837099
+],
+  "geometry": {"coordinates":[-106.308616,42.837099],"type":"Point"}
+}

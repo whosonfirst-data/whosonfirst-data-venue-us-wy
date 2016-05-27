@@ -1,0 +1,58 @@
+{
+  "id": 874110197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.525129,44.298411,-105.525129,44.298411",
+    "geom:latitude":44.298411,
+    "geom:longitude":-105.525129,
+    "iso:country":"US",
+    "sg:address":"507 Commercial Dr",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 1700",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_561p4qusWH0hmB0fhcFNk1_44.298411_-105.525129@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311923,
+    "wof:geomhash":"09f78758685734184cecd623056ffc4f",
+    "wof:hierarchy":[],
+    "wof:id":874110197,
+    "wof:lastmodified":1464311923,
+    "wof:name":"Gillette Self Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -105.525129,
+    44.298411,
+    -105.525129,
+    44.298411
+],
+  "geometry": {"coordinates":[-105.52512900000001,44.298411],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 874228285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.814099,41.135376,-104.814099,41.135376",
+    "geom:latitude":41.135376,
+    "geom:longitude":-104.814099,
+    "iso:country":"US",
+    "sg:address":"200 E 18th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/14580-driftwood-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 5304",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JBTPtLVmRu75xK8nNI4dP_41.135376_-104.814099@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313143,
+    "wof:geomhash":"50ccfe20ec3002a7668d5a10ac1a7b5f",
+    "wof:hierarchy":[],
+    "wof:id":874228285,
+    "wof:lastmodified":1464313143,
+    "wof:name":"Driftwood Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -104.814099,
+    41.135376,
+    -104.814099,
+    41.135376
+],
+  "geometry": {"coordinates":[-104.814099,41.135376],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874207181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.569722,41.326617,-105.569722,41.326617",
+    "geom:latitude":41.326617,
+    "geom:longitude":-105.569722,
+    "iso:country":"US",
+    "sg:address":"1685 N Edward Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 5917",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "engineering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T3HSnuR5fmLCEf4AbbZbw_41.326617_-105.569722@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312921,
+    "wof:geomhash":"28559130addcb1b100e2104e88a2bb9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874207181
+        }
+    ],
+    "wof:id":874207181,
+    "wof:lastmodified":1464312921,
+    "wof:name":"Joel Farber Consulting",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineering"
+    ]
+},
+  "bbox": [
+    -105.569722,
+    41.326617,
+    -105.569722,
+    41.326617
+],
+  "geometry": {"coordinates":[-105.569722,41.326617],"type":"Point"}
+}

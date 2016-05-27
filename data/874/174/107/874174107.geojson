@@ -1,0 +1,69 @@
+{
+  "id": 874174107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.315371,42.851987,-106.315371,42.851987",
+    "geom:latitude":42.851987,
+    "geom:longitude":-106.315371,
+    "iso:country":"US",
+    "sg:address":"352 N Lincoln St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 7090",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EyzX06xLYf0IRYQcUuzvO_42.851987_-106.315371@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312570,
+    "wof:geomhash":"fb268a6a3ecd608a1bb7de0ded620765",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874174107
+        }
+    ],
+    "wof:id":874174107,
+    "wof:lastmodified":1464312570,
+    "wof:name":"Professional Towing",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -106.315371,
+    42.851987,
+    -106.315371,
+    42.851987
+],
+  "geometry": {"coordinates":[-106.315371,42.851987],"type":"Point"}
+}

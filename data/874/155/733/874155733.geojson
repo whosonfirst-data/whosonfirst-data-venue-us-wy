@@ -1,0 +1,71 @@
+{
+  "id": 874155733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.412833,42.863268,-106.412833,42.863268",
+    "geom:latitude":42.863268,
+    "geom:longitude":-106.412833,
+    "iso:country":"US",
+    "sg:address":"5800 W Zero Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 7497",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "crude",
+        "pipeline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WPJUzhNqX6TL2dCMbAqVZ_42.863268_-106.412833@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312385,
+    "wof:geomhash":"b24c3037aa71374a09711480e89d3fc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874155733
+        }
+    ],
+    "wof:id":874155733,
+    "wof:lastmodified":1464312385,
+    "wof:name":"Platte Pipeline Co",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crude",
+        "pipeline"
+    ]
+},
+  "bbox": [
+    -106.412833,
+    42.863268,
+    -106.412833,
+    42.863268
+],
+  "geometry": {"coordinates":[-106.41283300000001,42.863268],"type":"Point"}
+}

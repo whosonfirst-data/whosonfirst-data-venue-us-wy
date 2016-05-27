@@ -1,0 +1,60 @@
+{
+  "id": 874131793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.788737,41.132095,-104.788737,41.132095",
+    "geom:latitude":41.132095,
+    "geom:longitude":-104.788737,
+    "iso:country":"US",
+    "sg:address":"616 Crook Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 8959",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OGcFr3QrwPH6DYvGIWs9L_41.132095_-104.788737@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312158,
+    "wof:geomhash":"540639ce7500c3ce06ffc68f180b5d60",
+    "wof:hierarchy":[],
+    "wof:id":874131793,
+    "wof:lastmodified":1464312158,
+    "wof:name":"U-Haul",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -104.788737,
+    41.132095,
+    -104.788737,
+    41.132095
+],
+  "geometry": {"coordinates":[-104.788737,41.132095],"type":"Point"}
+}

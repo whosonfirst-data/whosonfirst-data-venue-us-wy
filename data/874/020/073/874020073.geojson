@@ -1,0 +1,56 @@
+{
+  "id": 874020073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.828483,41.174688,-104.828483,41.174688",
+    "geom:latitude":41.174688,
+    "geom:longitude":-104.828483,
+    "iso:country":"US",
+    "sg:address":"5923 Yellowstone Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 8703",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6C5LcCN4SwKqjk8Ni8ffAW_41.174688_-104.828483@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310949,
+    "wof:geomhash":"4bebae006d3f5f3093dcfa42f87de39f",
+    "wof:hierarchy":[],
+    "wof:id":874020073,
+    "wof:lastmodified":1464310949,
+    "wof:name":"Stag Car Wash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -104.828483,
+    41.174688,
+    -104.828483,
+    41.174688
+],
+  "geometry": {"coordinates":[-104.82848300000001,41.174688],"type":"Point"}
+}

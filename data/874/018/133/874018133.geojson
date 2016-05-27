@@ -1,0 +1,69 @@
+{
+  "id": 874018133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.194893,42.888465,-106.194893,42.888465",
+    "geom:latitude":42.888465,
+    "geom:longitude":-106.194893,
+    "iso:country":"US",
+    "sg:address":"8000 E Easy St",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 6911",
+    "sg:postcode":"82636",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W6u8zSLhS7LKD5OlCpbZk_42.888465_-106.194893@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310929,
+    "wof:geomhash":"62c6c4bc0898b15ba20fe05f6352f4bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874018133
+        }
+    ],
+    "wof:id":874018133,
+    "wof:lastmodified":1464310929,
+    "wof:name":"Mobile Pet Care Clinic",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -106.194893,
+    42.888465,
+    -106.194893,
+    42.888465
+],
+  "geometry": {"coordinates":[-106.19489299999999,42.888465],"type":"Point"}
+}

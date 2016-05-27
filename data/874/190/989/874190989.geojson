@@ -1,0 +1,71 @@
+{
+  "id": 874190989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595151,41.308188,-105.595151,41.308188",
+    "geom:latitude":41.308188,
+    "geom:longitude":-105.595151,
+    "iso:country":"US",
+    "sg:address":"609 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 2535",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J8BEDspxTeveh8yX91S5S_41.308188_-105.595151@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312749,
+    "wof:geomhash":"58a520d7a1f4e08b8df2b544f8689d9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874190989
+        }
+    ],
+    "wof:id":874190989,
+    "wof:lastmodified":1464312749,
+    "wof:name":"Albany County WIC Program",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -105.595151,
+    41.308188,
+    -105.595151,
+    41.308188
+],
+  "geometry": {"coordinates":[-105.595151,41.308188],"type":"Point"}
+}

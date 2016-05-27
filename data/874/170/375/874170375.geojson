@@ -1,0 +1,71 @@
+{
+  "id": 874170375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.250551,43.410095,-106.250551,43.410095",
+    "geom:latitude":43.410095,
+    "geom:longitude":-106.250551,
+    "iso:country":"US",
+    "sg:address":"246 S Howard Ave",
+    "sg:city":"Midwest",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 437 6670",
+    "sg:postcode":"82635",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Nu8THAfdQigCtY8Wcg807_43.410095_-106.250551@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312530,
+    "wof:geomhash":"b54a50266af7b79054b0aff3eff3c7ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874170375
+        }
+    ],
+    "wof:id":874170375,
+    "wof:lastmodified":1464312530,
+    "wof:name":"Lock-Tite Anchor Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.250551,
+    43.410095,
+    -106.250551,
+    43.410095
+],
+  "geometry": {"coordinates":[-106.250551,43.410095],"type":"Point"}
+}

@@ -1,0 +1,51 @@
+{
+  "id": 874090069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.397667,43.024683,-108.397667,43.024683",
+    "geom:latitude":43.024683,
+    "geom:longitude":-108.397667,
+    "iso:country":"US",
+    "sg:address":"604 W Main St",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 8800",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YGxfwh7cWvbDI6EXZKnkX_43.024683_-108.397667@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311664,
+    "wof:geomhash":"7b20cecb1d6adb54da730d2bce481831",
+    "wof:hierarchy":[],
+    "wof:id":874090069,
+    "wof:lastmodified":1464311664,
+    "wof:name":"Main Street Chiropractic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.397667,
+    43.024683,
+    -108.397667,
+    43.024683
+],
+  "geometry": {"coordinates":[-108.397667,43.024683],"type":"Point"}
+}

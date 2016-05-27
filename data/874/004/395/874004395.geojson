@@ -1,0 +1,71 @@
+{
+  "id": 874004395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.597714,41.289634,-105.597714,41.289634",
+    "geom:latitude":41.289634,
+    "geom:longitude":-105.597714,
+    "iso:country":"US",
+    "sg:address":"2724 Fort Sanders Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 8068",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v31iYTuXhVncE2LY87mDZ_41.289634_-105.597714@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310808,
+    "wof:geomhash":"25d3825ea66013eda4e22eeb5bdecbe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874004395
+        }
+    ],
+    "wof:id":874004395,
+    "wof:lastmodified":1464310808,
+    "wof:name":"Ace Plowing",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -105.597714,
+    41.289634,
+    -105.597714,
+    41.289634
+],
+  "geometry": {"coordinates":[-105.597714,41.289634],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874140713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.633227,41.291713,-105.633227,41.291713",
+    "geom:latitude":41.291713,
+    "geom:longitude":-105.633227,
+    "iso:country":"US",
+    "sg:address":"2515 Chugwater Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 2990",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ib1mtalwCC04iiBXBKWwT_41.291713_-105.633227@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312240,
+    "wof:geomhash":"ef79597ce144cc08121bac9b8753f2e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874140713
+        }
+    ],
+    "wof:id":874140713,
+    "wof:lastmodified":1464312240,
+    "wof:name":"Caterings Of Laramie",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -105.633227,
+    41.291713,
+    -105.633227,
+    41.291713
+],
+  "geometry": {"coordinates":[-105.63322700000001,41.291713],"type":"Point"}
+}

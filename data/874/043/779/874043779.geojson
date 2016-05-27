@@ -1,0 +1,56 @@
+{
+  "id": 874043779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.772652,43.476583,-110.772652,43.476583",
+    "geom:latitude":43.476583,
+    "geom:longitude":-110.772652,
+    "iso:country":"US",
+    "sg:address":"610 W Broadway",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 732 2273",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37eq92ne9aqBVIXWgkFwCK_43.476583_-110.772652@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311183,
+    "wof:geomhash":"57a2d6c857f6bcbe0ceecd26f4c59662",
+    "wof:hierarchy":[],
+    "wof:id":874043779,
+    "wof:lastmodified":1464311183,
+    "wof:name":"Dentalcare Of Jackson Hole",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -110.772652,
+    43.476583,
+    -110.772652,
+    43.476583
+],
+  "geometry": {"coordinates":[-110.77265199999999,43.476583],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 874230073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.26175,41.576235,-109.26175,41.576235",
+    "geom:latitude":41.576235,
+    "geom:longitude":-109.26175,
+    "iso:country":"US",
+    "sg:address":"1679 Sunset Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/rock-springs-north/236555-rocky-mountain-noodle/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 7076",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Eo1IUqSNYpcJs97Bd0ktg_41.576235_-109.261750@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313161,
+    "wof:geomhash":"d684f49c35c86ed51daca3774e2b956c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874230073
+        }
+    ],
+    "wof:id":874230073,
+    "wof:lastmodified":1464313161,
+    "wof:name":"Rocky Mountain Noodle",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -109.26175,
+    41.576235,
+    -109.26175,
+    41.576235
+],
+  "geometry": {"coordinates":[-109.26175000000001,41.576235],"type":"Point"}
+}

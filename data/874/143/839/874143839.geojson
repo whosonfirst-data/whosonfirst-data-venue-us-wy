@@ -1,0 +1,62 @@
+{
+  "id": 874143839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.49092,44.256601,-105.49092,44.256601",
+    "geom:latitude":44.256601,
+    "geom:longitude":-105.49092,
+    "iso:country":"US",
+    "sg:address":"4202 Wigwam Blvd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 8265",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "taxi",
+        "bus",
+        "charter",
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ubYAbYHcSi9wUGV1osaZ3_44.256601_-105.490920@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312270,
+    "wof:geomhash":"6a2bfee84ce04a21dea25280f200d842",
+    "wof:hierarchy":[],
+    "wof:id":874143839,
+    "wof:lastmodified":1464312270,
+    "wof:name":"Yellow Chcker/Checker Couriers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxi",
+        "bus",
+        "charter",
+        "courier"
+    ]
+},
+  "bbox": [
+    -105.49092,
+    44.256601,
+    -105.49092,
+    44.256601
+],
+  "geometry": {"coordinates":[-105.49092,44.256601],"type":"Point"}
+}

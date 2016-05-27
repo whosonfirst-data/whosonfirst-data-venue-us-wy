@@ -1,0 +1,66 @@
+{
+  "id": 874139685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592675,41.319028,-105.592675,41.319028",
+    "geom:latitude":41.319028,
+    "geom:longitude":-105.592675,
+    "iso:country":"US",
+    "sg:address":"749 US Hwy 30",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7772",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iC7OiA4pCQr9PUGEtawc5_41.319028_-105.592675@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312232,
+    "wof:geomhash":"52d483dad2c1fd70f0fa01ea8f1129d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874139685
+        }
+    ],
+    "wof:id":874139685,
+    "wof:lastmodified":1464312232,
+    "wof:name":"Diamond Process Services",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.592675,
+    41.319028,
+    -105.592675,
+    41.319028
+],
+  "geometry": {"coordinates":[-105.592675,41.319028],"type":"Point"}
+}

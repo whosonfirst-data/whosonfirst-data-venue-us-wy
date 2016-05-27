@@ -1,0 +1,73 @@
+{
+  "id": 874129939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591288,41.319703,-105.591288,41.319703",
+    "geom:latitude":41.319703,
+    "geom:longitude":-105.591288,
+    "iso:country":"US",
+    "sg:address":"869 N 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 0069",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "internet",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c1KC2jN7iHcySxntZ0uSH_41.319703_-105.591288@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312135,
+    "wof:geomhash":"d1bf9923e4fe7c7be797d8c2c2bc92c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874129939
+        }
+    ],
+    "wof:id":874129939,
+    "wof:lastmodified":1464312135,
+    "wof:name":"Fiberpipe of Laramie",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet",
+        "provider"
+    ]
+},
+  "bbox": [
+    -105.591288,
+    41.319703,
+    -105.591288,
+    41.319703
+],
+  "geometry": {"coordinates":[-105.59128800000001,41.319703],"type":"Point"}
+}

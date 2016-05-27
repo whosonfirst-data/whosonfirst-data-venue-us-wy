@@ -1,0 +1,57 @@
+{
+  "id": 874228225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.768889,41.145669,-104.768889,41.145669",
+    "geom:latitude":41.145669,
+    "geom:longitude":-104.768889,
+    "iso:country":"US",
+    "sg:address":"3355 E Pershing Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/118395-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 1151",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RE2v3cF9aEL4CGOZ4gTtY_41.145669_-104.768889@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313143,
+    "wof:geomhash":"214ff051ac59a935de0c0f59679cca87",
+    "wof:hierarchy":[],
+    "wof:id":874228225,
+    "wof:lastmodified":1464313143,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -104.768889,
+    41.145669,
+    -104.768889,
+    41.145669
+],
+  "geometry": {"coordinates":[-104.768889,41.145669],"type":"Point"}
+}

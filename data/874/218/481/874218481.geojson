@@ -1,0 +1,56 @@
+{
+  "id": 874218481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.381586,44.405062,-104.381586,44.405062",
+    "geom:latitude":44.405062,
+    "geom:longitude":-104.381586,
+    "iso:country":"US",
+    "sg:address":"213 E Main St",
+    "sg:city":"Sundance",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 283 3459",
+    "sg:postcode":"82729",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O0292opOCda1IvRCYYezK_44.405062_-104.381586@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313037,
+    "wof:geomhash":"07c97c46e42611c4c6f5530aa2adc5af",
+    "wof:hierarchy":[],
+    "wof:id":874218481,
+    "wof:lastmodified":1464313037,
+    "wof:name":"Sundance City Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -104.381586,
+    44.405062,
+    -104.381586,
+    44.405062
+],
+  "geometry": {"coordinates":[-104.381586,44.405062],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874140081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.389242,43.030432,-108.389242,43.030432",
+    "geom:latitude":43.030432,
+    "geom:longitude":-108.389242,
+    "iso:country":"US",
+    "sg:address":"102 E Pershing Ave",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 851 5935",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YALOlyQHSBO1ctWHLuehr_43.030432_-108.389242@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312235,
+    "wof:geomhash":"792358e7f9c8eb28848910925714ca1c",
+    "wof:hierarchy":[],
+    "wof:id":874140081,
+    "wof:lastmodified":1464312235,
+    "wof:name":"Wind River Cool Cab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -108.389242,
+    43.030432,
+    -108.389242,
+    43.030432
+],
+  "geometry": {"coordinates":[-108.389242,43.030432],"type":"Point"}
+}

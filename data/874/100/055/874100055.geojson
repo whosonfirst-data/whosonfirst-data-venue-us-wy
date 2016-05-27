@@ -1,0 +1,56 @@
+{
+  "id": 874100055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.754261,44.752918,-108.754261,44.752918",
+    "geom:latitude":44.752918,
+    "geom:longitude":-108.754261,
+    "iso:country":"US",
+    "sg:address":"421 E 1st St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 3602",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PzRGsY434DkunOimYDHpK_44.752918_-108.754261@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311794,
+    "wof:geomhash":"333fa61239001fa2ff1f214e908838a0",
+    "wof:hierarchy":[],
+    "wof:id":874100055,
+    "wof:lastmodified":1464311794,
+    "wof:name":"Food Basket",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -108.754261,
+    44.752918,
+    -108.754261,
+    44.752918
+],
+  "geometry": {"coordinates":[-108.754261,44.752918],"type":"Point"}
+}

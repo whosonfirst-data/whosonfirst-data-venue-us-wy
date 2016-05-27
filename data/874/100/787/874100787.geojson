@@ -1,0 +1,69 @@
+{
+  "id": 874100787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.423084,42.877108,-106.423084,42.877108",
+    "geom:latitude":42.877108,
+    "geom:longitude":-106.423084,
+    "iso:country":"US",
+    "sg:address":"6756 W Uranium Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 8708",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repossessing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q0gbcrg4A58hXotNg3Ae2_42.877108_-106.423084@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311804,
+    "wof:geomhash":"76045d8d00c1a3ad4cf0f72c24f03752",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874100787
+        }
+    ],
+    "wof:id":874100787,
+    "wof:lastmodified":1464311804,
+    "wof:name":"Lenders Adjustment Svc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repossessing"
+    ]
+},
+  "bbox": [
+    -106.423084,
+    42.877108,
+    -106.423084,
+    42.877108
+],
+  "geometry": {"coordinates":[-106.423084,42.877108],"type":"Point"}
+}

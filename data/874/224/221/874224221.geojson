@@ -1,0 +1,56 @@
+{
+  "id": 874224221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.46609,41.5271,-109.46609,41.5271",
+    "geom:latitude":41.5271,
+    "geom:longitude":-109.46609,
+    "iso:country":"US",
+    "sg:address":"200 E Railroad Ave",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 8925",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0npNhXa1uOfeVcAsgXvXZp_41.527100_-109.466090@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313105,
+    "wof:geomhash":"9457cf259d514521a4f59582d8f74f80",
+    "wof:hierarchy":[],
+    "wof:id":874224221,
+    "wof:lastmodified":1464313105,
+    "wof:name":"Renzenberger Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line"
+    ]
+},
+  "bbox": [
+    -109.46609,
+    41.5271,
+    -109.46609,
+    41.5271
+],
+  "geometry": {"coordinates":[-109.46608999999999,41.5271],"type":"Point"}
+}

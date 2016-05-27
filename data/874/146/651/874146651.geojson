@@ -1,0 +1,73 @@
+{
+  "id": 874146651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.584978,41.33059,-105.584978,41.33059",
+    "geom:latitude":41.33059,
+    "geom:longitude":-105.584978,
+    "iso:country":"US",
+    "sg:address":"802 Mill St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7742",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41R4REypB5kklxJRO9YIEG_41.330590_-105.584978@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312299,
+    "wof:geomhash":"6f4931d74a35e69db60b8fc3f7ab1113",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874146651
+        }
+    ],
+    "wof:id":874146651,
+    "wof:lastmodified":1464312299,
+    "wof:name":"A 1 Storage",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -105.584978,
+    41.33059,
+    -105.584978,
+    41.33059
+],
+  "geometry": {"coordinates":[-105.58497800000001,41.33059],"type":"Point"}
+}

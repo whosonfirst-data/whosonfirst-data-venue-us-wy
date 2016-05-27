@@ -1,0 +1,65 @@
+{
+  "id": 874059537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.25969,42.84776,-106.25969,42.84776",
+    "geom:latitude":42.84776,
+    "geom:longitude":-106.25969,
+    "iso:country":"US",
+    "sg:address":"4900 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 6505",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:website":"www.homedepot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j00NmPTOqEZ9FkjVkpn0J_42.847760_-106.259690@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311331,
+    "wof:geomhash":"46b7672212b237b8142c95705cc0a8cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874059537
+        }
+    ],
+    "wof:id":874059537,
+    "wof:lastmodified":1464311331,
+    "wof:name":"Home Depot",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.25969,
+    42.84776,
+    -106.25969,
+    42.84776
+],
+  "geometry": {"coordinates":[-106.25969000000001,42.84776],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874041539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.402275,42.811294,-106.402275,42.811294",
+    "geom:latitude":42.811294,
+    "geom:longitude":-106.402275,
+    "iso:country":"US",
+    "sg:address":"211 Carnation St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 2989",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q0jTMouyZMdL71BlLi9xi_42.811294_-106.402275@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311157,
+    "wof:geomhash":"1fa1897bf5baa965ac11f3f7e375bc5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874041539
+        }
+    ],
+    "wof:id":874041539,
+    "wof:lastmodified":1464311157,
+    "wof:name":"Soap N Suds Car Wash",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -106.402275,
+    42.811294,
+    -106.402275,
+    42.811294
+],
+  "geometry": {"coordinates":[-106.402275,42.811294],"type":"Point"}
+}

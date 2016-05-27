@@ -1,0 +1,51 @@
+{
+  "id": 874220919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.957723,42.085131,-110.957723,42.085131",
+    "geom:latitude":42.085131,
+    "geom:longitude":-110.957723,
+    "iso:country":"US",
+    "sg:address":"100 Post St",
+    "sg:city":"Cokeville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 000 1111",
+    "sg:postcode":"83114",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qOO4rjT7Bk6EkMu98boH5_42.085131_-110.957723@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313074,
+    "wof:geomhash":"4ff9ef68ca0b6e5a1b423d58334a98ba",
+    "wof:hierarchy":[],
+    "wof:id":874220919,
+    "wof:lastmodified":1464313074,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.957723,
+    42.085131,
+    -110.957723,
+    42.085131
+],
+  "geometry": {"coordinates":[-110.957723,42.085131],"type":"Point"}
+}

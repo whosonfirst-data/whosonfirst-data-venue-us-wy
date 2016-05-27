@@ -1,0 +1,61 @@
+{
+  "id": 874055847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955925,44.814963,-106.955925,44.814963",
+    "geom:latitude":44.814963,
+    "geom:longitude":-106.955925,
+    "iso:country":"US",
+    "sg:address":"45 W 12th St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 7463",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "program",
+        "prevention",
+        "crime"
+    ],
+    "sg:website":"www.sheridanpolice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aX80ZVOTWIarAFBqT7Ge7_44.814963_-106.955925@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311300,
+    "wof:geomhash":"a28bb6fdc33af3c9e02793ea233e9256",
+    "wof:hierarchy":[],
+    "wof:id":874055847,
+    "wof:lastmodified":1464311300,
+    "wof:name":"Crime Stoppers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "prevention",
+        "crime"
+    ]
+},
+  "bbox": [
+    -106.955925,
+    44.814963,
+    -106.955925,
+    44.814963
+],
+  "geometry": {"coordinates":[-106.95592499999999,44.814963],"type":"Point"}
+}

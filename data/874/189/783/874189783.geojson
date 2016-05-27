@@ -1,0 +1,71 @@
+{
+  "id": 874189783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.363411,42.83029,-106.363411,42.83029",
+    "geom:latitude":42.83029,
+    "geom:longitude":-106.363411,
+    "iso:country":"US",
+    "sg:address":"3443 W Fairside Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 8940",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HXx1xSeIkCjeOfUGjgAqG_42.830290_-106.363411@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312737,
+    "wof:geomhash":"b51bb7d9df8594d4314293dfcb715e2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874189783
+        }
+    ],
+    "wof:id":874189783,
+    "wof:lastmodified":1464312737,
+    "wof:name":"Fairgrounds Self Storage",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -106.363411,
+    42.83029,
+    -106.363411,
+    42.83029
+],
+  "geometry": {"coordinates":[-106.363411,42.83029],"type":"Point"}
+}

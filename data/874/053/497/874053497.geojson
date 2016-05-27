@@ -1,0 +1,64 @@
+{
+  "id": 874053497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.420425,42.808725,-106.420425,42.808725",
+    "geom:latitude":42.808725,
+    "geom:longitude":-106.420425,
+    "iso:country":"US",
+    "sg:address":"6492 Riverside Ter",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 2255",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PmwWOIFMUrGKKcaPvH4xe_42.808725_-106.420425@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311274,
+    "wof:geomhash":"2d0773420cc665d975d1ed9a668f926b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874053497
+        }
+    ],
+    "wof:id":874053497,
+    "wof:lastmodified":1464311274,
+    "wof:name":"Church of Holy Family",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.420425,
+    42.808725,
+    -106.420425,
+    42.808725
+],
+  "geometry": {"coordinates":[-106.42042499999999,42.808725],"type":"Point"}
+}

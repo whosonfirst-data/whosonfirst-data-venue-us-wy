@@ -1,0 +1,56 @@
+{
+  "id": 874179169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.775374,41.145637,-104.775374,41.145637",
+    "geom:latitude":41.145637,
+    "geom:longitude":-104.775374,
+    "iso:country":"US",
+    "sg:address":"3501 Forest Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 9389",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g17d06Odquptqv9u9hdLD_41.145637_-104.775374@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312622,
+    "wof:geomhash":"8e9eaefacf9c5c5277ec2ffcdb85ff45",
+    "wof:hierarchy":[],
+    "wof:id":874179169,
+    "wof:lastmodified":1464312622,
+    "wof:name":"First Congregational Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -104.775374,
+    41.145637,
+    -104.775374,
+    41.145637
+],
+  "geometry": {"coordinates":[-104.775374,41.145637],"type":"Point"}
+}

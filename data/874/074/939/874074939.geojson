@@ -1,0 +1,71 @@
+{
+  "id": 874074939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.32517,42.847329,-106.32517,42.847329",
+    "geom:latitude":42.847329,
+    "geom:longitude":-106.32517,
+    "iso:country":"US",
+    "sg:address":"323 S Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 6034",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "used",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R355pZ35fK3g8jTchjqmZ_42.847329_-106.325170@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311502,
+    "wof:geomhash":"d75edd23e7e4b1cd3ee594b553e06532",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874074939
+        }
+    ],
+    "wof:id":874074939,
+    "wof:lastmodified":1464311502,
+    "wof:name":"Book Exchange Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -106.32517,
+    42.847329,
+    -106.32517,
+    42.847329
+],
+  "geometry": {"coordinates":[-106.32517,42.847329],"type":"Point"}
+}

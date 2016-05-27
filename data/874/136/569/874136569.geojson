@@ -1,0 +1,56 @@
+{
+  "id": 874136569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.084069,44.691889,-107.084069,44.691889",
+    "geom:latitude":44.691889,
+    "geom:longitude":-107.084069,
+    "iso:country":"US",
+    "sg:address":"559 Beaver Creek Rd",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 7655",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g37QORYteKeAd3uXSOzAx_44.691889_-107.084069@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312205,
+    "wof:geomhash":"5145495eade1630506fa41a1217f01c1",
+    "wof:hierarchy":[],
+    "wof:id":874136569,
+    "wof:lastmodified":1464312205,
+    "wof:name":"Fire Trax",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -107.084069,
+    44.691889,
+    -107.084069,
+    44.691889
+],
+  "geometry": {"coordinates":[-107.084069,44.691889],"type":"Point"}
+}

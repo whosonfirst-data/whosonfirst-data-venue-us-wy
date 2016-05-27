@@ -1,0 +1,59 @@
+{
+  "id": 874231613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.956245,41.262257,-110.956245,41.262257",
+    "geom:latitude":41.262257,
+    "geom:longitude":-110.956245,
+    "iso:country":"US",
+    "sg:address":"132 Front St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/evanston/77671-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 2299",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DDZ9zaxvIPfYq6b5CDpzq_41.262315_-110.955952@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464313182,
+    "wof:geomhash":"00857ecdb35a47f6ee2a4e4819f63bb7",
+    "wof:hierarchy":[],
+    "wof:id":874231613,
+    "wof:lastmodified":1464313182,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -110.956245,
+    41.262257,
+    -110.956245,
+    41.262257
+],
+  "geometry": {"coordinates":[-110.956245,41.262257],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874097639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.361916,42.849364,-106.361916,42.849364",
+    "geom:latitude":42.849364,
+    "geom:longitude":-106.361916,
+    "iso:country":"US",
+    "sg:address":"150 Salt Creek Hwy",
+    "sg:city":"Mills",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 4474",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g9I1Wbx0trkQ01zQtLGdi_42.849364_-106.361916@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311752,
+    "wof:geomhash":"30c189b85c2df435957e057ef02f05a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874097639
+        }
+    ],
+    "wof:id":874097639,
+    "wof:lastmodified":1464311752,
+    "wof:name":"Honnen Equipment Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.361916,
+    42.849364,
+    -106.361916,
+    42.849364
+],
+  "geometry": {"coordinates":[-106.36191599999999,42.849364],"type":"Point"}
+}

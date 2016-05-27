@@ -1,0 +1,58 @@
+{
+  "id": 874173029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.954304,44.016754,-107.954304,44.016754",
+    "geom:latitude":44.016754,
+    "geom:longitude":-107.954304,
+    "iso:country":"US",
+    "sg:address":"1106 Big Horn Ave",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 9817",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cjC3rxFYCqpQX05IHZ7Vn_44.016754_-107.954304@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312559,
+    "wof:geomhash":"cded27497468fc7b6c2ca2bd57bae42d",
+    "wof:hierarchy":[],
+    "wof:id":874173029,
+    "wof:lastmodified":1464312559,
+    "wof:name":"WMC Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -107.954304,
+    44.016754,
+    -107.954304,
+    44.016754
+],
+  "geometry": {"coordinates":[-107.95430399999999,44.016754],"type":"Point"}
+}

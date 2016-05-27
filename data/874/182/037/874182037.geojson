@@ -1,0 +1,65 @@
+{
+  "id": 874182037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.976211,42.046372,-104.976211,42.046372",
+    "geom:latitude":42.046372,
+    "geom:longitude":-104.976211,
+    "iso:country":"US",
+    "sg:address":"71 25th St",
+    "sg:city":"Wheatland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 322 4565",
+    "sg:postcode":"82201",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yMDkUU4yUegAfdECy29iv_42.046372_-104.976211@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312651,
+    "wof:geomhash":"2fa348786062efb92961bcc618838b03",
+    "wof:hierarchy":[],
+    "wof:id":874182037,
+    "wof:lastmodified":1464312651,
+    "wof:name":"Flying S Transportation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -104.976211,
+    42.046372,
+    -104.976211,
+    42.046372
+],
+  "geometry": {"coordinates":[-104.97621100000001,42.046372],"type":"Point"}
+}

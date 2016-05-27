@@ -1,0 +1,76 @@
+{
+  "id": 874063871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.336812,42.846172,-106.336812,42.846172",
+    "geom:latitude":42.846172,
+    "geom:longitude":-106.336812,
+    "iso:country":"US",
+    "sg:address":"824 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 7256",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "oil",
+        "merchandise",
+        "field"
+    ],
+    "sg:website":"www.soundandcellular.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JlbgS9V75ByxeJ7kA39eC_42.846172_-106.336812@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311370,
+    "wof:geomhash":"7d697a36edf12557152e6d38c5a4a93e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874063871
+        }
+    ],
+    "wof:id":874063871,
+    "wof:lastmodified":1464311370,
+    "wof:name":"Sound & Cellular Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "oil",
+        "merchandise",
+        "field"
+    ]
+},
+  "bbox": [
+    -106.336812,
+    42.846172,
+    -106.336812,
+    42.846172
+],
+  "geometry": {"coordinates":[-106.33681199999999,42.846172],"type":"Point"}
+}

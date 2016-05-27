@@ -1,0 +1,71 @@
+{
+  "id": 874020885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.427619,42.867171,-106.427619,42.867171",
+    "geom:latitude":42.867171,
+    "geom:longitude":-106.427619,
+    "iso:country":"US",
+    "sg:address":"7056 Barton Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 2491",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76umcTMxYckhkMoYZBiu9s_42.867171_-106.427619@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310955,
+    "wof:geomhash":"2a06d9c981986fcb76ee2e7a0144794b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874020885
+        }
+    ],
+    "wof:id":874020885,
+    "wof:lastmodified":1464310955,
+    "wof:name":"Weatherford",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.427619,
+    42.867171,
+    -106.427619,
+    42.867171
+],
+  "geometry": {"coordinates":[-106.42761900000001,42.867171],"type":"Point"}
+}

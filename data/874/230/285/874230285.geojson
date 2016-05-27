@@ -1,0 +1,59 @@
+{
+  "id": 874230285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.466356,41.518847,-109.466356,41.518847",
+    "geom:latitude":41.518847,
+    "geom:longitude":-109.466356,
+    "iso:country":"US",
+    "sg:address":"122 Uinta Dr",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/green-river-north/135360-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 7700",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60Ha9sM6HNWFYVmQ55yxwc_41.518847_-109.466356@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313162,
+    "wof:geomhash":"dcc0b27d265ceb41cbf6105cc989d1e0",
+    "wof:hierarchy":[],
+    "wof:id":874230285,
+    "wof:lastmodified":1464313162,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -109.466356,
+    41.518847,
+    -109.466356,
+    41.518847
+],
+  "geometry": {"coordinates":[-109.466356,41.518847],"type":"Point"}
+}

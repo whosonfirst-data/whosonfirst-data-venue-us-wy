@@ -1,0 +1,77 @@
+{
+  "id": 874177953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.3507,42.89815,-106.3507,42.89815",
+    "geom:latitude":42.89815,
+    "geom:longitude":-106.3507,
+    "iso:country":"US",
+    "sg:address":"2291 Andrea St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 5736",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "barrels",
+        "work",
+        "traffic",
+        "cone",
+        "zone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oQwfJ18uAtmxRCQTPfGiH_42.898150_-106.350700@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312606,
+    "wof:geomhash":"652123e1298bc0cdc0e27451e4619aaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874177953
+        }
+    ],
+    "wof:id":874177953,
+    "wof:lastmodified":1464312606,
+    "wof:name":"Roadway Enterprises Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barrels",
+        "work",
+        "traffic",
+        "cone",
+        "zone"
+    ]
+},
+  "bbox": [
+    -106.3507,
+    42.89815,
+    -106.3507,
+    42.89815
+],
+  "geometry": {"coordinates":[-106.3507,42.89815],"type":"Point"}
+}

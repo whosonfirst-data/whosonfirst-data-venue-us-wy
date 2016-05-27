@@ -1,0 +1,66 @@
+{
+  "id": 873988437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.574638,41.309669,-105.574638,41.309669",
+    "geom:latitude":41.309669,
+    "geom:longitude":-105.574638,
+    "iso:country":"US",
+    "sg:address":"1708 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 3190",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ciis2rRsacezmXMgrZwpd_41.309669_-105.574638@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310679,
+    "wof:geomhash":"5b24e4b876a86958d5b2a49af8811337",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873988437
+        }
+    ],
+    "wof:id":873988437,
+    "wof:lastmodified":1464310679,
+    "wof:name":"Mellow Yellow",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.574638,
+    41.309669,
+    -105.574638,
+    41.309669
+],
+  "geometry": {"coordinates":[-105.57463799999999,41.309669],"type":"Point"}
+}

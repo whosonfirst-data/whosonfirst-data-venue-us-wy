@@ -1,0 +1,77 @@
+{
+  "id": 874220425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.220832,41.587655,-109.220832,41.587655",
+    "geom:latitude":41.587655,
+    "geom:longitude":-109.220832,
+    "iso:country":"US",
+    "sg:address":"29 J St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 8421",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JeziYP8GwGnT3SZqtrqKu_41.587655_-109.220832@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313068,
+    "wof:geomhash":"1698921971934d590c0688c2a9212131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874220425
+        }
+    ],
+    "wof:id":874220425,
+    "wof:lastmodified":1464313068,
+    "wof:name":"Alcoholics Anonymous",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -109.220832,
+    41.587655,
+    -109.220832,
+    41.587655
+],
+  "geometry": {"coordinates":[-109.220832,41.587655],"type":"Point"}
+}

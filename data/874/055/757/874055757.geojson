@@ -1,0 +1,64 @@
+{
+  "id": 874055757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.319586,42.841005,-106.319586,42.841005",
+    "geom:latitude":42.841005,
+    "geom:longitude":-106.319586,
+    "iso:country":"US",
+    "sg:address":"465 Milton Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7112",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ipu3rO7niqDNqFzmpPR4M_42.841005_-106.319586@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311299,
+    "wof:geomhash":"244d373475b5333a58acb1944d7711c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874055757
+        }
+    ],
+    "wof:id":874055757,
+    "wof:lastmodified":1464311299,
+    "wof:name":"Center Stage Dance",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.319586,
+    42.841005,
+    -106.319586,
+    42.841005
+],
+  "geometry": {"coordinates":[-106.319586,42.841005],"type":"Point"}
+}

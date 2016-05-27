@@ -1,0 +1,56 @@
+{
+  "id": 874032753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.940456,44.721853,-106.940456,44.721853",
+    "geom:latitude":44.721853,
+    "geom:longitude":-106.940456,
+    "iso:country":"US",
+    "sg:address":"11 Hillside Ln",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 8360",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39tkQ98kTi6kmj5VV6XauI_44.721853_-106.940456@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311073,
+    "wof:geomhash":"645c4af9e178c6b97b9b4e5f642e83d9",
+    "wof:hierarchy":[],
+    "wof:id":874032753,
+    "wof:lastmodified":1464311073,
+    "wof:name":"Sheridan Gun Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -106.940456,
+    44.721853,
+    -106.940456,
+    44.721853
+],
+  "geometry": {"coordinates":[-106.940456,44.721853],"type":"Point"}
+}

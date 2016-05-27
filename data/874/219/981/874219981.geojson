@@ -1,0 +1,58 @@
+{
+  "id": 874219981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.966628,44.01847,-107.966628,44.01847",
+    "geom:latitude":44.01847,
+    "geom:longitude":-107.966628,
+    "iso:country":"US",
+    "sg:address":"205 Pulliam Ave",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 9559",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KaVEA9jNiRg6DpCxbilfi_44.018470_-107.966628@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313060,
+    "wof:geomhash":"b3df7785b6e632f044b98ab041ff4edf",
+    "wof:hierarchy":[],
+    "wof:id":874219981,
+    "wof:lastmodified":1464313060,
+    "wof:name":"West Side Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -107.966628,
+    44.01847,
+    -107.966628,
+    44.01847
+],
+  "geometry": {"coordinates":[-107.966628,44.01847],"type":"Point"}
+}

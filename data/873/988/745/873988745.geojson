@@ -1,0 +1,66 @@
+{
+  "id": 873988745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.596102,41.311301,-105.596102,41.311301",
+    "geom:latitude":41.311301,
+    "geom:longitude":-105.596102,
+    "iso:country":"US",
+    "sg:address":"215 S 1st St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 0003",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rZB7mUnwbphm2H6zX4d0t_41.311301_-105.596102@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310681,
+    "wof:geomhash":"37710020b550ef74a071f4a238aeafb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873988745
+        }
+    ],
+    "wof:id":873988745,
+    "wof:lastmodified":1464310681,
+    "wof:name":"Green Gold",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.596102,
+    41.311301,
+    -105.596102,
+    41.311301
+],
+  "geometry": {"coordinates":[-105.596102,41.311301],"type":"Point"}
+}

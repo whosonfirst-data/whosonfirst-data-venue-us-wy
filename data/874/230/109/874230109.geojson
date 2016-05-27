@@ -1,0 +1,61 @@
+{
+  "id": 874230109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.242858,41.597649,-109.242858,41.597649",
+    "geom:latitude":41.597649,
+    "geom:longitude":-109.242858,
+    "iso:country":"US",
+    "sg:address":"3028 College Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/rock-springs-north/78198-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 4242",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VDuxqTMqcyLiABlOA4faU_41.597649_-109.242858@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313161,
+    "wof:geomhash":"9ba11578d3f90daa9be5037c2ea790f6",
+    "wof:hierarchy":[],
+    "wof:id":874230109,
+    "wof:lastmodified":1464313161,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -109.242858,
+    41.597649,
+    -109.242858,
+    41.597649
+],
+  "geometry": {"coordinates":[-109.242858,41.597649],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874046195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.324544,42.840654,-106.324544,42.840654",
+    "geom:latitude":42.840654,
+    "geom:longitude":-106.324544,
+    "iso:country":"US",
+    "sg:address":"108 E 10th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4821",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "animal",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65deCMVGoJQ3gR8K5Gp0X4_42.840654_-106.324544@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311208,
+    "wof:geomhash":"3bbc8a9db7edb974423459ee40fab0bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874046195
+        }
+    ],
+    "wof:id":874046195,
+    "wof:lastmodified":1464311208,
+    "wof:name":"Davis Boston Ranch LP",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "animal",
+        "general"
+    ]
+},
+  "bbox": [
+    -106.324544,
+    42.840654,
+    -106.324544,
+    42.840654
+],
+  "geometry": {"coordinates":[-106.324544,42.840654],"type":"Point"}
+}

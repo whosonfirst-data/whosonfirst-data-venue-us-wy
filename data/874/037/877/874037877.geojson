@@ -1,0 +1,69 @@
+{
+  "id": 874037877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.311086,42.847521,-106.311086,42.847521",
+    "geom:latitude":42.847521,
+    "geom:longitude":-106.311086,
+    "iso:country":"US",
+    "sg:address":"254 S Jackson St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 5303",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K2Iu3tKTbVIhU2rkS2F5u_42.847521_-106.311086@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311124,
+    "wof:geomhash":"80090ab978dd7e17389676830e5e8a8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874037877
+        }
+    ],
+    "wof:id":874037877,
+    "wof:lastmodified":1464311124,
+    "wof:name":"Walls & All",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -106.311086,
+    42.847521,
+    -106.311086,
+    42.847521
+],
+  "geometry": {"coordinates":[-106.311086,42.847521],"type":"Point"}
+}

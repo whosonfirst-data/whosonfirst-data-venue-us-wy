@@ -1,0 +1,76 @@
+{
+  "id": 874229001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.211547,41.79261,-107.211547,41.79261",
+    "geom:latitude":41.79261,
+    "geom:longitude":-107.211547,
+    "iso:country":"US",
+    "sg:address":"2221 E Cedar St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/rawlins/135373-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 6130",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102528131,
+        85688475,
+        102191575,
+        85633793,
+        101734107,
+        102081173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uZCv4tDyfMynUurfgG2rc_41.792610_-107.211547@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313151,
+    "wof:geomhash":"9f6b7c98a3f5d4f7dd786a48116534f9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528131,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081173,
+            "locality_id":101734107,
+            "region_id":85688475,
+            "venue_id":874229001
+        }
+    ],
+    "wof:id":874229001,
+    "wof:lastmodified":1464313151,
+    "wof:name":"Subway",
+    "wof:parent_id":102528131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -107.211547,
+    41.79261,
+    -107.211547,
+    41.79261
+],
+  "geometry": {"coordinates":[-107.211547,41.79261],"type":"Point"}
+}

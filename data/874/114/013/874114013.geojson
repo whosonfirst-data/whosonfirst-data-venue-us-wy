@@ -1,0 +1,58 @@
+{
+  "id": 874114013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.961296,44.016565,-107.961296,44.016565",
+    "geom:latitude":44.016565,
+    "geom:longitude":-107.961296,
+    "iso:country":"US",
+    "sg:address":"124 S 6th St",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 2443",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QBEBppl3L9Zz4eOQw0w7M_44.016565_-107.961296@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311977,
+    "wof:geomhash":"b3b0d46104e934f358768360210f1efa",
+    "wof:hierarchy":[],
+    "wof:id":874114013,
+    "wof:lastmodified":1464311977,
+    "wof:name":"Firestone",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "supply"
+    ]
+},
+  "bbox": [
+    -107.961296,
+    44.016565,
+    -107.961296,
+    44.016565
+],
+  "geometry": {"coordinates":[-107.961296,44.016565],"type":"Point"}
+}

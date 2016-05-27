@@ -1,0 +1,56 @@
+{
+  "id": 874178917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.5356,43.698844,-106.5356,43.698844",
+    "geom:latitude":43.698844,
+    "geom:longitude":-106.5356,
+    "iso:country":"US",
+    "sg:address":"537 Sussex Rd",
+    "sg:city":"Kaycee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 738 2413",
+    "sg:postcode":"82639",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17X1wNivinjNMzPLzSLq3g_43.698844_-106.535600@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312619,
+    "wof:geomhash":"1bc1392771fe932dfa1afa9bf8ca6de4",
+    "wof:hierarchy":[],
+    "wof:id":874178917,
+    "wof:lastmodified":1464312619,
+    "wof:name":"Powder River Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -106.5356,
+    43.698844,
+    -106.5356,
+    43.698844
+],
+  "geometry": {"coordinates":[-106.5356,43.698844],"type":"Point"}
+}

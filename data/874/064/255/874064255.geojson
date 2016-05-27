@@ -1,0 +1,73 @@
+{
+  "id": 874064255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.586661,41.32664,-105.586661,41.32664",
+    "geom:latitude":41.32664,
+    "geom:longitude":-105.586661,
+    "iso:country":"US",
+    "sg:address":"702 E Curtis St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7271",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TkAwfh6I0slhx2mKyiWpa_41.326640_-105.586661@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311373,
+    "wof:geomhash":"7091368a9d6a52a32bd5967851d86a10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874064255
+        }
+    ],
+    "wof:id":874064255,
+    "wof:lastmodified":1464311373,
+    "wof:name":"Flores Painting",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.586661,
+    41.32664,
+    -105.586661,
+    41.32664
+],
+  "geometry": {"coordinates":[-105.58666100000001,41.32664],"type":"Point"}
+}

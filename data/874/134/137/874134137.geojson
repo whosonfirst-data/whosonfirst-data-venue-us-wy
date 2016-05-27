@@ -1,0 +1,73 @@
+{
+  "id": 874134137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.574112,41.309844,-105.574112,41.309844",
+    "geom:latitude":41.309844,
+    "geom:longitude":-105.574112,
+    "iso:country":"US",
+    "sg:address":"305 S 17th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8519",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AXi6K3mdP5u1OsQ6xZPVs_41.309844_-105.574112@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312183,
+    "wof:geomhash":"042b202f143e1a7c0c268f6a4259a0a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874134137
+        }
+    ],
+    "wof:id":874134137,
+    "wof:lastmodified":1464312183,
+    "wof:name":"High On Hair Celestial Sun Tan",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -105.574112,
+    41.309844,
+    -105.574112,
+    41.309844
+],
+  "geometry": {"coordinates":[-105.574112,41.309844],"type":"Point"}
+}

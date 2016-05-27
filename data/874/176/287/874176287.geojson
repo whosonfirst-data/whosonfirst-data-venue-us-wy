@@ -1,0 +1,64 @@
+{
+  "id": 874176287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.321001,42.838374,-106.321001,42.838374",
+    "geom:latitude":42.838374,
+    "geom:longitude":-106.321001,
+    "iso:country":"US",
+    "sg:address":"1230 S Beech St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 7568",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13WnTYDS5Q6ptyPDwEJYby_42.838374_-106.321001@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312590,
+    "wof:geomhash":"ab1921dfcc762fa23ad83af1a36b47f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874176287
+        }
+    ],
+    "wof:id":874176287,
+    "wof:lastmodified":1464312590,
+    "wof:name":"Moose Trail LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.321001,
+    42.838374,
+    -106.321001,
+    42.838374
+],
+  "geometry": {"coordinates":[-106.321001,42.838374],"type":"Point"}
+}

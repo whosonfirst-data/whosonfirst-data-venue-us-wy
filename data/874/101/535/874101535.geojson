@@ -1,0 +1,56 @@
+{
+  "id": 874101535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.81361,41.134444,-104.81361,41.134444",
+    "geom:latitude":41.134444,
+    "geom:longitude":-104.81361,
+    "iso:country":"US",
+    "sg:address":"100 E 17th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 5691",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aMIcz2I2dqLzoZU0vpUPI_41.134444_-104.813610@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311812,
+    "wof:geomhash":"a614dc7d06042a32c850a58fa2187b01",
+    "wof:hierarchy":[],
+    "wof:id":874101535,
+    "wof:lastmodified":1464311812,
+    "wof:name":"Elks Lodge",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -104.81361,
+    41.134444,
+    -104.81361,
+    41.134444
+],
+  "geometry": {"coordinates":[-104.81361,41.134444],"type":"Point"}
+}

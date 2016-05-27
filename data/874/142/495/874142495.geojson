@@ -1,0 +1,56 @@
+{
+  "id": 874142495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.96596,41.267776,-110.96596,41.267776",
+    "geom:latitude":41.267776,
+    "geom:longitude":-110.96596,
+    "iso:country":"US",
+    "sg:address":"900 Main St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 0166",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74BoS5YjfMWtRtEYpF2oK6_41.267776_-110.965960@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312257,
+    "wof:geomhash":"e95dab04512ba7897f991e6944bb74aa",
+    "wof:hierarchy":[],
+    "wof:id":874142495,
+    "wof:lastmodified":1464312257,
+    "wof:name":"Dee's Bookstore & Boutique",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -110.96596,
+    41.267776,
+    -110.96596,
+    41.267776
+],
+  "geometry": {"coordinates":[-110.96596,41.267776],"type":"Point"}
+}

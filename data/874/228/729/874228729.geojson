@@ -1,0 +1,57 @@
+{
+  "id": 874228729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.789305,41.160368,-104.789305,41.160368",
+    "geom:latitude":41.160368,
+    "geom:longitude":-104.789305,
+    "iso:country":"US",
+    "sg:address":"4620 Grandview Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/5645-avanti-italian-ristorante/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 3432",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75UCY9nbRf1KkT4Oji7yvb_41.160368_-104.789305@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313148,
+    "wof:geomhash":"1a346aa204286a706a3e1e72414aa6bf",
+    "wof:hierarchy":[],
+    "wof:id":874228729,
+    "wof:lastmodified":1464313148,
+    "wof:name":"Avanti Italian Ristorante",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -104.789305,
+    41.160368,
+    -104.789305,
+    41.160368
+],
+  "geometry": {"coordinates":[-104.789305,41.160368],"type":"Point"}
+}

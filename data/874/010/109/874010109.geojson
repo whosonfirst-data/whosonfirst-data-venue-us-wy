@@ -1,0 +1,58 @@
+{
+  "id": 874010109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.158148,43.861655,-108.158148,43.861655",
+    "geom:latitude":43.861655,
+    "geom:longitude":-108.158148,
+    "iso:country":"US",
+    "sg:address":"700 Winchester Rd",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 3525",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil",
+        "well"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MCdiy5ni8LIRLsJKA4Hv0_43.861655_-108.158148@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310856,
+    "wof:geomhash":"32ad4ffb6b4e5b4c87b3d51d1e806946",
+    "wof:hierarchy":[],
+    "wof:id":874010109,
+    "wof:lastmodified":1464310856,
+    "wof:name":"Winchester Well Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "well"
+    ]
+},
+  "bbox": [
+    -108.158148,
+    43.861655,
+    -108.158148,
+    43.861655
+],
+  "geometry": {"coordinates":[-108.158148,43.861655],"type":"Point"}
+}

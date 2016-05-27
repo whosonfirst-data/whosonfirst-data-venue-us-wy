@@ -1,0 +1,58 @@
+{
+  "id": 874198991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.503709,44.268373,-105.503709,44.268373",
+    "geom:latitude":44.268373,
+    "geom:longitude":-105.503709,
+    "iso:country":"US",
+    "sg:address":"2901 Dogwood Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 2259",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xkOrVjjuGWizwD81fUOK4_44.268373_-105.503709@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312834,
+    "wof:geomhash":"2560cd6bf088d5e7533585d7b31c870f",
+    "wof:hierarchy":[],
+    "wof:id":874198991,
+    "wof:lastmodified":1464312834,
+    "wof:name":"Ideal Auto Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -105.503709,
+    44.268373,
+    -105.503709,
+    44.268373
+],
+  "geometry": {"coordinates":[-105.503709,44.268373],"type":"Point"}
+}

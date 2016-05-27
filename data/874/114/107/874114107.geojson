@@ -1,0 +1,71 @@
+{
+  "id": 874114107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343842,42.809579,-106.343842,42.809579",
+    "geom:latitude":42.809579,
+    "geom:longitude":-106.343842,
+    "iso:country":"US",
+    "sg:address":"4010 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7428",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "correction",
+        "radon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ovOvVo546PYh0j2OdX3qC_42.809579_-106.343842@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311978,
+    "wof:geomhash":"b5c8dc590843463c6ee09c8228cb4ce6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874114107
+        }
+    ],
+    "wof:id":874114107,
+    "wof:lastmodified":1464311978,
+    "wof:name":"Alpha Environmental Svc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correction",
+        "radon"
+    ]
+},
+  "bbox": [
+    -106.343842,
+    42.809579,
+    -106.343842,
+    42.809579
+],
+  "geometry": {"coordinates":[-106.343842,42.809579],"type":"Point"}
+}

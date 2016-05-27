@@ -1,0 +1,71 @@
+{
+  "id": 874063291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590519,41.326819,-105.590519,41.326819",
+    "geom:latitude":41.326819,
+    "geom:longitude":-105.590519,
+    "iso:country":"US",
+    "sg:address":"1575 N 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6588",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4erKXPkZP7euhlcQf6IiKk_41.326819_-105.590519@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311365,
+    "wof:geomhash":"41bc31f8490ea91966a222313aad3d94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874063291
+        }
+    ],
+    "wof:id":874063291,
+    "wof:lastmodified":1464311365,
+    "wof:name":"Family Dollar Store",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -105.590519,
+    41.326819,
+    -105.590519,
+    41.326819
+],
+  "geometry": {"coordinates":[-105.590519,41.326819],"type":"Point"}
+}

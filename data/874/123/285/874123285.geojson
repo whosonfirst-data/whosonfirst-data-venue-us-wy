@@ -1,0 +1,62 @@
+{
+  "id": 874123285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.85376,44.67049,-103.85376,44.67049",
+    "geom:latitude":44.67049,
+    "geom:longitude":-103.85376,
+    "iso:country":"US",
+    "sg:address":"325 Roundup St",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 3313",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JW8lYdRZb3bZTdm9Cxm6d_44.670490_-103.853760@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312070,
+    "wof:geomhash":"2e6b9844dbf09b6738098572215d256f",
+    "wof:hierarchy":[],
+    "wof:id":874123285,
+    "wof:lastmodified":1464312070,
+    "wof:name":"Baroide Idp Bpm Warehouse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage",
+        "general"
+    ]
+},
+  "bbox": [
+    -103.85376,
+    44.67049,
+    -103.85376,
+    44.67049
+],
+  "geometry": {"coordinates":[-103.85375999999999,44.67049],"type":"Point"}
+}

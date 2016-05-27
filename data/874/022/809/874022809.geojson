@@ -1,0 +1,65 @@
+{
+  "id": 874022809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.184113,42.075344,-104.184113,42.075344",
+    "geom:latitude":42.075344,
+    "geom:longitude":-104.184113,
+    "iso:country":"US",
+    "sg:address":"3001 Monte Vista Rd",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 4314",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "excavation",
+        "crane",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UsYxzat9Ucuvl5MRdutJa_42.075344_-104.184113@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310972,
+    "wof:geomhash":"1e539763390ef31b1cc7efa2ba20078b",
+    "wof:hierarchy":[],
+    "wof:id":874022809,
+    "wof:lastmodified":1464310972,
+    "wof:name":"Scott & Son Inc Contractors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "crane",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -104.184113,
+    42.075344,
+    -104.184113,
+    42.075344
+],
+  "geometry": {"coordinates":[-104.184113,42.075344],"type":"Point"}
+}

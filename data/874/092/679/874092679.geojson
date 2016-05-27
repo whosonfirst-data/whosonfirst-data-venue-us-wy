@@ -1,0 +1,65 @@
+{
+  "id": 874092679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.826853,41.166025,-104.826853,41.166025",
+    "geom:latitude":41.166025,
+    "geom:longitude":-104.826853,
+    "iso:country":"US",
+    "sg:address":"130 Hobbs Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 2564",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "organization",
+        "residential",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ok0yNBnF7HlHU97tGGGLD_41.166025_-104.826853@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311692,
+    "wof:geomhash":"522b90ae5aef321970fbefd7608595a4",
+    "wof:hierarchy":[],
+    "wof:id":874092679,
+    "wof:lastmodified":1464311692,
+    "wof:name":"Casey Family Programs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "residential",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -104.826853,
+    41.166025,
+    -104.826853,
+    41.166025
+],
+  "geometry": {"coordinates":[-104.826853,41.166025],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874044451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592167,41.327624,-105.592167,41.327624",
+    "geom:latitude":41.327624,
+    "geom:longitude":-105.592167,
+    "iso:country":"US",
+    "sg:address":"129 E Superior Ct",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3893",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "water",
+        "equipment",
+        "softening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35a4ixbmGyEP6LtXoc4C9U_41.327624_-105.592167@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311188,
+    "wof:geomhash":"023fdfb0ff3b76f00b34104c27cb7c2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874044451
+        }
+    ],
+    "wof:id":874044451,
+    "wof:lastmodified":1464311188,
+    "wof:name":"Culligan Water Conditioning",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "equipment",
+        "softening"
+    ]
+},
+  "bbox": [
+    -105.592167,
+    41.327624,
+    -105.592167,
+    41.327624
+],
+  "geometry": {"coordinates":[-105.592167,41.327624],"type":"Point"}
+}

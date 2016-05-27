@@ -1,0 +1,51 @@
+{
+  "id": 874136577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.406576,42.757452,-105.406576,42.757452",
+    "geom:latitude":42.757452,
+    "geom:longitude":-105.406576,
+    "iso:country":"US",
+    "sg:address":"240 S Riverbend Dr",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 4910",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XNRqxGQNqJqg3nbckN6Bt_42.757452_-105.406576@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312205,
+    "wof:geomhash":"4cc6e7eb6b531ce418cc4682ceb743c2",
+    "wof:hierarchy":[],
+    "wof:id":874136577,
+    "wof:lastmodified":1464312205,
+    "wof:name":"Riverbend Veterinary Hospital",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.406576,
+    42.757452,
+    -105.406576,
+    42.757452
+],
+  "geometry": {"coordinates":[-105.406576,42.757452],"type":"Point"}
+}

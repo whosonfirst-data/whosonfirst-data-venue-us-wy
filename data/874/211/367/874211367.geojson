@@ -1,0 +1,71 @@
+{
+  "id": 874211367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.576869,41.319625,-105.576869,41.319625",
+    "geom:latitude":41.319625,
+    "geom:longitude":-105.576869,
+    "iso:country":"US",
+    "sg:address":"1517 E Canby St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2822",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gjMAMDjJ1iNvuK1r0j05P_41.319625_-105.576869@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312967,
+    "wof:geomhash":"b576a4bdb604a6af542038aff79511df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874211367
+        }
+    ],
+    "wof:id":874211367,
+    "wof:lastmodified":1464312967,
+    "wof:name":"Hilltop Christian Child Care",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -105.576869,
+    41.319625,
+    -105.576869,
+    41.319625
+],
+  "geometry": {"coordinates":[-105.576869,41.319625],"type":"Point"}
+}

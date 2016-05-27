@@ -1,0 +1,64 @@
+{
+  "id": 874022921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.976305,41.265675,-110.976305,41.265675",
+    "geom:latitude":41.265675,
+    "geom:longitude":-110.976305,
+    "iso:country":"US",
+    "sg:address":"742 19th St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 4062",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "excavation",
+        "operator",
+        "contractor",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TI8v87LVUmtOGvcsIGhs5_41.265675_-110.976305@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310973,
+    "wof:geomhash":"a9c22048acf944737b9125bbef1acb2b",
+    "wof:hierarchy":[],
+    "wof:id":874022921,
+    "wof:lastmodified":1464310973,
+    "wof:name":"Robertson Trucking Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "operator",
+        "contractor",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -110.976305,
+    41.265675,
+    -110.976305,
+    41.265675
+],
+  "geometry": {"coordinates":[-110.976305,41.265675],"type":"Point"}
+}

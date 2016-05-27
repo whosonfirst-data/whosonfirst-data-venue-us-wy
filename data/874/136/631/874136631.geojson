@@ -1,0 +1,60 @@
+{
+  "id": 874136631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.768339,41.163542,-104.768339,41.163542",
+    "geom:latitude":41.163542,
+    "geom:longitude":-104.768339,
+    "iso:country":"US",
+    "sg:address":"4912 Ridge Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 6711",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19T4ezlZi0jhJcBnnvFr46_41.163542_-104.768339@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312205,
+    "wof:geomhash":"a9aea742f6307a7c92d2d5c39d40b782",
+    "wof:hierarchy":[],
+    "wof:id":874136631,
+    "wof:lastmodified":1464312205,
+    "wof:name":"Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -104.768339,
+    41.163542,
+    -104.768339,
+    41.163542
+],
+  "geometry": {"coordinates":[-104.768339,41.163542],"type":"Point"}
+}

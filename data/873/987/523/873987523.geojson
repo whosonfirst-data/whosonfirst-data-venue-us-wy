@@ -1,0 +1,64 @@
+{
+  "id": 873987523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.303063,42.853634,-106.303063,42.853634",
+    "geom:latitude":42.853634,
+    "geom:longitude":-106.303063,
+    "iso:country":"US",
+    "sg:address":"1707 E Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 2174",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zrpB6mPOK5iUZn6g3Jf6q_42.853634_-106.303063@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310672,
+    "wof:geomhash":"c00e8edc77d85ee0f9563bc9a7a212c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873987523
+        }
+    ],
+    "wof:id":873987523,
+    "wof:lastmodified":1464310672,
+    "wof:name":"Button Box Antiques",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.303063,
+    42.853634,
+    -106.303063,
+    42.853634
+],
+  "geometry": {"coordinates":[-106.30306299999999,42.853634],"type":"Point"}
+}

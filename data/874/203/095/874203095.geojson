@@ -1,0 +1,71 @@
+{
+  "id": 874203095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.61929,41.308897,-105.61929,41.308897",
+    "geom:latitude":41.308897,
+    "geom:longitude":-105.61929,
+    "iso:country":"US",
+    "sg:address":"1772 Snowy Range Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8241",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MSvGIX1it5BYTWNZ74GHE_41.308897_-105.619290@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312875,
+    "wof:geomhash":"a953e5c775d4cd116d8102e32b9b7846",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874203095
+        }
+    ],
+    "wof:id":874203095,
+    "wof:lastmodified":1464312875,
+    "wof:name":"Berlin Tire Centers",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -105.61929,
+    41.308897,
+    -105.61929,
+    41.308897
+],
+  "geometry": {"coordinates":[-105.61929000000001,41.308897],"type":"Point"}
+}

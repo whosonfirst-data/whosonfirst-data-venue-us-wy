@@ -1,0 +1,60 @@
+{
+  "id": 874178007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.513207,43.128121,-108.513207,43.128121",
+    "geom:latitude":43.128121,
+    "geom:longitude":-108.513207,
+    "iso:country":"US",
+    "sg:address":"44 Rabbit Ln",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 5261",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T7ZF5pHjR0Rs8K3EHAKnr_43.128121_-108.513207@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312606,
+    "wof:geomhash":"76e7f1b6ce524a7138dd01e3a8bda0ef",
+    "wof:hierarchy":[],
+    "wof:id":874178007,
+    "wof:lastmodified":1464312606,
+    "wof:name":"Bob Keele Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.513207,
+    43.128121,
+    -108.513207,
+    43.128121
+],
+  "geometry": {"coordinates":[-108.51320699999999,43.128121],"type":"Point"}
+}

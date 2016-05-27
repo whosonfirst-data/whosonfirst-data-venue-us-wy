@@ -1,0 +1,71 @@
+{
+  "id": 874057669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.442495,42.875923,-106.442495,42.875923",
+    "geom:latitude":42.875923,
+    "geom:longitude":-106.442495,
+    "iso:country":"US",
+    "sg:address":"1868 Willow Creek Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 4172",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Hbh6mt42AVr6bpX2pMUmz_42.875923_-106.442495@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311315,
+    "wof:geomhash":"80a19e1044bcdd7ebb75729d70da23b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874057669
+        }
+    ],
+    "wof:id":874057669,
+    "wof:lastmodified":1464311315,
+    "wof:name":"Sierra Country Properties LLC",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -106.442495,
+    42.875923,
+    -106.442495,
+    42.875923
+],
+  "geometry": {"coordinates":[-106.44249499999999,42.875923],"type":"Point"}
+}

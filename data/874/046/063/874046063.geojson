@@ -1,0 +1,69 @@
+{
+  "id": 874046063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.457638,42.902111,-106.457638,42.902111",
+    "geom:latitude":42.902111,
+    "geom:longitude":-106.457638,
+    "iso:country":"US",
+    "sg:address":"7472 Fuller St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8361",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "freight",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        102525293,
+        85688475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KhMBlv1bo5s2NMw9sdqm1_42.902111_-106.457638@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311207,
+    "wof:geomhash":"25258f97b3c388d4b889b912d76a2148",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525293,
+            "country_id":85633793,
+            "region_id":85688475,
+            "venue_id":874046063
+        }
+    ],
+    "wof:id":874046063,
+    "wof:lastmodified":1464311207,
+    "wof:name":"Corporate Air",
+    "wof:parent_id":102525293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "freight",
+        "air"
+    ]
+},
+  "bbox": [
+    -106.457638,
+    42.902111,
+    -106.457638,
+    42.902111
+],
+  "geometry": {"coordinates":[-106.457638,42.902111],"type":"Point"}
+}

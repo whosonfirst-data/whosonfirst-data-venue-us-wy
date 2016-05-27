@@ -1,0 +1,66 @@
+{
+  "id": 874139045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.562924,41.304518,-105.562924,41.304518",
+    "geom:latitude":41.304518,
+    "geom:longitude":-105.562924,
+    "iso:country":"US",
+    "sg:address":"2305 Spring Creek Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4633",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PZkuHUe3owqa4KukwPhhW_41.304518_-105.562924@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312227,
+    "wof:geomhash":"8581b91956966ac53c6ed2f4e92f2f84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874139045
+        }
+    ],
+    "wof:id":874139045,
+    "wof:lastmodified":1464312227,
+    "wof:name":"Hein Accounting Services",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.562924,
+    41.304518,
+    -105.562924,
+    41.304518
+],
+  "geometry": {"coordinates":[-105.562924,41.304518],"type":"Point"}
+}

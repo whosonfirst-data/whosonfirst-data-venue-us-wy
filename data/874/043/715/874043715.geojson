@@ -1,0 +1,58 @@
+{
+  "id": 874043715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.385491,42.761708,-105.385491,42.761708",
+    "geom:latitude":42.761708,
+    "geom:longitude":-105.385491,
+    "iso:country":"US",
+    "sg:address":"242 N 2nd St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 8395",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y7I2LRkyVfTPTPnCQjM3h_42.761708_-105.385491@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311182,
+    "wof:geomhash":"321e7b12f9d6a65b7b8cb2b12165de5c",
+    "wof:hierarchy":[],
+    "wof:id":874043715,
+    "wof:lastmodified":1464311182,
+    "wof:name":"Terry's Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.385491,
+    42.761708,
+    -105.385491,
+    42.761708
+],
+  "geometry": {"coordinates":[-105.385491,42.761708],"type":"Point"}
+}

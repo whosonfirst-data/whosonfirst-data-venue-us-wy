@@ -1,0 +1,56 @@
+{
+  "id": 874001303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.516416,44.298564,-105.516416,44.298564",
+    "geom:latitude":44.298564,
+    "geom:longitude":-105.516416,
+    "iso:country":"US",
+    "sg:address":"950 W Warlow Dr",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 5249",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ay1DndA9BPx2wpBI0Go79_44.298564_-105.516416@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310769,
+    "wof:geomhash":"d3cea9c51c51456b5a9084c7bd058fa2",
+    "wof:hierarchy":[],
+    "wof:id":874001303,
+    "wof:lastmodified":1464310769,
+    "wof:name":"Gillette Police-Animal Control",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -105.516416,
+    44.298564,
+    -105.516416,
+    44.298564
+],
+  "geometry": {"coordinates":[-105.51641600000001,44.298564],"type":"Point"}
+}

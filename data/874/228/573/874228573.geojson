@@ -1,0 +1,76 @@
+{
+  "id": 874228573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.797368,41.160446,-104.797368,41.160446",
+    "geom:latitude":41.160446,
+    "geom:longitude":-104.797368,
+    "iso:country":"US",
+    "sg:address":"1802 Dell Range Blvd ",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/287907-scottys-pizza-factory/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 433 8855",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uzlWIJKv1MAka4IDAnjxK_41.160446_-104.797368@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313147,
+    "wof:geomhash":"4894d2df443729a648e523c6e6ac1839",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":874228573
+        }
+    ],
+    "wof:id":874228573,
+    "wof:lastmodified":1464313147,
+    "wof:name":"Scotty's Pizza Factory",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -104.797368,
+    41.160446,
+    -104.797368,
+    41.160446
+],
+  "geometry": {"coordinates":[-104.79736800000001,41.160446],"type":"Point"}
+}

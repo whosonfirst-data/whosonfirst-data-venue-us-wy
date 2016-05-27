@@ -1,0 +1,71 @@
+{
+  "id": 874131747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595054,41.311073,-105.595054,41.311073",
+    "geom:latitude":41.311073,
+    "geom:longitude":-105.595054,
+    "iso:country":"US",
+    "sg:address":"306 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 2807",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ldgGo89WT4IqUTgPiSTyN_41.311073_-105.595054@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312157,
+    "wof:geomhash":"3f54e8a85479c3798c5d7cb57d26803d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874131747
+        }
+    ],
+    "wof:id":874131747,
+    "wof:lastmodified":1464312157,
+    "wof:name":"Home Owners Mortgage & Escrow",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -105.595054,
+    41.311073,
+    -105.595054,
+    41.311073
+],
+  "geometry": {"coordinates":[-105.595054,41.311073],"type":"Point"}
+}

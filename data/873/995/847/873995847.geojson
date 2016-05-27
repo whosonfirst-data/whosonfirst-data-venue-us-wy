@@ -1,0 +1,56 @@
+{
+  "id": 873995847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.801974,41.135571,-104.801974,41.135571",
+    "geom:latitude":41.135571,
+    "geom:longitude":-104.801974,
+    "iso:country":"US",
+    "sg:address":"1012 E 14th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 0515",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33xeVfOk1AwwgmlVEG1g7z_41.135571_-104.801974@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310731,
+    "wof:geomhash":"d1bfa660ef87cc6628feebcce6efd424",
+    "wof:hierarchy":[],
+    "wof:id":873995847,
+    "wof:lastmodified":1464310731,
+    "wof:name":"AC Mechanical",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -104.801974,
+    41.135571,
+    -104.801974,
+    41.135571
+],
+  "geometry": {"coordinates":[-104.801974,41.135571],"type":"Point"}
+}

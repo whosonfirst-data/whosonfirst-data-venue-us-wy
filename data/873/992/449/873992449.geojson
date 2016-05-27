@@ -1,0 +1,56 @@
+{
+  "id": 873992449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.206316,43.854088,-104.206316,43.854088",
+    "geom:latitude":43.854088,
+    "geom:longitude":-104.206316,
+    "iso:country":"US",
+    "sg:address":"333 W Main St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 2726",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K5pIj0XvhexpZ6DUQYWB6_43.854088_-104.206316@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310708,
+    "wof:geomhash":"a19525700a55388862ff0abe5ba20de6",
+    "wof:hierarchy":[],
+    "wof:id":873992449,
+    "wof:lastmodified":1464310708,
+    "wof:name":"BHP",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -104.206316,
+    43.854088,
+    -104.206316,
+    43.854088
+],
+  "geometry": {"coordinates":[-104.206316,43.854088],"type":"Point"}
+}

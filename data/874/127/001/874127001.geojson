@@ -1,0 +1,67 @@
+{
+  "id": 874127001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.02479,44.53444,-109.02479,44.53444",
+    "geom:latitude":44.53444,
+    "geom:longitude":-109.02479,
+    "iso:country":"US",
+    "sg:address":"376 33rd St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 5613",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e84tXVWPEvBlVg5hHXNWP_44.534440_-109.024790@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312103,
+    "wof:geomhash":"f26245a4627cba7c36aaa02361a758ed",
+    "wof:hierarchy":[],
+    "wof:id":874127001,
+    "wof:lastmodified":1464312103,
+    "wof:name":"Big Horn Energy Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.02479,
+    44.53444,
+    -109.02479,
+    44.53444
+],
+  "geometry": {"coordinates":[-109.02479,44.53444],"type":"Point"}
+}

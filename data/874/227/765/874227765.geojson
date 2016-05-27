@@ -1,0 +1,67 @@
+{
+  "id": 874227765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.354881,42.809905,-106.354881,42.809905",
+    "geom:latitude":42.809905,
+    "geom:longitude":-106.354881,
+    "iso:country":"US",
+    "sg:address":"2450 Allyson Pl",
+    "sg:city":"Casper",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8209",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "petrol",
+        "chemical",
+        "refrigerant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6skGbYQaZ4RnXIAEYC9N5Y_42.809905_-106.354881@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313138,
+    "wof:geomhash":"423ba8538b3c55ab78f95d331cbadd37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874227765
+        }
+    ],
+    "wof:id":874227765,
+    "wof:lastmodified":1464313138,
+    "wof:name":"Turbo 2000",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "petrol",
+        "chemical",
+        "refrigerant"
+    ]
+},
+  "bbox": [
+    -106.354881,
+    42.809905,
+    -106.354881,
+    42.809905
+],
+  "geometry": {"coordinates":[-106.35488100000001,42.809905],"type":"Point"}
+}

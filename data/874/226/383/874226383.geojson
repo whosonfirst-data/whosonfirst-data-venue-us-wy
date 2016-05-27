@@ -1,0 +1,65 @@
+{
+  "id": 874226383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590592,41.327552,-105.590592,41.327552",
+    "geom:latitude":41.327552,
+    "geom:longitude":-105.590592,
+    "iso:country":"US",
+    "sg:address":"1660 N 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 5435",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Buvy2P6hJb1esimhQaPby_41.327552_-105.590592@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313125,
+    "wof:geomhash":"69e08ff43773d32e994ce5e765757b6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874226383
+        }
+    ],
+    "wof:id":874226383,
+    "wof:lastmodified":1464313125,
+    "wof:name":"WYCO Gas",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas"
+    ]
+},
+  "bbox": [
+    -105.590592,
+    41.327552,
+    -105.590592,
+    41.327552
+],
+  "geometry": {"coordinates":[-105.590592,41.327552],"type":"Point"}
+}

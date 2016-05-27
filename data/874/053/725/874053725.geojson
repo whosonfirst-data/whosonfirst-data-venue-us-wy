@@ -1,0 +1,73 @@
+{
+  "id": 874053725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.494055,42.894505,-106.494055,42.894505",
+    "geom:latitude":42.894505,
+    "geom:longitude":-106.494055,
+    "iso:country":"US",
+    "sg:address":"9971 Landmark Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 0814",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "testing",
+        "emission",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R4jxXKzrQs3eqPtACKcTO_42.894505_-106.494055@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311276,
+    "wof:geomhash":"8638664c1862b4556146e0f4da251cde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874053725
+        }
+    ],
+    "wof:id":874053725,
+    "wof:lastmodified":1464311276,
+    "wof:name":"Daniel Klassen",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "testing",
+        "emission",
+        "air"
+    ]
+},
+  "bbox": [
+    -106.494055,
+    42.894505,
+    -106.494055,
+    42.894505
+],
+  "geometry": {"coordinates":[-106.494055,42.894505],"type":"Point"}
+}

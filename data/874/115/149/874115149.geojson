@@ -1,0 +1,71 @@
+{
+  "id": 874115149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.596046,41.312035,-105.596046,41.312035",
+    "geom:latitude":41.312035,
+    "geom:longitude":-105.596046,
+    "iso:country":"US",
+    "sg:address":"102 E Ivinson Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 8189",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_764D7eVFpKbssvFOgfTEVV_41.312035_-105.596046@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311988,
+    "wof:geomhash":"d110f534ef541506cc3b5aeed5d33bd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874115149
+        }
+    ],
+    "wof:id":874115149,
+    "wof:lastmodified":1464311988,
+    "wof:name":"Foundation For Christian",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -105.596046,
+    41.312035,
+    -105.596046,
+    41.312035
+],
+  "geometry": {"coordinates":[-105.596046,41.312035],"type":"Point"}
+}

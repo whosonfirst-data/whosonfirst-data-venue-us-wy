@@ -1,0 +1,69 @@
+{
+  "id": 874213147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.391984,42.855733,-106.391984,42.855733",
+    "geom:latitude":42.855733,
+    "geom:longitude":-106.391984,
+    "iso:country":"US",
+    "sg:address":"5076 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 9653",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iUx9XneaKbJUGErmo4KnE_42.855733_-106.391984@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312985,
+    "wof:geomhash":"fd799be6981dac2e0dec85a1e5847eb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874213147
+        }
+    ],
+    "wof:id":874213147,
+    "wof:lastmodified":1464312985,
+    "wof:name":"Mountain View Conoco",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.391984,
+    42.855733,
+    -106.391984,
+    42.855733
+],
+  "geometry": {"coordinates":[-106.39198399999999,42.855733],"type":"Point"}
+}

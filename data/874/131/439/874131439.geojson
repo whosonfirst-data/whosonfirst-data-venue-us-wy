@@ -1,0 +1,71 @@
+{
+  "id": 874131439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.299724,42.854841,-106.299724,42.854841",
+    "geom:latitude":42.854841,
+    "geom:longitude":-106.299724,
+    "iso:country":"US",
+    "sg:address":"500 N Lennox St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 2059",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01zli6jEBiKi2jphiT1DIc_42.854841_-106.299724@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312154,
+    "wof:geomhash":"07a6c495487135af9e1d5f1d6c9aa4cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874131439
+        }
+    ],
+    "wof:id":874131439,
+    "wof:lastmodified":1464312154,
+    "wof:name":"NOWCAP Weatherization",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -106.299724,
+    42.854841,
+    -106.299724,
+    42.854841
+],
+  "geometry": {"coordinates":[-106.299724,42.854841],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 874230377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.842036,43.516045,-110.842036,43.516045",
+    "geom:latitude":43.516045,
+    "geom:longitude":-110.842036,
+    "iso:country":"US",
+    "sg:address":"2550 Moose Wilson Rd",
+    "sg:city":"Wilson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/jackson-hole/269635-q-roadhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 739 0700",
+    "sg:postcode":"83014",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A8WIu14K91tFMSgRaTVil_43.516045_-110.842036@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313163,
+    "wof:geomhash":"31b883244f4671d893230aa620ffec04",
+    "wof:hierarchy":[],
+    "wof:id":874230377,
+    "wof:lastmodified":1464313163,
+    "wof:name":"Q Roadhouse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -110.842036,
+    43.516045,
+    -110.842036,
+    43.516045
+],
+  "geometry": {"coordinates":[-110.84203599999999,43.516045],"type":"Point"}
+}

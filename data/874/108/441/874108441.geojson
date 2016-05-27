@@ -1,0 +1,56 @@
+{
+  "id": 874108441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.798023,41.142242,-104.798023,41.142242",
+    "geom:latitude":41.142242,
+    "geom:longitude":-104.798023,
+    "iso:country":"US",
+    "sg:address":"1609 E 19th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 9362",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sAHMoDlx1eO3OMYGXsquh_41.142242_-104.798023@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311898,
+    "wof:geomhash":"837b196c7b72590b6ca5ba3fdb1db59b",
+    "wof:hierarchy":[],
+    "wof:id":874108441,
+    "wof:lastmodified":1464311898,
+    "wof:name":"Southeast Wyoming Mental Hlth",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -104.798023,
+    41.142242,
+    -104.798023,
+    41.142242
+],
+  "geometry": {"coordinates":[-104.798023,41.142242],"type":"Point"}
+}

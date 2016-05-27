@@ -1,0 +1,69 @@
+{
+  "id": 873996953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.374282,42.809113,-106.374282,42.809113",
+    "geom:latitude":42.809113,
+    "geom:longitude":-106.374282,
+    "iso:country":"US",
+    "sg:address":"4020 Grizzly",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7262",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ds4a1BGzzZ8Jxw1vPM8Nc_42.809113_-106.374282@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310739,
+    "wof:geomhash":"7177a86ae9b320d8224a51c4f41edddb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873996953
+        }
+    ],
+    "wof:id":873996953,
+    "wof:lastmodified":1464310739,
+    "wof:name":"Frac Tanks By Bryson Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field"
+    ]
+},
+  "bbox": [
+    -106.374282,
+    42.809113,
+    -106.374282,
+    42.809113
+],
+  "geometry": {"coordinates":[-106.37428199999999,42.809113],"type":"Point"}
+}

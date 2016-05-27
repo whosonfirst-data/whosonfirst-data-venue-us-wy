@@ -1,0 +1,58 @@
+{
+  "id": 874200349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.485123,41.201825,-104.485123,41.201825",
+    "geom:latitude":41.201825,
+    "geom:longitude":-104.485123,
+    "iso:country":"US",
+    "sg:address":"3728 Co Rd 214",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 9273",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "blacksmith",
+        "horseshoeing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xon3z57LfdRqZI0Ib7WNk_41.201825_-104.485123@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312847,
+    "wof:geomhash":"2560a577f5e6be575b8cd9f43172c478",
+    "wof:hierarchy":[],
+    "wof:id":874200349,
+    "wof:lastmodified":1464312847,
+    "wof:name":"Johnson's Horseshoeing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blacksmith",
+        "horseshoeing"
+    ]
+},
+  "bbox": [
+    -104.485123,
+    41.201825,
+    -104.485123,
+    41.201825
+],
+  "geometry": {"coordinates":[-104.485123,41.201825],"type":"Point"}
+}

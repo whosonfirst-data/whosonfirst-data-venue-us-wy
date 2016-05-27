@@ -1,0 +1,57 @@
+{
+  "id": 874231565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.250283,41.577539,-109.250283,41.577539",
+    "geom:latitude":41.577539,
+    "geom:longitude":-109.250283,
+    "iso:country":"US",
+    "sg:address":"108 Westland Way",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/rock-springs-north/214082-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 8089",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iafACkT1vzhRNhrgObI84_41.577778_-109.250688@1294083659"
+    },
+    "wof:country":"US",
+    "wof:created":1464313176,
+    "wof:geomhash":"5b25d202d3ec0bad5286be5a98e159dc",
+    "wof:hierarchy":[],
+    "wof:id":874231565,
+    "wof:lastmodified":1464313176,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -109.250283,
+    41.577539,
+    -109.250283,
+    41.577539
+],
+  "geometry": {"coordinates":[-109.250283,41.577539],"type":"Point"}
+}

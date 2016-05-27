@@ -1,0 +1,56 @@
+{
+  "id": 874023283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.466911,41.52886,-109.466911,41.52886",
+    "geom:latitude":41.52886,
+    "geom:longitude":-109.466911,
+    "iso:country":"US",
+    "sg:address":"55 E Flaming Gorge Way",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 3224",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Lt66GhxnhoFN3XF6ha6WP_41.528860_-109.466911@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310976,
+    "wof:geomhash":"c3b87e2abb5989abeb6977aa28517a4b",
+    "wof:hierarchy":[],
+    "wof:id":874023283,
+    "wof:lastmodified":1464310976,
+    "wof:name":"US West Communications",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -109.466911,
+    41.52886,
+    -109.466911,
+    41.52886
+],
+  "geometry": {"coordinates":[-109.466911,41.52886],"type":"Point"}
+}

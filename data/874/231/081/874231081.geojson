@@ -1,0 +1,57 @@
+{
+  "id": 874231081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.504121,44.293177,-105.504121,44.293177",
+    "geom:latitude":44.293177,
+    "geom:longitude":-105.504121,
+    "iso:country":"US",
+    "sg:address":"106 W 2nd St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/gillette-north/166984-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 2809",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Opj2l9ujZ6I45ZnLLQCp4_44.293265_-105.503956@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313175,
+    "wof:geomhash":"d4bdda3513e54dd2c69e01fdf61c142f",
+    "wof:hierarchy":[],
+    "wof:id":874231081,
+    "wof:lastmodified":1464313175,
+    "wof:name":"Burger King",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -105.504121,
+    44.293177,
+    -105.504121,
+    44.293177
+],
+  "geometry": {"coordinates":[-105.504121,44.293177],"type":"Point"}
+}

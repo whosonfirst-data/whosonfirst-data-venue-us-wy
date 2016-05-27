@@ -1,0 +1,69 @@
+{
+  "id": 874128275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.253454,42.831976,-106.253454,42.831976",
+    "geom:latitude":42.831976,
+    "geom:longitude":-106.253454,
+    "iso:country":"US",
+    "sg:address":"1810 Miracle Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 6292",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FiJpXIYPp3cUu8MlHCtcR_42.831976_-106.253454@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312113,
+    "wof:geomhash":"a6a9c8cf1389fe4176f9e704fa3f6da2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874128275
+        }
+    ],
+    "wof:id":874128275,
+    "wof:lastmodified":1464312113,
+    "wof:name":"Kinsman Arms Apartments",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -106.253454,
+    42.831976,
+    -106.253454,
+    42.831976
+],
+  "geometry": {"coordinates":[-106.253454,42.831976],"type":"Point"}
+}

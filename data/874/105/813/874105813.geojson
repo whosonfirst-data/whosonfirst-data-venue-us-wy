@@ -1,0 +1,56 @@
+{
+  "id": 874105813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.48951,43.7568,-105.48951,43.7568",
+    "geom:latitude":43.7568,
+    "geom:longitude":-105.48951,
+    "iso:country":"US",
+    "sg:address":"521 Latigo Dr",
+    "sg:city":"Wright",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 464 1404",
+    "sg:postcode":"82732",
+    "sg:province":"WY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AlZcLWFRIi1xuBPIv9Pqg_43.756800_-105.489510@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311866,
+    "wof:geomhash":"4640ab7c53449cb9f5ec80c746cb6184",
+    "wof:hierarchy":[],
+    "wof:id":874105813,
+    "wof:lastmodified":1464311866,
+    "wof:name":"Wright Manor Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -105.48951,
+    43.7568,
+    -105.48951,
+    43.7568
+],
+  "geometry": {"coordinates":[-105.48951,43.7568],"type":"Point"}
+}

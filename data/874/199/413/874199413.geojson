@@ -1,0 +1,71 @@
+{
+  "id": 874199413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.634463,41.320322,-105.634463,41.320322",
+    "geom:latitude":41.320322,
+    "geom:longitude":-105.634463,
+    "iso:country":"US",
+    "sg:address":"1138 Welsh Ln",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 5469",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "stable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iWUX8yOdfgJvrKX6Y2rqV_41.320322_-105.634463@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312838,
+    "wof:geomhash":"abde1b910a1dc18f862851a10dfa65de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874199413
+        }
+    ],
+    "wof:id":874199413,
+    "wof:lastmodified":1464312838,
+    "wof:name":"Reed's Arena",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stable"
+    ]
+},
+  "bbox": [
+    -105.634463,
+    41.320322,
+    -105.634463,
+    41.320322
+],
+  "geometry": {"coordinates":[-105.634463,41.320322],"type":"Point"}
+}

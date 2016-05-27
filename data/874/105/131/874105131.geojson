@@ -1,0 +1,71 @@
+{
+  "id": 874105131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.586901,41.323725,-105.586901,41.323725",
+    "geom:latitude":41.323725,
+    "geom:longitude":-105.586901,
+    "iso:country":"US",
+    "sg:address":"1267 N 7th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 9279",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ptU0stv0iwT4tN0Vy9OR8_41.323725_-105.586901@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311858,
+    "wof:geomhash":"c6a6b84481fd3deba51c2328f42d6f3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874105131
+        }
+    ],
+    "wof:id":874105131,
+    "wof:lastmodified":1464311858,
+    "wof:name":"D & L Music",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -105.586901,
+    41.323725,
+    -105.586901,
+    41.323725
+],
+  "geometry": {"coordinates":[-105.586901,41.323725],"type":"Point"}
+}

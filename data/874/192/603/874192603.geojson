@@ -1,0 +1,71 @@
+{
+  "id": 874192603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.597828,41.320084,-105.597828,41.320084",
+    "geom:latitude":41.320084,
+    "geom:longitude":-105.597828,
+    "iso:country":"US",
+    "sg:address":"861 N Hodgeman St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4324",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47smaKdIdFi1a9zmZvgWYK_41.320084_-105.597828@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312766,
+    "wof:geomhash":"b573ab3576daaaa8ca515bcbc8f651ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874192603
+        }
+    ],
+    "wof:id":874192603,
+    "wof:lastmodified":1464312766,
+    "wof:name":"Mountain Zone Surveys",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -105.597828,
+    41.320084,
+    -105.597828,
+    41.320084
+],
+  "geometry": {"coordinates":[-105.59782800000001,41.320084],"type":"Point"}
+}

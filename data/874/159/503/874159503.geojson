@@ -1,0 +1,58 @@
+{
+  "id": 874159503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.165149,42.054212,-104.165149,42.054212",
+    "geom:latitude":42.054212,
+    "geom:longitude":-104.165149,
+    "iso:country":"US",
+    "sg:address":"1500 E Valley Rd",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 8164",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mzL1RrEOMF3xyWCLkVVzC_42.054212_-104.165149@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312426,
+    "wof:geomhash":"22fed6165d7012026bca8b4c18376371",
+    "wof:hierarchy":[],
+    "wof:id":874159503,
+    "wof:lastmodified":1464312426,
+    "wof:name":"Torrington Travel Terminal",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -104.165149,
+    42.054212,
+    -104.165149,
+    42.054212
+],
+  "geometry": {"coordinates":[-104.165149,42.054212],"type":"Point"}
+}

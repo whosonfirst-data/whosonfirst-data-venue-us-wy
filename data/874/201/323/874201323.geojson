@@ -1,0 +1,58 @@
+{
+  "id": 874201323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.389364,44.836923,-108.389364,44.836923",
+    "geom:latitude":44.836923,
+    "geom:longitude":-108.389364,
+    "iso:country":"US",
+    "sg:address":"438 Nevada Ave",
+    "sg:city":"Lovell",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 548 6725",
+    "sg:postcode":"82431",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ghMgLdeRznPB6XUlY2O91_44.836923_-108.389364@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312856,
+    "wof:geomhash":"41fd4bdb9af3f36af84b2a2e22098347",
+    "wof:hierarchy":[],
+    "wof:id":874201323,
+    "wof:lastmodified":1464312856,
+    "wof:name":"Engineer Wyoming State",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -108.389364,
+    44.836923,
+    -108.389364,
+    44.836923
+],
+  "geometry": {"coordinates":[-108.389364,44.836923],"type":"Point"}
+}

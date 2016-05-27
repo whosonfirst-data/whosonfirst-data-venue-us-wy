@@ -1,0 +1,69 @@
+{
+  "id": 874128595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.321023,42.837475,-106.321023,42.837475",
+    "geom:latitude":42.837475,
+    "geom:longitude":-106.321023,
+    "iso:country":"US",
+    "sg:address":"311 E 13th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 5268",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "exploration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WkPVeVasCVtFUGX55AV9u_42.837475_-106.321023@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312116,
+    "wof:geomhash":"827d4a61a590608ec3d064bc85ee348a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874128595
+        }
+    ],
+    "wof:id":874128595,
+    "wof:lastmodified":1464312116,
+    "wof:name":"Wallace K Reaves",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exploration"
+    ]
+},
+  "bbox": [
+    -106.321023,
+    42.837475,
+    -106.321023,
+    42.837475
+],
+  "geometry": {"coordinates":[-106.321023,42.837475],"type":"Point"}
+}

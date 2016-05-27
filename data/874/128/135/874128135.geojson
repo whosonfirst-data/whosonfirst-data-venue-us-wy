@@ -1,0 +1,60 @@
+{
+  "id": 874128135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.757745,41.136452,-104.757745,41.136452",
+    "geom:latitude":41.136452,
+    "geom:longitude":-104.757745,
+    "iso:country":"US",
+    "sg:address":"4200 E 12th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 772 8633",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KJi4OqUqzhh5AKExdhKNj_41.136452_-104.757745@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312112,
+    "wof:geomhash":"68bd8f0fec161a529a55a98b465a3f70",
+    "wof:hierarchy":[],
+    "wof:id":874128135,
+    "wof:lastmodified":1464312112,
+    "wof:name":"Cycle T's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -104.757745,
+    41.136452,
+    -104.757745,
+    41.136452
+],
+  "geometry": {"coordinates":[-104.757745,41.136452],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 874230905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.397968,43.024634,-108.397968,43.024634",
+    "geom:latitude":43.024634,
+    "geom:longitude":-108.397968,
+    "iso:country":"US",
+    "sg:address":"623 W Main St",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/wind-river/96490-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 9649",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MsljngAKBwwB7A35qTbCp_43.024531_-108.397923@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313173,
+    "wof:geomhash":"8c2b0c63cd8c33f4f12508b9853100b1",
+    "wof:hierarchy":[],
+    "wof:id":874230905,
+    "wof:lastmodified":1464313173,
+    "wof:name":"Taco John's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -108.397968,
+    43.024634,
+    -108.397968,
+    43.024634
+],
+  "geometry": {"coordinates":[-108.39796800000001,43.024634],"type":"Point"}
+}

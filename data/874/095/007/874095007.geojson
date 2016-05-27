@@ -1,0 +1,73 @@
+{
+  "id": 874095007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.304493,42.85356,-106.304493,42.85356",
+    "geom:latitude":42.85356,
+    "geom:longitude":-106.304493,
+    "iso:country":"US",
+    "sg:address":"1500 E Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1130",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "fencing",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Nsi4MYdZS4TaE8nhr6X7t_42.853560_-106.304493@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311712,
+    "wof:geomhash":"8986f4a11e9f7ecac1b59f03c2f2292a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874095007
+        }
+    ],
+    "wof:id":874095007,
+    "wof:lastmodified":1464311712,
+    "wof:name":"Michaels Fence & Supply Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fencing",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.304493,
+    42.85356,
+    -106.304493,
+    42.85356
+],
+  "geometry": {"coordinates":[-106.30449299999999,42.85356],"type":"Point"}
+}

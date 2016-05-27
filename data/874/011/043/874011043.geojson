@@ -1,0 +1,56 @@
+{
+  "id": 874011043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.641364,43.53842,-109.641364,43.53842",
+    "geom:latitude":43.53842,
+    "geom:longitude":-109.641364,
+    "iso:country":"US",
+    "sg:address":"208 D St",
+    "sg:city":"Dubois",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 455 2292",
+    "sg:postcode":"82513",
+    "sg:province":"WY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B9aFi7xpAJjyykRXhzMRn_43.538420_-109.641364@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310863,
+    "wof:geomhash":"8c7dc52a293fe34647724c7aaffc738c",
+    "wof:hierarchy":[],
+    "wof:id":874011043,
+    "wof:lastmodified":1464310863,
+    "wof:name":"Dubois Town Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -109.641364,
+    43.53842,
+    -109.641364,
+    43.53842
+],
+  "geometry": {"coordinates":[-109.641364,43.53842],"type":"Point"}
+}

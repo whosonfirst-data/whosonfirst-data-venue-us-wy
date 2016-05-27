@@ -1,0 +1,83 @@
+{
+  "id": 873998143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.2185,41.585249,-109.2185,41.585249",
+    "geom:latitude":41.585249,
+    "geom:longitude":-109.2185,
+    "iso:country":"US",
+    "sg:address":"400 2nd St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 3544",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pharmaceutical",
+        "mfg",
+        "preparation",
+        "health",
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jw5GQO2Ic20pfqrep0Q9X_41.585249_-109.218500@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310748,
+    "wof:geomhash":"281ac6741c4102a867bb35e03a5faf82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":873998143
+        }
+    ],
+    "wof:id":873998143,
+    "wof:lastmodified":1464310748,
+    "wof:name":"Rock Springs IV Center",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "mfg",
+        "preparation",
+        "health",
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -109.2185,
+    41.585249,
+    -109.2185,
+    41.585249
+],
+  "geometry": {"coordinates":[-109.21850000000001,41.585249],"type":"Point"}
+}

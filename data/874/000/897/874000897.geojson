@@ -1,0 +1,71 @@
+{
+  "id": 874000897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593374,41.313959,-105.593374,41.313959",
+    "geom:latitude":41.313959,
+    "geom:longitude":-105.593374,
+    "iso:country":"US",
+    "sg:address":"262 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4853",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wvRIpmIzKzjvfCJam4Qud_41.313959_-105.593374@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310767,
+    "wof:geomhash":"04b8986e17a50143019b020c3641c698",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874000897
+        }
+    ],
+    "wof:id":874000897,
+    "wof:lastmodified":1464310767,
+    "wof:name":"Travel Inn Motel",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -105.593374,
+    41.313959,
+    -105.593374,
+    41.313959
+],
+  "geometry": {"coordinates":[-105.593374,41.313959],"type":"Point"}
+}

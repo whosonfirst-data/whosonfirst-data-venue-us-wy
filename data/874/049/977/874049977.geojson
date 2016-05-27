@@ -1,0 +1,51 @@
+{
+  "id": 874049977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.520706,44.291908,-105.520706,44.291908",
+    "geom:latitude":44.291908,
+    "geom:longitude":-105.520706,
+    "iso:country":"US",
+    "sg:address":"1307 W 3rd St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 4954",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QMMq1KjDmeX8pfrFjLdED_44.291908_-105.520706@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311240,
+    "wof:geomhash":"78327e0501d0a3f0338226c10a0e7552",
+    "wof:hierarchy":[],
+    "wof:id":874049977,
+    "wof:lastmodified":1464311240,
+    "wof:name":"Gillette Foot Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.520706,
+    44.291908,
+    -105.520706,
+    44.291908
+],
+  "geometry": {"coordinates":[-105.520706,44.291908],"type":"Point"}
+}

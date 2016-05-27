@@ -1,0 +1,71 @@
+{
+  "id": 874180973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.4094,42.79907,-106.4094,42.79907",
+    "geom:latitude":42.79907,
+    "geom:longitude":-106.4094,
+    "iso:country":"US",
+    "sg:address":"6010 Bell Valley Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 4292",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TqxI2J5qSf1yFvqIkINZ1_42.799070_-106.409400@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312639,
+    "wof:geomhash":"97e25c1b7b234346f8582df390e8d584",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874180973
+        }
+    ],
+    "wof:id":874180973,
+    "wof:lastmodified":1464312639,
+    "wof:name":"5n LLC",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -106.4094,
+    42.79907,
+    -106.4094,
+    42.79907
+],
+  "geometry": {"coordinates":[-106.40940000000001,42.79907],"type":"Point"}
+}

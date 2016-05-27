@@ -1,0 +1,72 @@
+{
+  "id": 874130981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.346091,42.871088,-106.346091,42.871088",
+    "geom:latitude":42.871088,
+    "geom:longitude":-106.346091,
+    "iso:country":"US",
+    "sg:address":"1890 N Loop Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 6810",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cookie",
+        "cracker"
+    ],
+    "sg:website":"www.kraft.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wIu9CkLDrrRB7KWgoSFFH_42.871088_-106.346091@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312149,
+    "wof:geomhash":"84c1526c02316926025754db343793bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874130981
+        }
+    ],
+    "wof:id":874130981,
+    "wof:lastmodified":1464312149,
+    "wof:name":"Nabisco Biscuit Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cookie",
+        "cracker"
+    ]
+},
+  "bbox": [
+    -106.346091,
+    42.871088,
+    -106.346091,
+    42.871088
+],
+  "geometry": {"coordinates":[-106.346091,42.871088],"type":"Point"}
+}

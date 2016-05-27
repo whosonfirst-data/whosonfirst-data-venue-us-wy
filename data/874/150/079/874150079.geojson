@@ -1,0 +1,83 @@
+{
+  "id": 874150079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590946,41.292229,-105.590946,41.292229",
+    "geom:latitude":41.292229,
+    "geom:longitude":-105.590946,
+    "iso:country":"US",
+    "sg:address":"611 Skyline Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 0031",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mining",
+        "transportation",
+        "civil",
+        "res",
+        "water",
+        "environmental",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_272o1BGjudz8Xj4putzrIg_41.292229_-105.590946@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312329,
+    "wof:geomhash":"0f10e9a85b54f05503b49f7f8ed87c66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874150079
+        }
+    ],
+    "wof:id":874150079,
+    "wof:lastmodified":1464312329,
+    "wof:name":"W W C Engineering",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mining",
+        "transportation",
+        "civil",
+        "res",
+        "water",
+        "environmental",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -105.590946,
+    41.292229,
+    -105.590946,
+    41.292229
+],
+  "geometry": {"coordinates":[-105.590946,41.292229],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874215455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590699,41.310764,-105.590699,41.310764",
+    "geom:latitude":41.310764,
+    "geom:longitude":-105.590699,
+    "iso:country":"US",
+    "sg:address":"520 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 9494",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.hcclaramie.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UQqA6Fh4hVWoMLW3mxFZM_41.310764_-105.590699@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313008,
+    "wof:geomhash":"9775b51d933e0a469eecc76ba7510670",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874215455
+        }
+    ],
+    "wof:id":874215455,
+    "wof:lastmodified":1464313008,
+    "wof:name":"Harvest Church",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -105.590699,
+    41.310764,
+    -105.590699,
+    41.310764
+],
+  "geometry": {"coordinates":[-105.590699,41.310764],"type":"Point"}
+}

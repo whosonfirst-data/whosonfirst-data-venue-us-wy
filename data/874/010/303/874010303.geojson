@@ -1,0 +1,51 @@
+{
+  "id": 874010303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955658,44.803258,-106.955658,44.803258",
+    "geom:latitude":44.803258,
+    "geom:longitude":-106.955658,
+    "iso:country":"US",
+    "sg:address":"555 N Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 3741",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FoLHSL1Vha5Y8uIz4nAi1_44.803258_-106.955658@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310858,
+    "wof:geomhash":"f24254302948cada1e4a7c6e41905e35",
+    "wof:hierarchy":[],
+    "wof:id":874010303,
+    "wof:lastmodified":1464310858,
+    "wof:name":"Laya's Main Street Pharmacy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.955658,
+    44.803258,
+    -106.955658,
+    44.803258
+],
+  "geometry": {"coordinates":[-106.955658,44.803258],"type":"Point"}
+}

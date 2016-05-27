@@ -1,0 +1,56 @@
+{
+  "id": 874024675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.199728,43.8511,-104.199728,43.8511",
+    "geom:latitude":43.8511,
+    "geom:longitude":-104.199728,
+    "iso:country":"US",
+    "sg:address":"123 W Hill St",
+    "sg:city":"Hulett",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 467 5504",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TGDyMStT0BovYO1Lfwpzh_43.851100_-104.199728@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310993,
+    "wof:geomhash":"188c3f02e172c7226b7d3b039a50dc8f",
+    "wof:hierarchy":[],
+    "wof:id":874024675,
+    "wof:lastmodified":1464310993,
+    "wof:name":"Hulett Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -104.199728,
+    43.8511,
+    -104.199728,
+    43.8511
+],
+  "geometry": {"coordinates":[-104.19972799999999,43.8511],"type":"Point"}
+}

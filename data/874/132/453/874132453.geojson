@@ -1,0 +1,64 @@
+{
+  "id": 874132453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.331053,42.847002,-106.331053,42.847002",
+    "geom:latitude":42.847002,
+    "geom:longitude":-106.331053,
+    "iso:country":"US",
+    "sg:address":"613 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 2016",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04G9D1F2NIQQmzP3iVXOKY_42.847002_-106.331053@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312167,
+    "wof:geomhash":"1b80b75b7bbbebff18a680beac5d6248",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874132453
+        }
+    ],
+    "wof:id":874132453,
+    "wof:lastmodified":1464312167,
+    "wof:name":"United States Tae Kwon Do",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.331053,
+    42.847002,
+    -106.331053,
+    42.847002
+],
+  "geometry": {"coordinates":[-106.331053,42.847002],"type":"Point"}
+}

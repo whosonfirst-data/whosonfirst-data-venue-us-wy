@@ -1,0 +1,66 @@
+{
+  "id": 874065413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.555254,41.269954,-105.555254,41.269954",
+    "geom:latitude":41.269954,
+    "geom:longitude":-105.555254,
+    "iso:country":"US",
+    "sg:address":"3019 Pope Springs Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4092",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SDLHfhOwhubkO2NFw3Auv_41.269954_-105.555254@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311383,
+    "wof:geomhash":"edc4c247ba99eaa6474b6e07cc3ad7d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874065413
+        }
+    ],
+    "wof:id":874065413,
+    "wof:lastmodified":1464311383,
+    "wof:name":"Laramie Film Society",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.555254,
+    41.269954,
+    -105.555254,
+    41.269954
+],
+  "geometry": {"coordinates":[-105.55525400000001,41.269954],"type":"Point"}
+}

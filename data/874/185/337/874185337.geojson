@@ -1,0 +1,58 @@
+{
+  "id": 874185337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.796442,43.460304,-110.796442,43.460304",
+    "geom:latitude":43.460304,
+    "geom:longitude":-110.796442,
+    "iso:country":"US",
+    "sg:address":"1250 S Carol Ln",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 6067",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AkTq8JE6DVv4PtWYG7BZj_43.460304_-110.796442@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312694,
+    "wof:geomhash":"7f18d57ead6afc0d9852160f2a4e2f54",
+    "wof:hierarchy":[],
+    "wof:id":874185337,
+    "wof:lastmodified":1464312694,
+    "wof:name":"Auto & Diesel Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -110.796442,
+    43.460304,
+    -110.796442,
+    43.460304
+],
+  "geometry": {"coordinates":[-110.796442,43.460304],"type":"Point"}
+}

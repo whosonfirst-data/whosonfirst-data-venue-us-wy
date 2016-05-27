@@ -1,0 +1,69 @@
+{
+  "id": 874199465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.384864,42.815785,-106.384864,42.815785",
+    "geom:latitude":42.815785,
+    "geom:longitude":-106.384864,
+    "iso:country":"US",
+    "sg:address":"3163 Prospector Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 4889",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30dAXnGg4PTv4MWhWuLchD_42.815785_-106.384864@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312838,
+    "wof:geomhash":"d209fb95b26da02fe8389e892ecc2894",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874199465
+        }
+    ],
+    "wof:id":874199465,
+    "wof:lastmodified":1464312838,
+    "wof:name":"Best Friends Animal Health Ctr",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -106.384864,
+    42.815785,
+    -106.384864,
+    42.815785
+],
+  "geometry": {"coordinates":[-106.38486399999999,42.815785],"type":"Point"}
+}

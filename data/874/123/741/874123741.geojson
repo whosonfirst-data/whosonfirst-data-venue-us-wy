@@ -1,0 +1,51 @@
+{
+  "id": 874123741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.827222,41.142683,-104.827222,41.142683",
+    "geom:latitude":41.142683,
+    "geom:longitude":-104.827222,
+    "iso:country":"US",
+    "sg:address":"510 W 29th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 771 2410",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fd98XRtHw28Yndn4U0Coa_41.142683_-104.827222@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312074,
+    "wof:geomhash":"1b7d0f4e6d792b9939723cc73b9a390a",
+    "wof:hierarchy":[],
+    "wof:id":874123741,
+    "wof:lastmodified":1464312074,
+    "wof:name":"Churchill School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.827222,
+    41.142683,
+    -104.827222,
+    41.142683
+],
+  "geometry": {"coordinates":[-104.82722200000001,41.142683],"type":"Point"}
+}

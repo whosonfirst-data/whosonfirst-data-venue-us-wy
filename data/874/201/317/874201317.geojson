@@ -1,0 +1,57 @@
+{
+  "id": 874201317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.821941,41.138822,-104.821941,41.138822",
+    "geom:latitude":41.138822,
+    "geom:longitude":-104.821941,
+    "iso:country":"US",
+    "sg:address":"2323 Pioneer Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 1112",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:website":"www.wsba-wy.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41RacHJLNShDSst9It8sDy_41.138822_-104.821941@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312856,
+    "wof:geomhash":"bd0a17e7fb0950524e345005bb84b93a",
+    "wof:hierarchy":[],
+    "wof:id":874201317,
+    "wof:lastmodified":1464312856,
+    "wof:name":"Wyoming School Boards Assoc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.821941,
+    41.138822,
+    -104.821941,
+    41.138822
+],
+  "geometry": {"coordinates":[-104.821941,41.138822],"type":"Point"}
+}

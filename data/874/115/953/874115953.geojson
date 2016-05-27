@@ -1,0 +1,69 @@
+{
+  "id": 874115953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.348345,42.919315,-106.348345,42.919315",
+    "geom:latitude":42.919315,
+    "geom:longitude":-106.348345,
+    "iso:country":"US",
+    "sg:address":"5060 Bel Vista Dr",
+    "sg:city":"Bar Nunn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1606",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "woodworker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RXdZf0YR8ZKr4TgrBDbyY_42.919315_-106.348345@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311996,
+    "wof:geomhash":"18fcd4043c32e0fc1cf415bd10e414e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874115953
+        }
+    ],
+    "wof:id":874115953,
+    "wof:lastmodified":1464311996,
+    "wof:name":"Chris Walker The Wood Doctor",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woodworker"
+    ]
+},
+  "bbox": [
+    -106.348345,
+    42.919315,
+    -106.348345,
+    42.919315
+],
+  "geometry": {"coordinates":[-106.34834499999999,42.919315],"type":"Point"}
+}

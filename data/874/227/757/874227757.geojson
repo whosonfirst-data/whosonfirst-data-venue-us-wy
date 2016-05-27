@@ -1,0 +1,67 @@
+{
+  "id": 874227757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.009812,41.10337,-106.009812,41.10337",
+    "geom:latitude":41.10337,
+    "geom:longitude":-106.009812,
+    "iso:country":"US",
+    "sg:address":"68 State Hwy 10",
+    "sg:city":"Jelm",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6187",
+    "sg:postcode":"82063",
+    "sg:province":"WY",
+    "sg:tags":[
+        "farm",
+        "wheat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sjGAWCemCxDXL32qzFhxE_41.103370_-106.009812@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313138,
+    "wof:geomhash":"56faf76855606a76bd7c9fa02d1d63e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874227757
+        }
+    ],
+    "wof:id":874227757,
+    "wof:lastmodified":1464313138,
+    "wof:name":"Jeanette Dye",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat"
+    ]
+},
+  "bbox": [
+    -106.009812,
+    41.10337,
+    -106.009812,
+    41.10337
+],
+  "geometry": {"coordinates":[-106.009812,41.10337],"type":"Point"}
+}

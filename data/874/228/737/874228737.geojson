@@ -1,0 +1,58 @@
+{
+  "id": 874228737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.768114,41.160129,-104.768114,41.160129",
+    "geom:latitude":41.160129,
+    "geom:longitude":-104.768114,
+    "iso:country":"US",
+    "sg:address":"3410 Dell Range Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/206648-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29E39m91BXC4xxNMGMKovk_41.160129_-104.768114@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313148,
+    "wof:geomhash":"78984b33a731ee8e4d56db51d250c59f",
+    "wof:hierarchy":[],
+    "wof:id":874228737,
+    "wof:lastmodified":1464313148,
+    "wof:name":"McDonald's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -104.768114,
+    41.160129,
+    -104.768114,
+    41.160129
+],
+  "geometry": {"coordinates":[-104.768114,41.160129],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874172271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.503959,44.292275,-105.503959,44.292275",
+    "geom:latitude":44.292275,
+    "geom:longitude":-105.503959,
+    "iso:country":"US",
+    "sg:address":"103 E 3rd St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 9361",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HZYMnY1ynMG3DZXKlKLou_44.292275_-105.503959@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312552,
+    "wof:geomhash":"527d1195a5a68360655798b23410f477",
+    "wof:hierarchy":[],
+    "wof:id":874172271,
+    "wof:lastmodified":1464312552,
+    "wof:name":"City Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -105.503959,
+    44.292275,
+    -105.503959,
+    44.292275
+],
+  "geometry": {"coordinates":[-105.50395899999999,44.292275],"type":"Point"}
+}

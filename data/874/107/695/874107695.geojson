@@ -1,0 +1,68 @@
+{
+  "id": 874107695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.7956,41.158991,-104.7956,41.158991",
+    "geom:latitude":41.158991,
+    "geom:longitude":-104.7956,
+    "iso:country":"US",
+    "sg:address":"1947 Blue Grass Cir",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 4734",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08I9nC3cdG7M8gKM0xs8jO_41.158991_-104.795600@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311890,
+    "wof:geomhash":"0d37f977c0398c0613fed108612e1754",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":874107695
+        }
+    ],
+    "wof:id":874107695,
+    "wof:lastmodified":1464311890,
+    "wof:name":"Webco Drug Inc",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.7956,
+    41.158991,
+    -104.7956,
+    41.158991
+],
+  "geometry": {"coordinates":[-104.79559999999999,41.158991],"type":"Point"}
+}

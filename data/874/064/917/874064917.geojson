@@ -1,0 +1,69 @@
+{
+  "id": 874064917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.352347,42.809789,-106.352347,42.809789",
+    "geom:latitude":42.809789,
+    "geom:longitude":-106.352347,
+    "iso:country":"US",
+    "sg:address":"2243 W 42nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 4544",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dlwxdWIZSEOoxdwBRuEPi_42.809789_-106.352347@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311379,
+    "wof:geomhash":"f9a77f11162cc93751b36aed75b506d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874064917
+        }
+    ],
+    "wof:id":874064917,
+    "wof:lastmodified":1464311379,
+    "wof:name":"T A Rusty Ward",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -106.352347,
+    42.809789,
+    -106.352347,
+    42.809789
+],
+  "geometry": {"coordinates":[-106.35234699999999,42.809789],"type":"Point"}
+}

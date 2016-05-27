@@ -1,0 +1,75 @@
+{
+  "id": 874208449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.538465,41.321628,-105.538465,41.321628",
+    "geom:latitude":41.321628,
+    "geom:longitude":-105.538465,
+    "iso:country":"US",
+    "sg:address":"4205 Grays Gable Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3786",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "home",
+        "log",
+        "cabin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14Y4S8SR8ymGh4FbCXjdbO_41.321628_-105.538465@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312933,
+    "wof:geomhash":"6e1babf2d5104d3203b347021caebaa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874208449
+        }
+    ],
+    "wof:id":874208449,
+    "wof:lastmodified":1464312933,
+    "wof:name":"Authentic Log Homes",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "log",
+        "cabin"
+    ]
+},
+  "bbox": [
+    -105.538465,
+    41.321628,
+    -105.538465,
+    41.321628
+],
+  "geometry": {"coordinates":[-105.538465,41.321628],"type":"Point"}
+}

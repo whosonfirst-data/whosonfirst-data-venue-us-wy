@@ -1,0 +1,66 @@
+{
+  "id": 874173635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594838,41.311041,-105.594838,41.311041",
+    "geom:latitude":41.311041,
+    "geom:longitude":-105.594838,
+    "iso:country":"US",
+    "sg:address":"214 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5127",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bEEHKdYmQbFXqqOiADEIv_41.311041_-105.594838@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312564,
+    "wof:geomhash":"5d2838e94629b3ffb6844dd873637559",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874173635
+        }
+    ],
+    "wof:id":874173635,
+    "wof:lastmodified":1464312564,
+    "wof:name":"Grand Newsstand",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.594838,
+    41.311041,
+    -105.594838,
+    41.311041
+],
+  "geometry": {"coordinates":[-105.594838,41.311041],"type":"Point"}
+}

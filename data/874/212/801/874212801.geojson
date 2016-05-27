@@ -1,0 +1,58 @@
+{
+  "id": 874212801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955964,44.795244,-106.955964,44.795244",
+    "geom:latitude":44.795244,
+    "geom:longitude":-106.955964,
+    "iso:country":"US",
+    "sg:address":"224 S Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 2580",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "county",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5T5dKje2XFLTRv95XMmRqi_44.795244_-106.955964@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312982,
+    "wof:geomhash":"4b496e4ad9fedffa8323f8e5a15b2cea",
+    "wof:hierarchy":[],
+    "wof:id":874212801,
+    "wof:lastmodified":1464312982,
+    "wof:name":"Sheridan County Attorney",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -106.955964,
+    44.795244,
+    -106.955964,
+    44.795244
+],
+  "geometry": {"coordinates":[-106.95596399999999,44.795244],"type":"Point"}
+}

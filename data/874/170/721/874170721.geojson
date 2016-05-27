@@ -1,0 +1,56 @@
+{
+  "id": 874170721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.933643,42.882308,-110.933643,42.882308",
+    "geom:latitude":42.882308,
+    "geom:longitude":-110.933643,
+    "iso:country":"US",
+    "sg:address":"490 Co Rd 123",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 883 2364",
+    "sg:postcode":"83112",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C1EONiQDg4dnXkA7JSji6_42.882308_-110.933643@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312534,
+    "wof:geomhash":"05e199946f154b387b6952d6186946c0",
+    "wof:hierarchy":[],
+    "wof:id":874170721,
+    "wof:lastmodified":1464312534,
+    "wof:name":"Green Valley Drywall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -110.933643,
+    42.882308,
+    -110.933643,
+    42.882308
+],
+  "geometry": {"coordinates":[-110.933643,42.882308],"type":"Point"}
+}

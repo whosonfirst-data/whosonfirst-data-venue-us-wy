@@ -1,0 +1,56 @@
+{
+  "id": 873985157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.968248,44.013636,-107.968248,44.013636",
+    "geom:latitude":44.013636,
+    "geom:longitude":-107.968248,
+    "iso:country":"US",
+    "sg:address":"120 Grace Ave",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 4623",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SCSp3mXKEyRUTcVlGzYMI_44.013636_-107.968248@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310651,
+    "wof:geomhash":"9b2e7904e193e59e40aa1df58e23b832",
+    "wof:hierarchy":[],
+    "wof:id":873985157,
+    "wof:lastmodified":1464310651,
+    "wof:name":"McKinstray Truck Leasing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -107.968248,
+    44.013636,
+    -107.968248,
+    44.013636
+],
+  "geometry": {"coordinates":[-107.968248,44.013636],"type":"Point"}
+}

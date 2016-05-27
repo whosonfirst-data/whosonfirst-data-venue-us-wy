@@ -1,0 +1,58 @@
+{
+  "id": 874105959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.979284,41.673107,-107.979284,41.673107",
+    "geom:latitude":41.673107,
+    "geom:longitude":-107.979284,
+    "iso:country":"US",
+    "sg:address":"435 Mc Cormick Rd",
+    "sg:city":"Wamsutter",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 328 2000",
+    "sg:postcode":"82336",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TSncHXZjVXj2kaeNrFALQ_41.673107_-107.979284@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311867,
+    "wof:geomhash":"1064b579d9351990ec48cee66431e5e8",
+    "wof:hierarchy":[],
+    "wof:id":874105959,
+    "wof:lastmodified":1464311867,
+    "wof:name":"Coffee Pot",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -107.979284,
+    41.673107,
+    -107.979284,
+    41.673107
+],
+  "geometry": {"coordinates":[-107.97928400000001,41.673107],"type":"Point"}
+}

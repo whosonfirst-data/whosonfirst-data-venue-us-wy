@@ -1,0 +1,56 @@
+{
+  "id": 874002571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.072403,43.268962,-108.072403,43.268962",
+    "geom:latitude":43.268962,
+    "geom:longitude":-108.072403,
+    "iso:country":"US",
+    "sg:address":"65 Wahaba St",
+    "sg:city":"Shoshoni",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 876 9307",
+    "sg:postcode":"82649",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UWKmCPSK26aplyN7LGvKI_43.268962_-108.072403@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310780,
+    "wof:geomhash":"843f0adde584af415de89aeefe0d3cbf",
+    "wof:hierarchy":[],
+    "wof:id":874002571,
+    "wof:lastmodified":1464310780,
+    "wof:name":"BTI",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.072403,
+    43.268962,
+    -108.072403,
+    43.268962
+],
+  "geometry": {"coordinates":[-108.07240299999999,43.268962],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874157003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.763469,43.479507,-110.763469,43.479507",
+    "geom:latitude":43.479507,
+    "geom:longitude":-110.763469,
+    "iso:country":"US",
+    "sg:address":"26 W Broadway",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 8858",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "comic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KctYKWxtDqbXzg9wxxtD8_43.479507_-110.763469@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312399,
+    "wof:geomhash":"69efe502fc515fea6e53fdb1b3f6ef9b",
+    "wof:hierarchy":[],
+    "wof:id":874157003,
+    "wof:lastmodified":1464312399,
+    "wof:name":"Heroes Comics & Sportscards",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "comic"
+    ]
+},
+  "bbox": [
+    -110.763469,
+    43.479507,
+    -110.763469,
+    43.479507
+],
+  "geometry": {"coordinates":[-110.763469,43.479507],"type":"Point"}
+}

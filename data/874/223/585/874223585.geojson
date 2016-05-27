@@ -1,0 +1,71 @@
+{
+  "id": 874223585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594757,41.311863,-105.594757,41.311863",
+    "geom:latitude":41.311863,
+    "geom:longitude":-105.594757,
+    "iso:country":"US",
+    "sg:address":"221 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3717",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6znkyfCFQfm4pixDBK1mI4_41.311863_-105.594757@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313099,
+    "wof:geomhash":"6edcd6f6ff572b4d5cc5605e04fe7666",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874223585
+        }
+    ],
+    "wof:id":874223585,
+    "wof:lastmodified":1464313099,
+    "wof:name":"Corthell & King",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -105.594757,
+    41.311863,
+    -105.594757,
+    41.311863
+],
+  "geometry": {"coordinates":[-105.594757,41.311863],"type":"Point"}
+}

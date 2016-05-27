@@ -1,0 +1,56 @@
+{
+  "id": 874081765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.45825,44.29255,-105.45825,44.29255",
+    "geom:latitude":44.29255,
+    "geom:longitude":-105.45825,
+    "iso:country":"US",
+    "sg:address":"2901 E 2nd St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 687 0614",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3koOVvuR4MrkIHFBcpO7Px_44.292550_-105.458250@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311573,
+    "wof:geomhash":"b827979c7d00bba6f66ac3d0fdbb8f0d",
+    "wof:hierarchy":[],
+    "wof:id":874081765,
+    "wof:lastmodified":1464311573,
+    "wof:name":"Thunder Creek Gas Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -105.45825,
+    44.29255,
+    -105.45825,
+    44.29255
+],
+  "geometry": {"coordinates":[-105.45825000000001,44.29255],"type":"Point"}
+}

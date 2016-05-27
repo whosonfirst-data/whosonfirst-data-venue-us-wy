@@ -1,0 +1,58 @@
+{
+  "id": 874193783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.049671,44.484615,-108.049671,44.484615",
+    "geom:latitude":44.484615,
+    "geom:longitude":-108.049671,
+    "iso:country":"US",
+    "sg:address":"417 S 2nd St",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 2371",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Oyd7K5OEoqByGNSjisPYb_44.484615_-108.049671@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312777,
+    "wof:geomhash":"371bc1e1d83b00569f15e05279e715f4",
+    "wof:hierarchy":[],
+    "wof:id":874193783,
+    "wof:lastmodified":1464312777,
+    "wof:name":"Big Horn County Public Health",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -108.049671,
+    44.484615,
+    -108.049671,
+    44.484615
+],
+  "geometry": {"coordinates":[-108.049671,44.484615],"type":"Point"}
+}

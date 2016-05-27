@@ -1,0 +1,66 @@
+{
+  "id": 874069283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.589869,41.309752,-105.589869,41.309752",
+    "geom:latitude":41.309752,
+    "geom:longitude":-105.589869,
+    "iso:country":"US",
+    "sg:address":"412 S 6th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 0526",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2soB3mpHlfGDCkHcaqej37_41.309752_-105.589869@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311425,
+    "wof:geomhash":"aa4002bd05abbcf35057ad2760cec6bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874069283
+        }
+    ],
+    "wof:id":874069283,
+    "wof:lastmodified":1464311425,
+    "wof:name":"Penstar Systems LLC",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.589869,
+    41.309752,
+    -105.589869,
+    41.309752
+],
+  "geometry": {"coordinates":[-105.58986899999999,41.309752],"type":"Point"}
+}

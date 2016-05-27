@@ -1,0 +1,56 @@
+{
+  "id": 874190411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.717213,44.346592,-106.717213,44.346592",
+    "geom:latitude":44.346592,
+    "geom:longitude":-106.717213,
+    "iso:country":"US",
+    "sg:address":"915 W Fetterman St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 7533",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1a6Y2fJ1WSe46xOtOBIsXZ_44.346592_-106.717213@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312744,
+    "wof:geomhash":"388d6a22d7d0122b837a2a227aa50be0",
+    "wof:hierarchy":[],
+    "wof:id":874190411,
+    "wof:lastmodified":1464312744,
+    "wof:name":"Buffalo Dental Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -106.717213,
+    44.346592,
+    -106.717213,
+    44.346592
+],
+  "geometry": {"coordinates":[-106.717213,44.346592],"type":"Point"}
+}

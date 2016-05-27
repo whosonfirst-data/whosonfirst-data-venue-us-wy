@@ -1,0 +1,73 @@
+{
+  "id": 874209457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.418527,42.871256,-106.418527,42.871256",
+    "geom:latitude":42.871256,
+    "geom:longitude":-106.418527,
+    "iso:country":"US",
+    "sg:address":"6401 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 3506",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rm7pRLTCq5WT9VTQ323Ns_42.871256_-106.418527@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312943,
+    "wof:geomhash":"70e2b24cdc289d56d61f9473b7e9b68d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874209457
+        }
+    ],
+    "wof:id":874209457,
+    "wof:lastmodified":1464312943,
+    "wof:name":"Pilcher Machinery Co",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -106.418527,
+    42.871256,
+    -106.418527,
+    42.871256
+],
+  "geometry": {"coordinates":[-106.418527,42.871256],"type":"Point"}
+}

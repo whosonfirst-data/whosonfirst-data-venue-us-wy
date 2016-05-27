@@ -1,0 +1,71 @@
+{
+  "id": 874194367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.588064,41.312663,-105.588064,41.312663",
+    "geom:latitude":41.312663,
+    "geom:longitude":-105.588064,
+    "iso:country":"US",
+    "sg:address":"715 E University Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 8843",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "map"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JYYRzLkBFKCShuAETDNj5_41.312663_-105.588064@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312783,
+    "wof:geomhash":"8e07b8ed72628ba25d4666befb9d8b71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874194367
+        }
+    ],
+    "wof:id":874194367,
+    "wof:lastmodified":1464312783,
+    "wof:name":"Geomart",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "map"
+    ]
+},
+  "bbox": [
+    -105.588064,
+    41.312663,
+    -105.588064,
+    41.312663
+],
+  "geometry": {"coordinates":[-105.588064,41.312663],"type":"Point"}
+}

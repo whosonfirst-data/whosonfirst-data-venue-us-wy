@@ -1,0 +1,75 @@
+{
+  "id": 874107667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.322255,42.84886,-106.322255,42.84886",
+    "geom:latitude":42.84886,
+    "geom:longitude":-106.322255,
+    "iso:country":"US",
+    "sg:address":"111 S Durbin St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 3421",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "organization",
+        "philanthropic",
+        "noncommercial",
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7THH5kqGG76NyI06euAGPP_42.848860_-106.322255@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311890,
+    "wof:geomhash":"c18162d88668e3a20e3ecb24264ea884",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874107667
+        }
+    ],
+    "wof:id":874107667,
+    "wof:lastmodified":1464311890,
+    "wof:name":"Jason's Friends Foundation",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "philanthropic",
+        "noncommercial",
+        "foundation"
+    ]
+},
+  "bbox": [
+    -106.322255,
+    42.84886,
+    -106.322255,
+    42.84886
+],
+  "geometry": {"coordinates":[-106.322255,42.84886],"type":"Point"}
+}

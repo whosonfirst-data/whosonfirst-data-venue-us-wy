@@ -1,0 +1,71 @@
+{
+  "id": 874013183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.28134,42.848934,-106.28134,42.848934",
+    "geom:latitude":42.848934,
+    "geom:longitude":-106.28134,
+    "iso:country":"US",
+    "sg:address":"4002 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 9011",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WpdTaomea3j4NXfycuW75_42.848934_-106.281340@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310878,
+    "wof:geomhash":"b47e41ad50e5a0d922f0709db35df86c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874013183
+        }
+    ],
+    "wof:id":874013183,
+    "wof:lastmodified":1464310878,
+    "wof:name":"Wyoming Coffee Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -106.28134,
+    42.848934,
+    -106.28134,
+    42.848934
+],
+  "geometry": {"coordinates":[-106.28134,42.848934],"type":"Point"}
+}

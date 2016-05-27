@@ -1,0 +1,57 @@
+{
+  "id": 874148519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.763743,41.140748,-104.763743,41.140748",
+    "geom:latitude":41.140748,
+    "geom:longitude":-104.763743,
+    "iso:country":"US",
+    "sg:address":"3740 E Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 4121",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.cheyennepetclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VlOCZCMQD2DsVlnIgpBfT_41.140748_-104.763743@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312315,
+    "wof:geomhash":"d2ddb4d74357e73cfc3e43d756a08faf",
+    "wof:hierarchy":[],
+    "wof:id":874148519,
+    "wof:lastmodified":1464312315,
+    "wof:name":"Cheyenne Pet Clinic PC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -104.763743,
+    41.140748,
+    -104.763743,
+    41.140748
+],
+  "geometry": {"coordinates":[-104.76374300000001,41.140748],"type":"Point"}
+}

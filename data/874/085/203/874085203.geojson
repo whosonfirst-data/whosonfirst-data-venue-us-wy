@@ -1,0 +1,58 @@
+{
+  "id": 874085203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.820981,41.137212,-104.820981,41.137212",
+    "geom:latitude":41.137212,
+    "geom:longitude":-104.820981,
+    "iso:country":"US",
+    "sg:address":"2100 Pioneer Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 3163",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mMRqxJwiSPCIqXAtKtXxL_41.137212_-104.820981@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311611,
+    "wof:geomhash":"8f4ff4a6f1f423a79f8a8f817b817a62",
+    "wof:hierarchy":[],
+    "wof:id":874085203,
+    "wof:lastmodified":1464311611,
+    "wof:name":"Cheyenne Waste Water Treatment",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -104.820981,
+    41.137212,
+    -104.820981,
+    41.137212
+],
+  "geometry": {"coordinates":[-104.820981,41.137212],"type":"Point"}
+}

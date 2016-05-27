@@ -1,0 +1,56 @@
+{
+  "id": 874017471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.381701,43.022631,-108.381701,43.022631",
+    "geom:latitude":43.022631,
+    "geom:longitude":-108.381701,
+    "iso:country":"US",
+    "sg:address":"720 E Adams Ave",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 2375",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WCQlUgUlK0bllhAkXGZTr_43.022631_-108.381701@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310918,
+    "wof:geomhash":"cd81db93ecd895cb959f3d4b73a0400e",
+    "wof:hierarchy":[],
+    "wof:id":874017471,
+    "wof:lastmodified":1464310918,
+    "wof:name":"Automatic Car Wash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -108.381701,
+    43.022631,
+    -108.381701,
+    43.022631
+],
+  "geometry": {"coordinates":[-108.38170100000001,43.022631],"type":"Point"}
+}

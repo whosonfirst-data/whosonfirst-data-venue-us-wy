@@ -1,0 +1,58 @@
+{
+  "id": 874033519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.852993,44.655207,-103.852993,44.655207",
+    "geom:latitude":44.655207,
+    "geom:longitude":-103.852993,
+    "iso:country":"US",
+    "sg:address":"612 Summit St",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 2797",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aeTTNojsgqlgqTO5SwaUp_44.655207_-103.852993@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311080,
+    "wof:geomhash":"ebf9bfe8871917cf40a547934f4a6f33",
+    "wof:hierarchy":[],
+    "wof:id":874033519,
+    "wof:lastmodified":1464311080,
+    "wof:name":"Cleveland Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -103.852993,
+    44.655207,
+    -103.852993,
+    44.655207
+],
+  "geometry": {"coordinates":[-103.852993,44.655207],"type":"Point"}
+}

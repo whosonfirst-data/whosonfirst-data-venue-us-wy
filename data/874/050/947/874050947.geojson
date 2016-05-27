@@ -1,0 +1,72 @@
+{
+  "id": 874050947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.588876,41.29362,-105.588876,41.29362",
+    "geom:latitude":41.29362,
+    "geom:longitude":-105.588876,
+    "iso:country":"US",
+    "sg:address":"617 E Plaza Ct",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 8832",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.srom.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16dlA0f4yYxIrB9bk4ltBo_41.293620_-105.588876@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311249,
+    "wof:geomhash":"342a1887a8e925b9d1a1a827bf18b60e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874050947
+        }
+    ],
+    "wof:id":874050947,
+    "wof:lastmodified":1464311249,
+    "wof:name":"Solid Rock Ministries",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -105.588876,
+    41.29362,
+    -105.588876,
+    41.29362
+],
+  "geometry": {"coordinates":[-105.588876,41.29362],"type":"Point"}
+}

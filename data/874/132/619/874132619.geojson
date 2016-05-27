@@ -1,0 +1,56 @@
+{
+  "id": 874132619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.99344,44.713539,-106.99344,44.713539",
+    "geom:latitude":44.713539,
+    "geom:longitude":-106.99344,
+    "iso:country":"US",
+    "sg:address":"136 Upper Rd",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 9813",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36617RFODoDk5RGelHL0J0_44.713539_-106.993440@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312169,
+    "wof:geomhash":"f9fa536ff33732136b1e8f0853e22527",
+    "wof:hierarchy":[],
+    "wof:id":874132619,
+    "wof:lastmodified":1464312169,
+    "wof:name":"O H Trucking Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -106.99344,
+    44.713539,
+    -106.99344,
+    44.713539
+],
+  "geometry": {"coordinates":[-106.99344000000001,44.713539],"type":"Point"}
+}

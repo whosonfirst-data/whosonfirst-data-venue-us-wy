@@ -1,0 +1,66 @@
+{
+  "id": 874128199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.589454,41.262991,-105.589454,41.262991",
+    "geom:latitude":41.262991,
+    "geom:longitude":-105.589454,
+    "iso:country":"US",
+    "sg:address":"631 Howe Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4320",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XwQct6OoDX6OPwS6QWRPo_41.262991_-105.589454@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312113,
+    "wof:geomhash":"ea4e8487425ce3ae6a13d7f5fe1c0106",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874128199
+        }
+    ],
+    "wof:id":874128199,
+    "wof:lastmodified":1464312113,
+    "wof:name":"Suntan U S A",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.589454,
+    41.262991,
+    -105.589454,
+    41.262991
+],
+  "geometry": {"coordinates":[-105.589454,41.262991],"type":"Point"}
+}

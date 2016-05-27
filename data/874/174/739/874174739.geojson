@@ -1,0 +1,71 @@
+{
+  "id": 874174739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.399068,42.844074,-106.399068,42.844074",
+    "geom:latitude":42.844074,
+    "geom:longitude":-106.399068,
+    "iso:country":"US",
+    "sg:address":"5600 Poison Spider Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 261 5775",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "federal",
+        "govt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QrXslcsR1lo2IP5kFzJ9F_42.844074_-106.399068@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312576,
+    "wof:geomhash":"85a3e6603d1cd762e340c6ef626a8528",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874174739
+        }
+    ],
+    "wof:id":874174739,
+    "wof:lastmodified":1464312576,
+    "wof:name":"US Western Area Power Adm",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "govt"
+    ]
+},
+  "bbox": [
+    -106.399068,
+    42.844074,
+    -106.399068,
+    42.844074
+],
+  "geometry": {"coordinates":[-106.399068,42.844074],"type":"Point"}
+}

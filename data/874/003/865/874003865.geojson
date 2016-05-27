@@ -1,0 +1,56 @@
+{
+  "id": 874003865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.512447,44.287641,-105.512447,44.287641",
+    "geom:latitude":44.287641,
+    "geom:longitude":-105.512447,
+    "iso:country":"US",
+    "sg:address":"708 W 8th St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 0233",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CRU3QwwuLyT9mxIdZHEGK_44.287641_-105.512447@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310802,
+    "wof:geomhash":"f533edc35cd3e8d09aacfc2d1c77a4fb",
+    "wof:hierarchy":[],
+    "wof:id":874003865,
+    "wof:lastmodified":1464310802,
+    "wof:name":"Dental Care Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -105.512447,
+    44.287641,
+    -105.512447,
+    44.287641
+],
+  "geometry": {"coordinates":[-105.51244699999999,44.287641],"type":"Point"}
+}

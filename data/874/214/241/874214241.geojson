@@ -1,0 +1,56 @@
+{
+  "id": 874214241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.540487,41.791666,-110.540487,41.791666",
+    "geom:latitude":41.791666,
+    "geom:longitude":-110.540487,
+    "iso:country":"US",
+    "sg:address":"1032 Beech Ave",
+    "sg:city":"Kemmerer",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 877 3971",
+    "sg:postcode":"83101",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7P7zAm3TtE1l0umD4v2a0j_41.791666_-110.540487@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312997,
+    "wof:geomhash":"04434668069beedde3b95d105e59f2e4",
+    "wof:hierarchy":[],
+    "wof:id":874214241,
+    "wof:lastmodified":1464312997,
+    "wof:name":"Lincoln County Sheriff",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -110.540487,
+    41.791666,
+    -110.540487,
+    41.791666
+],
+  "geometry": {"coordinates":[-110.540487,41.791666],"type":"Point"}
+}

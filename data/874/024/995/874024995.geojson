@@ -1,0 +1,73 @@
+{
+  "id": 874024995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.326125,42.842685,-106.326125,42.842685",
+    "geom:latitude":42.842685,
+    "geom:longitude":-106.326125,
+    "iso:country":"US",
+    "sg:address":"136 W 8th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 8035",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FYGjC818gyoRjlk6wpV0R_42.842685_-106.326125@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310996,
+    "wof:geomhash":"06501e86a01fc2fe40e9eace9ec1e013",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874024995
+        }
+    ],
+    "wof:id":874024995,
+    "wof:lastmodified":1464310996,
+    "wof:name":"Twelve-24 Club Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -106.326125,
+    42.842685,
+    -106.326125,
+    42.842685
+],
+  "geometry": {"coordinates":[-106.326125,42.842685],"type":"Point"}
+}

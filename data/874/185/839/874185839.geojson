@@ -1,0 +1,66 @@
+{
+  "id": 874185839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591763,41.314996,-105.591763,41.314996",
+    "geom:latitude":41.314996,
+    "geom:longitude":-105.591763,
+    "iso:country":"US",
+    "sg:address":"369 N 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4997",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DIUPJub9SlNODO1sHZwcZ_41.314996_-105.591763@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312699,
+    "wof:geomhash":"dc20e4520440383d74c78f8afe8ec839",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874185839
+        }
+    ],
+    "wof:id":874185839,
+    "wof:lastmodified":1464312699,
+    "wof:name":"Built Green Technologies",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.591763,
+    41.314996,
+    -105.591763,
+    41.314996
+],
+  "geometry": {"coordinates":[-105.591763,41.314996],"type":"Point"}
+}

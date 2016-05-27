@@ -1,0 +1,69 @@
+{
+  "id": 874111657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.26081,42.847789,-106.26081,42.847789",
+    "geom:latitude":42.847789,
+    "geom:longitude":-106.26081,
+    "iso:country":"US",
+    "sg:address":"300 Landmark Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 6708",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wwGaLdyzt3ojrnb6uHRVG_42.847789_-106.260810@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311952,
+    "wof:geomhash":"d9eb25aa434cc81d163433736981ecec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874111657
+        }
+    ],
+    "wof:id":874111657,
+    "wof:lastmodified":1464311952,
+    "wof:name":"Spritz",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.26081,
+    42.847789,
+    -106.26081,
+    42.847789
+],
+  "geometry": {"coordinates":[-106.26081000000001,42.847789],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874007675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.346002,42.871404,-106.346002,42.871404",
+    "geom:latitude":42.871404,
+    "geom:longitude":-106.346002,
+    "iso:country":"US",
+    "sg:address":"1880 N Loop Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 9957",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_707lvYQ7my5AV3GA8GmFxy_42.871404_-106.346002@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310838,
+    "wof:geomhash":"80795c35bdfb9b06d68bfc4291d83045",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874007675
+        }
+    ],
+    "wof:id":874007675,
+    "wof:lastmodified":1464310838,
+    "wof:name":"Standard Laboratories Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -106.346002,
+    42.871404,
+    -106.346002,
+    42.871404
+],
+  "geometry": {"coordinates":[-106.346002,42.871404],"type":"Point"}
+}

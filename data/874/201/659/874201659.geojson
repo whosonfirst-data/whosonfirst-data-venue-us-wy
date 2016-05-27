@@ -1,0 +1,75 @@
+{
+  "id": 874201659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33392,42.84265,-106.33392,42.84265",
+    "geom:latitude":42.84265,
+    "geom:longitude":-106.33392,
+    "iso:country":"US",
+    "sg:address":"701 W Collins Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1435",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "gasoline",
+        "product",
+        "station",
+        "petroleum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kLHVjA32FMk33ylj0YEpr_42.842650_-106.333920@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312860,
+    "wof:geomhash":"9409b5814d610df8a2b55bd8c7f0c8d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874201659
+        }
+    ],
+    "wof:id":874201659,
+    "wof:lastmodified":1464312860,
+    "wof:name":"Bentzs Town Pump",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline",
+        "product",
+        "station",
+        "petroleum"
+    ]
+},
+  "bbox": [
+    -106.33392,
+    42.84265,
+    -106.33392,
+    42.84265
+],
+  "geometry": {"coordinates":[-106.33392000000001,42.84265],"type":"Point"}
+}

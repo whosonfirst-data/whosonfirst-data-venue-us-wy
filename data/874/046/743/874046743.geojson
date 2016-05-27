@@ -1,0 +1,66 @@
+{
+  "id": 874046743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.599413,41.313582,-105.599413,41.313582",
+    "geom:latitude":41.313582,
+    "geom:longitude":-105.599413,
+    "iso:country":"US",
+    "sg:address":"168 N Pine St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 760 3642",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p9UUUNQwfWh4FMrJa331g_41.313582_-105.599413@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311213,
+    "wof:geomhash":"ed77998e0e93fd2a80f20d16fec0eb44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874046743
+        }
+    ],
+    "wof:id":874046743,
+    "wof:lastmodified":1464311213,
+    "wof:name":"Art & Etc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.599413,
+    41.313582,
+    -105.599413,
+    41.313582
+],
+  "geometry": {"coordinates":[-105.599413,41.313582],"type":"Point"}
+}

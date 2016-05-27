@@ -1,0 +1,71 @@
+{
+  "id": 874177509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.327476,42.84847,-106.327476,42.84847",
+    "geom:latitude":42.84847,
+    "geom:longitude":-106.327476,
+    "iso:country":"US",
+    "sg:address":"328 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 8950",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mailing",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bj1sE5YHotnHsOXy6kGhr_42.848470_-106.327476@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312601,
+    "wof:geomhash":"f1bbdff9e7a9cfa44c47ca5e854c2040",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874177509
+        }
+    ],
+    "wof:id":874177509,
+    "wof:lastmodified":1464312601,
+    "wof:name":"Casper Wrap & Ship Copy Ctr",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mailing",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -106.327476,
+    42.84847,
+    -106.327476,
+    42.84847
+],
+  "geometry": {"coordinates":[-106.327476,42.84847],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874097589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.791289,41.139098,-104.791289,41.139098",
+    "geom:latitude":41.139098,
+    "geom:longitude":-104.791289,
+    "iso:country":"US",
+    "sg:address":"1413 Carbon Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 772 6581",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lFpcMviYxMBIkyG4LC8Qa_41.139098_-104.791289@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311751,
+    "wof:geomhash":"066090ecdaab396646403f0fe937a480",
+    "wof:hierarchy":[],
+    "wof:id":874097589,
+    "wof:lastmodified":1464311751,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -104.791289,
+    41.139098,
+    -104.791289,
+    41.139098
+],
+  "geometry": {"coordinates":[-104.79128900000001,41.139098],"type":"Point"}
+}

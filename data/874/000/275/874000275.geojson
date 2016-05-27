@@ -1,0 +1,56 @@
+{
+  "id": 874000275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.974679,44.803222,-106.974679,44.803222",
+    "geom:latitude":44.803222,
+    "geom:longitude":-106.974679,
+    "iso:country":"US",
+    "sg:address":"1207 Laclede St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 673 8748",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vfYAaBDT21XoWjwfVEI4n_44.803222_-106.974679@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310762,
+    "wof:geomhash":"ef1506aa48c8a06be8b5c23837398868",
+    "wof:hierarchy":[],
+    "wof:id":874000275,
+    "wof:lastmodified":1464310762,
+    "wof:name":"Steves Welding Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -106.974679,
+    44.803222,
+    -106.974679,
+    44.803222
+],
+  "geometry": {"coordinates":[-106.97467899999999,44.803222],"type":"Point"}
+}

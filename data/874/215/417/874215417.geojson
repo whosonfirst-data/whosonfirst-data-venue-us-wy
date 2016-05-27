@@ -1,0 +1,73 @@
+{
+  "id": 874215417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.318676,42.848636,-106.318676,42.848636",
+    "geom:latitude":42.848636,
+    "geom:longitude":-106.318676,
+    "iso:country":"US",
+    "sg:address":"505 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2316",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "stereo",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ICyPRWjPeuu4YSqgfZfdI_42.848636_-106.318676@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313008,
+    "wof:geomhash":"008988ee01387b5e3c2af7e9317911fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874215417
+        }
+    ],
+    "wof:id":874215417,
+    "wof:lastmodified":1464313008,
+    "wof:name":"Golden Business Machines & Av",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "stereo",
+        "radio"
+    ]
+},
+  "bbox": [
+    -106.318676,
+    42.848636,
+    -106.318676,
+    42.848636
+],
+  "geometry": {"coordinates":[-106.318676,42.848636],"type":"Point"}
+}

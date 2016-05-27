@@ -1,0 +1,68 @@
+{
+  "id": 874176953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.184322,42.063581,-104.184322,42.063581",
+    "geom:latitude":42.063581,
+    "geom:longitude":-104.184322,
+    "iso:country":"US",
+    "sg:address":"1945 Main St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 7374",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101733937,
+        102080733,
+        85850153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JNPLDLdDjIB2axqaRaSHm_42.063581_-104.184322@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312596,
+    "wof:geomhash":"5575c505bc27a52e7cc0aa61320a0f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080733,
+            "locality_id":101733937,
+            "neighbourhood_id":85850153,
+            "region_id":85688475,
+            "venue_id":874176953
+        }
+    ],
+    "wof:id":874176953,
+    "wof:lastmodified":1464312596,
+    "wof:name":"Torrington Office Supply",
+    "wof:parent_id":85850153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.184322,
+    42.063581,
+    -104.184322,
+    42.063581
+],
+  "geometry": {"coordinates":[-104.18432199999999,42.063581],"type":"Point"}
+}

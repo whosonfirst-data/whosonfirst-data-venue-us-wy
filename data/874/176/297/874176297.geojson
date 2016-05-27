@@ -1,0 +1,65 @@
+{
+  "id": 874176297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.277331,42.848832,-106.277331,42.848832",
+    "geom:latitude":42.848832,
+    "geom:longitude":-106.277331,
+    "iso:country":"US",
+    "sg:address":"4221 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 8000",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:website":"www.lukerrealty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Wt6JqGi48ix3MRNvhA4vo_42.848832_-106.277331@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312590,
+    "wof:geomhash":"2de38f0d50f8e5c244c63904dadfc27d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874176297
+        }
+    ],
+    "wof:id":874176297,
+    "wof:lastmodified":1464312590,
+    "wof:name":"Luker Realty Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.277331,
+    42.848832,
+    -106.277331,
+    42.848832
+],
+  "geometry": {"coordinates":[-106.277331,42.848832],"type":"Point"}
+}

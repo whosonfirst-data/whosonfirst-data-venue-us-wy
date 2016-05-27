@@ -1,0 +1,51 @@
+{
+  "id": 874190605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.768391,41.116679,-104.768391,41.116679",
+    "geom:latitude":41.116679,
+    "geom:longitude":-104.768391,
+    "iso:country":"US",
+    "sg:address":"2508 E Fox Farm Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 3618",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BvpW0yU7h5VXThkEsrHrs_41.116679_-104.768391@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312746,
+    "wof:geomhash":"6df2a5e1904d62eaedda36c622aa99d0",
+    "wof:hierarchy":[],
+    "wof:id":874190605,
+    "wof:lastmodified":1464312746,
+    "wof:name":"Cheyenne Health & Wellness Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.768391,
+    41.116679,
+    -104.768391,
+    41.116679
+],
+  "geometry": {"coordinates":[-104.76839099999999,41.116679],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 873994753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.84886,42.88612,-105.84886,42.88612",
+    "geom:latitude":42.88612,
+    "geom:longitude":-105.84886,
+    "iso:country":"US",
+    "sg:address":"102 S Monkey Rd",
+    "sg:city":"Rolling Hills",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 436 9025",
+    "sg:postcode":"82637",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oOR9Lo5w2VqSmOqXeC3Gy_42.886120_-105.848860@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310724,
+    "wof:geomhash":"2277242d7331968c20b4b7e2660d0ca3",
+    "wof:hierarchy":[],
+    "wof:id":873994753,
+    "wof:lastmodified":1464310724,
+    "wof:name":"CPM Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.84886,
+    42.88612,
+    -105.84886,
+    42.88612
+],
+  "geometry": {"coordinates":[-105.84886,42.88612],"type":"Point"}
+}

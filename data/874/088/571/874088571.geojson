@@ -1,0 +1,56 @@
+{
+  "id": 874088571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.957108,44.803594,-106.957108,44.803594",
+    "geom:latitude":44.803594,
+    "geom:longitude":-106.957108,
+    "iso:country":"US",
+    "sg:address":"523 Val Vista St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 9081",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KezRRVc3u1LEH88HEdnj2_44.803594_-106.957108@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311646,
+    "wof:geomhash":"5bdadc162927eafc4f6c348be90e960c",
+    "wof:hierarchy":[],
+    "wof:id":874088571,
+    "wof:lastmodified":1464311646,
+    "wof:name":"John K Naugle DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -106.957108,
+    44.803594,
+    -106.957108,
+    44.803594
+],
+  "geometry": {"coordinates":[-106.95710800000001,44.803594],"type":"Point"}
+}

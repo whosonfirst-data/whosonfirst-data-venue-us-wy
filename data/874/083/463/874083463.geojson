@@ -1,0 +1,58 @@
+{
+  "id": 874083463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.254724,41.633637,-109.254724,41.633637",
+    "geom:latitude":41.633637,
+    "geom:longitude":-109.254724,
+    "iso:country":"US",
+    "sg:address":"112 Pyramid Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 8605",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "transmission",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZYDM9BSQ97ZtZ7Fm8MDMm_41.633637_-109.254724@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311594,
+    "wof:geomhash":"89356094026dfa6ed51ecd5b8953d470",
+    "wof:hierarchy":[],
+    "wof:id":874083463,
+    "wof:lastmodified":1464311594,
+    "wof:name":"Action Transmission Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "general"
+    ]
+},
+  "bbox": [
+    -109.254724,
+    41.633637,
+    -109.254724,
+    41.633637
+],
+  "geometry": {"coordinates":[-109.254724,41.633637],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 874075777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.352735,42.815631,-106.352735,42.815631",
+    "geom:latitude":42.815631,
+    "geom:longitude":-106.352735,
+    "iso:country":"US",
+    "sg:address":"3894 Ridgecrest Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3133",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WRkZR6xMoxARwCj6t7DTS_42.815631_-106.352735@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311509,
+    "wof:geomhash":"a8d6a9d2cf04e97855d9aeeb67c35007",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874075777
+        }
+    ],
+    "wof:id":874075777,
+    "wof:lastmodified":1464311509,
+    "wof:name":"P C Mechanic",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -106.352735,
+    42.815631,
+    -106.352735,
+    42.815631
+],
+  "geometry": {"coordinates":[-106.352735,42.815631],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874131277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.307525,42.837867,-106.307525,42.837867",
+    "geom:latitude":42.837867,
+    "geom:longitude":-106.307525,
+    "iso:country":"US",
+    "sg:address":"1202 S Conwell St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 4519",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HA6NneKAdvpRnXDgbEmpz_42.837867_-106.307525@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312153,
+    "wof:geomhash":"9418aabe335bda62ddc5c60787aec621",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874131277
+        }
+    ],
+    "wof:id":874131277,
+    "wof:lastmodified":1464312153,
+    "wof:name":"Antique Rose",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -106.307525,
+    42.837867,
+    -106.307525,
+    42.837867
+],
+  "geometry": {"coordinates":[-106.307525,42.837867],"type":"Point"}
+}

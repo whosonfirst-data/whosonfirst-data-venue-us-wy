@@ -1,0 +1,58 @@
+{
+  "id": 874203395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.24519,41.79062,-107.24519,41.79062",
+    "geom:latitude":41.79062,
+    "geom:longitude":-107.24519,
+    "iso:country":"US",
+    "sg:address":"801 W Maple St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 2735",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Affq7KOlJgStDSmeFDW0w_41.790620_-107.245190@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312878,
+    "wof:geomhash":"2332a1a577e340a6e54823402a13d724",
+    "wof:hierarchy":[],
+    "wof:id":874203395,
+    "wof:lastmodified":1464312878,
+    "wof:name":"Carbon County Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -107.24519,
+    41.79062,
+    -107.24519,
+    41.79062
+],
+  "geometry": {"coordinates":[-107.24518999999999,41.79062],"type":"Point"}
+}

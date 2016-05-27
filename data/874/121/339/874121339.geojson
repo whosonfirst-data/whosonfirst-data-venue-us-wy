@@ -1,0 +1,71 @@
+{
+  "id": 874121339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595855,41.301729,-105.595855,41.301729",
+    "geom:latitude":41.301729,
+    "geom:longitude":-105.595855,
+    "iso:country":"US",
+    "sg:address":"1303 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2345",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NmjlsJKghAdbr01dTI3Bh_41.301729_-105.595855@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312053,
+    "wof:geomhash":"43ae23180db9c0368554d28e2d439b43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874121339
+        }
+    ],
+    "wof:id":874121339,
+    "wof:lastmodified":1464312053,
+    "wof:name":"Glacier Ice & Water Co",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ice"
+    ]
+},
+  "bbox": [
+    -105.595855,
+    41.301729,
+    -105.595855,
+    41.301729
+],
+  "geometry": {"coordinates":[-105.595855,41.301729],"type":"Point"}
+}

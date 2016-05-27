@@ -1,0 +1,71 @@
+{
+  "id": 874131955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.457874,42.89893,-106.457874,42.89893",
+    "geom:latitude":42.89893,
+    "geom:longitude":-106.457874,
+    "iso:country":"US",
+    "sg:address":"3811 Dame Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 1108",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Q6SaL4uC50bbl6Sukz7YZ_42.898930_-106.457874@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312159,
+    "wof:geomhash":"3d8239b39fdf44f45784f1f5a60c109d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874131955
+        }
+    ],
+    "wof:id":874131955,
+    "wof:lastmodified":1464312159,
+    "wof:name":"High Advnture Race Fabrication",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -106.457874,
+    42.89893,
+    -106.457874,
+    42.89893
+],
+  "geometry": {"coordinates":[-106.457874,42.89893],"type":"Point"}
+}

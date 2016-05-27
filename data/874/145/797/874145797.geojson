@@ -1,0 +1,56 @@
+{
+  "id": 874145797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.52356,44.290903,-105.52356,44.290903",
+    "geom:latitude":44.290903,
+    "geom:longitude":-105.52356,
+    "iso:country":"US",
+    "sg:address":"1313 W 4th St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 687 0444",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nkxlT6TV8czSlud8Q2XsF_44.290903_-105.523560@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312292,
+    "wof:geomhash":"ecee934d8ea6186b5ba356159f357b28",
+    "wof:hierarchy":[],
+    "wof:id":874145797,
+    "wof:lastmodified":1464312292,
+    "wof:name":"Johnny A Hopp DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -105.52356,
+    44.290903,
+    -105.52356,
+    44.290903
+],
+  "geometry": {"coordinates":[-105.52356,44.290903],"type":"Point"}
+}

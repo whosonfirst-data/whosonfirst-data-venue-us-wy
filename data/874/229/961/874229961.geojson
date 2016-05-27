@@ -1,0 +1,58 @@
+{
+  "id": 874229961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.942518,44.779759,-106.942518,44.779759",
+    "geom:latitude":44.779759,
+    "geom:longitude":-106.942518,
+    "iso:country":"US",
+    "sg:address":"1695 Coffeen Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/sheridan/206527-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72S6MxOSi7Axu9HEZxWy5N_44.779759_-106.942518@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313159,
+    "wof:geomhash":"aa868b74a95c5c88b77de4d1c1c190b9",
+    "wof:hierarchy":[],
+    "wof:id":874229961,
+    "wof:lastmodified":1464313159,
+    "wof:name":"McDonald's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -106.942518,
+    44.779759,
+    -106.942518,
+    44.779759
+],
+  "geometry": {"coordinates":[-106.94251800000001,44.779759],"type":"Point"}
+}

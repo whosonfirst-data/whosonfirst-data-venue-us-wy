@@ -1,0 +1,58 @@
+{
+  "id": 874076379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.9585,44.268319,-104.9585,44.268319",
+    "geom:latitude":44.268319,
+    "geom:longitude":-104.9585,
+    "iso:country":"US",
+    "sg:address":"600 Hampton Ave",
+    "sg:city":"Moorcroft",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 756 3259",
+    "sg:postcode":"82721",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TtZirwRKmOrMLK9oi9X1N_44.268319_-104.958500@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311514,
+    "wof:geomhash":"f696beb1731c683edb9cce35c07f8e46",
+    "wof:hierarchy":[],
+    "wof:id":874076379,
+    "wof:lastmodified":1464311514,
+    "wof:name":"Dexter's Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -104.9585,
+    44.268319,
+    -104.9585,
+    44.268319
+],
+  "geometry": {"coordinates":[-104.9585,44.268319],"type":"Point"}
+}

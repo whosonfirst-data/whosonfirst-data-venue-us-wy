@@ -1,0 +1,51 @@
+{
+  "id": 874037901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.26274,44.876229,-107.26274,44.876229",
+    "geom:latitude":44.876229,
+    "geom:longitude":-107.26274,
+    "iso:country":"US",
+    "sg:address":"112 3rd Ave",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 655 9342",
+    "sg:postcode":"82836",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MgbYtM6YVzXp4B3gRz5pf_44.876229_-107.262740@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311125,
+    "wof:geomhash":"c0df286e8850ac4886f7d58c684ade8d",
+    "wof:hierarchy":[],
+    "wof:id":874037901,
+    "wof:lastmodified":1464311125,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.26274,
+    44.876229,
+    -107.26274,
+    44.876229
+],
+  "geometry": {"coordinates":[-107.26273999999999,44.876229],"type":"Point"}
+}

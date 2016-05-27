@@ -1,0 +1,71 @@
+{
+  "id": 874008343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.5919,41.311784,-105.5919,41.311784",
+    "geom:latitude":41.311784,
+    "geom:longitude":-105.5919,
+    "iso:country":"US",
+    "sg:address":"420 E Ivinson Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3337",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Xfeya6FUdOzwYOpp14vJR_41.311784_-105.591900@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310844,
+    "wof:geomhash":"54587db60334f1960e34d5060f3395b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874008343
+        }
+    ],
+    "wof:id":874008343,
+    "wof:lastmodified":1464310844,
+    "wof:name":"Albany County Court Reporter",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -105.5919,
+    41.311784,
+    -105.5919,
+    41.311784
+],
+  "geometry": {"coordinates":[-105.5919,41.311784],"type":"Point"}
+}

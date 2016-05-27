@@ -1,0 +1,59 @@
+{
+  "id": 874229851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.493915,44.270759,-105.493915,44.270759",
+    "geom:latitude":44.270759,
+    "geom:longitude":-105.493915,
+    "iso:country":"US",
+    "sg:address":"2300 S Douglas Hwy",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/gillette-north/135352-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 6565",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uW4KqK7rwp2j9NlD4hPdh_44.270759_-105.493915@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313158,
+    "wof:geomhash":"70763133c228e2042fd028b096bc4440",
+    "wof:hierarchy":[],
+    "wof:id":874229851,
+    "wof:lastmodified":1464313158,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -105.493915,
+    44.270759,
+    -105.493915,
+    44.270759
+],
+  "geometry": {"coordinates":[-105.493915,44.270759],"type":"Point"}
+}

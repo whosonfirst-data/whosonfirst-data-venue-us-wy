@@ -1,0 +1,56 @@
+{
+  "id": 874039119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.166388,43.831843,-104.166388,43.831843",
+    "geom:latitude":43.831843,
+    "geom:longitude":-104.166388,
+    "iso:country":"US",
+    "sg:address":"110 Old Hwy 85",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 4976",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NMbTbeWFLEN1CIrbcoGUX_43.831843_-104.166388@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311135,
+    "wof:geomhash":"0e5df07c98816bc18abaa7e3831dbfa1",
+    "wof:hierarchy":[],
+    "wof:id":874039119,
+    "wof:lastmodified":1464311135,
+    "wof:name":"Stith Towing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -104.166388,
+    43.831843,
+    -104.166388,
+    43.831843
+],
+  "geometry": {"coordinates":[-104.166388,43.831843],"type":"Point"}
+}

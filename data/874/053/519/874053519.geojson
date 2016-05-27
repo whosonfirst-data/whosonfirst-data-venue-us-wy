@@ -1,0 +1,71 @@
+{
+  "id": 874053519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.35193,42.877829,-106.35193,42.877829",
+    "geom:latitude":42.877829,
+    "geom:longitude":-106.35193,
+    "iso:country":"US",
+    "sg:address":"2120 Old Salt Creek Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1261",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nzUDDVh7Sd1TemfUhh3qh_42.877829_-106.351930@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311274,
+    "wof:geomhash":"9a5fb7f4df77e01fd8b8e9987a1b884f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874053519
+        }
+    ],
+    "wof:id":874053519,
+    "wof:lastmodified":1464311274,
+    "wof:name":"Foreman's Quality Machine",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.35193,
+    42.877829,
+    -106.35193,
+    42.877829
+],
+  "geometry": {"coordinates":[-106.35193,42.877829],"type":"Point"}
+}

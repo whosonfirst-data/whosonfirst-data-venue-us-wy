@@ -1,0 +1,57 @@
+{
+  "id": 874151961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.855294,41.116641,-104.855294,41.116641",
+    "geom:latitude":41.116641,
+    "geom:longitude":-104.855294,
+    "iso:country":"US",
+    "sg:address":"2800 W Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 3486",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.abfs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65r5wMk1lC6ESjvwWPcamj_41.116641_-104.855294@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312346,
+    "wof:geomhash":"b513b705fb6614f6ba6eac2fde3d3f83",
+    "wof:hierarchy":[],
+    "wof:id":874151961,
+    "wof:lastmodified":1464312346,
+    "wof:name":"ABF Freight System Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -104.855294,
+    41.116641,
+    -104.855294,
+    41.116641
+],
+  "geometry": {"coordinates":[-104.855294,41.116641],"type":"Point"}
+}

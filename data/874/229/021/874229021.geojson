@@ -1,0 +1,61 @@
+{
+  "id": 874229021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.237883,41.788115,-107.237883,41.788115",
+    "geom:latitude":41.788115,
+    "geom:longitude":-107.237883,
+    "iso:country":"US",
+    "sg:address":"312 W Cedar St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/rawlins/78196-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 328 1400",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ENBF0U5qM8UEBDduhuvKD_41.788115_-107.237883@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313151,
+    "wof:geomhash":"6ee8d504681a426c399520fa39fd3ab3",
+    "wof:hierarchy":[],
+    "wof:id":874229021,
+    "wof:lastmodified":1464313151,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -107.237883,
+    41.788115,
+    -107.237883,
+    41.788115
+],
+  "geometry": {"coordinates":[-107.237883,41.788115],"type":"Point"}
+}

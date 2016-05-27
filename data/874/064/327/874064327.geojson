@@ -1,0 +1,64 @@
+{
+  "id": 874064327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343796,42.819876,-106.343796,42.819876",
+    "geom:latitude":42.819876,
+    "geom:longitude":-106.343796,
+    "iso:country":"US",
+    "sg:address":"1410 Mariposa Blvd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 2114",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44qWeWhzZZNXRDnAw1R2VO_42.819876_-106.343796@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311374,
+    "wof:geomhash":"1c2c1db9c4a9ffbe2eed0e72140542f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874064327
+        }
+    ],
+    "wof:id":874064327,
+    "wof:lastmodified":1464311374,
+    "wof:name":"William E Burd",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.343796,
+    42.819876,
+    -106.343796,
+    42.819876
+],
+  "geometry": {"coordinates":[-106.343796,42.819876],"type":"Point"}
+}

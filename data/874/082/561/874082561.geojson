@@ -1,0 +1,71 @@
+{
+  "id": 874082561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.438838,42.878563,-106.438838,42.878563",
+    "geom:latitude":42.878563,
+    "geom:longitude":-106.438838,
+    "iso:country":"US",
+    "sg:address":"2403 Clover Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 4594",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iVhpLd6EZxxwGV8TvPQp4_42.878563_-106.438838@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311584,
+    "wof:geomhash":"84768ae7ee9f6a0f4f7e1f73f062c794",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874082561
+        }
+    ],
+    "wof:id":874082561,
+    "wof:lastmodified":1464311584,
+    "wof:name":"Jarrard Fencing",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.438838,
+    42.878563,
+    -106.438838,
+    42.878563
+],
+  "geometry": {"coordinates":[-106.438838,42.878563],"type":"Point"}
+}

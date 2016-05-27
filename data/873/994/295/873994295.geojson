@@ -1,0 +1,56 @@
+{
+  "id": 873994295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.432487,44.447005,-108.432487,44.447005",
+    "geom:latitude":44.447005,
+    "geom:longitude":-108.432487,
+    "iso:country":"US",
+    "sg:address":"101 Co Ln 38",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 762 3502",
+    "sg:postcode":"82411",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q64RU0vHfIwwLlrPVOygw_44.447005_-108.432487@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310721,
+    "wof:geomhash":"d1209c1ef71336670dac80c6782e5856",
+    "wof:hierarchy":[],
+    "wof:id":873994295,
+    "wof:lastmodified":1464310721,
+    "wof:name":"Town Of Burlington City Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -108.432487,
+    44.447005,
+    -108.432487,
+    44.447005
+],
+  "geometry": {"coordinates":[-108.43248699999999,44.447005],"type":"Point"}
+}

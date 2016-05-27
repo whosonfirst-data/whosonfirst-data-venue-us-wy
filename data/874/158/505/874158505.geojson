@@ -1,0 +1,56 @@
+{
+  "id": 874158505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.38905,43.023638,-108.38905,43.023638",
+    "geom:latitude":43.023638,
+    "geom:longitude":-108.38905,
+    "iso:country":"US",
+    "sg:address":"212 E Washington Ave",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 0242",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60ZN41krCMK13OojoGW7E4_43.023638_-108.389050@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312418,
+    "wof:geomhash":"b24c0c669ce0f1cddfadcb754d3d8a6c",
+    "wof:hierarchy":[],
+    "wof:id":874158505,
+    "wof:lastmodified":1464312418,
+    "wof:name":"Daisy Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -108.38905,
+    43.023638,
+    -108.38905,
+    43.023638
+],
+  "geometry": {"coordinates":[-108.38905,43.023638],"type":"Point"}
+}

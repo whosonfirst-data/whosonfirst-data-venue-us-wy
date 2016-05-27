@@ -1,0 +1,59 @@
+{
+  "id": 874231575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.225476,41.584889,-109.225476,41.584889",
+    "geom:latitude":41.584889,
+    "geom:longitude":-109.225476,
+    "iso:country":"US",
+    "sg:address":"450 Center St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/rock-springs-north/96491-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 2252",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eAcrQTWc16Gg2AtiBBdxa_41.585504_-109.225454@1294083659"
+    },
+    "wof:country":"US",
+    "wof:created":1464313181,
+    "wof:geomhash":"0f01dd85c03db6bb5d51385128df4939",
+    "wof:hierarchy":[],
+    "wof:id":874231575,
+    "wof:lastmodified":1464313181,
+    "wof:name":"Taco John's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -109.225476,
+    41.584889,
+    -109.225476,
+    41.584889
+],
+  "geometry": {"coordinates":[-109.225476,41.584889],"type":"Point"}
+}

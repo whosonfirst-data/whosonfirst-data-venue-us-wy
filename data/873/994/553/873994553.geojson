@@ -1,0 +1,56 @@
+{
+  "id": 873994553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.874052,42.861434,-105.874052,42.861434",
+    "geom:latitude":42.861434,
+    "geom:longitude":-105.874052,
+    "iso:country":"US",
+    "sg:address":"509 W Birch St",
+    "sg:city":"Glenrock",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 436 2632",
+    "sg:postcode":"82637",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_443nwONsvinSQ8eeFL0EpY_42.861434_-105.874052@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310723,
+    "wof:geomhash":"0df5c2ef46e7bf80ee0dab4d751c5026",
+    "wof:hierarchy":[],
+    "wof:id":873994553,
+    "wof:lastmodified":1464310723,
+    "wof:name":"Glenrock Ambulance Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -105.874052,
+    42.861434,
+    -105.874052,
+    42.861434
+],
+  "geometry": {"coordinates":[-105.87405200000001,42.861434],"type":"Point"}
+}

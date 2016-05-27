@@ -1,0 +1,56 @@
+{
+  "id": 874142293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.372606,42.843153,-106.372606,42.843153",
+    "geom:latitude":42.843153,
+    "geom:longitude":-106.372606,
+    "iso:country":"US",
+    "sg:address":"625 Platte Ave",
+    "sg:city":"Mills",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 9801",
+    "sg:postcode":"82644",
+    "sg:province":"WY",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sUhwXHoBvdVhHvVN8XPB6_42.843153_-106.372606@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312255,
+    "wof:geomhash":"98fa90aa56445c428b6259bdb5067a2f",
+    "wof:hierarchy":[],
+    "wof:id":874142293,
+    "wof:lastmodified":1464312255,
+    "wof:name":"Leprechaun Laboratory",
+    "wof:parent_id":420550301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -106.372606,
+    42.843153,
+    -106.372606,
+    42.843153
+],
+  "geometry": {"coordinates":[-106.372606,42.843153],"type":"Point"}
+}

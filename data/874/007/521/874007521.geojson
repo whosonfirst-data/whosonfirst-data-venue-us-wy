@@ -1,0 +1,58 @@
+{
+  "id": 874007521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.639089,43.709382,-106.639089,43.709382",
+    "geom:latitude":43.709382,
+    "geom:longitude":-106.639089,
+    "iso:country":"US",
+    "sg:address":"661 Nolan Ave",
+    "sg:city":"Kaycee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 738 2626",
+    "sg:postcode":"82639",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VBLhxmYvDRKAFHWAUlvj0_43.709382_-106.639089@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310836,
+    "wof:geomhash":"4f804a22fa2dbcffea040dad7bee5fbf",
+    "wof:hierarchy":[],
+    "wof:id":874007521,
+    "wof:lastmodified":1464310836,
+    "wof:name":"Tom's Tire & Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -106.639089,
+    43.709382,
+    -106.639089,
+    43.709382
+],
+  "geometry": {"coordinates":[-106.639089,43.709382],"type":"Point"}
+}

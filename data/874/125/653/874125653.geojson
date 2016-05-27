@@ -1,0 +1,56 @@
+{
+  "id": 874125653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.05529,44.499275,-108.05529,44.499275",
+    "geom:latitude":44.499275,
+    "geom:longitude":-108.05529,
+    "iso:country":"US",
+    "sg:address":"909 N 6th St",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 2890",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68SOyDY3EtP5ZKcgzbDPjl_44.499275_-108.055290@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312091,
+    "wof:geomhash":"92468b532ee876ecb23d8264240fc09e",
+    "wof:hierarchy":[],
+    "wof:id":874125653,
+    "wof:lastmodified":1464312091,
+    "wof:name":"Ron's Food Farm",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -108.05529,
+    44.499275,
+    -108.05529,
+    44.499275
+],
+  "geometry": {"coordinates":[-108.05529,44.499275],"type":"Point"}
+}

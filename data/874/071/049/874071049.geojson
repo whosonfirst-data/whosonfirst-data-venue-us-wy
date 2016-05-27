@@ -1,0 +1,66 @@
+{
+  "id": 874071049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.626366,41.312959,-105.626366,41.312959",
+    "geom:latitude":41.312959,
+    "geom:longitude":-105.626366,
+    "iso:country":"US",
+    "sg:address":"120 S Johnson St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 4439",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lKMESQoGznFuv1FOFQ8bg_41.312959_-105.626366@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311445,
+    "wof:geomhash":"7328b913e434ab668073e3a782980af8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874071049
+        }
+    ],
+    "wof:id":874071049,
+    "wof:lastmodified":1464311445,
+    "wof:name":"Linford Elementary School",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.626366,
+    41.312959,
+    -105.626366,
+    41.312959
+],
+  "geometry": {"coordinates":[-105.626366,41.312959],"type":"Point"}
+}

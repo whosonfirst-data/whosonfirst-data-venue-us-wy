@@ -1,0 +1,58 @@
+{
+  "id": 874100595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.360702,43.021725,-108.360702,43.021725",
+    "geom:latitude":43.021725,
+    "geom:longitude":-108.360702,
+    "iso:country":"US",
+    "sg:address":"655 S Smith Rd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 0530",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DJQ3ntTMx2NWKLZv878PZ_43.021725_-108.360702@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311802,
+    "wof:geomhash":"a18336df4324f8aac5f139be6ab84379",
+    "wof:hierarchy":[],
+    "wof:id":874100595,
+    "wof:lastmodified":1464311802,
+    "wof:name":"North Park Transportation Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.360702,
+    43.021725,
+    -108.360702,
+    43.021725
+],
+  "geometry": {"coordinates":[-108.360702,43.021725],"type":"Point"}
+}

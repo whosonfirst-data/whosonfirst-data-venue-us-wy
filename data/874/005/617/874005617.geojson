@@ -1,0 +1,57 @@
+{
+  "id": 874005617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.948345,44.80903,-106.948345,44.80903",
+    "geom:latitude":44.80903,
+    "geom:longitude":-106.948345,
+    "iso:country":"US",
+    "sg:address":"1515 N Sheridan Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 7484",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sawmill"
+    ],
+    "sg:website":"www.wyomingsawmills.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rqpfWiiF5dklN7GjXhapZ_44.809030_-106.948345@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310821,
+    "wof:geomhash":"2ac2c4cdae912d2cb6b61dcb8ab48807",
+    "wof:hierarchy":[],
+    "wof:id":874005617,
+    "wof:lastmodified":1464310821,
+    "wof:name":"Wyoming Sawmills Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sawmill"
+    ]
+},
+  "bbox": [
+    -106.948345,
+    44.80903,
+    -106.948345,
+    44.80903
+],
+  "geometry": {"coordinates":[-106.948345,44.80903],"type":"Point"}
+}

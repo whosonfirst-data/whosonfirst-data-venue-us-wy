@@ -1,0 +1,51 @@
+{
+  "id": 874030493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.065808,44.524869,-109.065808,44.524869",
+    "geom:latitude":44.524869,
+    "geom:longitude":-109.065808,
+    "iso:country":"US",
+    "sg:address":"1208 11th St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 7123",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WxgJ8SJ6Q5zw92Lz0ROOK_44.524869_-109.065808@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311053,
+    "wof:geomhash":"e2dab106edb7c33d1a595ebac2b83aad",
+    "wof:hierarchy":[],
+    "wof:id":874030493,
+    "wof:lastmodified":1464311053,
+    "wof:name":"11th Street Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.065808,
+    44.524869,
+    -109.065808,
+    44.524869
+],
+  "geometry": {"coordinates":[-109.065808,44.524869],"type":"Point"}
+}

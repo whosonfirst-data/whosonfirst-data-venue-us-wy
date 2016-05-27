@@ -1,0 +1,56 @@
+{
+  "id": 874111431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.84135,43.525644,-110.84135,43.525644",
+    "geom:latitude":43.525644,
+    "geom:longitude":-110.84135,
+    "iso:country":"US",
+    "sg:address":"3460 Tucker Ranch Rd",
+    "sg:city":"Wilson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 1041",
+    "sg:postcode":"83014",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hJisMYap7h0nugqVYNolV_43.525644_-110.841350@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311948,
+    "wof:geomhash":"a33f08f583de9321b990aaa804ec9d3e",
+    "wof:hierarchy":[],
+    "wof:id":874111431,
+    "wof:lastmodified":1464311948,
+    "wof:name":"Paul C Casperson MD Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -110.84135,
+    43.525644,
+    -110.84135,
+    43.525644
+],
+  "geometry": {"coordinates":[-110.84135000000001,43.525644],"type":"Point"}
+}

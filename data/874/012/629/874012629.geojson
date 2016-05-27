@@ -1,0 +1,58 @@
+{
+  "id": 874012629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.259052,42.28383,-110.259052,42.28383",
+    "geom:latitude":42.28383,
+    "geom:longitude":-110.259052,
+    "iso:country":"US",
+    "sg:address":"171 la Barge St",
+    "sg:city":"La Barge",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 386 2201",
+    "sg:postcode":"83123",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m2KsKpQvK0Ud8OiU1xQAw_42.283830_-110.259052@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310873,
+    "wof:geomhash":"cc0ba68cc12742be1c6a25bbc5fe9287",
+    "wof:hierarchy":[],
+    "wof:id":874012629,
+    "wof:lastmodified":1464310873,
+    "wof:name":"La Barge Ward",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -110.259052,
+    42.28383,
+    -110.259052,
+    42.28383
+],
+  "geometry": {"coordinates":[-110.259052,42.28383],"type":"Point"}
+}

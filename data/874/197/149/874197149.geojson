@@ -1,0 +1,58 @@
+{
+  "id": 874197149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.819279,41.13443,-104.819279,41.13443",
+    "geom:latitude":41.13443,
+    "geom:longitude":-104.819279,
+    "iso:country":"US",
+    "sg:address":"1810 Pioneer Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 4362",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cYAE8I0I0EH90WSHxS3f2_41.134430_-104.819279@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312817,
+    "wof:geomhash":"994171f0a728cc09bb3bb26d98fb09c7",
+    "wof:hierarchy":[],
+    "wof:id":874197149,
+    "wof:lastmodified":1464312817,
+    "wof:name":"Health First",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -104.819279,
+    41.13443,
+    -104.819279,
+    41.13443
+],
+  "geometry": {"coordinates":[-104.81927899999999,41.13443],"type":"Point"}
+}

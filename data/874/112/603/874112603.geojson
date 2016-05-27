@@ -1,0 +1,51 @@
+{
+  "id": 874112603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.402366,43.195622,-110.402366,43.195622",
+    "geom:latitude":43.195622,
+    "geom:longitude":-110.402366,
+    "iso:country":"US",
+    "sg:address":"14224 US Hwy 191",
+    "sg:city":"Bondurant",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 3524",
+    "sg:postcode":"82922",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56NNmpWUnDNlY7AO9W7Z0m_43.195622_-110.402366@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311964,
+    "wof:geomhash":"ffe2aed9b9e05b9fa7e4b7fd94e97b32",
+    "wof:hierarchy":[],
+    "wof:id":874112603,
+    "wof:lastmodified":1464311964,
+    "wof:name":"Bondurant Elementary School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.402366,
+    43.195622,
+    -110.402366,
+    43.195622
+],
+  "geometry": {"coordinates":[-110.402366,43.195622],"type":"Point"}
+}

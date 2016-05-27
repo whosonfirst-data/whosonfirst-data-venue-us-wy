@@ -1,0 +1,56 @@
+{
+  "id": 874190035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.698503,44.345683,-106.698503,44.345683",
+    "geom:latitude":44.345683,
+    "geom:longitude":-106.698503,
+    "iso:country":"US",
+    "sg:address":"90 S Main St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 7474",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "acupuncture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02VOGwpcwMLfapy6YMGbXd_44.345683_-106.698503@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312740,
+    "wof:geomhash":"227eaf93a83d4c44064bb77c23934a46",
+    "wof:hierarchy":[],
+    "wof:id":874190035,
+    "wof:lastmodified":1464312740,
+    "wof:name":"Holistic Health Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture"
+    ]
+},
+  "bbox": [
+    -106.698503,
+    44.345683,
+    -106.698503,
+    44.345683
+],
+  "geometry": {"coordinates":[-106.698503,44.345683],"type":"Point"}
+}

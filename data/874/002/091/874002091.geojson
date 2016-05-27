@@ -1,0 +1,51 @@
+{
+  "id": 874002091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.389392,42.745906,-105.389392,42.745906",
+    "geom:latitude":42.745906,
+    "geom:longitude":-105.389392,
+    "iso:country":"US",
+    "sg:address":"1038 Smylie Rd",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 6523",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14PLXf9q5vVGkIbg58JuGJ_42.745906_-105.389392@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310776,
+    "wof:geomhash":"2d0fa02b58c8cf3946809062eb0f6b97",
+    "wof:hierarchy":[],
+    "wof:id":874002091,
+    "wof:lastmodified":1464310776,
+    "wof:name":"Herricks Big Horn Taxidermy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.389392,
+    42.745906,
+    -105.389392,
+    42.745906
+],
+  "geometry": {"coordinates":[-105.389392,42.745906],"type":"Point"}
+}

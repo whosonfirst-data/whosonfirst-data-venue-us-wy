@@ -1,0 +1,56 @@
+{
+  "id": 874151853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.741409,42.834603,-108.741409,42.834603",
+    "geom:latitude":42.834603,
+    "geom:longitude":-108.741409,
+    "iso:country":"US",
+    "sg:address":"160 S 8th St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 9291",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aB38PZUHBZCAOxDWF9bJw_42.834603_-108.741409@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312345,
+    "wof:geomhash":"020083e5bee7d4b51a8655d6e51b4883",
+    "wof:hierarchy":[],
+    "wof:id":874151853,
+    "wof:lastmodified":1464312345,
+    "wof:name":"Wyoming Skin Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -108.741409,
+    42.834603,
+    -108.741409,
+    42.834603
+],
+  "geometry": {"coordinates":[-108.741409,42.834603],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874155655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.548769,41.305812,-105.548769,41.305812",
+    "geom:latitude":41.305812,
+    "geom:longitude":-105.548769,
+    "iso:country":"US",
+    "sg:address":"3510 E Garfield St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 2161",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "skating",
+        "rink"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hpKiCTSQ6syHl3ELv8D5O_41.305812_-105.548769@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312384,
+    "wof:geomhash":"08fa4803482ee6f2e8159401bd897ce7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874155655
+        }
+    ],
+    "wof:id":874155655,
+    "wof:lastmodified":1464312384,
+    "wof:name":"Laramie Community Ice Arena",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skating",
+        "rink"
+    ]
+},
+  "bbox": [
+    -105.548769,
+    41.305812,
+    -105.548769,
+    41.305812
+],
+  "geometry": {"coordinates":[-105.54876899999999,41.305812],"type":"Point"}
+}

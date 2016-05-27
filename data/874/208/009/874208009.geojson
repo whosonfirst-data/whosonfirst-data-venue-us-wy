@@ -1,0 +1,60 @@
+{
+  "id": 874208009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.18643,43.879094,-104.18643,43.879094",
+    "geom:latitude":43.879094,
+    "geom:longitude":-104.18643,
+    "iso:country":"US",
+    "sg:address":"40 Pippin Rd",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 9750",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DvYqpE8woYa40mnYHKMkd_43.879094_-104.186430@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312929,
+    "wof:geomhash":"8bb99b82b258e16da7658208ec35d879",
+    "wof:hierarchy":[],
+    "wof:id":874208009,
+    "wof:lastmodified":1464312929,
+    "wof:name":"Correctional Medical Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -104.18643,
+    43.879094,
+    -104.18643,
+    43.879094
+],
+  "geometry": {"coordinates":[-104.18643,43.879094],"type":"Point"}
+}

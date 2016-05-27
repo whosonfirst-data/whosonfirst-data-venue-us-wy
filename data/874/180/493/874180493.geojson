@@ -1,0 +1,51 @@
+{
+  "id": 874180493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.365978,42.746397,-105.365978,42.746397",
+    "geom:latitude":42.746397,
+    "geom:longitude":-105.365978,
+    "iso:country":"US",
+    "sg:address":"1812 E Richards St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 0565",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lwkZGSOo2RtMxnhD9qNdE_42.746397_-105.365978@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312635,
+    "wof:geomhash":"bba1f3fd265f594635cdd9615c4feb41",
+    "wof:hierarchy":[],
+    "wof:id":874180493,
+    "wof:lastmodified":1464312635,
+    "wof:name":"Douglas Liquor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.365978,
+    42.746397,
+    -105.365978,
+    42.746397
+],
+  "geometry": {"coordinates":[-105.365978,42.746397],"type":"Point"}
+}

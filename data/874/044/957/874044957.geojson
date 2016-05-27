@@ -1,0 +1,71 @@
+{
+  "id": 874044957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590022,41.320277,-105.590022,41.320277",
+    "geom:latitude":41.320277,
+    "geom:longitude":-105.590022,
+    "iso:country":"US",
+    "sg:address":"1052 N 5th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 5264",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x62oBoOJtEu941FbT1PPF_41.320277_-105.590022@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311194,
+    "wof:geomhash":"1f6bbfb9d5ad3d23271aab09028d5879",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874044957
+        }
+    ],
+    "wof:id":874044957,
+    "wof:lastmodified":1464311194,
+    "wof:name":"Parks & Recreation Dept Shop",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -105.590022,
+    41.320277,
+    -105.590022,
+    41.320277
+],
+  "geometry": {"coordinates":[-105.590022,41.320277],"type":"Point"}
+}

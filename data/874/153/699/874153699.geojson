@@ -1,0 +1,73 @@
+{
+  "id": 874153699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.589528,41.321544,-105.589528,41.321544",
+    "geom:latitude":41.321544,
+    "geom:longitude":-105.589528,
+    "iso:country":"US",
+    "sg:address":"960 N 5th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5936",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "crisis",
+        "intervention"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zrwEBMAgFYYetVbG6oamm_41.321544_-105.589528@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312362,
+    "wof:geomhash":"b3b16e1f7290735f090ce684c606d982",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874153699
+        }
+    ],
+    "wof:id":874153699,
+    "wof:lastmodified":1464312362,
+    "wof:name":"Laramie Youth Crisis Ctr",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crisis",
+        "intervention"
+    ]
+},
+  "bbox": [
+    -105.589528,
+    41.321544,
+    -105.589528,
+    41.321544
+],
+  "geometry": {"coordinates":[-105.589528,41.321544],"type":"Point"}
+}

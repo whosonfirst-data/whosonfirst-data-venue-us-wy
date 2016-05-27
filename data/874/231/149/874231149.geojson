@@ -1,0 +1,68 @@
+{
+  "id": 874231149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955778,44.803249,-106.955778,44.803249",
+    "geom:latitude":44.803249,
+    "geom:longitude":-106.955778,
+    "iso:country":"US",
+    "sg:address":"544 N Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/sheridan/192437-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 9379",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yJDP5b5dFshCig5SwXOTQ_44.803361_-106.955806@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313176,
+    "wof:geomhash":"679c3d895a62e2187a8e813585463956",
+    "wof:hierarchy":[],
+    "wof:id":874231149,
+    "wof:lastmodified":1464313176,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -106.955778,
+    44.803249,
+    -106.955778,
+    44.803249
+],
+  "geometry": {"coordinates":[-106.955778,44.803249],"type":"Point"}
+}

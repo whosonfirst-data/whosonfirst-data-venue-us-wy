@@ -1,0 +1,57 @@
+{
+  "id": 874046039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.48876,44.297775,-105.48876,44.297775",
+    "geom:latitude":44.297775,
+    "geom:longitude":-105.48876,
+    "iso:country":"US",
+    "sg:address":"1011 Energy St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 6624",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "welding"
+    ],
+    "sg:website":"www.gregswelding.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Oavm2tWxR0rUWtTTcSskD_44.297775_-105.488760@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311207,
+    "wof:geomhash":"5702cc56bdfac3af05c46a83118dbd78",
+    "wof:hierarchy":[],
+    "wof:id":874046039,
+    "wof:lastmodified":1464311207,
+    "wof:name":"Greg's Welding Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -105.48876,
+    44.297775,
+    -105.48876,
+    44.297775
+],
+  "geometry": {"coordinates":[-105.48876,44.297775],"type":"Point"}
+}

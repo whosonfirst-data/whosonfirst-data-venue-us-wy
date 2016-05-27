@@ -1,0 +1,58 @@
+{
+  "id": 874116185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.49414,44.29129,-105.49414,44.29129",
+    "geom:latitude":44.29129,
+    "geom:longitude":-105.49414,
+    "iso:country":"US",
+    "sg:address":"401 S Douglas Hwy",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 1695",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "station",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77YQvdGQwdyp63ug2w33ln_44.291290_-105.494140@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311998,
+    "wof:geomhash":"f939822755e819777641c8cb0f118b1a",
+    "wof:hierarchy":[],
+    "wof:id":874116185,
+    "wof:lastmodified":1464311998,
+    "wof:name":"Mini Mart 149",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gas"
+    ]
+},
+  "bbox": [
+    -105.49414,
+    44.29129,
+    -105.49414,
+    44.29129
+],
+  "geometry": {"coordinates":[-105.49414,44.29129],"type":"Point"}
+}

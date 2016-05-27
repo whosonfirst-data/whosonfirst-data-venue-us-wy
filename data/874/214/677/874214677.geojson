@@ -1,0 +1,56 @@
+{
+  "id": 874214677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.547487,41.795384,-110.547487,41.795384",
+    "geom:latitude":41.795384,
+    "geom:longitude":-110.547487,
+    "iso:country":"US",
+    "sg:address":"201 Canyon Rd",
+    "sg:city":"Diamondville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 877 5944",
+    "sg:postcode":"83101",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OI0SPmFIslxSjlYBSHxtc_41.795384_-110.547487@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313001,
+    "wof:geomhash":"d3cd0678b75fc74c494d58c07a4f21e0",
+    "wof:hierarchy":[],
+    "wof:id":874214677,
+    "wof:lastmodified":1464313001,
+    "wof:name":"Brent Nielson DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -110.547487,
+    41.795384,
+    -110.547487,
+    41.795384
+],
+  "geometry": {"coordinates":[-110.547487,41.795384],"type":"Point"}
+}

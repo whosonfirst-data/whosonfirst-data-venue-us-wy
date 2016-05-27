@@ -1,0 +1,51 @@
+{
+  "id": 873992139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.345625,42.134904,-104.345625,42.134904",
+    "geom:latitude":42.134904,
+    "geom:longitude":-104.345625,
+    "iso:country":"US",
+    "sg:address":"104 Main St",
+    "sg:city":"Lingle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 837 2180",
+    "sg:postcode":"82223",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01R9iYaYF44mJxleIOguCj_42.134904_-104.345625@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310706,
+    "wof:geomhash":"e74bf64a94236549db39c33b9d3e8ebe",
+    "wof:hierarchy":[],
+    "wof:id":873992139,
+    "wof:lastmodified":1464310706,
+    "wof:name":"Corner Mart LTD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.345625,
+    42.134904,
+    -104.345625,
+    42.134904
+],
+  "geometry": {"coordinates":[-104.345625,42.134904],"type":"Point"}
+}

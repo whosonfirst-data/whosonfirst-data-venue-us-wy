@@ -1,0 +1,69 @@
+{
+  "id": 874203899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.296236,42.838824,-106.296236,42.838824",
+    "geom:latitude":42.838824,
+    "geom:longitude":-106.296236,
+    "iso:country":"US",
+    "sg:address":"2325 E 12th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2923",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R9cZo9vhMEZaVeez4fJQl_42.838824_-106.296236@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312883,
+    "wof:geomhash":"b258fae6aee65bcbf6f8915b519b5aa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874203899
+        }
+    ],
+    "wof:id":874203899,
+    "wof:lastmodified":1464312883,
+    "wof:name":"Annie's Nails N Things",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -106.296236,
+    42.838824,
+    -106.296236,
+    42.838824
+],
+  "geometry": {"coordinates":[-106.29623599999999,42.838824],"type":"Point"}
+}

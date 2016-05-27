@@ -1,0 +1,58 @@
+{
+  "id": 874000285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.711606,44.346569,-106.711606,44.346569",
+    "geom:latitude":44.346569,
+    "geom:longitude":-106.711606,
+    "iso:country":"US",
+    "sg:address":"671 W Fetterman St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 9551",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60y1U2sEQX8LTVXM2oBlPF_44.346569_-106.711606@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310762,
+    "wof:geomhash":"e4c2b3cf0dc22d3f096475562a5dbcc5",
+    "wof:hierarchy":[],
+    "wof:id":874000285,
+    "wof:lastmodified":1464310762,
+    "wof:name":"Buffalo Senior Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -106.711606,
+    44.346569,
+    -106.711606,
+    44.346569
+],
+  "geometry": {"coordinates":[-106.711606,44.346569],"type":"Point"}
+}

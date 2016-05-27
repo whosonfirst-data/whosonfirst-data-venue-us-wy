@@ -1,0 +1,58 @@
+{
+  "id": 874204041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.951678,42.051492,-104.951678,42.051492",
+    "geom:latitude":42.051492,
+    "geom:longitude":-104.951678,
+    "iso:country":"US",
+    "sg:address":"308 8th St",
+    "sg:city":"Wheatland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 322 3079",
+    "sg:postcode":"82201",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nORRlnVk3H2LRTNWQ9IvT_42.051492_-104.951678@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312884,
+    "wof:geomhash":"fe1af53df1570c5573554261a93b3de9",
+    "wof:hierarchy":[],
+    "wof:id":874204041,
+    "wof:lastmodified":1464312884,
+    "wof:name":"Keck Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -104.951678,
+    42.051492,
+    -104.951678,
+    42.051492
+],
+  "geometry": {"coordinates":[-104.951678,42.051492],"type":"Point"}
+}

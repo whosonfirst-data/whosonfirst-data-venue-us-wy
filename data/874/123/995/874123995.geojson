@@ -1,0 +1,64 @@
+{
+  "id": 874123995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.27763,43.409718,-106.27763,43.409718",
+    "geom:latitude":43.409718,
+    "geom:longitude":-106.27763,
+    "iso:country":"US",
+    "sg:address":"132 Stock St",
+    "sg:city":"Midwest",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 437 6859",
+    "sg:postcode":"82643",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Fxm7uGz9VsTaizC7lqLjC_43.409718_-106.277630@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312077,
+    "wof:geomhash":"53b7c916babee7e856f66bd1c0c564f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874123995
+        }
+    ],
+    "wof:id":874123995,
+    "wof:lastmodified":1464312077,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.27763,
+    43.409718,
+    -106.27763,
+    43.409718
+],
+  "geometry": {"coordinates":[-106.27763,43.409718],"type":"Point"}
+}

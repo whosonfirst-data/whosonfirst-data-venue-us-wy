@@ -1,0 +1,73 @@
+{
+  "id": 874047535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.335076,42.836561,-106.335076,42.836561",
+    "geom:latitude":42.836561,
+    "geom:longitude":-106.335076,
+    "iso:country":"US",
+    "sg:address":"866 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 6842",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "high",
+        "fidelity",
+        "stereophonic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VSPXtTh5epxFGys9A4Bvf_42.836561_-106.335076@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311219,
+    "wof:geomhash":"5775fd32bd019a4bce449f08b705e59a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874047535
+        }
+    ],
+    "wof:id":874047535,
+    "wof:lastmodified":1464311219,
+    "wof:name":"HARMONY Car Stereo",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "fidelity",
+        "stereophonic"
+    ]
+},
+  "bbox": [
+    -106.335076,
+    42.836561,
+    -106.335076,
+    42.836561
+],
+  "geometry": {"coordinates":[-106.335076,42.836561],"type":"Point"}
+}

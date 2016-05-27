@@ -1,0 +1,56 @@
+{
+  "id": 874209993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.47945,44.239119,-105.47945,44.239119",
+    "geom:latitude":44.239119,
+    "geom:longitude":-105.47945,
+    "iso:country":"US",
+    "sg:address":"6400 Swanson Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 2959",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KJQsesId236z8LHS3F0vU_44.239119_-105.479450@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312949,
+    "wof:geomhash":"330bf53f2c5b5371b21c1d7dcfdcc327",
+    "wof:hierarchy":[],
+    "wof:id":874209993,
+    "wof:lastmodified":1464312949,
+    "wof:name":"Hibbs Auto Body",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -105.47945,
+    44.239119,
+    -105.47945,
+    44.239119
+],
+  "geometry": {"coordinates":[-105.47945,44.239119],"type":"Point"}
+}

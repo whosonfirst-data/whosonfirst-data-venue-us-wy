@@ -1,0 +1,58 @@
+{
+  "id": 874140989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.823973,41.153154,-104.823973,41.153154",
+    "geom:latitude":41.153154,
+    "geom:longitude":-104.823973,
+    "iso:country":"US",
+    "sg:address":"4004 Capitol Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 8281",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0go5BOTGPAeBN48FeWdIQd_41.153154_-104.823973@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312243,
+    "wof:geomhash":"6c55e01d0aeba4f91d1664425a65bd64",
+    "wof:hierarchy":[],
+    "wof:id":874140989,
+    "wof:lastmodified":1464312243,
+    "wof:name":"Norwood & Associates PC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -104.823973,
+    41.153154,
+    -104.823973,
+    41.153154
+],
+  "geometry": {"coordinates":[-104.823973,41.153154],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 874164773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.169106,41.213844,-105.169106,41.213844",
+    "geom:latitude":41.213844,
+    "geom:longitude":-105.169106,
+    "iso:country":"US",
+    "sg:address":"597 Valley View Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 7475",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WOOWHymf6qf67Scntohs1_41.213844_-105.169106@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312477,
+    "wof:geomhash":"756891aa0fee810e1bf25ab73a7201ad",
+    "wof:hierarchy":[],
+    "wof:id":874164773,
+    "wof:lastmodified":1464312477,
+    "wof:name":"TN Transport LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -105.169106,
+    41.213844,
+    -105.169106,
+    41.213844
+],
+  "geometry": {"coordinates":[-105.169106,41.213844],"type":"Point"}
+}

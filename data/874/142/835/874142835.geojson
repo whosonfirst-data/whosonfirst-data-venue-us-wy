@@ -1,0 +1,70 @@
+{
+  "id": 874142835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.363025,42.827604,-106.363025,42.827604",
+    "geom:latitude":42.827604,
+    "geom:longitude":-106.363025,
+    "iso:country":"US",
+    "sg:address":"2060 Fairgrounds Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1660",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "animal"
+    ],
+    "sg:website":"www.petdrs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vh8yEDmqEpjJaN8SAImGr_42.827604_-106.363025@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312260,
+    "wof:geomhash":"451dab6703c933f9dc325241b7690877",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874142835
+        }
+    ],
+    "wof:id":874142835,
+    "wof:lastmodified":1464312260,
+    "wof:name":"Animal Hospital Of Casper",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "animal"
+    ]
+},
+  "bbox": [
+    -106.363025,
+    42.827604,
+    -106.363025,
+    42.827604
+],
+  "geometry": {"coordinates":[-106.36302499999999,42.827604],"type":"Point"}
+}

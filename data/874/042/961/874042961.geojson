@@ -1,0 +1,71 @@
+{
+  "id": 874042961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.597602,41.259428,-105.597602,41.259428",
+    "geom:latitude":41.259428,
+    "geom:longitude":-105.597602,
+    "iso:country":"US",
+    "sg:address":"5297 S Chaparral Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 9264",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kpGbkCnobsHNzwZ1j0oYw_41.259428_-105.597602@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311176,
+    "wof:geomhash":"c56735036f614f62037d816cc505f7e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874042961
+        }
+    ],
+    "wof:id":874042961,
+    "wof:lastmodified":1464311176,
+    "wof:name":"Anchor Environmental",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -105.597602,
+    41.259428,
+    -105.597602,
+    41.259428
+],
+  "geometry": {"coordinates":[-105.59760199999999,41.259428],"type":"Point"}
+}

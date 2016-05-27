@@ -1,0 +1,73 @@
+{
+  "id": 874214751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.891617,41.166339,-105.891617,41.166339",
+    "geom:latitude":41.166339,
+    "geom:longitude":-105.891617,
+    "iso:country":"US",
+    "sg:address":"1977 State Hwy 230",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 5034",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ooLCGrjTkcYJ2RTzyRAJa_41.166339_-105.891617@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313002,
+    "wof:geomhash":"50d5ec02d8eb4db894a55847e5cfddb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874214751
+        }
+    ],
+    "wof:id":874214751,
+    "wof:lastmodified":1464313002,
+    "wof:name":"Goldbrick Masonry Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.891617,
+    41.166339,
+    -105.891617,
+    41.166339
+],
+  "geometry": {"coordinates":[-105.891617,41.166339],"type":"Point"}
+}

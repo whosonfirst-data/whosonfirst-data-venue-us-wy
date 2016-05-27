@@ -1,0 +1,71 @@
+{
+  "id": 874059925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.350167,42.881347,-106.350167,42.881347",
+    "geom:latitude":42.881347,
+    "geom:longitude":-106.350167,
+    "iso:country":"US",
+    "sg:address":"2335 Kerzell Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 5775",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consulting",
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FjZABxxwKRsLRqqMKgBlD_42.881347_-106.350167@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311335,
+    "wof:geomhash":"5411f8f0682a3c312244a4b7762b0b91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874059925
+        }
+    ],
+    "wof:id":874059925,
+    "wof:lastmodified":1464311335,
+    "wof:name":"Colorado Biotechnology Assoc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "chemist"
+    ]
+},
+  "bbox": [
+    -106.350167,
+    42.881347,
+    -106.350167,
+    42.881347
+],
+  "geometry": {"coordinates":[-106.350167,42.881347],"type":"Point"}
+}

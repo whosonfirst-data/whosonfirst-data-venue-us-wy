@@ -1,0 +1,71 @@
+{
+  "id": 874121743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.296048,42.838824,-106.296048,42.838824",
+    "geom:latitude":42.838824,
+    "geom:longitude":-106.296048,
+    "iso:country":"US",
+    "sg:address":"2305 E 12th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 7787",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "drinking",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BTc0Nt70bYpJ9AzI9HDNv_42.838824_-106.296048@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312057,
+    "wof:geomhash":"ed3e2e51b0b1a9b3763a7504167b5807",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874121743
+        }
+    ],
+    "wof:id":874121743,
+    "wof:lastmodified":1464312057,
+    "wof:name":"Moonlight Liquors",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -106.296048,
+    42.838824,
+    -106.296048,
+    42.838824
+],
+  "geometry": {"coordinates":[-106.296048,42.838824],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 874032063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.220928,41.587134,-109.220928,41.587134",
+    "geom:latitude":41.587134,
+    "geom:longitude":-109.220928,
+    "iso:country":"US",
+    "sg:address":"403 N Front St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 5400",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bMf82MEkXWTLZYc0RFJZK_41.587134_-109.220928@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311066,
+    "wof:geomhash":"dbee854008c9e0a3026bb7725092a243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874032063
+        }
+    ],
+    "wof:id":874032063,
+    "wof:lastmodified":1464311066,
+    "wof:name":"Graffiti Records",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -109.220928,
+    41.587134,
+    -109.220928,
+    41.587134
+],
+  "geometry": {"coordinates":[-109.220928,41.587134],"type":"Point"}
+}

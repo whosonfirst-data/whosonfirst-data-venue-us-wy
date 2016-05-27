@@ -1,0 +1,73 @@
+{
+  "id": 874144525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33396,42.860089,-106.33396,42.860089",
+    "geom:latitude":42.860089,
+    "geom:longitude":-106.33396,
+    "iso:country":"US",
+    "sg:address":"800 Werner Ct",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1236",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "child",
+        "referral",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kgho2DGYQabaN7vUzjT55_42.860089_-106.333960@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312276,
+    "wof:geomhash":"f5b07a2b5dfd98549b3014b690957f12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874144525
+        }
+    ],
+    "wof:id":874144525,
+    "wof:lastmodified":1464312276,
+    "wof:name":"Children's Nutrition Svc Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "child",
+        "referral",
+        "care"
+    ]
+},
+  "bbox": [
+    -106.33396,
+    42.860089,
+    -106.33396,
+    42.860089
+],
+  "geometry": {"coordinates":[-106.33396,42.860089],"type":"Point"}
+}

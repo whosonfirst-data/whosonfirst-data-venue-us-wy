@@ -1,0 +1,73 @@
+{
+  "id": 874217075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.598171,41.325444,-105.598171,41.325444",
+    "geom:latitude":41.325444,
+    "geom:longitude":-105.598171,
+    "iso:country":"US",
+    "sg:address":"1380 N Pine St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7765",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ornamental",
+        "work"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Nk3DEQxW7QI6AYe7Wgvd5_41.325444_-105.598171@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313023,
+    "wof:geomhash":"28973521462f0f55e059dd6ad96d0a3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874217075
+        }
+    ],
+    "wof:id":874217075,
+    "wof:lastmodified":1464313023,
+    "wof:name":"Big Pete's Welding",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ornamental",
+        "work"
+    ]
+},
+  "bbox": [
+    -105.598171,
+    41.325444,
+    -105.598171,
+    41.325444
+],
+  "geometry": {"coordinates":[-105.59817099999999,41.325444],"type":"Point"}
+}

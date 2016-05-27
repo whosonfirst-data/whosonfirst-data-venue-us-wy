@@ -1,0 +1,69 @@
+{
+  "id": 874185099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.401717,42.82667,-106.401717,42.82667",
+    "geom:latitude":42.82667,
+    "geom:longitude":-106.401717,
+    "iso:country":"US",
+    "sg:address":"34 Sagebrush St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 0408",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gWaJ2NOvJ6Q39zaFHqsAa_42.826670_-106.401717@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312692,
+    "wof:geomhash":"b16c70c9937d7a0bf5ccef0d2c1ff752",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874185099
+        }
+    ],
+    "wof:id":874185099,
+    "wof:lastmodified":1464312692,
+    "wof:name":"Eagle Roof Service",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.401717,
+    42.82667,
+    -106.401717,
+    42.82667
+],
+  "geometry": {"coordinates":[-106.401717,42.82667],"type":"Point"}
+}

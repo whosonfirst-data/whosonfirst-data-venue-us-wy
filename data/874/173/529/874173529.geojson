@@ -1,0 +1,71 @@
+{
+  "id": 874173529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.587361,41.326935,-105.587361,41.326935",
+    "geom:latitude":41.326935,
+    "geom:longitude":-105.587361,
+    "iso:country":"US",
+    "sg:address":"1680 N 6th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3074",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aOKdZCIWY2a0xi9Zf1bjU_41.326935_-105.587361@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312563,
+    "wof:geomhash":"ed8152b256da1db627bfa192bd7b340b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874173529
+        }
+    ],
+    "wof:id":874173529,
+    "wof:lastmodified":1464312563,
+    "wof:name":"Southeast Wyoming Mental Hlth",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -105.587361,
+    41.326935,
+    -105.587361,
+    41.326935
+],
+  "geometry": {"coordinates":[-105.587361,41.326935],"type":"Point"}
+}

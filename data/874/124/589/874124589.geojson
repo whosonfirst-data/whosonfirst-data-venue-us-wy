@@ -1,0 +1,56 @@
+{
+  "id": 874124589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.976391,44.806731,-106.976391,44.806731",
+    "geom:latitude":44.806731,
+    "geom:longitude":-106.976391,
+    "iso:country":"US",
+    "sg:address":"916 Jackson Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 1701",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28dkcKpCG6Ta8luhIqIxpR_44.806731_-106.976391@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312082,
+    "wof:geomhash":"be306a587c6b3db73bfe32240913bd28",
+    "wof:hierarchy":[],
+    "wof:id":874124589,
+    "wof:lastmodified":1464312082,
+    "wof:name":"Ne Pediatrics of Wyoming PC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -106.976391,
+    44.806731,
+    -106.976391,
+    44.806731
+],
+  "geometry": {"coordinates":[-106.97639100000001,44.806731],"type":"Point"}
+}

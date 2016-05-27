@@ -1,0 +1,73 @@
+{
+  "id": 874032053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595917,41.279095,-105.595917,41.279095",
+    "geom:latitude":41.279095,
+    "geom:longitude":-105.595917,
+    "iso:country":"US",
+    "sg:address":"3840 Misner Ln",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4866",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "construction",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tnWJh4Zl3lqsyhbdOp5lG_41.279095_-105.595917@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311066,
+    "wof:geomhash":"cf0c9d4b2ab563404020cab92e9ca2be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874032053
+        }
+    ],
+    "wof:id":874032053,
+    "wof:lastmodified":1464311066,
+    "wof:name":"Delta Construction Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "general"
+    ]
+},
+  "bbox": [
+    -105.595917,
+    41.279095,
+    -105.595917,
+    41.279095
+],
+  "geometry": {"coordinates":[-105.595917,41.279095],"type":"Point"}
+}

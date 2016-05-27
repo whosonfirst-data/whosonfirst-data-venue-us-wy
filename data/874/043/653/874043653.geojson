@@ -1,0 +1,58 @@
+{
+  "id": 874043653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.75767,44.754554,-108.75767,44.754554",
+    "geom:latitude":44.754554,
+    "geom:longitude":-108.75767,
+    "iso:country":"US",
+    "sg:address":"270 N Bent St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 2952",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hain7fU52mtxSepBSrv12_44.754554_-108.757670@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311181,
+    "wof:geomhash":"f656d2697a4757ff0a446e5aebd620dc",
+    "wof:hierarchy":[],
+    "wof:id":874043653,
+    "wof:lastmodified":1464311181,
+    "wof:name":"Powell Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -108.75767,
+    44.754554,
+    -108.75767,
+    44.754554
+],
+  "geometry": {"coordinates":[-108.75767,44.754554],"type":"Point"}
+}

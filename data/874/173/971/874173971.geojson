@@ -1,0 +1,58 @@
+{
+  "id": 874173971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.799647,44.737826,-108.799647,44.737826",
+    "geom:latitude":44.737826,
+    "geom:longitude":-108.799647,
+    "iso:country":"US",
+    "sg:address":"1002 Rd 11",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 9262",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xjGYaTBDdVFo6wISBJpgZ_44.737826_-108.799647@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312568,
+    "wof:geomhash":"f3c57ee12e02b4570416c88486012082",
+    "wof:hierarchy":[],
+    "wof:id":874173971,
+    "wof:lastmodified":1464312568,
+    "wof:name":"Big Horn Basin Orthopaedic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -108.799647,
+    44.737826,
+    -108.799647,
+    44.737826
+],
+  "geometry": {"coordinates":[-108.79964699999999,44.737826],"type":"Point"}
+}

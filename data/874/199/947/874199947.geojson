@@ -1,0 +1,75 @@
+{
+  "id": 874199947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.578515,41.302067,-105.578515,41.302067",
+    "geom:latitude":41.302067,
+    "geom:longitude":-105.578515,
+    "iso:country":"US",
+    "sg:address":"1209 S 15th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 6666",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "home",
+        "log",
+        "cabin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78SlEX05ApXJK7rLE5TJwB_41.302067_-105.578515@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312843,
+    "wof:geomhash":"ffc590e3de63ef346f82bb8fcfb321ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874199947
+        }
+    ],
+    "wof:id":874199947,
+    "wof:lastmodified":1464312843,
+    "wof:name":"Heritage Log Homes",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "log",
+        "cabin"
+    ]
+},
+  "bbox": [
+    -105.578515,
+    41.302067,
+    -105.578515,
+    41.302067
+],
+  "geometry": {"coordinates":[-105.578515,41.302067],"type":"Point"}
+}

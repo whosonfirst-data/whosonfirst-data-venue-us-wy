@@ -1,0 +1,58 @@
+{
+  "id": 874122947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.041939,44.515242,-109.041939,44.515242",
+    "geom:latitude":44.515242,
+    "geom:longitude":-109.041939,
+    "iso:country":"US",
+    "sg:address":"2507 Mountain View Dr",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 8195",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gCN0kcf36sstNk0xBpbbT_44.515242_-109.041939@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312068,
+    "wof:geomhash":"ccba7fa77116bd4a89e72334716b2b1b",
+    "wof:hierarchy":[],
+    "wof:id":874122947,
+    "wof:lastmodified":1464312068,
+    "wof:name":"P & P Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -109.041939,
+    44.515242,
+    -109.041939,
+    44.515242
+],
+  "geometry": {"coordinates":[-109.041939,44.515242],"type":"Point"}
+}

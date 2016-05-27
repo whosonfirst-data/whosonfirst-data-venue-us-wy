@@ -1,0 +1,71 @@
+{
+  "id": 874151013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593958,41.307088,-105.593958,41.307088",
+    "geom:latitude":41.307088,
+    "geom:longitude":-105.593958,
+    "iso:country":"US",
+    "sg:address":"721 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6578",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OoECnBO5G0BZOs1bDO0tI_41.307088_-105.593958@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312338,
+    "wof:geomhash":"b8d89da9f1ebe00abcaabe4d4652c6f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874151013
+        }
+    ],
+    "wof:id":874151013,
+    "wof:lastmodified":1464312338,
+    "wof:name":"Warrens Repair",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -105.593958,
+    41.307088,
+    -105.593958,
+    41.307088
+],
+  "geometry": {"coordinates":[-105.593958,41.307088],"type":"Point"}
+}

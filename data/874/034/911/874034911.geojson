@@ -1,0 +1,56 @@
+{
+  "id": 874034911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.760073,43.47754,-110.760073,43.47754",
+    "geom:latitude":43.47754,
+    "geom:longitude":-110.760073,
+    "iso:country":"US",
+    "sg:address":"145 E Simpson Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 4126",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QMletj9l9rbwdSt3iQrnW_43.477540_-110.760073@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311093,
+    "wof:geomhash":"de63a8d3fd046abfcca4597d093dc444",
+    "wof:hierarchy":[],
+    "wof:id":874034911,
+    "wof:lastmodified":1464311093,
+    "wof:name":"US District Court",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -110.760073,
+    43.47754,
+    -110.760073,
+    43.47754
+],
+  "geometry": {"coordinates":[-110.76007300000001,43.47754],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874014299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.30241,42.838768,-106.30241,42.838768",
+    "geom:latitude":42.838768,
+    "geom:longitude":-106.30241,
+    "iso:country":"US",
+    "sg:address":"1831 E 12th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 4490",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03F5dKc48650PFZDUdBodj_42.838768_-106.302410@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310885,
+    "wof:geomhash":"5c0c5bdc4d7637208081c09e14941125",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874014299
+        }
+    ],
+    "wof:id":874014299,
+    "wof:lastmodified":1464310885,
+    "wof:name":"Nail Art Studio",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.30241,
+    42.838768,
+    -106.30241,
+    42.838768
+],
+  "geometry": {"coordinates":[-106.30240999999999,42.838768],"type":"Point"}
+}

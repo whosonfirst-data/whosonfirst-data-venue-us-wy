@@ -1,0 +1,74 @@
+{
+  "id": 874229561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.290448,42.849247,-106.290448,42.849247",
+    "geom:latitude":42.849247,
+    "geom:longitude":-106.290448,
+    "iso:country":"US",
+    "sg:address":"207 S Montana Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/casper/126920-blimpie-subs--sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 1656",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u68t88rJNLLKhD5Tyd8c5_42.849247_-106.290448@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313156,
+    "wof:geomhash":"4675373086966c7a66fcb8dc9dae5e78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874229561
+        }
+    ],
+    "wof:id":874229561,
+    "wof:lastmodified":1464313156,
+    "wof:name":"Blimpie Subs & Sandwiches",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -106.290448,
+    42.849247,
+    -106.290448,
+    42.849247
+],
+  "geometry": {"coordinates":[-106.290448,42.849247],"type":"Point"}
+}

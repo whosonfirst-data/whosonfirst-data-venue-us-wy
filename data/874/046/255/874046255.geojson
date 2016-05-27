@@ -1,0 +1,69 @@
+{
+  "id": 874046255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.422252,42.81595,-106.422252,42.81595",
+    "geom:latitude":42.81595,
+    "geom:longitude":-106.422252,
+    "iso:country":"US",
+    "sg:address":"6540 Indian Wells Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 3760",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Oxa0IFC1jzgUlDOxR5L2r_42.815950_-106.422252@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311209,
+    "wof:geomhash":"a2858961e2816c078a034690c382b30c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874046255
+        }
+    ],
+    "wof:id":874046255,
+    "wof:lastmodified":1464311209,
+    "wof:name":"Data Driven Designs",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -106.422252,
+    42.81595,
+    -106.422252,
+    42.81595
+],
+  "geometry": {"coordinates":[-106.422252,42.81595],"type":"Point"}
+}

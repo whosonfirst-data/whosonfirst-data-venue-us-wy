@@ -1,0 +1,56 @@
+{
+  "id": 874096707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.941806,44.005655,-107.941806,44.005655",
+    "geom:latitude":44.005655,
+    "geom:longitude":-107.941806,
+    "iso:country":"US",
+    "sg:address":"1938 Sage Crossing Ave",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 4786",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mu7OPEzuHpVI1j1707BVl_44.005655_-107.941806@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311739,
+    "wof:geomhash":"e8a45ee7f628ce9dced0de32268b81ab",
+    "wof:hierarchy":[],
+    "wof:id":874096707,
+    "wof:lastmodified":1464311739,
+    "wof:name":"Sage Creek Apt",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -107.941806,
+    44.005655,
+    -107.941806,
+    44.005655
+],
+  "geometry": {"coordinates":[-107.941806,44.005655],"type":"Point"}
+}

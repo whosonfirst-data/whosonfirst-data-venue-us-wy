@@ -1,0 +1,73 @@
+{
+  "id": 874187797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591033,41.299003,-105.591033,41.299003",
+    "geom:latitude":41.299003,
+    "geom:longitude":-105.591033,
+    "iso:country":"US",
+    "sg:address":"501 Boswell Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4856",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operation",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Rh6vMzxY98x7xlumarIvA_41.299003_-105.591033@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312717,
+    "wof:geomhash":"059d8d99c7427c0d03c1d312572f4113",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874187797
+        }
+    ],
+    "wof:id":874187797,
+    "wof:lastmodified":1464312717,
+    "wof:name":"Motel 8",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "business"
+    ]
+},
+  "bbox": [
+    -105.591033,
+    41.299003,
+    -105.591033,
+    41.299003
+],
+  "geometry": {"coordinates":[-105.591033,41.299003],"type":"Point"}
+}

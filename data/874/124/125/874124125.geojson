@@ -1,0 +1,71 @@
+{
+  "id": 874124125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343859,42.861072,-106.343859,42.861072",
+    "geom:latitude":42.861072,
+    "geom:longitude":-106.343859,
+    "iso:country":"US",
+    "sg:address":"802 N Foster Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 6568",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RrD3R76cQRI2WcbioF7k6_42.861072_-106.343859@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312078,
+    "wof:geomhash":"a2750684c1812a1f90fe002a2586a18f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874124125
+        }
+    ],
+    "wof:id":874124125,
+    "wof:lastmodified":1464312078,
+    "wof:name":"Bailly's Plumbing & Heating",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.343859,
+    42.861072,
+    -106.343859,
+    42.861072
+],
+  "geometry": {"coordinates":[-106.34385899999999,42.861072],"type":"Point"}
+}

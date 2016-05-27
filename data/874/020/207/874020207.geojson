@@ -1,0 +1,60 @@
+{
+  "id": 874020207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.38068,43.02744,-108.38068,43.02744",
+    "geom:latitude":43.02744,
+    "geom:longitude":-108.38068,
+    "iso:country":"US",
+    "sg:address":"320 N Federal Blvd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 3129",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DPi38hypZHzeTFEa3JQM0_43.027440_-108.380680@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310950,
+    "wof:geomhash":"ba26e7b25c5283dcf7d336a5a98e9c34",
+    "wof:hierarchy":[],
+    "wof:id":874020207,
+    "wof:lastmodified":1464310950,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -108.38068,
+    43.02744,
+    -108.38068,
+    43.02744
+],
+  "geometry": {"coordinates":[-108.38068,43.02744],"type":"Point"}
+}

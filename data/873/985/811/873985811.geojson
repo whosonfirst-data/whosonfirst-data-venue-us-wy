@@ -1,0 +1,58 @@
+{
+  "id": 873985811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.711979,44.34709,-106.711979,44.34709",
+    "geom:latitude":44.34709,
+    "geom:longitude":-106.711979,
+    "iso:country":"US",
+    "sg:address":"145 Pine St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 7162",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mining",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q8EaVxyw7TIPgD2z8xO3X_44.347090_-106.711979@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310660,
+    "wof:geomhash":"736be597eac7f663e6ca345453b09d0b",
+    "wof:hierarchy":[],
+    "wof:id":873985811,
+    "wof:lastmodified":1464310660,
+    "wof:name":"Wyoming Augers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mining",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -106.711979,
+    44.34709,
+    -106.711979,
+    44.34709
+],
+  "geometry": {"coordinates":[-106.711979,44.34709],"type":"Point"}
+}

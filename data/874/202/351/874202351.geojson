@@ -1,0 +1,62 @@
+{
+  "id": 874202351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.750117,44.754008,-108.750117,44.754008",
+    "geom:latitude":44.754008,
+    "geom:longitude":-108.750117,
+    "iso:country":"US",
+    "sg:address":"129 N Gilbert St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 2721",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "body",
+        "general",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KUl4DDtWGwQsMwZv6oDew_44.754008_-108.750117@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312868,
+    "wof:geomhash":"4c08b5d49746637530469fe91db12ea1",
+    "wof:hierarchy":[],
+    "wof:id":874202351,
+    "wof:lastmodified":1464312868,
+    "wof:name":"Clif's Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "body",
+        "general",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.750117,
+    44.754008,
+    -108.750117,
+    44.754008
+],
+  "geometry": {"coordinates":[-108.750117,44.754008],"type":"Point"}
+}

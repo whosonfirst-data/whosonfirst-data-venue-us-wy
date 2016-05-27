@@ -1,0 +1,58 @@
+{
+  "id": 874163659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.179778,42.050646,-104.179778,42.050646",
+    "geom:latitude":42.050646,
+    "geom:longitude":-104.179778,
+    "iso:country":"US",
+    "sg:address":"371 E 6th Ave",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 3900",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HlDIGpBjajTfy8A2G9mpl_42.050646_-104.179778@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312466,
+    "wof:geomhash":"5b1591a8fed897da192dd0b1a5c2b069",
+    "wof:hierarchy":[],
+    "wof:id":874163659,
+    "wof:lastmodified":1464312466,
+    "wof:name":"South Torrington Water & Sewer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -104.179778,
+    42.050646,
+    -104.179778,
+    42.050646
+],
+  "geometry": {"coordinates":[-104.179778,42.050646],"type":"Point"}
+}

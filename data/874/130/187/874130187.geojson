@@ -1,0 +1,71 @@
+{
+  "id": 874130187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.42658,42.863099,-106.42658,42.863099",
+    "geom:latitude":42.863099,
+    "geom:longitude":-106.42658,
+    "iso:country":"US",
+    "sg:address":"6715 W Zero Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 6110",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Jpasin1hBliHhixMADvyf_42.863099_-106.426580@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312138,
+    "wof:geomhash":"54033506deff29b9f466442044a534b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874130187
+        }
+    ],
+    "wof:id":874130187,
+    "wof:lastmodified":1464312138,
+    "wof:name":"R & G Enterprises LLC",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "gas"
+    ]
+},
+  "bbox": [
+    -106.42658,
+    42.863099,
+    -106.42658,
+    42.863099
+],
+  "geometry": {"coordinates":[-106.42658,42.863099],"type":"Point"}
+}

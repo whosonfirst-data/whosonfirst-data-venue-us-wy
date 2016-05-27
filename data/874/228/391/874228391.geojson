@@ -1,0 +1,59 @@
+{
+  "id": 874228391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.81647,41.132264,-104.81647,41.132264",
+    "geom:latitude":41.132264,
+    "geom:longitude":-104.81647,
+    "iso:country":"US",
+    "sg:address":"306 W Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/159129-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 7046",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38ZAbcjHNWEvnUEtfr5VWL_41.132264_-104.816470@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313144,
+    "wof:geomhash":"9eb009605f1a92c058bc5737b36987ae",
+    "wof:hierarchy":[],
+    "wof:id":874228391,
+    "wof:lastmodified":1464313144,
+    "wof:name":"Arby's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -104.81647,
+    41.132264,
+    -104.81647,
+    41.132264
+],
+  "geometry": {"coordinates":[-104.81647,41.132264],"type":"Point"}
+}

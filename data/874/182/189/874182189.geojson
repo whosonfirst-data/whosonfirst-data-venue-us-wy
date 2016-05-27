@@ -1,0 +1,58 @@
+{
+  "id": 874182189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.927233,44.798001,-106.927233,44.798001",
+    "geom:latitude":44.798001,
+    "geom:longitude":-106.927233,
+    "iso:country":"US",
+    "sg:address":"83 E Ridge Rd",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 8461",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XC0S1ogfCqsiMHmMIkN84_44.798001_-106.927233@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312652,
+    "wof:geomhash":"55fd168d4c07aea39de41d9528771f03",
+    "wof:hierarchy":[],
+    "wof:id":874182189,
+    "wof:lastmodified":1464312652,
+    "wof:name":"Sheridan Solid Waste Disposal",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "program"
+    ]
+},
+  "bbox": [
+    -106.927233,
+    44.798001,
+    -106.927233,
+    44.798001
+],
+  "geometry": {"coordinates":[-106.927233,44.798001],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874190697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.308108,42.848699,-106.308108,42.848699",
+    "geom:latitude":42.848699,
+    "geom:longitude":-106.308108,
+    "iso:country":"US",
+    "sg:address":"1233 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 3541",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5no7G1E5Z8RXTMXNsSzAqC_42.848699_-106.308108@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312746,
+    "wof:geomhash":"29270db197a1dc092338fe120d4bcf77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874190697
+        }
+    ],
+    "wof:id":874190697,
+    "wof:lastmodified":1464312746,
+    "wof:name":"Stinson Anita J MD",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -106.308108,
+    42.848699,
+    -106.308108,
+    42.848699
+],
+  "geometry": {"coordinates":[-106.308108,42.848699],"type":"Point"}
+}

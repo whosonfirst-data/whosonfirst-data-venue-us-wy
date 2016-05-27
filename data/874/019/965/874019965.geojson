@@ -1,0 +1,77 @@
+{
+  "id": 874019965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590344,41.303154,-105.590344,41.303154",
+    "geom:latitude":41.303154,
+    "geom:longitude":-105.590344,
+    "iso:country":"US",
+    "sg:address":"610 Russell St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 6420",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aaK9lRzF5zKadHnGx2oKj_41.303154_-105.590344@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310948,
+    "wof:geomhash":"9cf65f9f3189b0e58ab32c1f4c31dc43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874019965
+        }
+    ],
+    "wof:id":874019965,
+    "wof:lastmodified":1464310948,
+    "wof:name":"Montessori Children's House",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school",
+        "day"
+    ]
+},
+  "bbox": [
+    -105.590344,
+    41.303154,
+    -105.590344,
+    41.303154
+],
+  "geometry": {"coordinates":[-105.590344,41.303154],"type":"Point"}
+}

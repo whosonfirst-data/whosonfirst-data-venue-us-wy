@@ -1,0 +1,69 @@
+{
+  "id": 874160611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.272039,41.634283,-109.272039,41.634283",
+    "geom:latitude":41.634283,
+    "geom:longitude":-109.272039,
+    "iso:country":"US",
+    "sg:address":"150 Summit Dr",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 6132",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "launderer",
+        "linen",
+        "industrial",
+        "upholsterer",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_657TSQtTJQSRagyLQIwpb4_41.634283_-109.272039@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312438,
+    "wof:geomhash":"c0627a1011b838af3b19dbbad55ca634",
+    "wof:hierarchy":[],
+    "wof:id":874160611,
+    "wof:lastmodified":1464312438,
+    "wof:name":"Eagle Uniform and Linen Supply",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "launderer",
+        "linen",
+        "industrial",
+        "upholsterer",
+        "supply"
+    ]
+},
+  "bbox": [
+    -109.272039,
+    41.634283,
+    -109.272039,
+    41.634283
+],
+  "geometry": {"coordinates":[-109.27203900000001,41.634283],"type":"Point"}
+}

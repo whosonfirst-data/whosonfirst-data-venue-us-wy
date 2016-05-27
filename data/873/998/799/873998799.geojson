@@ -1,0 +1,71 @@
+{
+  "id": 873998799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.325091,42.848067,-106.325091,42.848067",
+    "geom:latitude":42.848067,
+    "geom:longitude":-106.325091,
+    "iso:country":"US",
+    "sg:address":"253 S Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 3908",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "clocks",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OatzdTIJYlnPHMh4xdVp6_42.848067_-106.325091@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310752,
+    "wof:geomhash":"c8925d2324b2b4c5f1f2adef45ec0bfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873998799
+        }
+    ],
+    "wof:id":873998799,
+    "wof:lastmodified":1464310752,
+    "wof:name":"Harris Clock & Watch Svc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clocks",
+        "parts"
+    ]
+},
+  "bbox": [
+    -106.325091,
+    42.848067,
+    -106.325091,
+    42.848067
+],
+  "geometry": {"coordinates":[-106.325091,42.848067],"type":"Point"}
+}

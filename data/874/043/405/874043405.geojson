@@ -1,0 +1,56 @@
+{
+  "id": 874043405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.932455,44.769907,-106.932455,44.769907",
+    "geom:latitude":44.769907,
+    "geom:longitude":-106.932455,
+    "iso:country":"US",
+    "sg:address":"2445 Dry Ranch Rd",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 5461",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42L4Ffnws0xTheBXhhPm7N_44.769907_-106.932455@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311179,
+    "wof:geomhash":"7fac3c94c882ede6a212600d70efccbb",
+    "wof:hierarchy":[],
+    "wof:id":874043405,
+    "wof:lastmodified":1464311179,
+    "wof:name":"Sheridan Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -106.932455,
+    44.769907,
+    -106.932455,
+    44.769907
+],
+  "geometry": {"coordinates":[-106.932455,44.769907],"type":"Point"}
+}

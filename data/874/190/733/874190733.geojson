@@ -1,0 +1,58 @@
+{
+  "id": 874190733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.872203,42.863485,-105.872203,42.863485",
+    "geom:latitude":42.863485,
+    "geom:longitude":-105.872203,
+    "iso:country":"US",
+    "sg:address":"109 N 4th St",
+    "sg:city":"Glenrock",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 436 9605",
+    "sg:postcode":"82637",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xuAdGOAESac8iZjhI3Stb_42.863485_-105.872203@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312747,
+    "wof:geomhash":"0847aa22b7ef0eac2b4b836c4fccbbec",
+    "wof:hierarchy":[],
+    "wof:id":874190733,
+    "wof:lastmodified":1464312747,
+    "wof:name":"Short Power Line",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.872203,
+    42.863485,
+    -105.872203,
+    42.863485
+],
+  "geometry": {"coordinates":[-105.872203,42.863485],"type":"Point"}
+}

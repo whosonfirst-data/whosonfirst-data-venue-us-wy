@@ -1,0 +1,60 @@
+{
+  "id": 874127895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.50392,44.29023,-105.50392,44.29023",
+    "geom:latitude":44.29023,
+    "geom:longitude":-105.50392,
+    "iso:country":"US",
+    "sg:address":"500 S Gillette Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 3424",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "county",
+        "state",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aajrcdv6gOuIaYhG5bBtv_44.290230_-105.503920@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312110,
+    "wof:geomhash":"5cb3b02832f41d6868c8ac8545acf410",
+    "wof:hierarchy":[],
+    "wof:id":874127895,
+    "wof:lastmodified":1464312110,
+    "wof:name":"Campbell Cnty Dist Court Clerk",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "state",
+        "system"
+    ]
+},
+  "bbox": [
+    -105.50392,
+    44.29023,
+    -105.50392,
+    44.29023
+],
+  "geometry": {"coordinates":[-105.50391999999999,44.29023],"type":"Point"}
+}

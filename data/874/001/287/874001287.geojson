@@ -1,0 +1,64 @@
+{
+  "id": 874001287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.267184,42.84449,-106.267184,42.84449",
+    "geom:latitude":42.84449,
+    "geom:longitude":-106.267184,
+    "iso:country":"US",
+    "sg:address":"426 SE Wyoming Blvd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3970",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cV6tcc7QRysJx5kuME3oc_42.844490_-106.267184@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310769,
+    "wof:geomhash":"801e89bfa687cf04e86ef0bac1276520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874001287
+        }
+    ],
+    "wof:id":874001287,
+    "wof:lastmodified":1464310769,
+    "wof:name":"IATSE",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.267184,
+    42.84449,
+    -106.267184,
+    42.84449
+],
+  "geometry": {"coordinates":[-106.267184,42.84449],"type":"Point"}
+}

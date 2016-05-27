@@ -1,0 +1,64 @@
+{
+  "id": 874007365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.383624,42.826903,-106.383624,42.826903",
+    "geom:latitude":42.826903,
+    "geom:longitude":-106.383624,
+    "iso:country":"US",
+    "sg:address":"2271 River Meadows Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 5003",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A3yebNZ8N5xWfmDlJwSjk_42.826903_-106.383624@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310835,
+    "wof:geomhash":"7e847b276f7c14c481735187a240592b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874007365
+        }
+    ],
+    "wof:id":874007365,
+    "wof:lastmodified":1464310835,
+    "wof:name":"Carol & Co",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.383624,
+    42.826903,
+    -106.383624,
+    42.826903
+],
+  "geometry": {"coordinates":[-106.383624,42.826903],"type":"Point"}
+}

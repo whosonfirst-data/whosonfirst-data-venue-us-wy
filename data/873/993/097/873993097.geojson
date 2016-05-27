@@ -1,0 +1,71 @@
+{
+  "id": 873993097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.42114,42.87631,-106.42114,42.87631",
+    "geom:latitude":42.87631,
+    "geom:longitude":-106.42114,
+    "iso:country":"US",
+    "sg:address":"2136 Oil Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 9861",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XDBMpPeXSQe4raW3RuyMn_42.876310_-106.421140@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310712,
+    "wof:geomhash":"dbe94a56859e1504391ea570459b2da4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873993097
+        }
+    ],
+    "wof:id":873993097,
+    "wof:lastmodified":1464310712,
+    "wof:name":"New Patriot Drilling Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "gas"
+    ]
+},
+  "bbox": [
+    -106.42114,
+    42.87631,
+    -106.42114,
+    42.87631
+],
+  "geometry": {"coordinates":[-106.42113999999999,42.87631],"type":"Point"}
+}

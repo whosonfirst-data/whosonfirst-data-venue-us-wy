@@ -1,0 +1,58 @@
+{
+  "id": 874166905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.178625,42.064129,-104.178625,42.064129",
+    "geom:latitude":42.064129,
+    "geom:longitude":-104.178625,
+    "iso:country":"US",
+    "sg:address":"536 E 20th Ave",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 7989",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GJBulkjVGQgNyWvHHst18_42.064129_-104.178625@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312497,
+    "wof:geomhash":"1377a637d93f15bb1fe4d8c6d9a89d8f",
+    "wof:hierarchy":[],
+    "wof:id":874166905,
+    "wof:lastmodified":1464312497,
+    "wof:name":"Room 2 Rent Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -104.178625,
+    42.064129,
+    -104.178625,
+    42.064129
+],
+  "geometry": {"coordinates":[-104.178625,42.064129],"type":"Point"}
+}

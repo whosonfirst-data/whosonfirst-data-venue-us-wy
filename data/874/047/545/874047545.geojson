@@ -1,0 +1,56 @@
+{
+  "id": 874047545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.764846,44.751204,-108.764846,44.751204",
+    "geom:latitude":44.751204,
+    "geom:longitude":-108.764846,
+    "iso:country":"US",
+    "sg:address":"255 S Division St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 8080",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GSWnbuIEUVfHVuq1sBCrC_44.751204_-108.764846@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311219,
+    "wof:geomhash":"3beccc2e9d958eed358293fe5b24b055",
+    "wof:hierarchy":[],
+    "wof:id":874047545,
+    "wof:lastmodified":1464311219,
+    "wof:name":"Division Dental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -108.764846,
+    44.751204,
+    -108.764846,
+    44.751204
+],
+  "geometry": {"coordinates":[-108.76484600000001,44.751204],"type":"Point"}
+}

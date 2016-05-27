@@ -1,0 +1,71 @@
+{
+  "id": 874096149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.571269,41.324888,-105.571269,41.324888",
+    "geom:latitude":41.324888,
+    "geom:longitude":-105.571269,
+    "iso:country":"US",
+    "sg:address":"1908 E Reynolds St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4483",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pZ3iemi97dfV8x63GEAAy_41.324888_-105.571269@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311730,
+    "wof:geomhash":"0de2a157ede8e6f272b1c19af286b8f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874096149
+        }
+    ],
+    "wof:id":874096149,
+    "wof:lastmodified":1464311730,
+    "wof:name":"V Frank Mendicino",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -105.571269,
+    41.324888,
+    -105.571269,
+    41.324888
+],
+  "geometry": {"coordinates":[-105.571269,41.324888],"type":"Point"}
+}

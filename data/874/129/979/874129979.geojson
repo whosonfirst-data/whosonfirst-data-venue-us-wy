@@ -1,0 +1,57 @@
+{
+  "id": 874129979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.364452,42.745059,-105.364452,42.745059",
+    "geom:latitude":42.745059,
+    "geom:longitude":-105.364452,
+    "iso:country":"US",
+    "sg:address":"1950 E Richards St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 5012",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.pamida.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Cf4xulPchG60b43V3QrlN_42.745059_-105.364452@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312135,
+    "wof:geomhash":"3e634b508dfdf877534e291dace290a0",
+    "wof:hierarchy":[],
+    "wof:id":874129979,
+    "wof:lastmodified":1464312135,
+    "wof:name":"Pamida",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -105.364452,
+    42.745059,
+    -105.364452,
+    42.745059
+],
+  "geometry": {"coordinates":[-105.364452,42.745059],"type":"Point"}
+}

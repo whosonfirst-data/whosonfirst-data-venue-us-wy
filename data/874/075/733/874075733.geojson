@@ -1,0 +1,69 @@
+{
+  "id": 874075733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.270727,42.848938,-106.270727,42.848938",
+    "geom:latitude":42.848938,
+    "geom:longitude":-106.270727,
+    "iso:country":"US",
+    "sg:address":"305 SE Wyoming Blvd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5584",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RIvbz6SOs7MyYXl1ZnvaX_42.848938_-106.270727@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311509,
+    "wof:geomhash":"00798be8474dd7fa7b01704d366e36da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874075733
+        }
+    ],
+    "wof:id":874075733,
+    "wof:lastmodified":1464311509,
+    "wof:name":"M-I Drilling Fluids",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field"
+    ]
+},
+  "bbox": [
+    -106.270727,
+    42.848938,
+    -106.270727,
+    42.848938
+],
+  "geometry": {"coordinates":[-106.27072699999999,42.848938],"type":"Point"}
+}

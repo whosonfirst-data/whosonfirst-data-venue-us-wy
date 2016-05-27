@@ -1,0 +1,59 @@
+{
+  "id": 874230841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.751632,44.753435,-108.751632,44.753435",
+    "geom:latitude":44.753435,
+    "geom:longitude":-108.751632,
+    "iso:country":"US",
+    "sg:address":"128 N Ferris St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/powell/96488-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 9527",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i627WmMfRdPbWgfUffm2c_44.753875_-108.751725@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313173,
+    "wof:geomhash":"ad476b9d7355444ffe0e0e874a212bdf",
+    "wof:hierarchy":[],
+    "wof:id":874230841,
+    "wof:lastmodified":1464313173,
+    "wof:name":"Taco John's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -108.751632,
+    44.753435,
+    -108.751632,
+    44.753435
+],
+  "geometry": {"coordinates":[-108.751632,44.753435],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874135483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.820311,41.13204,-104.820311,41.13204",
+    "geom:latitude":41.13204,
+    "geom:longitude":-104.820311,
+    "iso:country":"US",
+    "sg:address":"506 W 17th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 8114",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s8oiOZ1rIGXKCtkKWINcE_41.132040_-104.820311@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312195,
+    "wof:geomhash":"fdf3b8f61b54fbf4bfd6d5d6763d0e4f",
+    "wof:hierarchy":[],
+    "wof:id":874135483,
+    "wof:lastmodified":1464312195,
+    "wof:name":"Wyoming Cable Television",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television"
+    ]
+},
+  "bbox": [
+    -104.820311,
+    41.13204,
+    -104.820311,
+    41.13204
+],
+  "geometry": {"coordinates":[-104.820311,41.13204],"type":"Point"}
+}

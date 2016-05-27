@@ -1,0 +1,56 @@
+{
+  "id": 874199209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.21804,41.791313,-107.21804,41.791313",
+    "geom:latitude":41.791313,
+    "geom:longitude":-107.21804,
+    "iso:country":"US",
+    "sg:address":"1800 E Cedar St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 5539",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WRW4rXy0G4XyM25FAX5Cg_41.791313_-107.218040@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312836,
+    "wof:geomhash":"e89baa5851878efd3cedce4dda8d5e5a",
+    "wof:hierarchy":[],
+    "wof:id":874199209,
+    "wof:lastmodified":1464312836,
+    "wof:name":"Rustlers Family Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -107.21804,
+    41.791313,
+    -107.21804,
+    41.791313
+],
+  "geometry": {"coordinates":[-107.21804,41.791313],"type":"Point"}
+}

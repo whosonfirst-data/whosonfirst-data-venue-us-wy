@@ -1,0 +1,64 @@
+{
+  "id": 873992537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.318653,42.842732,-106.318653,42.842732",
+    "geom:latitude":42.842732,
+    "geom:longitude":-106.318653,
+    "iso:country":"US",
+    "sg:address":"815 S Grant St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2539",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cPP4wDkTUurscp41lsjDw_42.842732_-106.318653@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310709,
+    "wof:geomhash":"3051b4fd655e8c26fb530e9702f75a25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873992537
+        }
+    ],
+    "wof:id":873992537,
+    "wof:lastmodified":1464310709,
+    "wof:name":"Grant Street Grocery & Market",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.318653,
+    42.842732,
+    -106.318653,
+    42.842732
+],
+  "geometry": {"coordinates":[-106.318653,42.842732],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874224285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.342013,42.832072,-106.342013,42.832072",
+    "geom:latitude":42.832072,
+    "geom:longitude":-106.342013,
+    "iso:country":"US",
+    "sg:address":"2037 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 4546",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bjj5p0EN8OjSLYkogHeiL_42.832072_-106.342013@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313105,
+    "wof:geomhash":"21a5bc7e25abeceebb054ccd69e6babd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874224285
+        }
+    ],
+    "wof:id":874224285,
+    "wof:lastmodified":1464313105,
+    "wof:name":"Autozone",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -106.342013,
+    42.832072,
+    -106.342013,
+    42.832072
+],
+  "geometry": {"coordinates":[-106.34201299999999,42.832072],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874074077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.326682,42.843943,-106.326682,42.843943",
+    "geom:latitude":42.843943,
+    "geom:longitude":-106.326682,
+    "iso:country":"US",
+    "sg:address":"632 S David St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0294",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "board",
+        "pharmacy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52n4SWUV2j7PXZePQA0XzU_42.843943_-106.326682@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311495,
+    "wof:geomhash":"c208dd69742faa497f91b5be913a0c65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874074077
+        }
+    ],
+    "wof:id":874074077,
+    "wof:lastmodified":1464311495,
+    "wof:name":"Pharmacy Board Wyoming",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "board",
+        "pharmacy"
+    ]
+},
+  "bbox": [
+    -106.326682,
+    42.843943,
+    -106.326682,
+    42.843943
+],
+  "geometry": {"coordinates":[-106.32668200000001,42.843943],"type":"Point"}
+}

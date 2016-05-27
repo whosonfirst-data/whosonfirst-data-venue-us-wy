@@ -1,0 +1,64 @@
+{
+  "id": 874093135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.337532,42.854203,-106.337532,42.854203",
+    "geom:latitude":42.854203,
+    "geom:longitude":-106.337532,
+    "iso:country":"US",
+    "sg:address":"632 N Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 6644",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_361Ip41oypWyp3NYtHI57t_42.854203_-106.337532@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311696,
+    "wof:geomhash":"cd979fd26afe911152c0daffe92fbebf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874093135
+        }
+    ],
+    "wof:id":874093135,
+    "wof:lastmodified":1464311696,
+    "wof:name":"Common Cents Food Stores",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.337532,
+    42.854203,
+    -106.337532,
+    42.854203
+],
+  "geometry": {"coordinates":[-106.337532,42.854203],"type":"Point"}
+}

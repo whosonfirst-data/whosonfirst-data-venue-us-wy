@@ -1,0 +1,62 @@
+{
+  "id": 874068703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.811005,41.141016,-104.811005,41.141016",
+    "geom:latitude":41.141016,
+    "geom:longitude":-104.811005,
+    "iso:country":"US",
+    "sg:address":"606 E 22nd St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 6624",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AqfpXqzkBqdWnPJXkZpNy_41.141016_-104.811005@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311420,
+    "wof:geomhash":"cd7cdf28982e03a418ab0eb94287f38d",
+    "wof:hierarchy":[],
+    "wof:id":874068703,
+    "wof:lastmodified":1464311420,
+    "wof:name":"Cheyenne Sewer Cleaning Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -104.811005,
+    41.141016,
+    -104.811005,
+    41.141016
+],
+  "geometry": {"coordinates":[-104.81100499999999,41.141016],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874042039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.961187,41.284194,-110.961187,41.284194",
+    "geom:latitude":41.284194,
+    "geom:longitude":-110.961187,
+    "iso:country":"US",
+    "sg:address":"158 Valley View Ave",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 9202",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "disposal",
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D0KucoGWzjtCgt2PBVb4Z_41.284194_-110.961187@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311166,
+    "wof:geomhash":"9497da3e631a21d118be97184cb60ac6",
+    "wof:hierarchy":[],
+    "wof:id":874042039,
+    "wof:lastmodified":1464311166,
+    "wof:name":"Rocket Sanitation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "waste"
+    ]
+},
+  "bbox": [
+    -110.961187,
+    41.284194,
+    -110.961187,
+    41.284194
+],
+  "geometry": {"coordinates":[-110.961187,41.284194],"type":"Point"}
+}

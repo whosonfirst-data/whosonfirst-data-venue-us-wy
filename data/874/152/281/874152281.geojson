@@ -1,0 +1,56 @@
+{
+  "id": 874152281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.384025,42.75983,-105.384025,42.75983",
+    "geom:latitude":42.75983,
+    "geom:longitude":-105.384025,
+    "iso:country":"US",
+    "sg:address":"119 N 3rd St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 2985",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Kt4JSBY8Ou7xfQggBmnZR_42.759830_-105.384025@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312349,
+    "wof:geomhash":"281cfde4bcf781659eb4136699c6a80a",
+    "wof:hierarchy":[],
+    "wof:id":874152281,
+    "wof:lastmodified":1464312349,
+    "wof:name":"Home Bakery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -105.384025,
+    42.75983,
+    -105.384025,
+    42.75983
+],
+  "geometry": {"coordinates":[-105.38402499999999,42.75983],"type":"Point"}
+}

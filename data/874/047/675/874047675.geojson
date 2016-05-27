@@ -1,0 +1,73 @@
+{
+  "id": 874047675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.333459,42.797483,-106.333459,42.797483",
+    "geom:latitude":42.797483,
+    "geom:longitude":-106.333459,
+    "iso:country":"US",
+    "sg:address":"751 W 58th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 5925",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cavalry",
+        "promotional",
+        "item"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21RSrbTEOjMiXnZezediAy_42.797483_-106.333459@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311220,
+    "wof:geomhash":"3bf871840ef3471582396e7ec9c0a4f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874047675
+        }
+    ],
+    "wof:id":874047675,
+    "wof:lastmodified":1464311220,
+    "wof:name":"B&T Promotions",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cavalry",
+        "promotional",
+        "item"
+    ]
+},
+  "bbox": [
+    -106.333459,
+    42.797483,
+    -106.333459,
+    42.797483
+],
+  "geometry": {"coordinates":[-106.333459,42.797483],"type":"Point"}
+}

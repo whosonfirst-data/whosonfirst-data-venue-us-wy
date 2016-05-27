@@ -1,0 +1,60 @@
+{
+  "id": 874006549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.775663,43.475177,-110.775663,43.475177",
+    "geom:latitude":43.475177,
+    "geom:longitude":-110.775663,
+    "iso:country":"US",
+    "sg:address":"700 US Hwy 89",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 734 9083",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "truck",
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4osMgqoI3WT1yOkN4DfvVs_43.475177_-110.775663@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310829,
+    "wof:geomhash":"39a4885fb21e457cea5727e90e9a303e",
+    "wof:hierarchy":[],
+    "wof:id":874006549,
+    "wof:lastmodified":1464310829,
+    "wof:name":"U-Haul",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -110.775663,
+    43.475177,
+    -110.775663,
+    43.475177
+],
+  "geometry": {"coordinates":[-110.77566299999999,43.475177],"type":"Point"}
+}

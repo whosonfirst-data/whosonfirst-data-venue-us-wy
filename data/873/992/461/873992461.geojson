@@ -1,0 +1,60 @@
+{
+  "id": 873992461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.384006,42.855519,-106.384006,42.855519",
+    "geom:latitude":42.855519,
+    "geom:longitude":-106.384006,
+    "iso:country":"US",
+    "sg:address":"503 Coolidge Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 3229",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R0l5oEyOeS2mV8FRlniA4_42.855519_-106.384006@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310708,
+    "wof:geomhash":"19224d665637c121c19f7d84e0ce424d",
+    "wof:hierarchy":[],
+    "wof:id":873992461,
+    "wof:lastmodified":1464310708,
+    "wof:name":"Paint N Piston",
+    "wof:parent_id":420550301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -106.384006,
+    42.855519,
+    -106.384006,
+    42.855519
+],
+  "geometry": {"coordinates":[-106.384006,42.855519],"type":"Point"}
+}

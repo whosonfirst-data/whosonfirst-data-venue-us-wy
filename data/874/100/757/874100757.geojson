@@ -1,0 +1,59 @@
+{
+  "id": 874100757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.379355,42.751149,-105.379355,42.751149",
+    "geom:latitude":42.751149,
+    "geom:longitude":-105.379355,
+    "iso:country":"US",
+    "sg:address":"615 Hamilton St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 4874",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "academic",
+        "special"
+    ],
+    "sg:website":"www.ccsd1.k12.wy.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48vs3d0Zvg8gzEHzgV7Af0_42.751149_-105.379355@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311804,
+    "wof:geomhash":"0a7d5c054cd6b8666106a591f5975740",
+    "wof:hierarchy":[],
+    "wof:id":874100757,
+    "wof:lastmodified":1464311804,
+    "wof:name":"Student Support Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "special"
+    ]
+},
+  "bbox": [
+    -105.379355,
+    42.751149,
+    -105.379355,
+    42.751149
+],
+  "geometry": {"coordinates":[-105.379355,42.751149],"type":"Point"}
+}

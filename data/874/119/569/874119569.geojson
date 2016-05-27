@@ -1,0 +1,71 @@
+{
+  "id": 874119569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.341625,42.832274,-106.341625,42.832274",
+    "geom:latitude":42.832274,
+    "geom:longitude":-106.341625,
+    "iso:country":"US",
+    "sg:address":"1849 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5932",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WLq6xDrSjbIWMkMnra5I6_42.832274_-106.341625@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312030,
+    "wof:geomhash":"088fab07173bd68f015ea53fe41aa78a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874119569
+        }
+    ],
+    "wof:id":874119569,
+    "wof:lastmodified":1464312030,
+    "wof:name":"Western Locksmiths",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -106.341625,
+    42.832274,
+    -106.341625,
+    42.832274
+],
+  "geometry": {"coordinates":[-106.34162499999999,42.832274],"type":"Point"}
+}

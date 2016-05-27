@@ -1,0 +1,58 @@
+{
+  "id": 874137729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.22531,41.78241,-107.22531,41.78241",
+    "geom:latitude":41.78241,
+    "geom:longitude":-107.22531,
+    "iso:country":"US",
+    "sg:address":"501 E Davis St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 7798",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eFZCm6SGSJycPXLhtIorb_41.782410_-107.225310@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312215,
+    "wof:geomhash":"ae07d5800880ab81e5418be4647b9ec3",
+    "wof:hierarchy":[],
+    "wof:id":874137729,
+    "wof:lastmodified":1464312215,
+    "wof:name":"A-1 Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -107.22531,
+    41.78241,
+    -107.22531,
+    41.78241
+],
+  "geometry": {"coordinates":[-107.22530999999999,41.78241],"type":"Point"}
+}

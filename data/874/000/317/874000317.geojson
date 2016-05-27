@@ -1,0 +1,71 @@
+{
+  "id": 874000317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.304689,42.855037,-106.304689,42.855037",
+    "geom:latitude":42.855037,
+    "geom:longitude":-106.304689,
+    "iso:country":"US",
+    "sg:address":"424 N Fenway St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8799",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78dQfz9l5yD3v60ZoUy4i7_42.855037_-106.304689@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310763,
+    "wof:geomhash":"095066e96d374c1f28d94b0592034c56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874000317
+        }
+    ],
+    "wof:id":874000317,
+    "wof:lastmodified":1464310763,
+    "wof:name":"Anchor Electric Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.304689,
+    42.855037,
+    -106.304689,
+    42.855037
+],
+  "geometry": {"coordinates":[-106.304689,42.855037],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874033159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.219815,41.786782,-107.219815,41.786782",
+    "geom:latitude":41.786782,
+    "geom:longitude":-107.219815,
+    "iso:country":"US",
+    "sg:address":"312 E Railroad St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 5060",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P8M0c3J23pPGu3yM1dde5_41.786782_-107.219815@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311077,
+    "wof:geomhash":"c85cc209420d0f8b19657b3313781f00",
+    "wof:hierarchy":[],
+    "wof:id":874033159,
+    "wof:lastmodified":1464311077,
+    "wof:name":"J & M Welding",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -107.219815,
+    41.786782,
+    -107.219815,
+    41.786782
+],
+  "geometry": {"coordinates":[-107.219815,41.786782],"type":"Point"}
+}

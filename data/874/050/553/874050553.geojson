@@ -1,0 +1,58 @@
+{
+  "id": 874050553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.965306,41.263309,-110.965306,41.263309",
+    "geom:latitude":41.263309,
+    "geom:longitude":-110.965306,
+    "iso:country":"US",
+    "sg:address":"624 Summit St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 3958",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XgAaSlVBoRgHxzuBNJfXH_41.263309_-110.965306@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311246,
+    "wof:geomhash":"ca3ef9cc3ef52c22241c6c8020d614ad",
+    "wof:hierarchy":[],
+    "wof:id":874050553,
+    "wof:lastmodified":1464311246,
+    "wof:name":"Williams Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -110.965306,
+    41.263309,
+    -110.965306,
+    41.263309
+],
+  "geometry": {"coordinates":[-110.965306,41.263309],"type":"Point"}
+}

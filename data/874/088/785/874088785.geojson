@@ -1,0 +1,75 @@
+{
+  "id": 874088785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.351413,42.878158,-106.351413,42.878158",
+    "geom:latitude":42.878158,
+    "geom:longitude":-106.351413,
+    "iso:country":"US",
+    "sg:address":"2090 Old Salt Creek Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 2066",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "carpentry",
+        "shed",
+        "work",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yapNH5JpZjfrcIdLkgwoI_42.878158_-106.351413@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311648,
+    "wof:geomhash":"d48525333b12bb4feba7d9c0bc6db141",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874088785
+        }
+    ],
+    "wof:id":874088785,
+    "wof:lastmodified":1464311648,
+    "wof:name":"Murphy Sheds",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "shed",
+        "work",
+        "utility"
+    ]
+},
+  "bbox": [
+    -106.351413,
+    42.878158,
+    -106.351413,
+    42.878158
+],
+  "geometry": {"coordinates":[-106.35141299999999,42.878158],"type":"Point"}
+}

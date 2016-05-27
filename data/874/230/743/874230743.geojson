@@ -1,0 +1,61 @@
+{
+  "id": 874230743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.059114,44.526054,-109.059114,44.526054",
+    "geom:latitude":44.526054,
+    "geom:longitude":-109.059114,
+    "iso:country":"US",
+    "sg:address":"1454 Sheridan Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cody/78186-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 4781",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gWY6dlWZzHqRFwdTzxIOG_44.525975_-109.059134@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313172,
+    "wof:geomhash":"89a458e631c69342e69a968c628015c5",
+    "wof:hierarchy":[],
+    "wof:id":874230743,
+    "wof:lastmodified":1464313172,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -109.059114,
+    44.526054,
+    -109.059114,
+    44.526054
+],
+  "geometry": {"coordinates":[-109.05911399999999,44.526054],"type":"Point"}
+}

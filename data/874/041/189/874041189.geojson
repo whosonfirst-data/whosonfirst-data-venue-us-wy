@@ -1,0 +1,73 @@
+{
+  "id": 874041189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.55695,41.321674,-105.55695,41.321674",
+    "geom:latitude":41.321674,
+    "geom:longitude":-105.55695,
+    "iso:country":"US",
+    "sg:address":"1054 Alta Vista Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4467",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QHGdI7beD3aeXFGfyJgD6_41.321674_-105.556950@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311154,
+    "wof:geomhash":"b154d7f1c9ce9d2e306ba58925c01c99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874041189
+        }
+    ],
+    "wof:id":874041189,
+    "wof:lastmodified":1464311154,
+    "wof:name":"Dalke Apartments",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -105.55695,
+    41.321674,
+    -105.55695,
+    41.321674
+],
+  "geometry": {"coordinates":[-105.55695,41.321674],"type":"Point"}
+}

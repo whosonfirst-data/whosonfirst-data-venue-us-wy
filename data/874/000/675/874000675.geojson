@@ -1,0 +1,58 @@
+{
+  "id": 874000675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.467082,44.880825,-108.467082,44.880825",
+    "geom:latitude":44.880825,
+    "geom:longitude":-108.467082,
+    "iso:country":"US",
+    "sg:address":"173 S 1st St",
+    "sg:city":"Cowley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 548 7867",
+    "sg:postcode":"82420",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Fw30Mjh3kFthETOIYO0Gd_44.880825_-108.467082@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310765,
+    "wof:geomhash":"37b8479fc830e7c519e460529bafd314",
+    "wof:hierarchy":[],
+    "wof:id":874000675,
+    "wof:lastmodified":1464310765,
+    "wof:name":"Rasmussen Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.467082,
+    44.880825,
+    -108.467082,
+    44.880825
+],
+  "geometry": {"coordinates":[-108.467082,44.880825],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874152775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.252862,43.411144,-106.252862,43.411144",
+    "geom:latitude":43.411144,
+    "geom:longitude":-106.252862,
+    "iso:country":"US",
+    "sg:address":"701 Center St",
+    "sg:city":"Edgerton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 437 6758",
+    "sg:postcode":"82635",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46w0PD04aCVYxZcodA3gKQ_43.411144_-106.252862@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312354,
+    "wof:geomhash":"2267a32d6061f27946a0741350cdcb74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874152775
+        }
+    ],
+    "wof:id":874152775,
+    "wof:lastmodified":1464312354,
+    "wof:name":"Go Electric",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.252862,
+    43.411144,
+    -106.252862,
+    43.411144
+],
+  "geometry": {"coordinates":[-106.25286199999999,43.411144],"type":"Point"}
+}

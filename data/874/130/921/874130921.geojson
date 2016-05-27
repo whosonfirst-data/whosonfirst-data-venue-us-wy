@@ -1,0 +1,64 @@
+{
+  "id": 874130921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.296488,42.852791,-106.296488,42.852791",
+    "geom:latitude":42.852791,
+    "geom:longitude":-106.296488,
+    "iso:country":"US",
+    "sg:address":"242 Robin St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8255",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Xya34dU58HUUyx12CUv89_42.852791_-106.296488@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312148,
+    "wof:geomhash":"481966193bbbfb23bb0d517a018aced1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874130921
+        }
+    ],
+    "wof:id":874130921,
+    "wof:lastmodified":1464312148,
+    "wof:name":"TCS Scuba",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.296488,
+    42.852791,
+    -106.296488,
+    42.852791
+],
+  "geometry": {"coordinates":[-106.296488,42.852791],"type":"Point"}
+}

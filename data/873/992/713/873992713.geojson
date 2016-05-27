@@ -1,0 +1,56 @@
+{
+  "id": 873992713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.762173,44.7488,-108.762173,44.7488",
+    "geom:latitude":44.7488,
+    "geom:longitude":-108.762173,
+    "iso:country":"US",
+    "sg:address":"330 W North St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 7181",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QSctli4rgWzxvapdl6ZtT_44.748800_-108.762173@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310710,
+    "wof:geomhash":"a927e966b439b316f1de6d276941f2e0",
+    "wof:hierarchy":[],
+    "wof:id":873992713,
+    "wof:lastmodified":1464310710,
+    "wof:name":"Ding Pro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -108.762173,
+    44.7488,
+    -108.762173,
+    44.7488
+],
+  "geometry": {"coordinates":[-108.762173,44.7488],"type":"Point"}
+}

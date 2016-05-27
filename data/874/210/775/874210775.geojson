@@ -1,0 +1,58 @@
+{
+  "id": 874210775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.106503,43.724555,-111.106503,43.724555",
+    "geom:latitude":43.724555,
+    "geom:longitude":-111.106503,
+    "iso:country":"US",
+    "sg:address":"235 Wallace Ave",
+    "sg:city":"Driggs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 354 3208",
+    "sg:postcode":"83422",
+    "sg:province":"WY",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tyh1iceedLPTGCwvkb99N_43.724555_-111.106503@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312958,
+    "wof:geomhash":"131645fc9788583f82db257748c82e72",
+    "wof:hierarchy":[],
+    "wof:id":874210775,
+    "wof:lastmodified":1464312958,
+    "wof:name":"Knight Dental Lab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -111.106503,
+    43.724555,
+    -111.106503,
+    43.724555
+],
+  "geometry": {"coordinates":[-111.106503,43.724555],"type":"Point"}
+}

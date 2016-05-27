@@ -1,0 +1,76 @@
+{
+  "id": 874034115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.620183,41.305911,-105.620183,41.305911",
+    "geom:latitude":41.305911,
+    "geom:longitude":-105.620183,
+    "iso:country":"US",
+    "sg:address":"590 S Pierce St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 0512",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "sg:website":"www.americancollision.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s2RdHr4ursYs3KXoYg0Xp_41.305911_-105.620183@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311086,
+    "wof:geomhash":"31e9ad3987f0a2052657d60bc8d4b4a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874034115
+        }
+    ],
+    "wof:id":874034115,
+    "wof:lastmodified":1464311086,
+    "wof:name":"American Collision Ctr",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -105.620183,
+    41.305911,
+    -105.620183,
+    41.305911
+],
+  "geometry": {"coordinates":[-105.620183,41.305911],"type":"Point"}
+}

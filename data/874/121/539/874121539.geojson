@@ -1,0 +1,69 @@
+{
+  "id": 874121539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.297795,42.837467,-106.297795,42.837467",
+    "geom:latitude":42.837467,
+    "geom:longitude":-106.297795,
+    "iso:country":"US",
+    "sg:address":"1347 S Beverly St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 0577",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QCBSFQBQRa34xIXxyg8NL_42.837467_-106.297795@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312055,
+    "wof:geomhash":"85548c3aa52d3b8e69d6d53e9912f02d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874121539
+        }
+    ],
+    "wof:id":874121539,
+    "wof:lastmodified":1464312055,
+    "wof:name":"Teeth R Us",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -106.297795,
+    42.837467,
+    -106.297795,
+    42.837467
+],
+  "geometry": {"coordinates":[-106.29779499999999,42.837467],"type":"Point"}
+}

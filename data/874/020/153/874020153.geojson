@@ -1,0 +1,64 @@
+{
+  "id": 874020153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343503,42.810384,-106.343503,42.810384",
+    "geom:latitude":42.810384,
+    "geom:longitude":-106.343503,
+    "iso:country":"US",
+    "sg:address":"4380 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1941",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aCPQ4KnwqeMiXsQhfm9tZ_42.810384_-106.343503@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310950,
+    "wof:geomhash":"cdf021fc7b9413a85a0639c4522ef0a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874020153
+        }
+    ],
+    "wof:id":874020153,
+    "wof:lastmodified":1464310950,
+    "wof:name":"Mini Mart",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.343503,
+    42.810384,
+    -106.343503,
+    42.810384
+],
+  "geometry": {"coordinates":[-106.343503,42.810384],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874099301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.286855,42.850289,-106.286855,42.850289",
+    "geom:latitude":42.850289,
+    "geom:longitude":-106.286855,
+    "iso:country":"US",
+    "sg:address":"3015 Hamilton Way",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 5660",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zLlnLLLOEOBFiIC1kDJKV_42.850289_-106.286855@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311776,
+    "wof:geomhash":"3552222914a0aeb3e68868ad6d94ca09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874099301
+        }
+    ],
+    "wof:id":874099301,
+    "wof:lastmodified":1464311776,
+    "wof:name":"Aspen Garage Doors",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -106.286855,
+    42.850289,
+    -106.286855,
+    42.850289
+],
+  "geometry": {"coordinates":[-106.286855,42.850289],"type":"Point"}
+}

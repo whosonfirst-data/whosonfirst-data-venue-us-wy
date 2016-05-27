@@ -1,0 +1,66 @@
+{
+  "id": 874179227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.615756,41.309008,-105.615756,41.309008",
+    "geom:latitude":41.309008,
+    "geom:longitude":-105.615756,
+    "iso:country":"US",
+    "sg:address":"1555 Snowy Range Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8371",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A5dW0Jb8shTaJdOc4YjZP_41.309008_-105.615756@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312622,
+    "wof:geomhash":"c44fed5b2f11599d123d229666079a44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874179227
+        }
+    ],
+    "wof:id":874179227,
+    "wof:lastmodified":1464312622,
+    "wof:name":"Howard Johnson",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.615756,
+    41.309008,
+    -105.615756,
+    41.309008
+],
+  "geometry": {"coordinates":[-105.615756,41.309008],"type":"Point"}
+}

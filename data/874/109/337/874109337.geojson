@@ -1,0 +1,75 @@
+{
+  "id": 874109337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590127,41.306159,-105.590127,41.306159",
+    "geom:latitude":41.306159,
+    "geom:longitude":-105.590127,
+    "iso:country":"US",
+    "sg:address":"607 E Park Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6102",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f28W14zylRfec9ZRWUxKI_41.306159_-105.590127@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311907,
+    "wof:geomhash":"47a1c2371fa20d0a1f445816af4a2980",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874109337
+        }
+    ],
+    "wof:id":874109337,
+    "wof:lastmodified":1464311907,
+    "wof:name":"Lowham Plumbing & Heating Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.590127,
+    41.306159,
+    -105.590127,
+    41.306159
+],
+  "geometry": {"coordinates":[-105.590127,41.306159],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874080419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.955704,41.262246,-110.955704,41.262246",
+    "geom:latitude":41.262246,
+    "geom:longitude":-110.955704,
+    "iso:country":"US",
+    "sg:address":"120 Front St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 2097",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69Dhu2gAsTYq55LAWHquMc_41.262246_-110.955704@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311555,
+    "wof:geomhash":"913b739831d1201b3cd9be94b8eab513",
+    "wof:hierarchy":[],
+    "wof:id":874080419,
+    "wof:lastmodified":1464311555,
+    "wof:name":"Radio Shack",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -110.955704,
+    41.262246,
+    -110.955704,
+    41.262246
+],
+  "geometry": {"coordinates":[-110.955704,41.262246],"type":"Point"}
+}

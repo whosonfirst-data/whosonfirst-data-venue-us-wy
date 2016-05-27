@@ -1,0 +1,56 @@
+{
+  "id": 874224433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.535382,41.805556,-110.535382,41.805556",
+    "geom:latitude":41.805556,
+    "geom:longitude":-110.535382,
+    "iso:country":"US",
+    "sg:address":"307 US Hwy 189",
+    "sg:city":"Kemmerer",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 877 8848",
+    "sg:postcode":"83101",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26PWru3AXbz5zz7pEu91qd_41.805556_-110.535382@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313106,
+    "wof:geomhash":"527f887775cdb1854e4a0f2fd0ca946d",
+    "wof:hierarchy":[],
+    "wof:id":874224433,
+    "wof:lastmodified":1464313106,
+    "wof:name":"Ham's Fork",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -110.535382,
+    41.805556,
+    -110.535382,
+    41.805556
+],
+  "geometry": {"coordinates":[-110.535382,41.805556],"type":"Point"}
+}

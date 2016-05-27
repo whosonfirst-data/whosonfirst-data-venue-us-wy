@@ -1,0 +1,71 @@
+{
+  "id": 874086739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.603936,41.310257,-105.603936,41.310257",
+    "geom:latitude":41.310257,
+    "geom:longitude":-105.603936,
+    "iso:country":"US",
+    "sg:address":"581 W Garfield St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 0599",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "feed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Nt8pMnFefi2zqDU6QUuHE_41.310257_-105.603936@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311628,
+    "wof:geomhash":"5d0e7d1a60dc690dab8c9f6ffa5754a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874086739
+        }
+    ],
+    "wof:id":874086739,
+    "wof:lastmodified":1464311628,
+    "wof:name":"C & A Pet & Livestock Supply",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed"
+    ]
+},
+  "bbox": [
+    -105.603936,
+    41.310257,
+    -105.603936,
+    41.310257
+],
+  "geometry": {"coordinates":[-105.603936,41.310257],"type":"Point"}
+}

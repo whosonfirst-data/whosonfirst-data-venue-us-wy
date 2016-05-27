@@ -1,0 +1,57 @@
+{
+  "id": 874196183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.797042,41.134513,-104.797042,41.134513",
+    "geom:latitude":41.134513,
+    "geom:longitude":-104.797042,
+    "iso:country":"US",
+    "sg:address":"1020 Dunn Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 6608",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body"
+    ],
+    "sg:website":"www.lennoxautobody.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GNIF2hhfzEqGdCyYEmNdP_41.134513_-104.797042@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312807,
+    "wof:geomhash":"480abc57ed9a85c82a100b51392263a7",
+    "wof:hierarchy":[],
+    "wof:id":874196183,
+    "wof:lastmodified":1464312807,
+    "wof:name":"Lennox Auto Body",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -104.797042,
+    41.134513,
+    -104.797042,
+    41.134513
+],
+  "geometry": {"coordinates":[-104.797042,41.134513],"type":"Point"}
+}

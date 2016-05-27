@@ -1,0 +1,67 @@
+{
+  "id": 874192945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.469128,41.517117,-109.469128,41.517117",
+    "geom:latitude":41.517117,
+    "geom:longitude":-109.469128,
+    "iso:country":"US",
+    "sg:address":"175 River View Dr",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 872 3205",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "clinic",
+        "mental",
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01bxT61KxYHD1Sz8FNBC8W_41.517117_-109.469128@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312770,
+    "wof:geomhash":"24efecad14846ba58fd38110c922b3a2",
+    "wof:hierarchy":[],
+    "wof:id":874192945,
+    "wof:lastmodified":1464312770,
+    "wof:name":"Southwest Counseling Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "mental",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -109.469128,
+    41.517117,
+    -109.469128,
+    41.517117
+],
+  "geometry": {"coordinates":[-109.469128,41.517117],"type":"Point"}
+}

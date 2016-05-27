@@ -1,0 +1,58 @@
+{
+  "id": 874178933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.816033,41.142292,-104.816033,41.142292",
+    "geom:latitude":41.142292,
+    "geom:longitude":-104.816033,
+    "iso:country":"US",
+    "sg:address":"2404 Evans Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 1558",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qbHR77WqP75ZwJPiSjoIv_41.142292_-104.816033@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312619,
+    "wof:geomhash":"98259ab36f4b1af7715ae0d91e14ea56",
+    "wof:hierarchy":[],
+    "wof:id":874178933,
+    "wof:lastmodified":1464312619,
+    "wof:name":"Quik Fix Windshield",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -104.816033,
+    41.142292,
+    -104.816033,
+    41.142292
+],
+  "geometry": {"coordinates":[-104.816033,41.142292],"type":"Point"}
+}

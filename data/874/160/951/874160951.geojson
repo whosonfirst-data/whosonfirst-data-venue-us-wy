@@ -1,0 +1,60 @@
+{
+  "id": 874160951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.70214,44.34844,-106.70214,44.34844",
+    "geom:latitude":44.34844,
+    "geom:longitude":-106.70214,
+    "iso:country":"US",
+    "sg:address":"182 N Burritt Ave",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 736 2354",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l2s7645dc8E6XIbn36hsT_44.348440_-106.702140@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312442,
+    "wof:geomhash":"b759eea616eadc6dd225d607f7e2b4ec",
+    "wof:hierarchy":[],
+    "wof:id":874160951,
+    "wof:lastmodified":1464312442,
+    "wof:name":"C&D Transportation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -106.70214,
+    44.34844,
+    -106.70214,
+    44.34844
+],
+  "geometry": {"coordinates":[-106.70214,44.34844],"type":"Point"}
+}

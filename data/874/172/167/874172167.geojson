@@ -1,0 +1,56 @@
+{
+  "id": 874172167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.076851,44.42704,-108.076851,44.42704",
+    "geom:latitude":44.42704,
+    "geom:longitude":-108.076851,
+    "iso:country":"US",
+    "sg:address":"2550 Co Ln 39",
+    "sg:city":"Basin",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 568 2094",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pipeline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46nK0jgP2zuuudhcZ4COg5_44.427040_-108.076851@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312551,
+    "wof:geomhash":"ecc21932854e5ed4ac4dcaa072435d55",
+    "wof:hierarchy":[],
+    "wof:id":874172167,
+    "wof:lastmodified":1464312551,
+    "wof:name":"Express Pipeline Greybull Pump",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipeline"
+    ]
+},
+  "bbox": [
+    -108.076851,
+    44.42704,
+    -108.076851,
+    44.42704
+],
+  "geometry": {"coordinates":[-108.076851,44.42704],"type":"Point"}
+}

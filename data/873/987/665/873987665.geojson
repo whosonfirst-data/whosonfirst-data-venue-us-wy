@@ -1,0 +1,71 @@
+{
+  "id": 873987665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.289999,42.860751,-106.289999,42.860751",
+    "geom:latitude":42.860751,
+    "geom:longitude":-106.289999,
+    "iso:country":"US",
+    "sg:address":"2321 Bryan-Evansville Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1521",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QWbG4ZHABTkKEkINeCm58_42.860751_-106.289999@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310673,
+    "wof:geomhash":"86afcc239910641a22a99644222d735b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873987665
+        }
+    ],
+    "wof:id":873987665,
+    "wof:lastmodified":1464310673,
+    "wof:name":"Shoshone Mini-Warehouses",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -106.289999,
+    42.860751,
+    -106.289999,
+    42.860751
+],
+  "geometry": {"coordinates":[-106.28999899999999,42.860751],"type":"Point"}
+}

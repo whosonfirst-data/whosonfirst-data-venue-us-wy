@@ -1,0 +1,71 @@
+{
+  "id": 874213449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.314273,41.122393,-105.314273,41.122393",
+    "geom:latitude":41.122393,
+    "geom:longitude":-105.314273,
+    "iso:country":"US",
+    "sg:address":"2 Buford Rd",
+    "sg:city":"Buford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 433 8506",
+    "sg:postcode":"82052",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mttQamzNhvgfq6o9YtIGd_41.122393_-105.314273@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312988,
+    "wof:geomhash":"12eb020faab0dd7729cfb4685425486d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874213449
+        }
+    ],
+    "wof:id":874213449,
+    "wof:lastmodified":1464312988,
+    "wof:name":"End-The Trail Gifts & Jwlry",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -105.314273,
+    41.122393,
+    -105.314273,
+    41.122393
+],
+  "geometry": {"coordinates":[-105.314273,41.122393],"type":"Point"}
+}

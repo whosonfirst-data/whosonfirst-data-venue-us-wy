@@ -1,0 +1,60 @@
+{
+  "id": 874197779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.786016,43.436592,-110.786016,43.436592",
+    "geom:latitude":43.436592,
+    "geom:longitude":-110.786016,
+    "iso:country":"US",
+    "sg:address":"3500 US Hwy 89",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 6244",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w5clgmFV1PmT51aAf4ajM_43.436592_-110.786016@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312823,
+    "wof:geomhash":"c7da5df480f1f93dcf1213d9f0cafaf0",
+    "wof:hierarchy":[],
+    "wof:id":874197779,
+    "wof:lastmodified":1464312823,
+    "wof:name":"Bob's Radiator Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -110.786016,
+    43.436592,
+    -110.786016,
+    43.436592
+],
+  "geometry": {"coordinates":[-110.786016,43.436592],"type":"Point"}
+}

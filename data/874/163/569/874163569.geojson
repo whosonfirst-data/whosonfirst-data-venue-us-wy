@@ -1,0 +1,81 @@
+{
+  "id": 874163569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593089,41.30257,-105.593089,41.30257",
+    "geom:latitude":41.30257,
+    "geom:longitude":-105.593089,
+    "iso:country":"US",
+    "sg:address":"413 E Fetterman St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4075",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "duct",
+        "work",
+        "heating",
+        "air",
+        "ventilation",
+        "conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BfBywX749htOzMqCpx7fr_41.302570_-105.593089@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312465,
+    "wof:geomhash":"3d8a790ffde4420f2ea9cebe64802790",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874163569
+        }
+    ],
+    "wof:id":874163569,
+    "wof:lastmodified":1464312465,
+    "wof:name":"A & R Metal Products Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "duct",
+        "work",
+        "heating",
+        "air",
+        "ventilation",
+        "conditioning"
+    ]
+},
+  "bbox": [
+    -105.593089,
+    41.30257,
+    -105.593089,
+    41.30257
+],
+  "geometry": {"coordinates":[-105.59308900000001,41.30257],"type":"Point"}
+}

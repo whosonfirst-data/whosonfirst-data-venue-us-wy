@@ -1,0 +1,73 @@
+{
+  "id": 874172995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.30325,42.855025,-106.30325,42.855025",
+    "geom:latitude":42.855025,
+    "geom:longitude":-106.30325,
+    "iso:country":"US",
+    "sg:address":"441 N Kenwood St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1821",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D6ZM5nYvDSHIPV1dE0TcW_42.855025_-106.303250@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312558,
+    "wof:geomhash":"d50b1bdff56b761ff7828b224af62bd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874172995
+        }
+    ],
+    "wof:id":874172995,
+    "wof:lastmodified":1464312558,
+    "wof:name":"Hathaway Electronics Supply",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -106.30325,
+    42.855025,
+    -106.30325,
+    42.855025
+],
+  "geometry": {"coordinates":[-106.30325000000001,42.855025],"type":"Point"}
+}

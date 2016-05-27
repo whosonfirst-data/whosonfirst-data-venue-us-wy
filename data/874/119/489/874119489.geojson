@@ -1,0 +1,71 @@
+{
+  "id": 874119489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594724,41.312036,-105.594724,41.312036",
+    "geom:latitude":41.312036,
+    "geom:longitude":-105.594724,
+    "iso:country":"US",
+    "sg:address":"203 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8609",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Gwst3C2sqyoiDalRir8sL_41.312036_-105.594724@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312030,
+    "wof:geomhash":"e8c35d775b5dcd939669c7d4e654501f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874119489
+        }
+    ],
+    "wof:id":874119489,
+    "wof:lastmodified":1464312030,
+    "wof:name":"Chickering Bookstore Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -105.594724,
+    41.312036,
+    -105.594724,
+    41.312036
+],
+  "geometry": {"coordinates":[-105.594724,41.312036],"type":"Point"}
+}

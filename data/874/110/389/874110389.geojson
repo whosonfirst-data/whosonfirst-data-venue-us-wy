@@ -1,0 +1,73 @@
+{
+  "id": 874110389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.335578,42.849213,-106.335578,42.849213",
+    "geom:latitude":42.849213,
+    "geom:longitude":-106.335578,
+    "iso:country":"US",
+    "sg:address":"200 Pronghorn St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 2524",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "civil",
+        "engineering",
+        "planning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VtJQQI5nYYMfzC6Au7S1e_42.849213_-106.335578@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311927,
+    "wof:geomhash":"873333e57f13d48c14afff5aa0041489",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874110389
+        }
+    ],
+    "wof:id":874110389,
+    "wof:lastmodified":1464311927,
+    "wof:name":"W L C",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "civil",
+        "engineering",
+        "planning"
+    ]
+},
+  "bbox": [
+    -106.335578,
+    42.849213,
+    -106.335578,
+    42.849213
+],
+  "geometry": {"coordinates":[-106.335578,42.849213],"type":"Point"}
+}

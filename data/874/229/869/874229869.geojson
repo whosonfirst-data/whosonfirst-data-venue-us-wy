@@ -1,0 +1,59 @@
+{
+  "id": 874229869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.496487,44.276466,-105.496487,44.276466",
+    "geom:latitude":44.276466,
+    "geom:longitude":-105.496487,
+    "iso:country":"US",
+    "sg:address":"610 E Boxelder Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/gillette-north/96481-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 685 6950",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13KsF44YgzoR54qHplaVXg_44.276466_-105.496487@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313159,
+    "wof:geomhash":"39efa80969f9080a038f7b24a876b4be",
+    "wof:hierarchy":[],
+    "wof:id":874229869,
+    "wof:lastmodified":1464313159,
+    "wof:name":"Taco John's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -105.496487,
+    44.276466,
+    -105.496487,
+    44.276466
+],
+  "geometry": {"coordinates":[-105.496487,44.276466],"type":"Point"}
+}

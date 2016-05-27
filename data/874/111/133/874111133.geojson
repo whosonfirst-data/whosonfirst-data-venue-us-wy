@@ -1,0 +1,69 @@
+{
+  "id": 874111133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.276555,42.85859,-106.276555,42.85859",
+    "geom:latitude":42.85859,
+    "geom:longitude":-106.276555,
+    "iso:country":"US",
+    "sg:address":"1035 Iron St",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1225",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eLvSjagipwP51aDiEYGx9_42.858590_-106.276555@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311943,
+    "wof:geomhash":"e8125b50819e254e3fb5ab20447f7f8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874111133
+        }
+    ],
+    "wof:id":874111133,
+    "wof:lastmodified":1464311943,
+    "wof:name":"South Dakota Cement Plant",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cement"
+    ]
+},
+  "bbox": [
+    -106.276555,
+    42.85859,
+    -106.276555,
+    42.85859
+],
+  "geometry": {"coordinates":[-106.276555,42.85859],"type":"Point"}
+}

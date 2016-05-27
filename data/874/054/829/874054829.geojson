@@ -1,0 +1,68 @@
+{
+  "id": 874054829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.249778,41.576405,-109.249778,41.576405",
+    "geom:latitude":41.576405,
+    "geom:longitude":-109.249778,
+    "iso:country":"US",
+    "sg:address":"76 Gateway Blvd",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 4690",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uoyPPKZ6V5uZj18bYAX01_41.576405_-109.249778@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311291,
+    "wof:geomhash":"7614ec5c90369a2f5c6862739479bfe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874054829
+        }
+    ],
+    "wof:id":874054829,
+    "wof:lastmodified":1464311291,
+    "wof:name":"Popeye's Chicken & Biscuit",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.249778,
+    41.576405,
+    -109.249778,
+    41.576405
+],
+  "geometry": {"coordinates":[-109.24977800000001,41.576405],"type":"Point"}
+}

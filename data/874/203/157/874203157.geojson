@@ -1,0 +1,80 @@
+{
+  "id": 874203157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.254414,42.829889,-106.254414,42.829889",
+    "geom:latitude":42.829889,
+    "geom:longitude":-106.254414,
+    "iso:country":"US",
+    "sg:address":"2011 Newport St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 0002",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "consultant",
+        "apartment",
+        "geological"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y7CZx3YBF11FTqiS84jHY_42.829889_-106.254414@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312876,
+    "wof:geomhash":"c9c598d9557a1e69eedaad70d37c0720",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874203157
+        }
+    ],
+    "wof:id":874203157,
+    "wof:lastmodified":1464312876,
+    "wof:name":"Tom Graham & Assoc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "consultant",
+        "apartment",
+        "geological"
+    ]
+},
+  "bbox": [
+    -106.254414,
+    42.829889,
+    -106.254414,
+    42.829889
+],
+  "geometry": {"coordinates":[-106.254414,42.829889],"type":"Point"}
+}

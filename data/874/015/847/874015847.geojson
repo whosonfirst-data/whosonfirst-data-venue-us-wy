@@ -1,0 +1,64 @@
+{
+  "id": 874015847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.27261,43.41016,-106.27261,43.41016",
+    "geom:latitude":43.41016,
+    "geom:longitude":-106.27261,
+    "iso:country":"US",
+    "sg:address":"256 Lewis St",
+    "sg:city":"Midwest",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 261 6161",
+    "sg:postcode":"82643",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7URbzRnDk460kOwncwlFtk_43.410160_-106.272610@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310898,
+    "wof:geomhash":"ee781c63fbaeb5408cc50f3b93b2eca3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874015847
+        }
+    ],
+    "wof:id":874015847,
+    "wof:lastmodified":1464310898,
+    "wof:name":"Midwest School K-12",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.27261,
+    43.41016,
+    -106.27261,
+    43.41016
+],
+  "geometry": {"coordinates":[-106.27261,43.41016],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 874229785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.494199,44.293135,-105.494199,44.293135",
+    "geom:latitude":44.293135,
+    "geom:longitude":-105.494199,
+    "iso:country":"US",
+    "sg:address":"800 E 2nd St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/gillette-north/81186-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 687 7272",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EOx4GPo5bzYFIIAAbEWuJ_44.293135_-105.494199@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313158,
+    "wof:geomhash":"008ee360d03edc5ba8d00215f0e2ff30",
+    "wof:hierarchy":[],
+    "wof:id":874229785,
+    "wof:lastmodified":1464313158,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -105.494199,
+    44.293135,
+    -105.494199,
+    44.293135
+],
+  "geometry": {"coordinates":[-105.49419899999999,44.293135],"type":"Point"}
+}

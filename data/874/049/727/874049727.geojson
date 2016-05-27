@@ -1,0 +1,78 @@
+{
+  "id": 874049727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.326303,42.848762,-106.326303,42.848762",
+    "geom:latitude":42.848762,
+    "geom:longitude":-106.326303,
+    "iso:country":"US",
+    "sg:address":"120 W 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 8390",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "picture",
+        "frame",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YEsNEdftGHXkI2L22OJvB_42.848762_-106.326303@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311238,
+    "wof:geomhash":"71d7a5ff1946a7322a21c99d290ab27f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874049727
+        }
+    ],
+    "wof:id":874049727,
+    "wof:lastmodified":1464311238,
+    "wof:name":"Goedicke's Arts & Crafts",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "frame",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -106.326303,
+    42.848762,
+    -106.326303,
+    42.848762
+],
+  "geometry": {"coordinates":[-106.326303,42.848762],"type":"Point"}
+}

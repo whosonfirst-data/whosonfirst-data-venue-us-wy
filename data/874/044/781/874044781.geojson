@@ -1,0 +1,56 @@
+{
+  "id": 874044781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.706699,44.349638,-106.706699,44.349638",
+    "geom:latitude":44.349638,
+    "geom:longitude":-106.706699,
+    "iso:country":"US",
+    "sg:address":"521 W Lott St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 5531",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_122incJV9rPuZksM5FuVD4_44.349638_-106.706699@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311191,
+    "wof:geomhash":"8a4356e35adf3662b0bb92b8a9abf6f7",
+    "wof:hierarchy":[],
+    "wof:id":874044781,
+    "wof:lastmodified":1464311191,
+    "wof:name":"Northern Wyoming Mental Health",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -106.706699,
+    44.349638,
+    -106.706699,
+    44.349638
+],
+  "geometry": {"coordinates":[-106.706699,44.349638],"type":"Point"}
+}

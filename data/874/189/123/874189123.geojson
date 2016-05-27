@@ -1,0 +1,51 @@
+{
+  "id": 874189123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.48892,44.462389,-109.48892,44.462389",
+    "geom:latitude":44.462389,
+    "geom:longitude":-109.48892,
+    "iso:country":"US",
+    "sg:address":"2924 N Fork Hwy",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 3974",
+    "sg:postcode":"82450",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78JjgZlqUHQ5cytQqK3HM9_44.462389_-109.488920@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312732,
+    "wof:geomhash":"c16ffb354bac54910c4f300e71ff55cf",
+    "wof:hierarchy":[],
+    "wof:id":874189123,
+    "wof:lastmodified":1464312732,
+    "wof:name":"Red Barn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.48892,
+    44.462389,
+    -109.48892,
+    44.462389
+],
+  "geometry": {"coordinates":[-109.48891999999999,44.462389],"type":"Point"}
+}

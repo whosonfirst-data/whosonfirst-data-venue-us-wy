@@ -1,0 +1,56 @@
+{
+  "id": 874053625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.205648,43.679657,-108.205648,43.679657",
+    "geom:latitude":43.679657,
+    "geom:longitude":-108.205648,
+    "iso:country":"US",
+    "sg:address":"284 Red Ln",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 9420",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "carriage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rSoG1ECzgP8kqaLTR2hdc_43.679657_-108.205648@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311275,
+    "wof:geomhash":"f16adaa1dec16a75f228db73a2ddc95d",
+    "wof:hierarchy":[],
+    "wof:id":874053625,
+    "wof:lastmodified":1464311275,
+    "wof:name":"Wyoming Carriage & Taxi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carriage"
+    ]
+},
+  "bbox": [
+    -108.205648,
+    43.679657,
+    -108.205648,
+    43.679657
+],
+  "geometry": {"coordinates":[-108.205648,43.679657],"type":"Point"}
+}

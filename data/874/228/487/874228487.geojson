@@ -1,0 +1,57 @@
+{
+  "id": 874228487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.800772,41.110467,-104.800772,41.110467",
+    "geom:latitude":41.110467,
+    "geom:longitude":-104.800772,
+    "iso:country":"US",
+    "sg:address":"800 S Greeley Hwy",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/155588-silver-mine-subs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 1100",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZywNbZ7fLngB85w3Kwkja_41.110467_-104.800772@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313146,
+    "wof:geomhash":"8d7a5130fc0d90d620947102c47b5aa4",
+    "wof:hierarchy":[],
+    "wof:id":874228487,
+    "wof:lastmodified":1464313146,
+    "wof:name":"Silver Mine Subs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -104.800772,
+    41.110467,
+    -104.800772,
+    41.110467
+],
+  "geometry": {"coordinates":[-104.80077199999999,41.110467],"type":"Point"}
+}

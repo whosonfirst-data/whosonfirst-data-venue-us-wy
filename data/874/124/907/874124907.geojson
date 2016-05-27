@@ -1,0 +1,51 @@
+{
+  "id": 874124907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.935464,42.725437,-110.935464,42.725437",
+    "geom:latitude":42.725437,
+    "geom:longitude":-110.935464,
+    "iso:country":"US",
+    "sg:address":"31 W 4th Ave",
+    "sg:city":"Afton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 000 1111",
+    "sg:postcode":"83110",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rjfdKgGVTj3ByTAx4vZAu_42.725437_-110.935464@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312084,
+    "wof:geomhash":"dfeb61358b1fd3eabd2c7b4484ec791e",
+    "wof:hierarchy":[],
+    "wof:id":874124907,
+    "wof:lastmodified":1464312084,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.935464,
+    42.725437,
+    -110.935464,
+    42.725437
+],
+  "geometry": {"coordinates":[-110.935464,42.725437],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 874030159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.552246,41.307961,-105.552246,41.307961",
+    "geom:latitude":41.307961,
+    "geom:longitude":-105.552246,
+    "iso:country":"US",
+    "sg:address":"3609 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7315",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.laramieford.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44FlcG7T3vSpeQoDxF0CI8_41.307961_-105.552246@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311050,
+    "wof:geomhash":"b7c9274d1a6e7c81104f9b52e8427f80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874030159
+        }
+    ],
+    "wof:id":874030159,
+    "wof:lastmodified":1464311050,
+    "wof:name":"Laramie Ford Lincoln Mercury",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -105.552246,
+    41.307961,
+    -105.552246,
+    41.307961
+],
+  "geometry": {"coordinates":[-105.552246,41.307961],"type":"Point"}
+}

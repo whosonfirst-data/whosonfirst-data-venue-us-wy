@@ -1,0 +1,56 @@
+{
+  "id": 874174067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.45769,44.214903,-105.45769,44.214903",
+    "geom:latitude":44.214903,
+    "geom:longitude":-105.45769,
+    "iso:country":"US",
+    "sg:address":"2640 Whitetail St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 8039",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cp9pa3omBPYTuNKoxKUrl_44.214903_-105.457690@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312569,
+    "wof:geomhash":"ecb945c61f54def932312a40f7fb34de",
+    "wof:hierarchy":[],
+    "wof:id":874174067,
+    "wof:lastmodified":1464312569,
+    "wof:name":"Strawn Therapy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -105.45769,
+    44.214903,
+    -105.45769,
+    44.214903
+],
+  "geometry": {"coordinates":[-105.45769,44.214903],"type":"Point"}
+}

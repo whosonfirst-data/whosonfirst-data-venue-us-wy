@@ -1,0 +1,73 @@
+{
+  "id": 874003445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323748,42.846868,-106.323748,42.846868",
+    "geom:latitude":42.846868,
+    "geom:longitude":-106.323748,
+    "iso:country":"US",
+    "sg:address":"300 S Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 6012",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "development",
+        "regional",
+        "economic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ez2agb9KUpzN8sABWVHzD_42.846868_-106.323748@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310797,
+    "wof:geomhash":"07832b4a6fc5a22aab552bd84fddc796",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874003445
+        }
+    ],
+    "wof:id":874003445,
+    "wof:lastmodified":1464310797,
+    "wof:name":"Wyoming Business Council",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "regional",
+        "economic"
+    ]
+},
+  "bbox": [
+    -106.323748,
+    42.846868,
+    -106.323748,
+    42.846868
+],
+  "geometry": {"coordinates":[-106.32374799999999,42.846868],"type":"Point"}
+}

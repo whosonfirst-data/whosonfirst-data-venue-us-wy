@@ -1,0 +1,64 @@
+{
+  "id": 874123681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.330404,42.844013,-106.330404,42.844013",
+    "geom:latitude":42.844013,
+    "geom:longitude":-106.330404,
+    "iso:country":"US",
+    "sg:address":"330 W Collins Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2050",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JzJ9vf1dWZDcWsQwXIVLD_42.844013_-106.330404@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312074,
+    "wof:geomhash":"e018e007f071bf21ac50f0e1e0ab81b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874123681
+        }
+    ],
+    "wof:id":874123681,
+    "wof:lastmodified":1464312074,
+    "wof:name":"Robison Chiropractic Clinic",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.330404,
+    42.844013,
+    -106.330404,
+    42.844013
+],
+  "geometry": {"coordinates":[-106.330404,42.844013],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874205047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.825422,41.141878,-104.825422,41.141878",
+    "geom:latitude":41.141878,
+    "geom:longitude":-104.825422,
+    "iso:country":"US",
+    "sg:address":"413 Randall Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 2915",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JgD7rnqgnyh5IpEPQCtPw_41.141878_-104.825422@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312895,
+    "wof:geomhash":"2718e2f54fde8a555a5ca3ca0efd6e22",
+    "wof:hierarchy":[],
+    "wof:id":874205047,
+    "wof:lastmodified":1464312895,
+    "wof:name":"Lock Shop of Cheyenne",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -104.825422,
+    41.141878,
+    -104.825422,
+    41.141878
+],
+  "geometry": {"coordinates":[-104.825422,41.141878],"type":"Point"}
+}

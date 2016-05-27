@@ -1,0 +1,64 @@
+{
+  "id": 874201485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.182793,42.904865,-106.182793,42.904865",
+    "geom:latitude":42.904865,
+    "geom:longitude":-106.182793,
+    "iso:country":"US",
+    "sg:address":"9277 Sandpiper St",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 4885",
+    "sg:postcode":"82636",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QlYUSl9t6AWbRWYIjeXZ9_42.904865_-106.182793@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312858,
+    "wof:geomhash":"b42fe922556b6f5c6da4ec1c74b3aebc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874201485
+        }
+    ],
+    "wof:id":874201485,
+    "wof:lastmodified":1464312858,
+    "wof:name":"Custom Design Landscaping",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.182793,
+    42.904865,
+    -106.182793,
+    42.904865
+],
+  "geometry": {"coordinates":[-106.182793,42.904865],"type":"Point"}
+}

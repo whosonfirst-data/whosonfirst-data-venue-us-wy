@@ -1,0 +1,71 @@
+{
+  "id": 874048207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343713,42.813097,-106.343713,42.813097",
+    "geom:latitude":42.813097,
+    "geom:longitude":-106.343713,
+    "iso:country":"US",
+    "sg:address":"3640 Hawthorne Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0724",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Dqj5suFsgdaHF09DWKfU1_42.813097_-106.343713@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311225,
+    "wof:geomhash":"7e0e21b79869401f651e2e89a707a996",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874048207
+        }
+    ],
+    "wof:id":874048207,
+    "wof:lastmodified":1464311225,
+    "wof:name":"Silva's Cement Works",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.343713,
+    42.813097,
+    -106.343713,
+    42.813097
+],
+  "geometry": {"coordinates":[-106.34371299999999,42.813097],"type":"Point"}
+}

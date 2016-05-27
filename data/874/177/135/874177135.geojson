@@ -1,0 +1,51 @@
+{
+  "id": 874177135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.380663,43.0333,-108.380663,43.0333",
+    "geom:latitude":43.0333,
+    "geom:longitude":-108.380663,
+    "iso:country":"US",
+    "sg:address":"838 N Federal Blvd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 2866",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ilHcCzPbMbJmPEvBUr9JH_43.033300_-108.380663@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312597,
+    "wof:geomhash":"e21efc2ca251ec8a27d64d40d9dd7cfe",
+    "wof:hierarchy":[],
+    "wof:id":874177135,
+    "wof:lastmodified":1464312597,
+    "wof:name":"Pit Stop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.380663,
+    43.0333,
+    -108.380663,
+    43.0333
+],
+  "geometry": {"coordinates":[-108.380663,43.0333],"type":"Point"}
+}

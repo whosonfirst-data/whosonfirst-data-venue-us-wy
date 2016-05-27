@@ -1,0 +1,56 @@
+{
+  "id": 874085465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.709065,44.335297,-106.709065,44.335297",
+    "geom:latitude":44.335297,
+    "geom:longitude":-106.709065,
+    "iso:country":"US",
+    "sg:address":"610 Apache Dr",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 2801",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Es1XudMs7wJZVUcqpwECw_44.335297_-106.709065@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311615,
+    "wof:geomhash":"11d170de60c0ee7cb70b106a5270533e",
+    "wof:hierarchy":[],
+    "wof:id":874085465,
+    "wof:lastmodified":1464311615,
+    "wof:name":"Wyoming Fish Game",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -106.709065,
+    44.335297,
+    -106.709065,
+    44.335297
+],
+  "geometry": {"coordinates":[-106.709065,44.335297],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874120539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.385483,42.796628,-106.385483,42.796628",
+    "geom:latitude":42.796628,
+    "geom:longitude":-106.385483,
+    "iso:country":"US",
+    "sg:address":"5060 Squaw Creek Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 7106",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cdLK0MmA62ztsEeKKAcTr_42.796628_-106.385483@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312046,
+    "wof:geomhash":"7e37b1685c5a6947e75cbde73cff8af1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874120539
+        }
+    ],
+    "wof:id":874120539,
+    "wof:lastmodified":1464312046,
+    "wof:name":"A-Stor-Mor Mini Storage",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -106.385483,
+    42.796628,
+    -106.385483,
+    42.796628
+],
+  "geometry": {"coordinates":[-106.38548299999999,42.796628],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874066751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.290233,42.849703,-106.290233,42.849703",
+    "geom:latitude":42.849703,
+    "geom:longitude":-106.290233,
+    "iso:country":"US",
+    "sg:address":"235 S Montana Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 9495",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "personal",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D1LuP40EDU2ZMgKAYfTwD_42.849703_-106.290233@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311395,
+    "wof:geomhash":"d9803f6ef799f5a10a3e42e737affda6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874066751
+        }
+    ],
+    "wof:id":874066751,
+    "wof:lastmodified":1464311395,
+    "wof:name":"Advance America",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "institution"
+    ]
+},
+  "bbox": [
+    -106.290233,
+    42.849703,
+    -106.290233,
+    42.849703
+],
+  "geometry": {"coordinates":[-106.290233,42.849703],"type":"Point"}
+}

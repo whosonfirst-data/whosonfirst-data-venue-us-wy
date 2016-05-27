@@ -1,0 +1,63 @@
+{
+  "id": 874050209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.365656,43.01944,-108.365656,43.01944",
+    "geom:latitude":43.01944,
+    "geom:longitude":-108.365656,
+    "iso:country":"US",
+    "sg:address":"2014 E Monroe Ave",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 5239",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "county",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JGBAmQjkXQ4FGhIbafNVi_43.019440_-108.365656@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311243,
+    "wof:geomhash":"2c20c23610dd6155bb673656fc2aec80",
+    "wof:hierarchy":[],
+    "wof:id":874050209,
+    "wof:lastmodified":1464311243,
+    "wof:name":"Fremont County Fire District",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "protection"
+    ]
+},
+  "bbox": [
+    -108.365656,
+    43.01944,
+    -108.365656,
+    43.01944
+],
+  "geometry": {"coordinates":[-108.365656,43.01944],"type":"Point"}
+}

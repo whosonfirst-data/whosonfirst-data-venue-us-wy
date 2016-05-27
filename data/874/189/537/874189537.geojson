@@ -1,0 +1,60 @@
+{
+  "id": 874189537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.946851,44.016904,-107.946851,44.016904",
+    "geom:latitude":44.016904,
+    "geom:longitude":-107.946851,
+    "iso:country":"US",
+    "sg:address":"1623 Big Horn Ave",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 4315",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZbLSolr6AyjjAmgufp4J0_44.016904_-107.946851@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312735,
+    "wof:geomhash":"53e661b1bd973fa978e002a85c603643",
+    "wof:hierarchy":[],
+    "wof:id":874189537,
+    "wof:lastmodified":1464312735,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -107.946851,
+    44.016904,
+    -107.946851,
+    44.016904
+],
+  "geometry": {"coordinates":[-107.946851,44.016904],"type":"Point"}
+}

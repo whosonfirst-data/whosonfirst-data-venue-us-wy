@@ -1,0 +1,69 @@
+{
+  "id": 874117049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.399634,42.811297,-106.399634,42.811297",
+    "geom:latitude":42.811297,
+    "geom:longitude":-106.399634,
+    "iso:country":"US",
+    "sg:address":"5301 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 267 2652",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YoQVSH3M6pZqbdQVBc3r9_42.811297_-106.399634@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312007,
+    "wof:geomhash":"387341989461fb2c75b08eb73220d21e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874117049
+        }
+    ],
+    "wof:id":874117049,
+    "wof:lastmodified":1464312007,
+    "wof:name":"T & F Towing",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -106.399634,
+    42.811297,
+    -106.399634,
+    42.811297
+],
+  "geometry": {"coordinates":[-106.39963400000001,42.811297],"type":"Point"}
+}

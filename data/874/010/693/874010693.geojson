@@ -1,0 +1,71 @@
+{
+  "id": 874010693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593704,41.310948,-105.593704,41.310948",
+    "geom:latitude":41.310948,
+    "geom:longitude":-105.593704,
+    "iso:country":"US",
+    "sg:address":"310 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4596",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NFENfLKkrbUGUYGcG4nFq_41.310948_-105.593704@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310860,
+    "wof:geomhash":"3f972c234210c76034b270d93a662df9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874010693
+        }
+    ],
+    "wof:id":874010693,
+    "wof:lastmodified":1464310860,
+    "wof:name":"Westfahls Piano",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -105.593704,
+    41.310948,
+    -105.593704,
+    41.310948
+],
+  "geometry": {"coordinates":[-105.593704,41.310948],"type":"Point"}
+}

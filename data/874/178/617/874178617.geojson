@@ -1,0 +1,56 @@
+{
+  "id": 874178617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.391929,43.019212,-108.391929,43.019212",
+    "geom:latitude":43.019212,
+    "geom:longitude":-108.391929,
+    "iso:country":"US",
+    "sg:address":"611 S 2nd St W",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 1780",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bHyzWeHq3SAkTdp8JujDz_43.019212_-108.391929@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312615,
+    "wof:geomhash":"18257d9c430fe46d56f26a8a8eb24320",
+    "wof:hierarchy":[],
+    "wof:id":874178617,
+    "wof:lastmodified":1464312615,
+    "wof:name":"Duinard Truck Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -108.391929,
+    43.019212,
+    -108.391929,
+    43.019212
+],
+  "geometry": {"coordinates":[-108.391929,43.019212],"type":"Point"}
+}

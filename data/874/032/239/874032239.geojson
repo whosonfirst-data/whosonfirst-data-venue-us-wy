@@ -1,0 +1,64 @@
+{
+  "id": 874032239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.436515,42.871807,-106.436515,42.871807",
+    "geom:latitude":42.871807,
+    "geom:longitude":-106.436515,
+    "iso:country":"US",
+    "sg:address":"1341 N Grass Creek Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2698",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gIUeWZjnd41UJsaPvfZcW_42.871807_-106.436515@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311068,
+    "wof:geomhash":"2bf06e5cd7b4c140a3e25b0e8fdcebd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874032239
+        }
+    ],
+    "wof:id":874032239,
+    "wof:lastmodified":1464311068,
+    "wof:name":"Optimal Air Testing Services I",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.436515,
+    42.871807,
+    -106.436515,
+    42.871807
+],
+  "geometry": {"coordinates":[-106.436515,42.871807],"type":"Point"}
+}

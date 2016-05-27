@@ -1,0 +1,58 @@
+{
+  "id": 874130055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.933007,44.782319,-106.933007,44.782319",
+    "geom:latitude":44.782319,
+    "geom:longitude":-106.933007,
+    "iso:country":"US",
+    "sg:address":"1555 Commercial Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 762 3725",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "delivery",
+        "package"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J8rQOD9gtLYKMczM7GGvA_44.782319_-106.933007@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312137,
+    "wof:geomhash":"7d9b2a71a7d02e83cf76ed8df16a8fbd",
+    "wof:hierarchy":[],
+    "wof:id":874130055,
+    "wof:lastmodified":1464312137,
+    "wof:name":"Fedex",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "package"
+    ]
+},
+  "bbox": [
+    -106.933007,
+    44.782319,
+    -106.933007,
+    44.782319
+],
+  "geometry": {"coordinates":[-106.933007,44.782319],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874156827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594716,41.328084,-105.594716,41.328084",
+    "geom:latitude":41.328084,
+    "geom:longitude":-105.594716,
+    "iso:country":"US",
+    "sg:address":"1862 N Superior Ct",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3212",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "welding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E8eI2vHz46p53SEls6Czg_41.328084_-105.594716@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312397,
+    "wof:geomhash":"d5f3a6ba89a7ff9e6d39e35d0dbb68fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874156827
+        }
+    ],
+    "wof:id":874156827,
+    "wof:lastmodified":1464312397,
+    "wof:name":"Attebery Welding & Crane Svc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.594716,
+    41.328084,
+    -105.594716,
+    41.328084
+],
+  "geometry": {"coordinates":[-105.59471600000001,41.328084],"type":"Point"}
+}

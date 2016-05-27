@@ -1,0 +1,59 @@
+{
+  "id": 874228327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.822024,41.130203,-104.822024,41.130203",
+    "geom:latitude":41.130203,
+    "geom:longitude":-104.822024,
+    "iso:country":"US",
+    "sg:address":"801 W Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/181574-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 5451",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KMiXKy7zHwUYWEbdvOEgZ_41.130203_-104.822024@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313144,
+    "wof:geomhash":"27c4283a05d4bdad40e6f7abdd7e1abc",
+    "wof:hierarchy":[],
+    "wof:id":874228327,
+    "wof:lastmodified":1464313144,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -104.822024,
+    41.130203,
+    -104.822024,
+    41.130203
+],
+  "geometry": {"coordinates":[-104.822024,41.130203],"type":"Point"}
+}

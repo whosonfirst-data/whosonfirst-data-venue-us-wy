@@ -1,0 +1,73 @@
+{
+  "id": 874201171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.232286,41.578778,-109.232286,41.578778",
+    "geom:latitude":41.578778,
+    "geom:longitude":-109.232286,
+    "iso:country":"US",
+    "sg:address":"1248 Dewar Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 4051",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ewXExPrEvRaXqj0sHGa4R_41.578778_-109.232286@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312855,
+    "wof:geomhash":"90e17aaf31d34cbcfd9cd0a3cf382dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874201171
+        }
+    ],
+    "wof:id":874201171,
+    "wof:lastmodified":1464312855,
+    "wof:name":"Jackman Construction Inc",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -109.232286,
+    41.578778,
+    -109.232286,
+    41.578778
+],
+  "geometry": {"coordinates":[-109.232286,41.578778],"type":"Point"}
+}

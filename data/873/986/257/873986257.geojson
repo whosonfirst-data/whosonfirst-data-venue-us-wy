@@ -1,0 +1,69 @@
+{
+  "id": 873986257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.327745,42.849,-106.327745,42.849",
+    "geom:latitude":42.849,
+    "geom:longitude":-106.327745,
+    "iso:country":"US",
+    "sg:address":"240 Industrial Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 8724",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pKjGlC7G6GzVmqdYKAIiG_42.849000_-106.327745@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310664,
+    "wof:geomhash":"4cf0b463abed570deb19e37b6311069f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873986257
+        }
+    ],
+    "wof:id":873986257,
+    "wof:lastmodified":1464310664,
+    "wof:name":"Scott's Taxidermy",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -106.327745,
+    42.849,
+    -106.327745,
+    42.849
+],
+  "geometry": {"coordinates":[-106.32774499999999,42.849],"type":"Point"}
+}

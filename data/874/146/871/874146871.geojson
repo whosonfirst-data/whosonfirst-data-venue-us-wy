@@ -1,0 +1,69 @@
+{
+  "id": 874146871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.314823,42.830453,-106.314823,42.830453",
+    "geom:latitude":42.830453,
+    "geom:longitude":-106.314823,
+    "iso:country":"US",
+    "sg:address":"1802 S Mitchell St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1518",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29rGnQC3OefZklm9CedoQu_42.830453_-106.314823@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312301,
+    "wof:geomhash":"75adce19c99bb3ffd4332c1ecd9376b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874146871
+        }
+    ],
+    "wof:id":874146871,
+    "wof:lastmodified":1464312301,
+    "wof:name":"McDonald Welding Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -106.314823,
+    42.830453,
+    -106.314823,
+    42.830453
+],
+  "geometry": {"coordinates":[-106.314823,42.830453],"type":"Point"}
+}

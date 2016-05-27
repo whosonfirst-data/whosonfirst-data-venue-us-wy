@@ -1,0 +1,71 @@
+{
+  "id": 874019339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.288896,42.848735,-106.288896,42.848735",
+    "geom:latitude":42.848735,
+    "geom:longitude":-106.288896,
+    "iso:country":"US",
+    "sg:address":"2877 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1221",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "specializing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VXLoXuGcelYQsX3WVA6Xq_42.848735_-106.288896@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310941,
+    "wof:geomhash":"f650d65a94998c6699a5554ee82f9b55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874019339
+        }
+    ],
+    "wof:id":874019339,
+    "wof:lastmodified":1464310941,
+    "wof:name":"Godfather's Pizza",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specializing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -106.288896,
+    42.848735,
+    -106.288896,
+    42.848735
+],
+  "geometry": {"coordinates":[-106.28889599999999,42.848735],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874100141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590357,41.340378,-105.590357,41.340378",
+    "geom:latitude":41.340378,
+    "geom:longitude":-105.590357,
+    "iso:country":"US",
+    "sg:address":"5050 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4833",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ch3p7KypPiTL7IxW1VA9K_41.340378_-105.590357@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311795,
+    "wof:geomhash":"1c019370c0c8ef6e2bc937990bae12e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874100141
+        }
+    ],
+    "wof:id":874100141,
+    "wof:lastmodified":1464311795,
+    "wof:name":"Lafarge Corp",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.590357,
+    41.340378,
+    -105.590357,
+    41.340378
+],
+  "geometry": {"coordinates":[-105.590357,41.340378],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874078831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.325075,42.840621,-106.325075,42.840621",
+    "geom:latitude":42.840621,
+    "geom:longitude":-106.325075,
+    "iso:country":"US",
+    "sg:address":"905 S Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4985",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HDf3dOentwApVAzbJgFky_42.840621_-106.325075@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311541,
+    "wof:geomhash":"e55efdf5f0222f59e03e2afda32a90f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874078831
+        }
+    ],
+    "wof:id":874078831,
+    "wof:lastmodified":1464311541,
+    "wof:name":"Center Street Practitioners of",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.325075,
+    42.840621,
+    -106.325075,
+    42.840621
+],
+  "geometry": {"coordinates":[-106.325075,42.840621],"type":"Point"}
+}

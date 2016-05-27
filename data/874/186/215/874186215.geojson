@@ -1,0 +1,71 @@
+{
+  "id": 874186215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.566707,41.307188,-105.566707,41.307188",
+    "geom:latitude":41.307188,
+    "geom:longitude":-105.566707,
+    "iso:country":"US",
+    "sg:address":"2129 E Rainbow Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 0620",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PBtRwInw9Q5U9nBMcmM1r_41.307188_-105.566707@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312702,
+    "wof:geomhash":"b7cbc1f7aa96228060950f1f362c7ef2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874186215
+        }
+    ],
+    "wof:id":874186215,
+    "wof:lastmodified":1464312702,
+    "wof:name":"Montgomery-Stryker Monument",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -105.566707,
+    41.307188,
+    -105.566707,
+    41.307188
+],
+  "geometry": {"coordinates":[-105.56670699999999,41.307188],"type":"Point"}
+}

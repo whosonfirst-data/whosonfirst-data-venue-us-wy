@@ -1,0 +1,58 @@
+{
+  "id": 874035779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.386439,43.018334,-108.386439,43.018334",
+    "geom:latitude":43.018334,
+    "geom:longitude":-108.386439,
+    "iso:country":"US",
+    "sg:address":"730 S Broadway Ave",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 5354",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "waste",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tKmrRKBdY0yg2oCwhpnOb_43.018334_-108.386439@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311102,
+    "wof:geomhash":"c0c5de706067cfa7992af6b19513c5d5",
+    "wof:hierarchy":[],
+    "wof:id":874035779,
+    "wof:lastmodified":1464311102,
+    "wof:name":"Waste Management",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "waste",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -108.386439,
+    43.018334,
+    -108.386439,
+    43.018334
+],
+  "geometry": {"coordinates":[-108.386439,43.018334],"type":"Point"}
+}

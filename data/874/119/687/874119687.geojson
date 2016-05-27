@@ -1,0 +1,56 @@
+{
+  "id": 874119687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.304362,41.326506,-110.304362,41.326506",
+    "geom:latitude":41.326506,
+    "geom:longitude":-110.304362,
+    "iso:country":"US",
+    "sg:address":"109 Tiara St",
+    "sg:city":"Lyman",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 787 3384",
+    "sg:postcode":"82937",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pfze0ijorl62CuqVusti3_41.326506_-110.304362@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312032,
+    "wof:geomhash":"6b6ac3734636268b5c7418bdb731cfbe",
+    "wof:hierarchy":[],
+    "wof:id":874119687,
+    "wof:lastmodified":1464312032,
+    "wof:name":"Police Department",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -110.304362,
+    41.326506,
+    -110.304362,
+    41.326506
+],
+  "geometry": {"coordinates":[-110.304362,41.326506],"type":"Point"}
+}

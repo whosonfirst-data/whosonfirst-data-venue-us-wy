@@ -1,0 +1,59 @@
+{
+  "id": 874230005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955711,44.821608,-106.955711,44.821608",
+    "geom:latitude":44.821608,
+    "geom:longitude":-106.955711,
+    "iso:country":"US",
+    "sg:address":"2571 N Business 90",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/sheridan/86226-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 1814",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sxLKT8Nvrd8rvc09Hiy32_44.821608_-106.955711@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313160,
+    "wof:geomhash":"d8987194579f77b053675b0eeffd3cc8",
+    "wof:hierarchy":[],
+    "wof:id":874230005,
+    "wof:lastmodified":1464313160,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -106.955711,
+    44.821608,
+    -106.955711,
+    44.821608
+],
+  "geometry": {"coordinates":[-106.95571099999999,44.821608],"type":"Point"}
+}

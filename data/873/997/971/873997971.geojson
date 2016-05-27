@@ -1,0 +1,58 @@
+{
+  "id": 873997971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.064947,44.541359,-109.064947,44.541359",
+    "geom:latitude":44.541359,
+    "geom:longitude":-109.064947,
+    "iso:country":"US",
+    "sg:address":"31 Pearson Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 6616",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kRyvIrk8MFMl8k29HDVtY_44.541359_-109.064947@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310747,
+    "wof:geomhash":"8df82ddccb592750e118617ac9f1cf89",
+    "wof:hierarchy":[],
+    "wof:id":873997971,
+    "wof:lastmodified":1464310747,
+    "wof:name":"Keele Sanitation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -109.064947,
+    44.541359,
+    -109.064947,
+    44.541359
+],
+  "geometry": {"coordinates":[-109.064947,44.541359],"type":"Point"}
+}

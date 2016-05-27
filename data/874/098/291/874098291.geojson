@@ -1,0 +1,51 @@
+{
+  "id": 874098291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.809171,41.455804,-106.809171,41.455804",
+    "geom:latitude":41.455804,
+    "geom:longitude":-106.809171,
+    "iso:country":"US",
+    "sg:address":"105 W Main Ave",
+    "sg:city":"Saratoga",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 326 5611",
+    "sg:postcode":"82331",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ik6BSQ10d1oq8INtnSYhm_41.455804_-106.809171@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311760,
+    "wof:geomhash":"90876c9a55a44f451d364f4f606f1ee8",
+    "wof:hierarchy":[],
+    "wof:id":874098291,
+    "wof:lastmodified":1464311760,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.809171,
+    41.455804,
+    -106.809171,
+    41.455804
+],
+  "geometry": {"coordinates":[-106.80917100000001,41.455804],"type":"Point"}
+}

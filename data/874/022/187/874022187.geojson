@@ -1,0 +1,56 @@
+{
+  "id": 874022187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.065979,44.525783,-109.065979,44.525783",
+    "geom:latitude":44.525783,
+    "geom:longitude":-109.065979,
+    "iso:country":"US",
+    "sg:address":"1125 11th St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 8550",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tJwBC5A9Pl7H1sdzqFB5x_44.525783_-109.065979@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310966,
+    "wof:geomhash":"a24a89cfbfb3374cbbb3c0620e756ca8",
+    "wof:hierarchy":[],
+    "wof:id":874022187,
+    "wof:lastmodified":1464310966,
+    "wof:name":"Cody City Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -109.065979,
+    44.525783,
+    -109.065979,
+    44.525783
+],
+  "geometry": {"coordinates":[-109.065979,44.525783],"type":"Point"}
+}

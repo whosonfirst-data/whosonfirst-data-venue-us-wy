@@ -1,0 +1,58 @@
+{
+  "id": 874059847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.054356,44.488782,-108.054356,44.488782",
+    "geom:latitude":44.488782,
+    "geom:longitude":-108.054356,
+    "iso:country":"US",
+    "sg:address":"537 Greybull Ave",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 2131",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "money",
+        "transfer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nSaRPFYsnBZUJf9EurG5O_44.488782_-108.054356@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311334,
+    "wof:geomhash":"72b318c44d217d9d1678bf1d0c6dbdbb",
+    "wof:hierarchy":[],
+    "wof:id":874059847,
+    "wof:lastmodified":1464311334,
+    "wof:name":"Western Union",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "money",
+        "transfer"
+    ]
+},
+  "bbox": [
+    -108.054356,
+    44.488782,
+    -108.054356,
+    44.488782
+],
+  "geometry": {"coordinates":[-108.054356,44.488782],"type":"Point"}
+}

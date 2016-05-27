@@ -1,0 +1,75 @@
+{
+  "id": 874165847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.632282,41.292982,-105.632282,41.292982",
+    "geom:latitude":41.292982,
+    "geom:longitude":-105.632282,
+    "iso:country":"US",
+    "sg:address":"2402 Chugwater Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 0366",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E464avNxl1O8BOM6whXBa_41.292982_-105.632282@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312488,
+    "wof:geomhash":"8ec7ba2b73693d56a9d768b594463cc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874165847
+        }
+    ],
+    "wof:id":874165847,
+    "wof:lastmodified":1464312488,
+    "wof:name":"Workout",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -105.632282,
+    41.292982,
+    -105.632282,
+    41.292982
+],
+  "geometry": {"coordinates":[-105.632282,41.292982],"type":"Point"}
+}

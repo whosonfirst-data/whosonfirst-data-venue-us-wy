@@ -1,0 +1,71 @@
+{
+  "id": 874076151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593511,41.311948,-105.593511,41.311948",
+    "geom:latitude":41.311948,
+    "geom:longitude":-105.593511,
+    "iso:country":"US",
+    "sg:address":"200 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5151",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SKuxoq1Bl4uh32ZXbRBLR_41.311948_-105.593511@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311512,
+    "wof:geomhash":"eb9bcd9fdf348ff5045578d7c1fef470",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874076151
+        }
+    ],
+    "wof:id":874076151,
+    "wof:lastmodified":1464311512,
+    "wof:name":"Continue Care Home Health Agnc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -105.593511,
+    41.311948,
+    -105.593511,
+    41.311948
+],
+  "geometry": {"coordinates":[-105.59351100000001,41.311948],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874122429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.537358,41.302364,-105.537358,41.302364",
+    "geom:latitude":41.302364,
+    "geom:longitude":-105.537358,
+    "iso:country":"US",
+    "sg:address":"1909 Vista Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8188",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "racing",
+        "motorcycle",
+        "maintaining"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5of7t3DvzdKv4yC5dVmhkR_41.302364_-105.537358@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312063,
+    "wof:geomhash":"27416a430570ae0f68591d54a5542163",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874122429
+        }
+    ],
+    "wof:id":874122429,
+    "wof:lastmodified":1464312063,
+    "wof:name":"Rough Stock Racing",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "racing",
+        "motorcycle",
+        "maintaining"
+    ]
+},
+  "bbox": [
+    -105.537358,
+    41.302364,
+    -105.537358,
+    41.302364
+],
+  "geometry": {"coordinates":[-105.537358,41.302364],"type":"Point"}
+}

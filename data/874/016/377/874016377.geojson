@@ -1,0 +1,56 @@
+{
+  "id": 874016377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.410344,43.037462,-108.410344,43.037462",
+    "geom:latitude":43.037462,
+    "geom:longitude":-108.410344,
+    "iso:country":"US",
+    "sg:address":"1599 Major Ave",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 3298",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25QMdWsm79rOTUFp9q9YdP_43.037462_-108.410344@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310902,
+    "wof:geomhash":"16699c624b59a4988e8d1e438db11ba4",
+    "wof:hierarchy":[],
+    "wof:id":874016377,
+    "wof:lastmodified":1464310902,
+    "wof:name":"All Creatures Veterinary Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -108.410344,
+    43.037462,
+    -108.410344,
+    43.037462
+],
+  "geometry": {"coordinates":[-108.41034399999999,43.037462],"type":"Point"}
+}

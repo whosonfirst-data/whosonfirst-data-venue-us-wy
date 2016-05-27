@@ -1,0 +1,56 @@
+{
+  "id": 874171753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.756744,41.145592,-104.756744,41.145592",
+    "geom:latitude":41.145592,
+    "geom:longitude":-104.756744,
+    "iso:country":"US",
+    "sg:address":"4218 E Pershing Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 2912",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0319pL95N1cqHxIHVCLvfG_41.145592_-104.756744@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312547,
+    "wof:geomhash":"4291778710302ee67f20758f4a3c7a00",
+    "wof:hierarchy":[],
+    "wof:id":874171753,
+    "wof:lastmodified":1464312547,
+    "wof:name":"Broadmoor E Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -104.756744,
+    41.145592,
+    -104.756744,
+    41.145592
+],
+  "geometry": {"coordinates":[-104.756744,41.145592],"type":"Point"}
+}

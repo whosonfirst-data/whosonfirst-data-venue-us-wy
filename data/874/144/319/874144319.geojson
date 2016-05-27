@@ -1,0 +1,71 @@
+{
+  "id": 874144319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.297759,42.841272,-106.297759,42.841272",
+    "geom:latitude":42.841272,
+    "geom:longitude":-106.297759,
+    "iso:country":"US",
+    "sg:address":"919 S Beverly St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 5757",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u7szS6kkBsM7ZGdCbjujf_42.841272_-106.297759@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312274,
+    "wof:geomhash":"7e9963bef5e90da18bf1e1aeb6060a34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874144319
+        }
+    ],
+    "wof:id":874144319,
+    "wof:lastmodified":1464312274,
+    "wof:name":"Loretta Crider",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -106.297759,
+    42.841272,
+    -106.297759,
+    42.841272
+],
+  "geometry": {"coordinates":[-106.297759,42.841272],"type":"Point"}
+}

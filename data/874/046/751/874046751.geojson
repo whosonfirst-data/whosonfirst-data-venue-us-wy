@@ -1,0 +1,56 @@
+{
+  "id": 874046751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.736602,42.768451,-109.736602,42.768451",
+    "geom:latitude":42.768451,
+    "geom:longitude":-109.736602,
+    "iso:country":"US",
+    "sg:address":"12 Sunrise Ln",
+    "sg:city":"Boulder",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 537 5233",
+    "sg:postcode":"82923",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59dSVZTH4ub1Z3ILvVjkDC_42.768451_-109.736602@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311213,
+    "wof:geomhash":"4c2657080f9fb6ceaab61625de51eb42",
+    "wof:hierarchy":[],
+    "wof:id":874046751,
+    "wof:lastmodified":1464311213,
+    "wof:name":"K & G House Moving",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -109.736602,
+    42.768451,
+    -109.736602,
+    42.768451
+],
+  "geometry": {"coordinates":[-109.736602,42.768451],"type":"Point"}
+}

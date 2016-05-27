@@ -1,0 +1,71 @@
+{
+  "id": 874086095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.332446,42.843092,-106.332446,42.843092",
+    "geom:latitude":42.843092,
+    "geom:longitude":-106.332446,
+    "iso:country":"US",
+    "sg:address":"613 W Collins Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 3190",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ivzl5dYfA1ZDsaQf5VCgP_42.843092_-106.332446@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311621,
+    "wof:geomhash":"f773e3ff735202aa0c465c7a7cfc7773",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874086095
+        }
+    ],
+    "wof:id":874086095,
+    "wof:lastmodified":1464311621,
+    "wof:name":"American Laser Svc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -106.332446,
+    42.843092,
+    -106.332446,
+    42.843092
+],
+  "geometry": {"coordinates":[-106.332446,42.843092],"type":"Point"}
+}

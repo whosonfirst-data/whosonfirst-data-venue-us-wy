@@ -1,0 +1,71 @@
+{
+  "id": 874178173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.588139,41.312536,-105.588139,41.312536",
+    "geom:latitude":41.312536,
+    "geom:longitude":-105.588139,
+    "iso:country":"US",
+    "sg:address":"107 S 7th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4222",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45yyLmYWvLfoFTqjtBj7or_41.312536_-105.588139@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312608,
+    "wof:geomhash":"7d5fceb07547dee077049fbc6265571e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874178173
+        }
+    ],
+    "wof:id":874178173,
+    "wof:lastmodified":1464312608,
+    "wof:name":"Trinity Lutheran Church",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -105.588139,
+    41.312536,
+    -105.588139,
+    41.312536
+],
+  "geometry": {"coordinates":[-105.588139,41.312536],"type":"Point"}
+}

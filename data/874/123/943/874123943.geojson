@@ -1,0 +1,56 @@
+{
+  "id": 874123943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.832124,41.177414,-104.832124,41.177414",
+    "geom:latitude":41.177414,
+    "geom:longitude":-104.832124,
+    "iso:country":"US",
+    "sg:address":"218 Prairie Hills Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 9199",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q6jYtAWUnLdO2GGhOGBYq_41.177414_-104.832124@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312076,
+    "wof:geomhash":"41a05def0a18b6c5148710317771d145",
+    "wof:hierarchy":[],
+    "wof:id":874123943,
+    "wof:lastmodified":1464312076,
+    "wof:name":"Buck Snort",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -104.832124,
+    41.177414,
+    -104.832124,
+    41.177414
+],
+  "geometry": {"coordinates":[-104.83212399999999,41.177414],"type":"Point"}
+}

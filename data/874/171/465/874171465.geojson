@@ -1,0 +1,73 @@
+{
+  "id": 874171465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.295898,42.847441,-106.295898,42.847441",
+    "geom:latitude":42.847441,
+    "geom:longitude":-106.295898,
+    "iso:country":"US",
+    "sg:address":"2240 E 3rd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 1152",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5obPFFgDyRQ3XSUawq7IZg_42.847441_-106.295898@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312544,
+    "wof:geomhash":"2405db9678ecd7b3979f87b0f9e662b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874171465
+        }
+    ],
+    "wof:id":874171465,
+    "wof:lastmodified":1464312544,
+    "wof:name":"Salt Creek Leasing",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -106.295898,
+    42.847441,
+    -106.295898,
+    42.847441
+],
+  "geometry": {"coordinates":[-106.29589799999999,42.847441],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 873990609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.31972,42.837639,-106.31972,42.837639",
+    "geom:latitude":42.837639,
+    "geom:longitude":-106.31972,
+    "iso:country":"US",
+    "sg:address":"418 E 13th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 259 8726",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mpIakKuY81eCX3mgkEhE9_42.837639_-106.319720@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310694,
+    "wof:geomhash":"be2d1245f0511979a833edb9f0746484",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873990609
+        }
+    ],
+    "wof:id":873990609,
+    "wof:lastmodified":1464310694,
+    "wof:name":"C E W Gifts",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.31972,
+    42.837639,
+    -106.31972,
+    42.837639
+],
+  "geometry": {"coordinates":[-106.31972,42.837639],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874136171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.005359,41.318619,-111.005359,41.318619",
+    "geom:latitude":41.318619,
+    "geom:longitude":-111.005359,
+    "iso:country":"US",
+    "sg:address":"3021 Almy Rd 107",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 6383",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05AD36DCBshehOTiUAgXMU_41.318619_-111.005359@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312201,
+    "wof:geomhash":"f184ec95f2fbe88843c4fda7170afc2e",
+    "wof:hierarchy":[],
+    "wof:id":874136171,
+    "wof:lastmodified":1464312201,
+    "wof:name":"Hallmark Testing Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -111.005359,
+    41.318619,
+    -111.005359,
+    41.318619
+],
+  "geometry": {"coordinates":[-111.005359,41.318619],"type":"Point"}
+}

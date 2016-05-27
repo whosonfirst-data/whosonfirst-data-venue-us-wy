@@ -1,0 +1,66 @@
+{
+  "id": 874114319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.551886,41.307816,-105.551886,41.307816",
+    "geom:latitude":41.307816,
+    "geom:longitude":-105.551886,
+    "iso:country":"US",
+    "sg:address":"3625 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3050",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16PEMViC7ltPgxFh7xRXeA_41.307816_-105.551886@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311980,
+    "wof:geomhash":"41f0f95d2b6a08ae04fa8c784f3aaa4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874114319
+        }
+    ],
+    "wof:id":874114319,
+    "wof:lastmodified":1464311980,
+    "wof:name":"Jon Howdeshell CPA",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.551886,
+    41.307816,
+    -105.551886,
+    41.307816
+],
+  "geometry": {"coordinates":[-105.551886,41.307816],"type":"Point"}
+}

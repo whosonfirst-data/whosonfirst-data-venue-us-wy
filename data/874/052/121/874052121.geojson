@@ -1,0 +1,71 @@
+{
+  "id": 874052121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.3405,42.858881,-106.3405,42.858881",
+    "geom:latitude":42.858881,
+    "geom:longitude":-106.3405,
+    "iso:country":"US",
+    "sg:address":"1005 N Foster Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 232 8305",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EmwQwvjF58WAw4NzqxILg_42.858881_-106.340500@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311260,
+    "wof:geomhash":"166d603f0b0926378ce3b79a41818900",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874052121
+        }
+    ],
+    "wof:id":874052121,
+    "wof:lastmodified":1464311260,
+    "wof:name":"Advanced Wall Systems Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.3405,
+    42.858881,
+    -106.3405,
+    42.858881
+],
+  "geometry": {"coordinates":[-106.34050000000001,42.858881],"type":"Point"}
+}

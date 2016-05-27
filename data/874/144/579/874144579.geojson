@@ -1,0 +1,56 @@
+{
+  "id": 874144579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.198054,43.646626,-108.198054,43.646626",
+    "geom:latitude":43.646626,
+    "geom:longitude":-108.198054,
+    "iso:country":"US",
+    "sg:address":"120 N C Ave",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 2351",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j8gca3lR2iLICnnoZXCjs_43.646626_-108.198054@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312276,
+    "wof:geomhash":"d2897093833bb75fe162ebdd65bbdad1",
+    "wof:hierarchy":[],
+    "wof:id":874144579,
+    "wof:lastmodified":1464312276,
+    "wof:name":"Howard T Willson MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -108.198054,
+    43.646626,
+    -108.198054,
+    43.646626
+],
+  "geometry": {"coordinates":[-108.198054,43.646626],"type":"Point"}
+}

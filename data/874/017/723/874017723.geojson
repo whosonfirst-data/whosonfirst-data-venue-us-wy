@@ -1,0 +1,71 @@
+{
+  "id": 874017723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.623294,41.311399,-105.623294,41.311399",
+    "geom:latitude":41.311399,
+    "geom:longitude":-105.623294,
+    "iso:country":"US",
+    "sg:address":"230 S Lincoln St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5021",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_069qGNUunOjAHsXawgHi8S_41.311399_-105.623294@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310922,
+    "wof:geomhash":"14ea63372fe9ffe0bc74dcac17da2ce4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874017723
+        }
+    ],
+    "wof:id":874017723,
+    "wof:lastmodified":1464310922,
+    "wof:name":"Taxi LLC",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -105.623294,
+    41.311399,
+    -105.623294,
+    41.311399
+],
+  "geometry": {"coordinates":[-105.623294,41.311399],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874024089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.945655,44.808839,-106.945655,44.808839",
+    "geom:latitude":44.808839,
+    "geom:longitude":-106.945655,
+    "iso:country":"US",
+    "sg:address":"1003 Saberton Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 2044",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wWlDFT7ebfItwnRJGEBw2_44.808839_-106.945655@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310984,
+    "wof:geomhash":"b64c6553e0e58852eb6775028ebc7072",
+    "wof:hierarchy":[],
+    "wof:id":874024089,
+    "wof:lastmodified":1464310984,
+    "wof:name":"Wystar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -106.945655,
+    44.808839,
+    -106.945655,
+    44.808839
+],
+  "geometry": {"coordinates":[-106.945655,44.808839],"type":"Point"}
+}

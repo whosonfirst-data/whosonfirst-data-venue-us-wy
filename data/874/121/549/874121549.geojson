@@ -1,0 +1,71 @@
+{
+  "id": 874121549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.39554,42.822481,-106.39554,42.822481",
+    "geom:latitude":42.822481,
+    "geom:longitude":-106.39554,
+    "iso:country":"US",
+    "sg:address":"2599 Paradise Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 2054",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "archeology",
+        "consulting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OEw5tJFBFV5cA3h4Fd179_42.822481_-106.395540@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312055,
+    "wof:geomhash":"97376fb4c96553d3b20d36a237a88299",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874121549
+        }
+    ],
+    "wof:id":874121549,
+    "wof:lastmodified":1464312055,
+    "wof:name":"Greer Services",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "archeology",
+        "consulting"
+    ]
+},
+  "bbox": [
+    -106.39554,
+    42.822481,
+    -106.39554,
+    42.822481
+],
+  "geometry": {"coordinates":[-106.39554,42.822481],"type":"Point"}
+}

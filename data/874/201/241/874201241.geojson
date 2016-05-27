@@ -1,0 +1,79 @@
+{
+  "id": 874201241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.631346,41.308296,-105.631346,41.308296",
+    "geom:latitude":41.308296,
+    "geom:longitude":-105.631346,
+    "iso:country":"US",
+    "sg:address":"2560 W Jackson St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3199",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mobile",
+        "operator",
+        "coin",
+        "site",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06w8yeca9zUfhNmxs0gLnX_41.308296_-105.631346@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312856,
+    "wof:geomhash":"268246c81122081892d97f06c410ce65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874201241
+        }
+    ],
+    "wof:id":874201241,
+    "wof:lastmodified":1464312856,
+    "wof:name":"Snowy Range Estates",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "operator",
+        "coin",
+        "site",
+        "home"
+    ]
+},
+  "bbox": [
+    -105.631346,
+    41.308296,
+    -105.631346,
+    41.308296
+],
+  "geometry": {"coordinates":[-105.63134599999999,41.308296],"type":"Point"}
+}

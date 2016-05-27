@@ -1,0 +1,71 @@
+{
+  "id": 874157245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.35999,42.8547,-106.35999,42.8547",
+    "geom:latitude":42.8547,
+    "geom:longitude":-106.35999,
+    "iso:country":"US",
+    "sg:address":"3100 Heights Blvd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 0446",
+    "sg:postcode":"82644",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O8cygJvP7Mf21WGqwlrsJ_42.854700_-106.359990@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312401,
+    "wof:geomhash":"488f3e12528a0b9b830e1d8269635ece",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874157245
+        }
+    ],
+    "wof:id":874157245,
+    "wof:lastmodified":1464312401,
+    "wof:name":"Tucker Drywall Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.35999,
+    42.8547,
+    -106.35999,
+    42.8547
+],
+  "geometry": {"coordinates":[-106.35999,42.8547],"type":"Point"}
+}

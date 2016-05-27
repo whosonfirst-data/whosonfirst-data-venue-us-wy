@@ -1,0 +1,73 @@
+{
+  "id": 874193187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.567936,41.300848,-105.567936,41.300848",
+    "geom:latitude":41.300848,
+    "geom:longitude":-105.567936,
+    "iso:country":"US",
+    "sg:address":"2468 E Park Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7881",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "economic",
+        "analysis"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LK4fTKW2IsIVi2HqFRZ7r_41.300848_-105.567936@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312772,
+    "wof:geomhash":"a0d6441007315c46f2cdcec67c9b6963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874193187
+        }
+    ],
+    "wof:id":874193187,
+    "wof:lastmodified":1464312772,
+    "wof:name":"Watts & Assoc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "economic",
+        "analysis"
+    ]
+},
+  "bbox": [
+    -105.567936,
+    41.300848,
+    -105.567936,
+    41.300848
+],
+  "geometry": {"coordinates":[-105.567936,41.300848],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874139663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.342195,42.834711,-106.342195,42.834711",
+    "geom:latitude":42.834711,
+    "geom:longitude":-106.342195,
+    "iso:country":"US",
+    "sg:address":"1714 Westridge Way",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 3044",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l3Ots9p2KT1GZVGgTP1JA_42.834711_-106.342195@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312232,
+    "wof:geomhash":"7736022c1b8dbc285187c4552b55ae4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874139663
+        }
+    ],
+    "wof:id":874139663,
+    "wof:lastmodified":1464312232,
+    "wof:name":"Sweet Tots",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.342195,
+    42.834711,
+    -106.342195,
+    42.834711
+],
+  "geometry": {"coordinates":[-106.342195,42.834711],"type":"Point"}
+}

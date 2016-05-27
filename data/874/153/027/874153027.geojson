@@ -1,0 +1,74 @@
+{
+  "id": 874153027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33455,42.84242,-106.33455,42.84242",
+    "geom:latitude":42.84242,
+    "geom:longitude":-106.33455,
+    "iso:country":"US",
+    "sg:address":"770 W Collins Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 6232",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n377gd40vbMeU1ePzLpIR_42.842420_-106.334550@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312356,
+    "wof:geomhash":"9730611d0194e3f711bb8c9f5d0c2621",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874153027
+        }
+    ],
+    "wof:id":874153027,
+    "wof:lastmodified":1464312356,
+    "wof:name":"American Home Inspections",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -106.33455,
+    42.84242,
+    -106.33455,
+    42.84242
+],
+  "geometry": {"coordinates":[-106.33454999999999,42.84242],"type":"Point"}
+}

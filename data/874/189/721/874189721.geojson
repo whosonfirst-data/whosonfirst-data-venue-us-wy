@@ -1,0 +1,60 @@
+{
+  "id": 874189721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.788891,41.160286,-104.788891,41.160286",
+    "geom:latitude":41.160286,
+    "geom:longitude":-104.788891,
+    "iso:country":"US",
+    "sg:address":"2106 Dell Range Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 6113",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operated",
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DlyPwYJyCFIm0569RoelV_41.160286_-104.788891@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312737,
+    "wof:geomhash":"9130705d45252ede3ab04cd338586830",
+    "wof:hierarchy":[],
+    "wof:id":874189721,
+    "wof:lastmodified":1464312737,
+    "wof:name":"Anderson Corner Car Wash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operated",
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -104.788891,
+    41.160286,
+    -104.788891,
+    41.160286
+],
+  "geometry": {"coordinates":[-104.78889100000001,41.160286],"type":"Point"}
+}

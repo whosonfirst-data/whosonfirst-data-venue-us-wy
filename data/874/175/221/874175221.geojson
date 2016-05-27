@@ -1,0 +1,71 @@
+{
+  "id": 874175221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.598471,41.271445,-105.598471,41.271445",
+    "geom:latitude":41.271445,
+    "geom:longitude":-105.598471,
+    "iso:country":"US",
+    "sg:address":"193 S Kiowa St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 2810",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c65CzPTgXZI8KszjWKFSM_41.271445_-105.598471@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312580,
+    "wof:geomhash":"f5ca14b31f81c50d538bbfda203bbd04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874175221
+        }
+    ],
+    "wof:id":874175221,
+    "wof:lastmodified":1464312580,
+    "wof:name":"Top Coat Drywall Co",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.598471,
+    41.271445,
+    -105.598471,
+    41.271445
+],
+  "geometry": {"coordinates":[-105.598471,41.271445],"type":"Point"}
+}

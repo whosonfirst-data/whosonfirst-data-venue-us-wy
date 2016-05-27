@@ -1,0 +1,56 @@
+{
+  "id": 873997485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.968217,41.760355,-108.968217,41.760355",
+    "geom:latitude":41.760355,
+    "geom:longitude":-108.968217,
+    "iso:country":"US",
+    "sg:address":"289 2nd St",
+    "sg:city":"Superior",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 8550",
+    "sg:postcode":"82945",
+    "sg:province":"WY",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j0MMfi3xHHhWBvvjsYE51_41.760355_-108.968217@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310743,
+    "wof:geomhash":"ed08b02950d78f5883cf43d8907cf707",
+    "wof:hierarchy":[],
+    "wof:id":873997485,
+    "wof:lastmodified":1464310743,
+    "wof:name":"Superior Welding & Technical",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -108.968217,
+    41.760355,
+    -108.968217,
+    41.760355
+],
+  "geometry": {"coordinates":[-108.968217,41.760355],"type":"Point"}
+}

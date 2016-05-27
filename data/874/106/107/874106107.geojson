@@ -1,0 +1,71 @@
+{
+  "id": 874106107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.289709,42.852419,-106.289709,42.852419",
+    "geom:latitude":42.852419,
+    "geom:longitude":-106.289709,
+    "iso:country":"US",
+    "sg:address":"339 N Iowa Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0599",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50JWhbn5WAtTzydvNmqM7B_42.852419_-106.289709@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311869,
+    "wof:geomhash":"fde4c337f81cccc18c74f135fb811f23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874106107
+        }
+    ],
+    "wof:id":874106107,
+    "wof:lastmodified":1464311869,
+    "wof:name":"Paint Masters",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.289709,
+    42.852419,
+    -106.289709,
+    42.852419
+],
+  "geometry": {"coordinates":[-106.289709,42.852419],"type":"Point"}
+}

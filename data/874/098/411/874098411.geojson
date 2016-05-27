@@ -1,0 +1,58 @@
+{
+  "id": 874098411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.829286,41.135292,-104.829286,41.135292",
+    "geom:latitude":41.135292,
+    "geom:longitude":-104.829286,
+    "iso:country":"US",
+    "sg:address":"1014 W 23rd St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 6095",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aFhyRl5jsov7SnERGUyOO_41.135292_-104.829286@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311762,
+    "wof:geomhash":"8885fbeffb42d595cd989ab7c32f9e54",
+    "wof:hierarchy":[],
+    "wof:id":874098411,
+    "wof:lastmodified":1464311762,
+    "wof:name":"Red River Svc Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -104.829286,
+    41.135292,
+    -104.829286,
+    41.135292
+],
+  "geometry": {"coordinates":[-104.829286,41.135292],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874189923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.746058,44.752239,-108.746058,44.752239",
+    "geom:latitude":44.752239,
+    "geom:longitude":-108.746058,
+    "iso:country":"US",
+    "sg:address":"925 E Washington St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 7972",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mzIshoD2ko9dmhN2XZpSF_44.752239_-108.746058@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312739,
+    "wof:geomhash":"4a7365d27b20098b1cca08070f97dd5e",
+    "wof:hierarchy":[],
+    "wof:id":874189923,
+    "wof:lastmodified":1464312739,
+    "wof:name":"Sheridan Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.746058,
+    44.752239,
+    -108.746058,
+    44.752239
+],
+  "geometry": {"coordinates":[-108.746058,44.752239],"type":"Point"}
+}

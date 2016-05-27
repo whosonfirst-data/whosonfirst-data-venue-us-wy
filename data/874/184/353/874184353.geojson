@@ -1,0 +1,63 @@
+{
+  "id": 874184353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.808338,41.122116,-104.808338,41.122116",
+    "geom:latitude":41.122116,
+    "geom:longitude":-104.808338,
+    "iso:country":"US",
+    "sg:address":"100 W 4th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 432 9888",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40TL1zZiIzjF2fzvLtNIoN_41.122116_-104.808338@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312682,
+    "wof:geomhash":"6c86bd1c559caa3a17d5aeb18041d591",
+    "wof:hierarchy":[],
+    "wof:id":874184353,
+    "wof:lastmodified":1464312682,
+    "wof:name":"Drug and Alcohol Testing Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -104.808338,
+    41.122116,
+    -104.808338,
+    41.122116
+],
+  "geometry": {"coordinates":[-104.80833800000001,41.122116],"type":"Point"}
+}

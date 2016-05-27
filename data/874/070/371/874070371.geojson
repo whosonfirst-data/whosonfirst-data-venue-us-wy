@@ -1,0 +1,51 @@
+{
+  "id": 874070371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.4941,44.289329,-105.4941,44.289329",
+    "geom:latitude":44.289329,
+    "geom:longitude":-105.4941,
+    "iso:country":"US",
+    "sg:address":"600 S Douglas Hwy",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 9209",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bFhWRLtbGcxmPfgXJcuv7_44.289329_-105.494100@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311435,
+    "wof:geomhash":"66a244142b276d0b740158446be666bd",
+    "wof:hierarchy":[],
+    "wof:id":874070371,
+    "wof:lastmodified":1464311435,
+    "wof:name":"Pat's Liquors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.4941,
+    44.289329,
+    -105.4941,
+    44.289329
+],
+  "geometry": {"coordinates":[-105.4941,44.289329],"type":"Point"}
+}

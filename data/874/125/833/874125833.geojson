@@ -1,0 +1,56 @@
+{
+  "id": 874125833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.846123,43.502649,-110.846123,43.502649",
+    "geom:latitude":43.502649,
+    "geom:longitude":-110.846123,
+    "iso:country":"US",
+    "sg:address":"1755 Moose Wilson Rd",
+    "sg:city":"Wilson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 4331",
+    "sg:postcode":"83014",
+    "sg:province":"WY",
+    "sg:tags":[
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h076T2FF0JLyuIenfD0Yt_43.502649_-110.846123@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312093,
+    "wof:geomhash":"71c5c3bc98ece12663fa3dbba7d41608",
+    "wof:hierarchy":[],
+    "wof:id":874125833,
+    "wof:lastmodified":1464312093,
+    "wof:name":"Rabbit Row Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake"
+    ]
+},
+  "bbox": [
+    -110.846123,
+    43.502649,
+    -110.846123,
+    43.502649
+],
+  "geometry": {"coordinates":[-110.84612300000001,43.502649],"type":"Point"}
+}

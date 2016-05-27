@@ -1,0 +1,71 @@
+{
+  "id": 874010973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.308273,42.850882,-106.308273,42.850882",
+    "geom:latitude":42.850882,
+    "geom:longitude":-106.308273,
+    "iso:country":"US",
+    "sg:address":"142 N Melrose St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 2124",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dJkGrtYQoB5FWl0CZPRzj_42.850882_-106.308273@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310862,
+    "wof:geomhash":"2ae1588323d3f68036f41bcd4340ddc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874010973
+        }
+    ],
+    "wof:id":874010973,
+    "wof:lastmodified":1464310862,
+    "wof:name":"A Therapeutic Touch",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -106.308273,
+    42.850882,
+    -106.308273,
+    42.850882
+],
+  "geometry": {"coordinates":[-106.308273,42.850882],"type":"Point"}
+}

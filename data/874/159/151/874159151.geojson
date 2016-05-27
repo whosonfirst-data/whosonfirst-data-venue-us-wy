@@ -1,0 +1,63 @@
+{
+  "id": 874159151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.380655,43.016982,-108.380655,43.016982",
+    "geom:latitude":43.016982,
+    "geom:longitude":-108.380655,
+    "iso:country":"US",
+    "sg:address":"910 S Federal Blvd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 4652",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "drinking",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tv43Vw0jKxSCaak9Bv0wG_43.016982_-108.380655@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312423,
+    "wof:geomhash":"fd9d1f93ed8adbf9350697e6559a0462",
+    "wof:hierarchy":[],
+    "wof:id":874159151,
+    "wof:lastmodified":1464312423,
+    "wof:name":"River City Bar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -108.380655,
+    43.016982,
+    -108.380655,
+    43.016982
+],
+  "geometry": {"coordinates":[-108.380655,43.016982],"type":"Point"}
+}

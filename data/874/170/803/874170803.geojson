@@ -1,0 +1,73 @@
+{
+  "id": 874170803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.561296,41.30689,-105.561296,41.30689",
+    "geom:latitude":41.30689,
+    "geom:longitude":-105.561296,
+    "iso:country":"US",
+    "sg:address":"604 S 25th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 0596",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rg0qfTFwclFsaob6KwrlV_41.306890_-105.561296@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312535,
+    "wof:geomhash":"779c8d04c5081755b257796ce15dc757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874170803
+        }
+    ],
+    "wof:id":874170803,
+    "wof:lastmodified":1464312535,
+    "wof:name":"Universal Electric Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.561296,
+    41.30689,
+    -105.561296,
+    41.30689
+],
+  "geometry": {"coordinates":[-105.561296,41.30689],"type":"Point"}
+}

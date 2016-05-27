@@ -1,0 +1,56 @@
+{
+  "id": 874051373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.748593,43.372776,-110.748593,43.372776",
+    "geom:latitude":43.372776,
+    "geom:longitude":-110.748593,
+    "iso:country":"US",
+    "sg:address":"1040 Evans Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 3869",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53Aje4V1U6RBbuKgbBLxHT_43.372776_-110.748593@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311253,
+    "wof:geomhash":"c23205d2493f858993c0bc5cdf69c0e9",
+    "wof:hierarchy":[],
+    "wof:id":874051373,
+    "wof:lastmodified":1464311253,
+    "wof:name":"Highway Patrol",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -110.748593,
+    43.372776,
+    -110.748593,
+    43.372776
+],
+  "geometry": {"coordinates":[-110.748593,43.372776],"type":"Point"}
+}

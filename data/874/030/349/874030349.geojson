@@ -1,0 +1,69 @@
+{
+  "id": 874030349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.326502,42.848607,-106.326502,42.848607",
+    "geom:latitude":42.848607,
+    "geom:longitude":-106.326502,
+    "iso:country":"US",
+    "sg:address":"109 W 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0021",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R9cHdISqumQRhSMjFAiDm_42.848607_-106.326502@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311051,
+    "wof:geomhash":"e423f947b44b61148fa44b1b44e488f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874030349
+        }
+    ],
+    "wof:id":874030349,
+    "wof:lastmodified":1464311051,
+    "wof:name":"Cowboy State Mortgage",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -106.326502,
+    42.848607,
+    -106.326502,
+    42.848607
+],
+  "geometry": {"coordinates":[-106.326502,42.848607],"type":"Point"}
+}

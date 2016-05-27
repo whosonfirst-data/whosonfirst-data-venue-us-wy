@@ -1,0 +1,71 @@
+{
+  "id": 874042847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.331029,42.800611,-106.331029,42.800611",
+    "geom:latitude":42.800611,
+    "geom:longitude":-106.331029,
+    "iso:country":"US",
+    "sg:address":"5511 S Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 6257",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ujqJj1fqe4tChMsHMqeuN_42.800611_-106.331029@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311173,
+    "wof:geomhash":"817afa26a42169ae4b4d60577701c6b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874042847
+        }
+    ],
+    "wof:id":874042847,
+    "wof:lastmodified":1464311173,
+    "wof:name":"Casper Crushers Baseball",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -106.331029,
+    42.800611,
+    -106.331029,
+    42.800611
+],
+  "geometry": {"coordinates":[-106.331029,42.800611],"type":"Point"}
+}

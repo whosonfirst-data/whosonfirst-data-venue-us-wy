@@ -1,0 +1,56 @@
+{
+  "id": 874158373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.26409,44.87378,-107.26409,44.87378",
+    "geom:latitude":44.87378,
+    "geom:longitude":-107.26409,
+    "iso:country":"US",
+    "sg:address":"710 Bridge St",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 655 2504",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NK9R0Pov4KDehY7pnewaY_44.873780_-107.264090@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312411,
+    "wof:geomhash":"e1431e4aee351e48d37e8b16faec37b6",
+    "wof:hierarchy":[],
+    "wof:id":874158373,
+    "wof:lastmodified":1464312411,
+    "wof:name":"Dayton Community Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -107.26409,
+    44.87378,
+    -107.26409,
+    44.87378
+],
+  "geometry": {"coordinates":[-107.26409,44.87378],"type":"Point"}
+}

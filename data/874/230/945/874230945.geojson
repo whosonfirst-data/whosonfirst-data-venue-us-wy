@@ -1,0 +1,72 @@
+{
+  "id": 874230945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.333935,42.850504,-106.333935,42.850504",
+    "geom:latitude":42.850504,
+    "geom:longitude":-106.333935,
+    "iso:country":"US",
+    "sg:address":"900 Pronghorn St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/casper/155298-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 5544",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C1kCuJvYZbh8rF8Xf3RPg_42.850971_-106.333967@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313174,
+    "wof:geomhash":"f05e366ff84c416dc182197ce86ff8f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874230945
+        }
+    ],
+    "wof:id":874230945,
+    "wof:lastmodified":1464313174,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -106.333935,
+    42.850504,
+    -106.333935,
+    42.850504
+],
+  "geometry": {"coordinates":[-106.333935,42.850504],"type":"Point"}
+}

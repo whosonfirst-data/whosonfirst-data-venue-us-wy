@@ -1,0 +1,71 @@
+{
+  "id": 874012559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594875,41.300137,-105.594875,41.300137",
+    "geom:latitude":41.300137,
+    "geom:longitude":-105.594875,
+    "iso:country":"US",
+    "sg:address":"1508 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 3903",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ACfDmzc5sDC6ma9ogRXEx_41.300137_-105.594875@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310873,
+    "wof:geomhash":"c9c5ff2e16659866ce58cd7e84e5783d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874012559
+        }
+    ],
+    "wof:id":874012559,
+    "wof:lastmodified":1464310873,
+    "wof:name":"Wes Moser & Sons",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -105.594875,
+    41.300137,
+    -105.594875,
+    41.300137
+],
+  "geometry": {"coordinates":[-105.594875,41.300137],"type":"Point"}
+}

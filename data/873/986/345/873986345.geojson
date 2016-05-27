@@ -1,0 +1,64 @@
+{
+  "id": 873986345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.40718,42.827339,-106.40718,42.827339",
+    "geom:latitude":42.827339,
+    "geom:longitude":-106.40718,
+    "iso:country":"US",
+    "sg:address":"2178 Sunflower St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 6495",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Zq0RVjetaJDvPdBJZrJSq_42.827339_-106.407180@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310664,
+    "wof:geomhash":"0069823174d4db0f356d93b5a02904b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873986345
+        }
+    ],
+    "wof:id":873986345,
+    "wof:lastmodified":1464310664,
+    "wof:name":"Quality Insurance",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.40718,
+    42.827339,
+    -106.40718,
+    42.827339
+],
+  "geometry": {"coordinates":[-106.40718,42.827339],"type":"Point"}
+}

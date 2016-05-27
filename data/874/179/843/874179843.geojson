@@ -1,0 +1,58 @@
+{
+  "id": 874179843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.95876,42.04519,-104.95876,42.04519",
+    "geom:latitude":42.04519,
+    "geom:longitude":-104.95876,
+    "iso:country":"US",
+    "sg:address":"1257 Cole St",
+    "sg:city":"Wheatland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 322 3052",
+    "sg:postcode":"82201",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GdL7eWAtIqupiQPPO2npX_42.045190_-104.958760@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312628,
+    "wof:geomhash":"0ec928d30b5d16e906bb073cd691cf73",
+    "wof:hierarchy":[],
+    "wof:id":874179843,
+    "wof:lastmodified":1464312628,
+    "wof:name":"National Guard",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -104.95876,
+    42.04519,
+    -104.95876,
+    42.04519
+],
+  "geometry": {"coordinates":[-104.95876,42.04519],"type":"Point"}
+}

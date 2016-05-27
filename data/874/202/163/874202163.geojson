@@ -1,0 +1,71 @@
+{
+  "id": 874202163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33946,42.830962,-106.33946,42.830962",
+    "geom:latitude":42.830962,
+    "geom:longitude":-106.33946,
+    "iso:country":"US",
+    "sg:address":"1146 W 20th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 3127",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73gEo8uTfvhyPm93tuTTN0_42.830962_-106.339460@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312865,
+    "wof:geomhash":"63056272e267bcb669bb861baecf64e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874202163
+        }
+    ],
+    "wof:id":874202163,
+    "wof:lastmodified":1464312865,
+    "wof:name":"Whitys Car Hauling",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -106.33946,
+    42.830962,
+    -106.33946,
+    42.830962
+],
+  "geometry": {"coordinates":[-106.33946,42.830962],"type":"Point"}
+}

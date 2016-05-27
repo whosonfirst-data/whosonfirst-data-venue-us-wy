@@ -1,0 +1,56 @@
+{
+  "id": 874038361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.579902,44.462357,-109.579902,44.462357",
+    "geom:latitude":44.462357,
+    "geom:longitude":-109.579902,
+    "iso:country":"US",
+    "sg:address":"2285 N Fork Hwy",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 3925",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t8rmw8ao3FBfdF8vakSzD_44.462357_-109.579902@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311129,
+    "wof:geomhash":"a4ed88cb924d970cf606ae8b643844e8",
+    "wof:hierarchy":[],
+    "wof:id":874038361,
+    "wof:lastmodified":1464311129,
+    "wof:name":"US Forest Svc Ranger Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government"
+    ]
+},
+  "bbox": [
+    -109.579902,
+    44.462357,
+    -109.579902,
+    44.462357
+],
+  "geometry": {"coordinates":[-109.579902,44.462357],"type":"Point"}
+}

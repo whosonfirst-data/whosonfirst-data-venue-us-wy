@@ -1,0 +1,56 @@
+{
+  "id": 874097599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.751061,44.751355,-108.751061,44.751355",
+    "geom:latitude":44.751355,
+    "geom:longitude":-108.751061,
+    "iso:country":"US",
+    "sg:address":"717 E South St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 4164",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0spdkR42h6xBQ2ftqsFJ5C_44.751355_-108.751061@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311751,
+    "wof:geomhash":"e40eed906bf1f948fd8bc8836dbdc85e",
+    "wof:hierarchy":[],
+    "wof:id":874097599,
+    "wof:lastmodified":1464311751,
+    "wof:name":"Body Massage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -108.751061,
+    44.751355,
+    -108.751061,
+    44.751355
+],
+  "geometry": {"coordinates":[-108.75106100000001,44.751355],"type":"Point"}
+}

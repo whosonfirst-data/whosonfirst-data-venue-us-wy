@@ -1,0 +1,58 @@
+{
+  "id": 874205039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.06543,44.54185,-109.06543,44.54185",
+    "geom:latitude":44.54185,
+    "geom:longitude":-109.06543,
+    "iso:country":"US",
+    "sg:address":"26 Pearson Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 7813",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QgWBwYF6xLF1GWj3l0L5N_44.541850_-109.065430@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312895,
+    "wof:geomhash":"7faecb565e56e028533fd634f77aeee4",
+    "wof:hierarchy":[],
+    "wof:id":874205039,
+    "wof:lastmodified":1464312895,
+    "wof:name":"Miner Mini-Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -109.06543,
+    44.54185,
+    -109.06543,
+    44.54185
+],
+  "geometry": {"coordinates":[-109.06543000000001,44.54185],"type":"Point"}
+}

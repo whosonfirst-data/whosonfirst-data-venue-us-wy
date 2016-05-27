@@ -1,0 +1,58 @@
+{
+  "id": 874116227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.809104,41.121003,-104.809104,41.121003",
+    "geom:latitude":41.121003,
+    "geom:longitude":-104.809104,
+    "iso:country":"US",
+    "sg:address":"222 Deming Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 1327",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PXcEGV52pajO5XtNGUWsT_41.121003_-104.809104@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311999,
+    "wof:geomhash":"4f81501bd831f7b74fe26215083c3ffd",
+    "wof:hierarchy":[],
+    "wof:id":874116227,
+    "wof:lastmodified":1464311999,
+    "wof:name":"Blts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -104.809104,
+    41.121003,
+    -104.809104,
+    41.121003
+],
+  "geometry": {"coordinates":[-104.809104,41.121003],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874203937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.101371,41.155066,-104.101371,41.155066",
+    "geom:latitude":41.155066,
+    "geom:longitude":-104.101371,
+    "iso:country":"US",
+    "sg:address":"1067 Co Rd 162",
+    "sg:city":"Pine Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 245 3145",
+    "sg:postcode":"82082",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RAU5HGPlilX8IgyOHlIqd_41.155066_-104.101371@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312883,
+    "wof:geomhash":"deb8300d5eee15daed5ba97126604982",
+    "wof:hierarchy":[],
+    "wof:id":874203937,
+    "wof:lastmodified":1464312883,
+    "wof:name":"Smock Trucking LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -104.101371,
+    41.155066,
+    -104.101371,
+    41.155066
+],
+  "geometry": {"coordinates":[-104.101371,41.155066],"type":"Point"}
+}

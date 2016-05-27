@@ -1,0 +1,57 @@
+{
+  "id": 874001161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.820932,41.13284,-104.820932,41.13284",
+    "geom:latitude":41.13284,
+    "geom:longitude":-104.820932,
+    "iso:country":"US",
+    "sg:address":"500 W 18th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 7647",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.mkkeng.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73Iybrx1MqORIFhbi7YxCx_41.132840_-104.820932@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310768,
+    "wof:geomhash":"668aab645fc05a21ac0a76ffc44794d8",
+    "wof:hierarchy":[],
+    "wof:id":874001161,
+    "wof:lastmodified":1464310768,
+    "wof:name":"MKK",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -104.820932,
+    41.13284,
+    -104.820932,
+    41.13284
+],
+  "geometry": {"coordinates":[-104.820932,41.13284],"type":"Point"}
+}

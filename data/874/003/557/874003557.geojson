@@ -1,0 +1,69 @@
+{
+  "id": 874003557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.326544,42.851024,-106.326544,42.851024",
+    "geom:latitude":42.851024,
+    "geom:longitude":-106.326544,
+    "iso:country":"US",
+    "sg:address":"200 N David St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 8400",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jOHnIawRkMr7A7G4VUf8e_42.851024_-106.326544@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310798,
+    "wof:geomhash":"a77a78bbcf76f34c6c8e5546225756a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874003557
+        }
+    ],
+    "wof:id":874003557,
+    "wof:lastmodified":1464310798,
+    "wof:name":"City of Casper",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -106.326544,
+    42.851024,
+    -106.326544,
+    42.851024
+],
+  "geometry": {"coordinates":[-106.326544,42.851024],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874154901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.822522,41.759449,-104.822522,41.759449",
+    "geom:latitude":41.759449,
+    "geom:longitude":-104.822522,
+    "iso:country":"US",
+    "sg:address":"313 4th St",
+    "sg:city":"Chugwater",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 422 3504",
+    "sg:postcode":"82210",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EfgfdHoVtE7sLVqNzWHwa_41.759449_-104.822522@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312376,
+    "wof:geomhash":"bf8f0661047eff0ec63145f78ce3a416",
+    "wof:hierarchy":[],
+    "wof:id":874154901,
+    "wof:lastmodified":1464312376,
+    "wof:name":"Chugwater Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -104.822522,
+    41.759449,
+    -104.822522,
+    41.759449
+],
+  "geometry": {"coordinates":[-104.82252200000001,41.759449],"type":"Point"}
+}

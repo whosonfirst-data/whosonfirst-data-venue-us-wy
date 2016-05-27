@@ -1,0 +1,58 @@
+{
+  "id": 874214471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.95454,44.79725,-106.95454,44.79725",
+    "geom:latitude":44.79725,
+    "geom:longitude":-106.95454,
+    "iso:country":"US",
+    "sg:address":"101 E Loucks St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 0713",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O8VPyj7aQTehHtqiPDjps_44.797250_-106.954540@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312999,
+    "wof:geomhash":"7162bd33fc43f03ae60a20d756c6db1b",
+    "wof:hierarchy":[],
+    "wof:id":874214471,
+    "wof:lastmodified":1464312999,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -106.95454,
+    44.79725,
+    -106.95454,
+    44.79725
+],
+  "geometry": {"coordinates":[-106.95453999999999,44.79725],"type":"Point"}
+}

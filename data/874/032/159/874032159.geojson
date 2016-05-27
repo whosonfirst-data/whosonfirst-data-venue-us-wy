@@ -1,0 +1,62 @@
+{
+  "id": 874032159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.52501,44.29667,-105.52501,44.29667",
+    "geom:latitude":44.29667,
+    "geom:longitude":-105.52501,
+    "iso:country":"US",
+    "sg:address":"1501 Echeta Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 0160",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PLpaxGzVDSGT7PqXXs8Q8_44.296670_-105.525010@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311067,
+    "wof:geomhash":"6e2042eaba8919d86d9c7d8b0b90f4c1",
+    "wof:hierarchy":[],
+    "wof:id":874032159,
+    "wof:lastmodified":1464311067,
+    "wof:name":"Frank's Alignment",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -105.52501,
+    44.29667,
+    -105.52501,
+    44.29667
+],
+  "geometry": {"coordinates":[-105.52500999999999,44.29667],"type":"Point"}
+}

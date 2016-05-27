@@ -1,0 +1,69 @@
+{
+  "id": 874181431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.325244,42.851932,-106.325244,42.851932",
+    "geom:latitude":42.851932,
+    "geom:longitude":-106.325244,
+    "iso:country":"US",
+    "sg:address":"254 N Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 4441",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hd9t9ZyDMT18E99mCpOVj_42.851932_-106.325244@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312645,
+    "wof:geomhash":"75be0ebae48f496b7ddf4736dea00483",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874181431
+        }
+    ],
+    "wof:id":874181431,
+    "wof:lastmodified":1464312645,
+    "wof:name":"Mark E Drury Law Offices",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -106.325244,
+    42.851932,
+    -106.325244,
+    42.851932
+],
+  "geometry": {"coordinates":[-106.325244,42.851932],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874179943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.399326,42.82648,-106.399326,42.82648",
+    "geom:latitude":42.82648,
+    "geom:longitude":-106.399326,
+    "iso:country":"US",
+    "sg:address":"23 Begonia St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2855",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UXSxEBhbQrOFa9bRfDA8P_42.826480_-106.399326@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312629,
+    "wof:geomhash":"9ade8decd3cbf52109407440d4271ed2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874179943
+        }
+    ],
+    "wof:id":874179943,
+    "wof:lastmodified":1464312629,
+    "wof:name":"Magnum Construction",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.399326,
+    42.82648,
+    -106.399326,
+    42.82648
+],
+  "geometry": {"coordinates":[-106.399326,42.82648],"type":"Point"}
+}

@@ -1,0 +1,51 @@
+{
+  "id": 874181549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.744886,42.838203,-108.744886,42.838203",
+    "geom:latitude":42.838203,
+    "geom:longitude":-108.744886,
+    "iso:country":"US",
+    "sg:address":"155 W Main St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 3158",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xS3DjfQKbJqHkhQRhjASG_42.838203_-108.744886@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312647,
+    "wof:geomhash":"929dc229ca640b7ca29aaac18a49311f",
+    "wof:hierarchy":[],
+    "wof:id":874181549,
+    "wof:lastmodified":1464312647,
+    "wof:name":"Good Place",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.744886,
+    42.838203,
+    -108.744886,
+    42.838203
+],
+  "geometry": {"coordinates":[-108.74488599999999,42.838203],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874115921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.30817,42.8245,-106.30817,42.8245",
+    "geom:latitude":42.8245,
+    "geom:longitude":-106.30817,
+    "iso:country":"US",
+    "sg:address":"2401 S Lennox Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 232 8376",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "motion"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dfe7dnNfijQ2cs3f4e4td_42.824500_-106.308170@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311996,
+    "wof:geomhash":"0859fe49917eea38f464ddac2fd24b44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874115921
+        }
+    ],
+    "wof:id":874115921,
+    "wof:lastmodified":1464311996,
+    "wof:name":"Dreamland Productions LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion"
+    ]
+},
+  "bbox": [
+    -106.30817,
+    42.8245,
+    -106.30817,
+    42.8245
+],
+  "geometry": {"coordinates":[-106.30817,42.8245],"type":"Point"}
+}

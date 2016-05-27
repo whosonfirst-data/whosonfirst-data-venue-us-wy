@@ -1,0 +1,56 @@
+{
+  "id": 874188321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.641612,43.537816,-109.641612,43.537816",
+    "geom:latitude":43.537816,
+    "geom:longitude":-109.641612,
+    "iso:country":"US",
+    "sg:address":"712 Meckem St",
+    "sg:city":"Dubois",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 455 2288",
+    "sg:postcode":"82513",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JYD9e6TZu2msAXaS1Wmgm_43.537816_-109.641612@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312723,
+    "wof:geomhash":"39a7ae87e52beb153927b50ab3d20add",
+    "wof:hierarchy":[],
+    "wof:id":874188321,
+    "wof:lastmodified":1464312723,
+    "wof:name":"Highway Patrol",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -109.641612,
+    43.537816,
+    -109.641612,
+    43.537816
+],
+  "geometry": {"coordinates":[-109.64161199999999,43.537816],"type":"Point"}
+}

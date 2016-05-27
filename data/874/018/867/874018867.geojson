@@ -1,0 +1,71 @@
+{
+  "id": 874018867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.317282,42.848855,-106.317282,42.848855",
+    "geom:latitude":42.848855,
+    "geom:longitude":-106.317282,
+    "iso:country":"US",
+    "sg:address":"642 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 9159",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "stereo",
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ytY3p5q3GfTkqW0oVcQEZ_42.848855_-106.317282@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310936,
+    "wof:geomhash":"59aca0afb13658364a6f194be223bdba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874018867
+        }
+    ],
+    "wof:id":874018867,
+    "wof:lastmodified":1464310936,
+    "wof:name":"Letz Radio Supply",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stereo",
+        "television"
+    ]
+},
+  "bbox": [
+    -106.317282,
+    42.848855,
+    -106.317282,
+    42.848855
+],
+  "geometry": {"coordinates":[-106.31728200000001,42.848855],"type":"Point"}
+}

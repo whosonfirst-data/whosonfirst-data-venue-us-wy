@@ -1,0 +1,64 @@
+{
+  "id": 874086495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.29342,42.848845,-106.29342,42.848845",
+    "geom:latitude":42.848845,
+    "geom:longitude":-106.29342,
+    "iso:country":"US",
+    "sg:address":"2546 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1110",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JCAxshKBaMBQCdMPfD9tR_42.848845_-106.293420@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311625,
+    "wof:geomhash":"2d353e68c556d3001c98d475e3e72a68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874086495
+        }
+    ],
+    "wof:id":874086495,
+    "wof:lastmodified":1464311625,
+    "wof:name":"Urgent Care",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.29342,
+    42.848845,
+    -106.29342,
+    42.848845
+],
+  "geometry": {"coordinates":[-106.29342,42.848845],"type":"Point"}
+}

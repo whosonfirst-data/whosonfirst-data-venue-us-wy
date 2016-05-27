@@ -1,0 +1,58 @@
+{
+  "id": 874072027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.749912,43.479009,-110.749912,43.479009",
+    "geom:latitude":43.479009,
+    "geom:longitude":-110.749912,
+    "iso:country":"US",
+    "sg:address":"62 Redmond St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 734 1313",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LdTNbicQI0FfndmapDfdD_43.479009_-110.749912@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311462,
+    "wof:geomhash":"565f9b6a35b370a321b45c2fc7fd9f06",
+    "wof:hierarchy":[],
+    "wof:id":874072027,
+    "wof:lastmodified":1464311462,
+    "wof:name":"Womens Health Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -110.749912,
+    43.479009,
+    -110.749912,
+    43.479009
+],
+  "geometry": {"coordinates":[-110.74991199999999,43.479009],"type":"Point"}
+}

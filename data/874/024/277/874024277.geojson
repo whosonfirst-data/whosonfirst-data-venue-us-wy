@@ -1,0 +1,73 @@
+{
+  "id": 874024277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591102,41.322705,-105.591102,41.322705",
+    "geom:latitude":41.322705,
+    "geom:longitude":-105.591102,
+    "iso:country":"US",
+    "sg:address":"1152 N 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3211",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "institution",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o0tjuqRX5lgvvc2CMYGsV_41.322705_-105.591102@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310986,
+    "wof:geomhash":"9e58db0d8d410c743c47503de0b6e471",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874024277
+        }
+    ],
+    "wof:id":874024277,
+    "wof:lastmodified":1464310986,
+    "wof:name":"B & R Check Holders",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "institution",
+        "business"
+    ]
+},
+  "bbox": [
+    -105.591102,
+    41.322705,
+    -105.591102,
+    41.322705
+],
+  "geometry": {"coordinates":[-105.59110200000001,41.322705],"type":"Point"}
+}

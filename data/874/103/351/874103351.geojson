@@ -1,0 +1,64 @@
+{
+  "id": 874103351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.346605,42.824074,-106.346605,42.824074",
+    "geom:latitude":42.824074,
+    "geom:longitude":-106.346605,
+    "iso:country":"US",
+    "sg:address":"2701 Belmont Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 1873",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aJvfRYoOLg0kGj7lSVOaq_42.824074_-106.346605@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311836,
+    "wof:geomhash":"d1f0652dfd8d3dd3f0d18a1516216c32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874103351
+        }
+    ],
+    "wof:id":874103351,
+    "wof:lastmodified":1464311836,
+    "wof:name":"Latimer Enterprises LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.346605,
+    42.824074,
+    -106.346605,
+    42.824074
+],
+  "geometry": {"coordinates":[-106.346605,42.824074],"type":"Point"}
+}

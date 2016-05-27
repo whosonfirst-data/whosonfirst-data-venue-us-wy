@@ -1,0 +1,60 @@
+{
+  "id": 874066033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.350127,44.671783,-105.350127,44.671783",
+    "geom:latitude":44.671783,
+    "geom:longitude":-105.350127,
+    "iso:country":"US",
+    "sg:address":"14742 State Hwy 59",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 2842",
+    "sg:postcode":"82731",
+    "sg:province":"WY",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ycuRZuaxVjCD0njabqVRd_44.671783_-105.350127@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311389,
+    "wof:geomhash":"36fae862795a62417f84468c0870edc1",
+    "wof:hierarchy":[],
+    "wof:id":874066033,
+    "wof:lastmodified":1464311389,
+    "wof:name":"Smith Ranch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -105.350127,
+    44.671783,
+    -105.350127,
+    44.671783
+],
+  "geometry": {"coordinates":[-105.350127,44.671783],"type":"Point"}
+}

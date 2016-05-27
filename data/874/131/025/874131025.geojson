@@ -1,0 +1,58 @@
+{
+  "id": 874131025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.376909,43.010207,-108.376909,43.010207",
+    "geom:latitude":43.010207,
+    "geom:longitude":-108.376909,
+    "iso:country":"US",
+    "sg:address":"10651 Hwy 789",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 857 2802",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pKcudFO8WcxG4KAYLxFwt_43.010207_-108.376909@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312150,
+    "wof:geomhash":"c95192d2e00f78b91eb60efc7e5ce050",
+    "wof:hierarchy":[],
+    "wof:id":874131025,
+    "wof:lastmodified":1464312150,
+    "wof:name":"Wyoming Rents",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -108.376909,
+    43.010207,
+    -108.376909,
+    43.010207
+],
+  "geometry": {"coordinates":[-108.376909,43.010207],"type":"Point"}
+}

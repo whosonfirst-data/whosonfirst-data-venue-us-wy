@@ -1,0 +1,69 @@
+{
+  "id": 874036869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.304542,42.854747,-106.304542,42.854747",
+    "geom:latitude":42.854747,
+    "geom:longitude":-106.304542,
+    "iso:country":"US",
+    "sg:address":"459 N Fenway St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 2459",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "glass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AD12LiHxiyP791fASxzOg_42.854747_-106.304542@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311115,
+    "wof:geomhash":"7d0c4b95e51871ee47ec145a8e16cff4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874036869
+        }
+    ],
+    "wof:id":874036869,
+    "wof:lastmodified":1464311115,
+    "wof:name":"Happy Glass",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass"
+    ]
+},
+  "bbox": [
+    -106.304542,
+    42.854747,
+    -106.304542,
+    42.854747
+],
+  "geometry": {"coordinates":[-106.304542,42.854747],"type":"Point"}
+}

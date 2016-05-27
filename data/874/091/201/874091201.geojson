@@ -1,0 +1,56 @@
+{
+  "id": 874091201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.829134,41.12875,-104.829134,41.12875",
+    "geom:latitude":41.12875,
+    "geom:longitude":-104.829134,
+    "iso:country":"US",
+    "sg:address":"1322 W 17th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 433 9416",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hNxHK0ZzOSxjdgIXvo50J_41.128750_-104.829134@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311678,
+    "wof:geomhash":"1c5a41be30bd734b90a69d5f78ccc3d3",
+    "wof:hierarchy":[],
+    "wof:id":874091201,
+    "wof:lastmodified":1464311678,
+    "wof:name":"Clean Start",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -104.829134,
+    41.12875,
+    -104.829134,
+    41.12875
+],
+  "geometry": {"coordinates":[-104.829134,41.12875],"type":"Point"}
+}

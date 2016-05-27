@@ -1,0 +1,75 @@
+{
+  "id": 874128239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592937,41.302563,-105.592937,41.302563",
+    "geom:latitude":41.302563,
+    "geom:longitude":-105.592937,
+    "iso:country":"US",
+    "sg:address":"421 E Fetterman St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4656",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ejM5tS5iYFEXkUElZr3af_41.302563_-105.592937@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312113,
+    "wof:geomhash":"1f418dc3290aa4ee9f8fc6e96c5d0eb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874128239
+        }
+    ],
+    "wof:id":874128239,
+    "wof:lastmodified":1464312113,
+    "wof:name":"Laramie Glass",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -105.592937,
+    41.302563,
+    -105.592937,
+    41.302563
+],
+  "geometry": {"coordinates":[-105.59293700000001,41.302563],"type":"Point"}
+}

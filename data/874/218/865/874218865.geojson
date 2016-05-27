@@ -1,0 +1,69 @@
+{
+  "id": 874218865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.366286,42.822674,-106.366286,42.822674",
+    "geom:latitude":42.822674,
+    "geom:longitude":-106.366286,
+    "iso:country":"US",
+    "sg:address":"3930 Denis Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 3254",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fGrICpCgaSakGKpa6hCK1_42.822674_-106.366286@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313042,
+    "wof:geomhash":"448055cfde079f2289c26c96baa89bed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874218865
+        }
+    ],
+    "wof:id":874218865,
+    "wof:lastmodified":1464313042,
+    "wof:name":"Shell",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.366286,
+    42.822674,
+    -106.366286,
+    42.822674
+],
+  "geometry": {"coordinates":[-106.366286,42.822674],"type":"Point"}
+}

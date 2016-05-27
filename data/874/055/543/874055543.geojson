@@ -1,0 +1,71 @@
+{
+  "id": 874055543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.469195,41.516974,-109.469195,41.516974",
+    "geom:latitude":41.516974,
+    "geom:longitude":-109.469195,
+    "iso:country":"US",
+    "sg:address":"329 Uinta Dr",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 9255",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plant",
+        "fiber",
+        "commercial",
+        "t",
+        "finishing",
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Tz3wmg6Hq7MkVwDVQYtAS_41.516974_-109.469195@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311296,
+    "wof:geomhash":"5100118faf516de854e07a960bbbb50c",
+    "wof:hierarchy":[],
+    "wof:id":874055543,
+    "wof:lastmodified":1464311296,
+    "wof:name":"PMS Custom Screen Printing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "fiber",
+        "commercial",
+        "t",
+        "finishing",
+        "silk"
+    ]
+},
+  "bbox": [
+    -109.469195,
+    41.516974,
+    -109.469195,
+    41.516974
+],
+  "geometry": {"coordinates":[-109.469195,41.516974],"type":"Point"}
+}

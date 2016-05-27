@@ -1,0 +1,58 @@
+{
+  "id": 874024365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.956188,44.804744,-106.956188,44.804744",
+    "geom:latitude":44.804744,
+    "geom:longitude":-106.956188,
+    "iso:country":"US",
+    "sg:address":"50 W 3rd St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 2092",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FI2dl7Uhm1ttQGYmWn9EE_44.804744_-106.956188@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310989,
+    "wof:geomhash":"01c1e1c76e07e9627bebb84b20698129",
+    "wof:hierarchy":[],
+    "wof:id":874024365,
+    "wof:lastmodified":1464310989,
+    "wof:name":"Sheridan Physical Therapy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -106.956188,
+    44.804744,
+    -106.956188,
+    44.804744
+],
+  "geometry": {"coordinates":[-106.956188,44.804744],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 874065391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593557,41.310882,-105.593557,41.310882",
+    "geom:latitude":41.310882,
+    "geom:longitude":-105.593557,
+    "iso:country":"US",
+    "sg:address":"317 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2121",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "linen",
+        "supply"
+    ],
+    "sg:website":"www.amlinen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ojkSrxNl8SikEnZpY1F9t_41.310882_-105.593557@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311383,
+    "wof:geomhash":"e07a88b8512898b60e2d7172794539b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874065391
+        }
+    ],
+    "wof:id":874065391,
+    "wof:lastmodified":1464311383,
+    "wof:name":"Alsco Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "linen",
+        "supply"
+    ]
+},
+  "bbox": [
+    -105.593557,
+    41.310882,
+    -105.593557,
+    41.310882
+],
+  "geometry": {"coordinates":[-105.593557,41.310882],"type":"Point"}
+}

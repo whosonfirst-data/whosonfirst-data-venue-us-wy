@@ -1,0 +1,69 @@
+{
+  "id": 874153535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.350177,42.814192,-106.350177,42.814192",
+    "geom:latitude":42.814192,
+    "geom:longitude":-106.350177,
+    "iso:country":"US",
+    "sg:address":"3881 Placid Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 1967",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yWAcpo26TpTPb3SOnPSEM_42.814192_-106.350177@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312360,
+    "wof:geomhash":"94025dc7b45cee44a5588b06d4f19a01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874153535
+        }
+    ],
+    "wof:id":874153535,
+    "wof:lastmodified":1464312360,
+    "wof:name":"Weatherguard Roofing",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.350177,
+    42.814192,
+    -106.350177,
+    42.814192
+],
+  "geometry": {"coordinates":[-106.350177,42.814192],"type":"Point"}
+}

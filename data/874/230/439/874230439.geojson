@@ -1,0 +1,66 @@
+{
+  "id": 874230439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.807207,41.135749,-104.807207,41.135749",
+    "geom:latitude":41.135749,
+    "geom:longitude":-104.807207,
+    "iso:country":"US",
+    "sg:address":"723 E Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/242936-baskin-robbins/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 2588",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GViSi0OKeMn7lGKisXaDy_41.135932_-104.806535@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313164,
+    "wof:geomhash":"aa01bae70e811e78ac085a7ae6ea7f23",
+    "wof:hierarchy":[],
+    "wof:id":874230439,
+    "wof:lastmodified":1464313164,
+    "wof:name":"Baskin-Robbins",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -104.807207,
+    41.135749,
+    -104.807207,
+    41.135749
+],
+  "geometry": {"coordinates":[-104.80720700000001,41.135749],"type":"Point"}
+}

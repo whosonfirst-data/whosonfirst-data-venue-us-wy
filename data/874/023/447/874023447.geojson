@@ -1,0 +1,69 @@
+{
+  "id": 874023447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.309678,42.847002,-106.309678,42.847002",
+    "geom:latitude":42.847002,
+    "geom:longitude":-106.309678,
+    "iso:country":"US",
+    "sg:address":"332 S Washington St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2331",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cTww9lAoIzreUDZADO19q_42.847002_-106.309678@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310978,
+    "wof:geomhash":"fbe7d5d54fd76c7fe4f3d5b3d89a3544",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874023447
+        }
+    ],
+    "wof:id":874023447,
+    "wof:lastmodified":1464310978,
+    "wof:name":"Quality Day Care Center",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -106.309678,
+    42.847002,
+    -106.309678,
+    42.847002
+],
+  "geometry": {"coordinates":[-106.30967800000001,42.847002],"type":"Point"}
+}

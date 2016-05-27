@@ -1,0 +1,56 @@
+{
+  "id": 874015531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.80212,43.458503,-110.80212,43.458503",
+    "geom:latitude":43.458503,
+    "geom:longitude":-110.80212,
+    "iso:country":"US",
+    "sg:address":"1715 High School Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 4699",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d1nREGQZJrqQN2IHOtySD_43.458503_-110.802120@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310895,
+    "wof:geomhash":"4f1a8234cf7f536694fa68f730ce7d12",
+    "wof:hierarchy":[],
+    "wof:id":874015531,
+    "wof:lastmodified":1464310895,
+    "wof:name":"Nu Limousine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -110.80212,
+    43.458503,
+    -110.80212,
+    43.458503
+],
+  "geometry": {"coordinates":[-110.80212,43.458503],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874139799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.963674,44.016738,-107.963674,44.016738",
+    "geom:latitude":44.016738,
+    "geom:longitude":-107.963674,
+    "iso:country":"US",
+    "sg:address":"421 Big Horn Ave",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 3728",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UgcrU8rjsni30TlzypUB9_44.016738_-107.963674@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312233,
+    "wof:geomhash":"5a030b56bdbfef111fb7ead378d150aa",
+    "wof:hierarchy":[],
+    "wof:id":874139799,
+    "wof:lastmodified":1464312233,
+    "wof:name":"Stan's Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -107.963674,
+    44.016738,
+    -107.963674,
+    44.016738
+],
+  "geometry": {"coordinates":[-107.963674,44.016738],"type":"Point"}
+}

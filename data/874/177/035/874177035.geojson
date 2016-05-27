@@ -1,0 +1,71 @@
+{
+  "id": 874177035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.2906,42.808932,-106.2906,42.808932",
+    "geom:latitude":42.808932,
+    "geom:longitude":-106.2906,
+    "iso:country":"US",
+    "sg:address":"4923 Scenic Rte",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 1270",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i3fLyhkC5HYqRnQYAx3iu_42.808932_-106.290600@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312596,
+    "wof:geomhash":"4516a399467bbe2993b62f5aecece6b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874177035
+        }
+    ],
+    "wof:id":874177035,
+    "wof:lastmodified":1464312596,
+    "wof:name":"M & S Properties LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -106.2906,
+    42.808932,
+    -106.2906,
+    42.808932
+],
+  "geometry": {"coordinates":[-106.2906,42.808932],"type":"Point"}
+}

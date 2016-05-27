@@ -1,0 +1,76 @@
+{
+  "id": 874027463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.332003,42.808288,-106.332003,42.808288",
+    "geom:latitude":42.808288,
+    "geom:longitude":-106.332003,
+    "iso:country":"US",
+    "sg:address":"4460 S David St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 3207",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trust",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pJcttHES4GRJsoLghaTUw_42.808288_-106.332003@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311020,
+    "wof:geomhash":"e76cd74173c077c9c51b6c5deb6a7932",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874027463
+        }
+    ],
+    "wof:id":874027463,
+    "wof:lastmodified":1464311020,
+    "wof:name":"Cercy Investments Llc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trust",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -106.332003,
+    42.808288,
+    -106.332003,
+    42.808288
+],
+  "geometry": {"coordinates":[-106.332003,42.808288],"type":"Point"}
+}

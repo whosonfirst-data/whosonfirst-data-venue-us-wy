@@ -1,0 +1,56 @@
+{
+  "id": 874182507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.22683,41.784264,-107.22683,41.784264",
+    "geom:latitude":41.784264,
+    "geom:longitude":-107.22683,
+    "iso:country":"US",
+    "sg:address":"501 E State St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 328 4598",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eIrcJmFt9F09YKQFE1RMn_41.784264_-107.226830@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312655,
+    "wof:geomhash":"4b1b5d4c178d2cdb89e54bb9070f27c9",
+    "wof:hierarchy":[],
+    "wof:id":874182507,
+    "wof:lastmodified":1464312655,
+    "wof:name":"Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -107.22683,
+    41.784264,
+    -107.22683,
+    41.784264
+],
+  "geometry": {"coordinates":[-107.22683000000001,41.784264],"type":"Point"}
+}

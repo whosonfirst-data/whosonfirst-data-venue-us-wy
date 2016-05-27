@@ -1,0 +1,56 @@
+{
+  "id": 874186115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.203632,43.856034,-104.203632,43.856034",
+    "geom:latitude":43.856034,
+    "geom:longitude":-104.203632,
+    "iso:country":"US",
+    "sg:address":"25 N Sumner Ave",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 4486",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rjyiQnjfikx7JFFag9YtX_43.856034_-104.203632@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312701,
+    "wof:geomhash":"fefae91bea4d85dc5fb450e9838e33f4",
+    "wof:hierarchy":[],
+    "wof:id":874186115,
+    "wof:lastmodified":1464312701,
+    "wof:name":"Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -104.203632,
+    43.856034,
+    -104.203632,
+    43.856034
+],
+  "geometry": {"coordinates":[-104.203632,43.856034],"type":"Point"}
+}

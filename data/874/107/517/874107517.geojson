@@ -1,0 +1,69 @@
+{
+  "id": 874107517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.305095,42.838765,-106.305095,42.838765",
+    "geom:latitude":42.838765,
+    "geom:longitude":-106.305095,
+    "iso:country":"US",
+    "sg:address":"1555 E 12th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 9198",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tQaNbQRSIdwKBXcfDrML3_42.838765_-106.305095@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311888,
+    "wof:geomhash":"e0c52c0ffed47521554fd715ad50dfc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874107517
+        }
+    ],
+    "wof:id":874107517,
+    "wof:lastmodified":1464311888,
+    "wof:name":"Roger D Batchelder DDS",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -106.305095,
+    42.838765,
+    -106.305095,
+    42.838765
+],
+  "geometry": {"coordinates":[-106.30509499999999,42.838765],"type":"Point"}
+}

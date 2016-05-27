@@ -1,0 +1,78 @@
+{
+  "id": 874218083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.31811,42.851459,-106.31811,42.851459",
+    "geom:latitude":42.851459,
+    "geom:longitude":-106.31811,
+    "iso:country":"US",
+    "sg:address":"548 E A St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2878",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60vvhR76B3eaGCjMwf1DYC_42.851459_-106.318110@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313032,
+    "wof:geomhash":"a25a0d81e5f0a6bdcd38413eb34be706",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874218083
+        }
+    ],
+    "wof:id":874218083,
+    "wof:lastmodified":1464313032,
+    "wof:name":"Allan's Import Car Care",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -106.31811,
+    42.851459,
+    -106.31811,
+    42.851459
+],
+  "geometry": {"coordinates":[-106.31811,42.851459],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874198437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.619699,41.295518,-105.619699,41.295518",
+    "geom:latitude":41.295518,
+    "geom:longitude":-105.619699,
+    "iso:country":"US",
+    "sg:address":"2083 Sweetwater Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 0533",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LW9cT172v5N5ez6wFBukX_41.295518_-105.619699@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312830,
+    "wof:geomhash":"63fd0fe66910eec779b3d4e8b937b845",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874198437
+        }
+    ],
+    "wof:id":874198437,
+    "wof:lastmodified":1464312830,
+    "wof:name":"Osborne Concrete",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.619699,
+    41.295518,
+    -105.619699,
+    41.295518
+],
+  "geometry": {"coordinates":[-105.619699,41.295518],"type":"Point"}
+}

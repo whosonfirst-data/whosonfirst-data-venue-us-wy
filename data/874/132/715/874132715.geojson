@@ -1,0 +1,73 @@
+{
+  "id": 874132715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594846,41.311193,-105.594846,41.311193",
+    "geom:latitude":41.311193,
+    "geom:longitude":-105.594846,
+    "iso:country":"US",
+    "sg:address":"213 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7597",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25zVM62gFQnqpVDtnxJgfM_41.311193_-105.594846@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312170,
+    "wof:geomhash":"f75c3d7e3962731c02af861e98e598bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874132715
+        }
+    ],
+    "wof:id":874132715,
+    "wof:lastmodified":1464312170,
+    "wof:name":"Rainbow Photography",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -105.594846,
+    41.311193,
+    -105.594846,
+    41.311193
+],
+  "geometry": {"coordinates":[-105.594846,41.311193],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874092489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.401226,42.813253,-106.401226,42.813253",
+    "geom:latitude":42.813253,
+    "geom:longitude":-106.401226,
+    "iso:country":"US",
+    "sg:address":"290 Valley Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 3430",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62xwyH9Rl5H9ZPA9oivGH4_42.813253_-106.401226@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311690,
+    "wof:geomhash":"b51f25454215d3eb39e06051c11999ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874092489
+        }
+    ],
+    "wof:id":874092489,
+    "wof:lastmodified":1464311690,
+    "wof:name":"William J Clare",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -106.401226,
+    42.813253,
+    -106.401226,
+    42.813253
+],
+  "geometry": {"coordinates":[-106.40122599999999,42.813253],"type":"Point"}
+}

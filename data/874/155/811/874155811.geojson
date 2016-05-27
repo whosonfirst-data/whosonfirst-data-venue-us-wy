@@ -1,0 +1,71 @@
+{
+  "id": 874155811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.547413,41.321558,-105.547413,41.321558",
+    "geom:latitude":41.321558,
+    "geom:longitude":-105.547413,
+    "iso:country":"US",
+    "sg:address":"3905 Grays Gable Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6008",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11hYRjdkBsTTAQWmjskRlR_41.321558_-105.547413@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312386,
+    "wof:geomhash":"6934b3d4b987c3ae10ea76957a389f3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874155811
+        }
+    ],
+    "wof:id":874155811,
+    "wof:lastmodified":1464312386,
+    "wof:name":"Quadra Dangle Square Dance Clb",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -105.547413,
+    41.321558,
+    -105.547413,
+    41.321558
+],
+  "geometry": {"coordinates":[-105.54741300000001,41.321558],"type":"Point"}
+}

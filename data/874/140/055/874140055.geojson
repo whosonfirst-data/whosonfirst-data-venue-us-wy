@@ -1,0 +1,73 @@
+{
+  "id": 874140055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.036157,44.538803,-109.036157,44.538803",
+    "geom:latitude":44.538803,
+    "geom:longitude":-109.036157,
+    "iso:country":"US",
+    "sg:address":"2805 E Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 3095",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plate",
+        "mfg",
+        "commercial",
+        "work",
+        "storage",
+        "fabricated",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f634fsaNHMWUAp3GIvWPe_44.538803_-109.036157@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312235,
+    "wof:geomhash":"5fdff250da6311dae74d738705eff84c",
+    "wof:hierarchy":[],
+    "wof:id":874140055,
+    "wof:lastmodified":1464312235,
+    "wof:name":"Fair Acres Mini Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "mfg",
+        "commercial",
+        "work",
+        "storage",
+        "fabricated",
+        "general"
+    ]
+},
+  "bbox": [
+    -109.036157,
+    44.538803,
+    -109.036157,
+    44.538803
+],
+  "geometry": {"coordinates":[-109.036157,44.538803],"type":"Point"}
+}

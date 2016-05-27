@@ -1,0 +1,66 @@
+{
+  "id": 874122461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.59496,41.310084,-105.59496,41.310084",
+    "geom:latitude":41.310084,
+    "geom:longitude":-105.59496,
+    "iso:country":"US",
+    "sg:address":"208 E Garfield St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7288",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Lf6fR7runMHNjH6I6zSK5_41.310084_-105.594960@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312063,
+    "wof:geomhash":"59ae09b8244694ec6755a40957d44c88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874122461
+        }
+    ],
+    "wof:id":874122461,
+    "wof:lastmodified":1464312063,
+    "wof:name":"Lauer Warren A",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.59496,
+    41.310084,
+    -105.59496,
+    41.310084
+],
+  "geometry": {"coordinates":[-105.59496,41.310084],"type":"Point"}
+}

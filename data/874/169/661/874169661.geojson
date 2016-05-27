@@ -1,0 +1,67 @@
+{
+  "id": 874169661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.457778,44.292485,-105.457778,44.292485",
+    "geom:latitude":44.292485,
+    "geom:longitude":-105.457778,
+    "iso:country":"US",
+    "sg:address":"3300 E 2nd St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 0310",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "development",
+        "gathering",
+        "oil",
+        "exploration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q6NJpdEYRNkalipwTwyZC_44.292485_-105.457778@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312524,
+    "wof:geomhash":"f405ccc75469342421b60a36f0a49644",
+    "wof:hierarchy":[],
+    "wof:id":874169661,
+    "wof:lastmodified":1464312524,
+    "wof:name":"Clear Creek Natural Gas LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "gathering",
+        "oil",
+        "exploration"
+    ]
+},
+  "bbox": [
+    -105.457778,
+    44.292485,
+    -105.457778,
+    44.292485
+],
+  "geometry": {"coordinates":[-105.457778,44.292485],"type":"Point"}
+}

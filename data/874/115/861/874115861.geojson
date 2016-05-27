@@ -1,0 +1,56 @@
+{
+  "id": 874115861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.471079,41.527194,-109.471079,41.527194",
+    "geom:latitude":41.527194,
+    "geom:longitude":-109.471079,
+    "iso:country":"US",
+    "sg:address":"12 W 2nd S",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 9648",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ETzMy55YibebKCjaSXXoP_41.527194_-109.471079@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311995,
+    "wof:geomhash":"59100e274afa01099ffeadb778fa38d6",
+    "wof:hierarchy":[],
+    "wof:id":874115861,
+    "wof:lastmodified":1464311995,
+    "wof:name":"Granger Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -109.471079,
+    41.527194,
+    -109.471079,
+    41.527194
+],
+  "geometry": {"coordinates":[-109.471079,41.527194],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 874053799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.95288,44.016752,-107.95288,44.016752",
+    "geom:latitude":44.016752,
+    "geom:longitude":-107.95288,
+    "iso:country":"US",
+    "sg:address":"1212 Big Horn Ave",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 3100",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57FdDP0IRsMcwwOzy6BUFc_44.016752_-107.952880@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311276,
+    "wof:geomhash":"6a37646cfdc71a045c72b1432c33736e",
+    "wof:hierarchy":[],
+    "wof:id":874053799,
+    "wof:lastmodified":1464311276,
+    "wof:name":"Menard's Auto Glass",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -107.95288,
+    44.016752,
+    -107.95288,
+    44.016752
+],
+  "geometry": {"coordinates":[-107.95287999999999,44.016752],"type":"Point"}
+}

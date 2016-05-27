@@ -1,0 +1,75 @@
+{
+  "id": 874160029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.352332,42.811885,-106.352332,42.811885",
+    "geom:latitude":42.811885,
+    "geom:longitude":-106.352332,
+    "iso:country":"US",
+    "sg:address":"2301 W 39th Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3590",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "natural",
+        "oil",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gC7SdRydUTM40RP8G9M8P_42.811885_-106.352332@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312432,
+    "wof:geomhash":"0437161dc2365f57f8483ec80985bda6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874160029
+        }
+    ],
+    "wof:id":874160029,
+    "wof:lastmodified":1464312432,
+    "wof:name":"Denmark Resources Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "natural",
+        "oil",
+        "gas"
+    ]
+},
+  "bbox": [
+    -106.352332,
+    42.811885,
+    -106.352332,
+    42.811885
+],
+  "geometry": {"coordinates":[-106.352332,42.811885],"type":"Point"}
+}

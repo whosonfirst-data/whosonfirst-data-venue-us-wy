@@ -1,0 +1,56 @@
+{
+  "id": 874137359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.070746,43.761733,-111.070746,43.761733",
+    "geom:latitude":43.761733,
+    "geom:longitude":-111.070746,
+    "iso:country":"US",
+    "sg:address":"294 N 150 E",
+    "sg:city":"Driggs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 354 8422",
+    "sg:postcode":"83422",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38F6DGu2O7ppQm27pkzBPZ_43.761733_-111.070746@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312211,
+    "wof:geomhash":"5b775e850cdb5df3297d2670ba621a44",
+    "wof:hierarchy":[],
+    "wof:id":874137359,
+    "wof:lastmodified":1464312211,
+    "wof:name":"West Slope Builders",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.070746,
+    43.761733,
+    -111.070746,
+    43.761733
+],
+  "geometry": {"coordinates":[-111.070746,43.761733],"type":"Point"}
+}

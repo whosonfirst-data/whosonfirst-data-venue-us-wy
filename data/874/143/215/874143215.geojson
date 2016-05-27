@@ -1,0 +1,75 @@
+{
+  "id": 874143215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593707,41.31089,-105.593707,41.31089",
+    "geom:latitude":41.31089,
+    "geom:longitude":-105.593707,
+    "iso:country":"US",
+    "sg:address":"316 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7218",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "high",
+        "fidelity",
+        "stereophonic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QuYPpdqOvrt6GL9nbGzaj_41.310890_-105.593707@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312264,
+    "wof:geomhash":"6409c9eb69b900030953554c0c9de6dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874143215
+        }
+    ],
+    "wof:id":874143215,
+    "wof:lastmodified":1464312264,
+    "wof:name":"NWC Mobile Electronics",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "fidelity",
+        "stereophonic"
+    ]
+},
+  "bbox": [
+    -105.593707,
+    41.31089,
+    -105.593707,
+    41.31089
+],
+  "geometry": {"coordinates":[-105.59370699999999,41.31089],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874102719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.451173,44.292753,-105.451173,44.292753",
+    "geom:latitude":44.292753,
+    "geom:longitude":-105.451173,
+    "iso:country":"US",
+    "sg:address":"3401 E 2nd St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 3377",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "processing",
+        "milk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18TNVTjdq6KSUWD0Q5snkB_44.292753_-105.451173@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311828,
+    "wof:geomhash":"55e71db8c6301037d4e5d0ff4bb4d4f6",
+    "wof:hierarchy":[],
+    "wof:id":874102719,
+    "wof:lastmodified":1464311828,
+    "wof:name":"Gillette Dairy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "milk"
+    ]
+},
+  "bbox": [
+    -105.451173,
+    44.292753,
+    -105.451173,
+    44.292753
+],
+  "geometry": {"coordinates":[-105.451173,44.292753],"type":"Point"}
+}

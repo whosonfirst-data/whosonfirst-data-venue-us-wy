@@ -1,0 +1,58 @@
+{
+  "id": 874001621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.74956,43.479763,-110.74956,43.479763",
+    "geom:latitude":43.479763,
+    "geom:longitude":-110.74956,
+    "iso:country":"US",
+    "sg:address":"625 E Broadway",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 739 7371",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "special",
+        "interest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CEufhfXyYboBbqVGHR7wN_43.479763_-110.749560@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310772,
+    "wof:geomhash":"cb314d9abe3c352a1046abbedd1b8b03",
+    "wof:hierarchy":[],
+    "wof:id":874001621,
+    "wof:lastmodified":1464310772,
+    "wof:name":"Medical Library",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special",
+        "interest"
+    ]
+},
+  "bbox": [
+    -110.74956,
+    43.479763,
+    -110.74956,
+    43.479763
+],
+  "geometry": {"coordinates":[-110.74956,43.479763],"type":"Point"}
+}

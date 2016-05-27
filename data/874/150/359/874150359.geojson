@@ -1,0 +1,73 @@
+{
+  "id": 874150359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.345794,42.891513,-106.345794,42.891513",
+    "geom:latitude":42.891513,
+    "geom:longitude":-106.345794,
+    "iso:country":"US",
+    "sg:address":"3700 Salt Creek Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 5646",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iXu8nl0SDTTIIpUmO0YBH_42.891513_-106.345794@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312331,
+    "wof:geomhash":"1d695503d1cabe1611a3ef97c68d8df4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874150359
+        }
+    ],
+    "wof:id":874150359,
+    "wof:lastmodified":1464312331,
+    "wof:name":"Miller Insulation Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.345794,
+    42.891513,
+    -106.345794,
+    42.891513
+],
+  "geometry": {"coordinates":[-106.345794,42.891513],"type":"Point"}
+}

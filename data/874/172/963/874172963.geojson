@@ -1,0 +1,58 @@
+{
+  "id": 874172963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.946541,44.788912,-106.946541,44.788912",
+    "geom:latitude":44.788912,
+    "geom:longitude":-106.946541,
+    "iso:country":"US",
+    "sg:address":"800 Coffeen Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 3839",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sUgN0RjcW1ESg5RQgzYtU_44.788912_-106.946541@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312558,
+    "wof:geomhash":"8a323641833631086766313a90dcf644",
+    "wof:hierarchy":[],
+    "wof:id":874172963,
+    "wof:lastmodified":1464312558,
+    "wof:name":"Blockbuster",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -106.946541,
+    44.788912,
+    -106.946541,
+    44.788912
+],
+  "geometry": {"coordinates":[-106.946541,44.788912],"type":"Point"}
+}

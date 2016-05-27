@@ -1,0 +1,73 @@
+{
+  "id": 874022827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.56084,41.323227,-105.56084,41.323227",
+    "geom:latitude":41.323227,
+    "geom:longitude":-105.56084,
+    "iso:country":"US",
+    "sg:address":"2724 Leslie Ct",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 0949",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64Rw64mKri19kQv5H8brby_41.323227_-105.560840@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310972,
+    "wof:geomhash":"cbde4cc4d4b1012ca1a9de50d0347150",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874022827
+        }
+    ],
+    "wof:id":874022827,
+    "wof:lastmodified":1464310972,
+    "wof:name":"Price King Rent A Car",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -105.56084,
+    41.323227,
+    -105.56084,
+    41.323227
+],
+  "geometry": {"coordinates":[-105.56084,41.323227],"type":"Point"}
+}

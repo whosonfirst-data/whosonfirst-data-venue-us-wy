@@ -1,0 +1,56 @@
+{
+  "id": 874003665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.264833,43.666118,-104.264833,43.666118",
+    "geom:latitude":43.666118,
+    "geom:longitude":-104.264833,
+    "iso:country":"US",
+    "sg:address":"1327 Morrissey Rd",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 2079",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qlr9KVF6OVpdzX0HTaiWc_43.666118_-104.264833@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310799,
+    "wof:geomhash":"af31c757897ef9fef51f5be5883af14d",
+    "wof:hierarchy":[],
+    "wof:id":874003665,
+    "wof:lastmodified":1464310799,
+    "wof:name":"Blacktail Water Users",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -104.264833,
+    43.666118,
+    -104.264833,
+    43.666118
+],
+  "geometry": {"coordinates":[-104.264833,43.666118],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 874010417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.597593,41.279473,-105.597593,41.279473",
+    "geom:latitude":41.279473,
+    "geom:longitude":-105.597593,
+    "iso:country":"US",
+    "sg:address":"3802 S Fort Buford Ln",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4155",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WWCGRBgRi0iLVvy8ac1As_41.279473_-105.597593@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310858,
+    "wof:geomhash":"d94b014aaa9911da824f4da51a8844db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874010417
+        }
+    ],
+    "wof:id":874010417,
+    "wof:lastmodified":1464310858,
+    "wof:name":"Extreme Paintballer",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.597593,
+    41.279473,
+    -105.597593,
+    41.279473
+],
+  "geometry": {"coordinates":[-105.597593,41.279473],"type":"Point"}
+}

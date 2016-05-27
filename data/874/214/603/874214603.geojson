@@ -1,0 +1,67 @@
+{
+  "id": 874214603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.190614,43.846788,-104.190614,43.846788",
+    "geom:latitude":43.846788,
+    "geom:longitude":-104.190614,
+    "iso:country":"US",
+    "sg:address":"1103 S Summit Ave",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 5312",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "company",
+        "dozier",
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rq3dwKCTi8yCrVVWkllQN_43.846788_-104.190614@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313000,
+    "wof:geomhash":"3ccb7e8725a8873cfc928ab7b22f0b8a",
+    "wof:hierarchy":[],
+    "wof:id":874214603,
+    "wof:lastmodified":1464313000,
+    "wof:name":"Rawhouser Logging",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "company",
+        "dozier",
+        "logging"
+    ]
+},
+  "bbox": [
+    -104.190614,
+    43.846788,
+    -104.190614,
+    43.846788
+],
+  "geometry": {"coordinates":[-104.190614,43.846788],"type":"Point"}
+}

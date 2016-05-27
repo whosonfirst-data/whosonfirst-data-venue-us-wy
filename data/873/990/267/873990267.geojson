@@ -1,0 +1,56 @@
+{
+  "id": 873990267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.239694,41.792789,-107.239694,41.792789",
+    "geom:latitude":41.792789,
+    "geom:longitude":-107.239694,
+    "iso:country":"US",
+    "sg:address":"320 W Walnut St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 328 4596",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_646AhkvOQdCpK7fL2rSUJq_41.792789_-107.239694@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310691,
+    "wof:geomhash":"c8901d6952752a4e55dc24c5d8ef8287",
+    "wof:hierarchy":[],
+    "wof:id":873990267,
+    "wof:lastmodified":1464310691,
+    "wof:name":"Rawlins Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -107.239694,
+    41.792789,
+    -107.239694,
+    41.792789
+],
+  "geometry": {"coordinates":[-107.239694,41.792789],"type":"Point"}
+}

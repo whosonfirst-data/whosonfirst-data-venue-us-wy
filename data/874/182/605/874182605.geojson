@@ -1,0 +1,64 @@
+{
+  "id": 874182605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.406047,42.867305,-106.406047,42.867305",
+    "geom:latitude":42.867305,
+    "geom:longitude":-106.406047,
+    "iso:country":"US",
+    "sg:address":"5734 Old Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 5328",
+    "sg:postcode":"82644",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xkvxE7W01E8B58OEBXWVt_42.867305_-106.406047@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312656,
+    "wof:geomhash":"a64a24a4f5462828a14f5c193bd4375e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874182605
+        }
+    ],
+    "wof:id":874182605,
+    "wof:lastmodified":1464312656,
+    "wof:name":"Anderson News Company",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.406047,
+    42.867305,
+    -106.406047,
+    42.867305
+],
+  "geometry": {"coordinates":[-106.406047,42.867305],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874223117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.385375,42.795306,-106.385375,42.795306",
+    "geom:latitude":42.795306,
+    "geom:longitude":-106.385375,
+    "iso:country":"US",
+    "sg:address":"5231 Squaw Creek Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5547",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "gallery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ydzr78b58lW4m5iDaPTKS_42.795306_-106.385375@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313095,
+    "wof:geomhash":"81c70959d8875541c17f17164ace8756",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874223117
+        }
+    ],
+    "wof:id":874223117,
+    "wof:lastmodified":1464313095,
+    "wof:name":"Navarro Gallery",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gallery"
+    ]
+},
+  "bbox": [
+    -106.385375,
+    42.795306,
+    -106.385375,
+    42.795306
+],
+  "geometry": {"coordinates":[-106.385375,42.795306],"type":"Point"}
+}

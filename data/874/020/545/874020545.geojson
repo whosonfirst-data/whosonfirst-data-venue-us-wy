@@ -1,0 +1,73 @@
+{
+  "id": 874020545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.574333,41.309786,-105.574333,41.309786",
+    "geom:latitude":41.309786,
+    "geom:longitude":-105.574333,
+    "iso:country":"US",
+    "sg:address":"1720 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 8855",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operation",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tNJIi5oica499RroZ1E86_41.309786_-105.574333@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310953,
+    "wof:geomhash":"8966db82cb6eb03acd55cae995f55625",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874020545
+        }
+    ],
+    "wof:id":874020545,
+    "wof:lastmodified":1464310953,
+    "wof:name":"University Inn",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "business"
+    ]
+},
+  "bbox": [
+    -105.574333,
+    41.309786,
+    -105.574333,
+    41.309786
+],
+  "geometry": {"coordinates":[-105.574333,41.309786],"type":"Point"}
+}

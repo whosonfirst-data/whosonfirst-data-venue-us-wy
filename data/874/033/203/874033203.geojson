@@ -1,0 +1,60 @@
+{
+  "id": 874033203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.200351,42.263698,-110.200351,42.263698",
+    "geom:latitude":42.263698,
+    "geom:longitude":-110.200351,
+    "iso:country":"US",
+    "sg:address":"624 W 1st Ave",
+    "sg:city":"La Barge",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 386 2231",
+    "sg:postcode":"83123",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uqlEKhg6j0DxZfGPjDsYq_42.263698_-110.200351@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311077,
+    "wof:geomhash":"8424c8511615f99b32845eeee287a42f",
+    "wof:hierarchy":[],
+    "wof:id":874033203,
+    "wof:lastmodified":1464311077,
+    "wof:name":"LA Barge Trucking Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -110.200351,
+    42.263698,
+    -110.200351,
+    42.263698
+],
+  "geometry": {"coordinates":[-110.200351,42.263698],"type":"Point"}
+}

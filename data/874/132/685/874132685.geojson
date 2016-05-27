@@ -1,0 +1,58 @@
+{
+  "id": 874132685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.523269,44.291103,-105.523269,44.291103",
+    "geom:latitude":44.291103,
+    "geom:longitude":-105.523269,
+    "iso:country":"US",
+    "sg:address":"1402 W 4th St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 2233",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G41TEM5PWJBdMGMqjmsa9_44.291103_-105.523269@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312169,
+    "wof:geomhash":"894cac06a69cf79484bdf5dbe5096f0d",
+    "wof:hierarchy":[],
+    "wof:id":874132685,
+    "wof:lastmodified":1464312169,
+    "wof:name":"Womens Healthcare",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -105.523269,
+    44.291103,
+    -105.523269,
+    44.291103
+],
+  "geometry": {"coordinates":[-105.523269,44.291103],"type":"Point"}
+}

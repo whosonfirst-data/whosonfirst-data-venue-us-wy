@@ -1,0 +1,64 @@
+{
+  "id": 873985291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.341967,42.814214,-106.341967,42.814214",
+    "geom:latitude":42.814214,
+    "geom:longitude":-106.341967,
+    "iso:country":"US",
+    "sg:address":"3624 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5543",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48ZmPmMMBSPpWIsC6JXdq9_42.814214_-106.341967@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310652,
+    "wof:geomhash":"5930eb20a9c75008a0223323c6d8278a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873985291
+        }
+    ],
+    "wof:id":873985291,
+    "wof:lastmodified":1464310652,
+    "wof:name":"Oakridge I Condominium As",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.341967,
+    42.814214,
+    -106.341967,
+    42.814214
+],
+  "geometry": {"coordinates":[-106.341967,42.814214],"type":"Point"}
+}

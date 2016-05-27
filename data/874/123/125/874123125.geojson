@@ -1,0 +1,58 @@
+{
+  "id": 874123125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.883099,44.688681,-108.883099,44.688681",
+    "geom:latitude":44.688681,
+    "geom:longitude":-108.883099,
+    "iso:country":"US",
+    "sg:address":"1500 Ln 14",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 3111",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "food",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VlrvdtuP5RTmOaWJLfpGk_44.688681_-108.883099@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312069,
+    "wof:geomhash":"215e5c2880b53d7930cdb790088bdf52",
+    "wof:hierarchy":[],
+    "wof:id":874123125,
+    "wof:lastmodified":1464312069,
+    "wof:name":"Rocky Mountain Country Ssgs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product"
+    ]
+},
+  "bbox": [
+    -108.883099,
+    44.688681,
+    -108.883099,
+    44.688681
+],
+  "geometry": {"coordinates":[-108.883099,44.688681],"type":"Point"}
+}

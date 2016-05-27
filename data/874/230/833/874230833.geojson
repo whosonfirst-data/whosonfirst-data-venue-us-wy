@@ -1,0 +1,61 @@
+{
+  "id": 874230833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.764168,44.749458,-108.764168,44.749458",
+    "geom:latitude":44.749458,
+    "geom:longitude":-108.764168,
+    "iso:country":"US",
+    "sg:address":"451 W Coulter Ave",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/powell/78195-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 3211",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SP5ORHa8MceuabF18yIlJ_44.749554_-108.764275@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313173,
+    "wof:geomhash":"4ba3dda9a12e3a02394b3ebe8a663764",
+    "wof:hierarchy":[],
+    "wof:id":874230833,
+    "wof:lastmodified":1464313173,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -108.764168,
+    44.749458,
+    -108.764168,
+    44.749458
+],
+  "geometry": {"coordinates":[-108.764168,44.749458],"type":"Point"}
+}

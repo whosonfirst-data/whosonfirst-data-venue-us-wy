@@ -1,0 +1,71 @@
+{
+  "id": 874026173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.544854,41.322045,-105.544854,41.322045",
+    "geom:latitude":41.322045,
+    "geom:longitude":-105.544854,
+    "iso:country":"US",
+    "sg:address":"1062 Banock Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 399 1992",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21KlI5P7BASEVYTlngWmRx_41.322045_-105.544854@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311008,
+    "wof:geomhash":"b02ba4dd67f753a52ea7b71ca33cd69a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874026173
+        }
+    ],
+    "wof:id":874026173,
+    "wof:lastmodified":1464311008,
+    "wof:name":"Bethany Zill",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "group"
+    ]
+},
+  "bbox": [
+    -105.544854,
+    41.322045,
+    -105.544854,
+    41.322045
+],
+  "geometry": {"coordinates":[-105.544854,41.322045],"type":"Point"}
+}

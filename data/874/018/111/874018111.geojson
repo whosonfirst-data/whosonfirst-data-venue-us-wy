@@ -1,0 +1,56 @@
+{
+  "id": 874018111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.933973,44.778587,-106.933973,44.778587",
+    "geom:latitude":44.778587,
+    "geom:longitude":-106.933973,
+    "iso:country":"US",
+    "sg:address":"1759 Commercial Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 3340",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A6T07Rwoptk8V1RfgwpKn_44.778587_-106.933973@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310928,
+    "wof:geomhash":"4c9eea8c2e5424bd7c2ea932a108f037",
+    "wof:hierarchy":[],
+    "wof:id":874018111,
+    "wof:lastmodified":1464310928,
+    "wof:name":"Sheridan Auto Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -106.933973,
+    44.778587,
+    -106.933973,
+    44.778587
+],
+  "geometry": {"coordinates":[-106.93397299999999,44.778587],"type":"Point"}
+}

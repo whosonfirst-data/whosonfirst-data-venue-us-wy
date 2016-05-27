@@ -1,0 +1,71 @@
+{
+  "id": 874151629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.567323,41.308465,-105.567323,41.308465",
+    "geom:latitude":41.308465,
+    "geom:longitude":-105.567323,
+    "iso:country":"US",
+    "sg:address":"421 S 21st St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2588",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HdRZmefFPH4794WCKGAdy_41.308465_-105.567323@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312343,
+    "wof:geomhash":"17430a3cb73f22e0d4281f6c13409aaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874151629
+        }
+    ],
+    "wof:id":874151629,
+    "wof:lastmodified":1464312343,
+    "wof:name":"Salon Of Beauty",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -105.567323,
+    41.308465,
+    -105.567323,
+    41.308465
+],
+  "geometry": {"coordinates":[-105.567323,41.308465],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 874122145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.379683,43.039535,-108.379683,43.039535",
+    "geom:latitude":43.039535,
+    "geom:longitude":-108.379683,
+    "iso:country":"US",
+    "sg:address":"912 Porter Ave",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 5372",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "engine",
+        "truck",
+        "diesel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jTgUspE24RoElo9jEPj0N_43.039535_-108.379683@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312060,
+    "wof:geomhash":"04ec31883857ec188549454f979fe96c",
+    "wof:hierarchy":[],
+    "wof:id":874122145,
+    "wof:lastmodified":1464312060,
+    "wof:name":"Perry's Truck & Diesel Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "truck",
+        "diesel"
+    ]
+},
+  "bbox": [
+    -108.379683,
+    43.039535,
+    -108.379683,
+    43.039535
+],
+  "geometry": {"coordinates":[-108.379683,43.039535],"type":"Point"}
+}

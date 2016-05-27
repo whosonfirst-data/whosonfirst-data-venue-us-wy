@@ -1,0 +1,58 @@
+{
+  "id": 874110795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.255081,41.644882,-109.255081,41.644882",
+    "geom:latitude":41.644882,
+    "geom:longitude":-109.255081,
+    "iso:country":"US",
+    "sg:address":"1991 Yellowstone Rd",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 3670",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6USindbqKvZEwUOVOS3zCS_41.644882_-109.255081@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311937,
+    "wof:geomhash":"fb1ac535271ff68614e6f936c49a852f",
+    "wof:hierarchy":[],
+    "wof:id":874110795,
+    "wof:lastmodified":1464311937,
+    "wof:name":"Arrow Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -109.255081,
+    41.644882,
+    -109.255081,
+    41.644882
+],
+  "geometry": {"coordinates":[-109.255081,41.644882],"type":"Point"}
+}

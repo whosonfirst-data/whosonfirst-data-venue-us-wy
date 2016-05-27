@@ -1,0 +1,71 @@
+{
+  "id": 874093187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.347026,42.769572,-106.347026,42.769572",
+    "geom:latitude":42.769572,
+    "geom:longitude":-106.347026,
+    "iso:country":"US",
+    "sg:address":"2655 Garden Creek Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 3033",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "art",
+        "shades"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ucnvVnhvbHqLw5AApf1jC_42.769572_-106.347026@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311696,
+    "wof:geomhash":"6f8df23604be468df9fe5c73c6dd1ae9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874093187
+        }
+    ],
+    "wof:id":874093187,
+    "wof:lastmodified":1464311696,
+    "wof:name":"Asay Artworks",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "shades"
+    ]
+},
+  "bbox": [
+    -106.347026,
+    42.769572,
+    -106.347026,
+    42.769572
+],
+  "geometry": {"coordinates":[-106.347026,42.769572],"type":"Point"}
+}

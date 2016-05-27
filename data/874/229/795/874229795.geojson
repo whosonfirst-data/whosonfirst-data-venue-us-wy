@@ -1,0 +1,57 @@
+{
+  "id": 874229795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.49407,44.28182,-105.49407,44.28182",
+    "geom:latitude":44.28182,
+    "geom:longitude":-105.49407,
+    "iso:country":"US",
+    "sg:address":"1215 S Douglas Hwy",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/gillette-north/118364-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 3751",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p0WMQdZ0qAOQP8BYCeJO3_44.281820_-105.494070@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313158,
+    "wof:geomhash":"2e9b653b9f87954f47311468722f109c",
+    "wof:hierarchy":[],
+    "wof:id":874229795,
+    "wof:lastmodified":1464313158,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -105.49407,
+    44.28182,
+    -105.49407,
+    44.28182
+],
+  "geometry": {"coordinates":[-105.49406999999999,44.28182],"type":"Point"}
+}

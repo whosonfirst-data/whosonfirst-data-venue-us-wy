@@ -1,0 +1,56 @@
+{
+  "id": 874029017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.498449,43.754922,-105.498449,43.754922",
+    "geom:latitude":43.754922,
+    "geom:longitude":-105.498449,
+    "iso:country":"US",
+    "sg:address":"214 Bison Ct",
+    "sg:city":"Wright",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 464 1404",
+    "sg:postcode":"82732",
+    "sg:province":"WY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EOz7qVyQ5vcqgshKfHrGU_43.754922_-105.498449@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311039,
+    "wof:geomhash":"53c483e28365fab700206b4129aa003b",
+    "wof:hierarchy":[],
+    "wof:id":874029017,
+    "wof:lastmodified":1464311039,
+    "wof:name":"Wright Manor Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -105.498449,
+    43.754922,
+    -105.498449,
+    43.754922
+],
+  "geometry": {"coordinates":[-105.49844899999999,43.754922],"type":"Point"}
+}

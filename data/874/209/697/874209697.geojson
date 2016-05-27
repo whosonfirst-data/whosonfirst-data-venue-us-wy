@@ -1,0 +1,73 @@
+{
+  "id": 874209697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.626284,41.306134,-105.626284,41.306134",
+    "geom:latitude":41.306134,
+    "geom:longitude":-105.626284,
+    "iso:country":"US",
+    "sg:address":"506 S Johnson St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 7260",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28DtnU1QjzIlFriKdRfpgk_41.306134_-105.626284@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312946,
+    "wof:geomhash":"78adccddac666f9e05dc75108da95658",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874209697
+        }
+    ],
+    "wof:id":874209697,
+    "wof:lastmodified":1464312946,
+    "wof:name":"Everglass",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -105.626284,
+    41.306134,
+    -105.626284,
+    41.306134
+],
+  "geometry": {"coordinates":[-105.626284,41.306134],"type":"Point"}
+}

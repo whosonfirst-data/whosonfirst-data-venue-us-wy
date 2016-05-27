@@ -1,0 +1,71 @@
+{
+  "id": 874196269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.134515,42.959899,-106.134515,42.959899",
+    "geom:latitude":42.959899,
+    "geom:longitude":-106.134515,
+    "iso:country":"US",
+    "sg:address":"7854 Palatine",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 5512",
+    "sg:postcode":"82636",
+    "sg:province":"WY",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dJMJdf12GKzYYSe3zibW6_42.959899_-106.134515@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312808,
+    "wof:geomhash":"1809771b43f8bcc16657b62b57163162",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874196269
+        }
+    ],
+    "wof:id":874196269,
+    "wof:lastmodified":1464312808,
+    "wof:name":"Kevins Carpentry",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.134515,
+    42.959899,
+    -106.134515,
+    42.959899
+],
+  "geometry": {"coordinates":[-106.13451499999999,42.959899],"type":"Point"}
+}

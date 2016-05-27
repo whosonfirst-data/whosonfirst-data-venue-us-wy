@@ -1,0 +1,73 @@
+{
+  "id": 874112817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.270432,42.837823,-106.270432,42.837823",
+    "geom:latitude":42.837823,
+    "geom:longitude":-106.270432,
+    "iso:country":"US",
+    "sg:address":"4023 Somerset Cir",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 3573",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "boring",
+        "drilling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LxIyRPivWIYcubcx6xApj_42.837823_-106.270432@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311966,
+    "wof:geomhash":"7a2b38f73f148ad813cd6d91c8701d07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874112817
+        }
+    ],
+    "wof:id":874112817,
+    "wof:lastmodified":1464311966,
+    "wof:name":"Parker Drilling Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boring",
+        "drilling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.270432,
+    42.837823,
+    -106.270432,
+    42.837823
+],
+  "geometry": {"coordinates":[-106.270432,42.837823],"type":"Point"}
+}

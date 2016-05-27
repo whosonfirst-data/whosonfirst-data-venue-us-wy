@@ -1,0 +1,71 @@
+{
+  "id": 874052871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.602693,41.264431,-105.602693,41.264431",
+    "geom:latitude":41.264431,
+    "geom:longitude":-105.602693,
+    "iso:country":"US",
+    "sg:address":"19 Sand Creek Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7753",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sanitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pEUxfiRHFz8leIBn6HlAQ_41.264431_-105.602693@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311267,
+    "wof:geomhash":"d1a97886e8fd52686d21fc6adb17ce63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874052871
+        }
+    ],
+    "wof:id":874052871,
+    "wof:lastmodified":1464311267,
+    "wof:name":"Wyoming Disposal Svc Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitation"
+    ]
+},
+  "bbox": [
+    -105.602693,
+    41.264431,
+    -105.602693,
+    41.264431
+],
+  "geometry": {"coordinates":[-105.602693,41.264431],"type":"Point"}
+}

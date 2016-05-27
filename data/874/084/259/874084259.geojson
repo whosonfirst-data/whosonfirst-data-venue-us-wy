@@ -1,0 +1,73 @@
+{
+  "id": 874084259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.567323,41.308402,-105.567323,41.308402",
+    "geom:latitude":41.308402,
+    "geom:longitude":-105.567323,
+    "iso:country":"US",
+    "sg:address":"427 S 21st St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3202",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "fire",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S0m7N7YTBIJQMhnLGAkuS_41.308402_-105.567323@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311601,
+    "wof:geomhash":"c3c0bc32d908e6188e3ce256481c6c43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874084259
+        }
+    ],
+    "wof:id":874084259,
+    "wof:lastmodified":1464311601,
+    "wof:name":"Allstate",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "company"
+    ]
+},
+  "bbox": [
+    -105.567323,
+    41.308402,
+    -105.567323,
+    41.308402
+],
+  "geometry": {"coordinates":[-105.567323,41.308402],"type":"Point"}
+}

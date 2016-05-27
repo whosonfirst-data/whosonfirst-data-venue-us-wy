@@ -1,0 +1,58 @@
+{
+  "id": 874215861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.751535,42.850124,-108.751535,42.850124",
+    "geom:latitude":42.850124,
+    "geom:longitude":-108.751535,
+    "iso:country":"US",
+    "sg:address":"1445 US Hwy 287",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 7724",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OrmcycMrCuLrHjqcxc5tw_42.850124_-108.751535@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313012,
+    "wof:geomhash":"07a0c6f5fde7f2355410262e5c22f9cc",
+    "wof:hierarchy":[],
+    "wof:id":874215861,
+    "wof:lastmodified":1464313012,
+    "wof:name":"Jim's Auto & Truck Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.751535,
+    42.850124,
+    -108.751535,
+    42.850124
+],
+  "geometry": {"coordinates":[-108.751535,42.850124],"type":"Point"}
+}

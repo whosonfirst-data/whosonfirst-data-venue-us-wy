@@ -1,0 +1,60 @@
+{
+  "id": 874145219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.850629,44.671522,-103.850629,44.671522",
+    "geom:latitude":44.671522,
+    "geom:longitude":-103.850629,
+    "iso:country":"US",
+    "sg:address":"711 State St",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 723 6301",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71SVn5k4N4VCXIuHFoXknh_44.671522_-103.850629@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312282,
+    "wof:geomhash":"3382bb068894cab17d0c7c0d22311e15",
+    "wof:hierarchy":[],
+    "wof:id":874145219,
+    "wof:lastmodified":1464312282,
+    "wof:name":"Belle Laundry & Dry Cleaning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -103.850629,
+    44.671522,
+    -103.850629,
+    44.671522
+],
+  "geometry": {"coordinates":[-103.850629,44.671522],"type":"Point"}
+}

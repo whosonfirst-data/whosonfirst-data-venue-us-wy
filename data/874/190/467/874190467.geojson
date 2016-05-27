@@ -1,0 +1,64 @@
+{
+  "id": 874190467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.363041,42.825447,-106.363041,42.825447",
+    "geom:latitude":42.825447,
+    "geom:longitude":-106.363041,
+    "iso:country":"US",
+    "sg:address":"3660 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1820",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27TTaZg4ME6DoZFomtIRem_42.825447_-106.363041@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312744,
+    "wof:geomhash":"7fd6918e5332301119ba7b67f10d0d15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874190467
+        }
+    ],
+    "wof:id":874190467,
+    "wof:lastmodified":1464312744,
+    "wof:name":"Antler Taxidermy & Art",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.363041,
+    42.825447,
+    -106.363041,
+    42.825447
+],
+  "geometry": {"coordinates":[-106.363041,42.825447],"type":"Point"}
+}

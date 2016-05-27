@@ -1,0 +1,58 @@
+{
+  "id": 874229111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.753097,44.752821,-108.753097,44.752821",
+    "geom:latitude":44.752821,
+    "geom:longitude":-108.753097,
+    "iso:country":"US",
+    "sg:address":"111 N Evarts St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/powell/206455-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EdkpfJlgCYsuRXrV9rjPo_44.752821_-108.753097@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313152,
+    "wof:geomhash":"f813aa62997264d01c4784fc078d92ef",
+    "wof:hierarchy":[],
+    "wof:id":874229111,
+    "wof:lastmodified":1464313152,
+    "wof:name":"McDonald's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -108.753097,
+    44.752821,
+    -108.753097,
+    44.752821
+],
+  "geometry": {"coordinates":[-108.753097,44.752821],"type":"Point"}
+}

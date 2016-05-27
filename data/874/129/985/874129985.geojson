@@ -1,0 +1,56 @@
+{
+  "id": 874129985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.504085,44.293925,-105.504085,44.293925",
+    "geom:latitude":44.293925,
+    "geom:longitude":-105.504085,
+    "iso:country":"US",
+    "sg:address":"118 S Gillette Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 2252",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qMBPhTIxlxBBkYY1ZJ95k_44.293925_-105.504085@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312135,
+    "wof:geomhash":"cb0826323b30bb582c75bfb4cb630e64",
+    "wof:hierarchy":[],
+    "wof:id":874129985,
+    "wof:lastmodified":1464312135,
+    "wof:name":"Bruce Engineers Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -105.504085,
+    44.293925,
+    -105.504085,
+    44.293925
+],
+  "geometry": {"coordinates":[-105.504085,44.293925],"type":"Point"}
+}

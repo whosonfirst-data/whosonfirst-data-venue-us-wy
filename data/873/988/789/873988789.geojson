@@ -1,0 +1,60 @@
+{
+  "id": 873988789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.248192,41.792658,-107.248192,41.792658",
+    "geom:latitude":41.792658,
+    "geom:longitude":-107.248192,
+    "iso:country":"US",
+    "sg:address":"829 11th St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 4526",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IEfxWtKsFrBo3iMhwbcBa_41.792658_-107.248192@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310681,
+    "wof:geomhash":"289833b0c627dd74b0e6d20dac68d1b2",
+    "wof:hierarchy":[],
+    "wof:id":873988789,
+    "wof:lastmodified":1464310681,
+    "wof:name":"Alvey Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -107.248192,
+    41.792658,
+    -107.248192,
+    41.792658
+],
+  "geometry": {"coordinates":[-107.248192,41.792658],"type":"Point"}
+}

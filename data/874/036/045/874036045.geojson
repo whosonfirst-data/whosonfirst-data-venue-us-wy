@@ -1,0 +1,77 @@
+{
+  "id": 874036045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.588882,41.294545,-105.588882,41.294545",
+    "geom:latitude":41.294545,
+    "geom:longitude":-105.588882,
+    "iso:country":"US",
+    "sg:address":"621 E Plaza Ln",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2307",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operation",
+        "fitness",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FyCvhvs1Bu7hLKAB9bdAk_41.294545_-105.588882@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311105,
+    "wof:geomhash":"cd082a0d7854c8b781ebd8ef5d3e5947",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874036045
+        }
+    ],
+    "wof:id":874036045,
+    "wof:lastmodified":1464311105,
+    "wof:name":"Motel 6",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "fitness",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -105.588882,
+    41.294545,
+    -105.588882,
+    41.294545
+],
+  "geometry": {"coordinates":[-105.588882,41.294545],"type":"Point"}
+}

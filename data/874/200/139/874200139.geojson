@@ -1,0 +1,73 @@
+{
+  "id": 874200139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593448,41.311811,-105.593448,41.311811",
+    "geom:latitude":41.311811,
+    "geom:longitude":-105.593448,
+    "iso:country":"US",
+    "sg:address":"215 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5361",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "business",
+        "drapery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77iutKiKW1UVDBpO2lcVtL_41.311811_-105.593448@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312845,
+    "wof:geomhash":"8b240fe4c7912392a821778e9a8df50f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874200139
+        }
+    ],
+    "wof:id":874200139,
+    "wof:lastmodified":1464312845,
+    "wof:name":"Trevas Cstm Sew Design Studio",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "drapery"
+    ]
+},
+  "bbox": [
+    -105.593448,
+    41.311811,
+    -105.593448,
+    41.311811
+],
+  "geometry": {"coordinates":[-105.593448,41.311811],"type":"Point"}
+}

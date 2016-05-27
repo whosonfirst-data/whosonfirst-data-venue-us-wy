@@ -1,0 +1,58 @@
+{
+  "id": 874188889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.472874,41.532296,-109.472874,41.532296",
+    "geom:latitude":41.532296,
+    "geom:longitude":-109.472874,
+    "iso:country":"US",
+    "sg:address":"410 W Flaming Gorge Way",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 8733",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gSBd22ysrpcP7ufbaxZ55_41.532296_-109.472874@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312730,
+    "wof:geomhash":"66de53f0a31431bbee19792f69599e8f",
+    "wof:hierarchy":[],
+    "wof:id":874188889,
+    "wof:lastmodified":1464312730,
+    "wof:name":"Green River Imports",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -109.472874,
+    41.532296,
+    -109.472874,
+    41.532296
+],
+  "geometry": {"coordinates":[-109.472874,41.532296],"type":"Point"}
+}

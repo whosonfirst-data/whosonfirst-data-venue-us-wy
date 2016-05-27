@@ -1,0 +1,71 @@
+{
+  "id": 874016601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.357619,42.827777,-106.357619,42.827777",
+    "geom:latitude":42.827777,
+    "geom:longitude":-106.357619,
+    "iso:country":"US",
+    "sg:address":"3025 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5884",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e0zqcKkXndzm7vrqMzd6q_42.827777_-106.357619@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310904,
+    "wof:geomhash":"10fb5ff9c7d60273121a51c99ed7ac67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874016601
+        }
+    ],
+    "wof:id":874016601,
+    "wof:lastmodified":1464310904,
+    "wof:name":"Gary's Lube & Extras",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -106.357619,
+    42.827777,
+    -106.357619,
+    42.827777
+],
+  "geometry": {"coordinates":[-106.357619,42.827777],"type":"Point"}
+}

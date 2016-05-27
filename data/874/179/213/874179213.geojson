@@ -1,0 +1,73 @@
+{
+  "id": 874179213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.26899,41.573848,-109.26899,41.573848",
+    "geom:latitude":41.573848,
+    "geom:longitude":-109.26899,
+    "iso:country":"US",
+    "sg:address":"1683 Sunset Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 9155",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "western"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PcsIDeEKdhaOMgDzVaGMn_41.573848_-109.268990@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312622,
+    "wof:geomhash":"2cc6c86eac25c9c039cb94a5e02791e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874179213
+        }
+    ],
+    "wof:id":874179213,
+    "wof:lastmodified":1464312622,
+    "wof:name":"Corral West Ranchwear 5",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "western"
+    ]
+},
+  "bbox": [
+    -109.26899,
+    41.573848,
+    -109.26899,
+    41.573848
+],
+  "geometry": {"coordinates":[-109.26899,41.573848],"type":"Point"}
+}

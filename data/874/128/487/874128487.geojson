@@ -1,0 +1,60 @@
+{
+  "id": 874128487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.0303,44.344386,-108.0303,44.344386",
+    "geom:latitude":44.344386,
+    "geom:longitude":-108.0303,
+    "iso:country":"US",
+    "sg:address":"4483 Orchard Bench Rd",
+    "sg:city":"Basin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 568 9397",
+    "sg:postcode":"82410",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48KiPY5sKwtOSn3DNx3fp3_44.344386_-108.030300@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312115,
+    "wof:geomhash":"8cfca30163bb095c260d4532a018f2e4",
+    "wof:hierarchy":[],
+    "wof:id":874128487,
+    "wof:lastmodified":1464312115,
+    "wof:name":"Classic Autobody & Paint",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -108.0303,
+    44.344386,
+    -108.0303,
+    44.344386
+],
+  "geometry": {"coordinates":[-108.0303,44.344386],"type":"Point"}
+}

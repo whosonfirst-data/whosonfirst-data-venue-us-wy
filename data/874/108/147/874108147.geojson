@@ -1,0 +1,64 @@
+{
+  "id": 874108147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.303875,42.847583,-106.303875,42.847583",
+    "geom:latitude":42.847583,
+    "geom:longitude":-106.303875,
+    "iso:country":"US",
+    "sg:address":"223 S Kenwood St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7898",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JiJvTh1SNZqdeB5y1yYpY_42.847583_-106.303875@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311896,
+    "wof:geomhash":"dcbb0089ec8fc438e2bc856787b6029c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874108147
+        }
+    ],
+    "wof:id":874108147,
+    "wof:lastmodified":1464311896,
+    "wof:name":"Daniel Staight DC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.303875,
+    42.847583,
+    -106.303875,
+    42.847583
+],
+  "geometry": {"coordinates":[-106.30387500000001,42.847583],"type":"Point"}
+}

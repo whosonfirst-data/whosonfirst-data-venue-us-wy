@@ -1,0 +1,56 @@
+{
+  "id": 874208527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.852057,41.004461,-105.852057,41.004461",
+    "geom:latitude":41.004461,
+    "geom:longitude":-105.852057,
+    "iso:country":"US",
+    "sg:address":"795 Bull Mountain Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4507",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gsGFAdaMV5mWPXnAOzS62_41.004461_-105.852057@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312934,
+    "wof:geomhash":"c335631d8c971735d495d64c06226cc1",
+    "wof:hierarchy":[],
+    "wof:id":874208527,
+    "wof:lastmodified":1464312934,
+    "wof:name":"Bull Mountain Ranch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -105.852057,
+    41.004461,
+    -105.852057,
+    41.004461
+],
+  "geometry": {"coordinates":[-105.852057,41.004461],"type":"Point"}
+}

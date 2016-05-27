@@ -1,0 +1,73 @@
+{
+  "id": 874137287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.365557,42.81948,-106.365557,42.81948",
+    "geom:latitude":42.81948,
+    "geom:longitude":-106.365557,
+    "iso:country":"US",
+    "sg:address":"3519 Quail Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 5547",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tMiRjq67xKubtfYYTFj3I_42.819480_-106.365557@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312211,
+    "wof:geomhash":"f6322359b760ec6d4ada96fb87ceb4f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874137287
+        }
+    ],
+    "wof:id":874137287,
+    "wof:lastmodified":1464312211,
+    "wof:name":"Lawn & Garden Express",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -106.365557,
+    42.81948,
+    -106.365557,
+    42.81948
+],
+  "geometry": {"coordinates":[-106.365557,42.81948],"type":"Point"}
+}

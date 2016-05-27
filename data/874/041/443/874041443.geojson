@@ -1,0 +1,71 @@
+{
+  "id": 874041443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343819,42.896468,-106.343819,42.896468",
+    "geom:latitude":42.896468,
+    "geom:longitude":-106.343819,
+    "iso:country":"US",
+    "sg:address":"4269 Salt Creek Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 4240",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U2kAmi2KAVC4CZ8jLC4yp_42.896468_-106.343819@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311156,
+    "wof:geomhash":"9c2375e99524937fc0e1fa3577a4f01f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874041443
+        }
+    ],
+    "wof:id":874041443,
+    "wof:lastmodified":1464311156,
+    "wof:name":"Shirks Sanitation",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -106.343819,
+    42.896468,
+    -106.343819,
+    42.896468
+],
+  "geometry": {"coordinates":[-106.343819,42.896468],"type":"Point"}
+}

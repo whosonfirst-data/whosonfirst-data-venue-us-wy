@@ -1,0 +1,58 @@
+{
+  "id": 874203775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.206694,43.853749,-104.206694,43.853749",
+    "geom:latitude":43.853749,
+    "geom:longitude":-104.206694,
+    "iso:country":"US",
+    "sg:address":"360 W Main St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 4167",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bYWZzdaeG4Q7UBjvXOiof_43.853749_-104.206694@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312881,
+    "wof:geomhash":"3fa6ebc04bdf5768e8b44bfb76c62fd2",
+    "wof:hierarchy":[],
+    "wof:id":874203775,
+    "wof:lastmodified":1464312881,
+    "wof:name":"Emmert Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -104.206694,
+    43.853749,
+    -104.206694,
+    43.853749
+],
+  "geometry": {"coordinates":[-104.206694,43.853749],"type":"Point"}
+}

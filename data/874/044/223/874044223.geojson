@@ -1,0 +1,56 @@
+{
+  "id": 874044223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.097579,43.775634,-111.097579,43.775634",
+    "geom:latitude":43.775634,
+    "geom:longitude":-111.097579,
+    "iso:country":"US",
+    "sg:address":"35 E Butler Ln",
+    "sg:city":"Driggs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 354 0159",
+    "sg:postcode":"83422",
+    "sg:province":"WY",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PNfz1VI5fxKHyfxwjbsLE_43.775634_-111.097579@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311186,
+    "wof:geomhash":"835037ddeda796df1d26c71fb4b2c4d6",
+    "wof:hierarchy":[],
+    "wof:id":874044223,
+    "wof:lastmodified":1464311186,
+    "wof:name":"CMS Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.097579,
+    43.775634,
+    -111.097579,
+    43.775634
+],
+  "geometry": {"coordinates":[-111.097579,43.775634],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874110953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.954464,44.799066,-106.954464,44.799066",
+    "geom:latitude":44.799066,
+    "geom:longitude":-106.954464,
+    "iso:country":"US",
+    "sg:address":"135 N Gould St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 5366",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QXAmUHjmPJ3lpoGREHVJb_44.799066_-106.954464@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311939,
+    "wof:geomhash":"56cee6f3be8a40736006ba8f57c0ddbf",
+    "wof:hierarchy":[],
+    "wof:id":874110953,
+    "wof:lastmodified":1464311939,
+    "wof:name":"Deaconess Billings Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -106.954464,
+    44.799066,
+    -106.954464,
+    44.799066
+],
+  "geometry": {"coordinates":[-106.954464,44.799066],"type":"Point"}
+}

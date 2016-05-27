@@ -1,0 +1,71 @@
+{
+  "id": 874187193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.806927,43.458327,-110.806927,43.458327",
+    "geom:latitude":43.458327,
+    "geom:longitude":-110.806927,
+    "iso:country":"US",
+    "sg:address":"1830 High School Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 2565",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "information",
+        "arts",
+        "art",
+        "instruction",
+        "school",
+        "organization"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S4Kcai8ReMjAiUafQ93tR_43.458327_-110.806927@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312711,
+    "wof:geomhash":"5d41bdadb3c126f9a29aee4aec046e14",
+    "wof:hierarchy":[],
+    "wof:id":874187193,
+    "wof:lastmodified":1464312711,
+    "wof:name":"Partners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "arts",
+        "art",
+        "instruction",
+        "school",
+        "organization"
+    ]
+},
+  "bbox": [
+    -110.806927,
+    43.458327,
+    -110.806927,
+    43.458327
+],
+  "geometry": {"coordinates":[-110.806927,43.458327],"type":"Point"}
+}

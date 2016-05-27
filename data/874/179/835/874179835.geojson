@@ -1,0 +1,60 @@
+{
+  "id": 874179835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.985491,44.806518,-106.985491,44.806518",
+    "geom:latitude":44.806518,
+    "geom:longitude":-106.985491,
+    "iso:country":"US",
+    "sg:address":"1926 W 5th St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 9723",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47gF28gncY54oDEefR7as8_44.806518_-106.985491@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312628,
+    "wof:geomhash":"cb3e188be8a375fde12498d24beafd59",
+    "wof:hierarchy":[],
+    "wof:id":874179835,
+    "wof:lastmodified":1464312628,
+    "wof:name":"Howard L Mussell MD Facs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -106.985491,
+    44.806518,
+    -106.985491,
+    44.806518
+],
+  "geometry": {"coordinates":[-106.985491,44.806518],"type":"Point"}
+}

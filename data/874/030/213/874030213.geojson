@@ -1,0 +1,69 @@
+{
+  "id": 874030213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.396528,42.820155,-106.396528,42.820155",
+    "geom:latitude":42.820155,
+    "geom:longitude":-106.396528,
+    "iso:country":"US",
+    "sg:address":"44 Marigold St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 0343",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ndZrplVO4Y1gab242fDVb_42.820155_-106.396528@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311050,
+    "wof:geomhash":"30ad85a870d4ce7024d36a164803c711",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874030213
+        }
+    ],
+    "wof:id":874030213,
+    "wof:lastmodified":1464311050,
+    "wof:name":"Moore Maintenance",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -106.396528,
+    42.820155,
+    -106.396528,
+    42.820155
+],
+  "geometry": {"coordinates":[-106.396528,42.820155],"type":"Point"}
+}

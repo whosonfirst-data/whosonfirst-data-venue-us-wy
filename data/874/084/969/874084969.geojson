@@ -1,0 +1,64 @@
+{
+  "id": 874084969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.347459,42.913916,-106.347459,42.913916",
+    "geom:latitude":42.913916,
+    "geom:longitude":-106.347459,
+    "iso:country":"US",
+    "sg:address":"1825 Prairie Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 6934",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZF0cn7HlRA4CE1LPzk6jX_42.913916_-106.347459@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311609,
+    "wof:geomhash":"c3c6f0710192b8e428407b145627ed79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874084969
+        }
+    ],
+    "wof:id":874084969,
+    "wof:lastmodified":1464311609,
+    "wof:name":"Festi Moon",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.347459,
+    42.913916,
+    -106.347459,
+    42.913916
+],
+  "geometry": {"coordinates":[-106.347459,42.913916],"type":"Point"}
+}

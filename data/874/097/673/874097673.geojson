@@ -1,0 +1,71 @@
+{
+  "id": 874097673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.316099,42.859846,-106.316099,42.859846",
+    "geom:latitude":42.859846,
+    "geom:longitude":-106.316099,
+    "iso:country":"US",
+    "sg:address":"1025 Glenarm St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 3030",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "website",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63hhefxTlYiTclaOpXZjpd_42.859846_-106.316099@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311753,
+    "wof:geomhash":"7a1c306eea1192399d275b200c4e045d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874097673
+        }
+    ],
+    "wof:id":874097673,
+    "wof:lastmodified":1464311753,
+    "wof:name":"Commerce Developers Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "website",
+        "design"
+    ]
+},
+  "bbox": [
+    -106.316099,
+    42.859846,
+    -106.316099,
+    42.859846
+],
+  "geometry": {"coordinates":[-106.31609899999999,42.859846],"type":"Point"}
+}

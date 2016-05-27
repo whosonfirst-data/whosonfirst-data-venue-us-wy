@@ -1,0 +1,69 @@
+{
+  "id": 874064679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.312261,42.832021,-106.312261,42.832021",
+    "geom:latitude":42.832021,
+    "geom:longitude":-106.312261,
+    "iso:country":"US",
+    "sg:address":"1715 S McKinley St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 3574",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dGGU11p5nw5BtDxg6dmpU_42.832021_-106.312261@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311377,
+    "wof:geomhash":"9dc0ee87a37cf2e4a8840950c750b05f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874064679
+        }
+    ],
+    "wof:id":874064679,
+    "wof:lastmodified":1464311377,
+    "wof:name":"Western Webdesign & Cmpt Cons",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -106.312261,
+    42.832021,
+    -106.312261,
+    42.832021
+],
+  "geometry": {"coordinates":[-106.31226100000001,42.832021],"type":"Point"}
+}

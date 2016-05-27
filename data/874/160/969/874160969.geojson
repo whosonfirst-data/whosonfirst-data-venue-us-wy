@@ -1,0 +1,58 @@
+{
+  "id": 874160969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.80046,44.75015,-108.80046,44.75015",
+    "geom:latitude":44.75015,
+    "geom:longitude":-108.80046,
+    "iso:country":"US",
+    "sg:address":"922 Rd 11",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 4291",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eRiKBQwdRjYT5yvfH8joe_44.750150_-108.800460@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312442,
+    "wof:geomhash":"a47198b24c78065b0e0332bfc58c5a98",
+    "wof:hierarchy":[],
+    "wof:id":874160969,
+    "wof:lastmodified":1464312442,
+    "wof:name":"Northend Water Users",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -108.80046,
+    44.75015,
+    -108.80046,
+    44.75015
+],
+  "geometry": {"coordinates":[-108.80046,44.75015],"type":"Point"}
+}

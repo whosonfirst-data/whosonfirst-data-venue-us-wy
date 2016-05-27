@@ -1,0 +1,70 @@
+{
+  "id": 874197041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323815,42.851819,-106.323815,42.851819",
+    "geom:latitude":42.851819,
+    "geom:longitude":-106.323815,
+    "iso:country":"US",
+    "sg:address":"220 N Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 6444",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "herb"
+    ],
+    "sg:website":"www.herbalremedies.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Kdj3xNpnwj5MJGd4pv6Sa_42.851819_-106.323815@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312815,
+    "wof:geomhash":"74f5fe900a7f8ebc784bf156d2d73a13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874197041
+        }
+    ],
+    "wof:id":874197041,
+    "wof:lastmodified":1464312815,
+    "wof:name":"Herbal Remedies",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "herb"
+    ]
+},
+  "bbox": [
+    -106.323815,
+    42.851819,
+    -106.323815,
+    42.851819
+],
+  "geometry": {"coordinates":[-106.323815,42.851819],"type":"Point"}
+}

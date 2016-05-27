@@ -1,0 +1,73 @@
+{
+  "id": 874102981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.586192,41.304815,-105.586192,41.304815",
+    "geom:latitude":41.304815,
+    "geom:longitude":-105.586192,
+    "iso:country":"US",
+    "sg:address":"916 E Steele St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 9697",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "reading",
+        "grant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LjkciVIBGvdwGUCM9eFbl_41.304815_-105.586192@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311832,
+    "wof:geomhash":"34d01ce2bfc421b55726a00c2db60970",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874102981
+        }
+    ],
+    "wof:id":874102981,
+    "wof:lastmodified":1464311832,
+    "wof:name":"Edward E Paradis",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reading",
+        "grant"
+    ]
+},
+  "bbox": [
+    -105.586192,
+    41.304815,
+    -105.586192,
+    41.304815
+],
+  "geometry": {"coordinates":[-105.586192,41.304815],"type":"Point"}
+}

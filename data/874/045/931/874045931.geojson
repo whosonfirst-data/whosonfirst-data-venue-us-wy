@@ -1,0 +1,77 @@
+{
+  "id": 874045931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.588727,41.307868,-105.588727,41.307868",
+    "geom:latitude":41.307868,
+    "geom:longitude":-105.588727,
+    "iso:country":"US",
+    "sg:address":"602 S 7th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7413",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iQvuoM9XBVEiEdMEj3pV1_41.307868_-105.588727@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311206,
+    "wof:geomhash":"f88629677a312b95a66580f03b87ad6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874045931
+        }
+    ],
+    "wof:id":874045931,
+    "wof:lastmodified":1464311206,
+    "wof:name":"C K Svc Plumbing & Heating",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -105.588727,
+    41.307868,
+    -105.588727,
+    41.307868
+],
+  "geometry": {"coordinates":[-105.58872700000001,41.307868],"type":"Point"}
+}

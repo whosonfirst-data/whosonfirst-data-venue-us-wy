@@ -1,0 +1,56 @@
+{
+  "id": 874145197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.820565,41.165274,-104.820565,41.165274",
+    "geom:latitude":41.165274,
+    "geom:longitude":-104.820565,
+    "iso:country":"US",
+    "sg:address":"5030 Ogallala Pl",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 8857",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v4DD1uN6aUExPOFcheAzn_41.165274_-104.820565@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312282,
+    "wof:geomhash":"73a7095637a3740e81c2def1b4946318",
+    "wof:hierarchy":[],
+    "wof:id":874145197,
+    "wof:lastmodified":1464312282,
+    "wof:name":"Weber Bldg Maint",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -104.820565,
+    41.165274,
+    -104.820565,
+    41.165274
+],
+  "geometry": {"coordinates":[-104.820565,41.165274],"type":"Point"}
+}

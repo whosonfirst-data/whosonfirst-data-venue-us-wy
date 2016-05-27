@@ -1,0 +1,56 @@
+{
+  "id": 874201443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.045885,44.523674,-109.045885,44.523674",
+    "geom:latitude":44.523674,
+    "geom:longitude":-109.045885,
+    "iso:country":"US",
+    "sg:address":"2319 Newton Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 6600",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2izfWOck3lA3rf9UQDC1sk_44.523674_-109.045885@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312858,
+    "wof:geomhash":"ac99669ddf996cbff660079810824f10",
+    "wof:hierarchy":[],
+    "wof:id":874201443,
+    "wof:lastmodified":1464312858,
+    "wof:name":"F W Child Towing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -109.045885,
+    44.523674,
+    -109.045885,
+    44.523674
+],
+  "geometry": {"coordinates":[-109.045885,44.523674],"type":"Point"}
+}

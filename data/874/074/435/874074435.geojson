@@ -1,0 +1,71 @@
+{
+  "id": 874074435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595048,41.309134,-105.595048,41.309134",
+    "geom:latitude":41.309134,
+    "geom:longitude":-105.595048,
+    "iso:country":"US",
+    "sg:address":"509 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 8460",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "footwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KzOLspOw4QX2kpd1nGtuU_41.309134_-105.595048@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311498,
+    "wof:geomhash":"92d79a6ac8f67058eed4f11bdaf2aab7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874074435
+        }
+    ],
+    "wof:id":874074435,
+    "wof:lastmodified":1464311498,
+    "wof:name":"Mattimore Hurness",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "footwear"
+    ]
+},
+  "bbox": [
+    -105.595048,
+    41.309134,
+    -105.595048,
+    41.309134
+],
+  "geometry": {"coordinates":[-105.59504800000001,41.309134],"type":"Point"}
+}

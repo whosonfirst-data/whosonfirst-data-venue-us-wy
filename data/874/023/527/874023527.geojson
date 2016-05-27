@@ -1,0 +1,64 @@
+{
+  "id": 874023527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.296048,42.838824,-106.296048,42.838824",
+    "geom:latitude":42.838824,
+    "geom:longitude":-106.296048,
+    "iso:country":"US",
+    "sg:address":"2305 E 12th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 5606",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cYE4oUxtI8tBCzIJIIh3c_42.838824_-106.296048@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310978,
+    "wof:geomhash":"ed3e2e51b0b1a9b3763a7504167b5807",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874023527
+        }
+    ],
+    "wof:id":874023527,
+    "wof:lastmodified":1464310978,
+    "wof:name":"Tacos Mexico",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.296048,
+    42.838824,
+    -106.296048,
+    42.838824
+],
+  "geometry": {"coordinates":[-106.296048,42.838824],"type":"Point"}
+}

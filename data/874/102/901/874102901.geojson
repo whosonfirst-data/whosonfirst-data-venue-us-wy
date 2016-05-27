@@ -1,0 +1,56 @@
+{
+  "id": 874102901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.225224,41.796185,-107.225224,41.796185",
+    "geom:latitude":41.796185,
+    "geom:longitude":-107.225224,
+    "iso:country":"US",
+    "sg:address":"1111 Daley St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 328 2001",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "beverage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lV2vJa9QAoR2KgNDx79ZC_41.796185_-107.225224@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311831,
+    "wof:geomhash":"01b161192dccd468cb021119b0338f93",
+    "wof:hierarchy":[],
+    "wof:id":874102901,
+    "wof:lastmodified":1464311831,
+    "wof:name":"Candy Mountain Beverage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beverage"
+    ]
+},
+  "bbox": [
+    -107.225224,
+    41.796185,
+    -107.225224,
+    41.796185
+],
+  "geometry": {"coordinates":[-107.225224,41.796185],"type":"Point"}
+}

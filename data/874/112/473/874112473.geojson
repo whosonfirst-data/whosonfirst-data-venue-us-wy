@@ -1,0 +1,56 @@
+{
+  "id": 874112473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.974841,41.264938,-110.974841,41.264938",
+    "geom:latitude":41.264938,
+    "geom:longitude":-110.974841,
+    "iso:country":"US",
+    "sg:address":"1737 Hillcrest Park Ave",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 3285",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ezxNrrvhzSEv2cPEUSyMB_41.264938_-110.974841@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311962,
+    "wof:geomhash":"df2a22c9842c0ddf995ea82585da4948",
+    "wof:hierarchy":[],
+    "wof:id":874112473,
+    "wof:lastmodified":1464311962,
+    "wof:name":"Wyoming Game & Fish Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -110.974841,
+    41.264938,
+    -110.974841,
+    41.264938
+],
+  "geometry": {"coordinates":[-110.974841,41.264938],"type":"Point"}
+}

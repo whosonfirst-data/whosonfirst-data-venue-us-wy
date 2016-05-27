@@ -1,0 +1,56 @@
+{
+  "id": 874080465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.780609,41.133862,-104.780609,41.133862",
+    "geom:latitude":41.133862,
+    "geom:longitude":-104.780609,
+    "iso:country":"US",
+    "sg:address":"2908 E 9th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 7999",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oeO4duOyrz1YnIF49XrEM_41.133862_-104.780609@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311556,
+    "wof:geomhash":"e95ff231df87d4281594d064db6eaac4",
+    "wof:hierarchy":[],
+    "wof:id":874080465,
+    "wof:lastmodified":1464311556,
+    "wof:name":"D&S Recovery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -104.780609,
+    41.133862,
+    -104.780609,
+    41.133862
+],
+  "geometry": {"coordinates":[-104.780609,41.133862],"type":"Point"}
+}

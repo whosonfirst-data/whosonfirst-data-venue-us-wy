@@ -1,0 +1,51 @@
+{
+  "id": 874179127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.46239,41.5102,-109.46239,41.5102",
+    "geom:latitude":41.5102,
+    "geom:longitude":-109.46239,
+    "iso:country":"US",
+    "sg:address":"500 Monroe Ave",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 5716",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EEHRO9k20S64D9esC1IaC_41.510200_-109.462390@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312621,
+    "wof:geomhash":"bc77401ef914cf7fb176142bf94f606d",
+    "wof:hierarchy":[],
+    "wof:id":874179127,
+    "wof:lastmodified":1464312621,
+    "wof:name":"Joseph Frantzen & Deli",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.46239,
+    41.5102,
+    -109.46239,
+    41.5102
+],
+  "geometry": {"coordinates":[-109.46239,41.5102],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 873996789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.393496,44.816805,-108.393496,44.816805",
+    "geom:latitude":44.816805,
+    "geom:longitude":-108.393496,
+    "iso:country":"US",
+    "sg:address":"1220 Co Rd 11",
+    "sg:city":"Lovell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 548 2452",
+    "sg:postcode":"82431",
+    "sg:province":"WY",
+    "sg:tags":[
+        "large",
+        "small",
+        "veterinarian",
+        "animal",
+        "for"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66AgzRir0lkQEBGeRBznY5_44.816805_-108.393496@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310738,
+    "wof:geomhash":"d991ce0ff275205369d92d85451b0c01",
+    "wof:hierarchy":[],
+    "wof:id":873996789,
+    "wof:lastmodified":1464310738,
+    "wof:name":"Lovell Veterinary Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "large",
+        "small",
+        "veterinarian",
+        "animal",
+        "for"
+    ]
+},
+  "bbox": [
+    -108.393496,
+    44.816805,
+    -108.393496,
+    44.816805
+],
+  "geometry": {"coordinates":[-108.393496,44.816805],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874189387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.355929,42.907463,-106.355929,42.907463",
+    "geom:latitude":42.907463,
+    "geom:longitude":-106.355929,
+    "iso:country":"US",
+    "sg:address":"4315 Trl End",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 258 3979",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "guard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5biUt4WPaGjoGQWMgUyNNb_42.907463_-106.355929@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312734,
+    "wof:geomhash":"d11bed3d4c8cabe66fadf20a3df40349",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874189387
+        }
+    ],
+    "wof:id":874189387,
+    "wof:lastmodified":1464312734,
+    "wof:name":"Ben A Britton",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard"
+    ]
+},
+  "bbox": [
+    -106.355929,
+    42.907463,
+    -106.355929,
+    42.907463
+],
+  "geometry": {"coordinates":[-106.355929,42.907463],"type":"Point"}
+}

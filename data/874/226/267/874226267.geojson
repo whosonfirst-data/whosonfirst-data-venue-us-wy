@@ -1,0 +1,63 @@
+{
+  "id": 874226267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.402051,42.854662,-106.402051,42.854662",
+    "geom:latitude":42.854662,
+    "geom:longitude":-106.402051,
+    "iso:country":"US",
+    "sg:address":"5685 Hanly St",
+    "sg:city":"Mills",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 5058",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Wg4G0DRQDdCwSvpGSNvwt_42.854662_-106.402051@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313124,
+    "wof:geomhash":"213b9358738665e7bc91e265c2ad4ede",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874226267
+        }
+    ],
+    "wof:id":874226267,
+    "wof:lastmodified":1464313124,
+    "wof:name":"Blakeman Propane Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas"
+    ]
+},
+  "bbox": [
+    -106.402051,
+    42.854662,
+    -106.402051,
+    42.854662
+],
+  "geometry": {"coordinates":[-106.402051,42.854662],"type":"Point"}
+}

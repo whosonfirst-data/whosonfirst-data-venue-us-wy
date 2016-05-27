@@ -1,0 +1,56 @@
+{
+  "id": 874047485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.962566,41.272694,-110.962566,41.272694",
+    "geom:latitude":41.272694,
+    "geom:longitude":-110.962566,
+    "iso:country":"US",
+    "sg:address":"141 Ash St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 2958",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D0IVmbyTHEnU9R4B9HmDM_41.272694_-110.962566@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311219,
+    "wof:geomhash":"89819a6f2576b707e38d8bdb62db3908",
+    "wof:hierarchy":[],
+    "wof:id":874047485,
+    "wof:lastmodified":1464311219,
+    "wof:name":"Easton Brothers Motors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -110.962566,
+    41.272694,
+    -110.962566,
+    41.272694
+],
+  "geometry": {"coordinates":[-110.962566,41.272694],"type":"Point"}
+}

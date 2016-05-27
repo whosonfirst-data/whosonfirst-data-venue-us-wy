@@ -1,0 +1,71 @@
+{
+  "id": 873988959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590104,41.311657,-105.590104,41.311657",
+    "geom:latitude":41.311657,
+    "geom:longitude":-105.590104,
+    "iso:country":"US",
+    "sg:address":"570 E Ivinson Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 4717",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hynC4Rx4GoDHUBmn0XuZS_41.311657_-105.590104@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310683,
+    "wof:geomhash":"3f8d5b686e23ed70f60922a8ef9428b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873988959
+        }
+    ],
+    "wof:id":873988959,
+    "wof:lastmodified":1464310683,
+    "wof:name":"Wells Fargo",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -105.590104,
+    41.311657,
+    -105.590104,
+    41.311657
+],
+  "geometry": {"coordinates":[-105.590104,41.311657],"type":"Point"}
+}

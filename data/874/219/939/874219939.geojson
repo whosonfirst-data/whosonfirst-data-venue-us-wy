@@ -1,0 +1,56 @@
+{
+  "id": 874219939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.956748,44.79465,-106.956748,44.79465",
+    "geom:latitude":44.79465,
+    "geom:longitude":-106.956748,
+    "iso:country":"US",
+    "sg:address":"41 W Whitney St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 2935",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FkoJzjVzVm9KACe45u2RM_44.794650_-106.956748@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313059,
+    "wof:geomhash":"1d7ebc0370e44ee251cd360459188580",
+    "wof:hierarchy":[],
+    "wof:id":874219939,
+    "wof:lastmodified":1464313059,
+    "wof:name":"Sheridan County Drug Court",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -106.956748,
+    44.79465,
+    -106.956748,
+    44.79465
+],
+  "geometry": {"coordinates":[-106.956748,44.79465],"type":"Point"}
+}

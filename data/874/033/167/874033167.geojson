@@ -1,0 +1,71 @@
+{
+  "id": 874033167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.406893,42.815978,-106.406893,42.815978",
+    "geom:latitude":42.815978,
+    "geom:longitude":-106.406893,
+    "iso:country":"US",
+    "sg:address":"313 Azalea St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 6062",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VqahYUQBWJ1MMKIBiusQx_42.815978_-106.406893@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311077,
+    "wof:geomhash":"a816711e988d0d4ac42d2fefbadd5185",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874033167
+        }
+    ],
+    "wof:id":874033167,
+    "wof:lastmodified":1464311077,
+    "wof:name":"Kindel Concrete",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.406893,
+    42.815978,
+    -106.406893,
+    42.815978
+],
+  "geometry": {"coordinates":[-106.406893,42.815978],"type":"Point"}
+}

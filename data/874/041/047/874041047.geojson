@@ -1,0 +1,71 @@
+{
+  "id": 874041047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.297922,42.845468,-106.297922,42.845468",
+    "geom:latitude":42.845468,
+    "geom:longitude":-106.297922,
+    "iso:country":"US",
+    "sg:address":"410 S Beverly St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 4111",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JR5NCmjsfkSlNUszC2bGi_42.845468_-106.297922@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311153,
+    "wof:geomhash":"b2111c753331275f4b8a004a4572aa60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874041047
+        }
+    ],
+    "wof:id":874041047,
+    "wof:lastmodified":1464311153,
+    "wof:name":"Extreme Linings",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "truck"
+    ]
+},
+  "bbox": [
+    -106.297922,
+    42.845468,
+    -106.297922,
+    42.845468
+],
+  "geometry": {"coordinates":[-106.297922,42.845468],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874157673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.008595,41.146245,-105.008595,41.146245",
+    "geom:latitude":41.146245,
+    "geom:longitude":-105.008595,
+    "iso:country":"US",
+    "sg:address":"1461 Happy Jack Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 8315",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NT8NEhNNTW9o7eDiPsZXO_41.146245_-105.008595@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312405,
+    "wof:geomhash":"a1641d8631b670ba92a6475dff928001",
+    "wof:hierarchy":[],
+    "wof:id":874157673,
+    "wof:lastmodified":1464312405,
+    "wof:name":"Cheyenne Landfill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -105.008595,
+    41.146245,
+    -105.008595,
+    41.146245
+],
+  "geometry": {"coordinates":[-105.008595,41.146245],"type":"Point"}
+}

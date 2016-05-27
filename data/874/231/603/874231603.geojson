@@ -1,0 +1,59 @@
+{
+  "id": 874231603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.957125,41.262693,-110.957125,41.262693",
+    "geom:latitude":41.262693,
+    "geom:longitude":-110.957125,
+    "iso:country":"US",
+    "sg:address":"158 Front St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/evanston/159133-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 1380",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oes0mlFlGAUg2JVcYZRRL_41.262644_-110.957096@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464313182,
+    "wof:geomhash":"de279af98fdb5e1f6b01ca209e08eaff",
+    "wof:hierarchy":[],
+    "wof:id":874231603,
+    "wof:lastmodified":1464313182,
+    "wof:name":"Arby's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -110.957125,
+    41.262693,
+    -110.957125,
+    41.262693
+],
+  "geometry": {"coordinates":[-110.957125,41.262693],"type":"Point"}
+}

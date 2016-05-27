@@ -1,0 +1,71 @@
+{
+  "id": 874189825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.324345,42.847658,-106.324345,42.847658",
+    "geom:latitude":42.847658,
+    "geom:longitude":-106.324345,
+    "iso:country":"US",
+    "sg:address":"144 E Midwest Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 377 8588",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "product",
+        "ceramic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bE5zsAujNqdPow5iL3Upl_42.847658_-106.324345@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312738,
+    "wof:geomhash":"fb2cecc7870596b98cb0444def71663b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874189825
+        }
+    ],
+    "wof:id":874189825,
+    "wof:lastmodified":1464312738,
+    "wof:name":"Ultimate Craft & Ceramic",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "ceramic"
+    ]
+},
+  "bbox": [
+    -106.324345,
+    42.847658,
+    -106.324345,
+    42.847658
+],
+  "geometry": {"coordinates":[-106.32434499999999,42.847658],"type":"Point"}
+}

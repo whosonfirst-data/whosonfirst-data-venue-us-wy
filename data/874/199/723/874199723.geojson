@@ -1,0 +1,71 @@
+{
+  "id": 874199723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.440305,42.806745,-106.440305,42.806745",
+    "geom:latitude":42.806745,
+    "geom:longitude":-106.440305,
+    "iso:country":"US",
+    "sg:address":"6824 W Riverside Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 9050",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant",
+        "geological"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uUiBnktHFSV3dGHmyMvjG_42.806745_-106.440305@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312841,
+    "wof:geomhash":"8843be619073a4dc875b17739a680855",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874199723
+        }
+    ],
+    "wof:id":874199723,
+    "wof:lastmodified":1464312841,
+    "wof:name":"C P Abrassart",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "geological"
+    ]
+},
+  "bbox": [
+    -106.440305,
+    42.806745,
+    -106.440305,
+    42.806745
+],
+  "geometry": {"coordinates":[-106.440305,42.806745],"type":"Point"}
+}

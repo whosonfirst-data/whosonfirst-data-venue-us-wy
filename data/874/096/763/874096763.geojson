@@ -1,0 +1,58 @@
+{
+  "id": 874096763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.735383,43.534719,-110.735383,43.534719",
+    "geom:latitude":43.534719,
+    "geom:longitude":-110.735383,
+    "iso:country":"US",
+    "sg:address":"1500 Fish Hatchery Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 2510",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hatchery",
+        "fish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pu2VRzPyEYsBGMwxFWDIx_43.534719_-110.735383@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311740,
+    "wof:geomhash":"abd3f9962847c37f36d8a5dccb07d0ce",
+    "wof:hierarchy":[],
+    "wof:id":874096763,
+    "wof:lastmodified":1464311740,
+    "wof:name":"Jackson National Fish Hatchery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hatchery",
+        "fish"
+    ]
+},
+  "bbox": [
+    -110.735383,
+    43.534719,
+    -110.735383,
+    43.534719
+],
+  "geometry": {"coordinates":[-110.735383,43.534719],"type":"Point"}
+}

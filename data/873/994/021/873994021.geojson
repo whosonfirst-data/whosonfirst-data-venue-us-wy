@@ -1,0 +1,71 @@
+{
+  "id": 873994021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.587709,41.304955,-105.587709,41.304955",
+    "geom:latitude":41.304955,
+    "geom:longitude":-105.587709,
+    "iso:country":"US",
+    "sg:address":"904 S 8th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 9142",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "reporting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TZCx8VkO7XN33MOvcqkpk_41.304955_-105.587709@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310719,
+    "wof:geomhash":"9740e7863c28f80128633e60628ce62a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873994021
+        }
+    ],
+    "wof:id":873994021,
+    "wof:lastmodified":1464310719,
+    "wof:name":"Zone 4",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reporting"
+    ]
+},
+  "bbox": [
+    -105.587709,
+    41.304955,
+    -105.587709,
+    41.304955
+],
+  "geometry": {"coordinates":[-105.587709,41.304955],"type":"Point"}
+}

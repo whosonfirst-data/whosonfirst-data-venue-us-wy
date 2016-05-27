@@ -1,0 +1,72 @@
+{
+  "id": 874016771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.464502,42.896595,-106.464502,42.896595",
+    "geom:latitude":42.896595,
+    "geom:longitude":-106.464502,
+    "iso:country":"US",
+    "sg:address":"8500 Airport Pkwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 9355",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "sg:website":"www.skywest.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hwWuae2ESddeMGH202LG8_42.896595_-106.464502@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310905,
+    "wof:geomhash":"b693c90909ccb1d4f97c4c8a9e426a81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874016771
+        }
+    ],
+    "wof:id":874016771,
+    "wof:lastmodified":1464310905,
+    "wof:name":"Skywest Airlines",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "air"
+    ]
+},
+  "bbox": [
+    -106.464502,
+    42.896595,
+    -106.464502,
+    42.896595
+],
+  "geometry": {"coordinates":[-106.464502,42.896595],"type":"Point"}
+}

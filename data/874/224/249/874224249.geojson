@@ -1,0 +1,69 @@
+{
+  "id": 874224249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.27328,42.838969,-106.27328,42.838969",
+    "geom:latitude":42.838969,
+    "geom:longitude":-106.27328,
+    "iso:country":"US",
+    "sg:address":"1101 Bretton Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 5622",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1skNz8zfy3eWQIj2jDJfiG_42.838969_-106.273280@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313105,
+    "wof:geomhash":"85baa161e5d885cbc4c3ec4f580576df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874224249
+        }
+    ],
+    "wof:id":874224249,
+    "wof:lastmodified":1464313105,
+    "wof:name":"Keystone Masonry Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.27328,
+    42.838969,
+    -106.27328,
+    42.838969
+],
+  "geometry": {"coordinates":[-106.27328,42.838969],"type":"Point"}
+}

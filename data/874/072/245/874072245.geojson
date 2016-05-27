@@ -1,0 +1,58 @@
+{
+  "id": 874072245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.96709,44.808217,-106.96709,44.808217",
+    "geom:latitude":44.808217,
+    "geom:longitude":-106.96709,
+    "iso:country":"US",
+    "sg:address":"1034 Delphi Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 7481",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nmFFJUjj3BTJ4X4OiEdJw_44.808217_-106.967090@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311466,
+    "wof:geomhash":"d65851720e3fc1475e048e9045b3fc13",
+    "wof:hierarchy":[],
+    "wof:id":874072245,
+    "wof:lastmodified":1464311466,
+    "wof:name":"Delphi Apartment Complex",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -106.96709,
+    44.808217,
+    -106.96709,
+    44.808217
+],
+  "geometry": {"coordinates":[-106.96709,44.808217],"type":"Point"}
+}

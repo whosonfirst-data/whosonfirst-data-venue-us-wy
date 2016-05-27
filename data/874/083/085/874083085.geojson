@@ -1,0 +1,58 @@
+{
+  "id": 874083085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.512298,44.798402,-108.512298,44.798402",
+    "geom:latitude":44.798402,
+    "geom:longitude":-108.512298,
+    "iso:country":"US",
+    "sg:address":"230 N Cloud Peak St",
+    "sg:city":"Byron",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 548 6966",
+    "sg:postcode":"82412",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kEIm1nMIzUafNepJjZJNA_44.798402_-108.512298@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311590,
+    "wof:geomhash":"2c7ec24a6007abca2b11ea574f7cbebe",
+    "wof:hierarchy":[],
+    "wof:id":874083085,
+    "wof:lastmodified":1464311590,
+    "wof:name":"Rocky Mountain Plumbing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.512298,
+    44.798402,
+    -108.512298,
+    44.798402
+],
+  "geometry": {"coordinates":[-108.512298,44.798402],"type":"Point"}
+}

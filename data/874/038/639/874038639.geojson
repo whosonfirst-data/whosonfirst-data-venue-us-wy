@@ -1,0 +1,71 @@
+{
+  "id": 874038639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.348557,42.843993,-106.348557,42.843993",
+    "geom:latitude":42.843993,
+    "geom:longitude":-106.348557,
+    "iso:country":"US",
+    "sg:address":"1801 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 9823",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "bookkeeping",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kbdBr1zrUgD3Ce70XjSDT_42.843993_-106.348557@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311131,
+    "wof:geomhash":"2a67e9758b870992052f53352b1f7ab7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874038639
+        }
+    ],
+    "wof:id":874038639,
+    "wof:lastmodified":1464311131,
+    "wof:name":"Small Business Computer Svc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookkeeping",
+        "general"
+    ]
+},
+  "bbox": [
+    -106.348557,
+    42.843993,
+    -106.348557,
+    42.843993
+],
+  "geometry": {"coordinates":[-106.348557,42.843993],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 874089905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.052003,44.488788,-108.052003,44.488788",
+    "geom:latitude":44.488788,
+    "geom:longitude":-108.052003,
+    "iso:country":"US",
+    "sg:address":"345 Greybull Ave",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 4300",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nGxlCn6RhzSbpIzYQj1wG_44.488788_-108.052003@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311660,
+    "wof:geomhash":"ae5b516ab7f75d8e4ee774b1c911237f",
+    "wof:hierarchy":[],
+    "wof:id":874089905,
+    "wof:lastmodified":1464311660,
+    "wof:name":"Downtown Auto Clinic Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -108.052003,
+    44.488788,
+    -108.052003,
+    44.488788
+],
+  "geometry": {"coordinates":[-108.052003,44.488788],"type":"Point"}
+}

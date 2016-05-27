@@ -1,0 +1,52 @@
+{
+  "id": 874187979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.763567,41.145568,-104.763567,41.145568",
+    "geom:latitude":41.145568,
+    "geom:longitude":-104.763567,
+    "iso:country":"US",
+    "sg:address":"3600 E Pershing Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 3314",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:website":"www.wellsfargo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JQD4nmvxpYYu1sc8ar7Io_41.145568_-104.763567@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312719,
+    "wof:geomhash":"515c079a3d4f58dcf20801dc167f3037",
+    "wof:hierarchy":[],
+    "wof:id":874187979,
+    "wof:lastmodified":1464312719,
+    "wof:name":"Wells Fargo Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.763567,
+    41.145568,
+    -104.763567,
+    41.145568
+],
+  "geometry": {"coordinates":[-104.76356699999999,41.145568],"type":"Point"}
+}

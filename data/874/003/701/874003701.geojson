@@ -1,0 +1,56 @@
+{
+  "id": 874003701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.458633,43.779585,-104.458633,43.779585",
+    "geom:latitude":43.779585,
+    "geom:longitude":-104.458633,
+    "iso:country":"US",
+    "sg:address":"1159 State Hwy 450",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 4101",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sCdL1XqFgIPLY3ZUSUicP_43.779585_-104.458633@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310800,
+    "wof:geomhash":"46076f402602936dab969566bab77823",
+    "wof:hierarchy":[],
+    "wof:id":874003701,
+    "wof:lastmodified":1464310800,
+    "wof:name":"Cow Camp Productions",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -104.458633,
+    43.779585,
+    -104.458633,
+    43.779585
+],
+  "geometry": {"coordinates":[-104.45863300000001,43.779585],"type":"Point"}
+}

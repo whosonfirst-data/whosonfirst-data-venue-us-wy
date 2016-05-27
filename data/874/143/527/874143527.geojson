@@ -1,0 +1,75 @@
+{
+  "id": 874143527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.76066,41.221742,-105.76066,41.221742",
+    "geom:latitude":41.221742,
+    "geom:longitude":-105.76066,
+    "iso:country":"US",
+    "sg:address":"1151 State Hwy 230",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6061",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rwZD7fiTlT2FifXVjoxkC_41.221742_-105.760660@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312267,
+    "wof:geomhash":"d4a42a26c8b59f6c1596814328a3aeba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874143527
+        }
+    ],
+    "wof:id":874143527,
+    "wof:lastmodified":1464312267,
+    "wof:name":"Alexander Dean & Ruth",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -105.76066,
+    41.221742,
+    -105.76066,
+    41.221742
+],
+  "geometry": {"coordinates":[-105.76066,41.221742],"type":"Point"}
+}

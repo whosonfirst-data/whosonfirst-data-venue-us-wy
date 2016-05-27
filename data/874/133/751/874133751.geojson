@@ -1,0 +1,69 @@
+{
+  "id": 874133751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.320257,42.844582,-106.320257,42.844582",
+    "geom:latitude":42.844582,
+    "geom:longitude":-106.320257,
+    "iso:country":"US",
+    "sg:address":"409 E 6th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 2286",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "broadcast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xAWDAMRGZ7Z9UoTRixtAX_42.844582_-106.320257@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312179,
+    "wof:geomhash":"9b58038740cba952ad487e497296addd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874133751
+        }
+    ],
+    "wof:id":874133751,
+    "wof:lastmodified":1464312179,
+    "wof:name":"T C I Cable Vision",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast"
+    ]
+},
+  "bbox": [
+    -106.320257,
+    42.844582,
+    -106.320257,
+    42.844582
+],
+  "geometry": {"coordinates":[-106.320257,42.844582],"type":"Point"}
+}

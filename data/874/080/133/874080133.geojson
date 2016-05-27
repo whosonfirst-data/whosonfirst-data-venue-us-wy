@@ -1,0 +1,56 @@
+{
+  "id": 874080133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.789382,43.467776,-110.789382,43.467776",
+    "geom:latitude":43.467776,
+    "geom:longitude":-110.789382,
+    "iso:country":"US",
+    "sg:address":"1195 Meadowlark Ln",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 0435",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lnf9Yp8hkft1V3gT5OHtk_43.467776_-110.789382@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311552,
+    "wof:geomhash":"155266e887a05da805adece80a81c723",
+    "wof:hierarchy":[],
+    "wof:id":874080133,
+    "wof:lastmodified":1464311552,
+    "wof:name":"Aspen Meadows",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -110.789382,
+    43.467776,
+    -110.789382,
+    43.467776
+],
+  "geometry": {"coordinates":[-110.789382,43.467776],"type":"Point"}
+}

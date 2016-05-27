@@ -1,0 +1,56 @@
+{
+  "id": 874007173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.45017,42.762689,-104.45017,42.762689",
+    "geom:latitude":42.762689,
+    "geom:longitude":-104.45017,
+    "iso:country":"US",
+    "sg:address":"201 E 3rd St",
+    "sg:city":"Lusk",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 334 2212",
+    "sg:postcode":"82225",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ti5vNI8HahC8qoA9vSb22_42.762689_-104.450170@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310834,
+    "wof:geomhash":"7ce8daf569f4c4c68315f8776af8c941",
+    "wof:hierarchy":[],
+    "wof:id":874007173,
+    "wof:lastmodified":1464310834,
+    "wof:name":"Lusk Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -104.45017,
+    42.762689,
+    -104.45017,
+    42.762689
+],
+  "geometry": {"coordinates":[-104.45017,42.762689],"type":"Point"}
+}

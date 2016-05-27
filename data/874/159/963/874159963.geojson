@@ -1,0 +1,69 @@
+{
+  "id": 874159963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.37649,42.80928,-106.37649,42.80928",
+    "geom:latitude":42.80928,
+    "geom:longitude":-106.37649,
+    "iso:country":"US",
+    "sg:address":"3900 Wolf Creek Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 6884",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ySenEbhN51Ua0NVOH4bFH_42.809280_-106.376490@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312432,
+    "wof:geomhash":"6b48d3eb830fd3274dc06124857bf544",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874159963
+        }
+    ],
+    "wof:id":874159963,
+    "wof:lastmodified":1464312432,
+    "wof:name":"Dick's Bison Wrecker Svc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -106.37649,
+    42.80928,
+    -106.37649,
+    42.80928
+],
+  "geometry": {"coordinates":[-106.37649,42.80928],"type":"Point"}
+}

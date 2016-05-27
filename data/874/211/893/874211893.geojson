@@ -1,0 +1,58 @@
+{
+  "id": 874211893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.698853,44.347337,-106.698853,44.347337",
+    "geom:latitude":44.347337,
+    "geom:longitude":-106.698853,
+    "iso:country":"US",
+    "sg:address":"65 N Main St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 0500",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "crude",
+        "pipeline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VKa81yjHWziQuAzLedF5W_44.347337_-106.698853@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312973,
+    "wof:geomhash":"729934a7049e09c6379773a87f4a022c",
+    "wof:hierarchy":[],
+    "wof:id":874211893,
+    "wof:lastmodified":1464312973,
+    "wof:name":"Rimrock Pipeline",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crude",
+        "pipeline"
+    ]
+},
+  "bbox": [
+    -106.698853,
+    44.347337,
+    -106.698853,
+    44.347337
+],
+  "geometry": {"coordinates":[-106.698853,44.347337],"type":"Point"}
+}

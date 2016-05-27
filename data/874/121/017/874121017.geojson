@@ -1,0 +1,73 @@
+{
+  "id": 874121017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.303765,42.848694,-106.303765,42.848694",
+    "geom:latitude":42.848694,
+    "geom:longitude":-106.303765,
+    "iso:country":"US",
+    "sg:address":"1641 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 9462",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vrUb0ssl6xvJVFy5S1Fiz_42.848694_-106.303765@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312050,
+    "wof:geomhash":"e659240625423ac27648ad512503f35d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874121017
+        }
+    ],
+    "wof:id":874121017,
+    "wof:lastmodified":1464312050,
+    "wof:name":"Occupational Health Testing",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -106.303765,
+    42.848694,
+    -106.303765,
+    42.848694
+],
+  "geometry": {"coordinates":[-106.303765,42.848694],"type":"Point"}
+}

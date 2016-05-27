@@ -1,0 +1,64 @@
+{
+  "id": 874009815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.322431,42.845978,-106.322431,42.845978",
+    "geom:latitude":42.845978,
+    "geom:longitude":-106.322431,
+    "iso:country":"US",
+    "sg:address":"428 S Durbin St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1914",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TIzXkhB9WDNbmKum1fuwf_42.845978_-106.322431@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310854,
+    "wof:geomhash":"7a0d2f7c9a3901cef059b3d281b7450e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874009815
+        }
+    ],
+    "wof:id":874009815,
+    "wof:lastmodified":1464310854,
+    "wof:name":"Bi-Rite Pay Less Drug Stores",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.322431,
+    42.845978,
+    -106.322431,
+    42.845978
+],
+  "geometry": {"coordinates":[-106.32243099999999,42.845978],"type":"Point"}
+}

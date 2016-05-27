@@ -1,0 +1,58 @@
+{
+  "id": 874091401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.815354,41.101663,-104.815354,41.101663",
+    "geom:latitude":41.101663,
+    "geom:longitude":-104.815354,
+    "iso:country":"US",
+    "sg:address":"1104 Cherry St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 6882",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dZPdmmmjkhvcnmTMZJyxl_41.101663_-104.815354@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311680,
+    "wof:geomhash":"13cbc7e8e47e835a3e0573e1f922bd5a",
+    "wof:hierarchy":[],
+    "wof:id":874091401,
+    "wof:lastmodified":1464311680,
+    "wof:name":"Georges Auto Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -104.815354,
+    41.101663,
+    -104.815354,
+    41.101663
+],
+  "geometry": {"coordinates":[-104.815354,41.101663],"type":"Point"}
+}

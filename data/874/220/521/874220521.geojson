@@ -1,0 +1,74 @@
+{
+  "id": 874220521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.3444,42.807669,-106.3444,42.807669",
+    "geom:latitude":42.807669,
+    "geom:longitude":-106.3444,
+    "iso:country":"US",
+    "sg:address":"4500 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7581",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ejidNY3ok1KUpKx2WDjXv_42.807669_-106.344400@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313069,
+    "wof:geomhash":"f1991f105c3c23f34fdeb392f7081748",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874220521
+        }
+    ],
+    "wof:id":874220521,
+    "wof:lastmodified":1464313069,
+    "wof:name":"Pine Tree Condominiums",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -106.3444,
+    42.807669,
+    -106.3444,
+    42.807669
+],
+  "geometry": {"coordinates":[-106.34439999999999,42.807669],"type":"Point"}
+}

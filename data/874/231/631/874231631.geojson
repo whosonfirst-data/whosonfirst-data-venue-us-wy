@@ -1,0 +1,61 @@
+{
+  "id": 874231631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.470875,41.515727,-109.470875,41.515727",
+    "geom:latitude":41.515727,
+    "geom:longitude":-109.470875,
+    "iso:country":"US",
+    "sg:address":"430 Uinta Dr",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/green-river-south/78191-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 2020",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23E13KCD4odUIBkanX5tMs_41.515204_-109.471194@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313182,
+    "wof:geomhash":"a56b50875d3fc3bf08acb39766088fe9",
+    "wof:hierarchy":[],
+    "wof:id":874231631,
+    "wof:lastmodified":1464313182,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -109.470875,
+    41.515727,
+    -109.470875,
+    41.515727
+],
+  "geometry": {"coordinates":[-109.47087500000001,41.515727],"type":"Point"}
+}

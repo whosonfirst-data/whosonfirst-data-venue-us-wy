@@ -1,0 +1,57 @@
+{
+  "id": 874228337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.814621,41.134076,-104.814621,41.134076",
+    "geom:latitude":41.134076,
+    "geom:longitude":-104.814621,
+    "iso:country":"US",
+    "sg:address":"112 E 17th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/5722-pizzeria-venti/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 433 1020",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ulWArYGVBa2lQyNIq6GoL_41.134076_-104.814621@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313144,
+    "wof:geomhash":"aab75d0b2994120341743d0d97daa61d",
+    "wof:hierarchy":[],
+    "wof:id":874228337,
+    "wof:lastmodified":1464313144,
+    "wof:name":"Pizzeria Venti",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -104.814621,
+    41.134076,
+    -104.814621,
+    41.134076
+],
+  "geometry": {"coordinates":[-104.814621,41.134076],"type":"Point"}
+}

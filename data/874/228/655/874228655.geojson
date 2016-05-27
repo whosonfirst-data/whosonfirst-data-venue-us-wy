@@ -1,0 +1,78 @@
+{
+  "id": 874228655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.806265,41.159544,-104.806265,41.159544",
+    "geom:latitude":41.159544,
+    "geom:longitude":-104.806265,
+    "iso:country":"US",
+    "sg:address":"1439 Stillwater Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/139322-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 1212",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DDew80ugOQSzS573V60Qv_41.159544_-104.806265@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313147,
+    "wof:geomhash":"5597cbd0f9c757d42e58667d7f1a3ddd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":874228655
+        }
+    ],
+    "wof:id":874228655,
+    "wof:lastmodified":1464313147,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -104.806265,
+    41.159544,
+    -104.806265,
+    41.159544
+],
+  "geometry": {"coordinates":[-104.806265,41.159544],"type":"Point"}
+}

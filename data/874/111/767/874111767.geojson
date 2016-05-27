@@ -1,0 +1,70 @@
+{
+  "id": 874111767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.315191,42.851404,-106.315191,42.851404",
+    "geom:latitude":42.851404,
+    "geom:longitude":-106.315191,
+    "iso:country":"US",
+    "sg:address":"847 E A St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 9658",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "sg:website":"www.bresan.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dEx9OgwyKzhdlqMDEMz0l_42.851404_-106.315191@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311954,
+    "wof:geomhash":"1e9014f6d579f6665781ab87d9fb64ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874111767
+        }
+    ],
+    "wof:id":874111767,
+    "wof:lastmodified":1464311954,
+    "wof:name":"Bosco's Italian Restaurante",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -106.315191,
+    42.851404,
+    -106.315191,
+    42.851404
+],
+  "geometry": {"coordinates":[-106.315191,42.851404],"type":"Point"}
+}

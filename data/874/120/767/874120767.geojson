@@ -1,0 +1,58 @@
+{
+  "id": 874120767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.168231,42.06104,-104.168231,42.06104",
+    "geom:latitude":42.06104,
+    "geom:longitude":-104.168231,
+    "iso:country":"US",
+    "sg:address":"1317 E 17th Ave",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 3644",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CWXEbIN1Tz66zVT4jzVJl_42.061040_-104.168231@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312048,
+    "wof:geomhash":"c9a36fdb8c308514993bf875c35a3b2e",
+    "wof:hierarchy":[],
+    "wof:id":874120767,
+    "wof:lastmodified":1464312048,
+    "wof:name":"Torrington Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -104.168231,
+    42.06104,
+    -104.168231,
+    42.06104
+],
+  "geometry": {"coordinates":[-104.16823100000001,42.06104],"type":"Point"}
+}

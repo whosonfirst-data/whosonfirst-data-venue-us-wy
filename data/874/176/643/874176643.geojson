@@ -1,0 +1,73 @@
+{
+  "id": 874176643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593443,41.311867,-105.593443,41.311867",
+    "geom:latitude":41.311867,
+    "geom:longitude":-105.593443,
+    "iso:country":"US",
+    "sg:address":"209 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 0775",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jrzUcU2b5hI0efCCPwvDZ_41.311867_-105.593443@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312593,
+    "wof:geomhash":"f17e714e4a71e5efbba15528e679f98b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874176643
+        }
+    ],
+    "wof:id":874176643,
+    "wof:lastmodified":1464312593,
+    "wof:name":"Pro Wireless",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -105.593443,
+    41.311867,
+    -105.593443,
+    41.311867
+],
+  "geometry": {"coordinates":[-105.59344299999999,41.311867],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874033547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.981924,44.806724,-106.981924,44.806724",
+    "geom:latitude":44.806724,
+    "geom:longitude":-106.981924,
+    "iso:country":"US",
+    "sg:address":"1701 W 5th St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 7700",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rkHi1Q2dgbyXdOS2JhQF8_44.806724_-106.981924@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311080,
+    "wof:geomhash":"ccf6ba077727bcef63b58d6659e89947",
+    "wof:hierarchy":[],
+    "wof:id":874033547,
+    "wof:lastmodified":1464311080,
+    "wof:name":"Goose Creek Pediatrics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -106.981924,
+    44.806724,
+    -106.981924,
+    44.806724
+],
+  "geometry": {"coordinates":[-106.98192400000001,44.806724],"type":"Point"}
+}

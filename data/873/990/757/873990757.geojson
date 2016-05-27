@@ -1,0 +1,69 @@
+{
+  "id": 873990757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.332741,42.804526,-106.332741,42.804526",
+    "geom:latitude":42.804526,
+    "geom:longitude":-106.332741,
+    "iso:country":"US",
+    "sg:address":"4731 S Ash St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 8668",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0faL7WL4bWNmFOMVU9S1Od_42.804526_-106.332741@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310695,
+    "wof:geomhash":"6e2ac9ff44613d0cab0711dd96a13382",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873990757
+        }
+    ],
+    "wof:id":873990757,
+    "wof:lastmodified":1464310695,
+    "wof:name":"Mel Parrent Consulting LLC",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -106.332741,
+    42.804526,
+    -106.332741,
+    42.804526
+],
+  "geometry": {"coordinates":[-106.332741,42.804526],"type":"Point"}
+}

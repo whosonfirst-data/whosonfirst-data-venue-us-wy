@@ -1,0 +1,71 @@
+{
+  "id": 874077385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.31661,42.848529,-106.31661,42.848529",
+    "geom:latitude":42.848529,
+    "geom:longitude":-106.31661,
+    "iso:country":"US",
+    "sg:address":"229 S Grant St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 6056",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3favkujFk1f5KUjV4zgPLl_42.848529_-106.316610@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311523,
+    "wof:geomhash":"41164aceb5a93e4da52059506b74388e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874077385
+        }
+    ],
+    "wof:id":874077385,
+    "wof:lastmodified":1464311523,
+    "wof:name":"Mc Kenzie Apartments",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -106.31661,
+    42.848529,
+    -106.31661,
+    42.848529
+],
+  "geometry": {"coordinates":[-106.31661,42.848529],"type":"Point"}
+}

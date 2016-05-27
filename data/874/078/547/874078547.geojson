@@ -1,0 +1,56 @@
+{
+  "id": 874078547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.377833,44.40526,-104.377833,44.40526",
+    "geom:latitude":44.40526,
+    "geom:longitude":-104.377833,
+    "iso:country":"US",
+    "sg:address":"309 E Cleveland St",
+    "sg:city":"Sundance",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 283 2929",
+    "sg:postcode":"82729",
+    "sg:province":"WY",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gtL67WqrDN7U4GMwwIyoa_44.405260_-104.377833@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311533,
+    "wof:geomhash":"d0ddcbbb52dee778800ad865014d87d6",
+    "wof:hierarchy":[],
+    "wof:id":874078547,
+    "wof:lastmodified":1464311533,
+    "wof:name":"Crook County Circuit Court",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -104.377833,
+    44.40526,
+    -104.377833,
+    44.40526
+],
+  "geometry": {"coordinates":[-104.377833,44.40526],"type":"Point"}
+}

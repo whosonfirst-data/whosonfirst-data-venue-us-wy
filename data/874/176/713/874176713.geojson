@@ -1,0 +1,52 @@
+{
+  "id": 874176713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.967791,41.268985,-110.967791,41.268985",
+    "geom:latitude":41.268985,
+    "geom:longitude":-110.967791,
+    "iso:country":"US",
+    "sg:address":"1121 Main St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 0208",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:website":"www.thegreenhornfloral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QiripUqOEErq8ld5gyUAT_41.268985_-110.967791@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312594,
+    "wof:geomhash":"65a951f553a18bf64ee2f52c26eaeed6",
+    "wof:hierarchy":[],
+    "wof:id":874176713,
+    "wof:lastmodified":1464312594,
+    "wof:name":"Greenhorn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.967791,
+    41.268985,
+    -110.967791,
+    41.268985
+],
+  "geometry": {"coordinates":[-110.96779100000001,41.268985],"type":"Point"}
+}

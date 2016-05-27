@@ -1,0 +1,73 @@
+{
+  "id": 874127091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.803304,41.160219,-104.803304,41.160219",
+    "geom:latitude":41.160219,
+    "geom:longitude":-104.803304,
+    "iso:country":"US",
+    "sg:address":"1737 Dell Range Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 9611",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mattress"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30OSdj5tYx6lInusouN51Z_41.160219_-104.803304@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312103,
+    "wof:geomhash":"13251650f8f56a96619c636155dd8d29",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":874127091
+        }
+    ],
+    "wof:id":874127091,
+    "wof:lastmodified":1464312103,
+    "wof:name":"Denver Mattress Co",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mattress"
+    ]
+},
+  "bbox": [
+    -104.803304,
+    41.160219,
+    -104.803304,
+    41.160219
+],
+  "geometry": {"coordinates":[-104.803304,41.160219],"type":"Point"}
+}

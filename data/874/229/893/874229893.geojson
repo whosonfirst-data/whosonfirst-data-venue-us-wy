@@ -1,0 +1,59 @@
+{
+  "id": 874229893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.49382,44.267687,-105.49382,44.267687",
+    "geom:latitude":44.267687,
+    "geom:longitude":-105.49382,
+    "iso:country":"US",
+    "sg:address":"2720 S Douglas Hwy",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/gillette-south/159134-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 7545",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iicdDu2tiGQprsswT3oEL_44.267687_-105.493820@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313159,
+    "wof:geomhash":"27b488d3f98abd9cdc006b0546f328ad",
+    "wof:hierarchy":[],
+    "wof:id":874229893,
+    "wof:lastmodified":1464313159,
+    "wof:name":"Arby's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -105.49382,
+    44.267687,
+    -105.49382,
+    44.267687
+],
+  "geometry": {"coordinates":[-105.49382,44.267687],"type":"Point"}
+}

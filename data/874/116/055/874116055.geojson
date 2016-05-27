@@ -1,0 +1,68 @@
+{
+  "id": 874116055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.24072,41.596659,-109.24072,41.596659",
+    "geom:latitude":41.596659,
+    "geom:longitude":-109.24072,
+    "iso:country":"US",
+    "sg:address":"1900 Gateway Blvd",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 0708",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24ewc4t49Ujih1TwBhGjkH_41.596659_-109.240720@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311997,
+    "wof:geomhash":"9a812294360afd69e1831dc4e34bcd1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874116055
+        }
+    ],
+    "wof:id":874116055,
+    "wof:lastmodified":1464311997,
+    "wof:name":"Corporation of President of Th",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.24072,
+    41.596659,
+    -109.24072,
+    41.596659
+],
+  "geometry": {"coordinates":[-109.24072,41.596659],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 874114125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.81156,44.35864,-104.81156,44.35864",
+    "geom:latitude":44.35864,
+    "geom:longitude":-104.81156,
+    "iso:country":"US",
+    "sg:address":"2 Hays Blvd",
+    "sg:city":"Moorcroft",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 756 9707",
+    "sg:postcode":"82721",
+    "sg:province":"WY",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ya8NWatFvvwHCMKiSXua6_44.358640_-104.811560@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311978,
+    "wof:geomhash":"51da5d715e8edcc590472094d83db7ea",
+    "wof:hierarchy":[],
+    "wof:id":874114125,
+    "wof:lastmodified":1464311978,
+    "wof:name":"Haven Bar & Grill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -104.81156,
+    44.35864,
+    -104.81156,
+    44.35864
+],
+  "geometry": {"coordinates":[-104.81156,44.35864],"type":"Point"}
+}

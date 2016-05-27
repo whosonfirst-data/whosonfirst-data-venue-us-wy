@@ -1,0 +1,58 @@
+{
+  "id": 874207111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.093489,44.515994,-109.093489,44.515994",
+    "geom:latitude":44.515994,
+    "geom:longitude":-109.093489,
+    "iso:country":"US",
+    "sg:address":"203 Yellowstone Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 6921",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ranger",
+        "district"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yQyUP3JChGK6gUZHAQfin_44.515994_-109.093489@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312921,
+    "wof:geomhash":"5f137bd36b248a9a82a49a7557b4ab57",
+    "wof:hierarchy":[],
+    "wof:id":874207111,
+    "wof:lastmodified":1464312921,
+    "wof:name":"Wapiti Ranger District",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranger",
+        "district"
+    ]
+},
+  "bbox": [
+    -109.093489,
+    44.515994,
+    -109.093489,
+    44.515994
+],
+  "geometry": {"coordinates":[-109.09348900000001,44.515994],"type":"Point"}
+}

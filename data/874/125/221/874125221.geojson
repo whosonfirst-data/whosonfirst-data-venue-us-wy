@@ -1,0 +1,64 @@
+{
+  "id": 874125221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.267549,42.840915,-106.267549,42.840915",
+    "geom:latitude":42.840915,
+    "geom:longitude":-106.267549,
+    "iso:country":"US",
+    "sg:address":"1007 Carriage Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 0516",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_770rsPR6Ayhba7HeKbxCXP_42.840915_-106.267549@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312087,
+    "wof:geomhash":"9a1b055fdc0fb607b0131d9f44dbb149",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874125221
+        }
+    ],
+    "wof:id":874125221,
+    "wof:lastmodified":1464312087,
+    "wof:name":"Mechanical Music",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.267549,
+    42.840915,
+    -106.267549,
+    42.840915
+],
+  "geometry": {"coordinates":[-106.267549,42.840915],"type":"Point"}
+}

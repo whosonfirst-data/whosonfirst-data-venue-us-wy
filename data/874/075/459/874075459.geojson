@@ -1,0 +1,69 @@
+{
+  "id": 874075459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.322406,42.848999,-106.322406,42.848999",
+    "geom:latitude":42.848999,
+    "geom:longitude":-106.322406,
+    "iso:country":"US",
+    "sg:address":"120 S Durbin St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1791",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AbCGpO31PEAKda7Q9cAAA_42.848999_-106.322406@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311506,
+    "wof:geomhash":"bae2f5d06c612ccf2bb41957e153c4c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874075459
+        }
+    ],
+    "wof:id":874075459,
+    "wof:lastmodified":1464311506,
+    "wof:name":"Market Crude Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -106.322406,
+    42.848999,
+    -106.322406,
+    42.848999
+],
+  "geometry": {"coordinates":[-106.322406,42.848999],"type":"Point"}
+}

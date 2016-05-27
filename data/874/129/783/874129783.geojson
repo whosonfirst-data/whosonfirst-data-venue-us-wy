@@ -1,0 +1,66 @@
+{
+  "id": 874129783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.581223,41.303762,-105.581223,41.303762",
+    "geom:latitude":41.303762,
+    "geom:longitude":-105.581223,
+    "iso:country":"US",
+    "sg:address":"1306 E Ord St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4313",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78I1gicsODpW0T0Usqzwt4_41.303762_-105.581223@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312133,
+    "wof:geomhash":"f2370ed0fd3b415abd2065d8906ae525",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874129783
+        }
+    ],
+    "wof:id":874129783,
+    "wof:lastmodified":1464312133,
+    "wof:name":"Rks Consulting LLC",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.581223,
+    41.303762,
+    -105.581223,
+    41.303762
+],
+  "geometry": {"coordinates":[-105.58122299999999,41.303762],"type":"Point"}
+}

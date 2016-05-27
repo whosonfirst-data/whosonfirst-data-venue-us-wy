@@ -1,0 +1,71 @@
+{
+  "id": 874007569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590706,41.311848,-105.590706,41.311848",
+    "geom:latitude":41.311848,
+    "geom:longitude":-105.590706,
+    "iso:country":"US",
+    "sg:address":"515 E Ivinson Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7358",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qUWeeQu1BhoVMPR9LeKrb_41.311848_-105.590706@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310837,
+    "wof:geomhash":"dcb30ea9e4b7cee11b6f5d1d0563d70b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874007569
+        }
+    ],
+    "wof:id":874007569,
+    "wof:lastmodified":1464310837,
+    "wof:name":"Brown & Hiser",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -105.590706,
+    41.311848,
+    -105.590706,
+    41.311848
+],
+  "geometry": {"coordinates":[-105.590706,41.311848],"type":"Point"}
+}

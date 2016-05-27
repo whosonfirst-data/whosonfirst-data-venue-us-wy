@@ -1,0 +1,71 @@
+{
+  "id": 874006639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.40678,42.86785,-106.40678,42.86785",
+    "geom:latitude":42.86785,
+    "geom:longitude":-106.40678,
+    "iso:country":"US",
+    "sg:address":"500 N Queen St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8466",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G10vWIcNfHiVGg3JGKxUe_42.867850_-106.406780@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310830,
+    "wof:geomhash":"32b0422ba4e9fafbe4b089c9b24847aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874006639
+        }
+    ],
+    "wof:id":874006639,
+    "wof:lastmodified":1464310830,
+    "wof:name":"Sauer Drilling Co Truck Shop",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -106.40678,
+    42.86785,
+    -106.40678,
+    42.86785
+],
+  "geometry": {"coordinates":[-106.40678,42.86785],"type":"Point"}
+}

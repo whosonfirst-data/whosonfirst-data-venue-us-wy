@@ -1,0 +1,51 @@
+{
+  "id": 874119169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.950779,44.7922,-106.950779,44.7922",
+    "geom:latitude":44.7922,
+    "geom:longitude":-106.950779,
+    "iso:country":"US",
+    "sg:address":"362 Coffeen Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 7705",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aREyx4L7L0gnLfBMdUefM_44.792200_-106.950779@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312026,
+    "wof:geomhash":"a234f1bcdc36613859f96a2e2bba55e7",
+    "wof:hierarchy":[],
+    "wof:id":874119169,
+    "wof:lastmodified":1464312026,
+    "wof:name":"Ed's Compounding Pharmacy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.950779,
+    44.7922,
+    -106.950779,
+    44.7922
+],
+  "geometry": {"coordinates":[-106.950779,44.7922],"type":"Point"}
+}

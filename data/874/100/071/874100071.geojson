@@ -1,0 +1,64 @@
+{
+  "id": 874100071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323685,42.84886,-106.323685,42.84886",
+    "geom:latitude":42.84886,
+    "geom:longitude":-106.323685,
+    "iso:country":"US",
+    "sg:address":"111 S Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 261 5444",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ql5igApCHHTFnb4PoJMMv_42.848860_-106.323685@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311794,
+    "wof:geomhash":"64525f7c3b3bb14e5636549d2b5b10cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874100071
+        }
+    ],
+    "wof:id":874100071,
+    "wof:lastmodified":1464311794,
+    "wof:name":"U S Bankruptcy Court",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.323685,
+    42.84886,
+    -106.323685,
+    42.84886
+],
+  "geometry": {"coordinates":[-106.323685,42.84886],"type":"Point"}
+}

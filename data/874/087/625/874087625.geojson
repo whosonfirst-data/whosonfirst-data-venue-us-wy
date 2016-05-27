@@ -1,0 +1,65 @@
+{
+  "id": 874087625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.349865,44.300559,-105.349865,44.300559",
+    "geom:latitude":44.300559,
+    "geom:longitude":-105.349865,
+    "iso:country":"US",
+    "sg:address":"6 B Ct",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 8442",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "heating",
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aZuIlMkL9d0ZXQVoX20ix_44.300559_-105.349865@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311637,
+    "wof:geomhash":"9279654b2ed213963694084dfca8a2e1",
+    "wof:hierarchy":[],
+    "wof:id":874087625,
+    "wof:lastmodified":1464311637,
+    "wof:name":"Maintenance By Prevention Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.349865,
+    44.300559,
+    -105.349865,
+    44.300559
+],
+  "geometry": {"coordinates":[-105.34986499999999,44.300559],"type":"Point"}
+}

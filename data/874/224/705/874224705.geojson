@@ -1,0 +1,73 @@
+{
+  "id": 874224705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.57445,41.322695,-105.57445,41.322695",
+    "geom:latitude":41.322695,
+    "geom:longitude":-105.57445,
+    "iso:country":"US",
+    "sg:address":"1455 N 17th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 5877",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sewing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S1jVHeXnbAAf5SKEpK4TP_41.322695_-105.574450@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313109,
+    "wof:geomhash":"1fdb147c11e49076ae7cee39cf4561c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874224705
+        }
+    ],
+    "wof:id":874224705,
+    "wof:lastmodified":1464313109,
+    "wof:name":"Custom Sewing Svc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.57445,
+    41.322695,
+    -105.57445,
+    41.322695
+],
+  "geometry": {"coordinates":[-105.57445,41.322695],"type":"Point"}
+}

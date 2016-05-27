@@ -1,0 +1,64 @@
+{
+  "id": 874015177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.36631,42.81417,-106.36631,42.81417",
+    "geom:latitude":42.81417,
+    "geom:longitude":-106.36631,
+    "iso:country":"US",
+    "sg:address":"3101 SW Wyoming Blvd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 7008",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24h0SLEGXPKEf3QQwTHSAL_42.814170_-106.366310@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310892,
+    "wof:geomhash":"fb0ccf72a8a52e357666b755c0ecf487",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874015177
+        }
+    ],
+    "wof:id":874015177,
+    "wof:lastmodified":1464310892,
+    "wof:name":"Jensen Eye Care",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.36631,
+    42.81417,
+    -106.36631,
+    42.81417
+],
+  "geometry": {"coordinates":[-106.36631,42.81417],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874091503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.965093,41.268209,-110.965093,41.268209",
+    "geom:latitude":41.268209,
+    "geom:longitude":-110.965093,
+    "iso:country":"US",
+    "sg:address":"917 Front St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 444 2059",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V9DDAD0UWu25sJIXvevT6_41.268209_-110.965093@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311681,
+    "wof:geomhash":"0147f6a7e3427e6532dcab8c9c95e910",
+    "wof:hierarchy":[],
+    "wof:id":874091503,
+    "wof:lastmodified":1464311681,
+    "wof:name":"Veterans Of Foreign Wars",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -110.965093,
+    41.268209,
+    -110.965093,
+    41.268209
+],
+  "geometry": {"coordinates":[-110.965093,41.268209],"type":"Point"}
+}

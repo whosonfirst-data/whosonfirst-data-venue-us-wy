@@ -1,0 +1,71 @@
+{
+  "id": 874082647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.426812,42.879745,-106.426812,42.879745",
+    "geom:latitude":42.879745,
+    "geom:longitude":-106.426812,
+    "iso:country":"US",
+    "sg:address":"2383 Nuclear Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 4749",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fiVE90GRdbLKIjBe6cSdE_42.879745_-106.426812@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311586,
+    "wof:geomhash":"3137fc2675689ca796f66afc982e92e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874082647
+        }
+    ],
+    "wof:id":874082647,
+    "wof:lastmodified":1464311586,
+    "wof:name":"Grizzly Oil Field Svc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.426812,
+    42.879745,
+    -106.426812,
+    42.879745
+],
+  "geometry": {"coordinates":[-106.426812,42.879745],"type":"Point"}
+}

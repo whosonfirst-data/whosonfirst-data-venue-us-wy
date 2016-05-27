@@ -1,0 +1,56 @@
+{
+  "id": 874084741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.968851,41.27646,-110.968851,41.27646",
+    "geom:latitude":41.27646,
+    "geom:longitude":-110.968851,
+    "iso:country":"US",
+    "sg:address":"10 River Bend Ct",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 9045",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wuG9RfyHNO1anlRFQ0GKk_41.276460_-110.968851@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311607,
+    "wof:geomhash":"bf692c9ba3a40bd15b242d067182ac17",
+    "wof:hierarchy":[],
+    "wof:id":874084741,
+    "wof:lastmodified":1464311607,
+    "wof:name":"Perkins Automotive Repair Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -110.968851,
+    41.27646,
+    -110.968851,
+    41.27646
+],
+  "geometry": {"coordinates":[-110.968851,41.27646],"type":"Point"}
+}

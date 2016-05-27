@@ -1,0 +1,56 @@
+{
+  "id": 874146189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.783126,41.160257,-104.783126,41.160257",
+    "geom:latitude":41.160257,
+    "geom:longitude":-104.783126,
+    "iso:country":"US",
+    "sg:address":"2314 Dell Range Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 6392",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XPJAaUL40JjgX7YMpYxxQ_41.160257_-104.783126@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312295,
+    "wof:geomhash":"c771594fb2335864aada811149667ba0",
+    "wof:hierarchy":[],
+    "wof:id":874146189,
+    "wof:lastmodified":1464312295,
+    "wof:name":"Dell Range Animal Hospital",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -104.783126,
+    41.160257,
+    -104.783126,
+    41.160257
+],
+  "geometry": {"coordinates":[-104.783126,41.160257],"type":"Point"}
+}

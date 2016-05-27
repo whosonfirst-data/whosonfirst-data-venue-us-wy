@@ -1,0 +1,64 @@
+{
+  "id": 874165307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.299575,42.855076,-106.299575,42.855076",
+    "geom:latitude":42.855076,
+    "geom:longitude":-106.299575,
+    "iso:country":"US",
+    "sg:address":"473 N Lennox St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 1000",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4INsSJkymXMrHPAEIfzXOL_42.855076_-106.299575@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312482,
+    "wof:geomhash":"831b16b6ebc8da8ba14d9d2e7f694f9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874165307
+        }
+    ],
+    "wof:id":874165307,
+    "wof:lastmodified":1464312482,
+    "wof:name":"Auction ICS",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.299575,
+    42.855076,
+    -106.299575,
+    42.855076
+],
+  "geometry": {"coordinates":[-106.299575,42.855076],"type":"Point"}
+}

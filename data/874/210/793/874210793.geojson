@@ -1,0 +1,56 @@
+{
+  "id": 874210793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.850931,44.662661,-103.850931,44.662661",
+    "geom:latitude":44.662661,
+    "geom:longitude":-103.850931,
+    "iso:country":"US",
+    "sg:address":"605 National St",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 6237",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JtlXBAQVIsMtJnawsCXKR_44.662661_-103.850931@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312959,
+    "wof:geomhash":"888abb9b0834fd6efd0cf7015d808076",
+    "wof:hierarchy":[],
+    "wof:id":874210793,
+    "wof:lastmodified":1464312959,
+    "wof:name":"Belle Fourche Fire Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -103.850931,
+    44.662661,
+    -103.850931,
+    44.662661
+],
+  "geometry": {"coordinates":[-103.850931,44.662661],"type":"Point"}
+}

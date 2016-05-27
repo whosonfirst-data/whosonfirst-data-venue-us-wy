@@ -1,0 +1,58 @@
+{
+  "id": 874082139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.385491,42.761708,-105.385491,42.761708",
+    "geom:latitude":42.761708,
+    "geom:longitude":-105.385491,
+    "iso:country":"US",
+    "sg:address":"242 N 2nd St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 0756",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jFsxWcMEWHqPwwBjFZcEz_42.761708_-105.385491@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311578,
+    "wof:geomhash":"321e7b12f9d6a65b7b8cb2b12165de5c",
+    "wof:hierarchy":[],
+    "wof:id":874082139,
+    "wof:lastmodified":1464311578,
+    "wof:name":"AQE Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.385491,
+    42.761708,
+    -105.385491,
+    42.761708
+],
+  "geometry": {"coordinates":[-105.385491,42.761708],"type":"Point"}
+}

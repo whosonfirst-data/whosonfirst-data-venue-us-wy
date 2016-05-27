@@ -1,0 +1,69 @@
+{
+  "id": 874186399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.28231,42.844253,-106.28231,42.844253",
+    "geom:latitude":42.844253,
+    "geom:longitude":-106.28231,
+    "iso:country":"US",
+    "sg:address":"723 Trigood Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 1766",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Xclcvfhh20pyLLr2NthSO_42.844253_-106.282310@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312704,
+    "wof:geomhash":"7e6c497104df5f05d615d2e35ee0fdd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874186399
+        }
+    ],
+    "wof:id":874186399,
+    "wof:lastmodified":1464312704,
+    "wof:name":"Bill Oldson",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field"
+    ]
+},
+  "bbox": [
+    -106.28231,
+    42.844253,
+    -106.28231,
+    42.844253
+],
+  "geometry": {"coordinates":[-106.28231,42.844253],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874062455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.214793,41.80161,-107.214793,41.80161",
+    "geom:latitude":41.80161,
+    "geom:longitude":-107.214793,
+    "iso:country":"US",
+    "sg:address":"1326 Bonanza St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 3991",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55z5lFH5fxgn9S4BMlaLbS_41.801610_-107.214793@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311357,
+    "wof:geomhash":"35fef1f077408c0babf8ec47a1da6ef6",
+    "wof:hierarchy":[],
+    "wof:id":874062455,
+    "wof:lastmodified":1464311357,
+    "wof:name":"Brown's Towing & Recovery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -107.214793,
+    41.80161,
+    -107.214793,
+    41.80161
+],
+  "geometry": {"coordinates":[-107.214793,41.80161],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 874230997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33827,42.834238,-106.33827,42.834238",
+    "geom:latitude":42.834238,
+    "geom:longitude":-106.33827,
+    "iso:country":"US",
+    "sg:address":"1111 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/casper/195929-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 4578",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ohxnZ9Dcg5bS3eAcRWO8T_42.834387_-106.338277@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313174,
+    "wof:geomhash":"09e694706bdbe1ff0bd5518306c5cae8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874230997
+        }
+    ],
+    "wof:id":874230997,
+    "wof:lastmodified":1464313174,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -106.33827,
+    42.834238,
+    -106.33827,
+    42.834238
+],
+  "geometry": {"coordinates":[-106.33826999999999,42.834238],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874070093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.316255,42.858978,-106.316255,42.858978",
+    "geom:latitude":42.858978,
+    "geom:longitude":-106.316255,
+    "iso:country":"US",
+    "sg:address":"720 Glenarm St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 0815",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ns6Pb3vpuFYibP5EzmuLu_42.858978_-106.316255@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311432,
+    "wof:geomhash":"aa068f9e9917989668bee22e28ea7939",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874070093
+        }
+    ],
+    "wof:id":874070093,
+    "wof:lastmodified":1464311432,
+    "wof:name":"AAMCO Transmissions",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -106.316255,
+    42.858978,
+    -106.316255,
+    42.858978
+],
+  "geometry": {"coordinates":[-106.316255,42.858978],"type":"Point"}
+}

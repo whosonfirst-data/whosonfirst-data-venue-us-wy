@@ -1,0 +1,64 @@
+{
+  "id": 874146817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.306819,42.84758,-106.306819,42.84758",
+    "geom:latitude":42.84758,
+    "geom:longitude":-106.306819,
+    "iso:country":"US",
+    "sg:address":"222 S Wilson St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1865",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KS2kbVHx9MrRS91KdoxFh_42.847580_-106.306819@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312301,
+    "wof:geomhash":"7192cafd6c049699c217aa2a0aa25801",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874146817
+        }
+    ],
+    "wof:id":874146817,
+    "wof:lastmodified":1464312301,
+    "wof:name":"Ronald R Horton DDS",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.306819,
+    42.84758,
+    -106.306819,
+    42.84758
+],
+  "geometry": {"coordinates":[-106.306819,42.84758],"type":"Point"}
+}

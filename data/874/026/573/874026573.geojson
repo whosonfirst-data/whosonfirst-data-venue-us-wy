@@ -1,0 +1,69 @@
+{
+  "id": 874026573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.438341,42.880763,-106.438341,42.880763",
+    "geom:latitude":42.880763,
+    "geom:longitude":-106.438341,
+    "iso:country":"US",
+    "sg:address":"7515 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 5770",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66rwMcu3D8SKy2B8FdozYB_42.880763_-106.438341@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311012,
+    "wof:geomhash":"bb5d51febf5da1705b748bc0af7be6dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874026573
+        }
+    ],
+    "wof:id":874026573,
+    "wof:lastmodified":1464311012,
+    "wof:name":"Horseshoe Bar",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bar"
+    ]
+},
+  "bbox": [
+    -106.438341,
+    42.880763,
+    -106.438341,
+    42.880763
+],
+  "geometry": {"coordinates":[-106.43834099999999,42.880763],"type":"Point"}
+}

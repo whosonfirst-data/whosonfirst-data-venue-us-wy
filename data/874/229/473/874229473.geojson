@@ -1,0 +1,74 @@
+{
+  "id": 874229473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.402347,42.811057,-106.402347,42.811057",
+    "geom:latitude":42.811057,
+    "geom:longitude":-106.402347,
+    "iso:country":"US",
+    "sg:address":"285 Honeysuckle St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/casper/126924-blimpie-subs--sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 6946",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7734mwk2OI8d4kQt2GdBSB_42.811057_-106.402347@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313155,
+    "wof:geomhash":"e4eeecf5ce87b8bd9c37fdee38b2edd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874229473
+        }
+    ],
+    "wof:id":874229473,
+    "wof:lastmodified":1464313155,
+    "wof:name":"Blimpie Subs & Sandwiches",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -106.402347,
+    42.811057,
+    -106.402347,
+    42.811057
+],
+  "geometry": {"coordinates":[-106.40234700000001,42.811057],"type":"Point"}
+}

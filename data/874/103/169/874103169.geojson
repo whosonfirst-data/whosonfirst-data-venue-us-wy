@@ -1,0 +1,56 @@
+{
+  "id": 874103169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.199999,41.898592,-106.199999,41.898592",
+    "geom:latitude":41.898592,
+    "geom:longitude":-106.199999,
+    "iso:country":"US",
+    "sg:address":"319 Pine St",
+    "sg:city":"Medicine Bow",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 379 2225",
+    "sg:postcode":"82329",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a1SpspaHkVrwLNbuUnaJB_41.898592_-106.199999@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311834,
+    "wof:geomhash":"1246f8ffea357e2bbbefebbaa1b0912e",
+    "wof:hierarchy":[],
+    "wof:id":874103169,
+    "wof:lastmodified":1464311834,
+    "wof:name":"Municipal Judge",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -106.199999,
+    41.898592,
+    -106.199999,
+    41.898592
+],
+  "geometry": {"coordinates":[-106.19999900000001,41.898592],"type":"Point"}
+}

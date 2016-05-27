@@ -1,0 +1,71 @@
+{
+  "id": 874087775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.353333,42.809785,-106.353333,42.809785",
+    "geom:latitude":42.809785,
+    "geom:longitude":-106.353333,
+    "iso:country":"US",
+    "sg:address":"2401 W 42nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 5921",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "residential",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qSgIly9R0etWgjTimRgyI_42.809785_-106.353333@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311639,
+    "wof:geomhash":"06dd47449229bf7de27b8b41f0a3c331",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874087775
+        }
+    ],
+    "wof:id":874087775,
+    "wof:lastmodified":1464311639,
+    "wof:name":"Carl Sawson",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "house"
+    ]
+},
+  "bbox": [
+    -106.353333,
+    42.809785,
+    -106.353333,
+    42.809785
+],
+  "geometry": {"coordinates":[-106.35333300000001,42.809785],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 874045383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.580276,41.329361,-105.580276,41.329361",
+    "geom:latitude":41.329361,
+    "geom:longitude":-105.580276,
+    "iso:country":"US",
+    "sg:address":"2059 Newton St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8245",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4COWuWQ732NGCKVtQLLHdR_41.329361_-105.580276@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311200,
+    "wof:geomhash":"1c4d67b3a804d7bb4f278a3375b328a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874045383
+        }
+    ],
+    "wof:id":874045383,
+    "wof:lastmodified":1464311200,
+    "wof:name":"Todd Mendick",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.580276,
+    41.329361,
+    -105.580276,
+    41.329361
+],
+  "geometry": {"coordinates":[-105.580276,41.329361],"type":"Point"}
+}

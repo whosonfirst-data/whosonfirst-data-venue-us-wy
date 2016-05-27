@@ -1,0 +1,58 @@
+{
+  "id": 873987535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.948352,44.798794,-106.948352,44.798794",
+    "geom:latitude":44.798794,
+    "geom:longitude":-106.948352,
+    "iso:country":"US",
+    "sg:address":"125 N Sheridan Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 6846",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RMODLgMZa00XdpBmFCe8b_44.798794_-106.948352@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310672,
+    "wof:geomhash":"b8cae2c481be82b202e6d8be9c3fa00e",
+    "wof:hierarchy":[],
+    "wof:id":873987535,
+    "wof:lastmodified":1464310672,
+    "wof:name":"Wyoming Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.948352,
+    44.798794,
+    -106.948352,
+    44.798794
+],
+  "geometry": {"coordinates":[-106.948352,44.798794],"type":"Point"}
+}

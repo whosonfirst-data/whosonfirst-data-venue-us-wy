@@ -1,0 +1,60 @@
+{
+  "id": 874181153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.995988,41.262204,-110.995988,41.262204",
+    "geom:latitude":41.262204,
+    "geom:longitude":-110.995988,
+    "iso:country":"US",
+    "sg:address":"113 Commerce Dr",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 3241",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QKvRAx0832DGOeyZSyL5e_41.262204_-110.995988@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312642,
+    "wof:geomhash":"70de5a076442139a8e059d1645cc6a8b",
+    "wof:hierarchy":[],
+    "wof:id":874181153,
+    "wof:lastmodified":1464312642,
+    "wof:name":"LA Barge Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -110.995988,
+    41.262204,
+    -110.995988,
+    41.262204
+],
+  "geometry": {"coordinates":[-110.995988,41.262204],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874066715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343808,42.831544,-106.343808,42.831544",
+    "geom:latitude":42.831544,
+    "geom:longitude":-106.343808,
+    "iso:country":"US",
+    "sg:address":"1545 Bellaire Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1246",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Qj7MhZ800gSxaP9sPCGsA_42.831544_-106.343808@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311395,
+    "wof:geomhash":"1f193dec3b2df372f9dde4256057e833",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874066715
+        }
+    ],
+    "wof:id":874066715,
+    "wof:lastmodified":1464311395,
+    "wof:name":"WBT Systems Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -106.343808,
+    42.831544,
+    -106.343808,
+    42.831544
+],
+  "geometry": {"coordinates":[-106.343808,42.831544],"type":"Point"}
+}

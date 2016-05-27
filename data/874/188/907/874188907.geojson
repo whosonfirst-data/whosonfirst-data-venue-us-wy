@@ -1,0 +1,60 @@
+{
+  "id": 874188907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.272065,41.580666,-109.272065,41.580666",
+    "geom:latitude":41.580666,
+    "geom:longitude":-109.272065,
+    "iso:country":"US",
+    "sg:address":"301 Mountain View Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 9444",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GPWPX1zi5Vg26Xqfq6zpr_41.580666_-109.272065@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312730,
+    "wof:geomhash":"66d56e641a87f99f47ac8f8e3ec27b3c",
+    "wof:hierarchy":[],
+    "wof:id":874188907,
+    "wof:lastmodified":1464312730,
+    "wof:name":"Ljc Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -109.272065,
+    41.580666,
+    -109.272065,
+    41.580666
+],
+  "geometry": {"coordinates":[-109.272065,41.580666],"type":"Point"}
+}

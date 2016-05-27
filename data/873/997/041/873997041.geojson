@@ -1,0 +1,56 @@
+{
+  "id": 873997041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.81512,42.8405,-105.81512,42.8405",
+    "geom:latitude":42.8405,
+    "geom:longitude":-105.81512,
+    "iso:country":"US",
+    "sg:address":"1370 US Hwy 87",
+    "sg:city":"Glenrock",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 436 8313",
+    "sg:postcode":"82637",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Vy6c7VAaU9cGNT5d31BeA_42.840500_-105.815120@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310740,
+    "wof:geomhash":"0f79ab3a3d1ad16716c43256ecb31cd2",
+    "wof:hierarchy":[],
+    "wof:id":873997041,
+    "wof:lastmodified":1464310740,
+    "wof:name":"Central Wyoming Veterinary Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -105.81512,
+    42.8405,
+    -105.81512,
+    42.8405
+],
+  "geometry": {"coordinates":[-105.81511999999999,42.8405],"type":"Point"}
+}

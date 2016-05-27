@@ -1,0 +1,52 @@
+{
+  "id": 874196303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.84186,44.649259,-103.84186,44.649259",
+    "geom:latitude":44.649259,
+    "geom:longitude":-103.84186,
+    "iso:country":"US",
+    "sg:address":"2305 13th Ave",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 723 3355",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:website":"www.bellefourche.k12.sd.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vqzHhwffqknSpaiYlFKDu_44.649259_-103.841860@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312808,
+    "wof:geomhash":"60042c79a88983cce898507942253807",
+    "wof:hierarchy":[],
+    "wof:id":874196303,
+    "wof:lastmodified":1464312808,
+    "wof:name":"Belle Fourche Schools Supt",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.84186,
+    44.649259,
+    -103.84186,
+    44.649259
+],
+  "geometry": {"coordinates":[-103.84186,44.649259],"type":"Point"}
+}

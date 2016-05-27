@@ -1,0 +1,58 @@
+{
+  "id": 874194375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.047234,44.533469,-109.047234,44.533469",
+    "geom:latitude":44.533469,
+    "geom:longitude":-109.047234,
+    "iso:country":"US",
+    "sg:address":"2113 Big Horn Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 4869",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pKTJSwuAi6ZE0pq8yYVwI_44.533469_-109.047234@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312783,
+    "wof:geomhash":"95ed430055d147e4c48993902dc06e0d",
+    "wof:hierarchy":[],
+    "wof:id":874194375,
+    "wof:lastmodified":1464312783,
+    "wof:name":"Tom's Automotive Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -109.047234,
+    44.533469,
+    -109.047234,
+    44.533469
+],
+  "geometry": {"coordinates":[-109.047234,44.533469],"type":"Point"}
+}

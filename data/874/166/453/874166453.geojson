@@ -1,0 +1,56 @@
+{
+  "id": 874166453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.762452,43.481475,-110.762452,43.481475",
+    "geom:latitude":43.481475,
+    "geom:longitude":-110.762452,
+    "iso:country":"US",
+    "sg:address":"145 N Cache Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 2603",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XA2sHfVuuP6uvz9CRF5w7_43.481475_-110.762452@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312493,
+    "wof:geomhash":"b25d1872d8e68506f14749cb6193ef63",
+    "wof:hierarchy":[],
+    "wof:id":874166453,
+    "wof:lastmodified":1464312493,
+    "wof:name":"St John's Episcopal Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -110.762452,
+    43.481475,
+    -110.762452,
+    43.481475
+],
+  "geometry": {"coordinates":[-110.762452,43.481475],"type":"Point"}
+}

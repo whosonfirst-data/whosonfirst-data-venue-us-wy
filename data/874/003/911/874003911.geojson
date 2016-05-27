@@ -1,0 +1,56 @@
+{
+  "id": 874003911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.757518,44.753878,-108.757518,44.753878",
+    "geom:latitude":44.753878,
+    "geom:longitude":-108.757518,
+    "iso:country":"US",
+    "sg:address":"123 N Bent St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 7175",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "glass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31Z34JufFxQwUmLDtUyYCb_44.753878_-108.757518@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310802,
+    "wof:geomhash":"6f3ce0d24a7849274e82bd112915b9d2",
+    "wof:hierarchy":[],
+    "wof:id":874003911,
+    "wof:lastmodified":1464310802,
+    "wof:name":"Bent Street Glass",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass"
+    ]
+},
+  "bbox": [
+    -108.757518,
+    44.753878,
+    -108.757518,
+    44.753878
+],
+  "geometry": {"coordinates":[-108.757518,44.753878],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874215521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.326522,42.848922,-106.326522,42.848922",
+    "geom:latitude":42.848922,
+    "geom:longitude":-106.326522,
+    "iso:country":"US",
+    "sg:address":"241 S David St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 5042",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Vnr6CuPCUc4ZyGXPPAma0_42.848922_-106.326522@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313009,
+    "wof:geomhash":"b33e2e5092ce3c232dfcf92560983434",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874215521
+        }
+    ],
+    "wof:id":874215521,
+    "wof:lastmodified":1464313009,
+    "wof:name":"Metro Coffee Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -106.326522,
+    42.848922,
+    -106.326522,
+    42.848922
+],
+  "geometry": {"coordinates":[-106.326522,42.848922],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874086411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.4074,42.801909,-106.4074,42.801909",
+    "geom:latitude":42.801909,
+    "geom:longitude":-106.4074,
+    "iso:country":"US",
+    "sg:address":"4335 Coates Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1496",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NfH9yyRNLVk0SCAY9EbiI_42.801909_-106.407400@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311625,
+    "wof:geomhash":"cc36cd135534f06b14680c5eff1ddf58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874086411
+        }
+    ],
+    "wof:id":874086411,
+    "wof:lastmodified":1464311625,
+    "wof:name":"De Vault Plumbing & Heating",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.4074,
+    42.801909,
+    -106.4074,
+    42.801909
+],
+  "geometry": {"coordinates":[-106.4074,42.801909],"type":"Point"}
+}

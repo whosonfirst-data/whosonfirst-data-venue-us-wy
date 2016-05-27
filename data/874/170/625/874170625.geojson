@@ -1,0 +1,60 @@
+{
+  "id": 874170625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.236919,41.789286,-107.236919,41.789286",
+    "geom:latitude":41.789286,
+    "geom:longitude":-107.236919,
+    "iso:country":"US",
+    "sg:address":"212 W Buffalo St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 2874",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "federal",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IAhTSG3uLMY6CqQL9tuS3_41.789286_-107.236919@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312532,
+    "wof:geomhash":"26ff5956dd230a2687f2853c4ed414ff",
+    "wof:hierarchy":[],
+    "wof:id":874170625,
+    "wof:lastmodified":1464312532,
+    "wof:name":"USDA Rural Development",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -107.236919,
+    41.789286,
+    -107.236919,
+    41.789286
+],
+  "geometry": {"coordinates":[-107.236919,41.789286],"type":"Point"}
+}

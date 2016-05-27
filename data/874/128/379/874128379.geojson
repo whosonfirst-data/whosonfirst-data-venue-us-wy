@@ -1,0 +1,71 @@
+{
+  "id": 874128379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591039,41.310768,-105.591039,41.310768",
+    "geom:latitude":41.310768,
+    "geom:longitude":-105.591039,
+    "iso:country":"US",
+    "sg:address":"310 S 5th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5501",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rAVOtPtUfijYM1mwd8zaQ_41.310768_-105.591039@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312114,
+    "wof:geomhash":"c277b27aa66afe960c6ca360299f5536",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874128379
+        }
+    ],
+    "wof:id":874128379,
+    "wof:lastmodified":1464312114,
+    "wof:name":"Reed's Package Liquors",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -105.591039,
+    41.310768,
+    -105.591039,
+    41.310768
+],
+  "geometry": {"coordinates":[-105.59103899999999,41.310768],"type":"Point"}
+}

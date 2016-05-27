@@ -1,0 +1,71 @@
+{
+  "id": 874162997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.562479,41.318079,-105.562479,41.318079",
+    "geom:latitude":41.318079,
+    "geom:longitude":-105.562479,
+    "iso:country":"US",
+    "sg:address":"959 N Television Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8259",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72nndFOOWX9tzC3pVaSO45_41.318079_-105.562479@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312460,
+    "wof:geomhash":"5c299cd6a36cc67ad4a47209ddec9c7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874162997
+        }
+    ],
+    "wof:id":874162997,
+    "wof:lastmodified":1464312460,
+    "wof:name":"Comcast Cable",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television"
+    ]
+},
+  "bbox": [
+    -105.562479,
+    41.318079,
+    -105.562479,
+    41.318079
+],
+  "geometry": {"coordinates":[-105.562479,41.318079],"type":"Point"}
+}

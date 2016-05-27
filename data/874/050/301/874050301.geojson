@@ -1,0 +1,65 @@
+{
+  "id": 874050301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.76106,41.153765,-104.76106,41.153765",
+    "geom:latitude":41.153765,
+    "geom:longitude":-104.76106,
+    "iso:country":"US",
+    "sg:address":"3815 N College Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 2848",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "heavy",
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02BGIk4ipIjOzjhAohkPjG_41.153765_-104.761060@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311244,
+    "wof:geomhash":"4ed6be4556092f45dc6f3c46fbffccf3",
+    "wof:hierarchy":[],
+    "wof:id":874050301,
+    "wof:lastmodified":1464311244,
+    "wof:name":"Sawyer Waterscaping LLP",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -104.76106,
+    41.153765,
+    -104.76106,
+    41.153765
+],
+  "geometry": {"coordinates":[-104.76106,41.153765],"type":"Point"}
+}

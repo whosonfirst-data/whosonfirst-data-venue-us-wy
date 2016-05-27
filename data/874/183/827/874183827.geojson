@@ -1,0 +1,56 @@
+{
+  "id": 874183827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.382907,42.850757,-106.382907,42.850757",
+    "geom:latitude":42.850757,
+    "geom:longitude":-106.382907,
+    "iso:country":"US",
+    "sg:address":"4658 W Yellowstone Hwy",
+    "sg:city":"Mills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 8780",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QIoyVpp8FOxy6zlozbbpQ_42.850757_-106.382907@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312675,
+    "wof:geomhash":"3f528b6ccfed18df64fedef0133f5cdd",
+    "wof:hierarchy":[],
+    "wof:id":874183827,
+    "wof:lastmodified":1464312675,
+    "wof:name":"Stout Upholstery",
+    "wof:parent_id":420550301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -106.382907,
+    42.850757,
+    -106.382907,
+    42.850757
+],
+  "geometry": {"coordinates":[-106.382907,42.850757],"type":"Point"}
+}

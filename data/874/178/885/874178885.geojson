@@ -1,0 +1,51 @@
+{
+  "id": 874178885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.76812,41.179919,-104.76812,41.179919",
+    "geom:latitude":41.179919,
+    "geom:longitude":-104.76812,
+    "iso:country":"US",
+    "sg:address":"6500 Ridge Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 0343",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VPvGf1oSUMJFug2q3i7kW_41.179919_-104.768120@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312618,
+    "wof:geomhash":"d7f6011532d8cf9482b1746f7cdc596f",
+    "wof:hierarchy":[],
+    "wof:id":874178885,
+    "wof:lastmodified":1464312618,
+    "wof:name":"Douglass Precision",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.76812,
+    41.179919,
+    -104.76812,
+    41.179919
+],
+  "geometry": {"coordinates":[-104.76812,41.179919],"type":"Point"}
+}

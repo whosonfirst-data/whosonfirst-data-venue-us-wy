@@ -1,0 +1,75 @@
+{
+  "id": 874078253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.219867,41.588357,-109.219867,41.588357",
+    "geom:latitude":41.588357,
+    "geom:longitude":-109.219867,
+    "iso:country":"US",
+    "sg:address":"511 5th St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 6122",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1olmZodvCd5v9E9USiGWMo_41.588357_-109.219867@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311530,
+    "wof:geomhash":"a484a245230e9ceae2569908056133fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874078253
+        }
+    ],
+    "wof:id":874078253,
+    "wof:lastmodified":1464311530,
+    "wof:name":"Pete's Auto Svc",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -109.219867,
+    41.588357,
+    -109.219867,
+    41.588357
+],
+  "geometry": {"coordinates":[-109.21986699999999,41.588357],"type":"Point"}
+}

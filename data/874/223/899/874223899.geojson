@@ -1,0 +1,74 @@
+{
+  "id": 874223899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.82884,41.154539,-104.82884,41.154539",
+    "geom:latitude":41.154539,
+    "geom:longitude":-104.82884,
+    "iso:country":"US",
+    "sg:address":"710 S Lions Park Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 6458",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "village"
+    ],
+    "sg:website":"www.botanic.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Zx8IbqoLIf6tAF3QPDSlg_41.154539_-104.828840@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313102,
+    "wof:geomhash":"9f3d8585bad84be10fffeddf89f9c136",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":874223899
+        }
+    ],
+    "wof:id":874223899,
+    "wof:lastmodified":1464313102,
+    "wof:name":"Cheyenne Botanic Gardens",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -104.82884,
+    41.154539,
+    -104.82884,
+    41.154539
+],
+  "geometry": {"coordinates":[-104.82884,41.154539],"type":"Point"}
+}

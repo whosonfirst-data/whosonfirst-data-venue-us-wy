@@ -1,0 +1,58 @@
+{
+  "id": 874188267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.54148,41.789179,-110.54148,41.789179",
+    "geom:latitude":41.789179,
+    "geom:longitude":-110.54148,
+    "iso:country":"US",
+    "sg:address":"711 Onyx St",
+    "sg:city":"Kemmerer",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 877 5717",
+    "sg:postcode":"83101",
+    "sg:province":"WY",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72o2cdWOfY9GBq6Q6ytRe1_41.789179_-110.541480@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312722,
+    "wof:geomhash":"2da08fc08bc0d4ba8db29d05b088f6c7",
+    "wof:hierarchy":[],
+    "wof:id":874188267,
+    "wof:lastmodified":1464312722,
+    "wof:name":"South Lincoln Nursing Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -110.54148,
+    41.789179,
+    -110.54148,
+    41.789179
+],
+  "geometry": {"coordinates":[-110.54148000000001,41.789179],"type":"Point"}
+}

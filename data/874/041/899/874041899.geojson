@@ -1,0 +1,71 @@
+{
+  "id": 874041899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594114,41.305264,-105.594114,41.305264",
+    "geom:latitude":41.305264,
+    "geom:longitude":-105.594114,
+    "iso:country":"US",
+    "sg:address":"312 E Steele St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4157",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "human"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LLQLCMcRnghjQER9zJy5r_41.305264_-105.594114@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311165,
+    "wof:geomhash":"3648294c5dc1170b707b6d3f1d042e15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874041899
+        }
+    ],
+    "wof:id":874041899,
+    "wof:lastmodified":1464311165,
+    "wof:name":"Albany Safe Project",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "human"
+    ]
+},
+  "bbox": [
+    -105.594114,
+    41.305264,
+    -105.594114,
+    41.305264
+],
+  "geometry": {"coordinates":[-105.594114,41.305264],"type":"Point"}
+}

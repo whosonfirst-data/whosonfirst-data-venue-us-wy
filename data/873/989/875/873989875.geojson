@@ -1,0 +1,56 @@
+{
+  "id": 873989875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.699042,44.347575,-106.699042,44.347575",
+    "geom:latitude":44.347575,
+    "geom:longitude":-106.699042,
+    "iso:country":"US",
+    "sg:address":"46 N Main St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 5566",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dYuiN21iIFUfPnQyEZ4lA_44.347575_-106.699042@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310689,
+    "wof:geomhash":"e4c82ac26b670f8e73cb8859d2bdfcff",
+    "wof:hierarchy":[],
+    "wof:id":873989875,
+    "wof:lastmodified":1464310689,
+    "wof:name":"Planning Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -106.699042,
+    44.347575,
+    -106.699042,
+    44.347575
+],
+  "geometry": {"coordinates":[-106.69904200000001,44.347575],"type":"Point"}
+}

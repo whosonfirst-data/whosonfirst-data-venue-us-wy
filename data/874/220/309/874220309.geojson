@@ -1,0 +1,73 @@
+{
+  "id": 874220309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.317053,42.838493,-106.317053,42.838493",
+    "geom:latitude":42.838493,
+    "geom:longitude":-106.317053,
+    "iso:country":"US",
+    "sg:address":"629 E 12th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 2938",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cvJ9moMWuEQbC6sue6eIN_42.838493_-106.317053@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313066,
+    "wof:geomhash":"6e0357a3fa33b3b9dd3bb508af37f24a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874220309
+        }
+    ],
+    "wof:id":874220309,
+    "wof:lastmodified":1464313066,
+    "wof:name":"R J's Carpet Cleaning",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -106.317053,
+    42.838493,
+    -106.317053,
+    42.838493
+],
+  "geometry": {"coordinates":[-106.317053,42.838493],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 874228787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.566724,41.309505,-105.566724,41.309505",
+    "geom:latitude":41.309505,
+    "geom:longitude":-105.566724,
+    "iso:country":"US",
+    "sg:address":"2114 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/laramie/96483-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5085",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GPsnWh2HXNcfbNkfp5FCE_41.309505_-105.566724@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313149,
+    "wof:geomhash":"00a32e770658ea0794502083dc3f0484",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874228787
+        }
+    ],
+    "wof:id":874228787,
+    "wof:lastmodified":1464313149,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -105.566724,
+    41.309505,
+    -105.566724,
+    41.309505
+],
+  "geometry": {"coordinates":[-105.56672399999999,41.309505],"type":"Point"}
+}

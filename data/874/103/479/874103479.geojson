@@ -1,0 +1,69 @@
+{
+  "id": 874103479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.316611,42.852193,-106.316611,42.852193",
+    "geom:latitude":42.852193,
+    "geom:longitude":-106.316611,
+    "iso:country":"US",
+    "sg:address":"215 N Grant St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 9522",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fboAZsn0SEcb0c5180o9G_42.852193_-106.316611@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311838,
+    "wof:geomhash":"507b93febf6444c15655d9b820147ed1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874103479
+        }
+    ],
+    "wof:id":874103479,
+    "wof:lastmodified":1464311838,
+    "wof:name":"Truckers Friend",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -106.316611,
+    42.852193,
+    -106.316611,
+    42.852193
+],
+  "geometry": {"coordinates":[-106.31661099999999,42.852193],"type":"Point"}
+}

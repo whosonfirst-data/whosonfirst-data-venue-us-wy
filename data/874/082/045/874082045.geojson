@@ -1,0 +1,71 @@
+{
+  "id": 874082045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.32415,42.86013,-106.32415,42.86013",
+    "geom:latitude":42.86013,
+    "geom:longitude":-106.32415,
+    "iso:country":"US",
+    "sg:address":"122 E J St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 0934",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OUnAI5WNa2L3OG5fam0MV_42.860130_-106.324150@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311576,
+    "wof:geomhash":"1a18272d9a828309c701a7866fd62943",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874082045
+        }
+    ],
+    "wof:id":874082045,
+    "wof:lastmodified":1464311576,
+    "wof:name":"C JS Painting & Wallpapering",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.32415,
+    42.86013,
+    -106.32415,
+    42.86013
+],
+  "geometry": {"coordinates":[-106.32415,42.86013],"type":"Point"}
+}

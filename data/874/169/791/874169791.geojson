@@ -1,0 +1,76 @@
+{
+  "id": 874169791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.80336,41.160369,-104.80336,41.160369",
+    "geom:latitude":41.160369,
+    "geom:longitude":-104.80336,
+    "iso:country":"US",
+    "sg:address":"1740 Dell Range Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 8208",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "photographer",
+        "photo"
+    ],
+    "sg:website":"www.western-light.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hu52JDGuik6RuBbl3jbsG_41.160369_-104.803360@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312525,
+    "wof:geomhash":"7b743701625c2a0e87a6717e07d0b11c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":874169791
+        }
+    ],
+    "wof:id":874169791,
+    "wof:lastmodified":1464312525,
+    "wof:name":"Mary Steinbacher Photography",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "photo"
+    ]
+},
+  "bbox": [
+    -104.80336,
+    41.160369,
+    -104.80336,
+    41.160369
+],
+  "geometry": {"coordinates":[-104.80336,41.160369],"type":"Point"}
+}

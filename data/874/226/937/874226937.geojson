@@ -1,0 +1,63 @@
+{
+  "id": 874226937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.31513,42.853749,-106.31513,42.853749",
+    "geom:latitude":42.853749,
+    "geom:longitude":-106.31513,
+    "iso:country":"US",
+    "sg:address":"838 E C St",
+    "sg:city":"Casper",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 1223",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WyqZKNhzB5yYJqWQpPhlB_42.853749_-106.315130@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313130,
+    "wof:geomhash":"1cdc1aea6f7e836ccbad9a54d67c7efd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874226937
+        }
+    ],
+    "wof:id":874226937,
+    "wof:lastmodified":1464313130,
+    "wof:name":"Intermountain Lubricants Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.31513,
+    42.853749,
+    -106.31513,
+    42.853749
+],
+  "geometry": {"coordinates":[-106.31513,42.853749],"type":"Point"}
+}

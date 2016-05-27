@@ -1,0 +1,71 @@
+{
+  "id": 874142123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.621841,41.319137,-105.621841,41.319137",
+    "geom:latitude":41.319137,
+    "geom:longitude":-105.621841,
+    "iso:country":"US",
+    "sg:address":"594 N Buchanan St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 0505",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ykiBnsfYS6f6pVA4rkcMi_41.319137_-105.621841@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312254,
+    "wof:geomhash":"f099ba6b55e446a5dde54ca03d17db25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874142123
+        }
+    ],
+    "wof:id":874142123,
+    "wof:lastmodified":1464312254,
+    "wof:name":"Rocky Mountain Towing",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -105.621841,
+    41.319137,
+    -105.621841,
+    41.319137
+],
+  "geometry": {"coordinates":[-105.621841,41.319137],"type":"Point"}
+}

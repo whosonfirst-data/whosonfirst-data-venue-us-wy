@@ -1,0 +1,69 @@
+{
+  "id": 874099801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.353971,42.831571,-106.353971,42.831571",
+    "geom:latitude":42.831571,
+    "geom:longitude":-106.353971,
+    "iso:country":"US",
+    "sg:address":"1851 Kit Carson Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 3812",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18sDaCxcQtPfq3KhtuQtdV_42.831571_-106.353971@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311790,
+    "wof:geomhash":"d2590859f20044c50dcfda68df664d1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874099801
+        }
+    ],
+    "wof:id":874099801,
+    "wof:lastmodified":1464311790,
+    "wof:name":"Bonnies Window Coverings",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -106.353971,
+    42.831571,
+    -106.353971,
+    42.831571
+],
+  "geometry": {"coordinates":[-106.353971,42.831571],"type":"Point"}
+}

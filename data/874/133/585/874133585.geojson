@@ -1,0 +1,69 @@
+{
+  "id": 874133585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.39513,42.85769,-106.39513,42.85769",
+    "geom:latitude":42.85769,
+    "geom:longitude":-106.39513,
+    "iso:country":"US",
+    "sg:address":"5400 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 1930",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67eF39Ty4JTsMFDcCWmFcD_42.857690_-106.395130@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312178,
+    "wof:geomhash":"6f464fafde4b43a516bcbc81b0c5ef5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874133585
+        }
+    ],
+    "wof:id":874133585,
+    "wof:lastmodified":1464312178,
+    "wof:name":"Bel Air Motel",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -106.39513,
+    42.85769,
+    -106.39513,
+    42.85769
+],
+  "geometry": {"coordinates":[-106.39512999999999,42.85769],"type":"Point"}
+}

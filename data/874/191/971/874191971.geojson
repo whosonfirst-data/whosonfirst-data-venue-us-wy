@@ -1,0 +1,69 @@
+{
+  "id": 874191971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.364855,42.825922,-106.364855,42.825922",
+    "geom:latitude":42.825922,
+    "geom:longitude":-106.364855,
+    "iso:country":"US",
+    "sg:address":"2140 Midway Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 5510",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BPXUOz0Wgfw3W0GqrWKXN_42.825922_-106.364855@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312758,
+    "wof:geomhash":"3b644a8b1a1034fbcc50bfea4ba78d97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874191971
+        }
+    ],
+    "wof:id":874191971,
+    "wof:lastmodified":1464312758,
+    "wof:name":"Moving & Storage Connection",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -106.364855,
+    42.825922,
+    -106.364855,
+    42.825922
+],
+  "geometry": {"coordinates":[-106.36485500000001,42.825922],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874014729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.582459,41.305242,-105.582459,41.305242",
+    "geom:latitude":41.305242,
+    "geom:longitude":-105.582459,
+    "iso:country":"US",
+    "sg:address":"810 S 12th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3387",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EYFa9opAgmsK10czJDV7a_41.305242_-105.582459@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310889,
+    "wof:geomhash":"d02ca2d08ff86789b4075b21762eeaa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874014729
+        }
+    ],
+    "wof:id":874014729,
+    "wof:lastmodified":1464310889,
+    "wof:name":"Wild Wind Gallery",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -105.582459,
+    41.305242,
+    -105.582459,
+    41.305242
+],
+  "geometry": {"coordinates":[-105.582459,41.305242],"type":"Point"}
+}

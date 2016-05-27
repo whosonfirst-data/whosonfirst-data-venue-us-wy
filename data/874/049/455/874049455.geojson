@@ -1,0 +1,63 @@
+{
+  "id": 874049455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.797929,41.109461,-104.797929,41.109461",
+    "geom:latitude":41.109461,
+    "geom:longitude":-104.797929,
+    "iso:country":"US",
+    "sg:address":"207 E Allison Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 326 1696",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dept",
+        "v"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TC0IVJLY7fjpT6DVFiD9L_41.109461_-104.797929@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311235,
+    "wof:geomhash":"65ad1fceb3f2fd915b95661176ae6886",
+    "wof:hierarchy":[],
+    "wof:id":874049455,
+    "wof:lastmodified":1464311235,
+    "wof:name":"Laramie County Fire District 1",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept",
+        "v"
+    ]
+},
+  "bbox": [
+    -104.797929,
+    41.109461,
+    -104.797929,
+    41.109461
+],
+  "geometry": {"coordinates":[-104.797929,41.109461],"type":"Point"}
+}

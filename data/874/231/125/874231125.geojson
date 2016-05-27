@@ -1,0 +1,61 @@
+{
+  "id": 874231125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955578,44.814103,-106.955578,44.814103",
+    "geom:latitude":44.814103,
+    "geom:longitude":-106.955578,
+    "iso:country":"US",
+    "sg:address":"1538 N Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/sheridan/78199-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 7401",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PCB6QxFmLcSQOD7kbBS8n_44.814380_-106.955581@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313176,
+    "wof:geomhash":"635be43265d03f6cb2b9a012c58f603c",
+    "wof:hierarchy":[],
+    "wof:id":874231125,
+    "wof:lastmodified":1464313176,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -106.955578,
+    44.814103,
+    -106.955578,
+    44.814103
+],
+  "geometry": {"coordinates":[-106.955578,44.814103],"type":"Point"}
+}

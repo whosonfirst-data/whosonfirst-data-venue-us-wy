@@ -1,0 +1,64 @@
+{
+  "id": 874067721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.411225,42.814872,-106.411225,42.814872",
+    "geom:latitude":42.814872,
+    "geom:longitude":-106.411225,
+    "iso:country":"US",
+    "sg:address":"355 Aster St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 1136",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4H04DJBhBTLldG8ZNsfMzg_42.814872_-106.411225@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311405,
+    "wof:geomhash":"ab905a533565146007d16c8c91befd12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874067721
+        }
+    ],
+    "wof:id":874067721,
+    "wof:lastmodified":1464311405,
+    "wof:name":"D A Enterprises",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.411225,
+    42.814872,
+    -106.411225,
+    42.814872
+],
+  "geometry": {"coordinates":[-106.411225,42.814872],"type":"Point"}
+}

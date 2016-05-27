@@ -1,0 +1,65 @@
+{
+  "id": 874227063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.345999,42.823498,-106.345999,42.823498",
+    "geom:latitude":42.823498,
+    "geom:longitude":-106.345999,
+    "iso:country":"US",
+    "sg:address":"2821 Saratoga Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8080",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Gg1dYWP7VMHyS6IABhZig_42.823498_-106.345999@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313131,
+    "wof:geomhash":"513920cd16cae13c77f40281f10f2b3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874227063
+        }
+    ],
+    "wof:id":874227063,
+    "wof:lastmodified":1464313131,
+    "wof:name":"Office & Warehouse Equipment",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -106.345999,
+    42.823498,
+    -106.345999,
+    42.823498
+],
+  "geometry": {"coordinates":[-106.34599900000001,42.823498],"type":"Point"}
+}

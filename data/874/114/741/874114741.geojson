@@ -1,0 +1,56 @@
+{
+  "id": 874114741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.466618,41.528572,-109.466618,41.528572",
+    "geom:latitude":41.528572,
+    "geom:longitude":-109.466618,
+    "iso:country":"US",
+    "sg:address":"80 E Flaming Gorge Way",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 352 6720",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gtu6ojvl8vJCIMSyf2VQr_41.528572_-109.466618@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311984,
+    "wof:geomhash":"5fa71e64d6e3b11e2c20ada5ebdda264",
+    "wof:hierarchy":[],
+    "wof:id":874114741,
+    "wof:lastmodified":1464311984,
+    "wof:name":"Sweetwater County Sheriff",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -109.466618,
+    41.528572,
+    -109.466618,
+    41.528572
+],
+  "geometry": {"coordinates":[-109.466618,41.528572],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874117093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.922671,44.5643,-106.922671,44.5643",
+    "geom:latitude":44.5643,
+    "geom:longitude":-106.922671,
+    "iso:country":"US",
+    "sg:address":"60 Thorne-Rider Rd",
+    "sg:city":"Story",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 683 2322",
+    "sg:postcode":"82842",
+    "sg:province":"WY",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iWfM34yYFUpPPoamrDbqq_44.564300_-106.922671@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312007,
+    "wof:geomhash":"2acbfe488fc65a29526972cdea46a0fe",
+    "wof:hierarchy":[],
+    "wof:id":874117093,
+    "wof:lastmodified":1464312007,
+    "wof:name":"Thorne-Rider Youth Camp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -106.922671,
+    44.5643,
+    -106.922671,
+    44.5643
+],
+  "geometry": {"coordinates":[-106.92267099999999,44.5643],"type":"Point"}
+}

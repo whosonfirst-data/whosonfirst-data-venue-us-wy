@@ -1,0 +1,58 @@
+{
+  "id": 874057067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470661,44.883432,-108.470661,44.883432",
+    "geom:latitude":44.883432,
+    "geom:longitude":-108.470661,
+    "iso:country":"US",
+    "sg:address":"114 Main St",
+    "sg:city":"Shell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 2719",
+    "sg:postcode":"82420",
+    "sg:province":"WY",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ObqazeZMQslLqJ9uQtL5w_44.883432_-108.470661@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311310,
+    "wof:geomhash":"fab934763ced361df29ab270d84ed26e",
+    "wof:hierarchy":[],
+    "wof:id":874057067,
+    "wof:lastmodified":1464311310,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -108.470661,
+    44.883432,
+    -108.470661,
+    44.883432
+],
+  "geometry": {"coordinates":[-108.47066100000001,44.883432],"type":"Point"}
+}

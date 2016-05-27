@@ -1,0 +1,73 @@
+{
+  "id": 874066325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.576657,41.297244,-105.576657,41.297244",
+    "geom:latitude":41.297244,
+    "geom:longitude":-105.576657,
+    "iso:country":"US",
+    "sg:address":"1606 Symons St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6056",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "science",
+        "farrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bEsmkaXOP7tcjdkNVCLIT_41.297244_-105.576657@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311391,
+    "wof:geomhash":"879a3bf1c4053cdefbd8bb8be0cf2612",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874066325
+        }
+    ],
+    "wof:id":874066325,
+    "wof:lastmodified":1464311391,
+    "wof:name":"Tims Farrier Service",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "science",
+        "farrier"
+    ]
+},
+  "bbox": [
+    -105.576657,
+    41.297244,
+    -105.576657,
+    41.297244
+],
+  "geometry": {"coordinates":[-105.576657,41.297244],"type":"Point"}
+}

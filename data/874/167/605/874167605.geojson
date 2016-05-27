@@ -1,0 +1,66 @@
+{
+  "id": 874167605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594044,41.306278,-105.594044,41.306278",
+    "geom:latitude":41.306278,
+    "geom:longitude":-105.594044,
+    "iso:country":"US",
+    "sg:address":"803 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 9527",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rirYWXszYJNLxG4G7f2Sg_41.306278_-105.594044@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312503,
+    "wof:geomhash":"033cc4680891b8ae39e2251e17628677",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874167605
+        }
+    ],
+    "wof:id":874167605,
+    "wof:lastmodified":1464312503,
+    "wof:name":"Snowy Range Audiology",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.594044,
+    41.306278,
+    -105.594044,
+    41.306278
+],
+  "geometry": {"coordinates":[-105.594044,41.306278],"type":"Point"}
+}

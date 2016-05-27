@@ -1,0 +1,56 @@
+{
+  "id": 874138821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.218673,43.851129,-104.218673,43.851129",
+    "geom:latitude":43.851129,
+    "geom:longitude":-104.218673,
+    "iso:country":"US",
+    "sg:address":"1070 W Main St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 4520",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_413Bcixw6jaWU3uwub4vQO_43.851129_-104.218673@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312225,
+    "wof:geomhash":"9347d8726156136ac6f5287185295d62",
+    "wof:hierarchy":[],
+    "wof:id":874138821,
+    "wof:lastmodified":1464312225,
+    "wof:name":"Newcastle Equipment Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -104.218673,
+    43.851129,
+    -104.218673,
+    43.851129
+],
+  "geometry": {"coordinates":[-104.218673,43.851129],"type":"Point"}
+}

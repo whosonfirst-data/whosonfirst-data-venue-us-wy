@@ -1,0 +1,58 @@
+{
+  "id": 874029389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.20725,43.641639,-108.20725,43.641639",
+    "geom:latitude":43.641639,
+    "geom:longitude":-108.20725,
+    "iso:country":"US",
+    "sg:address":"342 Amoretti St",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 9407",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iCg5c2Q3U0LfT3yZWsdIZ_43.641639_-108.207250@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311043,
+    "wof:geomhash":"0148c15f046731264388849a25dc374f",
+    "wof:hierarchy":[],
+    "wof:id":874029389,
+    "wof:lastmodified":1464311043,
+    "wof:name":"Wyoming Drivers License",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -108.20725,
+    43.641639,
+    -108.20725,
+    43.641639
+],
+  "geometry": {"coordinates":[-108.20725,43.641639],"type":"Point"}
+}

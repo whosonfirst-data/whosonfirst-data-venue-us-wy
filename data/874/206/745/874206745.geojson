@@ -1,0 +1,71 @@
+{
+  "id": 874206745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.274598,42.846399,-106.274598,42.846399",
+    "geom:latitude":42.846399,
+    "geom:longitude":-106.274598,
+    "iso:country":"US",
+    "sg:address":"455 Thelma Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 4266",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19GMWpEAmxQMkc7KXkqJRb_42.846399_-106.274598@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312912,
+    "wof:geomhash":"f1ace618e97590ec539758601c6b3e3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874206745
+        }
+    ],
+    "wof:id":874206745,
+    "wof:lastmodified":1464312912,
+    "wof:name":"Body Wisdom By Kay Nuzum",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -106.274598,
+    42.846399,
+    -106.274598,
+    42.846399
+],
+  "geometry": {"coordinates":[-106.274598,42.846399],"type":"Point"}
+}

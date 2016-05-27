@@ -1,0 +1,75 @@
+{
+  "id": 874228979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.211488,41.792599,-107.211488,41.792599",
+    "geom:latitude":41.792599,
+    "geom:longitude":-107.211488,
+    "iso:country":"US",
+    "sg:address":"2225 E Cedar St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/rawlins/206574-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102528131,
+        85688475,
+        102191575,
+        85633793,
+        101734107,
+        102081173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5idZFTdrCxua10ZxGUGnjB_41.792599_-107.211488@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313151,
+    "wof:geomhash":"6883464deb9e90516d9bd34d24874ff7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528131,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081173,
+            "locality_id":101734107,
+            "region_id":85688475,
+            "venue_id":874228979
+        }
+    ],
+    "wof:id":874228979,
+    "wof:lastmodified":1464313151,
+    "wof:name":"McDonald's",
+    "wof:parent_id":102528131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -107.211488,
+    41.792599,
+    -107.211488,
+    41.792599
+],
+  "geometry": {"coordinates":[-107.211488,41.792599],"type":"Point"}
+}

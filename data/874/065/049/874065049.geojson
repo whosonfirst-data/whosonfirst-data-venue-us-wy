@@ -1,0 +1,58 @@
+{
+  "id": 874065049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.53869,41.77691,-110.53869,41.77691",
+    "geom:latitude":41.77691,
+    "geom:longitude":-110.53869,
+    "iso:country":"US",
+    "sg:address":"304 Susie Ave",
+    "sg:city":"Diamondville",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 877 9369",
+    "sg:postcode":"83121",
+    "sg:province":"WY",
+    "sg:tags":[
+        "squad",
+        "rescue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jD0WGE8p5pPalic1Zy1R8_41.776910_-110.538690@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311380,
+    "wof:geomhash":"1cfa29c110e52596248481100934d1af",
+    "wof:hierarchy":[],
+    "wof:id":874065049,
+    "wof:lastmodified":1464311380,
+    "wof:name":"Lincoln County Search & Rescue",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "squad",
+        "rescue"
+    ]
+},
+  "bbox": [
+    -110.53869,
+    41.77691,
+    -110.53869,
+    41.77691
+],
+  "geometry": {"coordinates":[-110.53869,41.77691],"type":"Point"}
+}

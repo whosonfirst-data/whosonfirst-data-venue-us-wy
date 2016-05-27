@@ -1,0 +1,56 @@
+{
+  "id": 874220737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.503902,44.292102,-105.503902,44.292102",
+    "geom:latitude":44.292102,
+    "geom:longitude":-105.503902,
+    "iso:country":"US",
+    "sg:address":"311 S Gillette Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 6287",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AyKYZbnt6logeMTJw8ci7_44.292102_-105.503902@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313072,
+    "wof:geomhash":"3f4d7610bdeca52051a73b982a151a3f",
+    "wof:hierarchy":[],
+    "wof:id":874220737,
+    "wof:lastmodified":1464313072,
+    "wof:name":"Manville Claims Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adjuster"
+    ]
+},
+  "bbox": [
+    -105.503902,
+    44.292102,
+    -105.503902,
+    44.292102
+],
+  "geometry": {"coordinates":[-105.503902,44.292102],"type":"Point"}
+}

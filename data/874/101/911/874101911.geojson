@@ -1,0 +1,56 @@
+{
+  "id": 874101911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.94729,44.778106,-106.94729,44.778106",
+    "geom:latitude":44.778106,
+    "geom:longitude":-106.94729,
+    "iso:country":"US",
+    "sg:address":"1735 S Sheridan Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 2121",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CwCkgWMrbsR3qZcoIyRUl_44.778106_-106.947290@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311817,
+    "wof:geomhash":"604b02af60a125913b87d90e9c80683e",
+    "wof:hierarchy":[],
+    "wof:id":874101911,
+    "wof:lastmodified":1464311817,
+    "wof:name":"Courtyards At Sheridan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -106.94729,
+    44.778106,
+    -106.94729,
+    44.778106
+],
+  "geometry": {"coordinates":[-106.94729,44.778106],"type":"Point"}
+}

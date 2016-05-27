@@ -1,0 +1,76 @@
+{
+  "id": 874228553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.807249,41.160252,-104.807249,41.160252",
+    "geom:latitude":41.160252,
+    "geom:longitude":-104.807249,
+    "iso:country":"US",
+    "sg:address":"1239 Dell Range Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/183019-culvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 3166",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72SOQO4Oqq6qK6saiqjkCC_41.160252_-104.807249@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313146,
+    "wof:geomhash":"914baa1336c47b57612081521548bec0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":874228553
+        }
+    ],
+    "wof:id":874228553,
+    "wof:lastmodified":1464313146,
+    "wof:name":"Culver's",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -104.807249,
+    41.160252,
+    -104.807249,
+    41.160252
+],
+  "geometry": {"coordinates":[-104.807249,41.160252],"type":"Point"}
+}

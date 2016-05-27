@@ -1,0 +1,73 @@
+{
+  "id": 874039535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.529964,41.290777,-105.529964,41.290777",
+    "geom:latitude":41.290777,
+    "geom:longitude":-105.529964,
+    "iso:country":"US",
+    "sg:address":"5106 E Skyline Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 1651",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "conference",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37rGLJuDc3diKZZXfYuc75_41.290777_-105.529964@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311139,
+    "wof:geomhash":"d6a54d15520625ad0f022cb601c39944",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874039535
+        }
+    ],
+    "wof:id":874039535,
+    "wof:lastmodified":1464311139,
+    "wof:name":"Table In The Wilderness",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conference",
+        "center"
+    ]
+},
+  "bbox": [
+    -105.529964,
+    41.290777,
+    -105.529964,
+    41.290777
+],
+  "geometry": {"coordinates":[-105.52996400000001,41.290777],"type":"Point"}
+}

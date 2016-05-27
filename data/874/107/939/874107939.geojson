@@ -1,0 +1,56 @@
+{
+  "id": 874107939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.24427,41.790898,-107.24427,41.790898",
+    "geom:latitude":41.790898,
+    "geom:longitude":-107.24427,
+    "iso:country":"US",
+    "sg:address":"721 W Maple St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 7156",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71bmzdikMo3mZoFVr1G3ii_41.790898_-107.244270@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311893,
+    "wof:geomhash":"5cb93939e1dfec3d6cf73d528996aa90",
+    "wof:hierarchy":[],
+    "wof:id":874107939,
+    "wof:lastmodified":1464311893,
+    "wof:name":"Carbon County Counseling Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -107.24427,
+    41.790898,
+    -107.24427,
+    41.790898
+],
+  "geometry": {"coordinates":[-107.24427,41.790898],"type":"Point"}
+}

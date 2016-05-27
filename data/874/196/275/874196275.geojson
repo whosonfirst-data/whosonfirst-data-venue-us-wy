@@ -1,0 +1,75 @@
+{
+  "id": 874196275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.427935,42.876358,-106.427935,42.876358",
+    "geom:latitude":42.876358,
+    "geom:longitude":-106.427935,
+    "iso:country":"US",
+    "sg:address":"6810 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 8162",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "material",
+        "used",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HqNUQXoKYojFg5gWfD4Rn_42.876358_-106.427935@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312808,
+    "wof:geomhash":"7c596b6e37e1d453359f8f5a943605ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874196275
+        }
+    ],
+    "wof:id":874196275,
+    "wof:lastmodified":1464312808,
+    "wof:name":"J & B Auto Salvage",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "material",
+        "used",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -106.427935,
+    42.876358,
+    -106.427935,
+    42.876358
+],
+  "geometry": {"coordinates":[-106.42793500000001,42.876358],"type":"Point"}
+}

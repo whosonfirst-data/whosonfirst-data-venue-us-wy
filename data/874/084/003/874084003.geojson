@@ -1,0 +1,73 @@
+{
+  "id": 874084003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594834,41.30068,-105.594834,41.30068",
+    "geom:latitude":41.30068,
+    "geom:longitude":-105.594834,
+    "iso:country":"US",
+    "sg:address":"1410 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5206",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QgrjUmnvJF882bbku7W6C_41.300680_-105.594834@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311599,
+    "wof:geomhash":"170278dd1248655a1c5b7fb523d48bc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874084003
+        }
+    ],
+    "wof:id":874084003,
+    "wof:lastmodified":1464311599,
+    "wof:name":"Walts Auto Service",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -105.594834,
+    41.30068,
+    -105.594834,
+    41.30068
+],
+  "geometry": {"coordinates":[-105.59483400000001,41.30068],"type":"Point"}
+}

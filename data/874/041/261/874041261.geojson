@@ -1,0 +1,56 @@
+{
+  "id": 874041261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.828659,41.175317,-104.828659,41.175317",
+    "geom:latitude":41.175317,
+    "geom:longitude":-104.828659,
+    "iso:country":"US",
+    "sg:address":"6256 Yellowstone Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 3044",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Fa1Jg7J1bd5AuffHBjFXO_41.175317_-104.828659@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311155,
+    "wof:geomhash":"7537e33801d14d7363fc8c668f111a80",
+    "wof:hierarchy":[],
+    "wof:id":874041261,
+    "wof:lastmodified":1464311155,
+    "wof:name":"Cochran Family Dentistry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -104.828659,
+    41.175317,
+    -104.828659,
+    41.175317
+],
+  "geometry": {"coordinates":[-104.828659,41.175317],"type":"Point"}
+}

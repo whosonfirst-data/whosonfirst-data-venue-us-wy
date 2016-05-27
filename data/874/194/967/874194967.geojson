@@ -1,0 +1,71 @@
+{
+  "id": 874194967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.286053,42.848753,-106.286053,42.848753",
+    "geom:latitude":42.848753,
+    "geom:longitude":-106.286053,
+    "iso:country":"US",
+    "sg:address":"3025 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 8831",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zoqhI41cWDfcD9w4Iwvsr_42.848753_-106.286053@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312794,
+    "wof:geomhash":"fad88b90a68bc798d297de2128ae4cde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874194967
+        }
+    ],
+    "wof:id":874194967,
+    "wof:lastmodified":1464312794,
+    "wof:name":"Hood's Landscaping",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.286053,
+    42.848753,
+    -106.286053,
+    42.848753
+],
+  "geometry": {"coordinates":[-106.286053,42.848753],"type":"Point"}
+}

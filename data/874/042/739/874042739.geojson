@@ -1,0 +1,66 @@
+{
+  "id": 874042739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.56929,41.32174,-105.56929,41.32174",
+    "geom:latitude":41.32174,
+    "geom:longitude":-105.56929,
+    "iso:country":"US",
+    "sg:address":"2110 E Binford St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 5000",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03Ja7FDM5twVjQ4ImIloax_41.321740_-105.569290@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311172,
+    "wof:geomhash":"fce671176d27724709aa8ffac474689d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874042739
+        }
+    ],
+    "wof:id":874042739,
+    "wof:lastmodified":1464311172,
+    "wof:name":"Connemara Apartments",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.56929,
+    41.32174,
+    -105.56929,
+    41.32174
+],
+  "geometry": {"coordinates":[-105.56929,41.32174],"type":"Point"}
+}

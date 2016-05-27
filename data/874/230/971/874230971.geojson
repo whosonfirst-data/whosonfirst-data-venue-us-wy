@@ -1,0 +1,72 @@
+{
+  "id": 874230971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.30532,42.848717,-106.30532,42.848717",
+    "geom:latitude":42.848717,
+    "geom:longitude":-106.30532,
+    "iso:country":"US",
+    "sg:address":"1501 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/casper/81184-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 2121",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QGrCOV8AGsVeCQM0MdzNT_42.848769_-106.304650@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313174,
+    "wof:geomhash":"2e707583d92a58ee86aaae6c4b80d967",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874230971
+        }
+    ],
+    "wof:id":874230971,
+    "wof:lastmodified":1464313174,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -106.30532,
+    42.848717,
+    -106.30532,
+    42.848717
+],
+  "geometry": {"coordinates":[-106.30531999999999,42.848717],"type":"Point"}
+}

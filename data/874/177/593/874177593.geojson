@@ -1,0 +1,71 @@
+{
+  "id": 874177593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.582481,41.317335,-105.582481,41.317335",
+    "geom:latitude":41.317335,
+    "geom:longitude":-105.582481,
+    "iso:country":"US",
+    "sg:address":"662 N 11th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5984",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72PpmI5UqxAYaIYFbnXNRe_41.317335_-105.582481@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312602,
+    "wof:geomhash":"851f35e1efe7e7f90c155cd0ccf648a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874177593
+        }
+    ],
+    "wof:id":874177593,
+    "wof:lastmodified":1464312602,
+    "wof:name":"Weibel Construction",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.582481,
+    41.317335,
+    -105.582481,
+    41.317335
+],
+  "geometry": {"coordinates":[-105.582481,41.317335],"type":"Point"}
+}

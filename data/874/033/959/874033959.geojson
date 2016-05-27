@@ -1,0 +1,71 @@
+{
+  "id": 874033959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.289853,42.85534,-106.289853,42.85534",
+    "geom:latitude":42.85534,
+    "geom:longitude":-106.289853,
+    "iso:country":"US",
+    "sg:address":"3150 E Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 3003",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W0TC4eS71BBnFSFmtgwia_42.855340_-106.289853@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311084,
+    "wof:geomhash":"1fe42ba0a3e3223613a587db98d45e0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874033959
+        }
+    ],
+    "wof:id":874033959,
+    "wof:lastmodified":1464311084,
+    "wof:name":"Casper Electric",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.289853,
+    42.85534,
+    -106.289853,
+    42.85534
+],
+  "geometry": {"coordinates":[-106.28985299999999,42.85534],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 873990871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.733231,42.834625,-108.733231,42.834625",
+    "geom:latitude":42.834625,
+    "geom:longitude":-108.733231,
+    "iso:country":"US",
+    "sg:address":"427 Lincoln St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 9577",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47usgbMSB6xegT1rYKnb0U_42.834625_-108.733231@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310696,
+    "wof:geomhash":"fffadc625c75bd45b4dd2ec96fb680f9",
+    "wof:hierarchy":[],
+    "wof:id":873990871,
+    "wof:lastmodified":1464310696,
+    "wof:name":"Pineridge Neuropsychiatric Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -108.733231,
+    42.834625,
+    -108.733231,
+    42.834625
+],
+  "geometry": {"coordinates":[-108.733231,42.834625],"type":"Point"}
+}

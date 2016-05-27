@@ -1,0 +1,71 @@
+{
+  "id": 874164941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.576938,41.330189,-105.576938,41.330189",
+    "geom:latitude":41.330189,
+    "geom:longitude":-105.576938,
+    "iso:country":"US",
+    "sg:address":"1327 E Thomes St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7565",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ornamental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HFxtP37zRiXjvd9NNjV8r_41.330189_-105.576938@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312479,
+    "wof:geomhash":"7fdff9c1d2981243192ed7f1d4bbc05e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874164941
+        }
+    ],
+    "wof:id":874164941,
+    "wof:lastmodified":1464312479,
+    "wof:name":"Asap Sprinklers & Landscaping",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ornamental"
+    ]
+},
+  "bbox": [
+    -105.576938,
+    41.330189,
+    -105.576938,
+    41.330189
+],
+  "geometry": {"coordinates":[-105.576938,41.330189],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874009225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.312927,42.848835,-106.312927,42.848835",
+    "geom:latitude":42.848835,
+    "geom:longitude":-106.312927,
+    "iso:country":"US",
+    "sg:address":"940 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 9983",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gRFb8hsNx6GAbfFcM6rZJ_42.848835_-106.312927@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310850,
+    "wof:geomhash":"6e62d9ae9835c097505f98da52370c3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874009225
+        }
+    ],
+    "wof:id":874009225,
+    "wof:lastmodified":1464310850,
+    "wof:name":"Forever Young Hairstyling",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.312927,
+    42.848835,
+    -106.312927,
+    42.848835
+],
+  "geometry": {"coordinates":[-106.312927,42.848835],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874120903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.274125,42.84774,-106.274125,42.84774",
+    "geom:latitude":42.84774,
+    "geom:longitude":-106.274125,
+    "iso:country":"US",
+    "sg:address":"307 Thelma Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 2274",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "depository",
+        "banking",
+        "check",
+        "cashing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cXEp4ZmSwWDgpFSKEAa3w_42.847740_-106.274125@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312049,
+    "wof:geomhash":"f5f8e32a253e77375a97ecf0e106861e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874120903
+        }
+    ],
+    "wof:id":874120903,
+    "wof:lastmodified":1464312049,
+    "wof:name":"B & R Check Holders Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking",
+        "check",
+        "cashing"
+    ]
+},
+  "bbox": [
+    -106.274125,
+    42.84774,
+    -106.274125,
+    42.84774
+],
+  "geometry": {"coordinates":[-106.274125,42.84774],"type":"Point"}
+}

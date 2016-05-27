@@ -1,0 +1,58 @@
+{
+  "id": 874123617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.81305,41.137742,-104.81305,41.137742",
+    "geom:latitude":41.137742,
+    "geom:longitude":-104.81305,
+    "iso:country":"US",
+    "sg:address":"1920 Evans Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 5337",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E6y0muA7EIW7akC8l6jKv_41.137742_-104.813050@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312073,
+    "wof:geomhash":"03a84b2d71e4c697461dc98a1a2b2b60",
+    "wof:hierarchy":[],
+    "wof:id":874123617,
+    "wof:lastmodified":1464312073,
+    "wof:name":"Medical Associates",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -104.81305,
+    41.137742,
+    -104.81305,
+    41.137742
+],
+  "geometry": {"coordinates":[-104.81305,41.137742],"type":"Point"}
+}

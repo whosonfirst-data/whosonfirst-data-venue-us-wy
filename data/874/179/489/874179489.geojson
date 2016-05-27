@@ -1,0 +1,69 @@
+{
+  "id": 874179489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.337391,42.919949,-106.337391,42.919949",
+    "geom:latitude":42.919949,
+    "geom:longitude":-106.337391,
+    "iso:country":"US",
+    "sg:address":"7072 Salt Creek Rte",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0407",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26qqJ2jwGc7cFu3P2GVtjc_42.919949_-106.337391@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312625,
+    "wof:geomhash":"f0503bf22ba6e3d51bc4ee84dd9fc610",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874179489
+        }
+    ],
+    "wof:id":874179489,
+    "wof:lastmodified":1464312625,
+    "wof:name":"Bridon American Corp",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -106.337391,
+    42.919949,
+    -106.337391,
+    42.919949
+],
+  "geometry": {"coordinates":[-106.337391,42.919949],"type":"Point"}
+}

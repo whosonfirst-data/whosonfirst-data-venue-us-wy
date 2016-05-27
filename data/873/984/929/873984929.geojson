@@ -1,0 +1,51 @@
+{
+  "id": 873984929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.194315,42.2615,-110.194315,42.2615",
+    "geom:latitude":42.2615,
+    "geom:longitude":-110.194315,
+    "iso:country":"US",
+    "sg:address":"219 S Main St",
+    "sg:city":"La Barge",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 386 2565",
+    "sg:postcode":"83123",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cJe5NfKYqaGY5z20bwwW0_42.261500_-110.194315@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310649,
+    "wof:geomhash":"f98bf81ce723b864a1dde074c5009177",
+    "wof:hierarchy":[],
+    "wof:id":873984929,
+    "wof:lastmodified":1464310649,
+    "wof:name":"Eagle Bar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.194315,
+    42.2615,
+    -110.194315,
+    42.2615
+],
+  "geometry": {"coordinates":[-110.194315,42.2615],"type":"Point"}
+}

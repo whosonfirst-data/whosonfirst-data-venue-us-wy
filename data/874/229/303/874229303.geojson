@@ -1,0 +1,72 @@
+{
+  "id": 874229303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.334342,42.856461,-106.334342,42.856461",
+    "geom:latitude":42.856461,
+    "geom:longitude":-106.334342,
+    "iso:country":"US",
+    "sg:address":"603 N Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/casper/192436-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 2450",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79hEa674Z5LuTNvP4uI7l4_42.856461_-106.334342@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313153,
+    "wof:geomhash":"36a5161cc84acfe4cce3af6035ea094b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874229303
+        }
+    ],
+    "wof:id":874229303,
+    "wof:lastmodified":1464313153,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -106.334342,
+    42.856461,
+    -106.334342,
+    42.856461
+],
+  "geometry": {"coordinates":[-106.33434200000001,42.856461],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 874058199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.452329,41.505354,-109.452329,41.505354",
+    "geom:latitude":41.505354,
+    "geom:longitude":-109.452329,
+    "iso:country":"US",
+    "sg:address":"1520 N Riverbend Dr",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 1760",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GfzSMOPlejmixus94BlEr_41.505354_-109.452329@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311319,
+    "wof:geomhash":"cd0faf5bcde01277943d0d6c9d1208c4",
+    "wof:hierarchy":[],
+    "wof:id":874058199,
+    "wof:lastmodified":1464311319,
+    "wof:name":"Esterbrook Transport",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -109.452329,
+    41.505354,
+    -109.452329,
+    41.505354
+],
+  "geometry": {"coordinates":[-109.45232900000001,41.505354],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874089545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.525323,44.282568,-105.525323,44.282568",
+    "geom:latitude":44.282568,
+    "geom:longitude":-105.525323,
+    "iso:country":"US",
+    "sg:address":"1001 Metz Dr",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 2400",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TDgLxkHnPrCGEp4HRhCLg_44.282568_-105.525323@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311656,
+    "wof:geomhash":"98e861a45d366977824e1750f9957107",
+    "wof:hierarchy":[],
+    "wof:id":874089545,
+    "wof:lastmodified":1464311656,
+    "wof:name":"Metz Beverage Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale"
+    ]
+},
+  "bbox": [
+    -105.525323,
+    44.282568,
+    -105.525323,
+    44.282568
+],
+  "geometry": {"coordinates":[-105.525323,44.282568],"type":"Point"}
+}

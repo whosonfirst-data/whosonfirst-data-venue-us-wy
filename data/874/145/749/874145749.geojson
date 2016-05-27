@@ -1,0 +1,66 @@
+{
+  "id": 874145749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590777,41.337174,-105.590777,41.337174",
+    "geom:latitude":41.337174,
+    "geom:longitude":-105.590777,
+    "iso:country":"US",
+    "sg:address":"4425 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5551",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76twQ3gZSWXI49OWc1HpEY_41.337174_-105.590777@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312291,
+    "wof:geomhash":"16075b3ed10f54e0f7c3ae15dc5caad1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874145749
+        }
+    ],
+    "wof:id":874145749,
+    "wof:lastmodified":1464312291,
+    "wof:name":"Cavalryman",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.590777,
+    41.337174,
+    -105.590777,
+    41.337174
+],
+  "geometry": {"coordinates":[-105.590777,41.337174],"type":"Point"}
+}

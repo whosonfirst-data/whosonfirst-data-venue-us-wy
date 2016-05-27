@@ -1,0 +1,73 @@
+{
+  "id": 874220693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.563585,41.300432,-105.563585,41.300432",
+    "geom:latitude":41.300432,
+    "geom:longitude":-105.563585,
+    "iso:country":"US",
+    "sg:address":"1428 S Bridger St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6368",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "photographer",
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rwrlPLsDU7tJ3XLyUFIgX_41.300432_-105.563585@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313071,
+    "wof:geomhash":"aa63835f3f2ba7628cbf2d5c0acbe724",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874220693
+        }
+    ],
+    "wof:id":874220693,
+    "wof:lastmodified":1464313071,
+    "wof:name":"Precious Portraits LLC",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "photo"
+    ]
+},
+  "bbox": [
+    -105.563585,
+    41.300432,
+    -105.563585,
+    41.300432
+],
+  "geometry": {"coordinates":[-105.563585,41.300432],"type":"Point"}
+}

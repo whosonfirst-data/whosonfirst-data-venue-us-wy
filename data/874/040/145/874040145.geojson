@@ -1,0 +1,66 @@
+{
+  "id": 874040145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594913,41.310929,-105.594913,41.310929",
+    "geom:latitude":41.310929,
+    "geom:longitude":-105.594913,
+    "iso:country":"US",
+    "sg:address":"321 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 3877",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lDIKmTiIumkoeMYl8gjqd_41.310929_-105.594913@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311144,
+    "wof:geomhash":"eedf71597b72df26d6329d3985f89b11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874040145
+        }
+    ],
+    "wof:id":874040145,
+    "wof:lastmodified":1464311144,
+    "wof:name":"Linda Hitt",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.594913,
+    41.310929,
+    -105.594913,
+    41.310929
+],
+  "geometry": {"coordinates":[-105.59491300000001,41.310929],"type":"Point"}
+}

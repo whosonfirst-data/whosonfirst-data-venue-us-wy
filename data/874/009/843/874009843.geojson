@@ -1,0 +1,56 @@
+{
+  "id": 874009843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.06144,44.527081,-109.06144,44.527081",
+    "geom:latitude":44.527081,
+    "geom:longitude":-109.06144,
+    "iso:country":"US",
+    "sg:address":"1338 Rumsey Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 7511",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49J6chGZYGQAOofmL1I3Y7_44.527081_-109.061440@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310854,
+    "wof:geomhash":"42d9c119da9aa31b7ffe234cebdc827c",
+    "wof:hierarchy":[],
+    "wof:id":874009843,
+    "wof:lastmodified":1464310854,
+    "wof:name":"City Of Cody City Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -109.06144,
+    44.527081,
+    -109.06144,
+    44.527081
+],
+  "geometry": {"coordinates":[-109.06144,44.527081],"type":"Point"}
+}

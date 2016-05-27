@@ -1,0 +1,58 @@
+{
+  "id": 874125059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.816459,41.168659,-104.816459,41.168659",
+    "geom:latitude":41.168659,
+    "geom:longitude":-104.816459,
+    "iso:country":"US",
+    "sg:address":"714 Apache St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 432 9906",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VZr3LDidVVegRJPXCEn5O_41.168659_-104.816459@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312086,
+    "wof:geomhash":"34cd5a9e5c9caa738fa0f630ccde1c52",
+    "wof:hierarchy":[],
+    "wof:id":874125059,
+    "wof:lastmodified":1464312086,
+    "wof:name":"D & H Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -104.816459,
+    41.168659,
+    -104.816459,
+    41.168659
+],
+  "geometry": {"coordinates":[-104.81645899999999,41.168659],"type":"Point"}
+}

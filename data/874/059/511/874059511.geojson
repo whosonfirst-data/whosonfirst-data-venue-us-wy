@@ -1,0 +1,58 @@
+{
+  "id": 874059511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.516762,44.295884,-105.516762,44.295884",
+    "geom:latitude":44.295884,
+    "geom:longitude":-105.516762,
+    "iso:country":"US",
+    "sg:address":"900 W 1st St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 4592",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76IX6TQL6hvPDHx4n20SlJ_44.295884_-105.516762@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311331,
+    "wof:geomhash":"a443b1103f0abab19a6b3f0c762ae6a2",
+    "wof:hierarchy":[],
+    "wof:id":874059511,
+    "wof:lastmodified":1464311331,
+    "wof:name":"Del's Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -105.516762,
+    44.295884,
+    -105.516762,
+    44.295884
+],
+  "geometry": {"coordinates":[-105.516762,44.295884],"type":"Point"}
+}

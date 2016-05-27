@@ -1,0 +1,73 @@
+{
+  "id": 874068509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.431346,42.863158,-106.431346,42.863158",
+    "geom:latitude":42.863158,
+    "geom:longitude":-106.431346,
+    "iso:country":"US",
+    "sg:address":"7048 W Zero Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 0222",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kClWK05ytZPOcXWZ03clG_42.863158_-106.431346@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311419,
+    "wof:geomhash":"2da68284140db2ab340903a66c89696d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874068509
+        }
+    ],
+    "wof:id":874068509,
+    "wof:lastmodified":1464311419,
+    "wof:name":"Cameron",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -106.431346,
+    42.863158,
+    -106.431346,
+    42.863158
+],
+  "geometry": {"coordinates":[-106.431346,42.863158],"type":"Point"}
+}

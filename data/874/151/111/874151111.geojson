@@ -1,0 +1,56 @@
+{
+  "id": 874151111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.37577,42.753959,-105.37577,42.753959",
+    "geom:latitude":42.753959,
+    "geom:longitude":-105.37577,
+    "iso:country":"US",
+    "sg:address":"501 S 9th St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 3047",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4icM3TmMWhNgCO6yN4Wt6e_42.753959_-105.375770@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312339,
+    "wof:geomhash":"07c6934fcd1bfc3448c02fc5b5f663b2",
+    "wof:hierarchy":[],
+    "wof:id":874151111,
+    "wof:lastmodified":1464312339,
+    "wof:name":"Douglas Cemetery Building",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -105.37577,
+    42.753959,
+    -105.37577,
+    42.753959
+],
+  "geometry": {"coordinates":[-105.37577,42.753959],"type":"Point"}
+}

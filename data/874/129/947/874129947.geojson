@@ -1,0 +1,62 @@
+{
+  "id": 874129947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.00001,42.913452,-111.00001,42.913452",
+    "geom:latitude":42.913452,
+    "geom:longitude":-111.00001,
+    "iso:country":"US",
+    "sg:address":"118 S Main St",
+    "sg:city":"Thayne",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 883 2393",
+    "sg:postcode":"83127",
+    "sg:province":"WY",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21EJibjMT5FU1kDDxTCzhR_42.913452_-111.000010@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312135,
+    "wof:geomhash":"7c0749f7638fc5457b71ffad08e1a1b0",
+    "wof:hierarchy":[],
+    "wof:id":874129947,
+    "wof:lastmodified":1464312135,
+    "wof:name":"Video USA",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -111.00001,
+    42.913452,
+    -111.00001,
+    42.913452
+],
+  "geometry": {"coordinates":[-111.00001,42.913452],"type":"Point"}
+}

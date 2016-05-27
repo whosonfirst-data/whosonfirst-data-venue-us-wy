@@ -1,0 +1,56 @@
+{
+  "id": 874086627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.962624,44.015763,-107.962624,44.015763",
+    "geom:latitude":44.015763,
+    "geom:longitude":-107.962624,
+    "iso:country":"US",
+    "sg:address":"200 S 5th St",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 4253",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GKyoGCp1j5EUcmABLUx93_44.015763_-107.962624@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311627,
+    "wof:geomhash":"59538da004227759d04e43ace0e8323b",
+    "wof:hierarchy":[],
+    "wof:id":874086627,
+    "wof:lastmodified":1464311627,
+    "wof:name":"Worland Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -107.962624,
+    44.015763,
+    -107.962624,
+    44.015763
+],
+  "geometry": {"coordinates":[-107.96262400000001,44.015763],"type":"Point"}
+}

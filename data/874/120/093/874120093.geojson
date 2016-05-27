@@ -1,0 +1,69 @@
+{
+  "id": 874120093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.411256,42.818105,-106.411256,42.818105",
+    "geom:latitude":42.818105,
+    "geom:longitude":-106.411256,
+    "iso:country":"US",
+    "sg:address":"120 Aster St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3620",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50E8TlacXwAq2bzCDMnQyH_42.818105_-106.411256@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312042,
+    "wof:geomhash":"bd34846cab3e54ca42bc5ce75359b8b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874120093
+        }
+    ],
+    "wof:id":874120093,
+    "wof:lastmodified":1464312042,
+    "wof:name":"Coupens Construction",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -106.411256,
+    42.818105,
+    -106.411256,
+    42.818105
+],
+  "geometry": {"coordinates":[-106.41125599999999,42.818105],"type":"Point"}
+}

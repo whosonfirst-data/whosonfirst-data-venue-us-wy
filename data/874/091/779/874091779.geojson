@@ -1,0 +1,58 @@
+{
+  "id": 874091779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.810705,41.12767,-104.810705,41.12767",
+    "geom:latitude":41.12767,
+    "geom:longitude":-104.810705,
+    "iso:country":"US",
+    "sg:address":"912 Central Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 8625",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74xpoMl74Y6fHDoJNQ7Djf_41.127670_-104.810705@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311684,
+    "wof:geomhash":"a1a03c4050d162e7a92ec29df44c55e7",
+    "wof:hierarchy":[],
+    "wof:id":874091779,
+    "wof:lastmodified":1464311684,
+    "wof:name":"Pole Mountain Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -104.810705,
+    41.12767,
+    -104.810705,
+    41.12767
+],
+  "geometry": {"coordinates":[-104.810705,41.12767],"type":"Point"}
+}

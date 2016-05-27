@@ -1,0 +1,58 @@
+{
+  "id": 874098113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.053917,44.488859,-108.053917,44.488859",
+    "geom:latitude":44.488859,
+    "geom:longitude":-108.053917,
+    "iso:country":"US",
+    "sg:address":"400 Greybull Ave",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 2051",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73NeWtKm07YIjoP5enkSaq_44.488859_-108.053917@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311758,
+    "wof:geomhash":"3a56815639e75a2e01a46e532c4616bb",
+    "wof:hierarchy":[],
+    "wof:id":874098113,
+    "wof:lastmodified":1464311758,
+    "wof:name":"Big Horn Co-Op Service Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -108.053917,
+    44.488859,
+    -108.053917,
+    44.488859
+],
+  "geometry": {"coordinates":[-108.053917,44.488859],"type":"Point"}
+}

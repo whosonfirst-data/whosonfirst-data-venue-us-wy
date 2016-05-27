@@ -1,0 +1,73 @@
+{
+  "id": 873993025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.31051,42.847284,-106.31051,42.847284",
+    "geom:latitude":42.847284,
+    "geom:longitude":-106.31051,
+    "iso:country":"US",
+    "sg:address":"1119 E 3rd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 2772",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qkIVVj9X9BzgaHhJs6itp_42.847284_-106.310510@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310712,
+    "wof:geomhash":"e9a947e2724a736988ea67c76f8fd1bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873993025
+        }
+    ],
+    "wof:id":873993025,
+    "wof:lastmodified":1464310712,
+    "wof:name":"Casper Dermatology Clinic",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -106.31051,
+    42.847284,
+    -106.31051,
+    42.847284
+],
+  "geometry": {"coordinates":[-106.31050999999999,42.847284],"type":"Point"}
+}

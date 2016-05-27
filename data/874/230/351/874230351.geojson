@@ -1,0 +1,61 @@
+{
+  "id": 874230351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.770969,43.477846,-110.770969,43.477846",
+    "geom:latitude":43.477846,
+    "geom:longitude":-110.770969,
+    "iso:country":"US",
+    "sg:address":"520 US-89",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/jackson-hole/78192-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 0330",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60SUC3ztCttupt4MM2h8Xk_43.477846_-110.770969@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313163,
+    "wof:geomhash":"411a284a81a55725dc0893637c6cbbc5",
+    "wof:hierarchy":[],
+    "wof:id":874230351,
+    "wof:lastmodified":1464313163,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -110.770969,
+    43.477846,
+    -110.770969,
+    43.477846
+],
+  "geometry": {"coordinates":[-110.77096899999999,43.477846],"type":"Point"}
+}

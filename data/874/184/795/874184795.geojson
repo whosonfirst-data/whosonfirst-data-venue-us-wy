@@ -1,0 +1,66 @@
+{
+  "id": 874184795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594048,41.306239,-105.594048,41.306239",
+    "geom:latitude":41.306239,
+    "geom:longitude":-105.594048,
+    "iso:country":"US",
+    "sg:address":"807 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6840",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pDH1wz7n8tVfXK8Fs62ws_41.306239_-105.594048@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312689,
+    "wof:geomhash":"3f7720090197d15c5c4003fd5585c2d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874184795
+        }
+    ],
+    "wof:id":874184795,
+    "wof:lastmodified":1464312689,
+    "wof:name":"Albany County Chiropractic Ctr",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.594048,
+    41.306239,
+    -105.594048,
+    41.306239
+],
+  "geometry": {"coordinates":[-105.594048,41.306239],"type":"Point"}
+}

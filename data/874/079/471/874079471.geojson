@@ -1,0 +1,71 @@
+{
+  "id": 874079471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.569954,41.32505,-105.569954,41.32505",
+    "geom:latitude":41.32505,
+    "geom:longitude":-105.569954,
+    "iso:country":"US",
+    "sg:address":"2015 E Reynolds St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 0858",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zm4pRALm6CDNKCeoYfasi_41.325050_-105.569954@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311547,
+    "wof:geomhash":"899428104cd99d744863cb5fbac958a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874079471
+        }
+    ],
+    "wof:id":874079471,
+    "wof:lastmodified":1464311547,
+    "wof:name":"Tax & Business Professionals",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -105.569954,
+    41.32505,
+    -105.569954,
+    41.32505
+],
+  "geometry": {"coordinates":[-105.569954,41.32505],"type":"Point"}
+}

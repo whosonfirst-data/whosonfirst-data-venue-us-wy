@@ -1,0 +1,56 @@
+{
+  "id": 873990403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.203528,43.853521,-104.203528,43.853521",
+    "geom:latitude":43.853521,
+    "geom:longitude":-104.203528,
+    "iso:country":"US",
+    "sg:address":"130 S Seneca Ave",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 4600",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72WHCCfkeJsQkD37FYBo17_43.853521_-104.203528@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310692,
+    "wof:geomhash":"7c2fd9aa33536d3152eab0abf74f5cee",
+    "wof:hierarchy":[],
+    "wof:id":873990403,
+    "wof:lastmodified":1464310692,
+    "wof:name":"Erickson Family Dental Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -104.203528,
+    43.853521,
+    -104.203528,
+    43.853521
+],
+  "geometry": {"coordinates":[-104.20352800000001,43.853521],"type":"Point"}
+}

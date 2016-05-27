@@ -1,0 +1,69 @@
+{
+  "id": 874180447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.305189,42.846265,-106.305189,42.846265",
+    "geom:latitude":42.846265,
+    "geom:longitude":-106.305189,
+    "iso:country":"US",
+    "sg:address":"1541 E 4th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 8317",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JP3dcN9kMAHfuM6RZRoR8_42.846265_-106.305189@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312634,
+    "wof:geomhash":"c060933e38de3a61adeee1cb031bfa04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874180447
+        }
+    ],
+    "wof:id":874180447,
+    "wof:lastmodified":1464312634,
+    "wof:name":"Casper Cemetery",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -106.305189,
+    42.846265,
+    -106.305189,
+    42.846265
+],
+  "geometry": {"coordinates":[-106.305189,42.846265],"type":"Point"}
+}

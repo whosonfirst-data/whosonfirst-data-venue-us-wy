@@ -1,0 +1,64 @@
+{
+  "id": 874149035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.314581,42.82263,-106.314581,42.82263",
+    "geom:latitude":42.82263,
+    "geom:longitude":-106.314581,
+    "iso:country":"US",
+    "sg:address":"2535 Allendale Blvd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 9474",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wRCAnHsny1l6XQEvg75LZ_42.822630_-106.314581@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312320,
+    "wof:geomhash":"321f0ee79c317db39e87e666bdd43d3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874149035
+        }
+    ],
+    "wof:id":874149035,
+    "wof:lastmodified":1464312320,
+    "wof:name":"Basketball",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.314581,
+    42.82263,
+    -106.314581,
+    42.82263
+],
+  "geometry": {"coordinates":[-106.314581,42.82263],"type":"Point"}
+}

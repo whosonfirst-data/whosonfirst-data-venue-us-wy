@@ -1,0 +1,56 @@
+{
+  "id": 874163143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.08825,44.516539,-109.08825,44.516539",
+    "geom:latitude":44.516539,
+    "geom:longitude":-109.08825,
+    "iso:country":"US",
+    "sg:address":"512 Yellowstone Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 7427",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PWAzJ6EucnWL8CTICAuDm_44.516539_-109.088250@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312461,
+    "wof:geomhash":"2b00be82605116933355f6e87b6376a9",
+    "wof:hierarchy":[],
+    "wof:id":874163143,
+    "wof:lastmodified":1464312461,
+    "wof:name":"Bubbas Bbq",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -109.08825,
+    44.516539,
+    -109.08825,
+    44.516539
+],
+  "geometry": {"coordinates":[-109.08825,44.516539],"type":"Point"}
+}

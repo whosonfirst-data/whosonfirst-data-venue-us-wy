@@ -1,0 +1,73 @@
+{
+  "id": 874156645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.59222,41.324587,-105.59222,41.324587",
+    "geom:latitude":41.324587,
+    "geom:longitude":-105.59222,
+    "iso:country":"US",
+    "sg:address":"1360 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 8975",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "home",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Seu4BY99ngeVQdco3wiPz_41.324587_-105.592220@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312395,
+    "wof:geomhash":"bddcc6c01f6a83aec1d63c93eb1310a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874156645
+        }
+    ],
+    "wof:id":874156645,
+    "wof:lastmodified":1464312395,
+    "wof:name":"Ark Industries",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "group"
+    ]
+},
+  "bbox": [
+    -105.59222,
+    41.324587,
+    -105.59222,
+    41.324587
+],
+  "geometry": {"coordinates":[-105.59222,41.324587],"type":"Point"}
+}

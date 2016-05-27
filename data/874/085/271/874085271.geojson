@@ -1,0 +1,71 @@
+{
+  "id": 874085271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.342258,42.859941,-106.342258,42.859941",
+    "geom:latitude":42.859941,
+    "geom:longitude":-106.342258,
+    "iso:country":"US",
+    "sg:address":"907 N Foster Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 1073",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mI8Qbl7yQmqm8o9ThXkls_42.859941_-106.342258@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311612,
+    "wof:geomhash":"cbea707d3dec16e7245bb670fb3d87e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874085271
+        }
+    ],
+    "wof:id":874085271,
+    "wof:lastmodified":1464311612,
+    "wof:name":"Armadillo Mini Storage",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -106.342258,
+    42.859941,
+    -106.342258,
+    42.859941
+],
+  "geometry": {"coordinates":[-106.342258,42.859941],"type":"Point"}
+}

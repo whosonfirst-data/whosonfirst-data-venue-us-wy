@@ -1,0 +1,58 @@
+{
+  "id": 874223731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.810449,41.135543,-104.810449,41.135543",
+    "geom:latitude":41.135543,
+    "geom:longitude":-104.810449,
+    "iso:country":"US",
+    "sg:address":"421 E 17th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 0233",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lwefRdfcGnAOhSCwbkLaW_41.135543_-104.810449@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313100,
+    "wof:geomhash":"6d356cb2be2700961f0d4b1dd5f03953",
+    "wof:hierarchy":[],
+    "wof:id":874223731,
+    "wof:lastmodified":1464313100,
+    "wof:name":"Cheyenne Hematology Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -104.810449,
+    41.135543,
+    -104.810449,
+    41.135543
+],
+  "geometry": {"coordinates":[-104.81044900000001,41.135543],"type":"Point"}
+}

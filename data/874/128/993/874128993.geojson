@@ -1,0 +1,71 @@
+{
+  "id": 874128993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595326,41.289162,-105.595326,41.289162",
+    "geom:latitude":41.289162,
+    "geom:longitude":-105.595326,
+    "iso:country":"US",
+    "sg:address":"2919 County Shop Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4469",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qOo9AwhMsWz3glD87XkxJ_41.289162_-105.595326@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312121,
+    "wof:geomhash":"f344f55f075ebf4df63cd4fd9ab319e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874128993
+        }
+    ],
+    "wof:id":874128993,
+    "wof:lastmodified":1464312121,
+    "wof:name":"Albany County Weed & Pest",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -105.595326,
+    41.289162,
+    -105.595326,
+    41.289162
+],
+  "geometry": {"coordinates":[-105.595326,41.289162],"type":"Point"}
+}

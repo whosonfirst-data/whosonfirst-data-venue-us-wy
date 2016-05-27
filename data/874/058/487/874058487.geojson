@@ -1,0 +1,56 @@
+{
+  "id": 874058487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.967472,41.256246,-110.967472,41.256246",
+    "geom:latitude":41.256246,
+    "geom:longitude":-110.967472,
+    "iso:country":"US",
+    "sg:address":"75 Yellow Creek Rd",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 8742",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ta8NnN3s7vhcFYOuIGUWP_41.256246_-110.967472@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311321,
+    "wof:geomhash":"0a442e1bf87f465332fea8aabb9afaf0",
+    "wof:hierarchy":[],
+    "wof:id":874058487,
+    "wof:lastmodified":1464311321,
+    "wof:name":"Uinta Orthodintics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -110.967472,
+    41.256246,
+    -110.967472,
+    41.256246
+],
+  "geometry": {"coordinates":[-110.967472,41.256246],"type":"Point"}
+}

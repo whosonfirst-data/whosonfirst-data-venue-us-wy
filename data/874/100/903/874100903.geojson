@@ -1,0 +1,64 @@
+{
+  "id": 874100903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.369397,42.806883,-106.369397,42.806883",
+    "geom:latitude":42.806883,
+    "geom:longitude":-106.369397,
+    "iso:country":"US",
+    "sg:address":"3730 W 45th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8661",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J4MvXObWbm7Du6Bai229S_42.806883_-106.369397@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311806,
+    "wof:geomhash":"d2ea53569cf06a9d047b290016555a7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874100903
+        }
+    ],
+    "wof:id":874100903,
+    "wof:lastmodified":1464311806,
+    "wof:name":"Plane Company Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.369397,
+    42.806883,
+    -106.369397,
+    42.806883
+],
+  "geometry": {"coordinates":[-106.36939700000001,42.806883],"type":"Point"}
+}

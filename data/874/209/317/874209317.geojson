@@ -1,0 +1,58 @@
+{
+  "id": 874209317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.233891,41.788393,-107.233891,41.788393",
+    "geom:latitude":41.788393,
+    "geom:longitude":-107.233891,
+    "iso:country":"US",
+    "sg:address":"110 Wyoming St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 5250",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L2kQsEuS8LjJs13c7OQuG_41.788393_-107.233891@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312942,
+    "wof:geomhash":"2cbb1d84aee102f5f9f596bee3acc731",
+    "wof:hierarchy":[],
+    "wof:id":874209317,
+    "wof:lastmodified":1464312942,
+    "wof:name":"North Park Transportation Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -107.233891,
+    41.788393,
+    -107.233891,
+    41.788393
+],
+  "geometry": {"coordinates":[-107.233891,41.788393],"type":"Point"}
+}

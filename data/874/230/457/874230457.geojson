@@ -1,0 +1,68 @@
+{
+  "id": 874230457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.808046,41.145923,-104.808046,41.145923",
+    "geom:latitude":41.145923,
+    "geom:longitude":-104.808046,
+    "iso:country":"US",
+    "sg:address":"1038 E Pershing Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/192431-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 1555",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ata7JOl5SQcBgQMCRTMoX_41.145990_-104.808782@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313164,
+    "wof:geomhash":"95d1337368882af0ade80a0ec0d10109",
+    "wof:hierarchy":[],
+    "wof:id":874230457,
+    "wof:lastmodified":1464313164,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -104.808046,
+    41.145923,
+    -104.808046,
+    41.145923
+],
+  "geometry": {"coordinates":[-104.808046,41.145923],"type":"Point"}
+}

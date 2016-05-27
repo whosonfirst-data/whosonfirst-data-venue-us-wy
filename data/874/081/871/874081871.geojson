@@ -1,0 +1,63 @@
+{
+  "id": 874081871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.058188,44.531103,-109.058188,44.531103",
+    "geom:latitude":44.531103,
+    "geom:longitude":-109.058188,
+    "iso:country":"US",
+    "sg:address":"602 15th St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 3990",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "system",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tUPKPQbTUKyizRF9yrV4o_44.531103_-109.058188@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311574,
+    "wof:geomhash":"1d8cd554c1a530872c2b5f944de97e05",
+    "wof:hierarchy":[],
+    "wof:id":874081871,
+    "wof:lastmodified":1464311574,
+    "wof:name":"Cody Recycling Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "village"
+    ]
+},
+  "bbox": [
+    -109.058188,
+    44.531103,
+    -109.058188,
+    44.531103
+],
+  "geometry": {"coordinates":[-109.058188,44.531103],"type":"Point"}
+}

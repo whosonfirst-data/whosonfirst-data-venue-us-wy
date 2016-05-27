@@ -1,0 +1,71 @@
+{
+  "id": 874058109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.437594,42.880459,-106.437594,42.880459",
+    "geom:latitude":42.880459,
+    "geom:longitude":-106.437594,
+    "iso:country":"US",
+    "sg:address":"7559 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 5171",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SjgfItPUt0ZHFaOP0TpOU_42.880459_-106.437594@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311318,
+    "wof:geomhash":"c3a58748cfc395806023218c180ed686",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874058109
+        }
+    ],
+    "wof:id":874058109,
+    "wof:lastmodified":1464311318,
+    "wof:name":"BDK Transport",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -106.437594,
+    42.880459,
+    -106.437594,
+    42.880459
+],
+  "geometry": {"coordinates":[-106.437594,42.880459],"type":"Point"}
+}

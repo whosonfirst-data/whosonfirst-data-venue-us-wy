@@ -1,0 +1,56 @@
+{
+  "id": 874052879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.056129,44.48985,-108.056129,44.48985",
+    "geom:latitude":44.48985,
+    "geom:longitude":-108.056129,
+    "iso:country":"US",
+    "sg:address":"633 1st Ave N",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 9529",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DYu28cnXDDxPk5nl5fSNI_44.489850_-108.056129@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311267,
+    "wof:geomhash":"2c054760bc8e15adf1dabf8b88c07799",
+    "wof:hierarchy":[],
+    "wof:id":874052879,
+    "wof:lastmodified":1464311267,
+    "wof:name":"Auto Medx",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -108.056129,
+    44.48985,
+    -108.056129,
+    44.48985
+],
+  "geometry": {"coordinates":[-108.056129,44.48985],"type":"Point"}
+}

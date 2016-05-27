@@ -1,0 +1,61 @@
+{
+  "id": 874082233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.376984,42.752395,-105.376984,42.752395",
+    "geom:latitude":42.752395,
+    "geom:longitude":-105.376984,
+    "iso:country":"US",
+    "sg:address":"615 S 8th St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 4552",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BcNmS4W2aHY8zPdSiOSDO_42.752395_-105.376984@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311580,
+    "wof:geomhash":"b4b443fb9ee0381fc1c712cfebfff77f",
+    "wof:hierarchy":[],
+    "wof:id":874082233,
+    "wof:lastmodified":1464311580,
+    "wof:name":"Emery's Septic Tank Pumping",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -105.376984,
+    42.752395,
+    -105.376984,
+    42.752395
+],
+  "geometry": {"coordinates":[-105.37698399999999,42.752395],"type":"Point"}
+}

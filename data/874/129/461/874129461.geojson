@@ -1,0 +1,75 @@
+{
+  "id": 874129461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.307202,42.854534,-106.307202,42.854534",
+    "geom:latitude":42.854534,
+    "geom:longitude":-106.307202,
+    "iso:country":"US",
+    "sg:address":"436 N Conwell St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1971",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "development",
+        "gas",
+        "oil",
+        "exploration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DSCFoDbma4iDkYFjgFTVD_42.854534_-106.307202@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312128,
+    "wof:geomhash":"b86f89612128a1acb990e28aa497c94b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874129461
+        }
+    ],
+    "wof:id":874129461,
+    "wof:lastmodified":1464312128,
+    "wof:name":"Aflo Tech LPT",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "gas",
+        "oil",
+        "exploration"
+    ]
+},
+  "bbox": [
+    -106.307202,
+    42.854534,
+    -106.307202,
+    42.854534
+],
+  "geometry": {"coordinates":[-106.307202,42.854534],"type":"Point"}
+}

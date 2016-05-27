@@ -1,0 +1,71 @@
+{
+  "id": 874064931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.310951,42.84611,-106.310951,42.84611",
+    "geom:latitude":42.84611,
+    "geom:longitude":-106.310951,
+    "iso:country":"US",
+    "sg:address":"339 S Jackson St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 9200",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kKiQDFs2xz8cs0ZO3MGjW_42.846110_-106.310951@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311379,
+    "wof:geomhash":"040ad202a31c8ab48492541bf0144e01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874064931
+        }
+    ],
+    "wof:id":874064931,
+    "wof:lastmodified":1464311379,
+    "wof:name":"Superior Woods",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.310951,
+    42.84611,
+    -106.310951,
+    42.84611
+],
+  "geometry": {"coordinates":[-106.310951,42.84611],"type":"Point"}
+}

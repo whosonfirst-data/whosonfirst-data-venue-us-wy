@@ -1,0 +1,71 @@
+{
+  "id": 874203739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.287285,42.839431,-106.287285,42.839431",
+    "geom:latitude":42.839431,
+    "geom:longitude":-106.287285,
+    "iso:country":"US",
+    "sg:address":"1106 Payne Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 6437",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OtEUpd1LIJ9vIpKS7i2Oi_42.839431_-106.287285@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312881,
+    "wof:geomhash":"565e73911a2a8b483097136552e7a6f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874203739
+        }
+    ],
+    "wof:id":874203739,
+    "wof:lastmodified":1464312881,
+    "wof:name":"Adventures Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -106.287285,
+    42.839431,
+    -106.287285,
+    42.839431
+],
+  "geometry": {"coordinates":[-106.287285,42.839431],"type":"Point"}
+}

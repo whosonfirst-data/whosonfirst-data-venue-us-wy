@@ -1,0 +1,71 @@
+{
+  "id": 874126181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.357827,42.829188,-106.357827,42.829188",
+    "geom:latitude":42.829188,
+    "geom:longitude":-106.357827,
+    "iso:country":"US",
+    "sg:address":"1812 Fremont Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 5363",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HeAf5s6AHPbOL6Gn2Uo7r_42.829188_-106.357827@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312095,
+    "wof:geomhash":"fa87f5bf18f43e3ad125b0567df9333a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874126181
+        }
+    ],
+    "wof:id":874126181,
+    "wof:lastmodified":1464312095,
+    "wof:name":"J & B Security",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -106.357827,
+    42.829188,
+    -106.357827,
+    42.829188
+],
+  "geometry": {"coordinates":[-106.357827,42.829188],"type":"Point"}
+}

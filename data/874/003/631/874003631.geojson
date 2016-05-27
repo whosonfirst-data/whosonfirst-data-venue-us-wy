@@ -1,0 +1,58 @@
+{
+  "id": 874003631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.384894,42.994576,-108.384894,42.994576",
+    "geom:latitude":42.994576,
+    "geom:longitude":-108.384894,
+    "iso:country":"US",
+    "sg:address":"10367 Hwy 789",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 6789",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PueYffJYKixQwQUo7W4yj_42.994576_-108.384894@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310799,
+    "wof:geomhash":"8611dc0c46b7d373d217e33400e9f60b",
+    "wof:hierarchy":[],
+    "wof:id":874003631,
+    "wof:lastmodified":1464310799,
+    "wof:name":"789 Car Truck Stop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -108.384894,
+    42.994576,
+    -108.384894,
+    42.994576
+],
+  "geometry": {"coordinates":[-108.384894,42.994576],"type":"Point"}
+}

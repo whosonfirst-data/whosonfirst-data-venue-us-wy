@@ -1,0 +1,71 @@
+{
+  "id": 874091555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.286387,42.852683,-106.286387,42.852683",
+    "geom:latitude":42.852683,
+    "geom:longitude":-106.286387,
+    "iso:country":"US",
+    "sg:address":"405 Harden Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 3098",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eM920xUtneQSiixrsWwal_42.852683_-106.286387@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311682,
+    "wof:geomhash":"5657ae7598fc0224e1d4c08c9b2517f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874091555
+        }
+    ],
+    "wof:id":874091555,
+    "wof:lastmodified":1464311682,
+    "wof:name":"Colling Brothers Roofing",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.286387,
+    42.852683,
+    -106.286387,
+    42.852683
+],
+  "geometry": {"coordinates":[-106.286387,42.852683],"type":"Point"}
+}

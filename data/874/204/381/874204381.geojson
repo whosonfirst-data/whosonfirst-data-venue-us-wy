@@ -1,0 +1,51 @@
+{
+  "id": 874204381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.452151,42.763882,-104.452151,42.763882",
+    "geom:latitude":42.763882,
+    "geom:longitude":-104.452151,
+    "iso:country":"US",
+    "sg:address":"209 S Main St",
+    "sg:city":"Lusk",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 334 3601",
+    "sg:postcode":"82225",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ox2oasfA6aG4rn7tN4iip_42.763882_-104.452151@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312887,
+    "wof:geomhash":"8a5a840d66d25f7d46c9e9041952a7df",
+    "wof:hierarchy":[],
+    "wof:id":874204381,
+    "wof:lastmodified":1464312887,
+    "wof:name":"Dave's Drug",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.452151,
+    42.763882,
+    -104.452151,
+    42.763882
+],
+  "geometry": {"coordinates":[-104.452151,42.763882],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 874008523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.238613,41.787454,-107.238613,41.787454",
+    "geom:latitude":41.787454,
+    "geom:longitude":-107.238613,
+    "iso:country":"US",
+    "sg:address":"103 4th St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 4763",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QxovveTl1Ah1SuIpHjwZi_41.787454_-107.238613@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310845,
+    "wof:geomhash":"228736d83b41209ac8d3c8fafe7ec020",
+    "wof:hierarchy":[],
+    "wof:id":874008523,
+    "wof:lastmodified":1464310845,
+    "wof:name":"Grooming Shops",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -107.238613,
+    41.787454,
+    -107.238613,
+    41.787454
+],
+  "geometry": {"coordinates":[-107.238613,41.787454],"type":"Point"}
+}

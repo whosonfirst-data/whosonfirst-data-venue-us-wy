@@ -1,0 +1,71 @@
+{
+  "id": 874019027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.34917,42.81424,-106.34917,42.81424",
+    "geom:latitude":42.81424,
+    "geom:longitude":-106.34917,
+    "iso:country":"US",
+    "sg:address":"3601 Arroyo Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 8376",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55ln0mu5QznJOo8ETbpi6k_42.814240_-106.349170@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310938,
+    "wof:geomhash":"c3b00cf00d64edb7509e33e3bf6aa606",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874019027
+        }
+    ],
+    "wof:id":874019027,
+    "wof:lastmodified":1464310938,
+    "wof:name":"Delices De France",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -106.34917,
+    42.81424,
+    -106.34917,
+    42.81424
+],
+  "geometry": {"coordinates":[-106.34917,42.81424],"type":"Point"}
+}

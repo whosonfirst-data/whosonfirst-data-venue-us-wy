@@ -1,0 +1,65 @@
+{
+  "id": 874139439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.257566,42.834706,-106.257566,42.834706",
+    "geom:latitude":42.834706,
+    "geom:longitude":-106.257566,
+    "iso:country":"US",
+    "sg:address":"1321 Cornwall St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 6422",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:website":"www.brenntag.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_263IF0lAdFwNqxUV35Pvwz_42.834706_-106.257566@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312230,
+    "wof:geomhash":"023f1b9617f37ecdd6b7d44a223f2a49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874139439
+        }
+    ],
+    "wof:id":874139439,
+    "wof:lastmodified":1464312230,
+    "wof:name":"Brenntag Pacific",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.257566,
+    42.834706,
+    -106.257566,
+    42.834706
+],
+  "geometry": {"coordinates":[-106.257566,42.834706],"type":"Point"}
+}

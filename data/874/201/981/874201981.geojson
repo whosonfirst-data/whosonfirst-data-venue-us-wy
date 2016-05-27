@@ -1,0 +1,60 @@
+{
+  "id": 874201981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.514848,44.289242,-105.514848,44.289242",
+    "geom:latitude":44.289242,
+    "geom:longitude":-105.514848,
+    "iso:country":"US",
+    "sg:address":"906 W 6th St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 687 5500",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical",
+        "hospital",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aY3qbmZBPKiX4zk0DgiNL_44.289242_-105.514848@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312863,
+    "wof:geomhash":"93e67e3f607a4e70337efd2a3ca4648d",
+    "wof:hierarchy":[],
+    "wof:id":874201981,
+    "wof:lastmodified":1464312863,
+    "wof:name":"Powder River Surgery Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "hospital",
+        "general"
+    ]
+},
+  "bbox": [
+    -105.514848,
+    44.289242,
+    -105.514848,
+    44.289242
+],
+  "geometry": {"coordinates":[-105.514848,44.289242],"type":"Point"}
+}

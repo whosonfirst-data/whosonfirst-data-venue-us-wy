@@ -1,0 +1,64 @@
+{
+  "id": 874167901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.36816,42.81071,-106.36816,42.81071",
+    "geom:latitude":42.81071,
+    "geom:longitude":-106.36816,
+    "iso:country":"US",
+    "sg:address":"3818 Aspen Pl",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 2939",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6z4fTomJqlgdbqCtjp1RZs_42.810710_-106.368160@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312506,
+    "wof:geomhash":"24524362e0c078e07bf81ed043982f74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874167901
+        }
+    ],
+    "wof:id":874167901,
+    "wof:lastmodified":1464312506,
+    "wof:name":"Mjp Enterprises",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.36816,
+    42.81071,
+    -106.36816,
+    42.81071
+],
+  "geometry": {"coordinates":[-106.36816,42.81071],"type":"Point"}
+}

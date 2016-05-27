@@ -1,0 +1,71 @@
+{
+  "id": 874033935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.387982,42.84547,-106.387982,42.84547",
+    "geom:latitude":42.84547,
+    "geom:longitude":-106.387982,
+    "iso:country":"US",
+    "sg:address":"945 Pendell Blvd",
+    "sg:city":"Mills",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 5770",
+    "sg:postcode":"82644",
+    "sg:province":"WY",
+    "sg:tags":[
+        "federally",
+        "chartered"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RZK7e2WsF8f1oZHjysJWa_42.845470_-106.387982@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311084,
+    "wof:geomhash":"6ca71fd819df036c1b5b9736035b5bf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874033935
+        }
+    ],
+    "wof:id":874033935,
+    "wof:lastmodified":1464311084,
+    "wof:name":"NPRD Federal Credit Union",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federally",
+        "chartered"
+    ]
+},
+  "bbox": [
+    -106.387982,
+    42.84547,
+    -106.387982,
+    42.84547
+],
+  "geometry": {"coordinates":[-106.38798199999999,42.84547],"type":"Point"}
+}

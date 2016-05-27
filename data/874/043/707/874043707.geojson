@@ -1,0 +1,69 @@
+{
+  "id": 874043707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.552197,42.800337,-106.552197,42.800337",
+    "geom:latitude":42.800337,
+    "geom:longitude":-106.552197,
+    "iso:country":"US",
+    "sg:address":"12905 Dusty Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 7346",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "stable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JCPxQWVFwNm13h0sd2snT_42.800337_-106.552197@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311182,
+    "wof:geomhash":"a1386b65bc83c08338a688ea7d5754aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874043707
+        }
+    ],
+    "wof:id":874043707,
+    "wof:lastmodified":1464311182,
+    "wof:name":"Performance Unlimited Training",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stable"
+    ]
+},
+  "bbox": [
+    -106.552197,
+    42.800337,
+    -106.552197,
+    42.800337
+],
+  "geometry": {"coordinates":[-106.55219700000001,42.800337],"type":"Point"}
+}

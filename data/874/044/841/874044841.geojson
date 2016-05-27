@@ -1,0 +1,58 @@
+{
+  "id": 874044841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.037879,44.533494,-109.037879,44.533494",
+    "geom:latitude":44.533494,
+    "geom:longitude":-109.037879,
+    "iso:country":"US",
+    "sg:address":"2707 Big Horn Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 6245",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0n56Mg3BOutyUrtSkRSekm_44.533494_-109.037879@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311192,
+    "wof:geomhash":"819b0ccaf5396178b956c3758fa7cd59",
+    "wof:hierarchy":[],
+    "wof:id":874044841,
+    "wof:lastmodified":1464311192,
+    "wof:name":"High-Country Exhaust",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -109.037879,
+    44.533494,
+    -109.037879,
+    44.533494
+],
+  "geometry": {"coordinates":[-109.037879,44.533494],"type":"Point"}
+}

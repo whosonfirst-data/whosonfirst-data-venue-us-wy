@@ -1,0 +1,71 @@
+{
+  "id": 874016203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.62398,41.30886,-105.62398,41.30886",
+    "geom:latitude":41.30886,
+    "geom:longitude":-105.62398,
+    "iso:country":"US",
+    "sg:address":"2058 Snowy Range Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 2147",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IMP9FFMC3d6LcHlg4wMNe_41.308860_-105.623980@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310901,
+    "wof:geomhash":"ed810467a09e72b3c0ede5216cc58683",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874016203
+        }
+    ],
+    "wof:id":874016203,
+    "wof:lastmodified":1464310901,
+    "wof:name":"Reenies Beanery Inc",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -105.62398,
+    41.30886,
+    -105.62398,
+    41.30886
+],
+  "geometry": {"coordinates":[-105.62398,41.30886],"type":"Point"}
+}

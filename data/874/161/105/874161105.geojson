@@ -1,0 +1,58 @@
+{
+  "id": 874161105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.433488,44.23698,-105.433488,44.23698",
+    "geom:latitude":44.23698,
+    "geom:longitude":-105.433488,
+    "iso:country":"US",
+    "sg:address":"6304 Irving Blvd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 4452",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OsGedteWQmaqFwEjo1xLx_44.236980_-105.433488@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312443,
+    "wof:geomhash":"fbbcc9354270ab0bd6b4c67254159f35",
+    "wof:hierarchy":[],
+    "wof:id":874161105,
+    "wof:lastmodified":1464312443,
+    "wof:name":"Antelope Valley Improvement",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -105.433488,
+    44.23698,
+    -105.433488,
+    44.23698
+],
+  "geometry": {"coordinates":[-105.433488,44.23698],"type":"Point"}
+}

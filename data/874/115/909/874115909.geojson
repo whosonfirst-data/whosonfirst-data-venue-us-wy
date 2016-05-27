@@ -1,0 +1,69 @@
+{
+  "id": 874115909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.2672,42.85792,-106.2672,42.85792",
+    "geom:latitude":42.85792,
+    "geom:longitude":-106.2672,
+    "iso:country":"US",
+    "sg:address":"4590 E Yellowstone Hwy",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 2884",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PYO4BD4Sy5Jtses0uqgpz_42.857920_-106.267200@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311995,
+    "wof:geomhash":"c0c393c2083bd287b8d360b46e654fc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874115909
+        }
+    ],
+    "wof:id":874115909,
+    "wof:lastmodified":1464311995,
+    "wof:name":"All Creatures Veterinary Hosp",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -106.2672,
+    42.85792,
+    -106.2672,
+    42.85792
+],
+  "geometry": {"coordinates":[-106.2672,42.85792],"type":"Point"}
+}

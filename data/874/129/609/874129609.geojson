@@ -1,0 +1,56 @@
+{
+  "id": 874129609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.021621,43.110936,-111.021621,43.110936",
+    "geom:latitude":43.110936,
+    "geom:longitude":-111.021621,
+    "iso:country":"US",
+    "sg:address":"115 Peterson Ln",
+    "sg:city":"Thayne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 883 2668",
+    "sg:postcode":"83128",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ossFJ3ebCYFVnyqP7Ui8X_43.110936_-111.021621@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312130,
+    "wof:geomhash":"c39280f60117af5cbf7abf727c4cd0c7",
+    "wof:hierarchy":[],
+    "wof:id":874129609,
+    "wof:lastmodified":1464312130,
+    "wof:name":"Thayne City Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -111.021621,
+    43.110936,
+    -111.021621,
+    43.110936
+],
+  "geometry": {"coordinates":[-111.021621,43.110936],"type":"Point"}
+}

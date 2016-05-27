@@ -1,0 +1,60 @@
+{
+  "id": 874209683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.950957,41.282288,-110.950957,41.282288",
+    "geom:latitude":41.282288,
+    "geom:longitude":-110.950957,
+    "iso:country":"US",
+    "sg:address":"103 Hillside Dr",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 1164",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil",
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JCHBqghUeZk4atTbw5axb_41.282288_-110.950957@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312945,
+    "wof:geomhash":"a0ffccd1242e254ef04cc5bae6e79d45",
+    "wof:hierarchy":[],
+    "wof:id":874209683,
+    "wof:lastmodified":1464312945,
+    "wof:name":"Mountain States Water Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil",
+        "hauling"
+    ]
+},
+  "bbox": [
+    -110.950957,
+    41.282288,
+    -110.950957,
+    41.282288
+],
+  "geometry": {"coordinates":[-110.950957,41.282288],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874033679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.918466,42.627613,-110.918466,42.627613",
+    "geom:latitude":42.627613,
+    "geom:longitude":-110.918466,
+    "iso:country":"US",
+    "sg:address":"92 Cottonwood Dr",
+    "sg:city":"Smoot",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 886 9235",
+    "sg:postcode":"83126",
+    "sg:province":"WY",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hNoVUr4T7f76Rc1Z5M6KO_42.627613_-110.918466@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311082,
+    "wof:geomhash":"dfee4be45f1155864d294fd6e2e2aa66",
+    "wof:hierarchy":[],
+    "wof:id":874033679,
+    "wof:lastmodified":1464311082,
+    "wof:name":"Valley Sanitation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -110.918466,
+    42.627613,
+    -110.918466,
+    42.627613
+],
+  "geometry": {"coordinates":[-110.918466,42.627613],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874031593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.46242,41.506658,-109.46242,41.506658",
+    "geom:latitude":41.506658,
+    "geom:longitude":-109.46242,
+    "iso:country":"US",
+    "sg:address":"1030 Chugwater Dr",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 9191",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "concrete",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ia5ZD12PXeL8mmoptMf0e_41.506658_-109.462420@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311062,
+    "wof:geomhash":"cd3b8f403e79e5299acb60032e9c035e",
+    "wof:hierarchy":[],
+    "wof:id":874031593,
+    "wof:lastmodified":1464311062,
+    "wof:name":"M C Concrete Pumping",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "pumping"
+    ]
+},
+  "bbox": [
+    -109.46242,
+    41.506658,
+    -109.46242,
+    41.506658
+],
+  "geometry": {"coordinates":[-109.46241999999999,41.506658],"type":"Point"}
+}

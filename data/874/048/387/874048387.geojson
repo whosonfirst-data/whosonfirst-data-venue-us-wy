@@ -1,0 +1,56 @@
+{
+  "id": 874048387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.422845,43.035633,-108.422845,43.035633",
+    "geom:latitude":43.035633,
+    "geom:longitude":-108.422845,
+    "iso:country":"US",
+    "sg:address":"2300 Rose Ln",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 857 1211",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V7vZbREHLOaV9tdwLQ3zw_43.035633_-108.422845@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311226,
+    "wof:geomhash":"580f0d84e8bb614370e0af12623e2ee5",
+    "wof:hierarchy":[],
+    "wof:id":874048387,
+    "wof:lastmodified":1464311226,
+    "wof:name":"Riverton Outpatient Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -108.422845,
+    43.035633,
+    -108.422845,
+    43.035633
+],
+  "geometry": {"coordinates":[-108.422845,43.035633],"type":"Point"}
+}

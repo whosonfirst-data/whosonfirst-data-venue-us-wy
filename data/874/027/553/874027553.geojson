@@ -1,0 +1,69 @@
+{
+  "id": 874027553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.43982,42.881466,-106.43982,42.881466",
+    "geom:latitude":42.881466,
+    "geom:longitude":-106.43982,
+    "iso:country":"US",
+    "sg:address":"7430 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 6345",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30WhbPbPCBHi2eLxJEb0NQ_42.881466_-106.439820@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311021,
+    "wof:geomhash":"b69325e0029025ef2622142414e1c7fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874027553
+        }
+    ],
+    "wof:id":874027553,
+    "wof:lastmodified":1464311021,
+    "wof:name":"Memorial Gardens",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -106.43982,
+    42.881466,
+    -106.43982,
+    42.881466
+],
+  "geometry": {"coordinates":[-106.43982,42.881466],"type":"Point"}
+}

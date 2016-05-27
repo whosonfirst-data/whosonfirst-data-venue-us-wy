@@ -1,0 +1,64 @@
+{
+  "id": 874082883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.939438,44.953172,-106.939438,44.953172",
+    "geom:latitude":44.953172,
+    "geom:longitude":-106.939438,
+    "iso:country":"US",
+    "sg:address":"1106 Decker Rd",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 750 2465",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "feedlot",
+        "field",
+        "crop",
+        "beef",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25uQFohYFxiimtAGFBuxoa_44.953172_-106.939438@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311588,
+    "wof:geomhash":"5eb33dc41a4c07547f16068ba025ee72",
+    "wof:hierarchy":[],
+    "wof:id":874082883,
+    "wof:lastmodified":1464311588,
+    "wof:name":"Mill Iron F Ranch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feedlot",
+        "field",
+        "crop",
+        "beef",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -106.939438,
+    44.953172,
+    -106.939438,
+    44.953172
+],
+  "geometry": {"coordinates":[-106.939438,44.953172],"type":"Point"}
+}

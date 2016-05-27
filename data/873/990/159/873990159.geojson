@@ -1,0 +1,69 @@
+{
+  "id": 873990159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.258104,42.832642,-106.258104,42.832642",
+    "geom:latitude":42.832642,
+    "geom:longitude":-106.258104,
+    "iso:country":"US",
+    "sg:address":"1610 Cornwall St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 2645",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Oi4tf5ZL6KSXJeuPYa33u_42.832642_-106.258104@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310690,
+    "wof:geomhash":"022bd9c362bd15bad690b6faa03f432a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873990159
+        }
+    ],
+    "wof:id":873990159,
+    "wof:lastmodified":1464310690,
+    "wof:name":"Wyndsong Creations",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -106.258104,
+    42.832642,
+    -106.258104,
+    42.832642
+],
+  "geometry": {"coordinates":[-106.258104,42.832642],"type":"Point"}
+}

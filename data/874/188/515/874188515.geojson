@@ -1,0 +1,56 @@
+{
+  "id": 874188515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.184441,42.060865,-104.184441,42.060865",
+    "geom:latitude":42.060865,
+    "geom:longitude":-104.184441,
+    "iso:country":"US",
+    "sg:address":"1542 Main St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 3401",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RB8eKBx1AtZ5IO6tg47OS_42.060865_-104.184441@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312726,
+    "wof:geomhash":"92bcd6525a6e805221489b289174acf1",
+    "wof:hierarchy":[],
+    "wof:id":874188515,
+    "wof:lastmodified":1464312726,
+    "wof:name":"Main Street Market",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -104.184441,
+    42.060865,
+    -104.184441,
+    42.060865
+],
+  "geometry": {"coordinates":[-104.18444100000001,42.060865],"type":"Point"}
+}

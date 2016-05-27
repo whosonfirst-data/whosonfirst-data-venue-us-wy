@@ -1,0 +1,60 @@
+{
+  "id": 874100831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.480602,44.288477,-105.480602,44.288477",
+    "geom:latitude":44.288477,
+    "geom:longitude":-105.480602,
+    "iso:country":"US",
+    "sg:address":"1403 E 7th St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 5678",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03knyRkehndrQizyrU6vgV_44.288477_-105.480602@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311804,
+    "wof:geomhash":"1365ba44212935f7376999fb0d7df92d",
+    "wof:hierarchy":[],
+    "wof:id":874100831,
+    "wof:lastmodified":1464311804,
+    "wof:name":"Hillcrest Auto Body Specialist",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -105.480602,
+    44.288477,
+    -105.480602,
+    44.288477
+],
+  "geometry": {"coordinates":[-105.480602,44.288477],"type":"Point"}
+}

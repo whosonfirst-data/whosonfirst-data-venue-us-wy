@@ -1,0 +1,64 @@
+{
+  "id": 874096005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.297784,42.840565,-106.297784,42.840565",
+    "geom:latitude":42.840565,
+    "geom:longitude":-106.297784,
+    "iso:country":"US",
+    "sg:address":"1123 S Beverly St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 1069",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6S9DqclPbU7BiPr7VYkeKT_42.840565_-106.297784@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311723,
+    "wof:geomhash":"2919162a885f5c0893bf3b4ccd67c3f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874096005
+        }
+    ],
+    "wof:id":874096005,
+    "wof:lastmodified":1464311723,
+    "wof:name":"Specialized Mortgage Services",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.297784,
+    42.840565,
+    -106.297784,
+    42.840565
+],
+  "geometry": {"coordinates":[-106.29778399999999,42.840565],"type":"Point"}
+}

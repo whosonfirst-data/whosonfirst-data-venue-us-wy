@@ -1,0 +1,58 @@
+{
+  "id": 874135301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.672423,41.159305,-104.672423,41.159305",
+    "geom:latitude":41.159305,
+    "geom:longitude":-104.672423,
+    "iso:country":"US",
+    "sg:address":"11221 US Hwy 30",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 772 2314",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "federal",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PrF3rAc2LEgKxdFsTptGM_41.159305_-104.672423@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312193,
+    "wof:geomhash":"38772bfa896aecaf2075076010974ef3",
+    "wof:hierarchy":[],
+    "wof:id":874135301,
+    "wof:lastmodified":1464312193,
+    "wof:name":"US Agricultural Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "program"
+    ]
+},
+  "bbox": [
+    -104.672423,
+    41.159305,
+    -104.672423,
+    41.159305
+],
+  "geometry": {"coordinates":[-104.67242299999999,41.159305],"type":"Point"}
+}

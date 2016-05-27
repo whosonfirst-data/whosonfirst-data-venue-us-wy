@@ -1,0 +1,59 @@
+{
+  "id": 874229845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.496284,44.276466,-105.496284,44.276466",
+    "geom:latitude":44.276466,
+    "geom:longitude":-105.496284,
+    "iso:country":"US",
+    "sg:address":"627 E Boxelder Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/gillette-north/67229-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 8200",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38ykpwiasE02XwUgClqlYg_44.276466_-105.496284@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313158,
+    "wof:geomhash":"ef5ea7120b96aba8a1ca53cf521bf49a",
+    "wof:hierarchy":[],
+    "wof:id":874229845,
+    "wof:lastmodified":1464313158,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -105.496284,
+    44.276466,
+    -105.496284,
+    44.276466
+],
+  "geometry": {"coordinates":[-105.496284,44.276466],"type":"Point"}
+}

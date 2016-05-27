@@ -1,0 +1,73 @@
+{
+  "id": 874127707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.333777,42.835571,-106.333777,42.835571",
+    "geom:latitude":42.835571,
+    "geom:longitude":-106.333777,
+    "iso:country":"US",
+    "sg:address":"714 W 15th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 4686",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "prefabricated",
+        "wood",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eT4YQ4ZoiX27iCFTx14sF_42.835571_-106.333777@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312109,
+    "wof:geomhash":"f60f16c366e18c7bf750e104409eea3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874127707
+        }
+    ],
+    "wof:id":874127707,
+    "wof:lastmodified":1464312109,
+    "wof:name":"Back Country Log Homes",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prefabricated",
+        "wood",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -106.333777,
+    42.835571,
+    -106.333777,
+    42.835571
+],
+  "geometry": {"coordinates":[-106.333777,42.835571],"type":"Point"}
+}

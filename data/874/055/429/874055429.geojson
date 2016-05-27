@@ -1,0 +1,67 @@
+{
+  "id": 874055429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.236569,41.791571,-107.236569,41.791571",
+    "geom:latitude":41.791571,
+    "geom:longitude":-107.236569,
+    "iso:country":"US",
+    "sg:address":"119 W Spruce St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 7601",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "communications",
+        "contractor",
+        "telecommunication",
+        "telephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_056vT771r6B82Ee2kQjyzk_41.791571_-107.236569@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311296,
+    "wof:geomhash":"c8fd1f282f86e31ace4c54dd4c20c321",
+    "wof:hierarchy":[],
+    "wof:id":874055429,
+    "wof:lastmodified":1464311296,
+    "wof:name":"Telephone Service Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications",
+        "contractor",
+        "telecommunication",
+        "telephone"
+    ]
+},
+  "bbox": [
+    -107.236569,
+    41.791571,
+    -107.236569,
+    41.791571
+],
+  "geometry": {"coordinates":[-107.236569,41.791571],"type":"Point"}
+}

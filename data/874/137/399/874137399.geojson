@@ -1,0 +1,56 @@
+{
+  "id": 874137399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.328485,44.285261,-105.328485,44.285261",
+    "geom:latitude":44.285261,
+    "geom:longitude":-105.328485,
+    "iso:country":"US",
+    "sg:address":"3 Silver Hills Ct",
+    "sg:city":"Rozet",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 0769",
+    "sg:postcode":"82727",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C2qHeJv3Cb5rpDhk68Up6_44.285261_-105.328485@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312212,
+    "wof:geomhash":"07cea4ce6fce9efafc174325961043bd",
+    "wof:hierarchy":[],
+    "wof:id":874137399,
+    "wof:lastmodified":1464312212,
+    "wof:name":"Tees Gun & Garage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -105.328485,
+    44.285261,
+    -105.328485,
+    44.285261
+],
+  "geometry": {"coordinates":[-105.328485,44.285261],"type":"Point"}
+}

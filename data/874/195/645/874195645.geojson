@@ -1,0 +1,67 @@
+{
+  "id": 874195645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591897,41.315164,-105.591897,41.315164",
+    "geom:latitude":41.315164,
+    "geom:longitude":-105.591897,
+    "iso:country":"US",
+    "sg:address":"352 N 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5365",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:website":"www.lpcfcu.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ahmxEYLzeJkL36xy5B6Oy_41.315164_-105.591897@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312801,
+    "wof:geomhash":"4f0e846da7f8612beb8cceb57ebe1391",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874195645
+        }
+    ],
+    "wof:id":874195645,
+    "wof:lastmodified":1464312801,
+    "wof:name":"Laramie Plains Credit Union",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.591897,
+    41.315164,
+    -105.591897,
+    41.315164
+],
+  "geometry": {"coordinates":[-105.591897,41.315164],"type":"Point"}
+}

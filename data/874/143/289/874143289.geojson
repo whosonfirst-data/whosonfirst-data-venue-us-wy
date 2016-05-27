@@ -1,0 +1,58 @@
+{
+  "id": 874143289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.099547,43.727337,-111.099547,43.727337",
+    "geom:latitude":43.727337,
+    "geom:longitude":-111.099547,
+    "iso:country":"US",
+    "sg:address":"535 Howard Ave",
+    "sg:city":"Driggs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 354 2701",
+    "sg:postcode":"83422",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bGO7bqFBZdqCy2nY82s6R_43.727337_-111.099547@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312264,
+    "wof:geomhash":"9ab970deebda8d1a051e1e6e82ff4db6",
+    "wof:hierarchy":[],
+    "wof:id":874143289,
+    "wof:lastmodified":1464312264,
+    "wof:name":"Avalanche Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.099547,
+    43.727337,
+    -111.099547,
+    43.727337
+],
+  "geometry": {"coordinates":[-111.099547,43.727337],"type":"Point"}
+}

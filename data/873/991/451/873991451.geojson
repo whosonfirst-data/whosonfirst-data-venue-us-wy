@@ -1,0 +1,56 @@
+{
+  "id": 873991451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.208123,41.576605,-109.208123,41.576605",
+    "geom:latitude":41.576605,
+    "geom:longitude":-109.208123,
+    "iso:country":"US",
+    "sg:address":"1116 Adams Ave",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 8216",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E222egQKDPp9AbFzmmjtN_41.576605_-109.208123@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310700,
+    "wof:geomhash":"798a0c236922358745b51db0043fa02e",
+    "wof:hierarchy":[],
+    "wof:id":873991451,
+    "wof:lastmodified":1464310700,
+    "wof:name":"Native Sons Contracting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.208123,
+    41.576605,
+    -109.208123,
+    41.576605
+],
+  "geometry": {"coordinates":[-109.208123,41.576605],"type":"Point"}
+}

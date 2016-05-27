@@ -1,0 +1,63 @@
+{
+  "id": 874177885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.845372,42.898614,-105.845372,42.898614",
+    "geom:latitude":42.898614,
+    "geom:longitude":-105.845372,
+    "iso:country":"US",
+    "sg:address":"38 S Badger Rd",
+    "sg:city":"Glenrock",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 436 5348",
+    "sg:postcode":"82637",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A9dzmyrLziJ0BjZqCgwk3_42.898614_-105.845372@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312605,
+    "wof:geomhash":"23dcc3165360a66567f396756cd4a68b",
+    "wof:hierarchy":[],
+    "wof:id":874177885,
+    "wof:lastmodified":1464312605,
+    "wof:name":"Rolling Hills Town Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -105.845372,
+    42.898614,
+    -105.845372,
+    42.898614
+],
+  "geometry": {"coordinates":[-105.845372,42.898614],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 874069189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.202208,41.898045,-106.202208,41.898045",
+    "geom:latitude":41.898045,
+    "geom:longitude":-106.202208,
+    "iso:country":"US",
+    "sg:address":"314 Sage St",
+    "sg:city":"Medicine Bow",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 379 2270",
+    "sg:postcode":"82329",
+    "sg:province":"WY",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FLyFaOYN5L4s1PXyTGXYP_41.898045_-106.202208@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311425,
+    "wof:geomhash":"4d7dda8ae60d9a11d8bd8e9a1832d674",
+    "wof:hierarchy":[],
+    "wof:id":874069189,
+    "wof:lastmodified":1464311425,
+    "wof:name":"Medicine Bow Senior Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -106.202208,
+    41.898045,
+    -106.202208,
+    41.898045
+],
+  "geometry": {"coordinates":[-106.202208,41.898045],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874035251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.325241,42.847897,-106.325241,42.847897",
+    "geom:latitude":42.847897,
+    "geom:longitude":-106.325241,
+    "iso:country":"US",
+    "sg:address":"240 S Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 6905",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49RBOBsrVCWvPToan7Fw8O_42.847897_-106.325241@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311096,
+    "wof:geomhash":"7e6fde4db4f3b95f63b7e277ffad882f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874035251
+        }
+    ],
+    "wof:id":874035251,
+    "wof:lastmodified":1464311096,
+    "wof:name":"Ugly Bug Fly Shop",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.325241,
+    42.847897,
+    -106.325241,
+    42.847897
+],
+  "geometry": {"coordinates":[-106.32524100000001,42.847897],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 873994795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.870003,44.156546,-108.870003,44.156546",
+    "geom:latitude":44.156546,
+    "geom:longitude":-108.870003,
+    "iso:country":"US",
+    "sg:address":"2237 State St",
+    "sg:city":"Meeteetse",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 868 9206",
+    "sg:postcode":"82433",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SU0A4pas4DHTxy9NxSBxh_44.156546_-108.870003@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310724,
+    "wof:geomhash":"c52a42d569da2b7d38d30a4877e1a212",
+    "wof:hierarchy":[],
+    "wof:id":873994795,
+    "wof:lastmodified":1464310724,
+    "wof:name":"Hilltop Auto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.870003,
+    44.156546,
+    -108.870003,
+    44.156546
+],
+  "geometry": {"coordinates":[-108.870003,44.156546],"type":"Point"}
+}

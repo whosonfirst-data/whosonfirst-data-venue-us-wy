@@ -1,0 +1,71 @@
+{
+  "id": 874127665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.336959,42.826192,-106.336959,42.826192",
+    "geom:latitude":42.826192,
+    "geom:longitude":-106.336959,
+    "iso:country":"US",
+    "sg:address":"2305 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 6288",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "construction",
+        "remodeling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13VWmkTTBXUgT61Fn1cZX3_42.826192_-106.336959@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312108,
+    "wof:geomhash":"3b826d7dd1513f78977cf7eae2ad300a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874127665
+        }
+    ],
+    "wof:id":874127665,
+    "wof:lastmodified":1464312108,
+    "wof:name":"Tcm Custom Services",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "remodeling"
+    ]
+},
+  "bbox": [
+    -106.336959,
+    42.826192,
+    -106.336959,
+    42.826192
+],
+  "geometry": {"coordinates":[-106.33695899999999,42.826192],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 874016111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.95587,41.262292,-110.95587,41.262292",
+    "geom:latitude":41.262292,
+    "geom:longitude":-110.95587,
+    "iso:country":"US",
+    "sg:address":"128 Front St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 2040",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical",
+        "chem",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gPlRjVf4jLrgtZP0yxC7D_41.262292_-110.955870@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310900,
+    "wof:geomhash":"881ba6f41df17696e2828c8a5411f6ec",
+    "wof:hierarchy":[],
+    "wof:id":874016111,
+    "wof:lastmodified":1464310900,
+    "wof:name":"M & S Oxygen Supply",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "chem",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -110.95587,
+    41.262292,
+    -110.95587,
+    41.262292
+],
+  "geometry": {"coordinates":[-110.95587,41.262292],"type":"Point"}
+}

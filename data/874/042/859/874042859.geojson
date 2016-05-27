@@ -1,0 +1,52 @@
+{
+  "id": 874042859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.761169,43.480595,-110.761169,43.480595",
+    "geom:latitude":43.480595,
+    "geom:longitude":-110.761169,
+    "iso:country":"US",
+    "sg:address":"180 Center St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 7118",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:website":"www.jacksonhole-properties.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08fNsQyBLuLdJe0atsqMXO_43.480595_-110.761169@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311174,
+    "wof:geomhash":"a21f3893a5437b49bd5d449e83049fc3",
+    "wof:hierarchy":[],
+    "wof:id":874042859,
+    "wof:lastmodified":1464311174,
+    "wof:name":"Jackson Hole Properties",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.761169,
+    43.480595,
+    -110.761169,
+    43.480595
+],
+  "geometry": {"coordinates":[-110.761169,43.480595],"type":"Point"}
+}

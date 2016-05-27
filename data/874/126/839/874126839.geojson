@@ -1,0 +1,73 @@
+{
+  "id": 874126839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.419446,42.871437,-106.419446,42.871437",
+    "geom:latitude":42.871437,
+    "geom:longitude":-106.419446,
+    "iso:country":"US",
+    "sg:address":"6315 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 0470",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pipe",
+        "equipment",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RlktdgdsrmoONQMU8elJh_42.871437_-106.419446@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312101,
+    "wof:geomhash":"8c74adc2d75e404230f317c02acf9627",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874126839
+        }
+    ],
+    "wof:id":874126839,
+    "wof:lastmodified":1464312101,
+    "wof:name":"Meter Provers Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "equipment",
+        "line"
+    ]
+},
+  "bbox": [
+    -106.419446,
+    42.871437,
+    -106.419446,
+    42.871437
+],
+  "geometry": {"coordinates":[-106.41944599999999,42.871437],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 874139185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594208,41.306135,-105.594208,41.306135",
+    "geom:latitude":41.306135,
+    "geom:longitude":-105.594208,
+    "iso:country":"US",
+    "sg:address":"818 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 0241",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u4lSBGYYnVxs0dehxHsnr_41.306135_-105.594208@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312228,
+    "wof:geomhash":"6dd50fb493b9e1b52a4e1e68f51256dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874139185
+        }
+    ],
+    "wof:id":874139185,
+    "wof:lastmodified":1464312228,
+    "wof:name":"Mini Mart",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.594208,
+    41.306135,
+    -105.594208,
+    41.306135
+],
+  "geometry": {"coordinates":[-105.59420799999999,41.306135],"type":"Point"}
+}

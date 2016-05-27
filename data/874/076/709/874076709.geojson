@@ -1,0 +1,56 @@
+{
+  "id": 874076709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.453023,43.039462,-108.453023,43.039462",
+    "geom:latitude":43.039462,
+    "geom:longitude":-108.453023,
+    "iso:country":"US",
+    "sg:address":"4450 Leclair Ln",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 3463",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jWMoAPyqHtc58mgKea3Wf_43.039462_-108.453023@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311517,
+    "wof:geomhash":"c7c127719b7cea103d124915dc97bb8d",
+    "wof:hierarchy":[],
+    "wof:id":874076709,
+    "wof:lastmodified":1464311517,
+    "wof:name":"Dennis L Graham DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -108.453023,
+    43.039462,
+    -108.453023,
+    43.039462
+],
+  "geometry": {"coordinates":[-108.453023,43.039462],"type":"Point"}
+}

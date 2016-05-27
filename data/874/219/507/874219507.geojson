@@ -1,0 +1,64 @@
+{
+  "id": 874219507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.329264,42.852026,-106.329264,42.852026",
+    "geom:latitude":42.852026,
+    "geom:longitude":-106.329264,
+    "iso:country":"US",
+    "sg:address":"340 W B St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 9538",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PkELGTmnTWPWMA0bVbsOC_42.852026_-106.329264@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313051,
+    "wof:geomhash":"69a7b270877146bf5e852d670ca50507",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874219507
+        }
+    ],
+    "wof:id":874219507,
+    "wof:lastmodified":1464313051,
+    "wof:name":"Blackstone and Associates",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.329264,
+    42.852026,
+    -106.329264,
+    42.852026
+],
+  "geometry": {"coordinates":[-106.32926399999999,42.852026],"type":"Point"}
+}

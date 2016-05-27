@@ -1,0 +1,56 @@
+{
+  "id": 874034097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.818419,41.146968,-104.818419,41.146968",
+    "geom:latitude":41.146968,
+    "geom:longitude":-104.818419,
+    "iso:country":"US",
+    "sg:address":"310 E 1st Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 2934",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ewUAcLWqfesKyPt6AroW6_41.146968_-104.818419@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311085,
+    "wof:geomhash":"58726c4cf7f9d1ca5a9c098c2880bc52",
+    "wof:hierarchy":[],
+    "wof:id":874034097,
+    "wof:lastmodified":1464311085,
+    "wof:name":"Phone Directories",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -104.818419,
+    41.146968,
+    -104.818419,
+    41.146968
+],
+  "geometry": {"coordinates":[-104.81841900000001,41.146968],"type":"Point"}
+}

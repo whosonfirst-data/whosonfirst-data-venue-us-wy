@@ -1,0 +1,69 @@
+{
+  "id": 874142463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.320238,42.848795,-106.320238,42.848795",
+    "geom:latitude":42.848795,
+    "geom:longitude":-106.320238,
+    "iso:country":"US",
+    "sg:address":"402 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 8989",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YR70vfcMLOWtkVZ8gH6zq_42.848795_-106.320238@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312257,
+    "wof:geomhash":"8e6ea2a0effa1ae8811f32c4cc297ad4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874142463
+        }
+    ],
+    "wof:id":874142463,
+    "wof:lastmodified":1464312257,
+    "wof:name":"Plains Tire Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -106.320238,
+    42.848795,
+    -106.320238,
+    42.848795
+],
+  "geometry": {"coordinates":[-106.320238,42.848795],"type":"Point"}
+}

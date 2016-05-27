@@ -1,0 +1,69 @@
+{
+  "id": 874175257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343646,42.810166,-106.343646,42.810166",
+    "geom:latitude":42.810166,
+    "geom:longitude":-106.343646,
+    "iso:country":"US",
+    "sg:address":"4280 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 8387",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FhLsbz8LwaTmXrCfFTlN4_42.810166_-106.343646@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312581,
+    "wof:geomhash":"b1a6a938733385d306ab8291564b48e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874175257
+        }
+    ],
+    "wof:id":874175257,
+    "wof:lastmodified":1464312581,
+    "wof:name":"Casper Animal Medical Ctr",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -106.343646,
+    42.810166,
+    -106.343646,
+    42.810166
+],
+  "geometry": {"coordinates":[-106.34364600000001,42.810166],"type":"Point"}
+}

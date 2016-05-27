@@ -1,0 +1,56 @@
+{
+  "id": 874220833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.754058,43.478578,-110.754058,43.478578",
+    "geom:latitude":43.478578,
+    "geom:longitude":-110.754058,
+    "iso:country":"US",
+    "sg:address":"415 E Pearl Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 5590",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_507lTLxipwh9IkWiBZhu33_43.478578_-110.754058@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313073,
+    "wof:geomhash":"361f6b8cad6b4d891c7aa3d4dc1cb82d",
+    "wof:hierarchy":[],
+    "wof:id":874220833,
+    "wof:lastmodified":1464313073,
+    "wof:name":"Animal Care Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -110.754058,
+    43.478578,
+    -110.754058,
+    43.478578
+],
+  "geometry": {"coordinates":[-110.754058,43.478578],"type":"Point"}
+}

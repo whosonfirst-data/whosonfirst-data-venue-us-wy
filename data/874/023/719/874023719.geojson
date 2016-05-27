@@ -1,0 +1,78 @@
+{
+  "id": 874023719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.333441,42.842738,-106.333441,42.842738",
+    "geom:latitude":42.842738,
+    "geom:longitude":-106.333441,
+    "iso:country":"US",
+    "sg:address":"737 W Collins Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 2005",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17Ivv6HAfef5OGUeejZZgt_42.842738_-106.333441@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310980,
+    "wof:geomhash":"359d2acd6dd5f883e80690798f869d17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874023719
+        }
+    ],
+    "wof:id":874023719,
+    "wof:lastmodified":1464310980,
+    "wof:name":"Select Used Cars Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -106.333441,
+    42.842738,
+    -106.333441,
+    42.842738
+],
+  "geometry": {"coordinates":[-106.33344099999999,42.842738],"type":"Point"}
+}

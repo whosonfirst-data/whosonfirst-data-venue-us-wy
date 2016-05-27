@@ -1,0 +1,75 @@
+{
+  "id": 874033279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.246806,41.574732,-109.246806,41.574732",
+    "geom:latitude":41.574732,
+    "geom:longitude":-109.246806,
+    "iso:country":"US",
+    "sg:address":"1471 Dewar Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 3982",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "development",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rKgnNvMovSZyaB48EIdVo_41.574732_-109.246806@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311078,
+    "wof:geomhash":"7f173a122108856b7a4c159c29a8297c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874033279
+        }
+    ],
+    "wof:id":874033279,
+    "wof:lastmodified":1464311078,
+    "wof:name":"Western Wyming RC D Cunsel Inc",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "community"
+    ]
+},
+  "bbox": [
+    -109.246806,
+    41.574732,
+    -109.246806,
+    41.574732
+],
+  "geometry": {"coordinates":[-109.24680600000001,41.574732],"type":"Point"}
+}

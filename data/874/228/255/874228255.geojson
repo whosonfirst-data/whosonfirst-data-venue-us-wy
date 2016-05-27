@@ -1,0 +1,59 @@
+{
+  "id": 874228255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.771238,41.145624,-104.771238,41.145624",
+    "geom:latitude":41.145624,
+    "geom:longitude":-104.771238,
+    "iso:country":"US",
+    "sg:address":"3201 E Pershing Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/77665-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 7676",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PrvUQJe1RxvveA2zJB4ql_41.145624_-104.771238@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313143,
+    "wof:geomhash":"82a463cde97627ffce27eee5abdb1e18",
+    "wof:hierarchy":[],
+    "wof:id":874228255,
+    "wof:lastmodified":1464313143,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -104.771238,
+    41.145624,
+    -104.771238,
+    41.145624
+],
+  "geometry": {"coordinates":[-104.771238,41.145624],"type":"Point"}
+}

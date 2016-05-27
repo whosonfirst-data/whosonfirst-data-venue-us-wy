@@ -1,0 +1,65 @@
+{
+  "id": 874049735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.962905,42.052514,-104.962905,42.052514",
+    "geom:latitude":42.052514,
+    "geom:longitude":-104.962905,
+    "iso:country":"US",
+    "sg:address":"508 16th St",
+    "sg:city":"Wheatland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 322 4051",
+    "sg:postcode":"82201",
+    "sg:province":"WY",
+    "sg:tags":[
+        "govt",
+        "city",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dz487O1gzaaqHnWB9irvf_42.052514_-104.962905@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311238,
+    "wof:geomhash":"e75a8c05720dd82a575810d56759d416",
+    "wof:hierarchy":[],
+    "wof:id":874049735,
+    "wof:lastmodified":1464311238,
+    "wof:name":"Wheatland Town Water Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city",
+        "supply"
+    ]
+},
+  "bbox": [
+    -104.962905,
+    42.052514,
+    -104.962905,
+    42.052514
+],
+  "geometry": {"coordinates":[-104.96290500000001,42.052514],"type":"Point"}
+}

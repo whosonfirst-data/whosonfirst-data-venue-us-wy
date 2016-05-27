@@ -1,0 +1,66 @@
+{
+  "id": 874012741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.588592,41.307702,-105.588592,41.307702",
+    "geom:latitude":41.307702,
+    "geom:longitude":-105.588592,
+    "iso:country":"US",
+    "sg:address":"619 S 7th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7079",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kOb9wRnUIKyRnjB6H6o2P_41.307702_-105.588592@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310874,
+    "wof:geomhash":"51de9611991352ac0ef1574ae340488e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874012741
+        }
+    ],
+    "wof:id":874012741,
+    "wof:lastmodified":1464310874,
+    "wof:name":"Solid Rock",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.588592,
+    41.307702,
+    -105.588592,
+    41.307702
+],
+  "geometry": {"coordinates":[-105.58859200000001,41.307702],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 874152791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.762393,43.485051,-110.762393,43.485051",
+    "geom:latitude":43.485051,
+    "geom:longitude":-110.762393,
+    "iso:country":"US",
+    "sg:address":"365 N Cache Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 9999",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "apparel",
+        "educational",
+        "sport",
+        "canoe"
+    ],
+    "sg:website":"www.snakeriverkayak.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01sYiR7uz8p3pl9PxyY2dV_43.485051_-110.762393@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312354,
+    "wof:geomhash":"985a0da48c49bcf02eb0ba5c3e52e32d",
+    "wof:hierarchy":[],
+    "wof:id":874152791,
+    "wof:lastmodified":1464312354,
+    "wof:name":"Snake River Kayak & Canoe Schl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apparel",
+        "educational",
+        "sport",
+        "canoe"
+    ]
+},
+  "bbox": [
+    -110.762393,
+    43.485051,
+    -110.762393,
+    43.485051
+],
+  "geometry": {"coordinates":[-110.762393,43.485051],"type":"Point"}
+}

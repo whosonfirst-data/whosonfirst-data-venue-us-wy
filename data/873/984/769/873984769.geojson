@@ -1,0 +1,60 @@
+{
+  "id": 873984769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.967944,41.269182,-110.967944,41.269182",
+    "geom:latitude":41.269182,
+    "geom:longitude":-110.967944,
+    "iso:country":"US",
+    "sg:address":"1101 Main St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 2453",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "line",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RdRBcl65RrSBMjGzxrN69_41.269182_-110.967944@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310648,
+    "wof:geomhash":"172276d506840ff11360a4af692fad4e",
+    "wof:hierarchy":[],
+    "wof:id":873984769,
+    "wof:lastmodified":1464310648,
+    "wof:name":"Mountain Pacific Trans LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -110.967944,
+    41.269182,
+    -110.967944,
+    41.269182
+],
+  "geometry": {"coordinates":[-110.967944,41.269182],"type":"Point"}
+}

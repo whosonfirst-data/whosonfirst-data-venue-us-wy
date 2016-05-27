@@ -1,0 +1,69 @@
+{
+  "id": 874031619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.331025,42.801255,-106.331025,42.801255",
+    "geom:latitude":42.801255,
+    "geom:longitude":-106.331025,
+    "iso:country":"US",
+    "sg:address":"5211 S Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 0606",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bi3uFwUelN2HnmzYXm8db_42.801255_-106.331025@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311063,
+    "wof:geomhash":"f7692eaacd3feb4bbe00953511a4c628",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874031619
+        }
+    ],
+    "wof:id":874031619,
+    "wof:lastmodified":1464311063,
+    "wof:name":"Meyer Construction",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -106.331025,
+    42.801255,
+    -106.331025,
+    42.801255
+],
+  "geometry": {"coordinates":[-106.331025,42.801255],"type":"Point"}
+}

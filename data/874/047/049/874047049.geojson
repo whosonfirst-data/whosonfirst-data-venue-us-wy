@@ -1,0 +1,69 @@
+{
+  "id": 874047049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.19873,42.879609,-106.19873,42.879609",
+    "geom:latitude":42.879609,
+    "geom:longitude":-106.19873,
+    "iso:country":"US",
+    "sg:address":"7400 Geary Dome Rd",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 5226",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s7DP79AclI1AN9rv7U6uv_42.879609_-106.198730@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311215,
+    "wof:geomhash":"4add99dab330128eb880005cf7b9a4c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874047049
+        }
+    ],
+    "wof:id":874047049,
+    "wof:lastmodified":1464311215,
+    "wof:name":"Rocky Mountain Builders",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.19873,
+    42.879609,
+    -106.19873,
+    42.879609
+],
+  "geometry": {"coordinates":[-106.19873,42.879609],"type":"Point"}
+}

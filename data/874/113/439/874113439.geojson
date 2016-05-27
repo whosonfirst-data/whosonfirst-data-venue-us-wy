@@ -1,0 +1,58 @@
+{
+  "id": 874113439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.039188,44.515243,-109.039188,44.515243",
+    "geom:latitude":44.515243,
+    "geom:longitude":-109.039188,
+    "iso:country":"US",
+    "sg:address":"2357 Mountain View Dr",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 9570",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mguYd7moGen3vAYTi3Ox8_44.515243_-109.039188@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311972,
+    "wof:geomhash":"40f1d3200ea5a9c22ac87dba113ec226",
+    "wof:hierarchy":[],
+    "wof:id":874113439,
+    "wof:lastmodified":1464311972,
+    "wof:name":"Filtered Air",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.039188,
+    44.515243,
+    -109.039188,
+    44.515243
+],
+  "geometry": {"coordinates":[-109.039188,44.515243],"type":"Point"}
+}

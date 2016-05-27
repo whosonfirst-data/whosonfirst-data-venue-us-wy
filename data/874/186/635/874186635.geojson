@@ -1,0 +1,69 @@
+{
+  "id": 874186635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.420941,42.804306,-106.420941,42.804306",
+    "geom:latitude":42.804306,
+    "geom:longitude":-106.420941,
+    "iso:country":"US",
+    "sg:address":"4442 Pursel Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 1859",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SfBaXqHHs5lVtqvzVZrsw_42.804306_-106.420941@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312706,
+    "wof:geomhash":"de6dba28f055a1d8b155c0205a639f85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874186635
+        }
+    ],
+    "wof:id":874186635,
+    "wof:lastmodified":1464312706,
+    "wof:name":"Jjl Repair",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -106.420941,
+    42.804306,
+    -106.420941,
+    42.804306
+],
+  "geometry": {"coordinates":[-106.420941,42.804306],"type":"Point"}
+}

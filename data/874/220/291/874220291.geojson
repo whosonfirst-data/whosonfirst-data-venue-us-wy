@@ -1,0 +1,56 @@
+{
+  "id": 874220291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.055315,44.493479,-108.055315,44.493479",
+    "geom:latitude":44.493479,
+    "geom:longitude":-108.055315,
+    "iso:country":"US",
+    "sg:address":"400 N 6th St",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 9237",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K24oWqLtfbjfzn8PsI7pD_44.493479_-108.055315@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313066,
+    "wof:geomhash":"bd4e1e5555e223fe74ee09f7f373b96f",
+    "wof:hierarchy":[],
+    "wof:id":874220291,
+    "wof:lastmodified":1464313066,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -108.055315,
+    44.493479,
+    -108.055315,
+    44.493479
+],
+  "geometry": {"coordinates":[-108.05531499999999,44.493479],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874119003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.588751,41.319323,-105.588751,41.319323",
+    "geom:latitude":41.319323,
+    "geom:longitude":-105.588751,
+    "iso:country":"US",
+    "sg:address":"605 E Harney St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5466",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2R66lzGsYoRrH0FABwgj77_41.319323_-105.588751@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312025,
+    "wof:geomhash":"c8158f7c3f15e315f38eb14d5340dad9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874119003
+        }
+    ],
+    "wof:id":874119003,
+    "wof:lastmodified":1464312025,
+    "wof:name":"Wyoming Door Co",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -105.588751,
+    41.319323,
+    -105.588751,
+    41.319323
+],
+  "geometry": {"coordinates":[-105.588751,41.319323],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874050267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.326685,42.843631,-106.326685,42.843631",
+    "geom:latitude":42.843631,
+    "geom:longitude":-106.326685,
+    "iso:country":"US",
+    "sg:address":"602 S David St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 8471",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant",
+        "geological"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RWiIwiYh58lUQg8juSLdr_42.843631_-106.326685@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311243,
+    "wof:geomhash":"915cbd691ed1ca8d69d7be6edd91026d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874050267
+        }
+    ],
+    "wof:id":874050267,
+    "wof:lastmodified":1464311243,
+    "wof:name":"Casper Log Library LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "geological"
+    ]
+},
+  "bbox": [
+    -106.326685,
+    42.843631,
+    -106.326685,
+    42.843631
+],
+  "geometry": {"coordinates":[-106.326685,42.843631],"type":"Point"}
+}

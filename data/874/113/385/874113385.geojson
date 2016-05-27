@@ -1,0 +1,75 @@
+{
+  "id": 874113385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.621536,41.31917,-105.621536,41.31917",
+    "geom:latitude":41.31917,
+    "geom:longitude":-105.621536,
+    "iso:country":"US",
+    "sg:address":"1871 W Washington St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8070",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "automotive",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BFkGR43m9K7RG9n0JX45D_41.319170_-105.621536@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311971,
+    "wof:geomhash":"f03baf0bf240f62b8923537be521820b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874113385
+        }
+    ],
+    "wof:id":874113385,
+    "wof:lastmodified":1464311971,
+    "wof:name":"Riegel Auto Sales",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive",
+        "shop"
+    ]
+},
+  "bbox": [
+    -105.621536,
+    41.31917,
+    -105.621536,
+    41.31917
+],
+  "geometry": {"coordinates":[-105.62153600000001,41.31917],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874109801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.380487,43.019345,-108.380487,43.019345",
+    "geom:latitude":43.019345,
+    "geom:longitude":-108.380487,
+    "iso:country":"US",
+    "sg:address":"613 S Federal Blvd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 9744",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mqyP31d8WiIlnZqJjUtzi_43.019345_-108.380487@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311915,
+    "wof:geomhash":"ce730ce7d54ec9c773a7999b356aadb4",
+    "wof:hierarchy":[],
+    "wof:id":874109801,
+    "wof:lastmodified":1464311915,
+    "wof:name":"Riverton Tire & Oil Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.380487,
+    43.019345,
+    -108.380487,
+    43.019345
+],
+  "geometry": {"coordinates":[-108.380487,43.019345],"type":"Point"}
+}

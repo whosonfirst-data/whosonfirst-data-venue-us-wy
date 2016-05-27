@@ -1,0 +1,58 @@
+{
+  "id": 874196125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.76983,44.756679,-108.76983,44.756679",
+    "geom:latitude":44.756679,
+    "geom:longitude":-108.76983,
+    "iso:country":"US",
+    "sg:address":"450 Mountain View St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 5765",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32PwwAIolsznrg5aYwXgJT_44.756679_-108.769830@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312806,
+    "wof:geomhash":"78df34b7685c9dd1832e705c5b535de6",
+    "wof:hierarchy":[],
+    "wof:id":874196125,
+    "wof:lastmodified":1464312806,
+    "wof:name":"Big Horn Basin Ob/Gyn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -108.76983,
+    44.756679,
+    -108.76983,
+    44.756679
+],
+  "geometry": {"coordinates":[-108.76983,44.756679],"type":"Point"}
+}

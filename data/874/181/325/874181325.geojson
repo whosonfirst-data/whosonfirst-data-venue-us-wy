@@ -1,0 +1,69 @@
+{
+  "id": 874181325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.319013,42.849174,-106.319013,42.849174",
+    "geom:latitude":42.849174,
+    "geom:longitude":-106.319013,
+    "iso:country":"US",
+    "sg:address":"544 E Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1030",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33TUwoN1wSQ1thApavl5eT_42.849174_-106.319013@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312644,
+    "wof:geomhash":"e131298d42555181f6600022f5d6879a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874181325
+        }
+    ],
+    "wof:id":874181325,
+    "wof:lastmodified":1464312644,
+    "wof:name":"Oil City Printers",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -106.319013,
+    42.849174,
+    -106.319013,
+    42.849174
+],
+  "geometry": {"coordinates":[-106.319013,42.849174],"type":"Point"}
+}

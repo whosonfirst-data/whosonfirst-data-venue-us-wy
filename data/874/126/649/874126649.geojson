@@ -1,0 +1,73 @@
+{
+  "id": 874126649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.443126,42.794013,-106.443126,42.794013",
+    "geom:latitude":42.794013,
+    "geom:longitude":-106.443126,
+    "iso:country":"US",
+    "sg:address":"7338 State Hwy 220",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 2047",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mfg",
+        "custom",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uZEzpCH7P3DEr6TlEgzZS_42.794013_-106.443126@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312100,
+    "wof:geomhash":"92bc9128099489d27fe1d2688384b900",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874126649
+        }
+    ],
+    "wof:id":874126649,
+    "wof:lastmodified":1464312100,
+    "wof:name":"Wyoming Wood Designs",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "custom",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -106.443126,
+    42.794013,
+    -106.443126,
+    42.794013
+],
+  "geometry": {"coordinates":[-106.44312600000001,42.794013],"type":"Point"}
+}

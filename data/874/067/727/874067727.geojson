@@ -1,0 +1,62 @@
+{
+  "id": 874067727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.195375,43.848785,-104.195375,43.848785",
+    "geom:latitude":43.848785,
+    "geom:longitude":-104.195375,
+    "iso:country":"US",
+    "sg:address":"723 Washington Blvd",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 2690",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "driver",
+        "station",
+        "examination",
+        "license"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y6SHgPcrUY9qo17QZsOnz_43.848785_-104.195375@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311405,
+    "wof:geomhash":"f3c144667a7770c6f8188a00da5e43a8",
+    "wof:hierarchy":[],
+    "wof:id":874067727,
+    "wof:lastmodified":1464311405,
+    "wof:name":"Wydot Drver Lcnse Exmntion Stn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "driver",
+        "station",
+        "examination",
+        "license"
+    ]
+},
+  "bbox": [
+    -104.195375,
+    43.848785,
+    -104.195375,
+    43.848785
+],
+  "geometry": {"coordinates":[-104.195375,43.848785],"type":"Point"}
+}

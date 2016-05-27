@@ -1,0 +1,51 @@
+{
+  "id": 874215151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.7933,43.460181,-110.7933,43.460181",
+    "geom:latitude":43.460181,
+    "geom:longitude":-110.7933,
+    "iso:country":"US",
+    "sg:address":"1357 US Hwy 89",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 739 1164",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UUPXasLQkePe295YOQKpK_43.460181_-110.793300@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313006,
+    "wof:geomhash":"ed32d2a1d46e6c714e662663e999e82b",
+    "wof:hierarchy":[],
+    "wof:id":874215151,
+    "wof:lastmodified":1464313006,
+    "wof:name":"Kmart",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.7933,
+    43.460181,
+    -110.7933,
+    43.460181
+],
+  "geometry": {"coordinates":[-110.7933,43.460181],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 874170253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.21377,44.32418,-105.21377,44.32418",
+    "geom:latitude":44.32418,
+    "geom:longitude":-105.21377,
+    "iso:country":"US",
+    "sg:address":"1 Smokey Ave",
+    "sg:city":"Rozet",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 9080",
+    "sg:postcode":"82727",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pTRipH1r1IQ0122LAHOJj_44.324180_-105.213770@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312529,
+    "wof:geomhash":"8b4aa73a7f3bdd89baafe96e8e76ce01",
+    "wof:hierarchy":[],
+    "wof:id":874170253,
+    "wof:lastmodified":1464312529,
+    "wof:name":"Broken Wheel Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ]
+},
+  "bbox": [
+    -105.21377,
+    44.32418,
+    -105.21377,
+    44.32418
+],
+  "geometry": {"coordinates":[-105.21377,44.32418],"type":"Point"}
+}

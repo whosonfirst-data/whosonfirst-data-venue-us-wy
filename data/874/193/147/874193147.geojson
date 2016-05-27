@@ -1,0 +1,73 @@
+{
+  "id": 874193147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.302025,42.855204,-106.302025,42.855204",
+    "geom:latitude":42.855204,
+    "geom:longitude":-106.302025,
+    "iso:country":"US",
+    "sg:address":"431 N Elk St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 1318",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zHoqw7WXtsiJoM2TAx8z5_42.855204_-106.302025@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312771,
+    "wof:geomhash":"153b3a5cc881c4c8944a07fc966b5cd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874193147
+        }
+    ],
+    "wof:id":874193147,
+    "wof:lastmodified":1464312771,
+    "wof:name":"Ace Lawn Care LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -106.302025,
+    42.855204,
+    -106.302025,
+    42.855204
+],
+  "geometry": {"coordinates":[-106.302025,42.855204],"type":"Point"}
+}

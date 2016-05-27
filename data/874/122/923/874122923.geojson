@@ -1,0 +1,73 @@
+{
+  "id": 874122923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.237785,41.575895,-109.237785,41.575895",
+    "geom:latitude":41.575895,
+    "geom:longitude":-109.237785,
+    "iso:country":"US",
+    "sg:address":"1363 Dewar Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 4048",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "financing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uPNsU4riAlPsA9Yrh7JUP_41.575895_-109.237785@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312067,
+    "wof:geomhash":"5d825f6a629397b7ed6e0a64e110e4c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874122923
+        }
+    ],
+    "wof:id":874122923,
+    "wof:lastmodified":1464312067,
+    "wof:name":"Beneficial Wyoming Inc",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financing"
+    ]
+},
+  "bbox": [
+    -109.237785,
+    41.575895,
+    -109.237785,
+    41.575895
+],
+  "geometry": {"coordinates":[-109.237785,41.575895],"type":"Point"}
+}

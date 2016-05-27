@@ -1,0 +1,58 @@
+{
+  "id": 874152321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.800455,41.129342,-104.800455,41.129342",
+    "geom:latitude":41.129342,
+    "geom:longitude":-104.800455,
+    "iso:country":"US",
+    "sg:address":"711 Russell Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 4414",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BplVv46EWYX7YzmOqCy49_41.129342_-104.800455@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312350,
+    "wof:geomhash":"1c4b6907b9590eae7d115a0bdea3c567",
+    "wof:hierarchy":[],
+    "wof:id":874152321,
+    "wof:lastmodified":1464312350,
+    "wof:name":"Machine Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -104.800455,
+    41.129342,
+    -104.800455,
+    41.129342
+],
+  "geometry": {"coordinates":[-104.800455,41.129342],"type":"Point"}
+}

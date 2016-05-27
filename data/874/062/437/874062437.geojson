@@ -1,0 +1,66 @@
+{
+  "id": 874062437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593763,41.308988,-105.593763,41.308988",
+    "geom:latitude":41.308988,
+    "geom:longitude":-105.593763,
+    "iso:country":"US",
+    "sg:address":"517 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3010",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nX3vF5jeeKdP1qmZJsLav_41.308988_-105.593763@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311357,
+    "wof:geomhash":"6d3fd870d0e896131442ba8d2c4d09eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874062437
+        }
+    ],
+    "wof:id":874062437,
+    "wof:lastmodified":1464311357,
+    "wof:name":"B JS Windshield Repair",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.593763,
+    41.308988,
+    -105.593763,
+    41.308988
+],
+  "geometry": {"coordinates":[-105.593763,41.308988],"type":"Point"}
+}

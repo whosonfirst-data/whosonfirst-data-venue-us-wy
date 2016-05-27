@@ -1,0 +1,56 @@
+{
+  "id": 874076421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.699119,44.350788,-106.699119,44.350788",
+    "geom:latitude":44.350788,
+    "geom:longitude":-106.699119,
+    "iso:country":"US",
+    "sg:address":"386 N Main St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 2198",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BWmwQqQnhL54uAzCGBWTT_44.350788_-106.699119@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311515,
+    "wof:geomhash":"28d53e0cd19ca2f4b6ac2dc6ccc0ca20",
+    "wof:hierarchy":[],
+    "wof:id":874076421,
+    "wof:lastmodified":1464311515,
+    "wof:name":"China Garden",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -106.699119,
+    44.350788,
+    -106.699119,
+    44.350788
+],
+  "geometry": {"coordinates":[-106.699119,44.350788],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874031057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.800974,41.111502,-104.800974,41.111502",
+    "geom:latitude":41.111502,
+    "geom:longitude":-104.800974,
+    "iso:country":"US",
+    "sg:address":"710 S Greeley Hwy",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 7877",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BIzvAr6YVRkcpKZ1oGXQs_41.111502_-104.800974@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311058,
+    "wof:geomhash":"6bea14f34766031f3ad149403b2ab50c",
+    "wof:hierarchy":[],
+    "wof:id":874031057,
+    "wof:lastmodified":1464311058,
+    "wof:name":"Safeway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -104.800974,
+    41.111502,
+    -104.800974,
+    41.111502
+],
+  "geometry": {"coordinates":[-104.800974,41.111502],"type":"Point"}
+}

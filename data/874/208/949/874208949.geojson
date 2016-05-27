@@ -1,0 +1,56 @@
+{
+  "id": 874208949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.800451,41.103872,-104.800451,41.103872",
+    "geom:latitude":41.103872,
+    "geom:longitude":-104.800451,
+    "iso:country":"US",
+    "sg:address":"1519 S Greeley Hwy",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 7171",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eBS6M9g6L2Is4KUKGNy7a_41.103872_-104.800451@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312938,
+    "wof:geomhash":"a586e388046d3dfd5a3c32337a6f970b",
+    "wof:hierarchy":[],
+    "wof:id":874208949,
+    "wof:lastmodified":1464312938,
+    "wof:name":"Buzzs Transmission Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -104.800451,
+    41.103872,
+    -104.800451,
+    41.103872
+],
+  "geometry": {"coordinates":[-104.800451,41.103872],"type":"Point"}
+}

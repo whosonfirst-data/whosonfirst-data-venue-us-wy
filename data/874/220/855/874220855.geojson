@@ -1,0 +1,58 @@
+{
+  "id": 874220855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.21554,41.66202,-109.21554,41.66202",
+    "geom:latitude":41.66202,
+    "geom:longitude":-109.21554,
+    "iso:country":"US",
+    "sg:address":"133 Reliance Rd",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 3211",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WxjPLdGQ7tslmrQVO3Kqg_41.662020_-109.215540@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313073,
+    "wof:geomhash":"5ec52a669ba5929829d526d5887e2338",
+    "wof:hierarchy":[],
+    "wof:id":874220855,
+    "wof:lastmodified":1464313073,
+    "wof:name":"Bob's Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.21554,
+    41.66202,
+    -109.21554,
+    41.66202
+],
+  "geometry": {"coordinates":[-109.21554,41.66202],"type":"Point"}
+}

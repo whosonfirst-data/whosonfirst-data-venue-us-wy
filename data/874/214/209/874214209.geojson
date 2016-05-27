@@ -1,0 +1,64 @@
+{
+  "id": 874214209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.270173,42.837405,-106.270173,42.837405",
+    "geom:latitude":42.837405,
+    "geom:longitude":-106.270173,
+    "iso:country":"US",
+    "sg:address":"4040 Somerset Cir",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 8713",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qlL0pagJfGr3Os2mAvJw6_42.837405_-106.270173@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312996,
+    "wof:geomhash":"f23d21032383a9c8ede309e832dfdefc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874214209
+        }
+    ],
+    "wof:id":874214209,
+    "wof:lastmodified":1464312996,
+    "wof:name":"Dresses By Lilia",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.270173,
+    42.837405,
+    -106.270173,
+    42.837405
+],
+  "geometry": {"coordinates":[-106.270173,42.837405],"type":"Point"}
+}

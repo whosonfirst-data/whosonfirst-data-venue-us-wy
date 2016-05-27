@@ -1,0 +1,69 @@
+{
+  "id": 874065207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.442511,42.794669,-106.442511,42.794669",
+    "geom:latitude":42.794669,
+    "geom:longitude":-106.442511,
+    "iso:country":"US",
+    "sg:address":"7400 State Hwy 220",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 5997",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sporting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23ZpxPRhY2JWBP770kjXhl_42.794669_-106.442511@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311381,
+    "wof:geomhash":"ca7018f0061795a995309326f166422c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874065207
+        }
+    ],
+    "wof:id":874065207,
+    "wof:lastmodified":1464311381,
+    "wof:name":"Wyoming Flyfishing Guide Svc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sporting"
+    ]
+},
+  "bbox": [
+    -106.442511,
+    42.794669,
+    -106.442511,
+    42.794669
+],
+  "geometry": {"coordinates":[-106.442511,42.794669],"type":"Point"}
+}

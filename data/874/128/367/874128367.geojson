@@ -1,0 +1,71 @@
+{
+  "id": 874128367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593192,41.314186,-105.593192,41.314186",
+    "geom:latitude":41.314186,
+    "geom:longitude":-105.593192,
+    "iso:country":"US",
+    "sg:address":"263 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 760 9895",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xbkTB1gphUwQDSWV0AT44_41.314186_-105.593192@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312114,
+    "wof:geomhash":"5faba2bc103ac812dc93b068b52d62c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874128367
+        }
+    ],
+    "wof:id":874128367,
+    "wof:lastmodified":1464312114,
+    "wof:name":"Jennifer P Hanft",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -105.593192,
+    41.314186,
+    -105.593192,
+    41.314186
+],
+  "geometry": {"coordinates":[-105.593192,41.314186],"type":"Point"}
+}

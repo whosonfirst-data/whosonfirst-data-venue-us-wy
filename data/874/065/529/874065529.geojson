@@ -1,0 +1,73 @@
+{
+  "id": 874065529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.585481,41.313653,-105.585481,41.313653",
+    "geom:latitude":41.313653,
+    "geom:longitude":-105.585481,
+    "iso:country":"US",
+    "sg:address":"270 N 9th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3741",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tmyn4g32AF0eMnR9rt3UM_41.313653_-105.585481@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311384,
+    "wof:geomhash":"06817c5047e10cb559363abdee554115",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874065529
+        }
+    ],
+    "wof:id":874065529,
+    "wof:lastmodified":1464311384,
+    "wof:name":"Turtle Rock Coffee",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -105.585481,
+    41.313653,
+    -105.585481,
+    41.313653
+],
+  "geometry": {"coordinates":[-105.585481,41.313653],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874206723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.212112,43.610509,-108.212112,43.610509",
+    "geom:latitude":43.610509,
+    "geom:longitude":-108.212112,
+    "iso:country":"US",
+    "sg:address":"321 Buffalo Creek Rd",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 2113",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tvNPSe0Q7rw3UZ7JAwBSS_43.610509_-108.212112@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312911,
+    "wof:geomhash":"2ef0d075742dca375b1a6dcc47eeb994",
+    "wof:hierarchy":[],
+    "wof:id":874206723,
+    "wof:lastmodified":1464312911,
+    "wof:name":"Auto-Tech Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -108.212112,
+    43.610509,
+    -108.212112,
+    43.610509
+],
+  "geometry": {"coordinates":[-108.212112,43.610509],"type":"Point"}
+}

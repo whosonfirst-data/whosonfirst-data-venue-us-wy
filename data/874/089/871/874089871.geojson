@@ -1,0 +1,58 @@
+{
+  "id": 874089871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.853616,44.670073,-103.853616,44.670073",
+    "geom:latitude":44.670073,
+    "geom:longitude":-103.853616,
+    "iso:country":"US",
+    "sg:address":"808 5th Ave",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 2543",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3snbX2zzv5gJAD52Cb0N8c_44.670073_-103.853616@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311658,
+    "wof:geomhash":"fad422a0f36bc41b823ef1944b84bb5b",
+    "wof:hierarchy":[],
+    "wof:id":874089871,
+    "wof:lastmodified":1464311658,
+    "wof:name":"Dakota Mill & Grain",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -103.853616,
+    44.670073,
+    -103.853616,
+    44.670073
+],
+  "geometry": {"coordinates":[-103.853616,44.670073],"type":"Point"}
+}

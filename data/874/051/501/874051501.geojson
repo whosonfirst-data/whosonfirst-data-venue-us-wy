@@ -1,0 +1,56 @@
+{
+  "id": 874051501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.617986,42.779448,-104.617986,42.779448",
+    "geom:latitude":42.779448,
+    "geom:longitude":-104.617986,
+    "iso:country":"US",
+    "sg:address":"651 5th St",
+    "sg:city":"Manville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 334 2142",
+    "sg:postcode":"82227",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39YlE7pYErVKaMmmjPp5SG_42.779448_-104.617986@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311254,
+    "wof:geomhash":"bb0459d39ecaaa37a4b7b5f3623adf01",
+    "wof:hierarchy":[],
+    "wof:id":874051501,
+    "wof:lastmodified":1464311254,
+    "wof:name":"Manville Town Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -104.617986,
+    42.779448,
+    -104.617986,
+    42.779448
+],
+  "geometry": {"coordinates":[-104.617986,42.779448],"type":"Point"}
+}

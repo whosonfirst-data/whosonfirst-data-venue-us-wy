@@ -1,0 +1,69 @@
+{
+  "id": 874062429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.440574,42.86977,-106.440574,42.86977",
+    "geom:latitude":42.86977,
+    "geom:longitude":-106.440574,
+    "iso:country":"US",
+    "sg:address":"1725 N Buck Creek Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 9326",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58ZUYWFKOHbw69vv0kc2Ge_42.869770_-106.440574@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311357,
+    "wof:geomhash":"35ef2efdd2a2d657e6c76c9b5ea27e03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874062429
+        }
+    ],
+    "wof:id":874062429,
+    "wof:lastmodified":1464311357,
+    "wof:name":"Great Western Resources LLC",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -106.440574,
+    42.86977,
+    -106.440574,
+    42.86977
+],
+  "geometry": {"coordinates":[-106.440574,42.86977],"type":"Point"}
+}

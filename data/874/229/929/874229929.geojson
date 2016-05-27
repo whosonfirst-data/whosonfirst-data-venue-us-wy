@@ -1,0 +1,58 @@
+{
+  "id": 874229929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955749,44.821675,-106.955749,44.821675",
+    "geom:latitude":44.821675,
+    "geom:longitude":-106.955749,
+    "iso:country":"US",
+    "sg:address":"2590 N Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/sheridan/206600-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PzBngGnIpHUCH41CR1EzU_44.821675_-106.955749@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313159,
+    "wof:geomhash":"4d93c93a6743be75239140306645c94f",
+    "wof:hierarchy":[],
+    "wof:id":874229929,
+    "wof:lastmodified":1464313159,
+    "wof:name":"McDonald's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -106.955749,
+    44.821675,
+    -106.955749,
+    44.821675
+],
+  "geometry": {"coordinates":[-106.955749,44.821675],"type":"Point"}
+}

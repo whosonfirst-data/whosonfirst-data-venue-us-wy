@@ -1,0 +1,60 @@
+{
+  "id": 874107283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.472103,41.527755,-109.472103,41.527755",
+    "geom:latitude":41.527755,
+    "geom:longitude":-109.472103,
+    "iso:country":"US",
+    "sg:address":"400 W 2nd S",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 5511",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m3xoRNktYRYRMsR4zm9Ph_41.527755_-109.472103@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311886,
+    "wof:geomhash":"2669f3e91e48581612bcb93c57e53d90",
+    "wof:hierarchy":[],
+    "wof:id":874107283,
+    "wof:lastmodified":1464311886,
+    "wof:name":"SRS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -109.472103,
+    41.527755,
+    -109.472103,
+    41.527755
+],
+  "geometry": {"coordinates":[-109.472103,41.527755],"type":"Point"}
+}

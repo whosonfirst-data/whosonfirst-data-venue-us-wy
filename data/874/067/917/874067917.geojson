@@ -1,0 +1,69 @@
+{
+  "id": 874067917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.276269,42.848985,-106.276269,42.848985",
+    "geom:latitude":42.848985,
+    "geom:longitude":-106.276269,
+    "iso:country":"US",
+    "sg:address":"4320 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8250",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_147YeB6SHIHUOykexWopOe_42.848985_-106.276269@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311407,
+    "wof:geomhash":"4bd991ccfa9ed69ea544b5b6415f7bbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874067917
+        }
+    ],
+    "wof:id":874067917,
+    "wof:lastmodified":1464311407,
+    "wof:name":"Eastridge Car Wash Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -106.276269,
+    42.848985,
+    -106.276269,
+    42.848985
+],
+  "geometry": {"coordinates":[-106.276269,42.848985],"type":"Point"}
+}

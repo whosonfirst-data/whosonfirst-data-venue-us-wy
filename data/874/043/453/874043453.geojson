@@ -1,0 +1,71 @@
+{
+  "id": 874043453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593589,41.311918,-105.593589,41.311918",
+    "geom:latitude":41.311918,
+    "geom:longitude":-105.593589,
+    "iso:country":"US",
+    "sg:address":"204 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3348",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RTz0qhHbXnsrX03RwB3wI_41.311918_-105.593589@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311180,
+    "wof:geomhash":"c58c94944337e341fb02d1c48ad7eef9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874043453
+        }
+    ],
+    "wof:id":874043453,
+    "wof:lastmodified":1464311180,
+    "wof:name":"Wyo Barber Shop",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -105.593589,
+    41.311918,
+    -105.593589,
+    41.311918
+],
+  "geometry": {"coordinates":[-105.59358899999999,41.311918],"type":"Point"}
+}

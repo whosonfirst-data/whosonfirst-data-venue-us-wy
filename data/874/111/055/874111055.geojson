@@ -1,0 +1,71 @@
+{
+  "id": 874111055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.57915,41.309274,-105.57915,41.309274",
+    "geom:latitude":41.309274,
+    "geom:longitude":-105.57915,
+    "iso:country":"US",
+    "sg:address":"1405 E Garfield St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4648",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mwixUXHsPZ3PFl3bU3sx2_41.309274_-105.579150@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311941,
+    "wof:geomhash":"670589f37b9261c8195a6954788a9911",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874111055
+        }
+    ],
+    "wof:id":874111055,
+    "wof:lastmodified":1464311941,
+    "wof:name":"Wyoming Building Inspection",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -105.57915,
+    41.309274,
+    -105.57915,
+    41.309274
+],
+  "geometry": {"coordinates":[-105.57915,41.309274],"type":"Point"}
+}

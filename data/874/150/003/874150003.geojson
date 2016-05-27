@@ -1,0 +1,56 @@
+{
+  "id": 874150003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.698784,44.346495,-106.698784,44.346495",
+    "geom:latitude":44.346495,
+    "geom:longitude":-106.698784,
+    "iso:country":"US",
+    "sg:address":"4 S Main St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 8800",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I8nSzAt5Rp3Z5KvZomqYC_44.346495_-106.698784@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312329,
+    "wof:geomhash":"36758d3a696f0ce66920ff00dc844848",
+    "wof:hierarchy":[],
+    "wof:id":874150003,
+    "wof:lastmodified":1464312329,
+    "wof:name":"Tavern On The Creek",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -106.698784,
+    44.346495,
+    -106.698784,
+    44.346495
+],
+  "geometry": {"coordinates":[-106.698784,44.346495],"type":"Point"}
+}

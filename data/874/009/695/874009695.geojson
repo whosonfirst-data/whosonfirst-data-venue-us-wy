@@ -1,0 +1,56 @@
+{
+  "id": 874009695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.212572,41.590564,-109.212572,41.590564",
+    "geom:latitude":41.590564,
+    "geom:longitude":-109.212572,
+    "iso:country":"US",
+    "sg:address":"913 2nd St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 6161",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bmqK68WhePLy4d4EwDM4K_41.590564_-109.212572@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310853,
+    "wof:geomhash":"542c35f0ed24233540ea361a21a3c96b",
+    "wof:hierarchy":[],
+    "wof:id":874009695,
+    "wof:lastmodified":1464310853,
+    "wof:name":"Rock Springs-Jackson Bus Line",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -109.212572,
+    41.590564,
+    -109.212572,
+    41.590564
+],
+  "geometry": {"coordinates":[-109.21257199999999,41.590564],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874180371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.660353,41.377698,-104.660353,41.377698",
+    "geom:latitude":41.377698,
+    "geom:longitude":-104.660353,
+    "iso:country":"US",
+    "sg:address":"5101 10 Sleep Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 2689",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TkDy76TLitlBgUhKvp4t9_41.377698_-104.660353@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312633,
+    "wof:geomhash":"23aac2d15da82d0afbddc41a94ae5594",
+    "wof:hierarchy":[],
+    "wof:id":874180371,
+    "wof:lastmodified":1464312633,
+    "wof:name":"Wyoming Claim Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adjuster"
+    ]
+},
+  "bbox": [
+    -104.660353,
+    41.377698,
+    -104.660353,
+    41.377698
+],
+  "geometry": {"coordinates":[-104.660353,41.377698],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874002863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.30039,42.84635,-106.30039,42.84635",
+    "geom:latitude":42.84635,
+    "geom:longitude":-106.30039,
+    "iso:country":"US",
+    "sg:address":"1801 E 4th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 0123",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "athletic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GUk9az4qcMNSrZ6qLXad6_42.846350_-106.300390@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310790,
+    "wof:geomhash":"c2c3ff2f399694cf0533ccacf4eaf7be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874002863
+        }
+    ],
+    "wof:id":874002863,
+    "wof:lastmodified":1464310790,
+    "wof:name":"Casper Amatuer Hockey Club",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "athletic"
+    ]
+},
+  "bbox": [
+    -106.30039,
+    42.84635,
+    -106.30039,
+    42.84635
+],
+  "geometry": {"coordinates":[-106.30038999999999,42.84635],"type":"Point"}
+}

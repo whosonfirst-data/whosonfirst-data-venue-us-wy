@@ -1,0 +1,70 @@
+{
+  "id": 874229453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.371753,42.820123,-106.371753,42.820123",
+    "geom:latitude":42.820123,
+    "geom:longitude":-106.371753,
+    "iso:country":"US",
+    "sg:address":"4051 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/casper/166975-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3245",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18lqR5YkRtDrd7QjXxkIJn_42.820123_-106.371753@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313155,
+    "wof:geomhash":"1755518ae1cd23d99e03a6df977c9beb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874229453
+        }
+    ],
+    "wof:id":874229453,
+    "wof:lastmodified":1464313155,
+    "wof:name":"Burger King",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -106.371753,
+    42.820123,
+    -106.371753,
+    42.820123
+],
+  "geometry": {"coordinates":[-106.371753,42.820123],"type":"Point"}
+}

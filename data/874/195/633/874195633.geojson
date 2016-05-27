@@ -1,0 +1,73 @@
+{
+  "id": 874195633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.339442,42.81234,-106.339442,42.81234",
+    "geom:latitude":42.81234,
+    "geom:longitude":-106.339442,
+    "iso:country":"US",
+    "sg:address":"1115 Beaumont Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 3655",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "crude",
+        "production",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iUV59gPQUQv2Pg2eNwvOi_42.812340_-106.339442@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312801,
+    "wof:geomhash":"9b5a5273e8cbd6246cc8f1c4906aae6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874195633
+        }
+    ],
+    "wof:id":874195633,
+    "wof:lastmodified":1464312801,
+    "wof:name":"McIlnay Investments Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crude",
+        "production",
+        "gas"
+    ]
+},
+  "bbox": [
+    -106.339442,
+    42.81234,
+    -106.339442,
+    42.81234
+],
+  "geometry": {"coordinates":[-106.33944200000001,42.81234],"type":"Point"}
+}

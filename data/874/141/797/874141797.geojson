@@ -1,0 +1,59 @@
+{
+  "id": 874141797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.976153,41.265809,-110.976153,41.265809",
+    "geom:latitude":41.265809,
+    "geom:longitude":-110.976153,
+    "iso:country":"US",
+    "sg:address":"731 19th St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 0402",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "sg:website":"www.qualityengraving.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cUigtmKeBcqpLt04iYkEh_41.265809_-110.976153@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312251,
+    "wof:geomhash":"d8aa3ce75efe6d15eb237d261960c29f",
+    "wof:hierarchy":[],
+    "wof:id":874141797,
+    "wof:lastmodified":1464312251,
+    "wof:name":"Quality Engraving & Locksmith",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -110.976153,
+    41.265809,
+    -110.976153,
+    41.265809
+],
+  "geometry": {"coordinates":[-110.976153,41.265809],"type":"Point"}
+}

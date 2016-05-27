@@ -1,0 +1,73 @@
+{
+  "id": 874129007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.301002,42.848694,-106.301002,42.848694",
+    "geom:latitude":42.848694,
+    "geom:longitude":-106.301002,
+    "iso:country":"US",
+    "sg:address":"1843 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 7022",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LWqoBy6tUxWIXHGvmbYrf_42.848694_-106.301002@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312121,
+    "wof:geomhash":"0f3b5f6d86b8681acdcc0fe06c68d470",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874129007
+        }
+    ],
+    "wof:id":874129007,
+    "wof:lastmodified":1464312121,
+    "wof:name":"Smokers Choice/Huff & Puff",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -106.301002,
+    42.848694,
+    -106.301002,
+    42.848694
+],
+  "geometry": {"coordinates":[-106.301002,42.848694],"type":"Point"}
+}

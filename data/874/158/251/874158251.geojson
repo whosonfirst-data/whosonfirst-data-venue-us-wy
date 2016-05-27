@@ -1,0 +1,71 @@
+{
+  "id": 874158251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.301545,42.825123,-106.301545,42.825123",
+    "geom:latitude":42.825123,
+    "geom:longitude":-106.301545,
+    "iso:country":"US",
+    "sg:address":"2321 Thorndike Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 8215",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r6N4GmKiy4Ax2jQ7gYzrH_42.825123_-106.301545@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312410,
+    "wof:geomhash":"f0a1f6957c269dbf2ff5f107c7de099e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874158251
+        }
+    ],
+    "wof:id":874158251,
+    "wof:lastmodified":1464312410,
+    "wof:name":"Rock Creek Oil Company Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.301545,
+    42.825123,
+    -106.301545,
+    42.825123
+],
+  "geometry": {"coordinates":[-106.301545,42.825123],"type":"Point"}
+}

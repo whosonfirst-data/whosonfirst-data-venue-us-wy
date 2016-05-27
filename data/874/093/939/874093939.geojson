@@ -1,0 +1,73 @@
+{
+  "id": 874093939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.4368,42.89054,-106.4368,42.89054",
+    "geom:latitude":42.89054,
+    "geom:longitude":-106.4368,
+    "iso:country":"US",
+    "sg:address":"7340 Grey Cloud Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 4441",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_553vZTVBgMWW28EsAxWPGc_42.890540_-106.436800@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311702,
+    "wof:geomhash":"5967a53dc61acb8137427608aa3e684c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874093939
+        }
+    ],
+    "wof:id":874093939,
+    "wof:lastmodified":1464311702,
+    "wof:name":"Derick Equipment",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -106.4368,
+    42.89054,
+    -106.4368,
+    42.89054
+],
+  "geometry": {"coordinates":[-106.43680000000001,42.89054],"type":"Point"}
+}

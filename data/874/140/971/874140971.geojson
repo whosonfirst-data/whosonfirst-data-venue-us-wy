@@ -1,0 +1,60 @@
+{
+  "id": 874140971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.049709,44.488621,-108.049709,44.488621",
+    "geom:latitude":44.488621,
+    "geom:longitude":-108.049709,
+    "iso:country":"US",
+    "sg:address":"25 S 2nd St",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 2486",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zmz5v0kl4OLlCwniv18n5_44.488621_-108.049709@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312243,
+    "wof:geomhash":"13cdefb5a58fa062d2105aa7cc268340",
+    "wof:hierarchy":[],
+    "wof:id":874140971,
+    "wof:lastmodified":1464312243,
+    "wof:name":"Greybull Body Shop Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -108.049709,
+    44.488621,
+    -108.049709,
+    44.488621
+],
+  "geometry": {"coordinates":[-108.04970899999999,44.488621],"type":"Point"}
+}

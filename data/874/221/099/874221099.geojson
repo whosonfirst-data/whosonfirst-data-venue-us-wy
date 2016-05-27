@@ -1,0 +1,56 @@
+{
+  "id": 874221099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.431085,44.837839,-108.431085,44.837839",
+    "geom:latitude":44.837839,
+    "geom:longitude":-108.431085,
+    "iso:country":"US",
+    "sg:address":"1801 US Hwy 310",
+    "sg:city":"Lovell",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 548 6342",
+    "sg:postcode":"82431",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18cQgac32vm4zl75mLhGeD_44.837839_-108.431085@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313075,
+    "wof:geomhash":"1046f6d08f5ba9e94cae4128e83ede47",
+    "wof:hierarchy":[],
+    "wof:id":874221099,
+    "wof:lastmodified":1464313075,
+    "wof:name":"Mountain West Telecommunicatns",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -108.431085,
+    44.837839,
+    -108.431085,
+    44.837839
+],
+  "geometry": {"coordinates":[-108.431085,44.837839],"type":"Point"}
+}

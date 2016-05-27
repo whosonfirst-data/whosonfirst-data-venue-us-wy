@@ -1,0 +1,69 @@
+{
+  "id": 874164425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.276957,42.854852,-106.276957,42.854852",
+    "geom:latitude":42.854852,
+    "geom:longitude":-106.276957,
+    "iso:country":"US",
+    "sg:address":"407 N Walsh Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8600",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "modular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mvbvoxUhke1OygxbA4YO4_42.854852_-106.276957@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312473,
+    "wof:geomhash":"c3c70dbffd08c3ef79277165068c3062",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874164425
+        }
+    ],
+    "wof:id":874164425,
+    "wof:lastmodified":1464312473,
+    "wof:name":"ARC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "modular"
+    ]
+},
+  "bbox": [
+    -106.276957,
+    42.854852,
+    -106.276957,
+    42.854852
+],
+  "geometry": {"coordinates":[-106.276957,42.854852],"type":"Point"}
+}

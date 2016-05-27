@@ -1,0 +1,73 @@
+{
+  "id": 874151517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594971,41.310006,-105.594971,41.310006",
+    "geom:latitude":41.310006,
+    "geom:longitude":-105.594971,
+    "iso:country":"US",
+    "sg:address":"417 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3746",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N7IB6SLt2JDjH4t0z5okZ_41.310006_-105.594971@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312342,
+    "wof:geomhash":"d5793ea1d541301a124e1fe601aa6ba3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874151517
+        }
+    ],
+    "wof:id":874151517,
+    "wof:lastmodified":1464312342,
+    "wof:name":"Penny Catalog Merchant",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -105.594971,
+    41.310006,
+    -105.594971,
+    41.310006
+],
+  "geometry": {"coordinates":[-105.594971,41.310006],"type":"Point"}
+}

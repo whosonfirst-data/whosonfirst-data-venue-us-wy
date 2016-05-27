@@ -1,0 +1,70 @@
+{
+  "id": 874073771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.294475,42.848829,-106.294475,42.848829",
+    "geom:latitude":42.848829,
+    "geom:longitude":-106.294475,
+    "iso:country":"US",
+    "sg:address":"2344 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 8187",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.casperchurchofchrist.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vVSk1kztsof9ZMQDPeHRn_42.848829_-106.294475@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311490,
+    "wof:geomhash":"655f81e68f629ea485dfb89be6429b5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874073771
+        }
+    ],
+    "wof:id":874073771,
+    "wof:lastmodified":1464311490,
+    "wof:name":"Church Of Christ",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -106.294475,
+    42.848829,
+    -106.294475,
+    42.848829
+],
+  "geometry": {"coordinates":[-106.29447500000001,42.848829],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874030069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.755164,44.750135,-108.755164,44.750135",
+    "geom:latitude":44.750135,
+    "geom:longitude":-108.755164,
+    "iso:country":"US",
+    "sg:address":"375 E South St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 9441",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30d76hyOEm5MyShtSuHur4_44.750135_-108.755164@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311049,
+    "wof:geomhash":"ccb0bf984fb29def934c27d70347c430",
+    "wof:hierarchy":[],
+    "wof:id":874030069,
+    "wof:lastmodified":1464311049,
+    "wof:name":"Auto Plumbers Exhaust",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.755164,
+    44.750135,
+    -108.755164,
+    44.750135
+],
+  "geometry": {"coordinates":[-108.75516399999999,44.750135],"type":"Point"}
+}

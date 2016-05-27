@@ -1,0 +1,58 @@
+{
+  "id": 874156899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.713781,44.346733,-106.713781,44.346733",
+    "geom:latitude":44.346733,
+    "geom:longitude":-106.713781,
+    "iso:country":"US",
+    "sg:address":"830 W Fetterman St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 5747",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OzrOZEQn487LBNJfPyFdX_44.346733_-106.713781@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312398,
+    "wof:geomhash":"3b6d8c1c3c565a3cb5aec0f2d93ef50e",
+    "wof:hierarchy":[],
+    "wof:id":874156899,
+    "wof:lastmodified":1464312398,
+    "wof:name":"Buffalo Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.713781,
+    44.346733,
+    -106.713781,
+    44.346733
+],
+  "geometry": {"coordinates":[-106.713781,44.346733],"type":"Point"}
+}

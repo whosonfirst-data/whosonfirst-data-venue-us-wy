@@ -1,0 +1,56 @@
+{
+  "id": 873987113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.945174,44.791779,-106.945174,44.791779",
+    "geom:latitude":44.791779,
+    "geom:longitude":-106.945174,
+    "iso:country":"US",
+    "sg:address":"605 S Carlin St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 7754",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dVqKFrZGPv5zaktEI6vrR_44.791779_-106.945174@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310669,
+    "wof:geomhash":"b54edbdf90fa7c30e7cd84668547f438",
+    "wof:hierarchy":[],
+    "wof:id":873987113,
+    "wof:lastmodified":1464310669,
+    "wof:name":"Sheridan Home Delivery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -106.945174,
+    44.791779,
+    -106.945174,
+    44.791779
+],
+  "geometry": {"coordinates":[-106.94517399999999,44.791779],"type":"Point"}
+}

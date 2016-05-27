@@ -1,0 +1,56 @@
+{
+  "id": 874181051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955816,44.795185,-106.955816,44.795185",
+    "geom:latitude":44.795185,
+    "geom:longitude":-106.955816,
+    "iso:country":"US",
+    "sg:address":"231 S Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 0509",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wytFysVpr1xb0zlCet4qZ_44.795185_-106.955816@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312640,
+    "wof:geomhash":"2e5589eb8eb663662f1e0a2cef836fcb",
+    "wof:hierarchy":[],
+    "wof:id":874181051,
+    "wof:lastmodified":1464312640,
+    "wof:name":"Julia Styling Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.955816,
+    44.795185,
+    -106.955816,
+    44.795185
+],
+  "geometry": {"coordinates":[-106.955816,44.795185],"type":"Point"}
+}

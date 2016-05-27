@@ -1,0 +1,73 @@
+{
+  "id": 873986987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.331361,42.807578,-106.331361,42.807578",
+    "geom:latitude":42.807578,
+    "geom:longitude":-106.331361,
+    "iso:country":"US",
+    "sg:address":"4420 S Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4335",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AFFciFQp8H3jk6yerq2CD_42.807578_-106.331361@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310668,
+    "wof:geomhash":"723dd001b3a891f14bc34ff0098b7815",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873986987
+        }
+    ],
+    "wof:id":873986987,
+    "wof:lastmodified":1464310668,
+    "wof:name":"Slominski Installations",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.331361,
+    42.807578,
+    -106.331361,
+    42.807578
+],
+  "geometry": {"coordinates":[-106.331361,42.807578],"type":"Point"}
+}

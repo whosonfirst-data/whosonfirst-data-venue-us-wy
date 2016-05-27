@@ -1,0 +1,71 @@
+{
+  "id": 874190921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.5961,41.31132,-105.5961,41.31132",
+    "geom:latitude":41.31132,
+    "geom:longitude":-105.5961,
+    "iso:country":"US",
+    "sg:address":"217 S 1st St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 760 0968",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lecturing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11aFlEF9YIWq88054mk2Yt_41.311320_-105.596100@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312748,
+    "wof:geomhash":"c472b6a6fa50857038849c5a3f2a62cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874190921
+        }
+    ],
+    "wof:id":874190921,
+    "wof:lastmodified":1464312748,
+    "wof:name":"Manly Bryan F J",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lecturing"
+    ]
+},
+  "bbox": [
+    -105.5961,
+    41.31132,
+    -105.5961,
+    41.31132
+],
+  "geometry": {"coordinates":[-105.59610000000001,41.31132],"type":"Point"}
+}

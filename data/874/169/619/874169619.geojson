@@ -1,0 +1,69 @@
+{
+  "id": 874169619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.341172,42.822949,-106.341172,42.822949",
+    "geom:latitude":42.822949,
+    "geom:longitude":-106.341172,
+    "iso:country":"US",
+    "sg:address":"1348 W 27th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7103",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HI7YxPdJkD2D6q8608I1b_42.822949_-106.341172@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312522,
+    "wof:geomhash":"da7e1105a09cdd66ea828a5519967cf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874169619
+        }
+    ],
+    "wof:id":874169619,
+    "wof:lastmodified":1464312522,
+    "wof:name":"Central Wyomia Furnance Clg",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.341172,
+    42.822949,
+    -106.341172,
+    42.822949
+],
+  "geometry": {"coordinates":[-106.341172,42.822949],"type":"Point"}
+}

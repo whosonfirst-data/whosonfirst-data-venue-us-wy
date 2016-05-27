@@ -1,0 +1,73 @@
+{
+  "id": 874038581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.229272,41.606161,-109.229272,41.606161",
+    "geom:latitude":41.606161,
+    "geom:longitude":-109.229272,
+    "iso:country":"US",
+    "sg:address":"1560 Elk St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 2243",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mobile",
+        "recreational",
+        "site",
+        "parks",
+        "vehicle",
+        "home",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NibRNFZ7kPLKC49gSuHNH_41.606161_-109.229272@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311131,
+    "wof:geomhash":"6653233b945507eec61c3bd39ca7ad20",
+    "wof:hierarchy":[],
+    "wof:id":874038581,
+    "wof:lastmodified":1464311131,
+    "wof:name":"Albert's Trailer Court",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "recreational",
+        "site",
+        "parks",
+        "vehicle",
+        "home",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -109.229272,
+    41.606161,
+    -109.229272,
+    41.606161
+],
+  "geometry": {"coordinates":[-109.22927199999999,41.606161],"type":"Point"}
+}

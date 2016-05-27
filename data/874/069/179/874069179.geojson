@@ -1,0 +1,73 @@
+{
+  "id": 874069179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.307071,42.854148,-106.307071,42.854148",
+    "geom:latitude":42.854148,
+    "geom:longitude":-106.307071,
+    "iso:country":"US",
+    "sg:address":"465 N Conwell St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8622",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TCTi2A2GCLgNHnsO2tW3Z_42.854148_-106.307071@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311425,
+    "wof:geomhash":"d63c654d81bf02494c9f405079ae1824",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874069179
+        }
+    ],
+    "wof:id":874069179,
+    "wof:lastmodified":1464311425,
+    "wof:name":"Americlean Of Casper",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -106.307071,
+    42.854148,
+    -106.307071,
+    42.854148
+],
+  "geometry": {"coordinates":[-106.30707099999999,42.854148],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 874231161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.697465,44.35423,-106.697465,44.35423",
+    "geom:latitude":44.35423,
+    "geom:longitude":-106.697465,
+    "iso:country":"US",
+    "sg:address":"100 E Hart St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/buffalo/96468-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 7747",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eptwG8iQh9JNZQre9rUwK_44.354209_-106.697472@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313176,
+    "wof:geomhash":"ae93228464076d2dd56393796984aac0",
+    "wof:hierarchy":[],
+    "wof:id":874231161,
+    "wof:lastmodified":1464313176,
+    "wof:name":"Taco John's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -106.697465,
+    44.35423,
+    -106.697465,
+    44.35423
+],
+  "geometry": {"coordinates":[-106.69746499999999,44.35423],"type":"Point"}
+}

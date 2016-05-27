@@ -1,0 +1,56 @@
+{
+  "id": 874218223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.892347,41.154951,-104.892347,41.154951",
+    "geom:latitude":41.154951,
+    "geom:longitude":-104.892347,
+    "iso:country":"US",
+    "sg:address":"7814 Healy Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 8945",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QrLHbeX25w0LNYpzm2ee5_41.154951_-104.892347@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313034,
+    "wof:geomhash":"2007e401b9d00d1871b3b79491b75e26",
+    "wof:hierarchy":[],
+    "wof:id":874218223,
+    "wof:lastmodified":1464313034,
+    "wof:name":"Wash N Go LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -104.892347,
+    41.154951,
+    -104.892347,
+    41.154951
+],
+  "geometry": {"coordinates":[-104.892347,41.154951],"type":"Point"}
+}

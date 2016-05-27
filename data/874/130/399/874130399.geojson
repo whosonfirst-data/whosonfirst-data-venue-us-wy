@@ -1,0 +1,58 @@
+{
+  "id": 874130399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.05631,44.52935,-109.05631,44.52935",
+    "geom:latitude":44.52935,
+    "geom:longitude":-109.05631,
+    "iso:country":"US",
+    "sg:address":"1501 Salsbury Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 3021",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QD4NTe3NB3tZEwlWi7ngP_44.529350_-109.056310@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312142,
+    "wof:geomhash":"7f470bc88f94eb54f7f94415ab546616",
+    "wof:hierarchy":[],
+    "wof:id":874130399,
+    "wof:lastmodified":1464312142,
+    "wof:name":"Wyoming Wilderness Taxidermy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "establishment"
+    ]
+},
+  "bbox": [
+    -109.05631,
+    44.52935,
+    -109.05631,
+    44.52935
+],
+  "geometry": {"coordinates":[-109.05631,44.52935],"type":"Point"}
+}

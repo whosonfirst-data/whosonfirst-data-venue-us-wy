@@ -1,0 +1,58 @@
+{
+  "id": 874199981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.796781,41.129769,-104.796781,41.129769",
+    "geom:latitude":41.129769,
+    "geom:longitude":-104.796781,
+    "iso:country":"US",
+    "sg:address":"1112 E 7th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 4705",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KxuF7XCxYHGoGdOkxkyGN_41.129769_-104.796781@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312843,
+    "wof:geomhash":"e6b52ff0fe9f15e77c285c77ae8049a9",
+    "wof:hierarchy":[],
+    "wof:id":874199981,
+    "wof:lastmodified":1464312843,
+    "wof:name":"John Fisch Contractor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -104.796781,
+    41.129769,
+    -104.796781,
+    41.129769
+],
+  "geometry": {"coordinates":[-104.796781,41.129769],"type":"Point"}
+}

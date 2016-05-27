@@ -1,0 +1,70 @@
+{
+  "id": 873985753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.321374,42.856674,-106.321374,42.856674",
+    "geom:latitude":42.856674,
+    "geom:longitude":-106.321374,
+    "iso:country":"US",
+    "sg:address":"747 E E St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 8414",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ale"
+    ],
+    "sg:website":"www.westdist.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22B1X3sIwjJ3k2IV5rea3X_42.856674_-106.321374@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310655,
+    "wof:geomhash":"b7cae8c18dc3f4b6af4138550917fc77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873985753
+        }
+    ],
+    "wof:id":873985753,
+    "wof:lastmodified":1464310655,
+    "wof:name":"Western Distributing Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale"
+    ]
+},
+  "bbox": [
+    -106.321374,
+    42.856674,
+    -106.321374,
+    42.856674
+],
+  "geometry": {"coordinates":[-106.32137400000001,42.856674],"type":"Point"}
+}

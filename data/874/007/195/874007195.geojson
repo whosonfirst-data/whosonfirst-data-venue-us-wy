@@ -1,0 +1,65 @@
+{
+  "id": 874007195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.738863,44.332901,-106.738863,44.332901",
+    "geom:latitude":44.332901,
+    "geom:longitude":-106.738863,
+    "iso:country":"US",
+    "sg:address":"700 Veterans Ln",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 5511",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hosp",
+        "ex",
+        "psychiatric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C3hCr1IuKSNYRSigwtTQs_44.332901_-106.738863@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310834,
+    "wof:geomhash":"f626550dc728c2d53a765d04a33c0bd4",
+    "wof:hierarchy":[],
+    "wof:id":874007195,
+    "wof:lastmodified":1464310834,
+    "wof:name":"Veterans Home of Wyoming",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hosp",
+        "ex",
+        "psychiatric"
+    ]
+},
+  "bbox": [
+    -106.738863,
+    44.332901,
+    -106.738863,
+    44.332901
+],
+  "geometry": {"coordinates":[-106.73886299999999,44.332901],"type":"Point"}
+}

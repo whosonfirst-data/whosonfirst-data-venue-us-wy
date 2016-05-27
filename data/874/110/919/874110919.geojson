@@ -1,0 +1,71 @@
+{
+  "id": 874110919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.313529,42.822406,-106.313529,42.822406",
+    "geom:latitude":42.822406,
+    "geom:longitude":-106.313529,
+    "iso:country":"US",
+    "sg:address":"825 E 26th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3521",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "remodeling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PZjaaM4mx0eZt6EkXfxC9_42.822406_-106.313529@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311939,
+    "wof:geomhash":"df69dc266b88d28e5f11523d79c3f909",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874110919
+        }
+    ],
+    "wof:id":874110919,
+    "wof:lastmodified":1464311939,
+    "wof:name":"Cande Construction",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "remodeling"
+    ]
+},
+  "bbox": [
+    -106.313529,
+    42.822406,
+    -106.313529,
+    42.822406
+],
+  "geometry": {"coordinates":[-106.313529,42.822406],"type":"Point"}
+}

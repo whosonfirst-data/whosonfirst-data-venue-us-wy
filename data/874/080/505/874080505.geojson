@@ -1,0 +1,69 @@
+{
+  "id": 874080505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.39219,43.024554,-108.39219,43.024554",
+    "geom:latitude":43.024554,
+    "geom:longitude":-108.39219,
+    "iso:country":"US",
+    "sg:address":"213 W Main St",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 857 3111",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "specialty",
+        "family",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vG0mRx8MmwWv9i9vhWz6d_43.024554_-108.392190@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311556,
+    "wof:geomhash":"957af4ebc0c7e863c88bfef43112d580",
+    "wof:hierarchy":[],
+    "wof:id":874080505,
+    "wof:lastmodified":1464311556,
+    "wof:name":"Wyoming Counseling Svcs PC & H",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "specialty",
+        "family",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -108.39219,
+    43.024554,
+    -108.39219,
+    43.024554
+],
+  "geometry": {"coordinates":[-108.39219,43.024554],"type":"Point"}
+}

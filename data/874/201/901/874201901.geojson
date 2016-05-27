@@ -1,0 +1,73 @@
+{
+  "id": 874201901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.583022,41.310215,-105.583022,41.310215",
+    "geom:latitude":41.310215,
+    "geom:longitude":-105.583022,
+    "iso:country":"US",
+    "sg:address":"319 S 11th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 0760",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "agency",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4flqSBynQFQ1b1AIlIeOAq_41.310215_-105.583022@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312863,
+    "wof:geomhash":"c6626b5a069498adc336d6ed072529e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874201901
+        }
+    ],
+    "wof:id":874201901,
+    "wof:lastmodified":1464312863,
+    "wof:name":"Upton Professional Building",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "rental"
+    ]
+},
+  "bbox": [
+    -105.583022,
+    41.310215,
+    -105.583022,
+    41.310215
+],
+  "geometry": {"coordinates":[-105.583022,41.310215],"type":"Point"}
+}

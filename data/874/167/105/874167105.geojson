@@ -1,0 +1,57 @@
+{
+  "id": 874167105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.967472,41.256246,-110.967472,41.256246",
+    "geom:latitude":41.256246,
+    "geom:longitude":-110.967472,
+    "iso:country":"US",
+    "sg:address":"75 Yellow Creek Rd",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 1844",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.specialministries.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xlz0cExlW77pNm3jkCXAo_41.256246_-110.967472@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312499,
+    "wof:geomhash":"0a442e1bf87f465332fea8aabb9afaf0",
+    "wof:hierarchy":[],
+    "wof:id":874167105,
+    "wof:lastmodified":1464312499,
+    "wof:name":"Special Ministries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -110.967472,
+    41.256246,
+    -110.967472,
+    41.256246
+],
+  "geometry": {"coordinates":[-110.967472,41.256246],"type":"Point"}
+}

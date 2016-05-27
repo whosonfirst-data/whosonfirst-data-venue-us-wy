@@ -1,0 +1,56 @@
+{
+  "id": 874171771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.698341,44.357462,-106.698341,44.357462",
+    "geom:latitude":44.357462,
+    "geom:longitude":-106.698341,
+    "iso:country":"US",
+    "sg:address":"825 N Main St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 5464",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sZHxZQ9Nq5w4cSIwEiLny_44.357462_-106.698341@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312547,
+    "wof:geomhash":"7a8f063ef318fe5a22154083dc8835c0",
+    "wof:hierarchy":[],
+    "wof:id":874171771,
+    "wof:lastmodified":1464312547,
+    "wof:name":"Cloud Peak Rental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -106.698341,
+    44.357462,
+    -106.698341,
+    44.357462
+],
+  "geometry": {"coordinates":[-106.698341,44.357462],"type":"Point"}
+}

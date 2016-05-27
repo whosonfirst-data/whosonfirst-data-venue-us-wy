@@ -1,0 +1,71 @@
+{
+  "id": 874093625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.626159,41.31152,-105.626159,41.31152",
+    "geom:latitude":41.31152,
+    "geom:longitude":-105.626159,
+    "iso:country":"US",
+    "sg:address":"209 S Johnson St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7350",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VqBxvyCHo1WGit7xXlOz1_41.311520_-105.626159@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311700,
+    "wof:geomhash":"c3a74e08c88ac91335bc9e4b058e09af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874093625
+        }
+    ],
+    "wof:id":874093625,
+    "wof:lastmodified":1464311700,
+    "wof:name":"Will Clean Inc",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.626159,
+    41.31152,
+    -105.626159,
+    41.31152
+],
+  "geometry": {"coordinates":[-105.626159,41.31152],"type":"Point"}
+}

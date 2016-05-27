@@ -1,0 +1,71 @@
+{
+  "id": 874149449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.522326,41.29251,-105.522326,41.29251",
+    "geom:latitude":41.29251,
+    "geom:longitude":-105.522326,
+    "iso:country":"US",
+    "sg:address":"2515 Sky View Ln",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3384",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67cDkMqy2oW6hhJiJIC0Fe_41.292510_-105.522326@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312324,
+    "wof:geomhash":"6b1296b03082e0d49edc3420d2cfb8e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874149449
+        }
+    ],
+    "wof:id":874149449,
+    "wof:lastmodified":1464312324,
+    "wof:name":"Telescan",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -105.522326,
+    41.29251,
+    -105.522326,
+    41.29251
+],
+  "geometry": {"coordinates":[-105.52232600000001,41.29251],"type":"Point"}
+}

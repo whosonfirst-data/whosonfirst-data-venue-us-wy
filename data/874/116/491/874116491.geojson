@@ -1,0 +1,80 @@
+{
+  "id": 874116491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.329011,42.849052,-106.329011,42.849052",
+    "geom:latitude":42.849052,
+    "geom:longitude":-106.329011,
+    "iso:country":"US",
+    "sg:address":"333 W 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1320",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "glass",
+        "shop",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G9ZtGXKC22PzCEI3rqnLS_42.849052_-106.329011@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312002,
+    "wof:geomhash":"9040a3d1e6cbf8a74a6a7ef2069e0ea7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874116491
+        }
+    ],
+    "wof:id":874116491,
+    "wof:lastmodified":1464312002,
+    "wof:name":"Glass Warehouse",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "glass",
+        "shop",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -106.329011,
+    42.849052,
+    -106.329011,
+    42.849052
+],
+  "geometry": {"coordinates":[-106.32901099999999,42.849052],"type":"Point"}
+}

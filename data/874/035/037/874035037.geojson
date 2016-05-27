@@ -1,0 +1,57 @@
+{
+  "id": 874035037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.953241,44.795881,-106.953241,44.795881",
+    "geom:latitude":44.795881,
+    "geom:longitude":-106.953241,
+    "iso:country":"US",
+    "sg:address":"151 S Scott St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 1626",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.sheridanfirerescue.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LJVBhNjJIop4F0N8jpsPl_44.795881_-106.953241@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311094,
+    "wof:geomhash":"e5ee513af5dc3e4ab80fa1018398ba93",
+    "wof:hierarchy":[],
+    "wof:id":874035037,
+    "wof:lastmodified":1464311094,
+    "wof:name":"Sheridan Fire-Rescue",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -106.953241,
+    44.795881,
+    -106.953241,
+    44.795881
+],
+  "geometry": {"coordinates":[-106.95324100000001,44.795881],"type":"Point"}
+}

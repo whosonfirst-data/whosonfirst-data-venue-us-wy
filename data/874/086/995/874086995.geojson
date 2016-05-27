@@ -1,0 +1,57 @@
+{
+  "id": 874086995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.94887,41.271193,-110.94887,41.271193",
+    "geom:latitude":41.271193,
+    "geom:longitude":-110.94887,
+    "iso:country":"US",
+    "sg:address":"400 I- 80 Bus",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 3119",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state"
+    ],
+    "sg:website":"www.wyominghighwaypatrol.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SkzrpYghiLUhiMo3BuOF4_41.271193_-110.948870@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311630,
+    "wof:geomhash":"23a92e49ed5821989d85b0f2d9ec65cf",
+    "wof:hierarchy":[],
+    "wof:id":874086995,
+    "wof:lastmodified":1464311630,
+    "wof:name":"Highway Patrol",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -110.94887,
+    41.271193,
+    -110.94887,
+    41.271193
+],
+  "geometry": {"coordinates":[-110.94887,41.271193],"type":"Point"}
+}

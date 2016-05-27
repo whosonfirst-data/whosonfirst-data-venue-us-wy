@@ -1,0 +1,71 @@
+{
+  "id": 874187873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.294065,42.836049,-106.294065,42.836049",
+    "geom:latitude":42.836049,
+    "geom:longitude":-106.294065,
+    "iso:country":"US",
+    "sg:address":"1441 S Pennsylvania Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 0335",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "party",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jCFMxVNI5Y4TjRJ4vNBsH_42.836049_-106.294065@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312718,
+    "wof:geomhash":"140bddc08b666b726bbe6a3b853d188a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874187873
+        }
+    ],
+    "wof:id":874187873,
+    "wof:lastmodified":1464312718,
+    "wof:name":"Rainbow Point Lodge",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -106.294065,
+    42.836049,
+    -106.294065,
+    42.836049
+],
+  "geometry": {"coordinates":[-106.294065,42.836049],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 874020313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.761159,43.479949,-110.761159,43.479949",
+    "geom:latitude":43.479949,
+    "geom:longitude":-110.761159,
+    "iso:country":"US",
+    "sg:address":"50 Center St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 739 2767",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "resort",
+        "center",
+        "skiing"
+    ],
+    "sg:website":"www.ridejacksonhole.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AWnGfixs2OY4AnkXzJWVg_43.479949_-110.761159@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310951,
+    "wof:geomhash":"ce67d580ddc128bd941efdef011b6f21",
+    "wof:hierarchy":[],
+    "wof:id":874020313,
+    "wof:lastmodified":1464310951,
+    "wof:name":"Jackson Hole Resort Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resort",
+        "center",
+        "skiing"
+    ]
+},
+  "bbox": [
+    -110.761159,
+    43.479949,
+    -110.761159,
+    43.479949
+],
+  "geometry": {"coordinates":[-110.76115900000001,43.479949],"type":"Point"}
+}

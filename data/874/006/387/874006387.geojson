@@ -1,0 +1,56 @@
+{
+  "id": 874006387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.037836,44.533344,-109.037836,44.533344",
+    "geom:latitude":44.533344,
+    "geom:longitude":-109.037836,
+    "iso:country":"US",
+    "sg:address":"2702 Big Horn Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 9322",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tH5akTeW8YEFXCOu4Umci_44.533344_-109.037836@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310828,
+    "wof:geomhash":"ef7f6ad40667241dd023f79b4c4c7ca8",
+    "wof:hierarchy":[],
+    "wof:id":874006387,
+    "wof:lastmodified":1464310828,
+    "wof:name":"Cosat Body Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -109.037836,
+    44.533344,
+    -109.037836,
+    44.533344
+],
+  "geometry": {"coordinates":[-109.037836,44.533344],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874081945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.893746,42.973745,-106.893746,42.973745",
+    "geom:latitude":42.973745,
+    "geom:longitude":-106.893746,
+    "iso:country":"US",
+    "sg:address":"351 6 Mile Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 262 1396",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72Rg5sXHeM2ToV5J80hREr_42.973745_-106.893746@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311575,
+    "wof:geomhash":"d5c5a52c4452133c5b201fcfb3d9412e",
+    "wof:hierarchy":[],
+    "wof:id":874081945,
+    "wof:lastmodified":1464311575,
+    "wof:name":"G E Transportation Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -106.893746,
+    42.973745,
+    -106.893746,
+    42.973745
+],
+  "geometry": {"coordinates":[-106.89374599999999,42.973745],"type":"Point"}
+}

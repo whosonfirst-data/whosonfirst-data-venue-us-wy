@@ -1,0 +1,71 @@
+{
+  "id": 874048845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.549466,41.251738,-105.549466,41.251738",
+    "geom:latitude":41.251738,
+    "geom:longitude":-105.549466,
+    "iso:country":"US",
+    "sg:address":"3630 Howe Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5295",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21ObUVnzgD6MSfcVtQ30WV_41.251738_-105.549466@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311230,
+    "wof:geomhash":"c09853850b8784926bc9a8ed82ef8dc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874048845
+        }
+    ],
+    "wof:id":874048845,
+    "wof:lastmodified":1464311230,
+    "wof:name":"RC Image Advertising",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -105.549466,
+    41.251738,
+    -105.549466,
+    41.251738
+],
+  "geometry": {"coordinates":[-105.549466,41.251738],"type":"Point"}
+}

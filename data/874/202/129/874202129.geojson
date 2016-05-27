@@ -1,0 +1,83 @@
+{
+  "id": 874202129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.768243,41.37963,-105.768243,41.37963",
+    "geom:latitude":41.37963,
+    "geom:longitude":-105.768243,
+    "iso:country":"US",
+    "sg:address":"418 Herrick Ln",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8297",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "for",
+        "mfg",
+        "crop",
+        "preparation",
+        "prefabricated",
+        "wood",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h7EXrYM6qjJvj3lrVGg8i_41.379630_-105.768243@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312865,
+    "wof:geomhash":"dd3579df3e769d785e10e5b71323dc76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874202129
+        }
+    ],
+    "wof:id":874202129,
+    "wof:lastmodified":1464312865,
+    "wof:name":"Thompson Ent Firewood",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "for",
+        "mfg",
+        "crop",
+        "preparation",
+        "prefabricated",
+        "wood",
+        "market"
+    ]
+},
+  "bbox": [
+    -105.768243,
+    41.37963,
+    -105.768243,
+    41.37963
+],
+  "geometry": {"coordinates":[-105.768243,41.37963],"type":"Point"}
+}

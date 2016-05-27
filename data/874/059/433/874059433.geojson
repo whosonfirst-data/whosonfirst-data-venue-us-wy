@@ -1,0 +1,60 @@
+{
+  "id": 874059433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.800162,41.121919,-104.800162,41.121919",
+    "geom:latitude":41.121919,
+    "geom:longitude":-104.800162,
+    "iso:country":"US",
+    "sg:address":"520 E 1st St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 2113",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "suspension",
+        "frame",
+        "axle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LOh9H2JzlBqmjUpA8766y_41.121919_-104.800162@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311330,
+    "wof:geomhash":"614204d5cbcc05bbc0805031fea1dce7",
+    "wof:hierarchy":[],
+    "wof:id":874059433,
+    "wof:lastmodified":1464311330,
+    "wof:name":"Cheyenne Frame & Axle",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "suspension",
+        "frame",
+        "axle"
+    ]
+},
+  "bbox": [
+    -104.800162,
+    41.121919,
+    -104.800162,
+    41.121919
+],
+  "geometry": {"coordinates":[-104.800162,41.121919],"type":"Point"}
+}

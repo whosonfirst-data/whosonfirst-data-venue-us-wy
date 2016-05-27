@@ -1,0 +1,58 @@
+{
+  "id": 874048565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.214716,41.578164,-109.214716,41.578164",
+    "geom:latitude":41.578164,
+    "geom:longitude":-109.214716,
+    "iso:country":"US",
+    "sg:address":"809 Thompson St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 1835",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "blood",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3trNKkoDhZEItg4DjpLUCN_41.578164_-109.214716@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311228,
+    "wof:geomhash":"3ff6035e637ed8e90fa973839abf5b4b",
+    "wof:hierarchy":[],
+    "wof:id":874048565,
+    "wof:lastmodified":1464311228,
+    "wof:name":"United Blood Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blood",
+        "center"
+    ]
+},
+  "bbox": [
+    -109.214716,
+    41.578164,
+    -109.214716,
+    41.578164
+],
+  "geometry": {"coordinates":[-109.214716,41.578164],"type":"Point"}
+}

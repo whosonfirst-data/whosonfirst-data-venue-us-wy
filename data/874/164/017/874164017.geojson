@@ -1,0 +1,56 @@
+{
+  "id": 874164017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.222214,41.798656,-107.222214,41.798656",
+    "geom:latitude":41.798656,
+    "geom:longitude":-107.222214,
+    "iso:country":"US",
+    "sg:address":"1006 Stanford St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 5170",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P1RpxYfnffvVjTZin9RUz_41.798656_-107.222214@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312469,
+    "wof:geomhash":"f6c1649a798ff484d63c541c3d1a2b74",
+    "wof:hierarchy":[],
+    "wof:id":874164017,
+    "wof:lastmodified":1464312469,
+    "wof:name":"Smith Transfer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -107.222214,
+    41.798656,
+    -107.222214,
+    41.798656
+],
+  "geometry": {"coordinates":[-107.22221399999999,41.798656],"type":"Point"}
+}

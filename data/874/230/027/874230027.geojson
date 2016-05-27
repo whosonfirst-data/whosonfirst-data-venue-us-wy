@@ -1,0 +1,59 @@
+{
+  "id": 874230027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.694097,44.354212,-106.694097,44.354212",
+    "geom:latitude":44.354212,
+    "geom:longitude":-106.694097,
+    "iso:country":"US",
+    "sg:address":"350 E Hart St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/buffalo/135334-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 2428",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X42UJKjQBRBDeakvEz7UV_44.354212_-106.694097@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313160,
+    "wof:geomhash":"4b4f18837c4d5ca487c98657ad2255be",
+    "wof:hierarchy":[],
+    "wof:id":874230027,
+    "wof:lastmodified":1464313160,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -106.694097,
+    44.354212,
+    -106.694097,
+    44.354212
+],
+  "geometry": {"coordinates":[-106.694097,44.354212],"type":"Point"}
+}

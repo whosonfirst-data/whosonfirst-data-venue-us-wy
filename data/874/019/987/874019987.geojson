@@ -1,0 +1,69 @@
+{
+  "id": 874019987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.336958,42.832942,-106.336958,42.832942",
+    "geom:latitude":42.832942,
+    "geom:longitude":-106.336958,
+    "iso:country":"US",
+    "sg:address":"1743 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 2801",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tcBZrmaqSnleeUXa6mRRT_42.832942_-106.336958@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310948,
+    "wof:geomhash":"a2bcc130a1211dcd50da2dfaa4b9564c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874019987
+        }
+    ],
+    "wof:id":874019987,
+    "wof:lastmodified":1464310948,
+    "wof:name":"Hagerty Construction",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -106.336958,
+    42.832942,
+    -106.336958,
+    42.832942
+],
+  "geometry": {"coordinates":[-106.336958,42.832942],"type":"Point"}
+}

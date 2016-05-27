@@ -1,0 +1,71 @@
+{
+  "id": 874061507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.564807,41.257671,-105.564807,41.257671",
+    "geom:latitude":41.257671,
+    "geom:longitude":-105.564807,
+    "iso:country":"US",
+    "sg:address":"2471 Howe Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7080",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YaQWWk2YM2Nr0Y4gaHSK0_41.257671_-105.564807@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311349,
+    "wof:geomhash":"22e5b9ba9d25364048c77aebcf242f71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874061507
+        }
+    ],
+    "wof:id":874061507,
+    "wof:lastmodified":1464311349,
+    "wof:name":"Daniel Beasley",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -105.564807,
+    41.257671,
+    -105.564807,
+    41.257671
+],
+  "geometry": {"coordinates":[-105.564807,41.257671],"type":"Point"}
+}

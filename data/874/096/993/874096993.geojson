@@ -1,0 +1,80 @@
+{
+  "id": 874096993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.219884,41.588346,-109.219884,41.588346",
+    "geom:latitude":41.588346,
+    "geom:longitude":-109.219884,
+    "iso:country":"US",
+    "sg:address":"513 5th St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 2306",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop",
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vGorrR2a5EKJPBHuJoZxj_41.588346_-109.219884@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311743,
+    "wof:geomhash":"1cc2ce57f6f5a0e7c40c369a868b0407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874096993
+        }
+    ],
+    "wof:id":874096993,
+    "wof:lastmodified":1464311743,
+    "wof:name":"Main Place Styling Salon",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "operation"
+    ]
+},
+  "bbox": [
+    -109.219884,
+    41.588346,
+    -109.219884,
+    41.588346
+],
+  "geometry": {"coordinates":[-109.21988399999999,41.588346],"type":"Point"}
+}

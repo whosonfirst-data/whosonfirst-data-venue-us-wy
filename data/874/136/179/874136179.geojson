@@ -1,0 +1,56 @@
+{
+  "id": 874136179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.956757,42.049125,-104.956757,42.049125",
+    "geom:latitude":42.049125,
+    "geom:longitude":-104.956757,
+    "iso:country":"US",
+    "sg:address":"103 Park Ave",
+    "sg:city":"Wheatland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 322 3190",
+    "sg:postcode":"82201",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36pQhUz2z6xokAm76dw925_42.049125_-104.956757@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312201,
+    "wof:geomhash":"b8232c941e90a78acea8c0d21fe88504",
+    "wof:hierarchy":[],
+    "wof:id":874136179,
+    "wof:lastmodified":1464312201,
+    "wof:name":"Southeast Wyoming Mental Hlth",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -104.956757,
+    42.049125,
+    -104.956757,
+    42.049125
+],
+  "geometry": {"coordinates":[-104.956757,42.049125],"type":"Point"}
+}

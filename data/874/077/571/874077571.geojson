@@ -1,0 +1,58 @@
+{
+  "id": 874077571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.375685,42.847888,-106.375685,42.847888",
+    "geom:latitude":42.847888,
+    "geom:longitude":-106.375685,
+    "iso:country":"US",
+    "sg:address":"306 SW Wyoming Blvd",
+    "sg:city":"Mills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 2770",
+    "sg:postcode":"82644",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ATp2dL2EI55aKOYo6ttWS_42.847888_-106.375685@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311525,
+    "wof:geomhash":"1bd5ffce4e33f6eb15e756eb27e94ebc",
+    "wof:hierarchy":[],
+    "wof:id":874077571,
+    "wof:lastmodified":1464311525,
+    "wof:name":"Hansen Quik Lube Inc",
+    "wof:parent_id":420550301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -106.375685,
+    42.847888,
+    -106.375685,
+    42.847888
+],
+  "geometry": {"coordinates":[-106.375685,42.847888],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874071389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.302362,42.848694,-106.302362,42.848694",
+    "geom:latitude":42.848694,
+    "geom:longitude":-106.302362,
+    "iso:country":"US",
+    "sg:address":"1743 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 3805",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "laboratory",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JIkqoNxiyks6one0jV1km_42.848694_-106.302362@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311450,
+    "wof:geomhash":"5d7787b565535979ea3402b8b42a1044",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874071389
+        }
+    ],
+    "wof:id":874071389,
+    "wof:lastmodified":1464311450,
+    "wof:name":"Integrated Imaging",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "video"
+    ]
+},
+  "bbox": [
+    -106.302362,
+    42.848694,
+    -106.302362,
+    42.848694
+],
+  "geometry": {"coordinates":[-106.302362,42.848694],"type":"Point"}
+}

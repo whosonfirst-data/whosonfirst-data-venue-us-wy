@@ -1,0 +1,56 @@
+{
+  "id": 874165205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.805835,41.09562,-104.805835,41.09562",
+    "geom:latitude":41.09562,
+    "geom:longitude":-104.805835,
+    "iso:country":"US",
+    "sg:address":"2120 Neal Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 3640",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GIDsvsmuyomHP1CWZMBhT_41.095620_-104.805835@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312481,
+    "wof:geomhash":"92a0b928642f96291a0df911cb11972f",
+    "wof:hierarchy":[],
+    "wof:id":874165205,
+    "wof:lastmodified":1464312481,
+    "wof:name":"Wyoming Health Council",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health"
+    ]
+},
+  "bbox": [
+    -104.805835,
+    41.09562,
+    -104.805835,
+    41.09562
+],
+  "geometry": {"coordinates":[-104.805835,41.09562],"type":"Point"}
+}

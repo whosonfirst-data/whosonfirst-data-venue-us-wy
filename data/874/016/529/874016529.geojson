@@ -1,0 +1,56 @@
+{
+  "id": 874016529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.733452,42.833539,-108.733452,42.833539",
+    "geom:latitude":42.833539,
+    "geom:longitude":-108.733452,
+    "iso:country":"US",
+    "sg:address":"453 Main St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 9298",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25x68OMU498WhsVKYlis9o_42.833539_-108.733452@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310903,
+    "wof:geomhash":"d24bbb460f6ec61bc4aa714112de8394",
+    "wof:hierarchy":[],
+    "wof:id":874016529,
+    "wof:lastmodified":1464310903,
+    "wof:name":"El Sol De Mexico",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -108.733452,
+    42.833539,
+    -108.733452,
+    42.833539
+],
+  "geometry": {"coordinates":[-108.733452,42.833539],"type":"Point"}
+}

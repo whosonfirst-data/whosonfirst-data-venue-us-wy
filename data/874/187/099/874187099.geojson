@@ -1,0 +1,71 @@
+{
+  "id": 874187099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.59873,41.312283,-105.59873,41.312283",
+    "geom:latitude":41.312283,
+    "geom:longitude":-105.59873,
+    "iso:country":"US",
+    "sg:address":"200 S Hodgeman St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 9900",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EiIs92CsXRbHQcRbSsfrR_41.312283_-105.598730@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312710,
+    "wof:geomhash":"1c695a2e4f33dd6a466e024478e1dbe0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874187099
+        }
+    ],
+    "wof:id":874187099,
+    "wof:lastmodified":1464312710,
+    "wof:name":"Emanual Apostolic Temple",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -105.59873,
+    41.312283,
+    -105.59873,
+    41.312283
+],
+  "geometry": {"coordinates":[-105.59873,41.312283],"type":"Point"}
+}

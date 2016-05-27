@@ -1,0 +1,78 @@
+{
+  "id": 873991199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.566616,41.308702,-105.566616,41.308702",
+    "geom:latitude":41.308702,
+    "geom:longitude":-105.566616,
+    "iso:country":"US",
+    "sg:address":"2135 E Garfield St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5463",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xhuo1rfMW5e2tfgMSMBRg_41.308702_-105.566616@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310698,
+    "wof:geomhash":"66c111162ba32cbb7e30da1bda456561",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873991199
+        }
+    ],
+    "wof:id":873991199,
+    "wof:lastmodified":1464310698,
+    "wof:name":"Connection To Health LLC",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -105.566616,
+    41.308702,
+    -105.566616,
+    41.308702
+],
+  "geometry": {"coordinates":[-105.566616,41.308702],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 874056757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.582776,41.302905,-105.582776,41.302905",
+    "geom:latitude":41.302905,
+    "geom:longitude":-105.582776,
+    "iso:country":"US",
+    "sg:address":"1203 Russell St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 4410",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:website":"www.ac1.k12.wy.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z44m2tTsWukEAExc0UCBE_41.302905_-105.582776@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311307,
+    "wof:geomhash":"459a7cf877bc7bdc1e97e8789f62882d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874056757
+        }
+    ],
+    "wof:id":874056757,
+    "wof:lastmodified":1464311307,
+    "wof:name":"Spring Creek Elementary School",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.582776,
+    41.302905,
+    -105.582776,
+    41.302905
+],
+  "geometry": {"coordinates":[-105.582776,41.302905],"type":"Point"}
+}

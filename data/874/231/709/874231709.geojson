@@ -1,0 +1,69 @@
+{
+  "id": 874231709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.809976,41.052824,-104.809976,41.052824",
+    "geom:latitude":41.052824,
+    "geom:longitude":-104.809976,
+    "iso:country":"US",
+    "sg:address":"304 Progress Circle, Suite B",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 995 3282",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "data-center",
+        "cloud-computing",
+        "colocation",
+        "hosting",
+        "managed-hosting",
+        "dedicated-server",
+        "managed-servers"
+    ],
+    "sg:website":"http://www.greenhousedata.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SXcjoECIAXo9U33tZOjZy_41.052824_-104.809976@1308186499"
+    },
+    "wof:country":"US",
+    "wof:created":1464313183,
+    "wof:geomhash":"2173ee133ce0c35f02502c00b4cb37c1",
+    "wof:hierarchy":[],
+    "wof:id":874231709,
+    "wof:lastmodified":1464313183,
+    "wof:name":"Green House Data",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "data-center",
+        "cloud-computing",
+        "colocation",
+        "hosting",
+        "managed-hosting",
+        "dedicated-server",
+        "managed-servers"
+    ]
+},
+  "bbox": [
+    -104.809976,
+    41.052824,
+    -104.809976,
+    41.052824
+],
+  "geometry": {"coordinates":[-104.80997600000001,41.052824],"type":"Point"}
+}

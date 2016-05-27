@@ -1,0 +1,71 @@
+{
+  "id": 874118941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.562345,41.308326,-105.562345,41.308326",
+    "geom:latitude":41.308326,
+    "geom:longitude":-105.562345,
+    "iso:country":"US",
+    "sg:address":"414 S 24th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7256",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SqSc12Cd3v6v3TzcQwux3_41.308326_-105.562345@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312024,
+    "wof:geomhash":"6ca38a9da4355c5b9c5f8478650ca994",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874118941
+        }
+    ],
+    "wof:id":874118941,
+    "wof:lastmodified":1464312024,
+    "wof:name":"Open School",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "private"
+    ]
+},
+  "bbox": [
+    -105.562345,
+    41.308326,
+    -105.562345,
+    41.308326
+],
+  "geometry": {"coordinates":[-105.56234499999999,41.308326],"type":"Point"}
+}

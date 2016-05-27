@@ -1,0 +1,80 @@
+{
+  "id": 874103181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.319795,42.843559,-106.319795,42.843559",
+    "geom:latitude":42.843559,
+    "geom:longitude":-106.319795,
+    "iso:country":"US",
+    "sg:address":"636 S Park St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 4829",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant",
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56FFkl5Pg8KxmELAcrhiZF_42.843559_-106.319795@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311834,
+    "wof:geomhash":"f682e90d11dad5d1324381652e36ad6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874103181
+        }
+    ],
+    "wof:id":874103181,
+    "wof:lastmodified":1464311834,
+    "wof:name":"Burke Sheep Co Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -106.319795,
+    42.843559,
+    -106.319795,
+    42.843559
+],
+  "geometry": {"coordinates":[-106.319795,42.843559],"type":"Point"}
+}

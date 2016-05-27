@@ -1,0 +1,58 @@
+{
+  "id": 874166961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.4628,42.893543,-106.4628,42.893543",
+    "geom:latitude":42.893543,
+    "geom:longitude":-106.4628,
+    "iso:country":"US",
+    "sg:address":"3777 Airport Pkwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 8900",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "station",
+        "flight"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gvxtzMnWDWRal4w6h5Jfz_42.893543_-106.462800@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312497,
+    "wof:geomhash":"c7e0411fda60db942955e50f812d390d",
+    "wof:hierarchy":[],
+    "wof:id":874166961,
+    "wof:lastmodified":1464312497,
+    "wof:name":"Automated Flight Service Stn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "flight"
+    ]
+},
+  "bbox": [
+    -106.4628,
+    42.893543,
+    -106.4628,
+    42.893543
+],
+  "geometry": {"coordinates":[-106.4628,42.893543],"type":"Point"}
+}

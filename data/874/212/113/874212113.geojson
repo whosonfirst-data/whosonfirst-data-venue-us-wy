@@ -1,0 +1,69 @@
+{
+  "id": 874212113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.405558,42.863547,-106.405558,42.863547",
+    "geom:latitude":42.863547,
+    "geom:longitude":-106.405558,
+    "iso:country":"US",
+    "sg:address":"5635 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 0637",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RN4ZeqI21le72lMQZ4Osy_42.863547_-106.405558@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312975,
+    "wof:geomhash":"a6fab6267d020625b619f5647e13d7ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874212113
+        }
+    ],
+    "wof:id":874212113,
+    "wof:lastmodified":1464312975,
+    "wof:name":"U Know Svc Trucking",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -106.405558,
+    42.863547,
+    -106.405558,
+    42.863547
+],
+  "geometry": {"coordinates":[-106.405558,42.863547],"type":"Point"}
+}

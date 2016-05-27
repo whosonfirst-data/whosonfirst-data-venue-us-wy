@@ -1,0 +1,69 @@
+{
+  "id": 874167401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.283155,42.838258,-106.283155,42.838258",
+    "geom:latitude":42.838258,
+    "geom:longitude":-106.283155,
+    "iso:country":"US",
+    "sg:address":"1441 Ivy Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 4999",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y6eh3OTPqBmbiRWY4RpyG_42.838258_-106.283155@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312501,
+    "wof:geomhash":"b7bd139726419abd590d6c399cd50657",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874167401
+        }
+    ],
+    "wof:id":874167401,
+    "wof:lastmodified":1464312501,
+    "wof:name":"Martin Svcs & Investigation",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -106.283155,
+    42.838258,
+    -106.283155,
+    42.838258
+],
+  "geometry": {"coordinates":[-106.28315499999999,42.838258],"type":"Point"}
+}

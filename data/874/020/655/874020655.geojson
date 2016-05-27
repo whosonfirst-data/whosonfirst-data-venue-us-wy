@@ -1,0 +1,56 @@
+{
+  "id": 874020655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.259375,41.787053,-107.259375,41.787053",
+    "geom:latitude":41.787053,
+    "geom:longitude":-107.259375,
+    "iso:country":"US",
+    "sg:address":"2012 Elm St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 6022",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cRDVc3aq8eODwSe8p4uaG_41.787053_-107.259375@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310953,
+    "wof:geomhash":"a25a42d5724a6e59eeb7ba532a179ba3",
+    "wof:hierarchy":[],
+    "wof:id":874020655,
+    "wof:lastmodified":1464310953,
+    "wof:name":"Wagon Circle Medical Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -107.259375,
+    41.787053,
+    -107.259375,
+    41.787053
+],
+  "geometry": {"coordinates":[-107.25937500000001,41.787053],"type":"Point"}
+}

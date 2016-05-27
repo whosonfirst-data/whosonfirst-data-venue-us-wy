@@ -1,0 +1,68 @@
+{
+  "id": 874044739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.184314,42.06388,-104.184314,42.06388",
+    "geom:latitude":42.06388,
+    "geom:longitude":-104.184314,
+    "iso:country":"US",
+    "sg:address":"1915 Main St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 2982",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101733937,
+        102080733,
+        85850153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SeAgCStJHGsz12rQSOCio_42.063880_-104.184314@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311191,
+    "wof:geomhash":"e2e3937cec7a5d338f6c4b04975927bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080733,
+            "locality_id":101733937,
+            "neighbourhood_id":85850153,
+            "region_id":85688475,
+            "venue_id":874044739
+        }
+    ],
+    "wof:id":874044739,
+    "wof:lastmodified":1464311191,
+    "wof:name":"Grampa Chuy's Mexican Rstrnt",
+    "wof:parent_id":85850153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.184314,
+    42.06388,
+    -104.184314,
+    42.06388
+],
+  "geometry": {"coordinates":[-104.184314,42.06388],"type":"Point"}
+}

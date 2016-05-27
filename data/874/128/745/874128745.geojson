@@ -1,0 +1,58 @@
+{
+  "id": 874128745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.9555,44.810757,-106.9555,44.810757",
+    "geom:latitude":44.810757,
+    "geom:longitude":-106.9555,
+    "iso:country":"US",
+    "sg:address":"1235 N Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 8091",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HazXY7pvjoAIJXy36b1Mn_44.810757_-106.955500@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312118,
+    "wof:geomhash":"2e3047cb17d307c84277260945f96af4",
+    "wof:hierarchy":[],
+    "wof:id":874128745,
+    "wof:lastmodified":1464312118,
+    "wof:name":"Hendrickson Electrical Cntrct",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.9555,
+    44.810757,
+    -106.9555,
+    44.810757
+],
+  "geometry": {"coordinates":[-106.9555,44.810757],"type":"Point"}
+}

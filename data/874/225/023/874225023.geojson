@@ -1,0 +1,56 @@
+{
+  "id": 874225023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.525839,44.29919,-105.525839,44.29919",
+    "geom:latitude":44.29919,
+    "geom:longitude":-105.525839,
+    "iso:country":"US",
+    "sg:address":"631 Commercial Dr",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 5557",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lxF72SePTw1tsEtZuRSri_44.299190_-105.525839@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313112,
+    "wof:geomhash":"cee12012f4fbfa92b8202a3d2260182c",
+    "wof:hierarchy":[],
+    "wof:id":874225023,
+    "wof:lastmodified":1464313112,
+    "wof:name":"Decker's Food Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -105.525839,
+    44.29919,
+    -105.525839,
+    44.29919
+],
+  "geometry": {"coordinates":[-105.525839,44.29919],"type":"Point"}
+}

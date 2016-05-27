@@ -1,0 +1,64 @@
+{
+  "id": 874019435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.331053,42.847002,-106.331053,42.847002",
+    "geom:latitude":42.847002,
+    "geom:longitude":-106.331053,
+    "iso:country":"US",
+    "sg:address":"613 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 6707",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g1PpxcxeHNSZONpDEU3sP_42.847002_-106.331053@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310942,
+    "wof:geomhash":"1b80b75b7bbbebff18a680beac5d6248",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874019435
+        }
+    ],
+    "wof:id":874019435,
+    "wof:lastmodified":1464310942,
+    "wof:name":"Rumars Salon",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.331053,
+    42.847002,
+    -106.331053,
+    42.847002
+],
+  "geometry": {"coordinates":[-106.331053,42.847002],"type":"Point"}
+}

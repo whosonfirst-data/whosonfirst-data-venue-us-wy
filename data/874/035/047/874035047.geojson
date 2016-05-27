@@ -1,0 +1,60 @@
+{
+  "id": 874035047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.699157,44.349191,-106.699157,44.349191",
+    "geom:latitude":44.349191,
+    "geom:longitude":-106.699157,
+    "iso:country":"US",
+    "sg:address":"178 N Main St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 7442",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "auto",
+        "mfg",
+        "glass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UP8wZwVOeJ5z932V62sDz_44.349191_-106.699157@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311094,
+    "wof:geomhash":"b3b24061e6ef5f52bf46aba7a46cac22",
+    "wof:hierarchy":[],
+    "wof:id":874035047,
+    "wof:lastmodified":1464311094,
+    "wof:name":"Main Street Glass",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "mfg",
+        "glass"
+    ]
+},
+  "bbox": [
+    -106.699157,
+    44.349191,
+    -106.699157,
+    44.349191
+],
+  "geometry": {"coordinates":[-106.699157,44.349191],"type":"Point"}
+}

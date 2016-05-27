@@ -1,0 +1,71 @@
+{
+  "id": 874076003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.330329,42.852037,-106.330329,42.852037",
+    "geom:latitude":42.852037,
+    "geom:longitude":-106.330329,
+    "iso:country":"US",
+    "sg:address":"408 W B St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1443",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "window",
+        "drapery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xRGnbEbMxOdEKpOHDmoKE_42.852037_-106.330329@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311511,
+    "wof:geomhash":"8bf86986b049a4cba6e56acf4c90f4ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874076003
+        }
+    ],
+    "wof:id":874076003,
+    "wof:lastmodified":1464311511,
+    "wof:name":"Wyoming Drapery Supply",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "drapery"
+    ]
+},
+  "bbox": [
+    -106.330329,
+    42.852037,
+    -106.330329,
+    42.852037
+],
+  "geometry": {"coordinates":[-106.33032900000001,42.852037],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 874185449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.773294,41.118538,-104.773294,41.118538",
+    "geom:latitude":41.118538,
+    "geom:longitude":-104.773294,
+    "iso:country":"US",
+    "sg:address":"1710 Persons Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 1890",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1C6rgma4KfRnunZtFepVNj_41.118538_-104.773294@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312695,
+    "wof:geomhash":"ba215da52ace20d92d405497d86217fe",
+    "wof:hierarchy":[],
+    "wof:id":874185449,
+    "wof:lastmodified":1464312695,
+    "wof:name":"Pet Parlors & Sitters",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -104.773294,
+    41.118538,
+    -104.773294,
+    41.118538
+],
+  "geometry": {"coordinates":[-104.77329400000001,41.118538],"type":"Point"}
+}

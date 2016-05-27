@@ -1,0 +1,56 @@
+{
+  "id": 874136463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.039008,44.378576,-108.039008,44.378576",
+    "geom:latitude":44.378576,
+    "geom:longitude":-108.039008,
+    "iso:country":"US",
+    "sg:address":"388 US Hwy 20",
+    "sg:city":"Basin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 568 3312",
+    "sg:postcode":"82410",
+    "sg:province":"WY",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c5LAEk91GEIJFwIs3tPXN_44.378576_-108.039008@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312204,
+    "wof:geomhash":"1db6ca8b553ab72ea5a7d6d4eddf6d16",
+    "wof:hierarchy":[],
+    "wof:id":874136463,
+    "wof:lastmodified":1464312204,
+    "wof:name":"Midway Medical Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -108.039008,
+    44.378576,
+    -108.039008,
+    44.378576
+],
+  "geometry": {"coordinates":[-108.039008,44.378576],"type":"Point"}
+}

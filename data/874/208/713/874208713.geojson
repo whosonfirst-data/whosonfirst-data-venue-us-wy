@@ -1,0 +1,69 @@
+{
+  "id": 874208713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.932005,44.302875,-104.932005,44.302875",
+    "geom:latitude":44.302875,
+    "geom:longitude":-104.932005,
+    "iso:country":"US",
+    "sg:address":"81 Prairie St",
+    "sg:city":"Moorcroft",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 756 9837",
+    "sg:postcode":"82721",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76py2dzlhb11QauHc4WhLc_44.302875_-104.932005@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312936,
+    "wof:geomhash":"0fa3cc4dc37b1fba4586320da12b2e50",
+    "wof:hierarchy":[],
+    "wof:id":874208713,
+    "wof:lastmodified":1464312936,
+    "wof:name":"John's Refrigeration & AC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -104.932005,
+    44.302875,
+    -104.932005,
+    44.302875
+],
+  "geometry": {"coordinates":[-104.932005,44.302875],"type":"Point"}
+}

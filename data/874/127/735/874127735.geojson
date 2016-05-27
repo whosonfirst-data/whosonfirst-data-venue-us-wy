@@ -1,0 +1,71 @@
+{
+  "id": 874127735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.28124,42.852589,-106.28124,42.852589",
+    "geom:latitude":42.852589,
+    "geom:longitude":-106.28124,
+    "iso:country":"US",
+    "sg:address":"350 N Forest Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 0379",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72OljWkyRd2AnkuYgJnS2z_42.852589_-106.281240@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312109,
+    "wof:geomhash":"34b9036122c70b6779be8cf78c5fdeab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874127735
+        }
+    ],
+    "wof:id":874127735,
+    "wof:lastmodified":1464312109,
+    "wof:name":"Terrace II",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -106.28124,
+    42.852589,
+    -106.28124,
+    42.852589
+],
+  "geometry": {"coordinates":[-106.28124,42.852589],"type":"Point"}
+}

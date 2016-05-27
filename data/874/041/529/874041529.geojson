@@ -1,0 +1,56 @@
+{
+  "id": 874041529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.838229,41.143309,-104.838229,41.143309",
+    "geom:latitude":41.143309,
+    "geom:longitude":-104.838229,
+    "iso:country":"US",
+    "sg:address":"1407 Cosgriff Ct",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 771 2316",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53gAObK8dgWLA6Lwez5naj_41.143309_-104.838229@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311157,
+    "wof:geomhash":"6e39f21957cd45286aad2703347c4ab1",
+    "wof:hierarchy":[],
+    "wof:id":874041529,
+    "wof:lastmodified":1464311157,
+    "wof:name":"Pioneer Park Elementary School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -104.838229,
+    41.143309,
+    -104.838229,
+    41.143309
+],
+  "geometry": {"coordinates":[-104.838229,41.143309],"type":"Point"}
+}

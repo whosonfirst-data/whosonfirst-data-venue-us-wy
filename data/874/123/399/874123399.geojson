@@ -1,0 +1,58 @@
+{
+  "id": 874123399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.825947,41.129926,-104.825947,41.129926",
+    "geom:latitude":41.129926,
+    "geom:longitude":-104.825947,
+    "iso:country":"US",
+    "sg:address":"1002 W 17th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 7825",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RrSedUhtAM0lsZZyqrl76_41.129926_-104.825947@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312072,
+    "wof:geomhash":"2d11e83a35d35f392f8c875bb29c7d88",
+    "wof:hierarchy":[],
+    "wof:id":874123399,
+    "wof:lastmodified":1464312072,
+    "wof:name":"Randy's Towing Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -104.825947,
+    41.129926,
+    -104.825947,
+    41.129926
+],
+  "geometry": {"coordinates":[-104.825947,41.129926],"type":"Point"}
+}

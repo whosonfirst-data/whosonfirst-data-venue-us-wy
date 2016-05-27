@@ -1,0 +1,58 @@
+{
+  "id": 874099453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.46043,44.21949,-105.46043,44.21949",
+    "geom:latitude":44.21949,
+    "geom:longitude":-105.46043,
+    "iso:country":"US",
+    "sg:address":"2501 Antler Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 5752",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28CGuP16eDcuh5ro2ihNSZ_44.219490_-105.460430@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311780,
+    "wof:geomhash":"8e5b5c68a18f947ad935665ed78b5f43",
+    "wof:hierarchy":[],
+    "wof:id":874099453,
+    "wof:lastmodified":1464311780,
+    "wof:name":"J & J Plumbing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.46043,
+    44.21949,
+    -105.46043,
+    44.21949
+],
+  "geometry": {"coordinates":[-105.46043,44.21949],"type":"Point"}
+}

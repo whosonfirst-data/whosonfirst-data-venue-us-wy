@@ -1,0 +1,73 @@
+{
+  "id": 874180109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33101,42.803601,-106.33101,42.803601",
+    "geom:latitude":42.803601,
+    "geom:longitude":-106.33101,
+    "iso:country":"US",
+    "sg:address":"4931 S Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 0091",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fQmsuJzJNgXHDuODAUdOG_42.803601_-106.331010@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312631,
+    "wof:geomhash":"9d3b4e166c6b376c4703f61adf804ddd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874180109
+        }
+    ],
+    "wof:id":874180109,
+    "wof:lastmodified":1464312631,
+    "wof:name":"Oil & Gas Equipment Consulting",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ]
+},
+  "bbox": [
+    -106.33101,
+    42.803601,
+    -106.33101,
+    42.803601
+],
+  "geometry": {"coordinates":[-106.33101000000001,42.803601],"type":"Point"}
+}

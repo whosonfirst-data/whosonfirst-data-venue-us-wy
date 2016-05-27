@@ -1,0 +1,65 @@
+{
+  "id": 874055465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.37068,42.820626,-106.37068,42.820626",
+    "geom:latitude":42.820626,
+    "geom:longitude":-106.37068,
+    "iso:country":"US",
+    "sg:address":"4015 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 2755",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:website":"www.sutherlands.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15cmhCBlZ86OQYAFs1fDfy_42.820626_-106.370680@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311296,
+    "wof:geomhash":"17121e9ba89d7556ed8fe014b4a44839",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874055465
+        }
+    ],
+    "wof:id":874055465,
+    "wof:lastmodified":1464311296,
+    "wof:name":"Sutherlands Lumber Co",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.37068,
+    42.820626,
+    -106.37068,
+    42.820626
+],
+  "geometry": {"coordinates":[-106.37067999999999,42.820626],"type":"Point"}
+}

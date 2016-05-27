@@ -1,0 +1,64 @@
+{
+  "id": 874076663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.42751,42.808383,-106.42751,42.808383",
+    "geom:latitude":42.808383,
+    "geom:longitude":-106.42751,
+    "iso:country":"US",
+    "sg:address":"4143 Monument Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5604",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QJ6qPC7mWvgtfhqMagrDe_42.808383_-106.427510@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311517,
+    "wof:geomhash":"a43da27ef4e0e93c72c7cd6f64c4a804",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874076663
+        }
+    ],
+    "wof:id":874076663,
+    "wof:lastmodified":1464311517,
+    "wof:name":"Wyoming Auto & Rv LLC",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.42751,
+    42.808383,
+    -106.42751,
+    42.808383
+],
+  "geometry": {"coordinates":[-106.42751,42.808383],"type":"Point"}
+}

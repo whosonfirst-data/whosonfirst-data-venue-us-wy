@@ -1,0 +1,56 @@
+{
+  "id": 874069971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.611112,43.524105,-109.611112,43.524105",
+    "geom:latitude":43.524105,
+    "geom:longitude":-109.611112,
+    "iso:country":"US",
+    "sg:address":"31 Gilliland Ave",
+    "sg:city":"Dubois",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 455 2538",
+    "sg:postcode":"82513",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FF6GSvY3JSCwpNmEQ40O0_43.524105_-109.611112@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311432,
+    "wof:geomhash":"5621e39af7c895ed51bf68e4ad830b38",
+    "wof:hierarchy":[],
+    "wof:id":874069971,
+    "wof:lastmodified":1464311432,
+    "wof:name":"East Fork Veterinary Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -109.611112,
+    43.524105,
+    -109.611112,
+    43.524105
+],
+  "geometry": {"coordinates":[-109.61111200000001,43.524105],"type":"Point"}
+}

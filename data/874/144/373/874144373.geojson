@@ -1,0 +1,60 @@
+{
+  "id": 874144373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.822852,41.129842,-104.822852,41.129842",
+    "geom:latitude":41.129842,
+    "geom:longitude":-104.822852,
+    "iso:country":"US",
+    "sg:address":"821 W Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 3800",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cJXut3T4TjIU70BjgDCQW_41.129842_-104.822852@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312275,
+    "wof:geomhash":"b853bcdf89e285c497050db8ab3dc508",
+    "wof:hierarchy":[],
+    "wof:id":874144373,
+    "wof:lastmodified":1464312275,
+    "wof:name":"Lewis Auto Body",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -104.822852,
+    41.129842,
+    -104.822852,
+    41.129842
+],
+  "geometry": {"coordinates":[-104.822852,41.129842],"type":"Point"}
+}

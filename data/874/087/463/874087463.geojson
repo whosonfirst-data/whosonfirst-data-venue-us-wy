@@ -1,0 +1,58 @@
+{
+  "id": 874087463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.977356,44.807396,-106.977356,44.807396",
+    "geom:latitude":44.807396,
+    "geom:longitude":-106.977356,
+    "iso:country":"US",
+    "sg:address":"1458 W 5th St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 673 9729",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical",
+        "imaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SljQs1NNAHt5HToxJ5zj0_44.807396_-106.977356@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311635,
+    "wof:geomhash":"1a267f62b63d4cc92403b8aba6ce5f99",
+    "wof:hierarchy":[],
+    "wof:id":874087463,
+    "wof:lastmodified":1464311635,
+    "wof:name":"Sheridan Medical Imaging",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "imaging"
+    ]
+},
+  "bbox": [
+    -106.977356,
+    44.807396,
+    -106.977356,
+    44.807396
+],
+  "geometry": {"coordinates":[-106.977356,44.807396],"type":"Point"}
+}

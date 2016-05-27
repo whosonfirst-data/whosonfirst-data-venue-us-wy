@@ -1,0 +1,58 @@
+{
+  "id": 874031299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.500401,44.277341,-105.500401,44.277341",
+    "geom:latitude":44.277341,
+    "geom:longitude":-105.500401,
+    "iso:country":"US",
+    "sg:address":"325 E Boxelder Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 6361",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V8CFhyDrurIP0npGm4Kcx_44.277341_-105.500401@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311060,
+    "wof:geomhash":"7795bc50ef470425eb535478dbecfc5a",
+    "wof:hierarchy":[],
+    "wof:id":874031299,
+    "wof:lastmodified":1464311060,
+    "wof:name":"Valley View Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -105.500401,
+    44.277341,
+    -105.500401,
+    44.277341
+],
+  "geometry": {"coordinates":[-105.500401,44.277341],"type":"Point"}
+}

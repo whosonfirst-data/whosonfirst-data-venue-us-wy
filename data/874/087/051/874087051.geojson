@@ -1,0 +1,58 @@
+{
+  "id": 874087051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.75001,44.752399,-108.75001,44.752399",
+    "geom:latitude":44.752399,
+    "geom:longitude":-108.75001,
+    "iso:country":"US",
+    "sg:address":"611 E North St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 9539",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e3dqXopnjxPl83XdSHtEe_44.752399_-108.750010@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311631,
+    "wof:geomhash":"b5db86eaa3dca2b2a8945462400dcefb",
+    "wof:hierarchy":[],
+    "wof:id":874087051,
+    "wof:lastmodified":1464311631,
+    "wof:name":"Busch Agricultural Seed Plant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -108.75001,
+    44.752399,
+    -108.75001,
+    44.752399
+],
+  "geometry": {"coordinates":[-108.75001,44.752399],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 874095529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33352,42.844798,-106.33352,42.844798",
+    "geom:latitude":42.844798,
+    "geom:longitude":-106.33352,
+    "iso:country":"US",
+    "sg:address":"520 S Walnut St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 6650",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "sg:website":"www.yfc.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iIGyPmEjyadiwLjqaXQd8_42.844798_-106.333520@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311719,
+    "wof:geomhash":"14b676a93ffe69a5d518d54dd1c685b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874095529
+        }
+    ],
+    "wof:id":874095529,
+    "wof:lastmodified":1464311719,
+    "wof:name":"Youth For Christ",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "organization",
+        "center"
+    ]
+},
+  "bbox": [
+    -106.33352,
+    42.844798,
+    -106.33352,
+    42.844798
+],
+  "geometry": {"coordinates":[-106.33351999999999,42.844798],"type":"Point"}
+}

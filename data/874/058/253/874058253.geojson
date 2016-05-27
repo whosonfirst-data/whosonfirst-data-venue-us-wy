@@ -1,0 +1,80 @@
+{
+  "id": 874058253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.605585,41.314681,-105.605585,41.314681",
+    "geom:latitude":41.314681,
+    "geom:longitude":-105.605585,
+    "iso:country":"US",
+    "sg:address":"569 State Hwy 230",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 1921",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sport",
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iFqOyqm0ZagnI77nJeQDR_41.314681_-105.605585@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311319,
+    "wof:geomhash":"135283965ab967b416c4719f81e888ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874058253
+        }
+    ],
+    "wof:id":874058253,
+    "wof:lastmodified":1464311319,
+    "wof:name":"C & S Tractor and Equipment",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sport",
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -105.605585,
+    41.314681,
+    -105.605585,
+    41.314681
+],
+  "geometry": {"coordinates":[-105.605585,41.314681],"type":"Point"}
+}

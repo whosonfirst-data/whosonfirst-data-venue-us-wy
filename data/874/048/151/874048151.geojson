@@ -1,0 +1,71 @@
+{
+  "id": 874048151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.298165,42.849599,-106.298165,42.849599",
+    "geom:latitude":42.849599,
+    "geom:longitude":-106.298165,
+    "iso:country":"US",
+    "sg:address":"162 S Beverly St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 0915",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "psychic",
+        "medium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VfcdBJeOTd3EKABmLqGxj_42.849599_-106.298165@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311225,
+    "wof:geomhash":"fc4bb3b47608237279f7e6c6e35064c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874048151
+        }
+    ],
+    "wof:id":874048151,
+    "wof:lastmodified":1464311225,
+    "wof:name":"Palm & Tarot Card Reading",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychic",
+        "medium"
+    ]
+},
+  "bbox": [
+    -106.298165,
+    42.849599,
+    -106.298165,
+    42.849599
+],
+  "geometry": {"coordinates":[-106.298165,42.849599],"type":"Point"}
+}

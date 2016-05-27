@@ -1,0 +1,56 @@
+{
+  "id": 874220055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.816639,41.132787,-104.816639,41.132787",
+    "geom:latitude":41.132787,
+    "geom:longitude":-104.816639,
+    "iso:country":"US",
+    "sg:address":"1651 Carey Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 433 1470",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DBIyqZTzryZpB8p1YeFoq_41.132787_-104.816639@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313061,
+    "wof:geomhash":"ed56b7d7996ec868392ba07e8ffb05b3",
+    "wof:hierarchy":[],
+    "wof:id":874220055,
+    "wof:lastmodified":1464313061,
+    "wof:name":"Wyomingcom",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -104.816639,
+    41.132787,
+    -104.816639,
+    41.132787
+],
+  "geometry": {"coordinates":[-104.816639,41.132787],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874140999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.202674,43.856643,-104.202674,43.856643",
+    "geom:latitude":43.856643,
+    "geom:longitude":-104.202674,
+    "iso:country":"US",
+    "sg:address":"6 W Warwick St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 3547",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05bL0QQpC8mhYMqLEJe5pd_43.856643_-104.202674@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312243,
+    "wof:geomhash":"9aa3b8f733f319fadc40fb143708e1c7",
+    "wof:hierarchy":[],
+    "wof:id":874140999,
+    "wof:lastmodified":1464312243,
+    "wof:name":"Weston County Circuit Court",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -104.202674,
+    43.856643,
+    -104.202674,
+    43.856643
+],
+  "geometry": {"coordinates":[-104.202674,43.856643],"type":"Point"}
+}

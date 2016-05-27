@@ -1,0 +1,51 @@
+{
+  "id": 874055749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.800551,41.100326,-104.800551,41.100326",
+    "geom:latitude":41.100326,
+    "geom:longitude":-104.800551,
+    "iso:country":"US",
+    "sg:address":"1800 S Greeley Hwy",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 8648",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22Ab0RljSNGsNqJjASjxD1_41.100326_-104.800551@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311299,
+    "wof:geomhash":"877755d435612ce5dab59f31bd034c3a",
+    "wof:hierarchy":[],
+    "wof:id":874055749,
+    "wof:lastmodified":1464311299,
+    "wof:name":"Wyoming Auto Auctions",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.800551,
+    41.100326,
+    -104.800551,
+    41.100326
+],
+  "geometry": {"coordinates":[-104.800551,41.100326],"type":"Point"}
+}

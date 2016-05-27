@@ -1,0 +1,56 @@
+{
+  "id": 874172711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.471932,41.513194,-109.471932,41.513194",
+    "geom:latitude":41.513194,
+    "geom:longitude":-109.471932,
+    "iso:country":"US",
+    "sg:address":"661 Uinta Dr",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 3658",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SDcTshmA1RJ3Z8vZhoaSb_41.513194_-109.471932@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312556,
+    "wof:geomhash":"9744b06181125fbceb12bcb243baac96",
+    "wof:hierarchy":[],
+    "wof:id":874172711,
+    "wof:lastmodified":1464312556,
+    "wof:name":"Louis R Christensen DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -109.471932,
+    41.513194,
+    -109.471932,
+    41.513194
+],
+  "geometry": {"coordinates":[-109.471932,41.513194],"type":"Point"}
+}

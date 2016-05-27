@@ -1,0 +1,65 @@
+{
+  "id": 874103215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.81626,41.17107,-104.81626,41.17107",
+    "geom:latitude":41.17107,
+    "geom:longitude":-104.81626,
+    "iso:country":"US",
+    "sg:address":"5618 Marshall Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 9713",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sanitary",
+        "snow",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KcDVg8esWk0PRBtMkasUq_41.171070_-104.816260@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311834,
+    "wof:geomhash":"01dde9504a85ea17d9c6d4293bd31b4f",
+    "wof:hierarchy":[],
+    "wof:id":874103215,
+    "wof:lastmodified":1464311834,
+    "wof:name":"Mini Maintenance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitary",
+        "snow",
+        "removal"
+    ]
+},
+  "bbox": [
+    -104.81626,
+    41.17107,
+    -104.81626,
+    41.17107
+],
+  "geometry": {"coordinates":[-104.81626,41.17107],"type":"Point"}
+}

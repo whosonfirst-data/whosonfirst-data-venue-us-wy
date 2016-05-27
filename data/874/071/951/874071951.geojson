@@ -1,0 +1,69 @@
+{
+  "id": 874071951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.379468,42.822453,-106.379468,42.822453",
+    "geom:latitude":42.822453,
+    "geom:longitude":-106.379468,
+    "iso:country":"US",
+    "sg:address":"2360 Johnstone Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 6427",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_734vZUROxL8bos4ABw95CE_42.822453_-106.379468@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311460,
+    "wof:geomhash":"5be8468c6f86440bf2b1d7bfa6511943",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874071951
+        }
+    ],
+    "wof:id":874071951,
+    "wof:lastmodified":1464311460,
+    "wof:name":"Custom Auto & Lighting",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -106.379468,
+    42.822453,
+    -106.379468,
+    42.822453
+],
+  "geometry": {"coordinates":[-106.379468,42.822453],"type":"Point"}
+}

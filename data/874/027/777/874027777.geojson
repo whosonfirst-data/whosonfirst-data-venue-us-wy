@@ -1,0 +1,75 @@
+{
+  "id": 874027777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591602,41.304226,-105.591602,41.304226",
+    "geom:latitude":41.304226,
+    "geom:longitude":-105.591602,
+    "iso:country":"US",
+    "sg:address":"1005 S 5th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8745",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "operator",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_101bfaLp1XpeVODboNCEEO_41.304226_-105.591602@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311023,
+    "wof:geomhash":"106b7a152b1bf6a4eb285c6786bed128",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874027777
+        }
+    ],
+    "wof:id":874027777,
+    "wof:lastmodified":1464311023,
+    "wof:name":"Vista Management LLC",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operator",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -105.591602,
+    41.304226,
+    -105.591602,
+    41.304226
+],
+  "geometry": {"coordinates":[-105.59160199999999,41.304226],"type":"Point"}
+}

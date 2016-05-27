@@ -1,0 +1,56 @@
+{
+  "id": 874091465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.471535,41.51412,-109.471535,41.51412",
+    "geom:latitude":41.51412,
+    "geom:longitude":-109.471535,
+    "iso:country":"US",
+    "sg:address":"535 Uinta Dr",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 7976",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Gjl0BMQhr2DBjjc42aD9V_41.514120_-109.471535@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311681,
+    "wof:geomhash":"79fa1c819fcb53f2985bf4323e31f25c",
+    "wof:hierarchy":[],
+    "wof:id":874091465,
+    "wof:lastmodified":1464311681,
+    "wof:name":"Rocky Mountain Home Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -109.471535,
+    41.51412,
+    -109.471535,
+    41.51412
+],
+  "geometry": {"coordinates":[-109.471535,41.51412],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874110743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.453188,42.755373,-104.453188,42.755373",
+    "geom:latitude":42.755373,
+    "geom:longitude":-104.453188,
+    "iso:country":"US",
+    "sg:address":"207 W 8th St",
+    "sg:city":"Lusk",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 334 3814",
+    "sg:postcode":"82225",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vjEcJ9SJoCwRLiziMxlOa_42.755373_-104.453188@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311935,
+    "wof:geomhash":"e80002898037faaf5ffade661fa1bca6",
+    "wof:hierarchy":[],
+    "wof:id":874110743,
+    "wof:lastmodified":1464311935,
+    "wof:name":"Wyoming Port Of Entry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -104.453188,
+    42.755373,
+    -104.453188,
+    42.755373
+],
+  "geometry": {"coordinates":[-104.453188,42.755373],"type":"Point"}
+}

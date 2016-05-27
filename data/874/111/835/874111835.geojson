@@ -1,0 +1,75 @@
+{
+  "id": 874111835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.34151,42.832124,-106.34151,42.832124",
+    "geom:latitude":42.832124,
+    "geom:longitude":-106.34151,
+    "iso:country":"US",
+    "sg:address":"2024 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 7526",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lounge",
+        "grill",
+        "bar",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1loOpmSDnQrHCXZ0P7UU7D_42.832124_-106.341510@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311955,
+    "wof:geomhash":"bc962a664b0f01734a026769e51f91f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874111835
+        }
+    ],
+    "wof:id":874111835,
+    "wof:lastmodified":1464311955,
+    "wof:name":"T J's Bar & Grill",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "grill",
+        "bar",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -106.34151,
+    42.832124,
+    -106.34151,
+    42.832124
+],
+  "geometry": {"coordinates":[-106.34151,42.832124],"type":"Point"}
+}

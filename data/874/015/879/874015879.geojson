@@ -1,0 +1,56 @@
+{
+  "id": 874015879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.108943,43.725912,-111.108943,43.725912",
+    "geom:latitude":43.725912,
+    "geom:longitude":-111.108943,
+    "iso:country":"US",
+    "sg:address":"221 S 1st St E",
+    "sg:city":"Driggs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 354 8806",
+    "sg:postcode":"83422",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1My04xHMe4yC41UAla1Gl1_43.725912_-111.108943@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310898,
+    "wof:geomhash":"a752583c44b7ab62e872e5c432bba552",
+    "wof:hierarchy":[],
+    "wof:id":874015879,
+    "wof:lastmodified":1464310898,
+    "wof:name":"Driggs Second LDS Ward",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -111.108943,
+    43.725912,
+    -111.108943,
+    43.725912
+],
+  "geometry": {"coordinates":[-111.108943,43.725912],"type":"Point"}
+}

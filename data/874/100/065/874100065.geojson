@@ -1,0 +1,56 @@
+{
+  "id": 874100065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.18431,42.065912,-104.18431,42.065912",
+    "geom:latitude":42.065912,
+    "geom:longitude":-104.18431,
+    "iso:country":"US",
+    "sg:address":"2109 Main St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 7890",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RLwHgI8LYWu7bGYCj8q1E_42.065912_-104.184310@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311794,
+    "wof:geomhash":"da2d25e4ad2858d98b53946274f5859d",
+    "wof:hierarchy":[],
+    "wof:id":874100065,
+    "wof:lastmodified":1464311794,
+    "wof:name":"North Main Studio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -104.18431,
+    42.065912,
+    -104.18431,
+    42.065912
+],
+  "geometry": {"coordinates":[-104.18431,42.065912],"type":"Point"}
+}

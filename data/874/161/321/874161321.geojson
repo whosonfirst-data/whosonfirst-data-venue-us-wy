@@ -1,0 +1,58 @@
+{
+  "id": 874161321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.956079,44.820513,-106.956079,44.820513",
+    "geom:latitude":44.820513,
+    "geom:longitude":-106.956079,
+    "iso:country":"US",
+    "sg:address":"44 Fort Rd",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 4436",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78200oU9p8xsQKgLqQZHet_44.820513_-106.956079@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312445,
+    "wof:geomhash":"8096ecc7b3c6ebda436b56d5623c5db4",
+    "wof:hierarchy":[],
+    "wof:id":874161321,
+    "wof:lastmodified":1464312445,
+    "wof:name":"PBI Heating & Air Cond",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.956079,
+    44.820513,
+    -106.956079,
+    44.820513
+],
+  "geometry": {"coordinates":[-106.956079,44.820513],"type":"Point"}
+}

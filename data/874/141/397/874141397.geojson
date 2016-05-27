@@ -1,0 +1,69 @@
+{
+  "id": 874141397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.296262,42.849917,-106.296262,42.849917",
+    "geom:latitude":42.849917,
+    "geom:longitude":-106.296262,
+    "iso:country":"US",
+    "sg:address":"105 University Ct",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 268 9940",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qEuzp1PDdBHGrzNGzA5Up_42.849917_-106.296262@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312246,
+    "wof:geomhash":"b02af001358444034ffa619f0e385dcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874141397
+        }
+    ],
+    "wof:id":874141397,
+    "wof:lastmodified":1464312246,
+    "wof:name":"Cce",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "social"
+    ]
+},
+  "bbox": [
+    -106.296262,
+    42.849917,
+    -106.296262,
+    42.849917
+],
+  "geometry": {"coordinates":[-106.296262,42.849917],"type":"Point"}
+}

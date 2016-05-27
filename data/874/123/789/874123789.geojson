@@ -1,0 +1,58 @@
+{
+  "id": 874123789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.219749,41.585977,-109.219749,41.585977",
+    "geom:latitude":41.585977,
+    "geom:longitude":-109.219749,
+    "iso:country":"US",
+    "sg:address":"430 Broadway St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 8668",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_013dMEr1Zfwag7dSJz5sOY_41.585977_-109.219749@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312075,
+    "wof:geomhash":"27e5453573e6fea9424a5c7be63acae3",
+    "wof:hierarchy":[],
+    "wof:id":874123789,
+    "wof:lastmodified":1464312075,
+    "wof:name":"Richardson Family Health Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -109.219749,
+    41.585977,
+    -109.219749,
+    41.585977
+],
+  "geometry": {"coordinates":[-109.21974899999999,41.585977],"type":"Point"}
+}

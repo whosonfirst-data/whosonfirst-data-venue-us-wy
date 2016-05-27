@@ -1,0 +1,58 @@
+{
+  "id": 874180621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.948386,44.013752,-107.948386,44.013752",
+    "geom:latitude":44.013752,
+    "geom:longitude":-107.948386,
+    "iso:country":"US",
+    "sg:address":"400 S 15th St",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 6933",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UNQrdKiP4XXAixuitfdVH_44.013752_-107.948386@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312636,
+    "wof:geomhash":"98ae59404824d3216fcbeabc3f26cad3",
+    "wof:hierarchy":[],
+    "wof:id":874180621,
+    "wof:lastmodified":1464312636,
+    "wof:name":"WMC Clinics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -107.948386,
+    44.013752,
+    -107.948386,
+    44.013752
+],
+  "geometry": {"coordinates":[-107.948386,44.013752],"type":"Point"}
+}

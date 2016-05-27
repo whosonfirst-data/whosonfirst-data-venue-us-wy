@@ -1,0 +1,66 @@
+{
+  "id": 874138375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591843,41.313847,-105.591843,41.313847",
+    "geom:latitude":41.313847,
+    "geom:longitude":-105.591843,
+    "iso:country":"US",
+    "sg:address":"417 E Fremont St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5470",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30zOyeLEtpGOzWSqkZUs9C_41.313847_-105.591843@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312221,
+    "wof:geomhash":"11ed281226e063c55a1b428ddd2079fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874138375
+        }
+    ],
+    "wof:id":874138375,
+    "wof:lastmodified":1464312221,
+    "wof:name":"Teresa J Scardino PHD Licen",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.591843,
+    41.313847,
+    -105.591843,
+    41.313847
+],
+  "geometry": {"coordinates":[-105.591843,41.313847],"type":"Point"}
+}

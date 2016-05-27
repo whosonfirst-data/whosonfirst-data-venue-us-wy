@@ -1,0 +1,71 @@
+{
+  "id": 874156805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.299819,42.857106,-106.299819,42.857106",
+    "geom:latitude":42.857106,
+    "geom:longitude":-106.299819,
+    "iso:country":"US",
+    "sg:address":"1525 E E St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 2918",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "road",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63wwaP2uWLgNrR8eEbrTxj_42.857106_-106.299819@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312397,
+    "wof:geomhash":"7ae06b62fbde4fe71227e2357638e340",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874156805
+        }
+    ],
+    "wof:id":874156805,
+    "wof:lastmodified":1464312397,
+    "wof:name":"JTL Group Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.299819,
+    42.857106,
+    -106.299819,
+    42.857106
+],
+  "geometry": {"coordinates":[-106.299819,42.857106],"type":"Point"}
+}

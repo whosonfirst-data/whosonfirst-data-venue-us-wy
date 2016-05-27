@@ -1,0 +1,73 @@
+{
+  "id": 874074355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.329755,42.851876,-106.329755,42.851876",
+    "geom:latitude":42.851876,
+    "geom:longitude":-106.329755,
+    "iso:country":"US",
+    "sg:address":"212 Nichols Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 5414",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "communication",
+        "radio",
+        "an"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02Nc6EDw2DcDWW8Kma6wJ0_42.851876_-106.329755@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311497,
+    "wof:geomhash":"e92c92ad59273b7ba7c5669190c12e11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874074355
+        }
+    ],
+    "wof:id":874074355,
+    "wof:lastmodified":1464311497,
+    "wof:name":"Rocky Mountain Communication",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "radio",
+        "an"
+    ]
+},
+  "bbox": [
+    -106.329755,
+    42.851876,
+    -106.329755,
+    42.851876
+],
+  "geometry": {"coordinates":[-106.32975500000001,42.851876],"type":"Point"}
+}

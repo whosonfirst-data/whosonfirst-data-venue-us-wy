@@ -1,0 +1,64 @@
+{
+  "id": 874008683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.315054,42.850068,-106.315054,42.850068",
+    "geom:latitude":42.850068,
+    "geom:longitude":-106.315054,
+    "iso:country":"US",
+    "sg:address":"844 E 1st St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1120",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35kHaCI0y7adl2nURO2Hbc_42.850068_-106.315054@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310846,
+    "wof:geomhash":"d6610424020d849f31c90b12d3f5dd80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874008683
+        }
+    ],
+    "wof:id":874008683,
+    "wof:lastmodified":1464310846,
+    "wof:name":"Williams Real Estate",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.315054,
+    42.850068,
+    -106.315054,
+    42.850068
+],
+  "geometry": {"coordinates":[-106.315054,42.850068],"type":"Point"}
+}

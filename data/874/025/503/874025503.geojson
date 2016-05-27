@@ -1,0 +1,58 @@
+{
+  "id": 874025503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.953393,44.796119,-106.953393,44.796119",
+    "geom:latitude":44.796119,
+    "geom:longitude":-106.953393,
+    "iso:country":"US",
+    "sg:address":"124 S Scott St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 4243",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AzS8HOBAHmJP8Z4Wcdl43_44.796119_-106.953393@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311002,
+    "wof:geomhash":"35266280a06468dcc372a3bf879ebf9f",
+    "wof:hierarchy":[],
+    "wof:id":874025503,
+    "wof:lastmodified":1464311002,
+    "wof:name":"Sheridan Brake & Alignment",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -106.953393,
+    44.796119,
+    -106.953393,
+    44.796119
+],
+  "geometry": {"coordinates":[-106.95339300000001,44.796119],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874132003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595857,41.301691,-105.595857,41.301691",
+    "geom:latitude":41.301691,
+    "geom:longitude":-105.595857,
+    "iso:country":"US",
+    "sg:address":"1307 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4806",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IQw9o1muazBXiKt4Rd2Dc_41.301691_-105.595857@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312159,
+    "wof:geomhash":"e0f3b55edd6594f7df5aebc653bb2faf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874132003
+        }
+    ],
+    "wof:id":874132003,
+    "wof:lastmodified":1464312159,
+    "wof:name":"ALBANY Glass",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -105.595857,
+    41.301691,
+    -105.595857,
+    41.301691
+],
+  "geometry": {"coordinates":[-105.595857,41.301691],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874144569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.35093,42.836635,-106.35093,42.836635",
+    "geom:latitude":42.836635,
+    "geom:longitude":-106.35093,
+    "iso:country":"US",
+    "sg:address":"1414 Sycamore St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7312",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "development",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C0HAeSdwehtdWcwy5qlQI_42.836635_-106.350930@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312276,
+    "wof:geomhash":"6aca3d9a5cc1d3034d33f00ecfb5c3b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874144569
+        }
+    ],
+    "wof:id":874144569,
+    "wof:lastmodified":1464312276,
+    "wof:name":"Jeff Morton Consulting",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "software"
+    ]
+},
+  "bbox": [
+    -106.35093,
+    42.836635,
+    -106.35093,
+    42.836635
+],
+  "geometry": {"coordinates":[-106.35093000000001,42.836635],"type":"Point"}
+}

@@ -1,0 +1,51 @@
+{
+  "id": 874140871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.071775,42.854356,-110.071775,42.854356",
+    "geom:latitude":42.854356,
+    "geom:longitude":-110.071775,
+    "iso:country":"US",
+    "sg:address":"12958 US Hwy 189",
+    "sg:city":"Daniel",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 859 8251",
+    "sg:postcode":"83115",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G21s4LrYEt7XI2xDXGDnL_42.854356_-110.071775@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312242,
+    "wof:geomhash":"01bfbc520d2966f93fe1c6d75c0c12b0",
+    "wof:hierarchy":[],
+    "wof:id":874140871,
+    "wof:lastmodified":1464312242,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.071775,
+    42.854356,
+    -110.071775,
+    42.854356
+],
+  "geometry": {"coordinates":[-110.071775,42.854356],"type":"Point"}
+}

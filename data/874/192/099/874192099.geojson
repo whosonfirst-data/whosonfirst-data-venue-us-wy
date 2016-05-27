@@ -1,0 +1,71 @@
+{
+  "id": 874192099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.341865,42.859751,-106.341865,42.859751",
+    "geom:latitude":42.859751,
+    "geom:longitude":-106.341865,
+    "iso:country":"US",
+    "sg:address":"923 N Foster Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 8100",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "compressor",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5etccgI1WcVUFuaQXvgAzA_42.859751_-106.341865@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312759,
+    "wof:geomhash":"4c2df551ba4ec8fd32e1cc3d965409a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874192099
+        }
+    ],
+    "wof:id":874192099,
+    "wof:lastmodified":1464312759,
+    "wof:name":"Iron Horse Compressor",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compressor",
+        "gas"
+    ]
+},
+  "bbox": [
+    -106.341865,
+    42.859751,
+    -106.341865,
+    42.859751
+],
+  "geometry": {"coordinates":[-106.341865,42.859751],"type":"Point"}
+}

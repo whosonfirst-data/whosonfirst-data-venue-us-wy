@@ -1,0 +1,56 @@
+{
+  "id": 874158665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.46804,41.51788,-109.46804,41.51788",
+    "geom:latitude":41.51788,
+    "geom:longitude":-109.46804,
+    "iso:country":"US",
+    "sg:address":"200 Uinta Dr",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 3085",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jwc2eVJVCUXyymrpx8w8g_41.517880_-109.468040@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312419,
+    "wof:geomhash":"d5dff7d4f1c39b022cb8d1a5bf52a44c",
+    "wof:hierarchy":[],
+    "wof:id":874158665,
+    "wof:lastmodified":1464312419,
+    "wof:name":"Family Dollar Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -109.46804,
+    41.51788,
+    -109.46804,
+    41.51788
+],
+  "geometry": {"coordinates":[-109.46804,41.51788],"type":"Point"}
+}

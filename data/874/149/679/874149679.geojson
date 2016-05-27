@@ -1,0 +1,71 @@
+{
+  "id": 874149679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.534835,41.297836,-105.534835,41.297836",
+    "geom:latitude":41.297836,
+    "geom:longitude":-105.534835,
+    "iso:country":"US",
+    "sg:address":"4619 E Bobolink Ln",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 6381",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WdbJTh9QuG5YYaUgy8cns_41.297836_-105.534835@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312326,
+    "wof:geomhash":"698bc017424f4e76a8057bbc17bb2d74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874149679
+        }
+    ],
+    "wof:id":874149679,
+    "wof:lastmodified":1464312326,
+    "wof:name":"Animal Health Ctr LLC",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -105.534835,
+    41.297836,
+    -105.534835,
+    41.297836
+],
+  "geometry": {"coordinates":[-105.534835,41.297836],"type":"Point"}
+}

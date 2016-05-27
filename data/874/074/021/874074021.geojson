@@ -1,0 +1,73 @@
+{
+  "id": 874074021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.329594,42.850015,-106.329594,42.850015",
+    "geom:latitude":42.850015,
+    "geom:longitude":-106.329594,
+    "iso:country":"US",
+    "sg:address":"315 W 1st St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 4672",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "abstract",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mkz0h1QKJ3vCdF84T2gg0_42.850015_-106.329594@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311494,
+    "wof:geomhash":"37b1beedec6d96fbf304d77167998350",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874074021
+        }
+    ],
+    "wof:id":874074021,
+    "wof:lastmodified":1464311494,
+    "wof:name":"American Title Agency Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "abstract",
+        "title"
+    ]
+},
+  "bbox": [
+    -106.329594,
+    42.850015,
+    -106.329594,
+    42.850015
+],
+  "geometry": {"coordinates":[-106.329594,42.850015],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874198973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.96876,41.59312,-109.96876,41.59312",
+    "geom:latitude":41.59312,
+    "geom:longitude":-109.96876,
+    "iso:country":"US",
+    "sg:address":"106 1st St",
+    "sg:city":"Granger",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 5556",
+    "sg:postcode":"82934",
+    "sg:province":"WY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i0wVzHCZUNFrkkxN2YVg2_41.593120_-109.968760@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312834,
+    "wof:geomhash":"19b7f2a6c19482cc0da5b9ababfc784b",
+    "wof:hierarchy":[],
+    "wof:id":874198973,
+    "wof:lastmodified":1464312834,
+    "wof:name":"Town Of Granger",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -109.96876,
+    41.59312,
+    -109.96876,
+    41.59312
+],
+  "geometry": {"coordinates":[-109.96876,41.59312],"type":"Point"}
+}

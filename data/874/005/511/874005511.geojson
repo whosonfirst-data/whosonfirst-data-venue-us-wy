@@ -1,0 +1,71 @@
+{
+  "id": 874005511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.36317,42.85497,-106.36317,42.85497",
+    "geom:latitude":42.85497,
+    "geom:longitude":-106.36317,
+    "iso:country":"US",
+    "sg:address":"3484 Burd Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 3355",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pallet",
+        "skid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Nrc3dKXHHkQYrPH0R8VJg_42.854970_-106.363170@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310820,
+    "wof:geomhash":"e1330733c4fd870e2028a6b60ec9f308",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874005511
+        }
+    ],
+    "wof:id":874005511,
+    "wof:lastmodified":1464310820,
+    "wof:name":"Road Runner Pallets",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pallet",
+        "skid"
+    ]
+},
+  "bbox": [
+    -106.36317,
+    42.85497,
+    -106.36317,
+    42.85497
+],
+  "geometry": {"coordinates":[-106.36317,42.85497],"type":"Point"}
+}

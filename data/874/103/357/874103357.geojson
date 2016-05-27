@@ -1,0 +1,72 @@
+{
+  "id": 874103357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.419197,42.86323,-106.419197,42.86323",
+    "geom:latitude":42.86323,
+    "geom:longitude":-106.419197,
+    "iso:country":"US",
+    "sg:address":"6500 W Zero Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 4097",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil",
+        "well"
+    ],
+    "sg:website":"www.nabors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18x9tNCJuIoYU4sgPXqsYR_42.863230_-106.419197@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311836,
+    "wof:geomhash":"2ce1f29bb5d0b26e8b4f6a41516f5fb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874103357
+        }
+    ],
+    "wof:id":874103357,
+    "wof:lastmodified":1464311836,
+    "wof:name":"Nabors Drilling USA",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "well"
+    ]
+},
+  "bbox": [
+    -106.419197,
+    42.86323,
+    -106.419197,
+    42.86323
+],
+  "geometry": {"coordinates":[-106.419197,42.86323],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874031201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.328045,42.847269,-106.328045,42.847269",
+    "geom:latitude":42.847269,
+    "geom:longitude":-106.328045,
+    "iso:country":"US",
+    "sg:address":"300 S Ash St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5515",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4buVsKx1fgc4t29Rhj1ScL_42.847269_-106.328045@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311059,
+    "wof:geomhash":"dedf3b274e9e30af42c82b834e20b72a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874031201
+        }
+    ],
+    "wof:id":874031201,
+    "wof:lastmodified":1464311059,
+    "wof:name":"Farm Bureau Insurance",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.328045,
+    42.847269,
+    -106.328045,
+    42.847269
+],
+  "geometry": {"coordinates":[-106.328045,42.847269],"type":"Point"}
+}

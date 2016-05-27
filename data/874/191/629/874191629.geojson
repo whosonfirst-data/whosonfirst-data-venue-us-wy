@@ -1,0 +1,71 @@
+{
+  "id": 874191629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.353047,42.874802,-106.353047,42.874802",
+    "geom:latitude":42.874802,
+    "geom:longitude":-106.353047,
+    "iso:country":"US",
+    "sg:address":"1856 Skyview Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 5923",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "broadcasting",
+        "co"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cSRbIsnMvYJ88LhURVAdr_42.874802_-106.353047@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312755,
+    "wof:geomhash":"29e18c8f13ed1c3f1f75c83f364c3cb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874191629
+        }
+    ],
+    "wof:id":874191629,
+    "wof:lastmodified":1464312755,
+    "wof:name":"Wyoming's Fox TV",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcasting",
+        "co"
+    ]
+},
+  "bbox": [
+    -106.353047,
+    42.874802,
+    -106.353047,
+    42.874802
+],
+  "geometry": {"coordinates":[-106.353047,42.874802],"type":"Point"}
+}

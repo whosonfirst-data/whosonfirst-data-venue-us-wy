@@ -1,0 +1,58 @@
+{
+  "id": 874011577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.844454,41.180834,-104.844454,41.180834",
+    "geom:latitude":41.180834,
+    "geom:longitude":-104.844454,
+    "iso:country":"US",
+    "sg:address":"840 Golden Hill St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 6106",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N1zuFt5g3fe4CH6Ypi1rn_41.180834_-104.844454@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310866,
+    "wof:geomhash":"80ec8d9b081191c44d873e14ace58a36",
+    "wof:hierarchy":[],
+    "wof:id":874011577,
+    "wof:lastmodified":1464310866,
+    "wof:name":"High Plains Family Medicine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -104.844454,
+    41.180834,
+    -104.844454,
+    41.180834
+],
+  "geometry": {"coordinates":[-104.844454,41.180834],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874064011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.47591,44.245211,-105.47591,44.245211",
+    "geom:latitude":44.245211,
+    "geom:longitude":-105.47591,
+    "iso:country":"US",
+    "sg:address":"5817 S Winland Dr",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 2973",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PndRu8c7lNkGjsTFvRhQf_44.245211_-105.475910@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311371,
+    "wof:geomhash":"642ab4df7a9742cadca8278089797551",
+    "wof:hierarchy":[],
+    "wof:id":874064011,
+    "wof:lastmodified":1464311371,
+    "wof:name":"Extreme Auto Body",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -105.47591,
+    44.245211,
+    -105.47591,
+    44.245211
+],
+  "geometry": {"coordinates":[-105.47591,44.245211],"type":"Point"}
+}

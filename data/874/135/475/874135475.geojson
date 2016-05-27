@@ -1,0 +1,56 @@
+{
+  "id": 874135475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.966095,42.028718,-104.966095,42.028718",
+    "geom:latitude":42.028718,
+    "geom:longitude":-104.966095,
+    "iso:country":"US",
+    "sg:address":"172 W Frontage Rd",
+    "sg:city":"Wheatland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 322 3751",
+    "sg:postcode":"82201",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DlWfM9pcCzBA7OGUfy4bu_42.028718_-104.966095@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312195,
+    "wof:geomhash":"438394c360395edbc66121fb1b98e04d",
+    "wof:hierarchy":[],
+    "wof:id":874135475,
+    "wof:lastmodified":1464312195,
+    "wof:name":"Harnish Veterinary Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -104.966095,
+    42.028718,
+    -104.966095,
+    42.028718
+],
+  "geometry": {"coordinates":[-104.966095,42.028718],"type":"Point"}
+}

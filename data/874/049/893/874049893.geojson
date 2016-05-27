@@ -1,0 +1,71 @@
+{
+  "id": 874049893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.320864,42.850716,-106.320864,42.850716",
+    "geom:latitude":42.850716,
+    "geom:longitude":-106.320864,
+    "iso:country":"US",
+    "sg:address":"155 N Beech St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 5102",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T0GYlMDkKX7G6FjQ0oiLs_42.850716_-106.320864@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311239,
+    "wof:geomhash":"efb6f764ad92423f88143b4172fea6e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874049893
+        }
+    ],
+    "wof:id":874049893,
+    "wof:lastmodified":1464311239,
+    "wof:name":"Wyoming Community Development",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -106.320864,
+    42.850716,
+    -106.320864,
+    42.850716
+],
+  "geometry": {"coordinates":[-106.320864,42.850716],"type":"Point"}
+}

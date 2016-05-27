@@ -1,0 +1,56 @@
+{
+  "id": 874051523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.513733,44.290089,-105.513733,44.290089",
+    "geom:latitude":44.290089,
+    "geom:longitude":-105.513733,
+    "iso:country":"US",
+    "sg:address":"509 Hunt Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 4353",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hZ7T3jIH8U9gWOGAPoIJ8_44.290089_-105.513733@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311255,
+    "wof:geomhash":"501ec26ef97fe186f702847751f88392",
+    "wof:hierarchy":[],
+    "wof:id":874051523,
+    "wof:lastmodified":1464311255,
+    "wof:name":"Game & Fish Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -105.513733,
+    44.290089,
+    -105.513733,
+    44.290089
+],
+  "geometry": {"coordinates":[-105.513733,44.290089],"type":"Point"}
+}

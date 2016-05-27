@@ -1,0 +1,71 @@
+{
+  "id": 874054281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.620862,41.450321,-105.620862,41.450321",
+    "geom:latitude":41.450321,
+    "geom:longitude":-105.620862,
+    "iso:country":"US",
+    "sg:address":"1030 US Hwy 30",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5745",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ranch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pI64IYS3hCBOqPXZT82Rp_41.450321_-105.620862@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311281,
+    "wof:geomhash":"a8945a5dced8eb268e3b94cf76bb69cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874054281
+        }
+    ],
+    "wof:id":874054281,
+    "wof:lastmodified":1464311281,
+    "wof:name":"Nunn Ranches",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranch"
+    ]
+},
+  "bbox": [
+    -105.620862,
+    41.450321,
+    -105.620862,
+    41.450321
+],
+  "geometry": {"coordinates":[-105.620862,41.450321],"type":"Point"}
+}

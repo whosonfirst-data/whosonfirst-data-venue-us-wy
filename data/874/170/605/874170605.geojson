@@ -1,0 +1,66 @@
+{
+  "id": 874170605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593948,41.307149,-105.593948,41.307149",
+    "geom:latitude":41.307149,
+    "geom:longitude":-105.593948,
+    "iso:country":"US",
+    "sg:address":"715 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5332",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wXPmvzcOz5gO1dxr22RRX_41.307149_-105.593948@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312532,
+    "wof:geomhash":"dd29809152d727c7a07bb3b93caf0d96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874170605
+        }
+    ],
+    "wof:id":874170605,
+    "wof:lastmodified":1464312532,
+    "wof:name":"Brown Realty",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.593948,
+    41.307149,
+    -105.593948,
+    41.307149
+],
+  "geometry": {"coordinates":[-105.593948,41.307149],"type":"Point"}
+}

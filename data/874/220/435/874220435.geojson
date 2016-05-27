@@ -1,0 +1,69 @@
+{
+  "id": 874220435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.291689,42.859738,-106.291689,42.859738",
+    "geom:latitude":42.859738,
+    "geom:longitude":-106.291689,
+    "iso:country":"US",
+    "sg:address":"700 N Hereford Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 6910",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "junk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2unhScHfHn69UrvpDyb5P3_42.859738_-106.291689@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313068,
+    "wof:geomhash":"be1c889d91aa466a9edf544a6d55b4fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874220435
+        }
+    ],
+    "wof:id":874220435,
+    "wof:lastmodified":1464313068,
+    "wof:name":"Native Recycling & Salvage",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "junk"
+    ]
+},
+  "bbox": [
+    -106.291689,
+    42.859738,
+    -106.291689,
+    42.859738
+],
+  "geometry": {"coordinates":[-106.29168900000001,42.859738],"type":"Point"}
+}

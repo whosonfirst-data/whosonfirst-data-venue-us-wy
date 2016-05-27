@@ -1,0 +1,58 @@
+{
+  "id": 874186385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.764623,43.481859,-110.764623,43.481859",
+    "geom:latitude":43.481859,
+    "geom:longitude":-110.764623,
+    "iso:country":"US",
+    "sg:address":"155 W Gill Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 0343",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZSLa6pMK8Iz14auqsQrei_43.481859_-110.764623@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312704,
+    "wof:geomhash":"4be3c56c925720c24aa0c04fb15fb372",
+    "wof:hierarchy":[],
+    "wof:id":874186385,
+    "wof:lastmodified":1464312704,
+    "wof:name":"Employment Tax-Compliance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -110.764623,
+    43.481859,
+    -110.764623,
+    43.481859
+],
+  "geometry": {"coordinates":[-110.764623,43.481859],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874026265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.755581,41.156631,-104.755581,41.156631",
+    "geom:latitude":41.156631,
+    "geom:longitude":-104.755581,
+    "iso:country":"US",
+    "sg:address":"4409 Rio Verde St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 7160",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2POhL6V5h9fpqFQISSeiOR_41.156631_-104.755581@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311009,
+    "wof:geomhash":"aeee7b3849f563daed523dad5b6dcf0e",
+    "wof:hierarchy":[],
+    "wof:id":874026265,
+    "wof:lastmodified":1464311009,
+    "wof:name":"American Electronics Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -104.755581,
+    41.156631,
+    -104.755581,
+    41.156631
+],
+  "geometry": {"coordinates":[-104.75558100000001,41.156631],"type":"Point"}
+}

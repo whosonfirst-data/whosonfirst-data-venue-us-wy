@@ -1,0 +1,58 @@
+{
+  "id": 874148925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.95251,43.974285,-107.95251,43.974285",
+    "geom:latitude":43.974285,
+    "geom:longitude":-107.95251,
+    "iso:country":"US",
+    "sg:address":"1440 Airport Rd",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 9257",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "scheduled",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35AKaCKWTh93ggqKRyyeb3_43.974285_-107.952510@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312319,
+    "wof:geomhash":"564941163708b12d2d63a104a6067534",
+    "wof:hierarchy":[],
+    "wof:id":874148925,
+    "wof:lastmodified":1464312319,
+    "wof:name":"Great Lakes Aviation Ltd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scheduled",
+        "air"
+    ]
+},
+  "bbox": [
+    -107.95251,
+    43.974285,
+    -107.95251,
+    43.974285
+],
+  "geometry": {"coordinates":[-107.95251,43.974285],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 874200817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.206427,43.853897,-104.206427,43.853897",
+    "geom:latitude":43.853897,
+    "geom:longitude":-104.206427,
+    "iso:country":"US",
+    "sg:address":"340 W Main St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 9633",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GhW8qiylvwyxQWJnMq0EV_43.853897_-104.206427@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312852,
+    "wof:geomhash":"dd5a0117f75505f6b64ec727c729939a",
+    "wof:hierarchy":[],
+    "wof:id":874200817,
+    "wof:lastmodified":1464312852,
+    "wof:name":"Audreys Entertainment Emporium",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -104.206427,
+    43.853897,
+    -104.206427,
+    43.853897
+],
+  "geometry": {"coordinates":[-104.20642700000001,43.853897],"type":"Point"}
+}

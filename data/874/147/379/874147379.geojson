@@ -1,0 +1,71 @@
+{
+  "id": 874147379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323685,42.84886,-106.323685,42.84886",
+    "geom:latitude":42.84886,
+    "geom:longitude":-106.323685,
+    "iso:country":"US",
+    "sg:address":"111 S Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 261 5411",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "enforcement",
+        "law"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tr8cJ2I9PANCDEOibpDHU_42.848860_-106.323685@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312305,
+    "wof:geomhash":"64525f7c3b3bb14e5636549d2b5b10cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874147379
+        }
+    ],
+    "wof:id":874147379,
+    "wof:lastmodified":1464312305,
+    "wof:name":"Marshals Service United States",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "enforcement",
+        "law"
+    ]
+},
+  "bbox": [
+    -106.323685,
+    42.84886,
+    -106.323685,
+    42.84886
+],
+  "geometry": {"coordinates":[-106.323685,42.84886],"type":"Point"}
+}

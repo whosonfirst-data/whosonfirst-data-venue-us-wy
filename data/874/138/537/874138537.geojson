@@ -1,0 +1,58 @@
+{
+  "id": 874138537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.76355,43.483313,-110.76355,43.483313",
+    "geom:latitude":43.483313,
+    "geom:longitude":-110.76355,
+    "iso:country":"US",
+    "sg:address":"90 Mercill Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 7337",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TCQgcR3kBJpGc70avLpct_43.483313_-110.763550@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312223,
+    "wof:geomhash":"eb0c413a729cecd54691d3f8c3f94e75",
+    "wof:hierarchy":[],
+    "wof:id":874138537,
+    "wof:lastmodified":1464312223,
+    "wof:name":"Wyoming Mechanical Co Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -110.76355,
+    43.483313,
+    -110.76355,
+    43.483313
+],
+  "geometry": {"coordinates":[-110.76355,43.483313],"type":"Point"}
+}

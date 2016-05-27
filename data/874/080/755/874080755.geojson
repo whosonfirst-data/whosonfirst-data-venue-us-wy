@@ -1,0 +1,75 @@
+{
+  "id": 874080755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.354149,42.872836,-106.354149,42.872836",
+    "geom:latitude":42.872836,
+    "geom:longitude":-106.354149,
+    "iso:country":"US",
+    "sg:address":"1980 Skyview Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 3143",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general",
+        "industrial",
+        "commercial",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20BhQotXGe3EYYUuM1JVnd_42.872836_-106.354149@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311560,
+    "wof:geomhash":"d837b94a3e40816648f6072f021c32c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874080755
+        }
+    ],
+    "wof:id":874080755,
+    "wof:lastmodified":1464311560,
+    "wof:name":"Western Construction Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "industrial",
+        "commercial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.354149,
+    42.872836,
+    -106.354149,
+    42.872836
+],
+  "geometry": {"coordinates":[-106.35414900000001,42.872836],"type":"Point"}
+}

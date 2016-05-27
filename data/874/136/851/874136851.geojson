@@ -1,0 +1,69 @@
+{
+  "id": 874136851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.306785,42.850175,-106.306785,42.850175",
+    "geom:latitude":42.850175,
+    "geom:longitude":-106.306785,
+    "iso:country":"US",
+    "sg:address":"1316 E 1st St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1011",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CX2EPoEY7KDKGAQE1uFg9_42.850175_-106.306785@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312207,
+    "wof:geomhash":"766ec5cd71e15ca63076eca887abae9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874136851
+        }
+    ],
+    "wof:id":874136851,
+    "wof:lastmodified":1464312207,
+    "wof:name":"Touchtronics",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -106.306785,
+    42.850175,
+    -106.306785,
+    42.850175
+],
+  "geometry": {"coordinates":[-106.306785,42.850175],"type":"Point"}
+}

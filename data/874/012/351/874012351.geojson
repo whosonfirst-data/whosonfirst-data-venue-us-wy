@@ -1,0 +1,56 @@
+{
+  "id": 874012351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.004454,43.158576,-111.004454,43.158576",
+    "geom:latitude":43.158576,
+    "geom:longitude":-111.004454,
+    "iso:country":"US",
+    "sg:address":"445 Meadows Dr",
+    "sg:city":"Alpine",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 654 7923",
+    "sg:postcode":"83128",
+    "sg:province":"WY",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T0fJkOYwpvMFinPisebNu_43.158576_-111.004454@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310871,
+    "wof:geomhash":"82ca13e2b8807ae45d85b22da1318ea9",
+    "wof:hierarchy":[],
+    "wof:id":874012351,
+    "wof:lastmodified":1464310871,
+    "wof:name":"Rocky Mountain Taxidermy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -111.004454,
+    43.158576,
+    -111.004454,
+    43.158576
+],
+  "geometry": {"coordinates":[-111.004454,43.158576],"type":"Point"}
+}

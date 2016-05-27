@@ -1,0 +1,56 @@
+{
+  "id": 873993847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.184441,42.060746,-104.184441,42.060746",
+    "geom:latitude":42.060746,
+    "geom:longitude":-104.184441,
+    "iso:country":"US",
+    "sg:address":"1558 Main St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 4766",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kcjsoulcdAFQR4sYvGMBs_42.060746_-104.184441@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310717,
+    "wof:geomhash":"46803c8f4da093034fdb865798c52706",
+    "wof:hierarchy":[],
+    "wof:id":873993847,
+    "wof:lastmodified":1464310717,
+    "wof:name":"Deacon's Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -104.184441,
+    42.060746,
+    -104.184441,
+    42.060746
+],
+  "geometry": {"coordinates":[-104.18444100000001,42.060746],"type":"Point"}
+}

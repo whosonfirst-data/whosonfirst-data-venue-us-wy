@@ -1,0 +1,78 @@
+{
+  "id": 874127725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.606787,41.313101,-105.606787,41.313101",
+    "geom:latitude":41.313101,
+    "geom:longitude":-105.606787,
+    "iso:country":"US",
+    "sg:address":"975 Snowy Range Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 6161",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "park",
+        "site",
+        "historical"
+    ],
+    "sg:website":"www.wyoprisonpark.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ULnFUi5QKhzuEuXGjdi4a_41.313101_-105.606787@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312109,
+    "wof:geomhash":"629b75a1b72dd7f09955a0ab323dd0ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874127725
+        }
+    ],
+    "wof:id":874127725,
+    "wof:lastmodified":1464312109,
+    "wof:name":"Wyoming Territorial Park",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "park",
+        "site",
+        "historical"
+    ]
+},
+  "bbox": [
+    -105.606787,
+    41.313101,
+    -105.606787,
+    41.313101
+],
+  "geometry": {"coordinates":[-105.606787,41.313101],"type":"Point"}
+}

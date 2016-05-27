@@ -1,0 +1,77 @@
+{
+  "id": 874142549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.328843,42.847969,-106.328843,42.847969",
+    "geom:latitude":42.847969,
+    "geom:longitude":-106.328843,
+    "iso:country":"US",
+    "sg:address":"436 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 1176",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "front",
+        "automotive",
+        "end",
+        "alignment",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W24HycX1eRUu2IEj8ZRhh_42.847969_-106.328843@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312258,
+    "wof:geomhash":"5ba09119ea7d491edf4f3e5051414779",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874142549
+        }
+    ],
+    "wof:id":874142549,
+    "wof:lastmodified":1464312258,
+    "wof:name":"Ellisons Alignment",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "front",
+        "automotive",
+        "end",
+        "alignment",
+        "general"
+    ]
+},
+  "bbox": [
+    -106.328843,
+    42.847969,
+    -106.328843,
+    42.847969
+],
+  "geometry": {"coordinates":[-106.32884300000001,42.847969],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874202653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.631326,41.313323,-105.631326,41.313323",
+    "geom:latitude":41.313323,
+    "geom:longitude":-105.631326,
+    "iso:country":"US",
+    "sg:address":"2553 Wyoming Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7521",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zoc43Py8MCBfldskFb9aV_41.313323_-105.631326@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312871,
+    "wof:geomhash":"000869454f1c73c6dcb994fb92c08ac7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874202653
+        }
+    ],
+    "wof:id":874202653,
+    "wof:lastmodified":1464312871,
+    "wof:name":"Ron Kuntz Construction",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -105.631326,
+    41.313323,
+    -105.631326,
+    41.313323
+],
+  "geometry": {"coordinates":[-105.631326,41.313323],"type":"Point"}
+}

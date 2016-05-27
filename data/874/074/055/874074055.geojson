@@ -1,0 +1,73 @@
+{
+  "id": 874074055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.219318,41.584432,-109.219318,41.584432",
+    "geom:latitude":41.584432,
+    "geom:longitude":-109.219318,
+    "iso:country":"US",
+    "sg:address":"327 C St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 5235",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NyyhRYxYex6EoPFNY8ulp_41.584432_-109.219318@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311494,
+    "wof:geomhash":"85a6e5cd32da84b7e930c4b85ffb08d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874074055
+        }
+    ],
+    "wof:id":874074055,
+    "wof:lastmodified":1464311494,
+    "wof:name":"Plamor Lanes",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -109.219318,
+    41.584432,
+    -109.219318,
+    41.584432
+],
+  "geometry": {"coordinates":[-109.219318,41.584432],"type":"Point"}
+}

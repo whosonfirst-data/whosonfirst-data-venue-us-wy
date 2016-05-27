@@ -1,0 +1,61 @@
+{
+  "id": 874107921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.50405,44.292038,-105.50405,44.292038",
+    "geom:latitude":44.292038,
+    "geom:longitude":-105.50405,
+    "iso:country":"US",
+    "sg:address":"316 S Gillette Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 685 0770",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lSEj4rhaKo99hCmXhZUMR_44.292038_-105.504050@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311893,
+    "wof:geomhash":"e9507119ed9a01ca986b031ca23607eb",
+    "wof:hierarchy":[],
+    "wof:id":874107921,
+    "wof:lastmodified":1464311893,
+    "wof:name":"Wyoming Florals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -105.50405,
+    44.292038,
+    -105.50405,
+    44.292038
+],
+  "geometry": {"coordinates":[-105.50405000000001,44.292038],"type":"Point"}
+}

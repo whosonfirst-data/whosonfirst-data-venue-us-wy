@@ -1,0 +1,64 @@
+{
+  "id": 874155953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.311098,42.832139,-106.311098,42.832139",
+    "geom:latitude":42.832139,
+    "geom:longitude":-106.311098,
+    "iso:country":"US",
+    "sg:address":"1725 S Jackson St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 1847",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qGT6qjvkD4FqTxCUqs7X3_42.832139_-106.311098@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312388,
+    "wof:geomhash":"20fc0f4f12c452736c3d54c598fa1d5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874155953
+        }
+    ],
+    "wof:id":874155953,
+    "wof:lastmodified":1464312388,
+    "wof:name":"Casper Alliance Church",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.311098,
+    42.832139,
+    -106.311098,
+    42.832139
+],
+  "geometry": {"coordinates":[-106.311098,42.832139],"type":"Point"}
+}

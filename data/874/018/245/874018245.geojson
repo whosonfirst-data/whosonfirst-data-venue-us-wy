@@ -1,0 +1,58 @@
+{
+  "id": 874018245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.95562,44.80788,-106.95562,44.80788",
+    "geom:latitude":44.80788,
+    "geom:longitude":-106.95562,
+    "iso:country":"US",
+    "sg:address":"901 N Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 673 0441",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zpWWUpRYvTOxmrmT6V8vj_44.807880_-106.955620@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310930,
+    "wof:geomhash":"1c55a1537d8d72cbbbb6072963250ac1",
+    "wof:hierarchy":[],
+    "wof:id":874018245,
+    "wof:lastmodified":1464310930,
+    "wof:name":"Gary's Lock & Key",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -106.95562,
+    44.80788,
+    -106.95562,
+    44.80788
+],
+  "geometry": {"coordinates":[-106.95562,44.80788],"type":"Point"}
+}

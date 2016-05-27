@@ -1,0 +1,69 @@
+{
+  "id": 874125663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.344137,42.811437,-106.344137,42.811437",
+    "geom:latitude":42.811437,
+    "geom:longitude":-106.344137,
+    "iso:country":"US",
+    "sg:address":"3411 Hawthorne Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 267 0478",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wallpaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EpTVLDQVefJBIG8FRJZ55_42.811437_-106.344137@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312091,
+    "wof:geomhash":"cb81ce29727ea7dfd903a65507312051",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874125663
+        }
+    ],
+    "wof:id":874125663,
+    "wof:lastmodified":1464312091,
+    "wof:name":"Hoffman Painting Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wallpaper"
+    ]
+},
+  "bbox": [
+    -106.344137,
+    42.811437,
+    -106.344137,
+    42.811437
+],
+  "geometry": {"coordinates":[-106.344137,42.811437],"type":"Point"}
+}

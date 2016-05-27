@@ -1,0 +1,56 @@
+{
+  "id": 874114975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.828038,41.207148,-104.828038,41.207148",
+    "geom:latitude":41.207148,
+    "geom:longitude":-104.828038,
+    "iso:country":"US",
+    "sg:address":"9611 Yellowstone Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 2820",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m9dGkTsRepzdBv5jB2JJU_41.207148_-104.828038@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311987,
+    "wof:geomhash":"09cc11429f548fdcc795263db07bdcab",
+    "wof:hierarchy":[],
+    "wof:id":874114975,
+    "wof:lastmodified":1464311987,
+    "wof:name":"Exclusively Equine Veterinary",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -104.828038,
+    41.207148,
+    -104.828038,
+    41.207148
+],
+  "geometry": {"coordinates":[-104.82803800000001,41.207148],"type":"Point"}
+}

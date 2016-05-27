@@ -1,0 +1,70 @@
+{
+  "id": 874162883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.342327,42.860012,-106.342327,42.860012",
+    "geom:latitude":42.860012,
+    "geom:longitude":-106.342327,
+    "iso:country":"US",
+    "sg:address":"901 N Foster Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3500",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "truck"
+    ],
+    "sg:website":"www.colmanequipment.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mrZE2QperevBH727YdvWm_42.860012_-106.342327@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312458,
+    "wof:geomhash":"2fa4402a5fc448436f94338506ef525d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874162883
+        }
+    ],
+    "wof:id":874162883,
+    "wof:lastmodified":1464312458,
+    "wof:name":"Colman Equipment Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -106.342327,
+    42.860012,
+    -106.342327,
+    42.860012
+],
+  "geometry": {"coordinates":[-106.342327,42.860012],"type":"Point"}
+}

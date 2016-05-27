@@ -1,0 +1,73 @@
+{
+  "id": 874002709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.351424,42.894655,-106.351424,42.894655",
+    "geom:latitude":42.894655,
+    "geom:longitude":-106.351424,
+    "iso:country":"US",
+    "sg:address":"2290 Renauna Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 7778",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil",
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wYtitOUy7nXwz56gqZ2PV_42.894655_-106.351424@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310788,
+    "wof:geomhash":"acf97eddf7dbdfb0554f6675cd8e6247",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874002709
+        }
+    ],
+    "wof:id":874002709,
+    "wof:lastmodified":1464310788,
+    "wof:name":"Reed Transportation",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil",
+        "hauling"
+    ]
+},
+  "bbox": [
+    -106.351424,
+    42.894655,
+    -106.351424,
+    42.894655
+],
+  "geometry": {"coordinates":[-106.35142399999999,42.894655],"type":"Point"}
+}

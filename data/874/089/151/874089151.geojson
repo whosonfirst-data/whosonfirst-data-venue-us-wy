@@ -1,0 +1,69 @@
+{
+  "id": 874089151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.330728,42.832459,-106.330728,42.832459",
+    "geom:latitude":42.832459,
+    "geom:longitude":-106.330728,
+    "iso:country":"US",
+    "sg:address":"1728 S Oak St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 4928",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n4l9uRU4kjsB4bdcCkinm_42.832459_-106.330728@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311652,
+    "wof:geomhash":"f436d364a0435f717a2e263d48da4cda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874089151
+        }
+    ],
+    "wof:id":874089151,
+    "wof:lastmodified":1464311652,
+    "wof:name":"Adams Welding Svc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -106.330728,
+    42.832459,
+    -106.330728,
+    42.832459
+],
+  "geometry": {"coordinates":[-106.33072799999999,42.832459],"type":"Point"}
+}

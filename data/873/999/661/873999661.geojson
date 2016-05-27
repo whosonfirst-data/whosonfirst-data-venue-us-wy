@@ -1,0 +1,72 @@
+{
+  "id": 873999661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.567325,41.308613,-105.567325,41.308613",
+    "geom:latitude":41.308613,
+    "geom:longitude":-105.567325,
+    "iso:country":"US",
+    "sg:address":"407 S 21st St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3711",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "agency"
+    ],
+    "sg:website":"www.americancollectionsystems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wyn7ZWSkt6BWKsyNMR0xB_41.308613_-105.567325@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310758,
+    "wof:geomhash":"963565ce4286131e18a2fb9d9c1bbad0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873999661
+        }
+    ],
+    "wof:id":873999661,
+    "wof:lastmodified":1464310758,
+    "wof:name":"American Collections",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -105.567325,
+    41.308613,
+    -105.567325,
+    41.308613
+],
+  "geometry": {"coordinates":[-105.567325,41.308613],"type":"Point"}
+}

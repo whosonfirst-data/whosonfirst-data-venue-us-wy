@@ -1,0 +1,58 @@
+{
+  "id": 874175731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.537335,41.776681,-110.537335,41.776681",
+    "geom:latitude":41.776681,
+    "geom:longitude":-110.537335,
+    "iso:country":"US",
+    "sg:address":"315 Diamondville Ave",
+    "sg:city":"Diamondville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 877 3911",
+    "sg:postcode":"83116",
+    "sg:province":"WY",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZjRCMPWu1KNqCDC48qOvw_41.776681_-110.537335@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312585,
+    "wof:geomhash":"d09f95b22ec3eab15ed02fab9e68316b",
+    "wof:hierarchy":[],
+    "wof:id":874175731,
+    "wof:lastmodified":1464312585,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -110.537335,
+    41.776681,
+    -110.537335,
+    41.776681
+],
+  "geometry": {"coordinates":[-110.537335,41.776681],"type":"Point"}
+}

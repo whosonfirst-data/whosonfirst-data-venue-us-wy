@@ -1,0 +1,71 @@
+{
+  "id": 874098217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.329521,42.844374,-106.329521,42.844374",
+    "geom:latitude":42.844374,
+    "geom:longitude":-106.329521,
+    "iso:country":"US",
+    "sg:address":"404 W Collins Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 232 1313",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "model",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PWOFMQ8VAXKsYiHvZusbA_42.844374_-106.329521@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311759,
+    "wof:geomhash":"1bf48c24014bd4865972c83222d487e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874098217
+        }
+    ],
+    "wof:id":874098217,
+    "wof:lastmodified":1464311759,
+    "wof:name":"R C Pitstop",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "model",
+        "supply"
+    ]
+},
+  "bbox": [
+    -106.329521,
+    42.844374,
+    -106.329521,
+    42.844374
+],
+  "geometry": {"coordinates":[-106.329521,42.844374],"type":"Point"}
+}

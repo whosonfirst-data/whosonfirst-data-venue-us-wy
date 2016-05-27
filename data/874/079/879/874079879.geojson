@@ -1,0 +1,56 @@
+{
+  "id": 874079879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.041088,44.521167,-109.041088,44.521167",
+    "geom:latitude":44.521167,
+    "geom:longitude":-109.041088,
+    "iso:country":"US",
+    "sg:address":"2531 Central Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 5511",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TmdfS6rNxvP64C8C1qArg_44.521167_-109.041088@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311550,
+    "wof:geomhash":"85e5b6e73a853f374363f340275763ce",
+    "wof:hierarchy":[],
+    "wof:id":874079879,
+    "wof:lastmodified":1464311550,
+    "wof:name":"Pioneer Builders",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.041088,
+    44.521167,
+    -109.041088,
+    44.521167
+],
+  "geometry": {"coordinates":[-109.041088,44.521167],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874213043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.311094,42.853622,-106.311094,42.853622",
+    "geom:latitude":42.853622,
+    "geom:longitude":-106.311094,
+    "iso:country":"US",
+    "sg:address":"1015 E C St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 2987",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67D1CyqVGM0MFScUOziJ3R_42.853622_-106.311094@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312984,
+    "wof:geomhash":"c5009590cb50cd3c0a09361e03d7d0ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874213043
+        }
+    ],
+    "wof:id":874213043,
+    "wof:lastmodified":1464312984,
+    "wof:name":"Pampered Pet Palace",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -106.311094,
+    42.853622,
+    -106.311094,
+    42.853622
+],
+  "geometry": {"coordinates":[-106.311094,42.853622],"type":"Point"}
+}

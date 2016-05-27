@@ -1,0 +1,56 @@
+{
+  "id": 874015283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.497314,44.282665,-105.497314,44.282665",
+    "geom:latitude":44.282665,
+    "geom:longitude":-105.497314,
+    "iso:country":"US",
+    "sg:address":"439 Prairieview Dr",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 5177",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62a7LiP64BtPf2JlkCWZsv_44.282665_-105.497314@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310893,
+    "wof:geomhash":"0cc5fbb1e689103082a4818388b8b536",
+    "wof:hierarchy":[],
+    "wof:id":874015283,
+    "wof:lastmodified":1464310893,
+    "wof:name":"KFC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -105.497314,
+    44.282665,
+    -105.497314,
+    44.282665
+],
+  "geometry": {"coordinates":[-105.497314,44.282665],"type":"Point"}
+}

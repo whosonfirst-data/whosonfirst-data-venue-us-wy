@@ -1,0 +1,71 @@
+{
+  "id": 874200781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.357062,42.831719,-106.357062,42.831719",
+    "geom:latitude":42.831719,
+    "geom:longitude":-106.357062,
+    "iso:country":"US",
+    "sg:address":"2705 Bellaire Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1531",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "buyer",
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MCXui79gGiVC2iQlI8A0k_42.831719_-106.357062@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312851,
+    "wof:geomhash":"e23bb6a604ef60d15b49a8c40daec0c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874200781
+        }
+    ],
+    "wof:id":874200781,
+    "wof:lastmodified":1464312851,
+    "wof:name":"Q Creek Land & Livestock",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "livestock"
+    ]
+},
+  "bbox": [
+    -106.357062,
+    42.831719,
+    -106.357062,
+    42.831719
+],
+  "geometry": {"coordinates":[-106.357062,42.831719],"type":"Point"}
+}

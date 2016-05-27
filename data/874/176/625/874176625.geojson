@@ -1,0 +1,75 @@
+{
+  "id": 874176625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594692,41.313069,-105.594692,41.313069",
+    "geom:latitude":41.313069,
+    "geom:longitude":-105.594692,
+    "iso:country":"US",
+    "sg:address":"205 E University Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2197",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zTgFJKLRpXSb4boyagUTg_41.313069_-105.594692@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312593,
+    "wof:geomhash":"83aa04ff29cc23de66e34f7244f3d8d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874176625
+        }
+    ],
+    "wof:id":874176625,
+    "wof:lastmodified":1464312593,
+    "wof:name":"Wyoming Industries Co",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -105.594692,
+    41.313069,
+    -105.594692,
+    41.313069
+],
+  "geometry": {"coordinates":[-105.59469199999999,41.313069],"type":"Point"}
+}

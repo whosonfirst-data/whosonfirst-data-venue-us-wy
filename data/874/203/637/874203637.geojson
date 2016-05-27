@@ -1,0 +1,61 @@
+{
+  "id": 874203637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.504083,44.293106,-105.504083,44.293106",
+    "geom:latitude":44.293106,
+    "geom:longitude":-105.504083,
+    "iso:country":"US",
+    "sg:address":"208 S Gillette Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 0570",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yz2TL8QNRVU18gOYkvnvc_44.293106_-105.504083@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312880,
+    "wof:geomhash":"e05b8192dffc2d5ba66b0415b718e062",
+    "wof:hierarchy":[],
+    "wof:id":874203637,
+    "wof:lastmodified":1464312880,
+    "wof:name":"Breanna's Bakery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -105.504083,
+    44.293106,
+    -105.504083,
+    44.293106
+],
+  "geometry": {"coordinates":[-105.50408299999999,44.293106],"type":"Point"}
+}

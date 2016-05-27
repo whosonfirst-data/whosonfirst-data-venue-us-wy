@@ -1,0 +1,75 @@
+{
+  "id": 874211809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.301861,42.826774,-106.301861,42.826774",
+    "geom:latitude":42.826774,
+    "geom:longitude":-106.301861,
+    "iso:country":"US",
+    "sg:address":"1902 E 23rd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 5510",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "special",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GUKhZAepc0cgm7RsFFV7v_42.826774_-106.301861@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312972,
+    "wof:geomhash":"95475d70b27d46ccb97f734bf60d4a19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874211809
+        }
+    ],
+    "wof:id":874211809,
+    "wof:lastmodified":1464312972,
+    "wof:name":"Moving & Storage Connection",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "special",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -106.301861,
+    42.826774,
+    -106.301861,
+    42.826774
+],
+  "geometry": {"coordinates":[-106.301861,42.826774],"type":"Point"}
+}

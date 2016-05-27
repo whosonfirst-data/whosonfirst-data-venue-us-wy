@@ -1,0 +1,69 @@
+{
+  "id": 873998183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.318232,42.837629,-106.318232,42.837629",
+    "geom:latitude":42.837629,
+    "geom:longitude":-106.318232,
+    "iso:country":"US",
+    "sg:address":"512 E 13th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 9819",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Qre5vLvHxFYIObhBtYvWb_42.837629_-106.318232@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310748,
+    "wof:geomhash":"bab7ba7198cbfef3821412a1dbfc7a86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873998183
+        }
+    ],
+    "wof:id":873998183,
+    "wof:lastmodified":1464310748,
+    "wof:name":"Casper Heating and Plbg Assoc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.318232,
+    42.837629,
+    -106.318232,
+    42.837629
+],
+  "geometry": {"coordinates":[-106.31823199999999,42.837629],"type":"Point"}
+}

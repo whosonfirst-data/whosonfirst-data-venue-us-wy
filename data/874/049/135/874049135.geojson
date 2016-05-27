@@ -1,0 +1,56 @@
+{
+  "id": 874049135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.054358,44.488932,-108.054358,44.488932",
+    "geom:latitude":44.488932,
+    "geom:longitude":-108.054358,
+    "iso:country":"US",
+    "sg:address":"536 Greybull Ave",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 2152",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5msHQ8wvtVmekThgEIIrlK_44.488932_-108.054358@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311233,
+    "wof:geomhash":"a00b7024e48e098df839821e08a6fb56",
+    "wof:hierarchy":[],
+    "wof:id":874049135,
+    "wof:lastmodified":1464311233,
+    "wof:name":"Uptown Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -108.054358,
+    44.488932,
+    -108.054358,
+    44.488932
+],
+  "geometry": {"coordinates":[-108.05435799999999,44.488932],"type":"Point"}
+}

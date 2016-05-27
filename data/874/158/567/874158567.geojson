@@ -1,0 +1,64 @@
+{
+  "id": 874158567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.80345,41.122745,-104.80345,41.122745",
+    "geom:latitude":41.122745,
+    "geom:longitude":-104.80345,
+    "iso:country":"US",
+    "sg:address":"323 E 3rd St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 8780",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile",
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G5qb5fTg9whw5IKwfGjLK_41.122745_-104.803450@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312418,
+    "wof:geomhash":"8e56772116c35bc6f75a91bb29ee9024",
+    "wof:hierarchy":[],
+    "wof:id":874158567,
+    "wof:lastmodified":1464312418,
+    "wof:name":"Balcaen's Body Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile",
+        "paint"
+    ]
+},
+  "bbox": [
+    -104.80345,
+    41.122745,
+    -104.80345,
+    41.122745
+],
+  "geometry": {"coordinates":[-104.80345,41.122745],"type":"Point"}
+}

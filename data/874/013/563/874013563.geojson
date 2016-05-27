@@ -1,0 +1,71 @@
+{
+  "id": 874013563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592823,41.316569,-105.592823,41.316569",
+    "geom:latitude":41.316569,
+    "geom:longitude":-105.592823,
+    "iso:country":"US",
+    "sg:address":"318 E Bradley St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2660",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "claim"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TfAdWXgM7th5aAHrTHlz0_41.316569_-105.592823@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310880,
+    "wof:geomhash":"c90227c0d7d34542fd69acacc202cca1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874013563
+        }
+    ],
+    "wof:id":874013563,
+    "wof:lastmodified":1464310880,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "claim"
+    ]
+},
+  "bbox": [
+    -105.592823,
+    41.316569,
+    -105.592823,
+    41.316569
+],
+  "geometry": {"coordinates":[-105.592823,41.316569],"type":"Point"}
+}

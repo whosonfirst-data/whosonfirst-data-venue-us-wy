@@ -1,0 +1,75 @@
+{
+  "id": 874230119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.261803,41.576226,-109.261803,41.576226",
+    "geom:latitude":41.576226,
+    "geom:longitude":-109.261803,
+    "iso:country":"US",
+    "sg:address":"1687 Sunset Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/rock-springs-north/206526-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iniNZMxoEomq7etYS0csT_41.576226_-109.261803@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313161,
+    "wof:geomhash":"60ce376914ffe01b7b70780c730c74d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874230119
+        }
+    ],
+    "wof:id":874230119,
+    "wof:lastmodified":1464313161,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -109.261803,
+    41.576226,
+    -109.261803,
+    41.576226
+],
+  "geometry": {"coordinates":[-109.261803,41.576226],"type":"Point"}
+}

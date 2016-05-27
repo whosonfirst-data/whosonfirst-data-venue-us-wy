@@ -1,0 +1,56 @@
+{
+  "id": 874181371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.050861,44.530895,-109.050861,44.530895",
+    "geom:latitude":44.530895,
+    "geom:longitude":-109.050861,
+    "iso:country":"US",
+    "sg:address":"1912 Pioneer Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 6087",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZmrxMU8D973v3x7bS18v6_44.530895_-109.050861@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312645,
+    "wof:geomhash":"4ce226cf93ee896df6f3f75ff2923a77",
+    "wof:hierarchy":[],
+    "wof:id":874181371,
+    "wof:lastmodified":1464312645,
+    "wof:name":"Moore Monument Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -109.050861,
+    44.530895,
+    -109.050861,
+    44.530895
+],
+  "geometry": {"coordinates":[-109.050861,44.530895],"type":"Point"}
+}

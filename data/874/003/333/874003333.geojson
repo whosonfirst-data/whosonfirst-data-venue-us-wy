@@ -1,0 +1,58 @@
+{
+  "id": 874003333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.945982,44.009422,-107.945982,44.009422",
+    "geom:latitude":44.009422,
+    "geom:longitude":-107.945982,
+    "iso:country":"US",
+    "sg:address":"800 S 17th St",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 4113",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0e7DxVLJfFeO7tp6x2aSku_44.009422_-107.945982@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310795,
+    "wof:geomhash":"10bf3db8041be95b80c4ba91d2d42548",
+    "wof:hierarchy":[],
+    "wof:id":874003333,
+    "wof:lastmodified":1464310795,
+    "wof:name":"Worland Swimming Pool",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -107.945982,
+    44.009422,
+    -107.945982,
+    44.009422
+],
+  "geometry": {"coordinates":[-107.945982,44.009422],"type":"Point"}
+}

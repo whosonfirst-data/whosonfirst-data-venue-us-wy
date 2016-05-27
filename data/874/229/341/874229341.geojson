@@ -1,0 +1,70 @@
+{
+  "id": 874229341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.334362,42.856419,-106.334362,42.856419",
+    "geom:latitude":42.856419,
+    "geom:longitude":-106.334362,
+    "iso:country":"US",
+    "sg:address":"596 N Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/casper/166974-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8300",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EHsWxDEi0yZOum108KEoV_42.856419_-106.334362@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313154,
+    "wof:geomhash":"1253db19cf7f52a7b1e63a3e2371a4fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874229341
+        }
+    ],
+    "wof:id":874229341,
+    "wof:lastmodified":1464313154,
+    "wof:name":"Burger King",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -106.334362,
+    42.856419,
+    -106.334362,
+    42.856419
+],
+  "geometry": {"coordinates":[-106.334362,42.856419],"type":"Point"}
+}

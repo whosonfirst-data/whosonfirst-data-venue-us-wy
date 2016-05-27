@@ -1,0 +1,59 @@
+{
+  "id": 874228987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.217022,41.791795,-107.217022,41.791795",
+    "geom:latitude":41.791795,
+    "geom:longitude":-107.217022,
+    "iso:country":"US",
+    "sg:address":"1821 E Cedar St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/rawlins/96489-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 4932",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44WA1DmTKjTosiNa0sh6iX_41.791795_-107.217022@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313151,
+    "wof:geomhash":"6b185d27d35b8a51f68759758e18d064",
+    "wof:hierarchy":[],
+    "wof:id":874228987,
+    "wof:lastmodified":1464313151,
+    "wof:name":"Taco John's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -107.217022,
+    41.791795,
+    -107.217022,
+    41.791795
+],
+  "geometry": {"coordinates":[-107.217022,41.791795],"type":"Point"}
+}

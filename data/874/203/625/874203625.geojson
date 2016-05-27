@@ -1,0 +1,56 @@
+{
+  "id": 874203625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.7636,41.151007,-104.7636,41.151007",
+    "geom:latitude":41.151007,
+    "geom:longitude":-104.7636,
+    "iso:country":"US",
+    "sg:address":"3609 Laramie St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 9643",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aJmGikpkfrJkVeB8RRMiQ_41.151007_-104.763600@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312880,
+    "wof:geomhash":"80e4e0a2afc9c77f99597cdfedb2eb9c",
+    "wof:hierarchy":[],
+    "wof:id":874203625,
+    "wof:lastmodified":1464312880,
+    "wof:name":"U-Haul",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -104.7636,
+    41.151007,
+    -104.7636,
+    41.151007
+],
+  "geometry": {"coordinates":[-104.7636,41.151007],"type":"Point"}
+}

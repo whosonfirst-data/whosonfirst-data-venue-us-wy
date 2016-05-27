@@ -1,0 +1,58 @@
+{
+  "id": 874018457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.386348,43.02802,-108.386348,43.02802",
+    "geom:latitude":43.02802,
+    "geom:longitude":-108.386348,
+    "iso:country":"US",
+    "sg:address":"300 N Broadway Ave",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 0009",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6finJDeQIK3F9YUddrqa28_43.028020_-108.386348@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310932,
+    "wof:geomhash":"f16ba3a637a151c2b4cc6d3a4b05ccdb",
+    "wof:hierarchy":[],
+    "wof:id":874018457,
+    "wof:lastmodified":1464310932,
+    "wof:name":"Hemcure",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -108.386348,
+    43.02802,
+    -108.386348,
+    43.02802
+],
+  "geometry": {"coordinates":[-108.386348,43.02802],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874011135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.823643,41.14701,-104.823643,41.14701",
+    "geom:latitude":41.14701,
+    "geom:longitude":-104.823643,
+    "iso:country":"US",
+    "sg:address":"122 W 1st Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 777 4900",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "management",
+        "emergency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WCR51xUjsxHSVAu6Hh3DJ_41.147010_-104.823643@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310863,
+    "wof:geomhash":"10a25238b16b0762f4f9462f0211a709",
+    "wof:hierarchy":[],
+    "wof:id":874011135,
+    "wof:lastmodified":1464310863,
+    "wof:name":"Homeland Security/Emergency",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "emergency"
+    ]
+},
+  "bbox": [
+    -104.823643,
+    41.14701,
+    -104.823643,
+    41.14701
+],
+  "geometry": {"coordinates":[-104.823643,41.14701],"type":"Point"}
+}

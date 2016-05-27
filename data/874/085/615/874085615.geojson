@@ -1,0 +1,71 @@
+{
+  "id": 874085615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594873,41.312056,-105.594873,41.312056",
+    "geom:latitude":41.312056,
+    "geom:longitude":-105.594873,
+    "iso:country":"US",
+    "sg:address":"202 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4308",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e5bpRo58o0NLHvWxABCR7_41.312056_-105.594873@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311616,
+    "wof:geomhash":"8398ecf9b29f35a7aa50eee51b979f5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874085615
+        }
+    ],
+    "wof:id":874085615,
+    "wof:lastmodified":1464311616,
+    "wof:name":"Cora Portrait Studio",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -105.594873,
+    41.312056,
+    -105.594873,
+    41.312056
+],
+  "geometry": {"coordinates":[-105.59487300000001,41.312056],"type":"Point"}
+}

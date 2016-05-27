@@ -1,0 +1,66 @@
+{
+  "id": 874035699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594564,41.322486,-105.594564,41.322486",
+    "geom:latitude":41.322486,
+    "geom:longitude":-105.594564,
+    "iso:country":"US",
+    "sg:address":"119 E Baker St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2101",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D81JYeNs8y5ee48QWgVxe_41.322486_-105.594564@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311101,
+    "wof:geomhash":"dac4e68cacc104c7caa48ac32860172c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874035699
+        }
+    ],
+    "wof:id":874035699,
+    "wof:lastmodified":1464311101,
+    "wof:name":"Dairy Gold Foods Co",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.594564,
+    41.322486,
+    -105.594564,
+    41.322486
+],
+  "geometry": {"coordinates":[-105.59456400000001,41.322486],"type":"Point"}
+}

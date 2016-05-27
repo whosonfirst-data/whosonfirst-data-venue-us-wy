@@ -1,0 +1,57 @@
+{
+  "id": 874042211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.843917,41.114474,-104.843917,41.114474",
+    "geom:latitude":41.114474,
+    "geom:longitude":-104.843917,
+    "iso:country":"US",
+    "sg:address":"800 Southwest Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 6655",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shelter"
+    ],
+    "sg:website":"www.cheyenneanimalshelter.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JoRoSQPvkiwKqFNuYtKGJ_41.114474_-104.843917@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311167,
+    "wof:geomhash":"be134599a741961ab18e544994a7ce84",
+    "wof:hierarchy":[],
+    "wof:id":874042211,
+    "wof:lastmodified":1464311167,
+    "wof:name":"Cheyenne Animal Control",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter"
+    ]
+},
+  "bbox": [
+    -104.843917,
+    41.114474,
+    -104.843917,
+    41.114474
+],
+  "geometry": {"coordinates":[-104.843917,41.114474],"type":"Point"}
+}

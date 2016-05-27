@@ -1,0 +1,56 @@
+{
+  "id": 874027283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.110433,43.23545,-108.110433,43.23545",
+    "geom:latitude":43.23545,
+    "geom:longitude":-108.110433,
+    "iso:country":"US",
+    "sg:address":"102 E 2 St",
+    "sg:city":"Shoshoni",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 876 2515",
+    "sg:postcode":"82649",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05ENDmqsDZjImC7DDLND2h_43.235450_-108.110433@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311019,
+    "wof:geomhash":"a0a3aa8544631d5678ae3b97134a8d2c",
+    "wof:hierarchy":[],
+    "wof:id":874027283,
+    "wof:lastmodified":1464311019,
+    "wof:name":"Shoshoni City Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -108.110433,
+    43.23545,
+    -108.110433,
+    43.23545
+],
+  "geometry": {"coordinates":[-108.110433,43.23545],"type":"Point"}
+}

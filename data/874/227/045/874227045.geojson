@@ -1,0 +1,63 @@
+{
+  "id": 874227045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.297606,42.855753,-106.297606,42.855753",
+    "geom:latitude":42.855753,
+    "geom:longitude":-106.297606,
+    "iso:country":"US",
+    "sg:address":"507 N Beverly St",
+    "sg:city":"Casper",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8985",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A1RMbIf7SMASZKCRPFzw8_42.855753_-106.297606@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313131,
+    "wof:geomhash":"97871e5a82c1a36b2d10cb7d21a55a73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874227045
+        }
+    ],
+    "wof:id":874227045,
+    "wof:lastmodified":1464313131,
+    "wof:name":"Butane Power & Equipment Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas"
+    ]
+},
+  "bbox": [
+    -106.297606,
+    42.855753,
+    -106.297606,
+    42.855753
+],
+  "geometry": {"coordinates":[-106.297606,42.855753],"type":"Point"}
+}

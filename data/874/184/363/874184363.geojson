@@ -1,0 +1,73 @@
+{
+  "id": 874184363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.216256,41.582783,-109.216256,41.582783",
+    "geom:latitude":41.582783,
+    "geom:longitude":-109.216256,
+    "iso:country":"US",
+    "sg:address":"505 D St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 8675",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NGcHGxIF4wntjuFDc7n12_41.582783_-109.216256@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312682,
+    "wof:geomhash":"6df684f0a69ab3d79b09b06ad42bbbc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874184363
+        }
+    ],
+    "wof:id":874184363,
+    "wof:lastmodified":1464312682,
+    "wof:name":"Homax Oil Sales Inc",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -109.216256,
+    41.582783,
+    -109.216256,
+    41.582783
+],
+  "geometry": {"coordinates":[-109.216256,41.582783],"type":"Point"}
+}

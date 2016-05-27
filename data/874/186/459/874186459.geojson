@@ -1,0 +1,69 @@
+{
+  "id": 874186459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.341588,42.832226,-106.341588,42.832226",
+    "geom:latitude":42.832226,
+    "geom:longitude":-106.341588,
+    "iso:country":"US",
+    "sg:address":"1905 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2293",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KNPti5WqDIfK6YvDmsnqn_42.832226_-106.341588@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312704,
+    "wof:geomhash":"790c14b677baa140ee5cad770ba75921",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874186459
+        }
+    ],
+    "wof:id":874186459,
+    "wof:lastmodified":1464312704,
+    "wof:name":"Cy Avenue Antique Mall",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -106.341588,
+    42.832226,
+    -106.341588,
+    42.832226
+],
+  "geometry": {"coordinates":[-106.341588,42.832226],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874157809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.948121,44.729212,-106.948121,44.729212",
+    "geom:latitude":44.729212,
+    "geom:longitude":-106.948121,
+    "iso:country":"US",
+    "sg:address":"34 Cottonwood Dr",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 3904",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WMbZU0na6z089Ix9wIUGZ_44.729212_-106.948121@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312406,
+    "wof:geomhash":"23717052c81540d317b315786833d055",
+    "wof:hierarchy":[],
+    "wof:id":874157809,
+    "wof:lastmodified":1464312406,
+    "wof:name":"Cloud Peak Recovery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -106.948121,
+    44.729212,
+    -106.948121,
+    44.729212
+],
+  "geometry": {"coordinates":[-106.948121,44.729212],"type":"Point"}
+}

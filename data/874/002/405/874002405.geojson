@@ -1,0 +1,58 @@
+{
+  "id": 874002405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.819793,41.152761,-104.819793,41.152761",
+    "geom:latitude":41.152761,
+    "geom:longitude":-104.819793,
+    "iso:country":"US",
+    "sg:address":"4020 House Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 777 7952",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consulting",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XCA9zwAsbduKNicUFYvaj_41.152761_-104.819793@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310778,
+    "wof:geomhash":"5ecffa37a847cb797cb12756fa6ee818",
+    "wof:hierarchy":[],
+    "wof:id":874002405,
+    "wof:lastmodified":1464310778,
+    "wof:name":"WY Immunization Program",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "management"
+    ]
+},
+  "bbox": [
+    -104.819793,
+    41.152761,
+    -104.819793,
+    41.152761
+],
+  "geometry": {"coordinates":[-104.819793,41.152761],"type":"Point"}
+}

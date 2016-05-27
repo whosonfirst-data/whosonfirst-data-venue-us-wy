@@ -1,0 +1,63 @@
+{
+  "id": 874054717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.072006,44.519065,-109.072006,44.519065",
+    "geom:latitude":44.519065,
+    "geom:longitude":-109.072006,
+    "iso:country":"US",
+    "sg:address":"802 Gerrans Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 7000",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "nurse",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lM9ZBTfE3z6OqlkVhMZSL_44.519065_-109.072006@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311290,
+    "wof:geomhash":"4f6707feb606d4b775d7ace2f9643a2b",
+    "wof:hierarchy":[],
+    "wof:id":874054717,
+    "wof:lastmodified":1464311290,
+    "wof:name":"Big Horn Basin Skin Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "medical"
+    ]
+},
+  "bbox": [
+    -109.072006,
+    44.519065,
+    -109.072006,
+    44.519065
+],
+  "geometry": {"coordinates":[-109.072006,44.519065],"type":"Point"}
+}

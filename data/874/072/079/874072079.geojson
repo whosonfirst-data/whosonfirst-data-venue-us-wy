@@ -1,0 +1,56 @@
+{
+  "id": 874072079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955708,44.799326,-106.955708,44.799326",
+    "geom:latitude":44.799326,
+    "geom:longitude":-106.955708,
+    "iso:country":"US",
+    "sg:address":"117 N Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 6505",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_556TSUDbkF6CKb4zEOonBF_44.799326_-106.955708@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311463,
+    "wof:geomhash":"979d4092e420ae619ed86c6162ffd1ff",
+    "wof:hierarchy":[],
+    "wof:id":874072079,
+    "wof:lastmodified":1464311463,
+    "wof:name":"Book Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -106.955708,
+    44.799326,
+    -106.955708,
+    44.799326
+],
+  "geometry": {"coordinates":[-106.955708,44.799326],"type":"Point"}
+}

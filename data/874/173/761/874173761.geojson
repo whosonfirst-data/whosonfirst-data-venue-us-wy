@@ -1,0 +1,58 @@
+{
+  "id": 874173761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955325,44.802886,-106.955325,44.802886",
+    "geom:latitude":44.802886,
+    "geom:longitude":-106.955325,
+    "iso:country":"US",
+    "sg:address":"39 E 1st St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 328 0289",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GBSu1WvLvab1iidLRBzrk_44.802886_-106.955325@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312565,
+    "wof:geomhash":"97ed28ea498f439b3e1473fb49794cf4",
+    "wof:hierarchy":[],
+    "wof:id":874173761,
+    "wof:lastmodified":1464312565,
+    "wof:name":"Buffalo Run Residential",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -106.955325,
+    44.802886,
+    -106.955325,
+    44.802886
+],
+  "geometry": {"coordinates":[-106.955325,44.802886],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874231015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.270885,42.847895,-106.270885,42.847895",
+    "geom:latitude":42.847895,
+    "geom:longitude":-106.270885,
+    "iso:country":"US",
+    "sg:address":"350 SE Wyoming Blvd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/casper/109479-village-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1485",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PeZd8Y16HDQKgEb6yQKdP_42.847382_-106.270562@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313174,
+    "wof:geomhash":"d7bb2d36ecfdab24cc27dd9a7e48f288",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874231015
+        }
+    ],
+    "wof:id":874231015,
+    "wof:lastmodified":1464313174,
+    "wof:name":"Village Inn",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -106.270885,
+    42.847895,
+    -106.270885,
+    42.847895
+],
+  "geometry": {"coordinates":[-106.27088500000001,42.847895],"type":"Point"}
+}

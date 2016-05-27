@@ -1,0 +1,73 @@
+{
+  "id": 874166045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591006,41.323567,-105.591006,41.323567",
+    "geom:latitude":41.323567,
+    "geom:longitude":-105.591006,
+    "iso:country":"US",
+    "sg:address":"1260 N 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7111",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1181zpGiJ5e4vGqoLIKR8l_41.323567_-105.591006@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312490,
+    "wof:geomhash":"69d44deb585246fe582116ca1f19aab8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874166045
+        }
+    ],
+    "wof:id":874166045,
+    "wof:lastmodified":1464312490,
+    "wof:name":"Place",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -105.591006,
+    41.323567,
+    -105.591006,
+    41.323567
+],
+  "geometry": {"coordinates":[-105.59100599999999,41.323567],"type":"Point"}
+}

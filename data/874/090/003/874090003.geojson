@@ -1,0 +1,60 @@
+{
+  "id": 874090003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.494046,44.27803,-105.494046,44.27803",
+    "geom:latitude":44.27803,
+    "geom:longitude":-105.494046,
+    "iso:country":"US",
+    "sg:address":"1810 S Douglas Hwy",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 3562",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17N64ROtC3u7GOG0uU9XYT_44.278030_-105.494046@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311663,
+    "wof:geomhash":"27d415a24f72cfa3fc9ff0f3366e8c13",
+    "wof:hierarchy":[],
+    "wof:id":874090003,
+    "wof:lastmodified":1464311663,
+    "wof:name":"Flying J Travel Plaza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ]
+},
+  "bbox": [
+    -105.494046,
+    44.27803,
+    -105.494046,
+    44.27803
+],
+  "geometry": {"coordinates":[-105.494046,44.27803],"type":"Point"}
+}

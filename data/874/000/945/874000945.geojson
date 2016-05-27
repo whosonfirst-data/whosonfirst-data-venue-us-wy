@@ -1,0 +1,56 @@
+{
+  "id": 874000945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.815657,41.146682,-104.815657,41.146682",
+    "geom:latitude":41.146682,
+    "geom:longitude":-104.815657,
+    "iso:country":"US",
+    "sg:address":"3320 Maxwell Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 771 2678",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "custodial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HrksRwE7NDzRtcKUhIZcS_41.146682_-104.815657@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310767,
+    "wof:geomhash":"ccb2493afbb592038e345fc4bde1d366",
+    "wof:hierarchy":[],
+    "wof:id":874000945,
+    "wof:lastmodified":1464310767,
+    "wof:name":"Custodial Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "custodial"
+    ]
+},
+  "bbox": [
+    -104.815657,
+    41.146682,
+    -104.815657,
+    41.146682
+],
+  "geometry": {"coordinates":[-104.815657,41.146682],"type":"Point"}
+}

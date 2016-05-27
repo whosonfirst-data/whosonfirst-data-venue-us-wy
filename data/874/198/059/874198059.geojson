@@ -1,0 +1,58 @@
+{
+  "id": 874198059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.82664,41.173604,-104.82664,41.173604",
+    "geom:latitude":41.173604,
+    "geom:longitude":-104.82664,
+    "iso:country":"US",
+    "sg:address":"126 Quincy Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 9970",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LfcPDqM26DKkQqDCtMXic_41.173604_-104.826640@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312826,
+    "wof:geomhash":"993bbe9fc146982683cb40b46b992c58",
+    "wof:hierarchy":[],
+    "wof:id":874198059,
+    "wof:lastmodified":1464312826,
+    "wof:name":"Doc Martins Ear Nose & Throat",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -104.82664,
+    41.173604,
+    -104.82664,
+    41.173604
+],
+  "geometry": {"coordinates":[-104.82664,41.173604],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874214065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.218608,43.851131,-104.218608,43.851131",
+    "geom:latitude":43.851131,
+    "geom:longitude":-104.218608,
+    "iso:country":"US",
+    "sg:address":"1060 W Main St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 4864",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wassEw7CCpC6KBmZS0fHX_43.851131_-104.218608@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312995,
+    "wof:geomhash":"74bf6e129ddf22947969111b70f426f8",
+    "wof:hierarchy":[],
+    "wof:id":874214065,
+    "wof:lastmodified":1464312995,
+    "wof:name":"BNSF-Section",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -104.218608,
+    43.851131,
+    -104.218608,
+    43.851131
+],
+  "geometry": {"coordinates":[-104.218608,43.851131],"type":"Point"}
+}

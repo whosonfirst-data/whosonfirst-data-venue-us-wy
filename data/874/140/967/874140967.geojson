@@ -1,0 +1,56 @@
+{
+  "id": 874140967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.47942,44.250879,-105.47942,44.250879",
+    "geom:latitude":44.250879,
+    "geom:longitude":-105.47942,
+    "iso:country":"US",
+    "sg:address":"4800 Butler Spaeth Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 8084",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Poxp6DSgxQbe9CJYa4J63_44.250879_-105.479420@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312243,
+    "wof:geomhash":"79e5c93066903eb753cd2bf1cd21d918",
+    "wof:hierarchy":[],
+    "wof:id":874140967,
+    "wof:lastmodified":1464312243,
+    "wof:name":"Midwest Motor Express Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -105.47942,
+    44.250879,
+    -105.47942,
+    44.250879
+],
+  "geometry": {"coordinates":[-105.47942,44.250879],"type":"Point"}
+}

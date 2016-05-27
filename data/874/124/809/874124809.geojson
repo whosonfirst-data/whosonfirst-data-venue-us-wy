@@ -1,0 +1,56 @@
+{
+  "id": 874124809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.386724,42.849005,-106.386724,42.849005",
+    "geom:latitude":42.849005,
+    "geom:longitude":-106.386724,
+    "iso:country":"US",
+    "sg:address":"30 S Roosevelt St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 7035",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_351OXTNvtLFgBGMRgOPu2o_42.849005_-106.386724@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312083,
+    "wof:geomhash":"1bd1f175bbe726b5abaccff7b8794127",
+    "wof:hierarchy":[],
+    "wof:id":874124809,
+    "wof:lastmodified":1464312083,
+    "wof:name":"Auto Doc",
+    "wof:parent_id":420550301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -106.386724,
+    42.849005,
+    -106.386724,
+    42.849005
+],
+  "geometry": {"coordinates":[-106.386724,42.849005],"type":"Point"}
+}

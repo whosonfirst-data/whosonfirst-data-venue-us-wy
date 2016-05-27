@@ -1,0 +1,51 @@
+{
+  "id": 874052295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.809287,41.124035,-104.809287,41.124035",
+    "geom:latitude":41.124035,
+    "geom:longitude":-104.809287,
+    "iso:country":"US",
+    "sg:address":"122 W 6th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 1227",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GU3sTqIueqm7HLf7d2Nq8_41.124035_-104.809287@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311262,
+    "wof:geomhash":"df60e3f291841be677a4b2399702955c",
+    "wof:hierarchy":[],
+    "wof:id":874052295,
+    "wof:lastmodified":1464311262,
+    "wof:name":"Casa De Trujillo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.809287,
+    41.124035,
+    -104.809287,
+    41.124035
+],
+  "geometry": {"coordinates":[-104.809287,41.124035],"type":"Point"}
+}

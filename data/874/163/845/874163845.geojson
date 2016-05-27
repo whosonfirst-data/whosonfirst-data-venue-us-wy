@@ -1,0 +1,58 @@
+{
+  "id": 874163845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.750167,44.756371,-108.750167,44.756371",
+    "geom:latitude":44.756371,
+    "geom:longitude":-108.750167,
+    "iso:country":"US",
+    "sg:address":"335 N Gilbert St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 7959",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "crisis",
+        "intervention"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kSDc9NCKa2lyXHehfjfhp_44.756371_-108.750167@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312467,
+    "wof:geomhash":"4025af752f98e0ea80072c4dbc8d14ea",
+    "wof:hierarchy":[],
+    "wof:id":874163845,
+    "wof:lastmodified":1464312467,
+    "wof:name":"Crisis Intervention Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crisis",
+        "intervention"
+    ]
+},
+  "bbox": [
+    -108.750167,
+    44.756371,
+    -108.750167,
+    44.756371
+],
+  "geometry": {"coordinates":[-108.750167,44.756371],"type":"Point"}
+}

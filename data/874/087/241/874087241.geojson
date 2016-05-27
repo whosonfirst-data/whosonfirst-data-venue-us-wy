@@ -1,0 +1,56 @@
+{
+  "id": 874087241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.069594,44.515315,-109.069594,44.515315",
+    "geom:latitude":44.515315,
+    "geom:longitude":-109.069594,
+    "iso:country":"US",
+    "sg:address":"903 Meadow Lane Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 6160",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LoxFs6QY3VxdTXFe1bXE5_44.515315_-109.069594@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311633,
+    "wof:geomhash":"51687bb356f9eab9694ffe3af5190bd0",
+    "wof:hierarchy":[],
+    "wof:id":874087241,
+    "wof:lastmodified":1464311633,
+    "wof:name":"Lucky S Car Wash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -109.069594,
+    44.515315,
+    -109.069594,
+    44.515315
+],
+  "geometry": {"coordinates":[-109.069594,44.515315],"type":"Point"}
+}

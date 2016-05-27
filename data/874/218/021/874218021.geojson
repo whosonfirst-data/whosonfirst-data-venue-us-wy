@@ -1,0 +1,56 @@
+{
+  "id": 874218021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.360628,43.019004,-108.360628,43.019004",
+    "geom:latitude":43.019004,
+    "geom:longitude":-108.360628,
+    "iso:country":"US",
+    "sg:address":"750 S Smith Rd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 4885",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VQc3HpHe2lzvJMoM9sBEC_43.019004_-108.360628@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313032,
+    "wof:geomhash":"31c81bfa7b93bf1493199855fd474e59",
+    "wof:hierarchy":[],
+    "wof:id":874218021,
+    "wof:lastmodified":1464313032,
+    "wof:name":"Fremont Movers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -108.360628,
+    43.019004,
+    -108.360628,
+    43.019004
+],
+  "geometry": {"coordinates":[-108.36062800000001,43.019004],"type":"Point"}
+}

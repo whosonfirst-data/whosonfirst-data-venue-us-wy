@@ -1,0 +1,58 @@
+{
+  "id": 874078435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.796718,43.461881,-110.796718,43.461881",
+    "geom:latitude":43.461881,
+    "geom:longitude":-110.796718,
+    "iso:country":"US",
+    "sg:address":"1675 Martin Ln",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 4596",
+    "sg:postcode":"83002",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6c0T9V9GOwDjzkw6ZC5PSF_43.461881_-110.796718@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311532,
+    "wof:geomhash":"6a3fee5af89abddd34045d7c610068ed",
+    "wof:hierarchy":[],
+    "wof:id":874078435,
+    "wof:lastmodified":1464311532,
+    "wof:name":"Mark's Foreign Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -110.796718,
+    43.461881,
+    -110.796718,
+    43.461881
+],
+  "geometry": {"coordinates":[-110.796718,43.461881],"type":"Point"}
+}

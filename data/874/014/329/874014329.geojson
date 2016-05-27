@@ -1,0 +1,60 @@
+{
+  "id": 874014329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.80034,44.738739,-108.80034,44.738739",
+    "geom:latitude":44.738739,
+    "geom:longitude":-108.80034,
+    "iso:country":"US",
+    "sg:address":"1101 W Coulter Ave",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 3554",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17H8AEr9vL2f1fxDmic8ap_44.738739_-108.800340@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310885,
+    "wof:geomhash":"867b9bb7494194a9160b6c8ea1461128",
+    "wof:hierarchy":[],
+    "wof:id":874014329,
+    "wof:lastmodified":1464310885,
+    "wof:name":"Westner Collision Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -108.80034,
+    44.738739,
+    -108.80034,
+    44.738739
+],
+  "geometry": {"coordinates":[-108.80034000000001,44.738739],"type":"Point"}
+}

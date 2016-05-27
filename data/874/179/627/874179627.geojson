@@ -1,0 +1,69 @@
+{
+  "id": 874179627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323998,42.847776,-106.323998,42.847776",
+    "geom:latitude":42.847776,
+    "geom:longitude":-106.323998,
+    "iso:country":"US",
+    "sg:address":"118 E Midwest Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 268 8531",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_302EOALYn0mNpT0BlpVAth_42.847776_-106.323998@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312626,
+    "wof:geomhash":"5e6b3d8f017122b59b98ea69143c0763",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874179627
+        }
+    ],
+    "wof:id":874179627,
+    "wof:lastmodified":1464312626,
+    "wof:name":"Shear Image",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.323998,
+    42.847776,
+    -106.323998,
+    42.847776
+],
+  "geometry": {"coordinates":[-106.323998,42.847776],"type":"Point"}
+}

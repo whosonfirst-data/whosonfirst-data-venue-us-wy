@@ -1,0 +1,58 @@
+{
+  "id": 874098095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.78336,44.49428,-104.78336,44.49428",
+    "geom:latitude":44.49428,
+    "geom:longitude":-104.78336,
+    "iso:country":"US",
+    "sg:address":"17559 US Hwy 14",
+    "sg:city":"Moorcroft",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 756 3203",
+    "sg:postcode":"82721",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OUcMgA8jkBACypgXhqEe2_44.494280_-104.783360@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311758,
+    "wof:geomhash":"208a5ac9c699664c2dd06a64004de39d",
+    "wof:hierarchy":[],
+    "wof:id":874098095,
+    "wof:lastmodified":1464311758,
+    "wof:name":"Kreuter Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -104.78336,
+    44.49428,
+    -104.78336,
+    44.49428
+],
+  "geometry": {"coordinates":[-104.78336,44.49428],"type":"Point"}
+}

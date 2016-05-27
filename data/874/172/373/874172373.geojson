@@ -1,0 +1,64 @@
+{
+  "id": 874172373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323674,42.85064,-106.323674,42.85064",
+    "geom:latitude":42.85064,
+    "geom:longitude":-106.323674,
+    "iso:country":"US",
+    "sg:address":"159 N Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 0700",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7n2r6BnFiwHI8c7erYored_42.850640_-106.323674@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312553,
+    "wof:geomhash":"0ce63c088f95c0ef1aacb7862c837772",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874172373
+        }
+    ],
+    "wof:id":874172373,
+    "wof:lastmodified":1464312553,
+    "wof:name":"Day Stuart R",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.323674,
+    42.85064,
+    -106.323674,
+    42.85064
+],
+  "geometry": {"coordinates":[-106.323674,42.85064],"type":"Point"}
+}

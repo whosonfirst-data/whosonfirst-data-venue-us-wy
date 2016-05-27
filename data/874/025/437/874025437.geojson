@@ -1,0 +1,75 @@
+{
+  "id": 874025437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.587223,41.307722,-105.587223,41.307722",
+    "geom:latitude":41.307722,
+    "geom:longitude":-105.587223,
+    "iso:country":"US",
+    "sg:address":"812 E Kearney St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5985",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "curtain",
+        "made",
+        "drapery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kxQawolNEWwAsYME2uDmL_41.307722_-105.587223@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311002,
+    "wof:geomhash":"fee028e969a6e8a0bc7a42cdfc4f0576",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874025437
+        }
+    ],
+    "wof:id":874025437,
+    "wof:lastmodified":1464311002,
+    "wof:name":"Home Interiors",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "curtain",
+        "made",
+        "drapery"
+    ]
+},
+  "bbox": [
+    -105.587223,
+    41.307722,
+    -105.587223,
+    41.307722
+],
+  "geometry": {"coordinates":[-105.58722299999999,41.307722],"type":"Point"}
+}

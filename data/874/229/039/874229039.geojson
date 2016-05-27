@@ -1,0 +1,59 @@
+{
+  "id": 874229039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.053672,44.516296,-109.053672,44.516296",
+    "geom:latitude":44.516296,
+    "geom:longitude":-109.053672,
+    "iso:country":"US",
+    "sg:address":"2207 17th St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cody/181577-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 6565",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KGnjP5MR2cVlMTnH1dCji_44.516296_-109.053672@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313151,
+    "wof:geomhash":"1774f6aa5be26d42cfe5c09414048927",
+    "wof:hierarchy":[],
+    "wof:id":874229039,
+    "wof:lastmodified":1464313151,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -109.053672,
+    44.516296,
+    -109.053672,
+    44.516296
+],
+  "geometry": {"coordinates":[-109.05367200000001,44.516296],"type":"Point"}
+}

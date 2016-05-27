@@ -1,0 +1,71 @@
+{
+  "id": 873999697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.284341,42.848431,-106.284341,42.848431",
+    "geom:latitude":42.848431,
+    "geom:longitude":-106.284341,
+    "iso:country":"US",
+    "sg:address":"348 S Socony Pl",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 2894",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hTFs0oxN42MuNYb8DN0ps_42.848431_-106.284341@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310758,
+    "wof:geomhash":"ddc5ea1a90cebf32ed69db3e3e805e34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873999697
+        }
+    ],
+    "wof:id":873999697,
+    "wof:lastmodified":1464310758,
+    "wof:name":"Dewey Plumbing & Heating",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.284341,
+    42.848431,
+    -106.284341,
+    42.848431
+],
+  "geometry": {"coordinates":[-106.284341,42.848431],"type":"Point"}
+}

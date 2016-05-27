@@ -1,0 +1,73 @@
+{
+  "id": 874146449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323802,42.848645,-106.323802,42.848645",
+    "geom:latitude":42.848645,
+    "geom:longitude":-106.323802,
+    "iso:country":"US",
+    "sg:address":"105 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7205",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PQkkxLxrDPIc94VULpEYb_42.848645_-106.323802@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312297,
+    "wof:geomhash":"8955da313b4616d9717c28cdf3b49aa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874146449
+        }
+    ],
+    "wof:id":874146449,
+    "wof:lastmodified":1464312297,
+    "wof:name":"Serendipity Art Gallery",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -106.323802,
+    42.848645,
+    -106.323802,
+    42.848645
+],
+  "geometry": {"coordinates":[-106.323802,42.848645],"type":"Point"}
+}

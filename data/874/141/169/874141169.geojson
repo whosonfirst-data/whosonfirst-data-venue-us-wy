@@ -1,0 +1,56 @@
+{
+  "id": 874141169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.818484,41.131481,-104.818484,41.131481",
+    "geom:latitude":41.131481,
+    "geom:longitude":-104.818484,
+    "iso:country":"US",
+    "sg:address":"415 W Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 5145",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lFsEBi7FDx965o6p9veRV_41.131481_-104.818484@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312245,
+    "wof:geomhash":"238fd8856092dcfd9e112d169cb48c20",
+    "wof:hierarchy":[],
+    "wof:id":874141169,
+    "wof:lastmodified":1464312245,
+    "wof:name":"Charlies Appliances",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -104.818484,
+    41.131481,
+    -104.818484,
+    41.131481
+],
+  "geometry": {"coordinates":[-104.818484,41.131481],"type":"Point"}
+}

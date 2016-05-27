@@ -1,0 +1,71 @@
+{
+  "id": 874186141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.305231,42.848694,-106.305231,42.848694",
+    "geom:latitude":42.848694,
+    "geom:longitude":-106.305231,
+    "iso:country":"US",
+    "sg:address":"1545 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 7546",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "control",
+        "weight"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19I4nHIeITcd4sowmZlOTS_42.848694_-106.305231@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312701,
+    "wof:geomhash":"8c46d03301d2be751fe793a772497f5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874186141
+        }
+    ],
+    "wof:id":874186141,
+    "wof:lastmodified":1464312701,
+    "wof:name":"LA Weight Loss Ctr",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "weight"
+    ]
+},
+  "bbox": [
+    -106.305231,
+    42.848694,
+    -106.305231,
+    42.848694
+],
+  "geometry": {"coordinates":[-106.30523100000001,42.848694],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874141719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.328136,42.836601,-106.328136,42.836601",
+    "geom:latitude":42.836601,
+    "geom:longitude":-106.328136,
+    "iso:country":"US",
+    "sg:address":"338 W 14th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 7050",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "transportation",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EaWS9lWqErnRK1Rp2SA3q_42.836601_-106.328136@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312250,
+    "wof:geomhash":"547a3fc71de6949502f52da61e685dee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874141719
+        }
+    ],
+    "wof:id":874141719,
+    "wof:lastmodified":1464312250,
+    "wof:name":"Locks Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "transportation",
+        "repair"
+    ]
+},
+  "bbox": [
+    -106.328136,
+    42.836601,
+    -106.328136,
+    42.836601
+],
+  "geometry": {"coordinates":[-106.328136,42.836601],"type":"Point"}
+}

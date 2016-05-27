@@ -1,0 +1,75 @@
+{
+  "id": 873988251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.219094,41.581852,-109.219094,41.581852",
+    "geom:latitude":41.581852,
+    "geom:longitude":-109.219094,
+    "iso:country":"US",
+    "sg:address":"106 Cedar St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 3433",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ranch",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49xrvh4a1wnxCgMeD3wEEK_41.581852_-109.219094@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310677,
+    "wof:geomhash":"d113f38183661e6813e82478b7af6328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":873988251
+        }
+    ],
+    "wof:id":873988251,
+    "wof:lastmodified":1464310677,
+    "wof:name":"Greenriver Livestock Inc",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranch",
+        "general"
+    ]
+},
+  "bbox": [
+    -109.219094,
+    41.581852,
+    -109.219094,
+    41.581852
+],
+  "geometry": {"coordinates":[-109.219094,41.581852],"type":"Point"}
+}

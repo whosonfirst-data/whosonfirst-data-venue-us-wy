@@ -1,0 +1,67 @@
+{
+  "id": 874066569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.852224,44.67152,-103.852224,44.67152",
+    "geom:latitude":44.67152,
+    "geom:longitude":-103.852224,
+    "iso:country":"US",
+    "sg:address":"509 State St",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 3135",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "product",
+        "mfg",
+        "merchandise",
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uBbdZTz0Xin0W575DXXDA_44.671520_-103.852224@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311394,
+    "wof:geomhash":"fa9f4309ff241a0703ce8a8e4bae0810",
+    "wof:hierarchy":[],
+    "wof:id":874066569,
+    "wof:lastmodified":1464311394,
+    "wof:name":"Smith Jewelry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg",
+        "merchandise",
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -103.852224,
+    44.67152,
+    -103.852224,
+    44.67152
+],
+  "geometry": {"coordinates":[-103.85222400000001,44.67152],"type":"Point"}
+}

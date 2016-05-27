@@ -1,0 +1,71 @@
+{
+  "id": 874161893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.318214,42.858979,-106.318214,42.858979",
+    "geom:latitude":42.858979,
+    "geom:longitude":-106.318214,
+    "iso:country":"US",
+    "sg:address":"720 N Park St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5338",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EHCQ8gpVXnaEDHra400mJ_42.858979_-106.318214@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312450,
+    "wof:geomhash":"5f707c6df7b39749806a3b8e593900bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874161893
+        }
+    ],
+    "wof:id":874161893,
+    "wof:lastmodified":1464312450,
+    "wof:name":"Power Stroke Performance",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -106.318214,
+    42.858979,
+    -106.318214,
+    42.858979
+],
+  "geometry": {"coordinates":[-106.318214,42.858979],"type":"Point"}
+}

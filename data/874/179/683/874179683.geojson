@@ -1,0 +1,60 @@
+{
+  "id": 874179683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.056412,44.528043,-109.056412,44.528043",
+    "geom:latitude":44.528043,
+    "geom:longitude":-109.056412,
+    "iso:country":"US",
+    "sg:address":"919 16th St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 2475",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qlgJ2oKIYTthvnSqDBHMS_44.528043_-109.056412@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312626,
+    "wof:geomhash":"3c558fa6194644b8ca97b6b3bfe2046c",
+    "wof:hierarchy":[],
+    "wof:id":874179683,
+    "wof:lastmodified":1464312626,
+    "wof:name":"Cody Conoco",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -109.056412,
+    44.528043,
+    -109.056412,
+    44.528043
+],
+  "geometry": {"coordinates":[-109.05641199999999,44.528043],"type":"Point"}
+}

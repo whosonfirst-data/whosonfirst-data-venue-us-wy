@@ -1,0 +1,73 @@
+{
+  "id": 874125507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.299279,42.85398,-106.299279,42.85398",
+    "geom:latitude":42.85398,
+    "geom:longitude":-106.299279,
+    "iso:country":"US",
+    "sg:address":"2027 E Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 5060",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rASBYfGbTfDLUGcXOHIFa_42.853980_-106.299279@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312090,
+    "wof:geomhash":"4e786434d5fb7849dfe529755f137fad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874125507
+        }
+    ],
+    "wof:id":874125507,
+    "wof:lastmodified":1464312090,
+    "wof:name":"Crescent Electric Supply Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ]
+},
+  "bbox": [
+    -106.299279,
+    42.85398,
+    -106.299279,
+    42.85398
+],
+  "geometry": {"coordinates":[-106.299279,42.85398],"type":"Point"}
+}

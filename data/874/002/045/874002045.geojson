@@ -1,0 +1,56 @@
+{
+  "id": 874002045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.925299,44.694065,-107.925299,44.694065",
+    "geom:latitude":44.694065,
+    "geom:longitude":-107.925299,
+    "iso:country":"US",
+    "sg:address":"2100 Bear Creek Ranch Rd",
+    "sg:city":"Shell",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 2900",
+    "sg:postcode":"82441",
+    "sg:province":"WY",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22uJF7LAg323OcUeCQxMHw_44.694065_-107.925299@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310772,
+    "wof:geomhash":"6cd73d9caad29c1660bcf53f0996e78e",
+    "wof:hierarchy":[],
+    "wof:id":874002045,
+    "wof:lastmodified":1464310772,
+    "wof:name":"Cinnamon Bear",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -107.925299,
+    44.694065,
+    -107.925299,
+    44.694065
+],
+  "geometry": {"coordinates":[-107.925299,44.694065],"type":"Point"}
+}

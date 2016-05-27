@@ -1,0 +1,58 @@
+{
+  "id": 874109983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.617498,43.527865,-109.617498,43.527865",
+    "geom:latitude":43.527865,
+    "geom:longitude":-109.617498,
+    "iso:country":"US",
+    "sg:address":"5626 US Hwy 26",
+    "sg:city":"Dubois",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 455 2205",
+    "sg:postcode":"82513",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RyQrH8ocEHzVFNvBcPFzz_43.527865_-109.617498@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311919,
+    "wof:geomhash":"230cb49e6913e4260d5e10dfd119f5e4",
+    "wof:hierarchy":[],
+    "wof:id":874109983,
+    "wof:lastmodified":1464311919,
+    "wof:name":"Koenig Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -109.617498,
+    43.527865,
+    -109.617498,
+    43.527865
+],
+  "geometry": {"coordinates":[-109.617498,43.527865],"type":"Point"}
+}

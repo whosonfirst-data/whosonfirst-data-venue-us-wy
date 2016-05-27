@@ -1,0 +1,60 @@
+{
+  "id": 874087789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.223627,43.854127,-104.223627,43.854127",
+    "geom:latitude":43.854127,
+    "geom:longitude":-104.223627,
+    "iso:country":"US",
+    "sg:address":"1425 Sunset St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 5865",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jl3UdP4IyE4yVcXFMjGxH_43.854127_-104.223627@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311639,
+    "wof:geomhash":"a15baa4ddfaea04c7b0ea6baf477fb80",
+    "wof:hierarchy":[],
+    "wof:id":874087789,
+    "wof:lastmodified":1464311639,
+    "wof:name":"Sunset Pet Grooming",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -104.223627,
+    43.854127,
+    -104.223627,
+    43.854127
+],
+  "geometry": {"coordinates":[-104.22362699999999,43.854127],"type":"Point"}
+}

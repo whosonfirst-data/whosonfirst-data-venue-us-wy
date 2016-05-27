@@ -1,0 +1,71 @@
+{
+  "id": 874068805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.36659,42.81886,-106.36659,42.81886",
+    "geom:latitude":42.81886,
+    "geom:longitude":-106.36659,
+    "iso:country":"US",
+    "sg:address":"3577 Meadowlark Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 9447",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Dyz8IG3mnMA5FIyLO0SpQ_42.818860_-106.366590@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311421,
+    "wof:geomhash":"30e6766a5553e324ba0cdc35414fa4db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874068805
+        }
+    ],
+    "wof:id":874068805,
+    "wof:lastmodified":1464311421,
+    "wof:name":"Wyoming Concrete Core",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.36659,
+    42.81886,
+    -106.36659,
+    42.81886
+],
+  "geometry": {"coordinates":[-106.36659,42.81886],"type":"Point"}
+}

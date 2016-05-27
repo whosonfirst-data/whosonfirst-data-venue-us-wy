@@ -1,0 +1,73 @@
+{
+  "id": 874224239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.308916,42.852614,-106.308916,42.852614",
+    "geom:latitude":42.852614,
+    "geom:longitude":-106.308916,
+    "iso:country":"US",
+    "sg:address":"1230 E Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 8026",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "second",
+        "store",
+        "hand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IAHZP2tcvrOXU27wSeCIX_42.852614_-106.308916@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313105,
+    "wof:geomhash":"b3672bacf5c03507f09d401d29ec27a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874224239
+        }
+    ],
+    "wof:id":874224239,
+    "wof:lastmodified":1464313105,
+    "wof:name":"Salvation Army Thrift Store",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "second",
+        "store",
+        "hand"
+    ]
+},
+  "bbox": [
+    -106.308916,
+    42.852614,
+    -106.308916,
+    42.852614
+],
+  "geometry": {"coordinates":[-106.308916,42.852614],"type":"Point"}
+}

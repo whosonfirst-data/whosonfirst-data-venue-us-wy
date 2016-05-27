@@ -1,0 +1,56 @@
+{
+  "id": 874220105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.53877,41.790223,-110.53877,41.790223",
+    "geom:latitude":41.790223,
+    "geom:longitude":-110.53877,
+    "iso:country":"US",
+    "sg:address":"702 Onyx St",
+    "sg:city":"Kemmerer",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 877 4496",
+    "sg:postcode":"83101",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m40qTLFOh62HINSxYAzVK_41.790223_-110.538770@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313062,
+    "wof:geomhash":"c1107a44ac51567d819b4ff94902870d",
+    "wof:hierarchy":[],
+    "wof:id":874220105,
+    "wof:lastmodified":1464313062,
+    "wof:name":"D Tykie Skedros MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -110.53877,
+    41.790223,
+    -110.53877,
+    41.790223
+],
+  "geometry": {"coordinates":[-110.53877,41.790223],"type":"Point"}
+}

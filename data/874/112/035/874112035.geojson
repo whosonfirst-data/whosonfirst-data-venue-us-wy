@@ -1,0 +1,71 @@
+{
+  "id": 874112035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.328224,42.850022,-106.328224,42.850022",
+    "geom:latitude":42.850022,
+    "geom:longitude":-106.328224,
+    "iso:country":"US",
+    "sg:address":"235 W 1st St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 262 0110",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WfMcLz58v40lEGgJyfk38_42.850022_-106.328224@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311958,
+    "wof:geomhash":"60bc4d472e29f5f18277d7904c92b529",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874112035
+        }
+    ],
+    "wof:id":874112035,
+    "wof:lastmodified":1464311958,
+    "wof:name":"Gary's Locksmithing",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -106.328224,
+    42.850022,
+    -106.328224,
+    42.850022
+],
+  "geometry": {"coordinates":[-106.32822400000001,42.850022],"type":"Point"}
+}

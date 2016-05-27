@@ -1,0 +1,78 @@
+{
+  "id": 874149803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.615646,41.30689,-105.615646,41.30689",
+    "geom:latitude":41.30689,
+    "geom:longitude":-105.615646,
+    "iso:country":"US",
+    "sg:address":"605 S Adams St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 4592",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "specializing",
+        "roofing",
+        "work",
+        "contractor"
+    ],
+    "sg:website":"www.bighornroofing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gg9d1QBqzjewDo54848RD_41.306890_-105.615646@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312327,
+    "wof:geomhash":"117a9b11b88909b7c03d107b0ffc9974",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874149803
+        }
+    ],
+    "wof:id":874149803,
+    "wof:lastmodified":1464312327,
+    "wof:name":"Big Horn Roofing Inc",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specializing",
+        "roofing",
+        "work",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.615646,
+    41.30689,
+    -105.615646,
+    41.30689
+],
+  "geometry": {"coordinates":[-105.615646,41.30689],"type":"Point"}
+}

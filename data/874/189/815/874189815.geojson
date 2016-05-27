@@ -1,0 +1,75 @@
+{
+  "id": 874189815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.344316,42.807699,-106.344316,42.807699",
+    "geom:latitude":42.807699,
+    "geom:longitude":-106.344316,
+    "iso:country":"US",
+    "sg:address":"4305 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2561",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "intermediate",
+        "skilled",
+        "convalescent",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DJ21SpBt3tRMDeXah7lT5_42.807699_-106.344316@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312738,
+    "wof:geomhash":"4c717f6a88e80683c52c9b7a600a9498",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874189815
+        }
+    ],
+    "wof:id":874189815,
+    "wof:lastmodified":1464312738,
+    "wof:name":"Popular Living Ctr",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "intermediate",
+        "skilled",
+        "convalescent",
+        "home"
+    ]
+},
+  "bbox": [
+    -106.344316,
+    42.807699,
+    -106.344316,
+    42.807699
+],
+  "geometry": {"coordinates":[-106.34431600000001,42.807699],"type":"Point"}
+}

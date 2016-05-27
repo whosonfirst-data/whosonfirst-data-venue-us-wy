@@ -1,0 +1,75 @@
+{
+  "id": 874122029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595114,41.310131,-105.595114,41.310131",
+    "geom:latitude":41.310131,
+    "geom:longitude":-105.595114,
+    "iso:country":"US",
+    "sg:address":"404 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3864",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZPj0UeMjmOcwBrMeyCmei_41.310131_-105.595114@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312059,
+    "wof:geomhash":"163604c33be8a1210994eed897b5f0fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874122029
+        }
+    ],
+    "wof:id":874122029,
+    "wof:lastmodified":1464312059,
+    "wof:name":"2 Bazaar",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -105.595114,
+    41.310131,
+    -105.595114,
+    41.310131
+],
+  "geometry": {"coordinates":[-105.595114,41.310131],"type":"Point"}
+}

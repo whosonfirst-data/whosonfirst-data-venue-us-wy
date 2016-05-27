@@ -1,0 +1,68 @@
+{
+  "id": 874078565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.266457,41.574771,-109.266457,41.574771",
+    "geom:latitude":41.574771,
+    "geom:longitude":-109.266457,
+    "iso:country":"US",
+    "sg:address":"1645 Sunset Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 5987",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MOqx5gzi5z4sha7y6NLhY_41.574771_-109.266457@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311533,
+    "wof:geomhash":"2b1ac21bf945265e44fb3dbfcd561aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874078565
+        }
+    ],
+    "wof:id":874078565,
+    "wof:lastmodified":1464311533,
+    "wof:name":"Kellys Sunset",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.266457,
+    41.574771,
+    -109.266457,
+    41.574771
+],
+  "geometry": {"coordinates":[-109.266457,41.574771],"type":"Point"}
+}

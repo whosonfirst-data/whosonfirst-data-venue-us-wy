@@ -1,0 +1,73 @@
+{
+  "id": 874148559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.219798,41.588402,-109.219798,41.588402",
+    "geom:latitude":41.588402,
+    "geom:longitude":-109.219798,
+    "iso:country":"US",
+    "sg:address":"503 5th St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 2135",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jYabWc0xDrOM2iwOTVkwy_41.588402_-109.219798@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312316,
+    "wof:geomhash":"3c4dc3a991dbac2cae7fd032390781ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874148559
+        }
+    ],
+    "wof:id":874148559,
+    "wof:lastmodified":1464312316,
+    "wof:name":"Harley J Mc Kinney Law Offices",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -109.219798,
+    41.588402,
+    -109.219798,
+    41.588402
+],
+  "geometry": {"coordinates":[-109.219798,41.588402],"type":"Point"}
+}

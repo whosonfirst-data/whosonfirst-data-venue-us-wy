@@ -1,0 +1,60 @@
+{
+  "id": 874143475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.697586,44.347596,-106.697586,44.347596",
+    "geom:latitude":44.347596,
+    "geom:longitude":-106.697586,
+    "iso:country":"US",
+    "sg:address":"66 N Lobban Ave",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 7645",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bCj8dc8381u0OL2AU2a7E_44.347596_-106.697586@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312266,
+    "wof:geomhash":"9ea674b4cb756f37ad107ea2ccdcaf71",
+    "wof:hierarchy":[],
+    "wof:id":874143475,
+    "wof:lastmodified":1464312266,
+    "wof:name":"Knebel Body and Paint",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -106.697586,
+    44.347596,
+    -106.697586,
+    44.347596
+],
+  "geometry": {"coordinates":[-106.697586,44.347596],"type":"Point"}
+}

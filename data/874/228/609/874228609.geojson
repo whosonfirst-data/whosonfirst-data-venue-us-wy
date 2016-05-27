@@ -1,0 +1,61 @@
+{
+  "id": 874228609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.798604,41.160225,-104.798604,41.160225",
+    "geom:latitude":41.160225,
+    "geom:longitude":-104.798604,
+    "iso:country":"US",
+    "sg:address":"1830 Dell Range Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/195930-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 0392",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CoXBI0QspLsVC1h6Q9jtg_41.160225_-104.798604@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313147,
+    "wof:geomhash":"3f88b3b15386a1a4006abcd47fcc2528",
+    "wof:hierarchy":[],
+    "wof:id":874228609,
+    "wof:lastmodified":1464313147,
+    "wof:name":"Wendy's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -104.798604,
+    41.160225,
+    -104.798604,
+    41.160225
+],
+  "geometry": {"coordinates":[-104.798604,41.160225],"type":"Point"}
+}

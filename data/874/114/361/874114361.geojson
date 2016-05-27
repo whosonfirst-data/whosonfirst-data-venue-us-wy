@@ -1,0 +1,71 @@
+{
+  "id": 874114361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323665,42.851777,-106.323665,42.851777",
+    "geom:latitude":42.851777,
+    "geom:longitude":-106.323665,
+    "iso:country":"US",
+    "sg:address":"225 N Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8811",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Kb8rAMDs3WWH2krQ9PilT_42.851777_-106.323665@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311981,
+    "wof:geomhash":"769383e14e07062c28f5f992afedfbb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874114361
+        }
+    ],
+    "wof:id":874114361,
+    "wof:lastmodified":1464311981,
+    "wof:name":"Club Dance West",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -106.323665,
+    42.851777,
+    -106.323665,
+    42.851777
+],
+  "geometry": {"coordinates":[-106.32366500000001,42.851777],"type":"Point"}
+}

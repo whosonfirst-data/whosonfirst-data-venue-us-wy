@@ -1,0 +1,56 @@
+{
+  "id": 874109291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.698151,44.345274,-106.698151,44.345274",
+    "geom:latitude":44.345274,
+    "geom:longitude":-106.698151,
+    "iso:country":"US",
+    "sg:address":"141 S Main St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 8616",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GNRepHow1N4lK4rx4RwY6_44.345274_-106.698151@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311906,
+    "wof:geomhash":"2e10ffc3de818eb765329925d131d127",
+    "wof:hierarchy":[],
+    "wof:id":874109291,
+    "wof:lastmodified":1464311906,
+    "wof:name":"Smith Barney",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -106.698151,
+    44.345274,
+    -106.698151,
+    44.345274
+],
+  "geometry": {"coordinates":[-106.698151,44.345274],"type":"Point"}
+}

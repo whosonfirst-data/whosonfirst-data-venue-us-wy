@@ -1,0 +1,64 @@
+{
+  "id": 874107325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.277135,42.857495,-106.277135,42.857495",
+    "geom:latitude":42.857495,
+    "geom:longitude":-106.277135,
+    "iso:country":"US",
+    "sg:address":"1180 Oildale St",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 7357",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cZ3cYuyYeWncLhWa0Sek9_42.857495_-106.277135@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311886,
+    "wof:geomhash":"bc9ec3cca3fc15c9f46e7eabc2925a48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874107325
+        }
+    ],
+    "wof:id":874107325,
+    "wof:lastmodified":1464311886,
+    "wof:name":"Hooch's Bar & Grill",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.277135,
+    42.857495,
+    -106.277135,
+    42.857495
+],
+  "geometry": {"coordinates":[-106.277135,42.857495],"type":"Point"}
+}

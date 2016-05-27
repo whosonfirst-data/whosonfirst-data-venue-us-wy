@@ -1,0 +1,77 @@
+{
+  "id": 873989455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.220347,41.585294,-109.220347,41.585294",
+    "geom:latitude":41.585294,
+    "geom:longitude":-109.220347,
+    "iso:country":"US",
+    "sg:address":"230 C St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 3815",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79NuFdJ7rJVWx26jHaRqno_41.585294_-109.220347@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310686,
+    "wof:geomhash":"2683761cd69b04458f94a1aefcc1899d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":873989455
+        }
+    ],
+    "wof:id":873989455,
+    "wof:lastmodified":1464310686,
+    "wof:name":"Allied Hobby Shop",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -109.220347,
+    41.585294,
+    -109.220347,
+    41.585294
+],
+  "geometry": {"coordinates":[-109.220347,41.585294],"type":"Point"}
+}

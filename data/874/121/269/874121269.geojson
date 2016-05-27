@@ -1,0 +1,69 @@
+{
+  "id": 874121269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.422828,42.803444,-106.422828,42.803444",
+    "geom:latitude":42.803444,
+    "geom:longitude":-106.422828,
+    "iso:country":"US",
+    "sg:address":"6517 Terrace Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 1761",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gLfXja3qMofyUfoRjtIYK_42.803444_-106.422828@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312052,
+    "wof:geomhash":"926e5e31331587573994c80d7e8006df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874121269
+        }
+    ],
+    "wof:id":874121269,
+    "wof:lastmodified":1464312052,
+    "wof:name":"Flanagan & Flanagan",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -106.422828,
+    42.803444,
+    -106.422828,
+    42.803444
+],
+  "geometry": {"coordinates":[-106.422828,42.803444],"type":"Point"}
+}

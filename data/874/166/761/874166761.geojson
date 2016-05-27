@@ -1,0 +1,60 @@
+{
+  "id": 874166761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.384747,43.024732,-108.384747,43.024732",
+    "geom:latitude":43.024732,
+    "geom:longitude":-108.384747,
+    "iso:country":"US",
+    "sg:address":"512 E Main St",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 1642",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77agOZbTb1CgtxbfPBl19g_43.024732_-108.384747@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312496,
+    "wof:geomhash":"08811c3c1e61971a1d70a82c255b2696",
+    "wof:hierarchy":[],
+    "wof:id":874166761,
+    "wof:lastmodified":1464312496,
+    "wof:name":"Muddy Creek Grooming",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -108.384747,
+    43.024732,
+    -108.384747,
+    43.024732
+],
+  "geometry": {"coordinates":[-108.384747,43.024732],"type":"Point"}
+}

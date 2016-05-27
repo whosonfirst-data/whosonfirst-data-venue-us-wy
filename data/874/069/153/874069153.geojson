@@ -1,0 +1,59 @@
+{
+  "id": 874069153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.800482,41.105956,-104.800482,41.105956",
+    "geom:latitude":41.105956,
+    "geom:longitude":-104.800482,
+    "iso:country":"US",
+    "sg:address":"903 S Greeley Hwy",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 633 8100",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.painconsultants.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iwWZNWH8Qt7mkNN2e1ILR_41.105956_-104.800482@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311424,
+    "wof:geomhash":"a07b3ee0ff0896481928d4f9de8ac602",
+    "wof:hierarchy":[],
+    "wof:id":874069153,
+    "wof:lastmodified":1464311424,
+    "wof:name":"Pain Consultants-The Rockies",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -104.800482,
+    41.105956,
+    -104.800482,
+    41.105956
+],
+  "geometry": {"coordinates":[-104.800482,41.105956],"type":"Point"}
+}

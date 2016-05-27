@@ -1,0 +1,69 @@
+{
+  "id": 874202119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.353581,42.873607,-106.353581,42.873607",
+    "geom:latitude":42.873607,
+    "geom:longitude":-106.353581,
+    "iso:country":"US",
+    "sg:address":"1929 Skyview Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 9078",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ctugcKjptve9af1d3GhAv_42.873607_-106.353581@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312865,
+    "wof:geomhash":"a32c1f502e3f59f3fc516efa3ab73dba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874202119
+        }
+    ],
+    "wof:id":874202119,
+    "wof:lastmodified":1464312865,
+    "wof:name":"Computalog USA Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -106.353581,
+    42.873607,
+    -106.353581,
+    42.873607
+],
+  "geometry": {"coordinates":[-106.35358100000001,42.873607],"type":"Point"}
+}

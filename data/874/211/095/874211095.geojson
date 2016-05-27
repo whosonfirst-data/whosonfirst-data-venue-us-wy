@@ -1,0 +1,73 @@
+{
+  "id": 874211095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.517444,41.293152,-105.517444,41.293152",
+    "geom:latitude":41.293152,
+    "geom:longitude":-105.517444,
+    "iso:country":"US",
+    "sg:address":"2527 Mountain Valley Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5209",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "carpenter",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Xj8tWMITGyc0Un6DjG13S_41.293152_-105.517444@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312963,
+    "wof:geomhash":"bffc16ea08b70fb38e948cc977cb874f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874211095
+        }
+    ],
+    "wof:id":874211095,
+    "wof:lastmodified":1464312963,
+    "wof:name":"Bob Honken Construction",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpenter",
+        "general"
+    ]
+},
+  "bbox": [
+    -105.517444,
+    41.293152,
+    -105.517444,
+    41.293152
+],
+  "geometry": {"coordinates":[-105.517444,41.293152],"type":"Point"}
+}

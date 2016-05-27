@@ -1,0 +1,58 @@
+{
+  "id": 874000419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.821603,41.166999,-104.821603,41.166999",
+    "geom:latitude":41.166999,
+    "geom:longitude":-104.821603,
+    "iso:country":"US",
+    "sg:address":"5109 Redmond Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 1468",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "domestic",
+        "sea"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aUwe4gwEqO3mELCoA3WTg_41.166999_-104.821603@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310763,
+    "wof:geomhash":"68e48b114fbefe3d266aef010db646b5",
+    "wof:hierarchy":[],
+    "wof:id":874000419,
+    "wof:lastmodified":1464310763,
+    "wof:name":"AB Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "domestic",
+        "sea"
+    ]
+},
+  "bbox": [
+    -104.821603,
+    41.166999,
+    -104.821603,
+    41.166999
+],
+  "geometry": {"coordinates":[-104.821603,41.166999],"type":"Point"}
+}

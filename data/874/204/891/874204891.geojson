@@ -1,0 +1,71 @@
+{
+  "id": 874204891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.32023,42.85009,-106.32023,42.85009",
+    "geom:latitude":42.85009,
+    "geom:longitude":-106.32023,
+    "iso:country":"US",
+    "sg:address":"400 E 1st St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 7669",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "organization",
+        "skiing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41qEQktIPyQKFVctZXGoGv_42.850090_-106.320230@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312893,
+    "wof:geomhash":"88e5e0cc6586239ccd1b36d033cf8b61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874204891
+        }
+    ],
+    "wof:id":874204891,
+    "wof:lastmodified":1464312893,
+    "wof:name":"Casper Mountain Racers",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "skiing"
+    ]
+},
+  "bbox": [
+    -106.32023,
+    42.85009,
+    -106.32023,
+    42.85009
+],
+  "geometry": {"coordinates":[-106.32023,42.85009],"type":"Point"}
+}

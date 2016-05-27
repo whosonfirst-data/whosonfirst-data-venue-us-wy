@@ -1,0 +1,56 @@
+{
+  "id": 874086699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.96735,41.259308,-110.96735,41.259308",
+    "geom:latitude":41.259308,
+    "geom:longitude":-110.96735,
+    "iso:country":"US",
+    "sg:address":"20 Yellow Creek Rd",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 7887",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RdM4ssvP2rfBon8AMoDlY_41.259308_-110.967350@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311627,
+    "wof:geomhash":"3a9128ddbaae7dd792ccbd8b1a107bc1",
+    "wof:hierarchy":[],
+    "wof:id":874086699,
+    "wof:lastmodified":1464311627,
+    "wof:name":"Arnold Law Firm",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -110.96735,
+    41.259308,
+    -110.96735,
+    41.259308
+],
+  "geometry": {"coordinates":[-110.96735,41.259308],"type":"Point"}
+}

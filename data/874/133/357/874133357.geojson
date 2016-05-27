@@ -1,0 +1,56 @@
+{
+  "id": 874133357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.816799,41.099508,-104.816799,41.099508",
+    "geom:latitude":41.099508,
+    "geom:longitude":-104.816799,
+    "iso:country":"US",
+    "sg:address":"2015 S 4th Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 0909",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TDHRAluAJMXlBL9cpmToi_41.099508_-104.816799@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312176,
+    "wof:geomhash":"538e6f15265f79d2d92bc7f9210b8fc9",
+    "wof:hierarchy":[],
+    "wof:id":874133357,
+    "wof:lastmodified":1464312176,
+    "wof:name":"Big Wyoming Towing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -104.816799,
+    41.099508,
+    -104.816799,
+    41.099508
+],
+  "geometry": {"coordinates":[-104.816799,41.099508],"type":"Point"}
+}

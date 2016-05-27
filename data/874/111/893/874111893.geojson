@@ -1,0 +1,56 @@
+{
+  "id": 874111893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.955807,44.023385,-107.955807,44.023385",
+    "geom:latitude":44.023385,
+    "geom:longitude":-107.955807,
+    "iso:country":"US",
+    "sg:address":"801 N 10th St",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 2781",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VWoWIf2ALMI19qs78K4MJ_44.023385_-107.955807@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311956,
+    "wof:geomhash":"bca762b619ed4bff9966ab58c1a1bd5a",
+    "wof:hierarchy":[],
+    "wof:id":874111893,
+    "wof:lastmodified":1464311956,
+    "wof:name":"Cloud Peak Veterinary Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -107.955807,
+    44.023385,
+    -107.955807,
+    44.023385
+],
+  "geometry": {"coordinates":[-107.95580699999999,44.023385],"type":"Point"}
+}

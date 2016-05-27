@@ -1,0 +1,64 @@
+{
+  "id": 874128725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.522442,42.852294,-106.522442,42.852294",
+    "geom:latitude":42.852294,
+    "geom:longitude":-106.522442,
+    "iso:country":"US",
+    "sg:address":"12120 Poison Spider Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 9296",
+    "sg:postcode":"82644",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fSbTaZvBINvSp4sYgDhwd_42.852294_-106.522442@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312118,
+    "wof:geomhash":"bf8006ff80f097437edc7cc2d3542a25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874128725
+        }
+    ],
+    "wof:id":874128725,
+    "wof:lastmodified":1464312118,
+    "wof:name":"Mule Drilling",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.522442,
+    42.852294,
+    -106.522442,
+    42.852294
+],
+  "geometry": {"coordinates":[-106.522442,42.852294],"type":"Point"}
+}

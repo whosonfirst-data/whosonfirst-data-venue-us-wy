@@ -1,0 +1,80 @@
+{
+  "id": 873999485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.442258,42.882301,-106.442258,42.882301",
+    "geom:latitude":42.882301,
+    "geom:longitude":-106.442258,
+    "iso:country":"US",
+    "sg:address":"7306 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 5222",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sound",
+        "television",
+        "system",
+        "cir",
+        "closed",
+        "special"
+    ],
+    "sg:website":"www.comsystems.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nOuIHgCeaF48nsScxcWCD_42.882301_-106.442258@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310757,
+    "wof:geomhash":"edf072a318c5f73fc1e2c772e645b4aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873999485
+        }
+    ],
+    "wof:id":873999485,
+    "wof:lastmodified":1464310757,
+    "wof:name":"Communications Systems Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sound",
+        "television",
+        "system",
+        "cir",
+        "closed",
+        "special"
+    ]
+},
+  "bbox": [
+    -106.442258,
+    42.882301,
+    -106.442258,
+    42.882301
+],
+  "geometry": {"coordinates":[-106.442258,42.882301],"type":"Point"}
+}

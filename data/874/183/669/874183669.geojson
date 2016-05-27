@@ -1,0 +1,56 @@
+{
+  "id": 874183669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.38921,44.838188,-108.38921,44.838188",
+    "geom:latitude":44.838188,
+    "geom:longitude":-108.38921,
+    "iso:country":"US",
+    "sg:address":"355 Nevada Ave",
+    "sg:city":"Lovell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 548 2548",
+    "sg:postcode":"82431",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gFJeRGXvMbzeso56bK6hQ_44.838188_-108.389210@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312673,
+    "wof:geomhash":"2d10f19c116061bfe3a55ef464e0af11",
+    "wof:hierarchy":[],
+    "wof:id":874183669,
+    "wof:lastmodified":1464312673,
+    "wof:name":"Earl S Towing Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -108.38921,
+    44.838188,
+    -108.38921,
+    44.838188
+],
+  "geometry": {"coordinates":[-108.38921000000001,44.838188],"type":"Point"}
+}

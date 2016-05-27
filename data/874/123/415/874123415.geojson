@@ -1,0 +1,56 @@
+{
+  "id": 874123415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.512777,44.265243,-105.512777,44.265243",
+    "geom:latitude":44.265243,
+    "geom:longitude":-105.512777,
+    "iso:country":"US",
+    "sg:address":"705 Almon Dr",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 1222",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zrLJ5cktAycAbLgzgvxvw_44.265243_-105.512777@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312072,
+    "wof:geomhash":"b1517b777706768e9d7b208630a51cf3",
+    "wof:hierarchy":[],
+    "wof:id":874123415,
+    "wof:lastmodified":1464312072,
+    "wof:name":"Gillette Pre-School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -105.512777,
+    44.265243,
+    -105.512777,
+    44.265243
+],
+  "geometry": {"coordinates":[-105.512777,44.265243],"type":"Point"}
+}

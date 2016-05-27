@@ -1,0 +1,75 @@
+{
+  "id": 874098815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.21884,41.581837,-109.21884,41.581837",
+    "geom:latitude":41.581837,
+    "geom:longitude":-109.21884,
+    "iso:country":"US",
+    "sg:address":"516 A St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 3385",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FduE5wGDhfnkmLAM4BQmB_41.581837_-109.218840@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311766,
+    "wof:geomhash":"ca02449cdf9bed03a1804b1d1934b42c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874098815
+        }
+    ],
+    "wof:id":874098815,
+    "wof:lastmodified":1464311766,
+    "wof:name":"Ama Hot Shot & Trenching",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.21884,
+    41.581837,
+    -109.21884,
+    41.581837
+],
+  "geometry": {"coordinates":[-109.21884,41.581837],"type":"Point"}
+}

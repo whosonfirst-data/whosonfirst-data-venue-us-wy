@@ -1,0 +1,69 @@
+{
+  "id": 873994765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.399357,42.826576,-106.399357,42.826576",
+    "geom:latitude":42.826576,
+    "geom:longitude":-106.399357,
+    "iso:country":"US",
+    "sg:address":"37 Begonia St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 8875",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VjuS8nNDL7UIJQYKKl4RX_42.826576_-106.399357@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310724,
+    "wof:geomhash":"5c6e982870ae0cb54cc8cf3a81b66087",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873994765
+        }
+    ],
+    "wof:id":873994765,
+    "wof:lastmodified":1464310724,
+    "wof:name":"Norward Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field"
+    ]
+},
+  "bbox": [
+    -106.399357,
+    42.826576,
+    -106.399357,
+    42.826576
+],
+  "geometry": {"coordinates":[-106.39935699999999,42.826576],"type":"Point"}
+}

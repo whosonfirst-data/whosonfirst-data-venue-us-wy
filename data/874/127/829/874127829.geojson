@@ -1,0 +1,75 @@
+{
+  "id": 874127829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.325408,42.841521,-106.325408,42.841521",
+    "geom:latitude":42.841521,
+    "geom:longitude":-106.325408,
+    "iso:country":"US",
+    "sg:address":"135 W 9th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2271",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wholesale",
+        "veterinarian",
+        "drug",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a6whQlnhp51owbXRWh1yu_42.841521_-106.325408@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312110,
+    "wof:geomhash":"a2cc13447933a4490a6c7c46039a670b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874127829
+        }
+    ],
+    "wof:id":874127829,
+    "wof:lastmodified":1464312110,
+    "wof:name":"Drakes Rx Center",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wholesale",
+        "veterinarian",
+        "drug",
+        "supply"
+    ]
+},
+  "bbox": [
+    -106.325408,
+    42.841521,
+    -106.325408,
+    42.841521
+],
+  "geometry": {"coordinates":[-106.325408,42.841521],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 874210295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.742206,42.772158,-109.742206,42.772158",
+    "geom:latitude":42.772158,
+    "geom:longitude":-109.742206,
+    "iso:country":"US",
+    "sg:address":"22 Dale Rd",
+    "sg:city":"Boulder",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 537 5263",
+    "sg:postcode":"82941",
+    "sg:province":"WY",
+    "sg:tags":[
+        "welding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lXTFmPhF1KRd55TJDpNoC_42.772158_-109.742206@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312952,
+    "wof:geomhash":"1d596a06309d31d82d5a487131314bd6",
+    "wof:hierarchy":[],
+    "wof:id":874210295,
+    "wof:lastmodified":1464312952,
+    "wof:name":"Buck's Welding & Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.742206,
+    42.772158,
+    -109.742206,
+    42.772158
+],
+  "geometry": {"coordinates":[-109.742206,42.772158],"type":"Point"}
+}

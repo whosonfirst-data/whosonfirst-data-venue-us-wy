@@ -1,0 +1,67 @@
+{
+  "id": 874222577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.837451,44.760789,-105.837451,44.760789",
+    "geom:latitude":44.760789,
+    "geom:longitude":-105.837451,
+    "iso:country":"US",
+    "sg:address":"392 Werner Rd",
+    "sg:city":"Arvada",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 736 2305",
+    "sg:postcode":"82831",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "ranch",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U0ZRRtTLwM3A0nHb3z2W8_44.760789_-105.837451@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313090,
+    "wof:geomhash":"c232f9b940f687e3f606fc964aca7906",
+    "wof:hierarchy":[],
+    "wof:id":874222577,
+    "wof:lastmodified":1464313090,
+    "wof:name":"Carson Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "ranch",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -105.837451,
+    44.760789,
+    -105.837451,
+    44.760789
+],
+  "geometry": {"coordinates":[-105.837451,44.760789],"type":"Point"}
+}

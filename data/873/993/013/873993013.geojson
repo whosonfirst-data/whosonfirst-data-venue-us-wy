@@ -1,0 +1,73 @@
+{
+  "id": 873993013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.802013,41.159273,-104.802013,41.159273",
+    "geom:latitude":41.159273,
+    "geom:longitude":-104.802013,
+    "iso:country":"US",
+    "sg:address":"1618 Stillwater Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 9966",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s3mHpIHfh2mzgpvgfTlir_41.159273_-104.802013@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310712,
+    "wof:geomhash":"8eaa2f2bcd75c88083a01c87f4e4a6d4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":873993013
+        }
+    ],
+    "wof:id":873993013,
+    "wof:lastmodified":1464310712,
+    "wof:name":"Mingles",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -104.802013,
+    41.159273,
+    -104.802013,
+    41.159273
+],
+  "geometry": {"coordinates":[-104.802013,41.159273],"type":"Point"}
+}

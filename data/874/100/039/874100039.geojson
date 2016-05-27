@@ -1,0 +1,56 @@
+{
+  "id": 874100039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.536251,41.794526,-110.536251,41.794526",
+    "geom:latitude":41.794526,
+    "geom:longitude":-110.536251,
+    "iso:country":"US",
+    "sg:address":"708 J C Penney Dr",
+    "sg:city":"Kemmerer",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 877 3347",
+    "sg:postcode":"83101",
+    "sg:province":"WY",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49wsrLZQPSsjEcSFv5Ynw9_41.794526_-110.536251@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311793,
+    "wof:geomhash":"6a6584e72370517428d5196a2cf9ff02",
+    "wof:hierarchy":[],
+    "wof:id":874100039,
+    "wof:lastmodified":1464311793,
+    "wof:name":"Kemmerer Gazette",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -110.536251,
+    41.794526,
+    -110.536251,
+    41.794526
+],
+  "geometry": {"coordinates":[-110.53625099999999,41.794526],"type":"Point"}
+}

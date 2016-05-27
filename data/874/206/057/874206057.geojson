@@ -1,0 +1,61 @@
+{
+  "id": 874206057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.817103,41.133551,-104.817103,41.133551",
+    "geom:latitude":41.133551,
+    "geom:longitude":-104.817103,
+    "iso:country":"US",
+    "sg:address":"1709 Carey Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 3113",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6N3Hj7crMokB4ahm4vaT3f_41.133551_-104.817103@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312905,
+    "wof:geomhash":"4c3981ceb2f6d9a9ca4c7ae3d332d26b",
+    "wof:hierarchy":[],
+    "wof:id":874206057,
+    "wof:lastmodified":1464312905,
+    "wof:name":"Capital City Computers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -104.817103,
+    41.133551,
+    -104.817103,
+    41.133551
+],
+  "geometry": {"coordinates":[-104.817103,41.133551],"type":"Point"}
+}

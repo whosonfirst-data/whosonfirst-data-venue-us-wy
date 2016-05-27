@@ -1,0 +1,58 @@
+{
+  "id": 874223857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.068335,41.177278,-104.068335,41.177278",
+    "geom:latitude":41.177278,
+    "geom:longitude":-104.068335,
+    "iso:country":"US",
+    "sg:address":"710 Main St",
+    "sg:city":"Pine Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 245 9224",
+    "sg:postcode":"82082",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5weTecML4XWtujEpcuv9eI_41.177278_-104.068335@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313101,
+    "wof:geomhash":"bd14e863f5448623b5adb53a0312d2e2",
+    "wof:hierarchy":[],
+    "wof:id":874223857,
+    "wof:lastmodified":1464313101,
+    "wof:name":"Bluffs Budget Plumbing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -104.068335,
+    41.177278,
+    -104.068335,
+    41.177278
+],
+  "geometry": {"coordinates":[-104.068335,41.177278],"type":"Point"}
+}

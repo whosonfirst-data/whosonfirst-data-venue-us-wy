@@ -1,0 +1,57 @@
+{
+  "id": 873998717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.8183,41.148686,-104.8183,41.148686",
+    "geom:latitude":41.148686,
+    "geom:longitude":-104.8183,
+    "iso:country":"US",
+    "sg:address":"3501 Evans Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 771 2376",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.laramie1.k12.wy.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uJwRWI40h0DS4nIDir1aT_41.148686_-104.818300@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310752,
+    "wof:geomhash":"608b8209ab78dddb37d2ed571065c622",
+    "wof:hierarchy":[],
+    "wof:id":873998717,
+    "wof:lastmodified":1464310752,
+    "wof:name":"Miller Elementary School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -104.8183,
+    41.148686,
+    -104.8183,
+    41.148686
+],
+  "geometry": {"coordinates":[-104.81829999999999,41.148686],"type":"Point"}
+}

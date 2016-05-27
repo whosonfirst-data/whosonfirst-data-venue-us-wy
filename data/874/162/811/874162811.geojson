@@ -1,0 +1,69 @@
+{
+  "id": 874162811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.273994,43.410283,-106.273994,43.410283",
+    "geom:latitude":43.410283,
+    "geom:longitude":-106.273994,
+    "iso:country":"US",
+    "sg:address":"261 Lewis St",
+    "sg:city":"Midwest",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 437 6266",
+    "sg:postcode":"82643",
+    "sg:province":"WY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25WYCAaWFCL7NT74Vde6FC_43.410283_-106.273994@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312458,
+    "wof:geomhash":"8823dedf7251b9a259f2278341916566",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874162811
+        }
+    ],
+    "wof:id":874162811,
+    "wof:lastmodified":1464312458,
+    "wof:name":"Whiners",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -106.273994,
+    43.410283,
+    -106.273994,
+    43.410283
+],
+  "geometry": {"coordinates":[-106.273994,43.410283],"type":"Point"}
+}

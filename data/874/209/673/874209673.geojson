@@ -1,0 +1,80 @@
+{
+  "id": 874209673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.617972,41.309063,-105.617972,41.309063",
+    "geom:latitude":41.309063,
+    "geom:longitude":-105.617972,
+    "iso:country":"US",
+    "sg:address":"1657 Snowy Range Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5425",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "fishing",
+        "hunting",
+        "supply"
+    ],
+    "sg:website":"www.flystore.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34bx8idPPDFXiErczkFr4p_41.309063_-105.617972@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312945,
+    "wof:geomhash":"7b43cc7b723706ff368ca2240b16830f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874209673
+        }
+    ],
+    "wof:id":874209673,
+    "wof:lastmodified":1464312945,
+    "wof:name":"West Laramie Fly Store",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "fishing",
+        "hunting",
+        "supply"
+    ]
+},
+  "bbox": [
+    -105.617972,
+    41.309063,
+    -105.617972,
+    41.309063
+],
+  "geometry": {"coordinates":[-105.61797199999999,41.309063],"type":"Point"}
+}

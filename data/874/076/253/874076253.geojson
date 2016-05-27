@@ -1,0 +1,60 @@
+{
+  "id": 874076253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.768258,41.158021,-104.768258,41.158021",
+    "geom:latitude":41.158021,
+    "geom:longitude":-104.768258,
+    "iso:country":"US",
+    "sg:address":"4435 Ridge Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 0253",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operated",
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62yqk5ge019agxe6qsExCF_41.158021_-104.768258@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311513,
+    "wof:geomhash":"e69211fa58990a82bd06fcee986d6976",
+    "wof:hierarchy":[],
+    "wof:id":874076253,
+    "wof:lastmodified":1464311513,
+    "wof:name":"Ridge Road Car Wash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operated",
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -104.768258,
+    41.158021,
+    -104.768258,
+    41.158021
+],
+  "geometry": {"coordinates":[-104.768258,41.158021],"type":"Point"}
+}

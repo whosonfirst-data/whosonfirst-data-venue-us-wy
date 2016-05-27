@@ -1,0 +1,56 @@
+{
+  "id": 874004345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.50117,44.268975,-105.50117,44.268975",
+    "geom:latitude":44.268975,
+    "geom:longitude":-105.50117,
+    "iso:country":"US",
+    "sg:address":"312 E Lakeway Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 8199",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fneRnfg6zxnaPmLNqqj3H_44.268975_-105.501170@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310807,
+    "wof:geomhash":"8e116be1f79e6241e52450ecc3254158",
+    "wof:hierarchy":[],
+    "wof:id":874004345,
+    "wof:lastmodified":1464310807,
+    "wof:name":"Lakeway Eye Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.50117,
+    44.268975,
+    -105.50117,
+    44.268975
+],
+  "geometry": {"coordinates":[-105.50117,44.268975],"type":"Point"}
+}

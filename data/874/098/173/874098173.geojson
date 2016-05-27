@@ -1,0 +1,64 @@
+{
+  "id": 874098173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.298444,42.838785,-106.298444,42.838785",
+    "geom:latitude":42.838785,
+    "geom:longitude":-106.298444,
+    "iso:country":"US",
+    "sg:address":"2151 E 12th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3405",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yiDc94AiOLxI5fghjjswK_42.838785_-106.298444@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311758,
+    "wof:geomhash":"dea8463104f3c72689b0e91f4e00dff4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874098173
+        }
+    ],
+    "wof:id":874098173,
+    "wof:lastmodified":1464311758,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.298444,
+    42.838785,
+    -106.298444,
+    42.838785
+],
+  "geometry": {"coordinates":[-106.298444,42.838785],"type":"Point"}
+}

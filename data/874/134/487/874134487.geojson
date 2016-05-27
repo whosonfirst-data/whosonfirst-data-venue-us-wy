@@ -1,0 +1,69 @@
+{
+  "id": 874134487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.276384,42.842732,-106.276384,42.842732",
+    "geom:latitude":42.842732,
+    "geom:longitude":-106.276384,
+    "iso:country":"US",
+    "sg:address":"611 S Walsh Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0681",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PzvF4gidTtyLCc7Y8NIHj_42.842732_-106.276384@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312186,
+    "wof:geomhash":"4d76c5f529fe333ac47833927f80a663",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874134487
+        }
+    ],
+    "wof:id":874134487,
+    "wof:lastmodified":1464312186,
+    "wof:name":"Briggs Plumbing & Heating Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.276384,
+    42.842732,
+    -106.276384,
+    42.842732
+],
+  "geometry": {"coordinates":[-106.27638399999999,42.842732],"type":"Point"}
+}

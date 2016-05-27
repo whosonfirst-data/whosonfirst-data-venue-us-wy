@@ -1,0 +1,73 @@
+{
+  "id": 874107557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.568525,41.26301,-105.568525,41.26301",
+    "geom:latitude":41.26301,
+    "geom:longitude":-105.568525,
+    "iso:country":"US",
+    "sg:address":"1948 Howe Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3652",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ggUHG1atdk6o5hC2YsphY_41.263010_-105.568525@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311889,
+    "wof:geomhash":"ebbecf7900f150f7af8ca3b48f11a5aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874107557
+        }
+    ],
+    "wof:id":874107557,
+    "wof:lastmodified":1464311889,
+    "wof:name":"Wyobigen Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "physical"
+    ]
+},
+  "bbox": [
+    -105.568525,
+    41.26301,
+    -105.568525,
+    41.26301
+],
+  "geometry": {"coordinates":[-105.56852499999999,41.26301],"type":"Point"}
+}

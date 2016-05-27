@@ -1,0 +1,73 @@
+{
+  "id": 874151925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.254835,42.831975,-106.254835,42.831975",
+    "geom:latitude":42.831975,
+    "geom:longitude":-106.254835,
+    "iso:country":"US",
+    "sg:address":"5110 E 18th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 5748",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cY9zgMabghdYUlPPuACXx_42.831975_-106.254835@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312345,
+    "wof:geomhash":"69279084a35944a1feda5c19a6a2acf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874151925
+        }
+    ],
+    "wof:id":874151925,
+    "wof:lastmodified":1464312345,
+    "wof:name":"Ridgeway Trucking LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -106.254835,
+    42.831975,
+    -106.254835,
+    42.831975
+],
+  "geometry": {"coordinates":[-106.254835,42.831975],"type":"Point"}
+}

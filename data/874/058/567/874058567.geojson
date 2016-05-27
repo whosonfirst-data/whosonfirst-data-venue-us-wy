@@ -1,0 +1,56 @@
+{
+  "id": 874058567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.808278,43.467757,-110.808278,43.467757",
+    "geom:latitude":43.467757,
+    "geom:longitude":-110.808278,
+    "iso:country":"US",
+    "sg:address":"870 Seneca Ln",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 6397",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eMjFGAb9a8JArn2FAUJ0B_43.467757_-110.808278@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311322,
+    "wof:geomhash":"9e73b557c09efe24d32516696a97d72d",
+    "wof:hierarchy":[],
+    "wof:id":874058567,
+    "wof:lastmodified":1464311322,
+    "wof:name":"Jackson Hole Journal",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -110.808278,
+    43.467757,
+    -110.808278,
+    43.467757
+],
+  "geometry": {"coordinates":[-110.808278,43.467757],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 874131889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.539286,41.292854,-105.539286,41.292854",
+    "geom:latitude":41.292854,
+    "geom:longitude":-105.539286,
+    "iso:country":"US",
+    "sg:address":"4425 E Kerry Lynne Ln",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3839",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "welding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23utr408vHgxRd8zZ6jTpH_41.292854_-105.539286@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312158,
+    "wof:geomhash":"dec19c97eea9f503a3fd99ec790b7b1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874131889
+        }
+    ],
+    "wof:id":874131889,
+    "wof:lastmodified":1464312158,
+    "wof:name":"C E A Welding Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.539286,
+    41.292854,
+    -105.539286,
+    41.292854
+],
+  "geometry": {"coordinates":[-105.539286,41.292854],"type":"Point"}
+}

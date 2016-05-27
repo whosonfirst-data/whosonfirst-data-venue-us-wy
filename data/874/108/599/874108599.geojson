@@ -1,0 +1,69 @@
+{
+  "id": 874108599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.400953,42.828045,-106.400953,42.828045",
+    "geom:latitude":42.828045,
+    "geom:longitude":-106.400953,
+    "iso:country":"US",
+    "sg:address":"5545 Pathfinder St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 3236",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6foxrGMctMHQCTrPqidNxv_42.828045_-106.400953@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311900,
+    "wof:geomhash":"cff5982193378840c94313328c794475",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874108599
+        }
+    ],
+    "wof:id":874108599,
+    "wof:lastmodified":1464311900,
+    "wof:name":"Chucks Lock Key & Phone",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -106.400953,
+    42.828045,
+    -106.400953,
+    42.828045
+],
+  "geometry": {"coordinates":[-106.400953,42.828045],"type":"Point"}
+}

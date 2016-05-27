@@ -1,0 +1,58 @@
+{
+  "id": 874138857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.828663,41.175686,-104.828663,41.175686",
+    "geom:latitude":41.175686,
+    "geom:longitude":-104.828663,
+    "iso:country":"US",
+    "sg:address":"6228 Yellowstone Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 6106",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OnWiD532bxua7dCJGh2ky_41.175686_-104.828663@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312225,
+    "wof:geomhash":"4b0341b1555e70ac2b6b7b00d4874513",
+    "wof:hierarchy":[],
+    "wof:id":874138857,
+    "wof:lastmodified":1464312225,
+    "wof:name":"High Plains Family Medicine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -104.828663,
+    41.175686,
+    -104.828663,
+    41.175686
+],
+  "geometry": {"coordinates":[-104.82866300000001,41.175686],"type":"Point"}
+}

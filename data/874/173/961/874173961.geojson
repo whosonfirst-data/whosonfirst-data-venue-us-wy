@@ -1,0 +1,71 @@
+{
+  "id": 874173961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.349755,42.921327,-106.349755,42.921327",
+    "geom:latitude":42.921327,
+    "geom:longitude":-106.349755,
+    "iso:country":"US",
+    "sg:address":"5160 Bel Vista Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 3042",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "industry",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UWmYeI1qLlKiEkAkpx6ko_42.921327_-106.349755@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312567,
+    "wof:geomhash":"90294d93cda054ae8ebbcfcd55360c24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874173961
+        }
+    ],
+    "wof:id":874173961,
+    "wof:lastmodified":1464312567,
+    "wof:name":"Rex Machine Industries",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -106.349755,
+    42.921327,
+    -106.349755,
+    42.921327
+],
+  "geometry": {"coordinates":[-106.349755,42.921327],"type":"Point"}
+}

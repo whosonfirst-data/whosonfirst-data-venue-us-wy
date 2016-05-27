@@ -1,0 +1,51 @@
+{
+  "id": 874176581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.828545,41.168015,-104.828545,41.168015",
+    "geom:latitude":41.168015,
+    "geom:longitude":-104.828545,
+    "iso:country":"US",
+    "sg:address":"5539 Yellowstone Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 2118",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Rjcytes3gqAwB6RaoOBE7_41.168015_-104.828545@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312592,
+    "wof:geomhash":"e2ec4d2549327f0bee1f002ebd0de4ef",
+    "wof:hierarchy":[],
+    "wof:id":874176581,
+    "wof:lastmodified":1464312592,
+    "wof:name":"Mini Mart",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.828545,
+    41.168015,
+    -104.828545,
+    41.168015
+],
+  "geometry": {"coordinates":[-104.82854500000001,41.168015],"type":"Point"}
+}

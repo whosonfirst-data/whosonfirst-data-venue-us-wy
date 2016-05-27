@@ -1,0 +1,66 @@
+{
+  "id": 874191795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.581526,41.310356,-105.581526,41.310356",
+    "geom:latitude":41.310356,
+    "geom:longitude":-105.581526,
+    "iso:country":"US",
+    "sg:address":"1219 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3234",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4txRk6Yy6Q7qQk9S4L47MB_41.310356_-105.581526@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312756,
+    "wof:geomhash":"bb216f2dffa9d20d48e847b0d6c20690",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874191795
+        }
+    ],
+    "wof:id":874191795,
+    "wof:lastmodified":1464312756,
+    "wof:name":"Family History Center",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.581526,
+    41.310356,
+    -105.581526,
+    41.310356
+],
+  "geometry": {"coordinates":[-105.581526,41.310356],"type":"Point"}
+}

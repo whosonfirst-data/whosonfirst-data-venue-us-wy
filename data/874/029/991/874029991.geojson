@@ -1,0 +1,51 @@
+{
+  "id": 874029991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.21176,43.851909,-104.21176,43.851909",
+    "geom:latitude":43.851909,
+    "geom:longitude":-104.21176,
+    "iso:country":"US",
+    "sg:address":"600 W Main St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 2510",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Lcfc80ZpD1U5wwtkgIiId_43.851909_-104.211760@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311049,
+    "wof:geomhash":"bcc90363a3af1157da70b05c38be7a40",
+    "wof:hierarchy":[],
+    "wof:id":874029991,
+    "wof:lastmodified":1464311049,
+    "wof:name":"Newcastle KWIK Stop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.21176,
+    43.851909,
+    -104.21176,
+    43.851909
+],
+  "geometry": {"coordinates":[-104.21176,43.851909],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 874231133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.938425,44.804804,-106.938425,44.804804",
+    "geom:latitude":44.804804,
+    "geom:longitude":-106.938425,
+    "iso:country":"US",
+    "sg:address":"1514 E 5th St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/sheridan/135380-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 673 1683",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oGLqCFi2kuDnWCbuTuqIE_44.804692_-106.938285@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313176,
+    "wof:geomhash":"4fb0a55d93dcd4a3e0d7ac4d0e1a8639",
+    "wof:hierarchy":[],
+    "wof:id":874231133,
+    "wof:lastmodified":1464313176,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -106.938425,
+    44.804804,
+    -106.938425,
+    44.804804
+],
+  "geometry": {"coordinates":[-106.938425,44.804804],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874114817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.27923,42.83408,-106.27923,42.83408",
+    "geom:latitude":42.83408,
+    "geom:longitude":-106.27923,
+    "iso:country":"US",
+    "sg:address":"120 Sherwood Cir",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 7746",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "installation",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m3vFluYWdOApmT5Xb37vY_42.834080_-106.279230@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311985,
+    "wof:geomhash":"d8dbf15856b71050f8b46e391b5b2c1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874114817
+        }
+    ],
+    "wof:id":874114817,
+    "wof:lastmodified":1464311985,
+    "wof:name":"Floors Galore",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -106.27923,
+    42.83408,
+    -106.27923,
+    42.83408
+],
+  "geometry": {"coordinates":[-106.27923,42.83408],"type":"Point"}
+}

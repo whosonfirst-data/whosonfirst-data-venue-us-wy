@@ -1,0 +1,75 @@
+{
+  "id": 873992437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595222,41.308268,-105.595222,41.308268",
+    "geom:latitude":41.308268,
+    "geom:longitude":-105.595222,
+    "iso:country":"US",
+    "sg:address":"600 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6006",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RjAt4GmJGmWHV6zHpkZWP_41.308268_-105.595222@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310708,
+    "wof:geomhash":"bf9267ce99ab6c97f3fa2fafbde8eef9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873992437
+        }
+    ],
+    "wof:id":873992437,
+    "wof:lastmodified":1464310708,
+    "wof:name":"Advanced Automotive Tech Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -105.595222,
+    41.308268,
+    -105.595222,
+    41.308268
+],
+  "geometry": {"coordinates":[-105.59522200000001,41.308268],"type":"Point"}
+}

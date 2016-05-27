@@ -1,0 +1,71 @@
+{
+  "id": 874064687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594396,41.303386,-105.594396,41.303386",
+    "geom:latitude":41.303386,
+    "geom:longitude":-105.594396,
+    "iso:country":"US",
+    "sg:address":"1115 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 9954",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KQC23RqWsh4itkhiZOc7V_41.303386_-105.594396@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311377,
+    "wof:geomhash":"ccba1de771a680da53b2ce6dcfa6fa56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874064687
+        }
+    ],
+    "wof:id":874064687,
+    "wof:lastmodified":1464311377,
+    "wof:name":"Mulligans Pub & Package Lq Str",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -105.594396,
+    41.303386,
+    -105.594396,
+    41.303386
+],
+  "geometry": {"coordinates":[-105.594396,41.303386],"type":"Point"}
+}

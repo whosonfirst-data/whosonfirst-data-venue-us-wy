@@ -1,0 +1,56 @@
+{
+  "id": 874193521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.50836,44.292179,-105.50836,44.292179",
+    "geom:latitude":44.292179,
+    "geom:longitude":-105.50836,
+    "iso:country":"US",
+    "sg:address":"301 S Richards Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 3353",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Vfl3Ad6pP2enQEgLcJO6z_44.292179_-105.508360@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312775,
+    "wof:geomhash":"6576d8ebafa83797e8fcc05e84d1d16c",
+    "wof:hierarchy":[],
+    "wof:id":874193521,
+    "wof:lastmodified":1464312775,
+    "wof:name":"Gillette Dental Group PC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -105.50836,
+    44.292179,
+    -105.50836,
+    44.292179
+],
+  "geometry": {"coordinates":[-105.50836,44.292179],"type":"Point"}
+}

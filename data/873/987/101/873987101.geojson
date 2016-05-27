@@ -1,0 +1,61 @@
+{
+  "id": 873987101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.740587,42.831573,-108.740587,42.831573",
+    "geom:latitude":42.831573,
+    "geom:longitude":-108.740587,
+    "iso:country":"US",
+    "sg:address":"417 N 3 St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 2500",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ranch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OvK75RQhxhmOawZFsVjf8_42.831573_-108.740587@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310669,
+    "wof:geomhash":"066d72d8bcf7bc89af0b6dc6979a4e4a",
+    "wof:hierarchy":[],
+    "wof:id":873987101,
+    "wof:lastmodified":1464310669,
+    "wof:name":"Quakenstead Ranch Co LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranch"
+    ]
+},
+  "bbox": [
+    -108.740587,
+    42.831573,
+    -108.740587,
+    42.831573
+],
+  "geometry": {"coordinates":[-108.740587,42.831573],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874004257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.386495,43.024569,-108.386495,43.024569",
+    "geom:latitude":43.024569,
+    "geom:longitude":-108.386495,
+    "iso:country":"US",
+    "sg:address":"313 E Main St",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 1797",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fagTO6YVmMF7DdjMJ5QRo_43.024569_-108.386495@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310806,
+    "wof:geomhash":"9e038af8918b4b1fcfac435739375467",
+    "wof:hierarchy":[],
+    "wof:id":874004257,
+    "wof:lastmodified":1464310806,
+    "wof:name":"Books & Briar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -108.386495,
+    43.024569,
+    -108.386495,
+    43.024569
+],
+  "geometry": {"coordinates":[-108.386495,43.024569],"type":"Point"}
+}

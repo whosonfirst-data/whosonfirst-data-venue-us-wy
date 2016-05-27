@@ -1,0 +1,56 @@
+{
+  "id": 874125349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.96717,41.763152,-108.96717,41.763152",
+    "geom:latitude":41.763152,
+    "geom:longitude":-108.96717,
+    "iso:country":"US",
+    "sg:address":"30 Front St",
+    "sg:city":"Superior",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 8173",
+    "sg:postcode":"82945",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3euIugvApNH6FEi3BQihfJ_41.763152_-108.967170@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312089,
+    "wof:geomhash":"790e5cc3e48fec9c2953b116335de102",
+    "wof:hierarchy":[],
+    "wof:id":874125349,
+    "wof:lastmodified":1464312089,
+    "wof:name":"Superior Mayors Ofc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -108.96717,
+    41.763152,
+    -108.96717,
+    41.763152
+],
+  "geometry": {"coordinates":[-108.96717,41.763152],"type":"Point"}
+}

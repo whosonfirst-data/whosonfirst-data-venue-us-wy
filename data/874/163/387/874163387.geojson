@@ -1,0 +1,71 @@
+{
+  "id": 874163387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.32797,42.84634,-106.32797,42.84634",
+    "geom:latitude":42.84634,
+    "geom:longitude":-106.32797,
+    "iso:country":"US",
+    "sg:address":"541 S Ash St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0933",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21aJoBG2aHF0Umluqu9rhu_42.846340_-106.327970@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312463,
+    "wof:geomhash":"2293c9bcfd68b2a76a6e45f1a33ceb5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874163387
+        }
+    ],
+    "wof:id":874163387,
+    "wof:lastmodified":1464312463,
+    "wof:name":"Vogue Cleaners",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -106.32797,
+    42.84634,
+    -106.32797,
+    42.84634
+],
+  "geometry": {"coordinates":[-106.32796999999999,42.84634],"type":"Point"}
+}

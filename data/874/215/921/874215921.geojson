@@ -1,0 +1,71 @@
+{
+  "id": 874215921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.302595,42.851958,-106.302595,42.851958",
+    "geom:latitude":42.851958,
+    "geom:longitude":-106.302595,
+    "iso:country":"US",
+    "sg:address":"240 N Elk St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7350",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VeekWI5dEAIQNTuj7ypqk_42.851958_-106.302595@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313013,
+    "wof:geomhash":"7a447959090f7cad21e19cc802817ee5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874215921
+        }
+    ],
+    "wof:id":874215921,
+    "wof:lastmodified":1464313013,
+    "wof:name":"Community Home Oxygen Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -106.302595,
+    42.851958,
+    -106.302595,
+    42.851958
+],
+  "geometry": {"coordinates":[-106.302595,42.851958],"type":"Point"}
+}

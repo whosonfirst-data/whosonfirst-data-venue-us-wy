@@ -1,0 +1,71 @@
+{
+  "id": 874105199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323825,42.8406,-106.323825,42.8406",
+    "geom:latitude":42.8406,
+    "geom:longitude":-106.323825,
+    "iso:country":"US",
+    "sg:address":"902 S Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 6133",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant",
+        "geological"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t8cdRP2k2xPQi1N1t8CQG_42.840600_-106.323825@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311859,
+    "wof:geomhash":"056ab35508977a6b113054a1411be6c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874105199
+        }
+    ],
+    "wof:id":874105199,
+    "wof:lastmodified":1464311859,
+    "wof:name":"Kenneth K Farmer",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "geological"
+    ]
+},
+  "bbox": [
+    -106.323825,
+    42.8406,
+    -106.323825,
+    42.8406
+],
+  "geometry": {"coordinates":[-106.323825,42.8406],"type":"Point"}
+}

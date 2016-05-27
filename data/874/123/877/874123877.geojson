@@ -1,0 +1,56 @@
+{
+  "id": 874123877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.978481,44.786372,-106.978481,44.786372",
+    "geom:latitude":44.786372,
+    "geom:longitude":-106.978481,
+    "iso:country":"US",
+    "sg:address":"1305 Leopard St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 673 4997",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sa4ExwL2jsQWTTF0QdUks_44.786372_-106.978481@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312075,
+    "wof:geomhash":"f104e78b31c979856297b7f382e0ba2a",
+    "wof:hierarchy":[],
+    "wof:id":874123877,
+    "wof:lastmodified":1464312075,
+    "wof:name":"Unitarian Universalist",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -106.978481,
+    44.786372,
+    -106.978481,
+    44.786372
+],
+  "geometry": {"coordinates":[-106.978481,44.786372],"type":"Point"}
+}

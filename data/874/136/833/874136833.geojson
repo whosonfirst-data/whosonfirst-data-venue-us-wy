@@ -1,0 +1,66 @@
+{
+  "id": 874136833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.57291,41.325567,-105.57291,41.325567",
+    "geom:latitude":41.325567,
+    "geom:longitude":-105.57291,
+    "iso:country":"US",
+    "sg:address":"1568 N 18th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4308",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34dVUT9lRDPcb52KLycMwH_41.325567_-105.572910@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312207,
+    "wof:geomhash":"9e8c6da6a5ad65345c53583f68998b6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874136833
+        }
+    ],
+    "wof:id":874136833,
+    "wof:lastmodified":1464312207,
+    "wof:name":"Farmers Insurance",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.57291,
+    41.325567,
+    -105.57291,
+    41.325567
+],
+  "geometry": {"coordinates":[-105.57290999999999,41.325567],"type":"Point"}
+}

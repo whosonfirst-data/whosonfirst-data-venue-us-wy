@@ -1,0 +1,56 @@
+{
+  "id": 874136665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.958268,44.798093,-106.958268,44.798093",
+    "geom:latitude":44.798093,
+    "geom:longitude":-106.958268,
+    "iso:country":"US",
+    "sg:address":"240 W Brundage St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 3365",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electronics"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Yhfxxz3AsJHAsqkPvr0qi_44.798093_-106.958268@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312205,
+    "wof:geomhash":"d82a02d118c4ae472e31769850373da7",
+    "wof:hierarchy":[],
+    "wof:id":874136665,
+    "wof:lastmodified":1464312205,
+    "wof:name":"W Y O Electronics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electronics"
+    ]
+},
+  "bbox": [
+    -106.958268,
+    44.798093,
+    -106.958268,
+    44.798093
+],
+  "geometry": {"coordinates":[-106.958268,44.798093],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874030963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.492087,44.252159,-105.492087,44.252159",
+    "geom:latitude":44.252159,
+    "geom:longitude":-105.492087,
+    "iso:country":"US",
+    "sg:address":"4507 Dakota St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 687 2929",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tire",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06nijAymsUcf5Km3KVYWVn_44.252159_-105.492087@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311057,
+    "wof:geomhash":"dd46447f75694ce2319409660d0b043f",
+    "wof:hierarchy":[],
+    "wof:id":874030963,
+    "wof:lastmodified":1464311057,
+    "wof:name":"Freedom Tire",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire",
+        "supply"
+    ]
+},
+  "bbox": [
+    -105.492087,
+    44.252159,
+    -105.492087,
+    44.252159
+],
+  "geometry": {"coordinates":[-105.492087,44.252159],"type":"Point"}
+}

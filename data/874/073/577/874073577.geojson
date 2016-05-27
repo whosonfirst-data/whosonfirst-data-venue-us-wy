@@ -1,0 +1,71 @@
+{
+  "id": 874073577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.276573,42.828104,-106.276573,42.828104",
+    "geom:latitude":42.828104,
+    "geom:longitude":-106.276573,
+    "iso:country":"US",
+    "sg:address":"2112 Trojan Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 0749",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sOYW2hTXnCIcdJnsWcQFU_42.828104_-106.276573@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311487,
+    "wof:geomhash":"67937d824fb26c61cb57ab4b26a54923",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874073577
+        }
+    ],
+    "wof:id":874073577,
+    "wof:lastmodified":1464311487,
+    "wof:name":"Par Apts LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -106.276573,
+    42.828104,
+    -106.276573,
+    42.828104
+],
+  "geometry": {"coordinates":[-106.276573,42.828104],"type":"Point"}
+}

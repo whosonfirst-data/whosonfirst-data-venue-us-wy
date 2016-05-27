@@ -1,0 +1,71 @@
+{
+  "id": 874126615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.329764,42.83863,-106.329764,42.83863",
+    "geom:latitude":42.83863,
+    "geom:longitude":-106.329764,
+    "iso:country":"US",
+    "sg:address":"420 W 12th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 7925",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ySHX2ki1LvT09F32qAwla_42.838630_-106.329764@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312099,
+    "wof:geomhash":"4eb7608eca9eaf963e18d6c0225d9dd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874126615
+        }
+    ],
+    "wof:id":874126615,
+    "wof:lastmodified":1464312099,
+    "wof:name":"Bruce Leininger PHD",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -106.329764,
+    42.83863,
+    -106.329764,
+    42.83863
+],
+  "geometry": {"coordinates":[-106.329764,42.83863],"type":"Point"}
+}

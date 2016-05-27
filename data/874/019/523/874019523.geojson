@@ -1,0 +1,73 @@
+{
+  "id": 874019523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.297285,42.876029,-106.297285,42.876029",
+    "geom:latitude":42.876029,
+    "geom:longitude":-106.297285,
+    "iso:country":"US",
+    "sg:address":"2220 Bryan Stock Trl",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1645",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3efUTe764X46nULnU9OLZS_42.876029_-106.297285@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310943,
+    "wof:geomhash":"97b248c6cf1787fdc094a75decfe97f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874019523
+        }
+    ],
+    "wof:id":874019523,
+    "wof:lastmodified":1464310943,
+    "wof:name":"Rocky Mountain Oil & Gas",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ]
+},
+  "bbox": [
+    -106.297285,
+    42.876029,
+    -106.297285,
+    42.876029
+],
+  "geometry": {"coordinates":[-106.297285,42.876029],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874094933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.315587,42.856754,-106.315587,42.856754",
+    "geom:latitude":42.856754,
+    "geom:longitude":-106.315587,
+    "iso:country":"US",
+    "sg:address":"341 E E St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 0056",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X21sJWHLCSp9sz3xepYEV_42.856754_-106.315587@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311712,
+    "wof:geomhash":"cce250ac46960a7bd4f6c9097ef08e25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874094933
+        }
+    ],
+    "wof:id":874094933,
+    "wof:lastmodified":1464311712,
+    "wof:name":"Hlmerich & Payne Intl Drlg Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field"
+    ]
+},
+  "bbox": [
+    -106.315587,
+    42.856754,
+    -106.315587,
+    42.856754
+],
+  "geometry": {"coordinates":[-106.31558699999999,42.856754],"type":"Point"}
+}

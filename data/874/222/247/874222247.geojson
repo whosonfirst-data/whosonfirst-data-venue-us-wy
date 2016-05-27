@@ -1,0 +1,71 @@
+{
+  "id": 874222247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.599716,41.249646,-105.599716,41.249646",
+    "geom:latitude":41.249646,
+    "geom:longitude":-105.599716,
+    "iso:country":"US",
+    "sg:address":"6022 S South View Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8458",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t7BkszGziweQcv5Nppyr0_41.249646_-105.599716@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313086,
+    "wof:geomhash":"831281030c7ff3674872e0eb71ecc009",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874222247
+        }
+    ],
+    "wof:id":874222247,
+    "wof:lastmodified":1464313086,
+    "wof:name":"Mountain View Body Shop",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -105.599716,
+    41.249646,
+    -105.599716,
+    41.249646
+],
+  "geometry": {"coordinates":[-105.599716,41.249646],"type":"Point"}
+}

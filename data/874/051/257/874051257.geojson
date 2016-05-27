@@ -1,0 +1,69 @@
+{
+  "id": 874051257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.413692,42.86807,-106.413692,42.86807",
+    "geom:latitude":42.86807,
+    "geom:longitude":-106.413692,
+    "iso:country":"US",
+    "sg:address":"6163 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 1363",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d87Wzzvpq3c9mLbCIjDSA_42.868070_-106.413692@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311252,
+    "wof:geomhash":"d5706452ea0f45683cb3006f12941f1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874051257
+        }
+    ],
+    "wof:id":874051257,
+    "wof:lastmodified":1464311252,
+    "wof:name":"Wyoming Truck & Trailer Repair",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -106.413692,
+    42.86807,
+    -106.413692,
+    42.86807
+],
+  "geometry": {"coordinates":[-106.413692,42.86807],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 874187315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.730267,42.823252,-108.730267,42.823252",
+    "geom:latitude":42.823252,
+    "geom:longitude":-108.730267,
+    "iso:country":"US",
+    "sg:address":"191 Wyoming St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 5242",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ABUMNBK7VIyGQ8y92cH6z_42.823252_-108.730267@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312712,
+    "wof:geomhash":"78f8afffde4ed05aeadaa47f20b39d1c",
+    "wof:hierarchy":[],
+    "wof:id":874187315,
+    "wof:lastmodified":1464312712,
+    "wof:name":"Western Wyoming Eye Clinic PC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -108.730267,
+    42.823252,
+    -108.730267,
+    42.823252
+],
+  "geometry": {"coordinates":[-108.730267,42.823252],"type":"Point"}
+}

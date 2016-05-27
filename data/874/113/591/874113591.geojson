@@ -1,0 +1,56 @@
+{
+  "id": 874113591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.77625,43.423127,-110.77625,43.423127",
+    "geom:latitude":43.423127,
+    "geom:longitude":-110.77625,
+    "iso:country":"US",
+    "sg:address":"650 W Elk Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 739 9488",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JUwl6lYtV3j8KOtRChFtC_43.423127_-110.776250@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311973,
+    "wof:geomhash":"7829b430148597190dcc6069e60eac46",
+    "wof:hierarchy":[],
+    "wof:id":874113591,
+    "wof:lastmodified":1464311973,
+    "wof:name":"Mountain Movers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -110.77625,
+    43.423127,
+    -110.77625,
+    43.423127
+],
+  "geometry": {"coordinates":[-110.77625,43.423127],"type":"Point"}
+}

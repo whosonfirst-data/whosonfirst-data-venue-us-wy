@@ -1,0 +1,56 @@
+{
+  "id": 874185953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.051908,44.522543,-109.051908,44.522543",
+    "geom:latitude":44.522543,
+    "geom:longitude":-109.051908,
+    "iso:country":"US",
+    "sg:address":"1819 Newton Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 7455",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Rp86OXcQLPifSB1ziqyyl_44.522543_-109.051908@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312700,
+    "wof:geomhash":"4130c991ed571a28dec3986b2f0c6f1a",
+    "wof:hierarchy":[],
+    "wof:id":874185953,
+    "wof:lastmodified":1464312700,
+    "wof:name":"Browns Group Daycare Home",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -109.051908,
+    44.522543,
+    -109.051908,
+    44.522543
+],
+  "geometry": {"coordinates":[-109.051908,44.522543],"type":"Point"}
+}

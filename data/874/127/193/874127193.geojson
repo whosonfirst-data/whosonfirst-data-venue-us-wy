@@ -1,0 +1,67 @@
+{
+  "id": 874127193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.19346,43.847798,-104.19346,43.847798",
+    "geom:latitude":43.847798,
+    "geom:longitude":-104.19346,
+    "iso:country":"US",
+    "sg:address":"900 S Summit Ave",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 4884",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "lithographic",
+        "commercial",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56hSCUQIkDNDRnps3Ae5wP_43.847798_-104.193460@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312104,
+    "wof:geomhash":"1c54080ba57af6abd856dc3bcd72ffb1",
+    "wof:hierarchy":[],
+    "wof:id":874127193,
+    "wof:lastmodified":1464312104,
+    "wof:name":"Minuteman Lube Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lithographic",
+        "commercial",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -104.19346,
+    43.847798,
+    -104.19346,
+    43.847798
+],
+  "geometry": {"coordinates":[-104.19346,43.847798],"type":"Point"}
+}

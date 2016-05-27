@@ -1,0 +1,71 @@
+{
+  "id": 874183735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.311363,42.848841,-106.311363,42.848841",
+    "geom:latitude":42.848841,
+    "geom:longitude":-106.311363,
+    "iso:country":"US",
+    "sg:address":"1026 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 4000",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k6LT4U4j25pXqlir9vIjG_42.848841_-106.311363@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312674,
+    "wof:geomhash":"e1c485b82d7e37ea20a87b6aadddd22c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874183735
+        }
+    ],
+    "wof:id":874183735,
+    "wof:lastmodified":1464312674,
+    "wof:name":"Central Wyoming Neurosurgery",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -106.311363,
+    42.848841,
+    -106.311363,
+    42.848841
+],
+  "geometry": {"coordinates":[-106.311363,42.848841],"type":"Point"}
+}

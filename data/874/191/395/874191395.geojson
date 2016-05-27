@@ -1,0 +1,58 @@
+{
+  "id": 874191395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.29454,41.564759,-109.29454,41.564759",
+    "geom:latitude":41.564759,
+    "geom:longitude":-109.29454,
+    "iso:country":"US",
+    "sg:address":"1616 Foothill Blvd",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 8554",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_162fQEFVnCR8q3lD7EpiIz_41.564759_-109.294540@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312753,
+    "wof:geomhash":"c53062c3032f7c93ebc31a1150a1f4d9",
+    "wof:hierarchy":[],
+    "wof:id":874191395,
+    "wof:lastmodified":1464312753,
+    "wof:name":"Storage Place",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -109.29454,
+    41.564759,
+    -109.29454,
+    41.564759
+],
+  "geometry": {"coordinates":[-109.29454,41.564759],"type":"Point"}
+}

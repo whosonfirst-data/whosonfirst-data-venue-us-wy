@@ -1,0 +1,56 @@
+{
+  "id": 874135999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.698537,44.345774,-106.698537,44.345774",
+    "geom:latitude":44.345774,
+    "geom:longitude":-106.698537,
+    "iso:country":"US",
+    "sg:address":"80 S Main St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 2225",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zV9nZE7LFxCcKX7H3FVug_44.345774_-106.698537@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312200,
+    "wof:geomhash":"0f3918b1dcd29dd32aaf0b680251da45",
+    "wof:hierarchy":[],
+    "wof:id":874135999,
+    "wof:lastmodified":1464312200,
+    "wof:name":"Buffalo Technologies Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -106.698537,
+    44.345774,
+    -106.698537,
+    44.345774
+],
+  "geometry": {"coordinates":[-106.698537,44.345774],"type":"Point"}
+}

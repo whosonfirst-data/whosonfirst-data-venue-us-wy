@@ -1,0 +1,71 @@
+{
+  "id": 874186285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591878,41.31464,-105.591878,41.31464",
+    "geom:latitude":41.31464,
+    "geom:longitude":-105.591878,
+    "iso:country":"US",
+    "sg:address":"402 E Clark St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3342",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jm5tViHFF2ulm85elUAvo_41.314640_-105.591878@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312702,
+    "wof:geomhash":"ebad2869c30f75953a7c416d6efa3258",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874186285
+        }
+    ],
+    "wof:id":874186285,
+    "wof:lastmodified":1464312702,
+    "wof:name":"Bonnie's Beauty Salon",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -105.591878,
+    41.31464,
+    -105.591878,
+    41.31464
+],
+  "geometry": {"coordinates":[-105.59187799999999,41.31464],"type":"Point"}
+}

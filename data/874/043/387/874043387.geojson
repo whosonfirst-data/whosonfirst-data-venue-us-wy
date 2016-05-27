@@ -1,0 +1,65 @@
+{
+  "id": 874043387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.309543,42.851377,-106.309543,42.851377",
+    "geom:latitude":42.851377,
+    "geom:longitude":-106.309543,
+    "iso:country":"US",
+    "sg:address":"107 N Washington St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 3668",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:website":"www.wyofootdoctor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78AnT5y5oZbQwKiqQrcTtm_42.851377_-106.309543@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311179,
+    "wof:geomhash":"af08d0038fc220f62c25c915f48b1aba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874043387
+        }
+    ],
+    "wof:id":874043387,
+    "wof:lastmodified":1464311179,
+    "wof:name":"Foot Doctor",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.309543,
+    42.851377,
+    -106.309543,
+    42.851377
+],
+  "geometry": {"coordinates":[-106.30954300000001,42.851377],"type":"Point"}
+}

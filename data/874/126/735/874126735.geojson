@@ -1,0 +1,58 @@
+{
+  "id": 874126735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.744738,42.83869,-108.744738,42.83869",
+    "geom:latitude":42.83869,
+    "geom:longitude":-108.744738,
+    "iso:country":"US",
+    "sg:address":"340 W Main St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 5816",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hLYrFOrBdQgTrsfyZJcBN_42.838690_-108.744738@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312100,
+    "wof:geomhash":"8e151882bd4d9c665bdba810bfce5a1f",
+    "wof:hierarchy":[],
+    "wof:id":874126735,
+    "wof:lastmodified":1464312100,
+    "wof:name":"City Plumbing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.744738,
+    42.83869,
+    -108.744738,
+    42.83869
+],
+  "geometry": {"coordinates":[-108.744738,42.83869],"type":"Point"}
+}

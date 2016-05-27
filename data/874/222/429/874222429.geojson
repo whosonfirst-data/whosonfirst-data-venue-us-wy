@@ -1,0 +1,80 @@
+{
+  "id": 874222429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.342104,42.821387,-106.342104,42.821387",
+    "geom:latitude":42.821387,
+    "geom:longitude":-106.342104,
+    "iso:country":"US",
+    "sg:address":"2737 Hanway Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7749",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "tool",
+        "contractor",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68jFk2URxzUzLDB8lzCPnt_42.821387_-106.342104@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313088,
+    "wof:geomhash":"b35485725409fb13e31148598fa9c437",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874222429
+        }
+    ],
+    "wof:id":874222429,
+    "wof:lastmodified":1464313088,
+    "wof:name":"Frank's Plumbing & Heating",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "tool",
+        "contractor",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -106.342104,
+    42.821387,
+    -106.342104,
+    42.821387
+],
+  "geometry": {"coordinates":[-106.34210400000001,42.821387],"type":"Point"}
+}

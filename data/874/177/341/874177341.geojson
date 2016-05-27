@@ -1,0 +1,64 @@
+{
+  "id": 874177341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.291259,42.813433,-106.291259,42.813433",
+    "geom:latitude":42.813433,
+    "geom:longitude":-106.291259,
+    "iso:country":"US",
+    "sg:address":"4927 Scenic Rte",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 8008",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06HO97ankZ6VxOYKGXxAxY_42.813433_-106.291259@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312600,
+    "wof:geomhash":"6d02568903466e04d2e0ff261ef12231",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874177341
+        }
+    ],
+    "wof:id":874177341,
+    "wof:lastmodified":1464312600,
+    "wof:name":"Northern Lights Art",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.291259,
+    42.813433,
+    -106.291259,
+    42.813433
+],
+  "geometry": {"coordinates":[-106.291259,42.813433],"type":"Point"}
+}

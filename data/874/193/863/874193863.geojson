@@ -1,0 +1,56 @@
+{
+  "id": 874193863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.452453,41.504994,-109.452453,41.504994",
+    "geom:latitude":41.504994,
+    "geom:longitude":-109.452453,
+    "iso:country":"US",
+    "sg:address":"1545 N Riverbend Dr",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 7463",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D3UB0J5QnSkOUwhkL3lbP_41.504994_-109.452453@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312778,
+    "wof:geomhash":"c97d929fbc7ed153f67fa7eda1296979",
+    "wof:hierarchy":[],
+    "wof:id":874193863,
+    "wof:lastmodified":1464312778,
+    "wof:name":"Appliance Repair Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -109.452453,
+    41.504994,
+    -109.452453,
+    41.504994
+],
+  "geometry": {"coordinates":[-109.45245300000001,41.504994],"type":"Point"}
+}

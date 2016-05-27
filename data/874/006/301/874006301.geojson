@@ -1,0 +1,56 @@
+{
+  "id": 874006301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.764862,41.157804,-104.764862,41.157804",
+    "geom:latitude":41.157804,
+    "geom:longitude":-104.764862,
+    "iso:country":"US",
+    "sg:address":"4400 Parkview Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 9301",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03TIgXAE03ci0FFoUNkrVK_41.157804_-104.764862@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310827,
+    "wof:geomhash":"e4b8e99e6d119cc0abec3b08c9ff36b1",
+    "wof:hierarchy":[],
+    "wof:id":874006301,
+    "wof:lastmodified":1464310827,
+    "wof:name":"Parkview Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -104.764862,
+    41.157804,
+    -104.764862,
+    41.157804
+],
+  "geometry": {"coordinates":[-104.76486199999999,41.157804],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874061895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.700509,44.35246,-106.700509,44.35246",
+    "geom:latitude":44.35246,
+    "geom:longitude":-106.700509,
+    "iso:country":"US",
+    "sg:address":"450 N Adams Ave",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 0532",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_764G6M3rqsuK6nuGZmgM1M_44.352460_-106.700509@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311352,
+    "wof:geomhash":"c13e6aede0ec33902b8eb74ad1453e3a",
+    "wof:hierarchy":[],
+    "wof:id":874061895,
+    "wof:lastmodified":1464311352,
+    "wof:name":"O Key Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.700509,
+    44.35246,
+    -106.700509,
+    44.35246
+],
+  "geometry": {"coordinates":[-106.700509,44.35246],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874114071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.335034,42.835582,-106.335034,42.835582",
+    "geom:latitude":42.835582,
+    "geom:longitude":-106.335034,
+    "iso:country":"US",
+    "sg:address":"812 W 15th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 4016",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "glass",
+        "leaded"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bCMPdWvMlhR51qmJOzJyz_42.835582_-106.335034@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311978,
+    "wof:geomhash":"34f23790d8a43928b5c7bad33773025e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874114071
+        }
+    ],
+    "wof:id":874114071,
+    "wof:lastmodified":1464311978,
+    "wof:name":"Lyric Design Custom Stained",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "leaded"
+    ]
+},
+  "bbox": [
+    -106.335034,
+    42.835582,
+    -106.335034,
+    42.835582
+],
+  "geometry": {"coordinates":[-106.33503399999999,42.835582],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874034893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.390369,42.85479,-106.390369,42.85479",
+    "geom:latitude":42.85479,
+    "geom:longitude":-106.390369,
+    "iso:country":"US",
+    "sg:address":"5051 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 6722",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CvnpO9TO919UNoF12ixex_42.854790_-106.390369@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311093,
+    "wof:geomhash":"f403e60ac5a3b48bfb46e8d7328f3afe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874034893
+        }
+    ],
+    "wof:id":874034893,
+    "wof:lastmodified":1464311093,
+    "wof:name":"Sanchez Electric Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.390369,
+    42.85479,
+    -106.390369,
+    42.85479
+],
+  "geometry": {"coordinates":[-106.39036900000001,42.85479],"type":"Point"}
+}

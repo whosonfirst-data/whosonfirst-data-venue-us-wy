@@ -1,0 +1,56 @@
+{
+  "id": 874121945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.356234,41.192089,-104.356234,41.192089",
+    "geom:latitude":41.192089,
+    "geom:longitude":-104.356234,
+    "iso:country":"US",
+    "sg:address":"140 S Wyoming Ave",
+    "sg:city":"Burns",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 547 3734",
+    "sg:postcode":"82053",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PKqbdD1PSgQiq8KfrAAJl_41.192089_-104.356234@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312058,
+    "wof:geomhash":"3b3955a0434f31dd098ecb7ec6f46045",
+    "wof:hierarchy":[],
+    "wof:id":874121945,
+    "wof:lastmodified":1464312058,
+    "wof:name":"Presbyterian Church Of Burns",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -104.356234,
+    41.192089,
+    -104.356234,
+    41.192089
+],
+  "geometry": {"coordinates":[-104.356234,41.192089],"type":"Point"}
+}

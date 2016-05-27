@@ -1,0 +1,64 @@
+{
+  "id": 874193243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.247228,43.411972,-106.247228,43.411972",
+    "geom:latitude":43.411972,
+    "geom:longitude":-106.247228,
+    "iso:country":"US",
+    "sg:address":"323 S 2nd St",
+    "sg:city":"Edgerton",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 437 6682",
+    "sg:postcode":"82635",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71m3vOkrZprSm7ZYoPL1zZ_43.411972_-106.247228@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312772,
+    "wof:geomhash":"2580d29fd56bcecd44c8735754f255e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874193243
+        }
+    ],
+    "wof:id":874193243,
+    "wof:lastmodified":1464312772,
+    "wof:name":"Arcade Bar",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.247228,
+    43.411972,
+    -106.247228,
+    43.411972
+],
+  "geometry": {"coordinates":[-106.24722800000001,43.411972],"type":"Point"}
+}

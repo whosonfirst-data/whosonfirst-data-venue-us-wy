@@ -1,0 +1,73 @@
+{
+  "id": 874105103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593685,41.322474,-105.593685,41.322474",
+    "geom:latitude":41.322474,
+    "geom:longitude":-105.593685,
+    "iso:country":"US",
+    "sg:address":"203 E Baker St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 8951",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hEHzRtUdBq2kd4spIK3UE_41.322474_-105.593685@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311858,
+    "wof:geomhash":"e9adb6618cfe71682dda4fc61e7f42d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874105103
+        }
+    ],
+    "wof:id":874105103,
+    "wof:lastmodified":1464311858,
+    "wof:name":"Rinker's Auto Salvage",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -105.593685,
+    41.322474,
+    -105.593685,
+    41.322474
+],
+  "geometry": {"coordinates":[-105.59368499999999,41.322474],"type":"Point"}
+}

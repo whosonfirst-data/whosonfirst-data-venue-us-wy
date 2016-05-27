@@ -1,0 +1,69 @@
+{
+  "id": 874183979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.298058,42.838796,-106.298058,42.838796",
+    "geom:latitude":42.838796,
+    "geom:longitude":-106.298058,
+    "iso:country":"US",
+    "sg:address":"2123 E 12th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 6430",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UjtnjONraED5TRGc8mXui_42.838796_-106.298058@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312677,
+    "wof:geomhash":"87989a349f95a81f026f464e663c9ca0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874183979
+        }
+    ],
+    "wof:id":874183979,
+    "wof:lastmodified":1464312677,
+    "wof:name":"Merle Norman Cosmetics",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -106.298058,
+    42.838796,
+    -106.298058,
+    42.838796
+],
+  "geometry": {"coordinates":[-106.298058,42.838796],"type":"Point"}
+}

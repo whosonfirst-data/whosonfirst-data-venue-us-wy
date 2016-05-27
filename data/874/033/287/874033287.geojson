@@ -1,0 +1,56 @@
+{
+  "id": 874033287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.182823,42.063958,-104.182823,42.063958",
+    "geom:latitude":42.063958,
+    "geom:longitude":-104.182823,
+    "iso:country":"US",
+    "sg:address":"217 E 20th Ave",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 7052",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OwR304i3FKll8U31Xwm2g_42.063958_-104.182823@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311078,
+    "wof:geomhash":"c0e9fc89c5c021c8b28a23c8a603c61f",
+    "wof:hierarchy":[],
+    "wof:id":874033287,
+    "wof:lastmodified":1464311078,
+    "wof:name":"Torrington Ambulance Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -104.182823,
+    42.063958,
+    -104.182823,
+    42.063958
+],
+  "geometry": {"coordinates":[-104.182823,42.063958],"type":"Point"}
+}

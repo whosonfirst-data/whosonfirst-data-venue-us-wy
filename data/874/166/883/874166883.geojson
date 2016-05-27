@@ -1,0 +1,56 @@
+{
+  "id": 874166883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.5039,44.293265,-105.5039,44.293265",
+    "geom:latitude":44.293265,
+    "geom:longitude":-105.5039,
+    "iso:country":"US",
+    "sg:address":"111 E 2nd St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 685 0044",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TCJyx2PzCwIzpSjxHSmXF_44.293265_-105.503900@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312497,
+    "wof:geomhash":"cd99434abe8bc15cc3c78e125c38b21a",
+    "wof:hierarchy":[],
+    "wof:id":874166883,
+    "wof:lastmodified":1464312497,
+    "wof:name":"High Plains Community Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -105.5039,
+    44.293265,
+    -105.5039,
+    44.293265
+],
+  "geometry": {"coordinates":[-105.5039,44.293265],"type":"Point"}
+}

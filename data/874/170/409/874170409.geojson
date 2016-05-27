@@ -1,0 +1,71 @@
+{
+  "id": 874170409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.393128,42.852762,-106.393128,42.852762",
+    "geom:latitude":42.852762,
+    "geom:longitude":-106.393128,
+    "iso:country":"US",
+    "sg:address":"590 Lewis Ln",
+    "sg:city":"Mills",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4930",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DAuPSdFfX5vJL2kZi8JRk_42.852762_-106.393128@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312531,
+    "wof:geomhash":"00713c03005978faf7d15aec918c83ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874170409
+        }
+    ],
+    "wof:id":874170409,
+    "wof:lastmodified":1464312531,
+    "wof:name":"Westside Mobile Court",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -106.393128,
+    42.852762,
+    -106.393128,
+    42.852762
+],
+  "geometry": {"coordinates":[-106.393128,42.852762],"type":"Point"}
+}

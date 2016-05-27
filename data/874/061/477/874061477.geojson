@@ -1,0 +1,66 @@
+{
+  "id": 874061477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.589078,41.304124,-105.589078,41.304124",
+    "geom:latitude":41.304124,
+    "geom:longitude":-105.589078,
+    "iso:country":"US",
+    "sg:address":"701 E Ord St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 8959",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kn9rcnPu1e3TzhkGWDPlP_41.304124_-105.589078@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311348,
+    "wof:geomhash":"d3073d3cf6801c3e70049afb7dd784f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874061477
+        }
+    ],
+    "wof:id":874061477,
+    "wof:lastmodified":1464311348,
+    "wof:name":"Dancing Woman Ventures",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.589078,
+    41.304124,
+    -105.589078,
+    41.304124
+],
+  "geometry": {"coordinates":[-105.589078,41.304124],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874007807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33467,42.860533,-106.33467,42.860533",
+    "geom:latitude":42.860533,
+    "geom:longitude":-106.33467,
+    "iso:country":"US",
+    "sg:address":"900 Werner Ct",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 7988",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "land",
+        "oil",
+        "lease"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NWfDekJH66IBcjstkiL08_42.860533_-106.334670@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310839,
+    "wof:geomhash":"413ee3a2cb06affc9378655f4c32d464",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874007807
+        }
+    ],
+    "wof:id":874007807,
+    "wof:lastmodified":1464310839,
+    "wof:name":"Noonan Land Svc Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "land",
+        "oil",
+        "lease"
+    ]
+},
+  "bbox": [
+    -106.33467,
+    42.860533,
+    -106.33467,
+    42.860533
+],
+  "geometry": {"coordinates":[-106.33467,42.860533],"type":"Point"}
+}

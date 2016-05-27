@@ -1,0 +1,57 @@
+{
+  "id": 874102219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.97698,44.80746,-106.97698,44.80746",
+    "geom:latitude":44.80746,
+    "geom:longitude":-106.97698,
+    "iso:country":"US",
+    "sg:address":"1401 W 5th St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 1083",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"www.sheridanhospital.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bAFi06thhWsgRL2MR3Mek_44.807460_-106.976980@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311821,
+    "wof:geomhash":"34a50284dd0aa807c1035e61772ab454",
+    "wof:hierarchy":[],
+    "wof:id":874102219,
+    "wof:lastmodified":1464311821,
+    "wof:name":"Hospital Homecare",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -106.97698,
+    44.80746,
+    -106.97698,
+    44.80746
+],
+  "geometry": {"coordinates":[-106.97698,44.80746],"type":"Point"}
+}

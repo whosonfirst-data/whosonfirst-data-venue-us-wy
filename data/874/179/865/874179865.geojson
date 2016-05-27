@@ -1,0 +1,72 @@
+{
+  "id": 874179865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.34369,42.810014,-106.34369,42.810014",
+    "geom:latitude":42.810014,
+    "geom:longitude":-106.34369,
+    "iso:country":"US",
+    "sg:address":"4210 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 8747",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "sg:website":"www.alltravel.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VAe3IsJ4OOmine3Br2vx6_42.810014_-106.343690@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312628,
+    "wof:geomhash":"9cd08186e31d2b0b6635b0c55b5d3fe9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874179865
+        }
+    ],
+    "wof:id":874179865,
+    "wof:lastmodified":1464312628,
+    "wof:name":"All Travel",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -106.34369,
+    42.810014,
+    -106.34369,
+    42.810014
+],
+  "geometry": {"coordinates":[-106.34369,42.810014],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874065497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.328045,42.84764,-106.328045,42.84764",
+    "geom:latitude":42.84764,
+    "geom:longitude":-106.328045,
+    "iso:country":"US",
+    "sg:address":"340 S Ash St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 9200",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OoGkINJ337gRIsi8wOS1O_42.847640_-106.328045@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311384,
+    "wof:geomhash":"c7c95be51f6c1c3589683295578d51d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874065497
+        }
+    ],
+    "wof:id":874065497,
+    "wof:lastmodified":1464311384,
+    "wof:name":"Wyoming Homes",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -106.328045,
+    42.84764,
+    -106.328045,
+    42.84764
+],
+  "geometry": {"coordinates":[-106.328045,42.84764],"type":"Point"}
+}

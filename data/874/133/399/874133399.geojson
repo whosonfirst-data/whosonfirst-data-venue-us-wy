@@ -1,0 +1,56 @@
+{
+  "id": 874133399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.759335,41.159553,-104.759335,41.159553",
+    "geom:latitude":41.159553,
+    "geom:longitude":-104.759335,
+    "iso:country":"US",
+    "sg:address":"100 Rio Verde Cir",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 5601",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66JyV7RcPDZeGRhpdN7rlR_41.159553_-104.759335@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312176,
+    "wof:geomhash":"e1390666f7028a7ed0dddbfc11cadc71",
+    "wof:hierarchy":[],
+    "wof:id":874133399,
+    "wof:lastmodified":1464312176,
+    "wof:name":"Bedrock Masonry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -104.759335,
+    41.159553,
+    -104.759335,
+    41.159553
+],
+  "geometry": {"coordinates":[-104.75933499999999,41.159553],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874095757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.322285,42.851443,-106.322285,42.851443",
+    "geom:latitude":42.851443,
+    "geom:longitude":-106.322285,
+    "iso:country":"US",
+    "sg:address":"103 N Durbin St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 7441",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sl0xRJjDp4MMmzn42Xo2Q_42.851443_-106.322285@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311722,
+    "wof:geomhash":"4e5767a00b26f020677f4df7b493612a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874095757
+        }
+    ],
+    "wof:id":874095757,
+    "wof:lastmodified":1464311722,
+    "wof:name":"The Cruise Broker",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -106.322285,
+    42.851443,
+    -106.322285,
+    42.851443
+],
+  "geometry": {"coordinates":[-106.32228499999999,42.851443],"type":"Point"}
+}

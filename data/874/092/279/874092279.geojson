@@ -1,0 +1,73 @@
+{
+  "id": 874092279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.583946,41.403205,-105.583946,41.403205",
+    "geom:latitude":41.403205,
+    "geom:longitude":-105.583946,
+    "iso:country":"US",
+    "sg:address":"36 Center St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 4796",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mjAtbg8Y7Cn9j0QZttE4O_41.403205_-105.583946@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311688,
+    "wof:geomhash":"20b98f23e0cf9c6be4aa12285752b2dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874092279
+        }
+    ],
+    "wof:id":874092279,
+    "wof:lastmodified":1464311688,
+    "wof:name":"Bill's Excavating",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.583946,
+    41.403205,
+    -105.583946,
+    41.403205
+],
+  "geometry": {"coordinates":[-105.583946,41.403205],"type":"Point"}
+}

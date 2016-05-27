@@ -1,0 +1,57 @@
+{
+  "id": 874229095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.056879,44.488991,-108.056879,44.488991",
+    "geom:latitude":44.488991,
+    "geom:longitude":-108.056879,
+    "iso:country":"US",
+    "sg:address":"200 Greybull Ave",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/big-horn-central/236549-lisas-western-cuisine/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 4765",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BCr5TmtVG5wZa9VIKFt4T_44.488991_-108.056879@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313151,
+    "wof:geomhash":"c13275f2c220e74ce051bbb77695e9e9",
+    "wof:hierarchy":[],
+    "wof:id":874229095,
+    "wof:lastmodified":1464313151,
+    "wof:name":"Lisa's Western Cuisine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -108.056879,
+    44.488991,
+    -108.056879,
+    44.488991
+],
+  "geometry": {"coordinates":[-108.056879,44.488991],"type":"Point"}
+}

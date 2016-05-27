@@ -1,0 +1,58 @@
+{
+  "id": 874150311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.721874,44.344653,-106.721874,44.344653",
+    "geom:latitude":44.344653,
+    "geom:longitude":-106.721874,
+    "iso:country":"US",
+    "sg:address":"1311 Fort St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 1999",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uP5AoeV80rdm8Tos1jEZu_44.344653_-106.721874@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312331,
+    "wof:geomhash":"0571ddffb4fa5a95349f8662c1ed118c",
+    "wof:hierarchy":[],
+    "wof:id":874150311,
+    "wof:lastmodified":1464312331,
+    "wof:name":"Jim's Automotive & Tire",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -106.721874,
+    44.344653,
+    -106.721874,
+    44.344653
+],
+  "geometry": {"coordinates":[-106.721874,44.344653],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874038045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.349171,42.828278,-106.349171,42.828278",
+    "geom:latitude":42.828278,
+    "geom:longitude":-106.349171,
+    "iso:country":"US",
+    "sg:address":"1845 W Coffman Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 6034",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ve8VorMrFpn155jAbJGLF_42.828278_-106.349171@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311126,
+    "wof:geomhash":"c57b76b872921578e5d7f5a4617bad98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874038045
+        }
+    ],
+    "wof:id":874038045,
+    "wof:lastmodified":1464311126,
+    "wof:name":"L & N Enterprises",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "establishment"
+    ]
+},
+  "bbox": [
+    -106.349171,
+    42.828278,
+    -106.349171,
+    42.828278
+],
+  "geometry": {"coordinates":[-106.349171,42.828278],"type":"Point"}
+}

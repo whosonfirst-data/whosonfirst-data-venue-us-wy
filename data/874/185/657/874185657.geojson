@@ -1,0 +1,58 @@
+{
+  "id": 874185657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.3839,44.278069,-105.3839,44.278069",
+    "geom:latitude":44.278069,
+    "geom:longitude":-105.3839,
+    "iso:country":"US",
+    "sg:address":"13252 State Hwy 51",
+    "sg:city":"Rozet",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 685 2556",
+    "sg:postcode":"82727",
+    "sg:province":"WY",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O8B6vwea9YQJdzPObylaM_44.278069_-105.383900@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312697,
+    "wof:geomhash":"8cc32a9ec9780c9ceec51e5b1d4b3ef2",
+    "wof:hierarchy":[],
+    "wof:id":874185657,
+    "wof:lastmodified":1464312697,
+    "wof:name":"Sander Sanitation Svc Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -105.3839,
+    44.278069,
+    -105.3839,
+    44.278069
+],
+  "geometry": {"coordinates":[-105.3839,44.278069],"type":"Point"}
+}

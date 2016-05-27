@@ -1,0 +1,73 @@
+{
+  "id": 874079691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.301534,42.833716,-106.301534,42.833716",
+    "geom:latitude":42.833716,
+    "geom:longitude":-106.301534,
+    "iso:country":"US",
+    "sg:address":"1815 Fairview Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7119",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VWJLemLV9EOGKXWOu1Dj4_42.833716_-106.301534@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311549,
+    "wof:geomhash":"463c12daae903dcb21baf5f83902b2ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874079691
+        }
+    ],
+    "wof:id":874079691,
+    "wof:lastmodified":1464311549,
+    "wof:name":"Baran Family Delivery LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -106.301534,
+    42.833716,
+    -106.301534,
+    42.833716
+],
+  "geometry": {"coordinates":[-106.301534,42.833716],"type":"Point"}
+}

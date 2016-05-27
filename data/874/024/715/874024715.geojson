@@ -1,0 +1,69 @@
+{
+  "id": 874024715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.338777,42.834106,-106.338777,42.834106",
+    "geom:latitude":42.834106,
+    "geom:longitude":-106.338777,
+    "iso:country":"US",
+    "sg:address":"1351 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 6974",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WVOC1Xi4UWgUHD0lD2OQQ_42.834106_-106.338777@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310993,
+    "wof:geomhash":"f8354fc3fdc304d36ec3fa26d806eb47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874024715
+        }
+    ],
+    "wof:id":874024715,
+    "wof:lastmodified":1464310993,
+    "wof:name":"Rocky Mountain Discount Sports",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -106.338777,
+    42.834106,
+    -106.338777,
+    42.834106
+],
+  "geometry": {"coordinates":[-106.33877699999999,42.834106],"type":"Point"}
+}

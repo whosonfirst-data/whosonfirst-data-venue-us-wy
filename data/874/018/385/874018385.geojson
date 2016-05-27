@@ -1,0 +1,58 @@
+{
+  "id": 874018385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.762466,43.472925,-110.762466,43.472925",
+    "geom:latitude":43.472925,
+    "geom:longitude":-110.762466,
+    "iso:country":"US",
+    "sg:address":"645 S Cache Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 1731",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "weather",
+        "forecast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LX4XyscU39HyYIlYBYLsh_43.472925_-110.762466@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310931,
+    "wof:geomhash":"697ee06c35cee0206552248ef30ce7c0",
+    "wof:hierarchy":[],
+    "wof:id":874018385,
+    "wof:lastmodified":1464310931,
+    "wof:name":"Sports & Weather",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "weather",
+        "forecast"
+    ]
+},
+  "bbox": [
+    -110.762466,
+    43.472925,
+    -110.762466,
+    43.472925
+],
+  "geometry": {"coordinates":[-110.762466,43.472925],"type":"Point"}
+}

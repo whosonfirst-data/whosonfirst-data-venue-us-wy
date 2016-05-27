@@ -1,0 +1,71 @@
+{
+  "id": 874089421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.332811,42.854861,-106.332811,42.854861",
+    "geom:latitude":42.854861,
+    "geom:longitude":-106.332811,
+    "iso:country":"US",
+    "sg:address":"531 Warehouse Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 3550",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RQNGKqTGHnFpWfG7c5leD_42.854861_-106.332811@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311655,
+    "wof:geomhash":"7ee1f1058f691b1ef5da1a3ccf96b1be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874089421
+        }
+    ],
+    "wof:id":874089421,
+    "wof:lastmodified":1464311655,
+    "wof:name":"Summit Roofing",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.332811,
+    42.854861,
+    -106.332811,
+    42.854861
+],
+  "geometry": {"coordinates":[-106.33281100000001,42.854861],"type":"Point"}
+}

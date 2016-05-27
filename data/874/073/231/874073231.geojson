@@ -1,0 +1,71 @@
+{
+  "id": 874073231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.339086,42.797422,-106.339086,42.797422",
+    "geom:latitude":42.797422,
+    "geom:longitude":-106.339086,
+    "iso:country":"US",
+    "sg:address":"5920 S Walnut St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 377 5740",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VylGdrckHB2oTDJThha1o_42.797422_-106.339086@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311482,
+    "wof:geomhash":"0f38d4d5fe70910120960c9ac63ce7d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874073231
+        }
+    ],
+    "wof:id":874073231,
+    "wof:lastmodified":1464311482,
+    "wof:name":"Schuler Custom Homes Cnstr",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -106.339086,
+    42.797422,
+    -106.339086,
+    42.797422
+],
+  "geometry": {"coordinates":[-106.33908599999999,42.797422],"type":"Point"}
+}

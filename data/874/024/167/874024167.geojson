@@ -1,0 +1,69 @@
+{
+  "id": 874024167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.314656,42.828147,-106.314656,42.828147",
+    "geom:latitude":42.828147,
+    "geom:longitude":-106.314656,
+    "iso:country":"US",
+    "sg:address":"2007 S Mitchell St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8585",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gMTpLbFOkuStFzLPRy2Tt_42.828147_-106.314656@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310985,
+    "wof:geomhash":"017396877f286243422edf30e392766b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874024167
+        }
+    ],
+    "wof:id":874024167,
+    "wof:lastmodified":1464310985,
+    "wof:name":"Park Sprinkler Systems",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.314656,
+    42.828147,
+    -106.314656,
+    42.828147
+],
+  "geometry": {"coordinates":[-106.314656,42.828147],"type":"Point"}
+}

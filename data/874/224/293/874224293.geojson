@@ -1,0 +1,56 @@
+{
+  "id": 874224293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.50392,44.29023,-105.50392,44.29023",
+    "geom:latitude":44.29023,
+    "geom:longitude":-105.50392,
+    "iso:country":"US",
+    "sg:address":"500 S Gillette Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 687 6255",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Zdaszzhlwx1T7RiyG2yrg_44.290230_-105.503920@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313105,
+    "wof:geomhash":"5cb3b02832f41d6868c8ac8545acf410",
+    "wof:hierarchy":[],
+    "wof:id":874224293,
+    "wof:lastmodified":1464313105,
+    "wof:name":"Campbell County Clerk Vault",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -105.50392,
+    44.29023,
+    -105.50392,
+    44.29023
+],
+  "geometry": {"coordinates":[-105.50391999999999,44.29023],"type":"Point"}
+}

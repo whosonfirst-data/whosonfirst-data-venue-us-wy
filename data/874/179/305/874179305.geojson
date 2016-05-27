@@ -1,0 +1,72 @@
+{
+  "id": 874179305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594525,41.311964,-105.594525,41.311964",
+    "geom:latitude":41.311964,
+    "geom:longitude":-105.594525,
+    "iso:country":"US",
+    "sg:address":"222 E Ivinson Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5555",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"www.handelit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LpBLfN5GmjCJJO7shsTv0_41.311964_-105.594525@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312623,
+    "wof:geomhash":"e3739128da28460b4d0c02712f362d5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874179305
+        }
+    ],
+    "wof:id":874179305,
+    "wof:lastmodified":1464312623,
+    "wof:name":"Handel Information Techs",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -105.594525,
+    41.311964,
+    -105.594525,
+    41.311964
+],
+  "geometry": {"coordinates":[-105.594525,41.311964],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874199017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.73705,44.754173,-108.73705,44.754173",
+    "geom:latitude":44.754173,
+    "geom:longitude":-108.73705,
+    "iso:country":"US",
+    "sg:address":"1000 Hastings Horseshoe",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 3175",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wXvsQJUBEtRi0MfcLFWk5_44.754173_-108.737050@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312835,
+    "wof:geomhash":"f4572797dfbf23a8d47334fb65a58f0c",
+    "wof:hierarchy":[],
+    "wof:id":874199017,
+    "wof:lastmodified":1464312835,
+    "wof:name":"R N Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [
+    -108.73705,
+    44.754173,
+    -108.73705,
+    44.754173
+],
+  "geometry": {"coordinates":[-108.73705,44.754173],"type":"Point"}
+}

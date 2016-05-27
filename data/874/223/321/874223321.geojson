@@ -1,0 +1,69 @@
+{
+  "id": 874223321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.354253,42.810046,-106.354253,42.810046",
+    "geom:latitude":42.810046,
+    "geom:longitude":-106.354253,
+    "iso:country":"US",
+    "sg:address":"2491 W 42nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1824",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iipptz2mTMRN5czVZpUVf_42.810046_-106.354253@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313097,
+    "wof:geomhash":"df749efbb73c0df0c84f2a675d4bb10d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874223321
+        }
+    ],
+    "wof:id":874223321,
+    "wof:lastmodified":1464313097,
+    "wof:name":"Pronghorn Custom Bows",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -106.354253,
+    42.810046,
+    -106.354253,
+    42.810046
+],
+  "geometry": {"coordinates":[-106.354253,42.810046],"type":"Point"}
+}

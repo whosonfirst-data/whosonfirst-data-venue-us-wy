@@ -1,0 +1,60 @@
+{
+  "id": 874057895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.9597,44.79819,-106.9597,44.79819",
+    "geom:latitude":44.79819,
+    "geom:longitude":-106.9597,
+    "iso:country":"US",
+    "sg:address":"101 W Brundage St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 5534",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "patient",
+        "mental",
+        "out"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UyWjiMJ2ktBWGECTMWA5E_44.798190_-106.959700@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311316,
+    "wof:geomhash":"248aade5058003ba2ac1e2e6ded49360",
+    "wof:hierarchy":[],
+    "wof:id":874057895,
+    "wof:lastmodified":1464311316,
+    "wof:name":"Supported Independence Program",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "patient",
+        "mental",
+        "out"
+    ]
+},
+  "bbox": [
+    -106.9597,
+    44.79819,
+    -106.9597,
+    44.79819
+],
+  "geometry": {"coordinates":[-106.9597,44.79819],"type":"Point"}
+}

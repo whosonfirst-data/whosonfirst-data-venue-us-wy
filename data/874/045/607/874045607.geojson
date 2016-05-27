@@ -1,0 +1,73 @@
+{
+  "id": 874045607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.563942,41.297598,-105.563942,41.297598",
+    "geom:latitude":41.297598,
+    "geom:longitude":-105.563942,
+    "iso:country":"US",
+    "sg:address":"2621 E Park Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8476",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24fnJsuRo2Hgr0RGfBD2zx_41.297598_-105.563942@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311203,
+    "wof:geomhash":"6340112a195899d60e97ba259334bae6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874045607
+        }
+    ],
+    "wof:id":874045607,
+    "wof:lastmodified":1464311203,
+    "wof:name":"Jh Excavation",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.563942,
+    41.297598,
+    -105.563942,
+    41.297598
+],
+  "geometry": {"coordinates":[-105.563942,41.297598],"type":"Point"}
+}

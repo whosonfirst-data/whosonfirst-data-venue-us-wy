@@ -1,0 +1,75 @@
+{
+  "id": 874035325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.411472,42.800952,-106.411472,42.800952",
+    "geom:latitude":42.800952,
+    "geom:longitude":-106.411472,
+    "iso:country":"US",
+    "sg:address":"6000 W Incline Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 267 6230",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "water",
+        "environmental",
+        "quality",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dg8dh5LiOqWyBsTvgZJeY_42.800952_-106.411472@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311097,
+    "wof:geomhash":"1710ac76b02f0b9b64a7eed651b60504",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874035325
+        }
+    ],
+    "wof:id":874035325,
+    "wof:lastmodified":1464311097,
+    "wof:name":"Lost Iguana Consulting Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "environmental",
+        "quality",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -106.411472,
+    42.800952,
+    -106.411472,
+    42.800952
+],
+  "geometry": {"coordinates":[-106.411472,42.800952],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874167833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.196932,41.584586,-109.196932,41.584586",
+    "geom:latitude":41.584586,
+    "geom:longitude":-109.196932,
+    "iso:country":"US",
+    "sg:address":"2117 Hillcrest Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 352 1485",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lAXqONLIjemnMMWbQc7hu_41.584586_-109.196932@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312505,
+    "wof:geomhash":"57e9e3efdfbeb0f859171fd1c4fc1cf5",
+    "wof:hierarchy":[],
+    "wof:id":874167833,
+    "wof:lastmodified":1464312505,
+    "wof:name":"Fire Department Station 2",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -109.196932,
+    41.584586,
+    -109.196932,
+    41.584586
+],
+  "geometry": {"coordinates":[-109.196932,41.584586],"type":"Point"}
+}

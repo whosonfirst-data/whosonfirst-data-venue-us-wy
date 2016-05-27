@@ -1,0 +1,73 @@
+{
+  "id": 874161311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.24091,41.574558,-109.24091,41.574558",
+    "geom:latitude":41.574558,
+    "geom:longitude":-109.24091,
+    "iso:country":"US",
+    "sg:address":"1877 Dewar Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 4492",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "personal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sS4PyHyidMDdUrc13bSCN_41.574558_-109.240910@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312445,
+    "wof:geomhash":"d17c3c1bca0acca8125be179c8bdad64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874161311
+        }
+    ],
+    "wof:id":874161311,
+    "wof:lastmodified":1464312445,
+    "wof:name":"Diet Center of Rock Springs",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal"
+    ]
+},
+  "bbox": [
+    -109.24091,
+    41.574558,
+    -109.24091,
+    41.574558
+],
+  "geometry": {"coordinates":[-109.24091,41.574558],"type":"Point"}
+}

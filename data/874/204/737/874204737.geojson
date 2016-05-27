@@ -1,0 +1,59 @@
+{
+  "id": 874204737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.760621,44.752914,-108.760621,44.752914",
+    "geom:latitude":44.752914,
+    "geom:longitude":-108.760621,
+    "iso:country":"US",
+    "sg:address":"231 W 1st St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 6000",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.northwestcollege.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59lBnJibCxEf4zTpo9gvDO_44.752914_-108.760621@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312892,
+    "wof:geomhash":"eadae3cdc6d237d197788a3a9a2a290f",
+    "wof:hierarchy":[],
+    "wof:id":874204737,
+    "wof:lastmodified":1464312892,
+    "wof:name":"Northwest College",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -108.760621,
+    44.752914,
+    -108.760621,
+    44.752914
+],
+  "geometry": {"coordinates":[-108.760621,44.752914],"type":"Point"}
+}

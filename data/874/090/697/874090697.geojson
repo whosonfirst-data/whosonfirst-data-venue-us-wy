@@ -1,0 +1,56 @@
+{
+  "id": 874090697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.03887,44.380052,-108.03887,44.380052",
+    "geom:latitude":44.380052,
+    "geom:longitude":-108.03887,
+    "iso:country":"US",
+    "sg:address":"405 S 4th St",
+    "sg:city":"Basin",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 568 2445",
+    "sg:postcode":"82410",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M9Mg5leevqaRY9vAkzeYP_44.380052_-108.038870@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311670,
+    "wof:geomhash":"933e7b414bbf97877e02b62f4110851f",
+    "wof:hierarchy":[],
+    "wof:id":874090697,
+    "wof:lastmodified":1464311670,
+    "wof:name":"Tri Tel Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -108.03887,
+    44.380052,
+    -108.03887,
+    44.380052
+],
+  "geometry": {"coordinates":[-108.03887,44.380052],"type":"Point"}
+}

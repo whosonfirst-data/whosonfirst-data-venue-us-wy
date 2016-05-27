@@ -1,0 +1,64 @@
+{
+  "id": 874011173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.325088,42.848971,-106.325088,42.848971",
+    "geom:latitude":42.848971,
+    "geom:longitude":-106.325088,
+    "iso:country":"US",
+    "sg:address":"119 S Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 5440",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QROB4YTUKfZPTCH8IJyZZ_42.848971_-106.325088@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310863,
+    "wof:geomhash":"1750645aaca182215a28d7de54f4969c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874011173
+        }
+    ],
+    "wof:id":874011173,
+    "wof:lastmodified":1464310863,
+    "wof:name":"American Theatre",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.325088,
+    42.848971,
+    -106.325088,
+    42.848971
+],
+  "geometry": {"coordinates":[-106.32508799999999,42.848971],"type":"Point"}
+}

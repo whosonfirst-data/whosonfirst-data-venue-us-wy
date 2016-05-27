@@ -1,0 +1,71 @@
+{
+  "id": 874201853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.619239,41.297999,-105.619239,41.297999",
+    "geom:latitude":41.297999,
+    "geom:longitude":-105.619239,
+    "iso:country":"US",
+    "sg:address":"1697 Riverside Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 0239",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f6frN2qLAaPLJBhi1HybN_41.297999_-105.619239@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312862,
+    "wof:geomhash":"11a435e97dc9d23f7128060849c98e30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874201853
+        }
+    ],
+    "wof:id":874201853,
+    "wof:lastmodified":1464312862,
+    "wof:name":"Portrait Gallery",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -105.619239,
+    41.297999,
+    -105.619239,
+    41.297999
+],
+  "geometry": {"coordinates":[-105.61923899999999,41.297999],"type":"Point"}
+}

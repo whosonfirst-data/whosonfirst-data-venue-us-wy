@@ -1,0 +1,58 @@
+{
+  "id": 874191575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.249134,41.787271,-107.249134,41.787271",
+    "geom:latitude":41.787271,
+    "geom:longitude":-107.249134,
+    "iso:country":"US",
+    "sg:address":"228 12th St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 6378",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KxOh76WFwqTPCsgQB5Xgp_41.787271_-107.249134@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312754,
+    "wof:geomhash":"99bfdd7cf4047a75338c9ae66affd338",
+    "wof:hierarchy":[],
+    "wof:id":874191575,
+    "wof:lastmodified":1464312754,
+    "wof:name":"Lawson Sanitation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -107.249134,
+    41.787271,
+    -107.249134,
+    41.787271
+],
+  "geometry": {"coordinates":[-107.249134,41.787271],"type":"Point"}
+}

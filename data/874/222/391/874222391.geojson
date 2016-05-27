@@ -1,0 +1,69 @@
+{
+  "id": 874222391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.335483,42.849094,-106.335483,42.849094",
+    "geom:latitude":42.849094,
+    "geom:longitude":-106.335483,
+    "iso:country":"US",
+    "sg:address":"193 Pronghorn St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1545",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K8uCzDAwHyQ0OzfTT8KvS_42.849094_-106.335483@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313088,
+    "wof:geomhash":"be56564391457d784e2e243ce026f405",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874222391
+        }
+    ],
+    "wof:id":874222391,
+    "wof:lastmodified":1464313088,
+    "wof:name":"Wingfoot Commercial Tire Systs",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -106.335483,
+    42.849094,
+    -106.335483,
+    42.849094
+],
+  "geometry": {"coordinates":[-106.335483,42.849094],"type":"Point"}
+}

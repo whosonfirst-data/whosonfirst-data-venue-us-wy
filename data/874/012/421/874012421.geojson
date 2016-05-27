@@ -1,0 +1,64 @@
+{
+  "id": 874012421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.347269,42.834672,-106.347269,42.834672",
+    "geom:latitude":42.834672,
+    "geom:longitude":-106.347269,
+    "iso:country":"US",
+    "sg:address":"1715 W 16th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 9429",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ODswuJWZtY0GqLHNfv1WY_42.834672_-106.347269@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310872,
+    "wof:geomhash":"992402dbec0a9669de2978b8367970fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874012421
+        }
+    ],
+    "wof:id":874012421,
+    "wof:lastmodified":1464310872,
+    "wof:name":"Combined Insurance Co Amer",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.347269,
+    42.834672,
+    -106.347269,
+    42.834672
+],
+  "geometry": {"coordinates":[-106.347269,42.834672],"type":"Point"}
+}

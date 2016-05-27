@@ -1,0 +1,69 @@
+{
+  "id": 874174695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.307522,42.840559,-106.307522,42.840559",
+    "geom:latitude":42.840559,
+    "geom:longitude":-106.307522,
+    "iso:country":"US",
+    "sg:address":"1020 S Conwell St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 3783",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cj8djekKNg9u3ujdqCrGT_42.840559_-106.307522@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312576,
+    "wof:geomhash":"9be0d25d330a3d848bbb252906b0a0bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874174695
+        }
+    ],
+    "wof:id":874174695,
+    "wof:lastmodified":1464312576,
+    "wof:name":"Medical Testing Lab Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -106.307522,
+    42.840559,
+    -106.307522,
+    42.840559
+],
+  "geometry": {"coordinates":[-106.30752200000001,42.840559],"type":"Point"}
+}

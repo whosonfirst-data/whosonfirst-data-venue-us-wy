@@ -1,0 +1,59 @@
+{
+  "id": 874230241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.958329,41.263206,-110.958329,41.263206",
+    "geom:latitude":41.263206,
+    "geom:longitude":-110.958329,
+    "iso:country":"US",
+    "sg:address":"130 N 3rd St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/evanston/191846-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 3675",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hGsVfA4YFbioQwtFU09tC_41.263206_-110.958329@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313162,
+    "wof:geomhash":"548e45108cb3c5a7318999e1d431c0c7",
+    "wof:hierarchy":[],
+    "wof:id":874230241,
+    "wof:lastmodified":1464313162,
+    "wof:name":"Sonic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -110.958329,
+    41.263206,
+    -110.958329,
+    41.263206
+],
+  "geometry": {"coordinates":[-110.95832900000001,41.263206],"type":"Point"}
+}

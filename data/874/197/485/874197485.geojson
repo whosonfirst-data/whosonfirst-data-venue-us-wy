@@ -1,0 +1,56 @@
+{
+  "id": 874197485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.372504,44.40737,-104.372504,44.40737",
+    "geom:latitude":44.40737,
+    "geom:longitude":-104.372504,
+    "iso:country":"US",
+    "sg:address":"704 E Cleveland St",
+    "sg:city":"Sundance",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 283 1296",
+    "sg:postcode":"82729",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10EBxl3XBVWCZ1XxRYpmzr_44.407370_-104.372504@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312821,
+    "wof:geomhash":"0fc1dbbc14540184af6e345df7760ad9",
+    "wof:hierarchy":[],
+    "wof:id":874197485,
+    "wof:lastmodified":1464312821,
+    "wof:name":"Sundance Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -104.372504,
+    44.40737,
+    -104.372504,
+    44.40737
+],
+  "geometry": {"coordinates":[-104.37250400000001,44.40737],"type":"Point"}
+}

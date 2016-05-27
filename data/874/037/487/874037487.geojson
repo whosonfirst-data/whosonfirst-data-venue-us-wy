@@ -1,0 +1,64 @@
+{
+  "id": 874037487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.298204,42.851395,-106.298204,42.851395",
+    "geom:latitude":42.851395,
+    "geom:longitude":-106.298204,
+    "iso:country":"US",
+    "sg:address":"1957 E A St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1038",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2itYTTsj3JW5VBWoZdghBp_42.851395_-106.298204@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311120,
+    "wof:geomhash":"793004b532fe911ff222be86da52384b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874037487
+        }
+    ],
+    "wof:id":874037487,
+    "wof:lastmodified":1464311120,
+    "wof:name":"Pewitt Real Estate",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.298204,
+    42.851395,
+    -106.298204,
+    42.851395
+],
+  "geometry": {"coordinates":[-106.298204,42.851395],"type":"Point"}
+}

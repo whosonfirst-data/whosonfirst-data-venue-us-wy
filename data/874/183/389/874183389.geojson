@@ -1,0 +1,64 @@
+{
+  "id": 874183389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.298022,42.838798,-106.298022,42.838798",
+    "geom:latitude":42.838798,
+    "geom:longitude":-106.298022,
+    "iso:country":"US",
+    "sg:address":"2119 E 12th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 5825",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z8WAromHnl3fTqxi8uqeb_42.838798_-106.298022@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312669,
+    "wof:geomhash":"f87784a07e66548d1c4b092eec091515",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874183389
+        }
+    ],
+    "wof:id":874183389,
+    "wof:lastmodified":1464312669,
+    "wof:name":"EZ Touch Bingo",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.298022,
+    42.838798,
+    -106.298022,
+    42.838798
+],
+  "geometry": {"coordinates":[-106.298022,42.838798],"type":"Point"}
+}

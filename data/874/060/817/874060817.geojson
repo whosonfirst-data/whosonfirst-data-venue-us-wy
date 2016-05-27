@@ -1,0 +1,64 @@
+{
+  "id": 874060817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.474598,42.936054,-106.474598,42.936054",
+    "geom:latitude":42.936054,
+    "geom:longitude":-106.474598,
+    "iso:country":"US",
+    "sg:address":"6450 Johnson Lateral Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7977",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UbwgvGxWYMiNV7Nlw9mEm_42.936054_-106.474598@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311342,
+    "wof:geomhash":"127c272131ecd1962120cdd6f682a7b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874060817
+        }
+    ],
+    "wof:id":874060817,
+    "wof:lastmodified":1464311342,
+    "wof:name":"West Winds Farm",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.474598,
+    42.936054,
+    -106.474598,
+    42.936054
+],
+  "geometry": {"coordinates":[-106.474598,42.936054],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874010271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.525936,44.273558,-105.525936,44.273558",
+    "geom:latitude":44.273558,
+    "geom:longitude":-105.525936,
+    "iso:country":"US",
+    "sg:address":"2406 Hillcrest Dr",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 6250",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N7smVqPkeMJ2wDNfMfk8e_44.273558_-105.525936@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310857,
+    "wof:geomhash":"83cb803da7455c68421cf92d439238a8",
+    "wof:hierarchy":[],
+    "wof:id":874010271,
+    "wof:lastmodified":1464310857,
+    "wof:name":"Bill Barth Automotive Group",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -105.525936,
+    44.273558,
+    -105.525936,
+    44.273558
+],
+  "geometry": {"coordinates":[-105.525936,44.273558],"type":"Point"}
+}

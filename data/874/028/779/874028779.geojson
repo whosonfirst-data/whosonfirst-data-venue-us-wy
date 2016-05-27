@@ -1,0 +1,70 @@
+{
+  "id": 874028779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.422384,42.873341,-106.422384,42.873341",
+    "geom:latitude":42.873341,
+    "geom:longitude":-106.422384,
+    "iso:country":"US",
+    "sg:address":"6711 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 6007",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mover"
+    ],
+    "sg:website":"www.stewartmoving.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i7lPTXpJzqBeLPewF2BW1_42.873341_-106.422384@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311031,
+    "wof:geomhash":"2604756ef477071d1012e36934a45b3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874028779
+        }
+    ],
+    "wof:id":874028779,
+    "wof:lastmodified":1464311031,
+    "wof:name":"Stewart Moving & Storage Systs",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -106.422384,
+    42.873341,
+    -106.422384,
+    42.873341
+],
+  "geometry": {"coordinates":[-106.42238399999999,42.873341],"type":"Point"}
+}

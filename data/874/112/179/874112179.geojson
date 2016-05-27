@@ -1,0 +1,69 @@
+{
+  "id": 874112179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343548,42.809965,-106.343548,42.809965",
+    "geom:latitude":42.809965,
+    "geom:longitude":-106.343548,
+    "iso:country":"US",
+    "sg:address":"4105 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2330",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "synagogue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M0nWjhyJdIObfLwwVODbU_42.809965_-106.343548@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311959,
+    "wof:geomhash":"4f43aee03150af4e4c7af5ccfbef6069",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874112179
+        }
+    ],
+    "wof:id":874112179,
+    "wof:lastmodified":1464311959,
+    "wof:name":"Temple Beth-El",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "synagogue"
+    ]
+},
+  "bbox": [
+    -106.343548,
+    42.809965,
+    -106.343548,
+    42.809965
+],
+  "geometry": {"coordinates":[-106.343548,42.809965],"type":"Point"}
+}

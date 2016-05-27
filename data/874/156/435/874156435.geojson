@@ -1,0 +1,58 @@
+{
+  "id": 874156435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.827177,41.353217,-104.827177,41.353217",
+    "geom:latitude":41.353217,
+    "geom:longitude":-104.827177,
+    "iso:country":"US",
+    "sg:address":"2525 Co Rd 124-A",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 1172",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kLxjWEdKR5elFewrDjxDT_41.353217_-104.827177@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312393,
+    "wof:geomhash":"650e5efea0106601823df595186f3e67",
+    "wof:hierarchy":[],
+    "wof:id":874156435,
+    "wof:lastmodified":1464312393,
+    "wof:name":"Emergency Medical Physicians",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -104.827177,
+    41.353217,
+    -104.827177,
+    41.353217
+],
+  "geometry": {"coordinates":[-104.82717700000001,41.353217],"type":"Point"}
+}

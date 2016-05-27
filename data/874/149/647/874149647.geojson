@@ -1,0 +1,71 @@
+{
+  "id": 874149647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.564915,41.306886,-105.564915,41.306886",
+    "geom:latitude":41.306886,
+    "geom:longitude":-105.564915,
+    "iso:country":"US",
+    "sg:address":"618 S 22nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5619",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lZGK1dbAOOiQPfduiktLz_41.306886_-105.564915@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312325,
+    "wof:geomhash":"1712eb3a4ed97994682877b2a0a5b401",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874149647
+        }
+    ],
+    "wof:id":874149647,
+    "wof:lastmodified":1464312325,
+    "wof:name":"Cottonwood Consulting LLC",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -105.564915,
+    41.306886,
+    -105.564915,
+    41.306886
+],
+  "geometry": {"coordinates":[-105.564915,41.306886],"type":"Point"}
+}

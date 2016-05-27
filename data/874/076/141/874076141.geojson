@@ -1,0 +1,71 @@
+{
+  "id": 874076141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.36337,42.82157,-106.36337,42.82157",
+    "geom:latitude":42.82157,
+    "geom:longitude":-106.36337,
+    "iso:country":"US",
+    "sg:address":"2931 Pheasant Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 8302",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Tc1eQUPiebzejlLwHhUDy_42.821570_-106.363370@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311512,
+    "wof:geomhash":"b8fc06b68a0f4febee59d6f076ff1f71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874076141
+        }
+    ],
+    "wof:id":874076141,
+    "wof:lastmodified":1464311512,
+    "wof:name":"Elkhorn Electric",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.36337,
+    42.82157,
+    -106.36337,
+    42.82157
+],
+  "geometry": {"coordinates":[-106.36337,42.82157],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874053273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.34345,42.89771,-106.34345,42.89771",
+    "geom:latitude":42.89771,
+    "geom:longitude":-106.34345,
+    "iso:country":"US",
+    "sg:address":"4150 Salt Creek Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 7034",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44QzW57HkWpjJBQAfQg9DB_42.897710_-106.343450@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311271,
+    "wof:geomhash":"9aef7b7c1bdc99676d147eb7c7d6ae44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874053273
+        }
+    ],
+    "wof:id":874053273,
+    "wof:lastmodified":1464311271,
+    "wof:name":"Wardwell Water & Sewer Dist",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -106.34345,
+    42.89771,
+    -106.34345,
+    42.89771
+],
+  "geometry": {"coordinates":[-106.34345,42.89771],"type":"Point"}
+}

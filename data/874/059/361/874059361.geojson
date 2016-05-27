@@ -1,0 +1,74 @@
+{
+  "id": 874059361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.5927,41.319963,-105.5927,41.319963",
+    "geom:latitude":41.319963,
+    "geom:longitude":-105.5927,
+    "iso:country":"US",
+    "sg:address":"850 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 8320",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "leasing",
+        "snowmobile"
+    ],
+    "sg:website":"www.snowyrange.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43HVq4eDpmNNTdCSjw8llQ_41.319963_-105.592700@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311329,
+    "wof:geomhash":"f8a1da496fa31c5bc0e46e5bb4158fe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874059361
+        }
+    ],
+    "wof:id":874059361,
+    "wof:lastmodified":1464311329,
+    "wof:name":"Snowy Range Option",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "snowmobile"
+    ]
+},
+  "bbox": [
+    -105.5927,
+    41.319963,
+    -105.5927,
+    41.319963
+],
+  "geometry": {"coordinates":[-105.59269999999999,41.319963],"type":"Point"}
+}

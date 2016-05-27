@@ -1,0 +1,60 @@
+{
+  "id": 873988625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.255318,41.796241,-107.255318,41.796241",
+    "geom:latitude":41.796241,
+    "geom:longitude":-107.255318,
+    "iso:country":"US",
+    "sg:address":"1622 Coulson Dr",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 2466",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "local",
+        "except",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62EcNj6F5gvrC5X2IsRuba_41.796241_-107.255318@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310680,
+    "wof:geomhash":"40a5370ebe6581d151ff8702cd4933d9",
+    "wof:hierarchy":[],
+    "wof:id":873988625,
+    "wof:lastmodified":1464310680,
+    "wof:name":"Tom Newman Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "except",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -107.255318,
+    41.796241,
+    -107.255318,
+    41.796241
+],
+  "geometry": {"coordinates":[-107.255318,41.796241],"type":"Point"}
+}

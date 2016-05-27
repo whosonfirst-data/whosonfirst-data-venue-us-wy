@@ -1,0 +1,56 @@
+{
+  "id": 874030773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.495212,44.293194,-105.495212,44.293194",
+    "geom:latitude":44.293194,
+    "geom:longitude":-105.495212,
+    "iso:country":"US",
+    "sg:address":"207 S Miller Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 687 1620",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "fast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WDteS7oFiOT2Uiwpr3acT_44.293194_-105.495212@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311055,
+    "wof:geomhash":"4f28a379d2afa88160682e9189cf0eed",
+    "wof:hierarchy":[],
+    "wof:id":874030773,
+    "wof:lastmodified":1464311055,
+    "wof:name":"Hardees",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fast"
+    ]
+},
+  "bbox": [
+    -105.495212,
+    44.293194,
+    -105.495212,
+    44.293194
+],
+  "geometry": {"coordinates":[-105.495212,44.293194],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874077267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594741,41.312999,-105.594741,41.312999",
+    "geom:latitude":41.312999,
+    "geom:longitude":-105.594741,
+    "iso:country":"US",
+    "sg:address":"100 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7233",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y2U8DMQmFyNl3ajCFTvgs_41.312999_-105.594741@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311522,
+    "wof:geomhash":"e8717f90319254c060df350c76d1b99c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874077267
+        }
+    ],
+    "wof:id":874077267,
+    "wof:lastmodified":1464311522,
+    "wof:name":"Salvation Army",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -105.594741,
+    41.312999,
+    -105.594741,
+    41.312999
+],
+  "geometry": {"coordinates":[-105.594741,41.312999],"type":"Point"}
+}

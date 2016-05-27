@@ -1,0 +1,51 @@
+{
+  "id": 874145461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.780829,41.160242,-104.780829,41.160242",
+    "geom:latitude":41.160242,
+    "geom:longitude":-104.780829,
+    "iso:country":"US",
+    "sg:address":"2500 Dell Range Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 6092",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t6b3D9xUZsFQZnowsQjIg_41.160242_-104.780829@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312284,
+    "wof:geomhash":"71a3f525d8cf5da9f3b20e30fabcb540",
+    "wof:hierarchy":[],
+    "wof:id":874145461,
+    "wof:lastmodified":1464312284,
+    "wof:name":"Nielsen Chiropractic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.780829,
+    41.160242,
+    -104.780829,
+    41.160242
+],
+  "geometry": {"coordinates":[-104.780829,41.160242],"type":"Point"}
+}

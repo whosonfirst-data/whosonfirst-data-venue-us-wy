@@ -1,0 +1,56 @@
+{
+  "id": 874141539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.214769,43.854138,-104.214769,43.854138",
+    "geom:latitude":43.854138,
+    "geom:longitude":-104.214769,
+    "iso:country":"US",
+    "sg:address":"801 Birch St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 3495",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "concessionaire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bRTU1W2IfknlEzJKmmzyK_43.854138_-104.214769@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312248,
+    "wof:geomhash":"33185d50d6f033d7c58bc1ce090a5608",
+    "wof:hierarchy":[],
+    "wof:id":874141539,
+    "wof:lastmodified":1464312248,
+    "wof:name":"Newcastle Baseball Concessions",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concessionaire"
+    ]
+},
+  "bbox": [
+    -104.214769,
+    43.854138,
+    -104.214769,
+    43.854138
+],
+  "geometry": {"coordinates":[-104.214769,43.854138],"type":"Point"}
+}

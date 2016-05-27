@@ -1,0 +1,58 @@
+{
+  "id": 874078157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.966609,41.269458,-110.966609,41.269458",
+    "geom:latitude":41.269458,
+    "geom:longitude":-110.966609,
+    "iso:country":"US",
+    "sg:address":"1136 Front St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 3013",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H9fXg0kQk9FLvxn6AiZpy_41.269458_-110.966609@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311529,
+    "wof:geomhash":"13e90088e65a2f8da83fdec40d9f6d78",
+    "wof:hierarchy":[],
+    "wof:id":874078157,
+    "wof:lastmodified":1464311529,
+    "wof:name":"Evanston City Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -110.966609,
+    41.269458,
+    -110.966609,
+    41.269458
+],
+  "geometry": {"coordinates":[-110.96660900000001,41.269458],"type":"Point"}
+}

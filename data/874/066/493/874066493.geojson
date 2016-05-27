@@ -1,0 +1,58 @@
+{
+  "id": 874066493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.936733,44.012111,-107.936733,44.012111",
+    "geom:latitude":44.012111,
+    "geom:longitude":-107.936733,
+    "iso:country":"US",
+    "sg:address":"512 Sunset Dr",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 3130",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "bookstore",
+        "religious"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gQqbKFc7PdAmbahz2kV75_44.012111_-107.936733@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311392,
+    "wof:geomhash":"1785767955714777e818dda2a25e32e6",
+    "wof:hierarchy":[],
+    "wof:id":874066493,
+    "wof:lastmodified":1464311392,
+    "wof:name":"Alpha-Omega Bookstore",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore",
+        "religious"
+    ]
+},
+  "bbox": [
+    -107.936733,
+    44.012111,
+    -107.936733,
+    44.012111
+],
+  "geometry": {"coordinates":[-107.936733,44.012111],"type":"Point"}
+}

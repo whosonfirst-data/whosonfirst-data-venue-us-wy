@@ -1,0 +1,56 @@
+{
+  "id": 874036427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.325299,44.361303,-109.325299,44.361303",
+    "geom:latitude":44.361303,
+    "geom:longitude":-109.325299,
+    "iso:country":"US",
+    "sg:address":"46 Willow Creek Rd",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 5185",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BGlaRUNza02yAsnjxza4E_44.361303_-109.325299@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311110,
+    "wof:geomhash":"b9cc72a03bdd172d67692220b8d385e1",
+    "wof:hierarchy":[],
+    "wof:id":874036427,
+    "wof:lastmodified":1464311110,
+    "wof:name":"Wyoming Roof Consulting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.325299,
+    44.361303,
+    -109.325299,
+    44.361303
+],
+  "geometry": {"coordinates":[-109.325299,44.361303],"type":"Point"}
+}

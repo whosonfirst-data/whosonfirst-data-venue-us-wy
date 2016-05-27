@@ -1,0 +1,74 @@
+{
+  "id": 874230621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592022,41.325666,-105.592022,41.325666",
+    "geom:latitude":41.325666,
+    "geom:longitude":-105.592022,
+    "iso:country":"US",
+    "sg:address":"1460 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/laramie/67232-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8118",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cwFjTbLPs1vC51v9jelcV_41.325631_-105.592107@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313171,
+    "wof:geomhash":"f17a88b84e593bc0fd6a53cc40b1c538",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874230621
+        }
+    ],
+    "wof:id":874230621,
+    "wof:lastmodified":1464313171,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -105.592022,
+    41.325666,
+    -105.592022,
+    41.325666
+],
+  "geometry": {"coordinates":[-105.592022,41.325666],"type":"Point"}
+}

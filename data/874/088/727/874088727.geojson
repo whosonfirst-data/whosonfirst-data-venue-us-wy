@@ -1,0 +1,71 @@
+{
+  "id": 874088727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595999,41.312183,-105.595999,41.312183",
+    "geom:latitude":41.312183,
+    "geom:longitude":-105.595999,
+    "iso:country":"US",
+    "sg:address":"107 E Ivinson Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 8566",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M29KVVu4lX0AQyEYHTI9x_41.312183_-105.595999@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311648,
+    "wof:geomhash":"fd2ecf36aa6cf3f2fa38469ce16272dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874088727
+        }
+    ],
+    "wof:id":874088727,
+    "wof:lastmodified":1464311648,
+    "wof:name":"Remember When Antiques",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -105.595999,
+    41.312183,
+    -105.595999,
+    41.312183
+],
+  "geometry": {"coordinates":[-105.59599900000001,41.312183],"type":"Point"}
+}

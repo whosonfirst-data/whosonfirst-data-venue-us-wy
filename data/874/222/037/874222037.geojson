@@ -1,0 +1,56 @@
+{
+  "id": 874222037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.933604,42.724089,-110.933604,42.724089",
+    "geom:latitude":42.724089,
+    "geom:longitude":-110.933604,
+    "iso:country":"US",
+    "sg:address":"458 Washington St",
+    "sg:city":"Afton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 885 2665",
+    "sg:postcode":"83110",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x25qSeKb2byhkyuRrchaA_42.724089_-110.933604@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313084,
+    "wof:geomhash":"9a047e08fa61cab46341ebf266d9c8c1",
+    "wof:hierarchy":[],
+    "wof:id":874222037,
+    "wof:lastmodified":1464313084,
+    "wof:name":"Quiet Place Books",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -110.933604,
+    42.724089,
+    -110.933604,
+    42.724089
+],
+  "geometry": {"coordinates":[-110.933604,42.724089],"type":"Point"}
+}

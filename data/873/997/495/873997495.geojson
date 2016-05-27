@@ -1,0 +1,58 @@
+{
+  "id": 873997495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.074578,44.522474,-109.074578,44.522474",
+    "geom:latitude":44.522474,
+    "geom:longitude":-109.074578,
+    "iso:country":"US",
+    "sg:address":"726 Allen Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 7834",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SFAlmgxt93yq1qSnlkGE2_44.522474_-109.074578@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310743,
+    "wof:geomhash":"d0c87f138ebf23137c0f398e9a1330d3",
+    "wof:hierarchy":[],
+    "wof:id":873997495,
+    "wof:lastmodified":1464310743,
+    "wof:name":"Big Horn Basin Orthopaedic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -109.074578,
+    44.522474,
+    -109.074578,
+    44.522474
+],
+  "geometry": {"coordinates":[-109.074578,44.522474],"type":"Point"}
+}

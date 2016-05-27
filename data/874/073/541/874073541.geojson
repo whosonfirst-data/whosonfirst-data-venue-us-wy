@@ -1,0 +1,56 @@
+{
+  "id": 874073541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.96386,44.019201,-107.96386,44.019201",
+    "geom:latitude":44.019201,
+    "geom:longitude":-107.96386,
+    "iso:country":"US",
+    "sg:address":"315 N 4th St",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 4570",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xWYfLuhNszLcoJjAe5bSL_44.019201_-107.963860@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311487,
+    "wof:geomhash":"11e4bcd9287efee2032bd99c8f994afb",
+    "wof:hierarchy":[],
+    "wof:id":874073541,
+    "wof:lastmodified":1464311487,
+    "wof:name":"Coors Intermountain",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale"
+    ]
+},
+  "bbox": [
+    -107.96386,
+    44.019201,
+    -107.96386,
+    44.019201
+],
+  "geometry": {"coordinates":[-107.96386,44.019201],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874141843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.335805,42.79958,-106.335805,42.79958",
+    "geom:latitude":42.79958,
+    "geom:longitude":-106.335805,
+    "iso:country":"US",
+    "sg:address":"5530 S Oak St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 1894",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QvjsoHkXAYuBPhq9C5nNY_42.799580_-106.335805@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312251,
+    "wof:geomhash":"1405108ade820a39b4b27acefe5cde86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874141843
+        }
+    ],
+    "wof:id":874141843,
+    "wof:lastmodified":1464312251,
+    "wof:name":"Knapp Engineering",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.335805,
+    42.79958,
+    -106.335805,
+    42.79958
+],
+  "geometry": {"coordinates":[-106.33580499999999,42.79958],"type":"Point"}
+}

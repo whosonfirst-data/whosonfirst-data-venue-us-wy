@@ -1,0 +1,56 @@
+{
+  "id": 874191419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.975585,44.805171,-106.975585,44.805171",
+    "geom:latitude":44.805171,
+    "geom:longitude":-106.975585,
+    "iso:country":"US",
+    "sg:address":"1356 Avon St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 673 0690",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "nutritionist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qS4fBML1qQnPpDLx0mbfa_44.805171_-106.975585@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312753,
+    "wof:geomhash":"9ffe6dfc19f4531db6de984be52df002",
+    "wof:hierarchy":[],
+    "wof:id":874191419,
+    "wof:lastmodified":1464312753,
+    "wof:name":"Children's Nutrition Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nutritionist"
+    ]
+},
+  "bbox": [
+    -106.975585,
+    44.805171,
+    -106.975585,
+    44.805171
+],
+  "geometry": {"coordinates":[-106.975585,44.805171],"type":"Point"}
+}

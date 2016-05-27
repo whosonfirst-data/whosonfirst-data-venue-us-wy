@@ -1,0 +1,65 @@
+{
+  "id": 874108101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.355423,42.872269,-106.355423,42.872269",
+    "geom:latitude":42.872269,
+    "geom:longitude":-106.355423,
+    "iso:country":"US",
+    "sg:address":"2056 Skyview Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 9107",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:website":"www.lamar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RdRYzE7FvrhCEdoJVU9tX_42.872269_-106.355423@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311895,
+    "wof:geomhash":"c29337d7bc8f853d48a18dd022fecf92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874108101
+        }
+    ],
+    "wof:id":874108101,
+    "wof:lastmodified":1464311895,
+    "wof:name":"Lamar Outdoor Advertising",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.355423,
+    42.872269,
+    -106.355423,
+    42.872269
+],
+  "geometry": {"coordinates":[-106.355423,42.872269],"type":"Point"}
+}

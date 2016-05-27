@@ -1,0 +1,56 @@
+{
+  "id": 874108171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.212233,43.85177,-104.212233,43.85177",
+    "geom:latitude":43.85177,
+    "geom:longitude":-104.212233,
+    "iso:country":"US",
+    "sg:address":"622 W Main St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 3511",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ezr5qwcuSUU2uTCtletx1_43.851770_-104.212233@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311896,
+    "wof:geomhash":"571d749f54eb0e5e47c528b522526ce7",
+    "wof:hierarchy":[],
+    "wof:id":874108171,
+    "wof:lastmodified":1464311896,
+    "wof:name":"Woody's Food Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -104.212233,
+    43.85177,
+    -104.212233,
+    43.85177
+],
+  "geometry": {"coordinates":[-104.212233,43.85177],"type":"Point"}
+}

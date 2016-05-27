@@ -1,0 +1,60 @@
+{
+  "id": 874164205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.744876,42.837626,-108.744876,42.837626",
+    "geom:latitude":42.837626,
+    "geom:longitude":-108.744876,
+    "iso:country":"US",
+    "sg:address":"235 W Main St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 7339",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operated",
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4idPcLEY8Zwx7IM0SwAQ2U_42.837626_-108.744876@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312471,
+    "wof:geomhash":"0ee6cbb6f8f293c85df3b37cdb19d00c",
+    "wof:hierarchy":[],
+    "wof:id":874164205,
+    "wof:lastmodified":1464312471,
+    "wof:name":"Lander's Main Street Carwash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operated",
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -108.744876,
+    42.837626,
+    -108.744876,
+    42.837626
+],
+  "geometry": {"coordinates":[-108.744876,42.837626],"type":"Point"}
+}

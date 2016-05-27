@@ -1,0 +1,71 @@
+{
+  "id": 874070317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.341621,42.832269,-106.341621,42.832269",
+    "geom:latitude":42.832269,
+    "geom:longitude":-106.341621,
+    "iso:country":"US",
+    "sg:address":"1855 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 4113",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SeoowoTHBXfJv0RbqAymM_42.832269_-106.341621@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311435,
+    "wof:geomhash":"720dfa4b9beb559b92e193d350ace9b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874070317
+        }
+    ],
+    "wof:id":874070317,
+    "wof:lastmodified":1464311435,
+    "wof:name":"Game Doctors",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -106.341621,
+    42.832269,
+    -106.341621,
+    42.832269
+],
+  "geometry": {"coordinates":[-106.341621,42.832269],"type":"Point"}
+}

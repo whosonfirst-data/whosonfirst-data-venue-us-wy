@@ -1,0 +1,58 @@
+{
+  "id": 874112803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.48872,44.295959,-105.48872,44.295959",
+    "geom:latitude":44.295959,
+    "geom:longitude":-105.48872,
+    "iso:country":"US",
+    "sg:address":"310 Frontage Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 3624",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s2lVEii0DGBIYxl0jN62d_44.295959_-105.488720@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311965,
+    "wof:geomhash":"40cbe4dc4e5aacb7db11b50255dec09f",
+    "wof:hierarchy":[],
+    "wof:id":874112803,
+    "wof:lastmodified":1464311965,
+    "wof:name":"P M Automotive Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -105.48872,
+    44.295959,
+    -105.48872,
+    44.295959
+],
+  "geometry": {"coordinates":[-105.48872,44.295959],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874012957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.58992,41.307881,-105.58992,41.307881",
+    "geom:latitude":41.307881,
+    "geom:longitude":-105.58992,
+    "iso:country":"US",
+    "sg:address":"607 S 6th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 9342",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "manufacture",
+        "composite"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O0XTlFF6dSZ18e3QcHM2t_41.307881_-105.589920@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310876,
+    "wof:geomhash":"97ac9d620176441f363b2baa0ab7cc38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874012957
+        }
+    ],
+    "wof:id":874012957,
+    "wof:lastmodified":1464310876,
+    "wof:name":"Heartland Biocomposites LLC",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacture",
+        "composite"
+    ]
+},
+  "bbox": [
+    -105.58992,
+    41.307881,
+    -105.58992,
+    41.307881
+],
+  "geometry": {"coordinates":[-105.58992000000001,41.307881],"type":"Point"}
+}

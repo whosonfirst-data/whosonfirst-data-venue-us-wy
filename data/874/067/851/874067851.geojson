@@ -1,0 +1,58 @@
+{
+  "id": 874067851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.757157,44.754255,-108.757157,44.754255",
+    "geom:latitude":44.754255,
+    "geom:longitude":-108.757157,
+    "iso:country":"US",
+    "sg:address":"233 E 2nd St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 4524",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0n6yMEyVJAUb1dGMyuePbd_44.754255_-108.757157@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311406,
+    "wof:geomhash":"6bead7248488d75573e6154258edfd1f",
+    "wof:hierarchy":[],
+    "wof:id":874067851,
+    "wof:lastmodified":1464311406,
+    "wof:name":"Vital Air Medical",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -108.757157,
+    44.754255,
+    -108.757157,
+    44.754255
+],
+  "geometry": {"coordinates":[-108.75715700000001,44.754255],"type":"Point"}
+}

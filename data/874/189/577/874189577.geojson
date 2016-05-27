@@ -1,0 +1,69 @@
+{
+  "id": 874189577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.27952,42.845949,-106.27952,42.845949",
+    "geom:latitude":42.845949,
+    "geom:longitude":-106.27952,
+    "iso:country":"US",
+    "sg:address":"3500 Washakie St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 6123",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sanitary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aSb6hPBAfcCmuAI4qKLHX_42.845949_-106.279520@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312736,
+    "wof:geomhash":"0e6c97958adc93c9f0d93d50e83b29e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874189577
+        }
+    ],
+    "wof:id":874189577,
+    "wof:lastmodified":1464312736,
+    "wof:name":"Jeff Matney",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitary"
+    ]
+},
+  "bbox": [
+    -106.27952,
+    42.845949,
+    -106.27952,
+    42.845949
+],
+  "geometry": {"coordinates":[-106.27952000000001,42.845949],"type":"Point"}
+}

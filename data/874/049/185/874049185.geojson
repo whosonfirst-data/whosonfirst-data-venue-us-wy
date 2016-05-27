@@ -1,0 +1,56 @@
+{
+  "id": 874049185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.379716,44.291369,-105.379716,44.291369",
+    "geom:latitude":44.291369,
+    "geom:longitude":-105.379716,
+    "iso:country":"US",
+    "sg:address":"1304 O' Shannon Dr",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 7747",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZIeYvcJabZOFNmETJNQJ4_44.291369_-105.379716@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311233,
+    "wof:geomhash":"f5b89878639866a70a9503a3f11bc5fb",
+    "wof:hierarchy":[],
+    "wof:id":874049185,
+    "wof:lastmodified":1464311233,
+    "wof:name":"Bill's Appliance Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -105.379716,
+    44.291369,
+    -105.379716,
+    44.291369
+],
+  "geometry": {"coordinates":[-105.379716,44.291369],"type":"Point"}
+}

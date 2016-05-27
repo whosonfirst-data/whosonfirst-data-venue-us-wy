@@ -1,0 +1,79 @@
+{
+  "id": 874033697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343899,42.809383,-106.343899,42.809383",
+    "geom:latitude":42.809383,
+    "geom:longitude":-106.343899,
+    "iso:country":"US",
+    "sg:address":"3920 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4241",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "club",
+        "gymnasium",
+        "health",
+        "fitness",
+        "studio",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07WDsAHWkPwqJrfiEbwvhV_42.809383_-106.343899@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311082,
+    "wof:geomhash":"e921932fa2f4a8182c279dfdb269a1ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874033697
+        }
+    ],
+    "wof:id":874033697,
+    "wof:lastmodified":1464311082,
+    "wof:name":"Wyoming Athletic Club",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "gymnasium",
+        "health",
+        "fitness",
+        "studio",
+        "physical"
+    ]
+},
+  "bbox": [
+    -106.343899,
+    42.809383,
+    -106.343899,
+    42.809383
+],
+  "geometry": {"coordinates":[-106.34389899999999,42.809383],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874073375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.933828,44.780863,-106.933828,44.780863",
+    "geom:latitude":44.780863,
+    "geom:longitude":-106.933828,
+    "iso:country":"US",
+    "sg:address":"1650 Commercial Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 5533",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56GhCsL4cCrOjcXySa91sP_44.780863_-106.933828@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311484,
+    "wof:geomhash":"5dd03aca95f0f6c04c335486134b59c5",
+    "wof:hierarchy":[],
+    "wof:id":874073375,
+    "wof:lastmodified":1464311484,
+    "wof:name":"Moxey Veterinary Hospital",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -106.933828,
+    44.780863,
+    -106.933828,
+    44.780863
+],
+  "geometry": {"coordinates":[-106.93382800000001,44.780863],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874036063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.473999,41.509774,-109.473999,41.509774",
+    "geom:latitude":41.509774,
+    "geom:longitude":-109.473999,
+    "iso:country":"US",
+    "sg:address":"5 Shoshone Ave",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 872 0535",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ba2CpAxKAb8Rs7rARypFH_41.509774_-109.473999@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311105,
+    "wof:geomhash":"0801c222b21675a8a884e970621b3ad3",
+    "wof:hierarchy":[],
+    "wof:id":874036063,
+    "wof:lastmodified":1464311105,
+    "wof:name":"Green River City Water Dist",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -109.473999,
+    41.509774,
+    -109.473999,
+    41.509774
+],
+  "geometry": {"coordinates":[-109.47399900000001,41.509774],"type":"Point"}
+}

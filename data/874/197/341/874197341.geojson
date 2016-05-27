@@ -1,0 +1,69 @@
+{
+  "id": 874197341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.407179,42.827475,-106.407179,42.827475",
+    "geom:latitude":42.827475,
+    "geom:longitude":-106.407179,
+    "iso:country":"US",
+    "sg:address":"2162 Sunflower St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 7295",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fQBGcXnm4zxRlrghwSGeS_42.827475_-106.407179@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312820,
+    "wof:geomhash":"47a125f7dd5eab96ab477d4682e1975c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874197341
+        }
+    ],
+    "wof:id":874197341,
+    "wof:lastmodified":1464312820,
+    "wof:name":"Graphics Unlimited",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.407179,
+    42.827475,
+    -106.407179,
+    42.827475
+],
+  "geometry": {"coordinates":[-106.407179,42.827475],"type":"Point"}
+}

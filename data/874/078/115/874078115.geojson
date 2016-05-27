@@ -1,0 +1,75 @@
+{
+  "id": 874078115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.588838,41.317793,-105.588838,41.317793",
+    "geom:latitude":41.317793,
+    "geom:longitude":-105.588838,
+    "iso:country":"US",
+    "sg:address":"655 N 6th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5650",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "parlor",
+        "shoe",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00RWxsnHVsURrlh3CjKpEK_41.317793_-105.588838@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311529,
+    "wof:geomhash":"817532c5d35af3c05e518ec3b457a14a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874078115
+        }
+    ],
+    "wof:id":874078115,
+    "wof:lastmodified":1464311529,
+    "wof:name":"Fit For Foot",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "shoe",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -105.588838,
+    41.317793,
+    -105.588838,
+    41.317793
+],
+  "geometry": {"coordinates":[-105.588838,41.317793],"type":"Point"}
+}

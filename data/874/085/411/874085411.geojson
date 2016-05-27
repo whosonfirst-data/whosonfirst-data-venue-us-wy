@@ -1,0 +1,71 @@
+{
+  "id": 874085411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.272954,42.851439,-106.272954,42.851439",
+    "geom:latitude":42.851439,
+    "geom:longitude":-106.272954,
+    "iso:country":"US",
+    "sg:address":"4155 Legion Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 0172",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "product",
+        "ceramic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ai3Esm58IEUbCGB0GhTqx_42.851439_-106.272954@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311614,
+    "wof:geomhash":"84f76349f546dfc8026f7c78cad6c292",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874085411
+        }
+    ],
+    "wof:id":874085411,
+    "wof:lastmodified":1464311614,
+    "wof:name":"Mouse Nest Ceramics",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "ceramic"
+    ]
+},
+  "bbox": [
+    -106.272954,
+    42.851439,
+    -106.272954,
+    42.851439
+],
+  "geometry": {"coordinates":[-106.272954,42.851439],"type":"Point"}
+}

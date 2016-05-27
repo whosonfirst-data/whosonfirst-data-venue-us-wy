@@ -1,0 +1,58 @@
+{
+  "id": 874134419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.806214,41.452971,-106.806214,41.452971",
+    "geom:latitude":41.452971,
+    "geom:longitude":-106.806214,
+    "iso:country":"US",
+    "sg:address":"303 S River St",
+    "sg:city":"Saratoga",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 326 8124",
+    "sg:postcode":"82331",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dinPLPsEA5YIaxvK8TlGr_41.452971_-106.806214@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312185,
+    "wof:geomhash":"74ce73943c2787ea371fc99bfb70dac1",
+    "wof:hierarchy":[],
+    "wof:id":874134419,
+    "wof:lastmodified":1464312185,
+    "wof:name":"Saratoga Water Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -106.806214,
+    41.452971,
+    -106.806214,
+    41.452971
+],
+  "geometry": {"coordinates":[-106.806214,41.452971],"type":"Point"}
+}

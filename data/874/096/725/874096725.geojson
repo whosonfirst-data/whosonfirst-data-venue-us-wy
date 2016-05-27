@@ -1,0 +1,56 @@
+{
+  "id": 874096725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.101764,43.725792,-111.101764,43.725792",
+    "geom:latitude":43.725792,
+    "geom:longitude":-111.101764,
+    "iso:country":"US",
+    "sg:address":"460 Ashley Ave",
+    "sg:city":"Driggs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 354 3653",
+    "sg:postcode":"83422",
+    "sg:province":"WY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oIsncqKYm82o4aaIJRf2A_43.725792_-111.101764@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311740,
+    "wof:geomhash":"7a9e42db105b0a5126a5f0906fae1e37",
+    "wof:hierarchy":[],
+    "wof:id":874096725,
+    "wof:lastmodified":1464311740,
+    "wof:name":"Pro-Tec Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -111.101764,
+    43.725792,
+    -111.101764,
+    43.725792
+],
+  "geometry": {"coordinates":[-111.101764,43.725792],"type":"Point"}
+}

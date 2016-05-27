@@ -1,0 +1,75 @@
+{
+  "id": 874174731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33421,42.80684,-106.33421,42.80684",
+    "geom:latitude":42.80684,
+    "geom:longitude":-106.33421,
+    "iso:country":"US",
+    "sg:address":"801 W 45th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 4747",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "development",
+        "gas",
+        "oil",
+        "exploration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7P5nQL0ueS6Vi7jBilUQyW_42.806840_-106.334210@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312576,
+    "wof:geomhash":"754c659520ee9454e81b7eb0d328d25e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874174731
+        }
+    ],
+    "wof:id":874174731,
+    "wof:lastmodified":1464312576,
+    "wof:name":"Gary D West Consulting",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "gas",
+        "oil",
+        "exploration"
+    ]
+},
+  "bbox": [
+    -106.33421,
+    42.80684,
+    -106.33421,
+    42.80684
+],
+  "geometry": {"coordinates":[-106.33421,42.80684],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874110019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591598,41.317949,-105.591598,41.317949",
+    "geom:latitude":41.317949,
+    "geom:longitude":-105.591598,
+    "iso:country":"US",
+    "sg:address":"656 N 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3590",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kzV0ezEqADArXSMprcJHP_41.317949_-105.591598@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311920,
+    "wof:geomhash":"bf0aaf86f8af0a2f1e746a4e51365bca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874110019
+        }
+    ],
+    "wof:id":874110019,
+    "wof:lastmodified":1464311920,
+    "wof:name":"Quality Electric",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.591598,
+    41.317949,
+    -105.591598,
+    41.317949
+],
+  "geometry": {"coordinates":[-105.591598,41.317949],"type":"Point"}
+}

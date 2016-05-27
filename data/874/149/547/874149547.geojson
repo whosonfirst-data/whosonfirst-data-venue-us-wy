@@ -1,0 +1,71 @@
+{
+  "id": 874149547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590921,41.310776,-105.590921,41.310776",
+    "geom:latitude":41.310776,
+    "geom:longitude":-105.590921,
+    "iso:country":"US",
+    "sg:address":"504 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7168",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01i6odiZNqcP4E1jxHNeTW_41.310776_-105.590921@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312325,
+    "wof:geomhash":"b0393d7217a2d9c6dfb6f56d7e946c00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874149547
+        }
+    ],
+    "wof:id":874149547,
+    "wof:lastmodified":1464312325,
+    "wof:name":"Home Away From Home Child Care",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -105.590921,
+    41.310776,
+    -105.590921,
+    41.310776
+],
+  "geometry": {"coordinates":[-105.59092099999999,41.310776],"type":"Point"}
+}

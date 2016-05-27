@@ -1,0 +1,73 @@
+{
+  "id": 873995937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.566552,41.298404,-105.566552,41.298404",
+    "geom:latitude":41.298404,
+    "geom:longitude":-105.566552,
+    "iso:country":"US",
+    "sg:address":"2538 E Overland Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4690",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lbAxmoypXUsgg3vBKRqk5_41.298404_-105.566552@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310732,
+    "wof:geomhash":"71f31baccb272719da2dad3aec7bbe44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873995937
+        }
+    ],
+    "wof:id":873995937,
+    "wof:lastmodified":1464310732,
+    "wof:name":"Lynx Design LLC",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -105.566552,
+    41.298404,
+    -105.566552,
+    41.298404
+],
+  "geometry": {"coordinates":[-105.566552,41.298404],"type":"Point"}
+}

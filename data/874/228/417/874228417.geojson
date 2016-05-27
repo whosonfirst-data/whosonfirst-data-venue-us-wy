@@ -1,0 +1,57 @@
+{
+  "id": 874228417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.846923,41.12028,-104.846923,41.12028",
+    "geom:latitude":41.12028,
+    "geom:longitude":-104.846923,
+    "iso:country":"US",
+    "sg:address":"2500 W Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/214083-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 7699",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NGtrNJ5220tGeqwEeGpki_41.120280_-104.846923@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313145,
+    "wof:geomhash":"b40ddbff350d8840f2dff4f5e11ccd13",
+    "wof:hierarchy":[],
+    "wof:id":874228417,
+    "wof:lastmodified":1464313145,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -104.846923,
+    41.12028,
+    -104.846923,
+    41.12028
+],
+  "geometry": {"coordinates":[-104.846923,41.12028],"type":"Point"}
+}

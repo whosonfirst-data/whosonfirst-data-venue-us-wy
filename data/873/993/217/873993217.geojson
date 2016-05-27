@@ -1,0 +1,71 @@
+{
+  "id": 873993217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.564963,41.308493,-105.564963,41.308493",
+    "geom:latitude":41.308493,
+    "geom:longitude":-105.564963,
+    "iso:country":"US",
+    "sg:address":"406 S 22nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3994",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x4ePYSn4L3ITI8Vkzy3bb_41.308493_-105.564963@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310713,
+    "wof:geomhash":"223b5f2e9b66227debd611f82ae0ba93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873993217
+        }
+    ],
+    "wof:id":873993217,
+    "wof:lastmodified":1464310713,
+    "wof:name":"Center Barber Shop",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -105.564963,
+    41.308493,
+    -105.564963,
+    41.308493
+],
+  "geometry": {"coordinates":[-105.56496300000001,41.308493],"type":"Point"}
+}

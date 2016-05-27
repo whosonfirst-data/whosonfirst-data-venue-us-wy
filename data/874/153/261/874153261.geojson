@@ -1,0 +1,73 @@
+{
+  "id": 874153261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594458,41.302469,-105.594458,41.302469",
+    "geom:latitude":41.302469,
+    "geom:longitude":-105.594458,
+    "iso:country":"US",
+    "sg:address":"1209 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6329",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XojS9TzyWJOV9yUQm3Eue_41.302469_-105.594458@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312358,
+    "wof:geomhash":"4908a467ad3bd63b6f5ad6c1af99dfad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874153261
+        }
+    ],
+    "wof:id":874153261,
+    "wof:lastmodified":1464312358,
+    "wof:name":"Lockouts",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -105.594458,
+    41.302469,
+    -105.594458,
+    41.302469
+],
+  "geometry": {"coordinates":[-105.594458,41.302469],"type":"Point"}
+}

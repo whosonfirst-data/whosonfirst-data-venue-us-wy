@@ -1,0 +1,69 @@
+{
+  "id": 874008613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.350982,42.827363,-106.350982,42.827363",
+    "geom:latitude":42.827363,
+    "geom:longitude":-106.350982,
+    "iso:country":"US",
+    "sg:address":"2200 Hickory St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 1725",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6k1a649JV7p25VDuI4pFGU_42.827363_-106.350982@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310845,
+    "wof:geomhash":"6ceb3ac4a1b1a8ee7f331728a77c6a03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874008613
+        }
+    ],
+    "wof:id":874008613,
+    "wof:lastmodified":1464310845,
+    "wof:name":"Johnny Appleseed Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -106.350982,
+    42.827363,
+    -106.350982,
+    42.827363
+],
+  "geometry": {"coordinates":[-106.350982,42.827363],"type":"Point"}
+}

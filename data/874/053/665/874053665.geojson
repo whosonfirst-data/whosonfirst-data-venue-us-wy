@@ -1,0 +1,69 @@
+{
+  "id": 874053665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.422062,42.873291,-106.422062,42.873291",
+    "geom:latitude":42.873291,
+    "geom:longitude":-106.422062,
+    "iso:country":"US",
+    "sg:address":"6723 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 5194",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31Qctl8nu8apgwLGBy952X_42.873291_-106.422062@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311275,
+    "wof:geomhash":"a8cf0d9ceb31e7c20c7a98fc34a61d1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874053665
+        }
+    ],
+    "wof:id":874053665,
+    "wof:lastmodified":1464311275,
+    "wof:name":"M J Metal Products",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    -106.422062,
+    42.873291,
+    -106.422062,
+    42.873291
+],
+  "geometry": {"coordinates":[-106.422062,42.873291],"type":"Point"}
+}

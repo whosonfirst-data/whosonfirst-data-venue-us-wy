@@ -1,0 +1,59 @@
+{
+  "id": 874229767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.211401,43.852306,-104.211401,43.852306",
+    "geom:latitude":43.852306,
+    "geom:longitude":-104.211401,
+    "iso:country":"US",
+    "sg:address":"527 W Warren St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/newcastle/96487-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 4631",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eubhcFpy9z0CwSB70Kach_43.852306_-104.211401@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313158,
+    "wof:geomhash":"84cf099bf6a021b6995cab3c033a213f",
+    "wof:hierarchy":[],
+    "wof:id":874229767,
+    "wof:lastmodified":1464313158,
+    "wof:name":"Taco John's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -104.211401,
+    43.852306,
+    -104.211401,
+    43.852306
+],
+  "geometry": {"coordinates":[-104.211401,43.852306],"type":"Point"}
+}

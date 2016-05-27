@@ -1,0 +1,56 @@
+{
+  "id": 874190191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.04559,44.533325,-109.04559,44.533325",
+    "geom:latitude":44.533325,
+    "geom:longitude":-109.04559,
+    "iso:country":"US",
+    "sg:address":"2214 Big Horn Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 3500",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MqHENNOc8cfeADk2QwUsN_44.533325_-109.045590@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312741,
+    "wof:geomhash":"ec0a96fd2c6650a9b8d3486f5a0c6999",
+    "wof:hierarchy":[],
+    "wof:id":874190191,
+    "wof:lastmodified":1464312741,
+    "wof:name":"Cook Moving & Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -109.04559,
+    44.533325,
+    -109.04559,
+    44.533325
+],
+  "geometry": {"coordinates":[-109.04559,44.533325],"type":"Point"}
+}

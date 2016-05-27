@@ -1,0 +1,75 @@
+{
+  "id": 874045201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.623291,41.310383,-105.623291,41.310383",
+    "geom:latitude":41.310383,
+    "geom:longitude":-105.623291,
+    "iso:country":"US",
+    "sg:address":"302 S Lincoln St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4668",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PdNWkXd2lNVOvsSxZ5qU8_41.310383_-105.623291@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311197,
+    "wof:geomhash":"773f275cdf70358ee1f202672a8d6e67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874045201
+        }
+    ],
+    "wof:id":874045201,
+    "wof:lastmodified":1464311197,
+    "wof:name":"Four B Trucking Inc",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -105.623291,
+    41.310383,
+    -105.623291,
+    41.310383
+],
+  "geometry": {"coordinates":[-105.62329099999999,41.310383],"type":"Point"}
+}

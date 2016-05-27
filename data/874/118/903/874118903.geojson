@@ -1,0 +1,58 @@
+{
+  "id": 874118903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.000007,42.913446,-111.000007,42.913446",
+    "geom:latitude":42.913446,
+    "geom:longitude":-111.000007,
+    "iso:country":"US",
+    "sg:address":"122 US Hwy 89",
+    "sg:city":"Thayne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 883 7878",
+    "sg:postcode":"83127",
+    "sg:province":"WY",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DaiZGudsmIrhPYDiW7pSZ_42.913446_-111.000007@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312024,
+    "wof:geomhash":"c339b63d07270364328df3935e6653a4",
+    "wof:hierarchy":[],
+    "wof:id":874118903,
+    "wof:lastmodified":1464312024,
+    "wof:name":"Star Valley Physical Therapy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -111.000007,
+    42.913446,
+    -111.000007,
+    42.913446
+],
+  "geometry": {"coordinates":[-111.000007,42.913446],"type":"Point"}
+}

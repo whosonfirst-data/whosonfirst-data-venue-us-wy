@@ -1,0 +1,56 @@
+{
+  "id": 874187723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.030717,44.533357,-109.030717,44.533357",
+    "geom:latitude":44.533357,
+    "geom:longitude":-109.030717,
+    "iso:country":"US",
+    "sg:address":"3008 Big Horn Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 7213",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XqS7TB5YfyOXcjRsl2XiT_44.533357_-109.030717@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312716,
+    "wof:geomhash":"7b79c0fa1951dcb1f7101dce45d53b40",
+    "wof:hierarchy":[],
+    "wof:id":874187723,
+    "wof:lastmodified":1464312716,
+    "wof:name":"Chadwick Veterinary Hospital",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -109.030717,
+    44.533357,
+    -109.030717,
+    44.533357
+],
+  "geometry": {"coordinates":[-109.030717,44.533357],"type":"Point"}
+}

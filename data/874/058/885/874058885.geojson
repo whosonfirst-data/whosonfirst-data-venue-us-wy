@@ -1,0 +1,76 @@
+{
+  "id": 874058885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.62504,41.295344,-105.62504,41.295344",
+    "geom:latitude":41.295344,
+    "geom:longitude":-105.62504,
+    "iso:country":"US",
+    "sg:address":"2358 Sweetwater Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7496",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "woodworker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YmbDAgj1wpL30CNXBioA5_41.295344_-105.625040@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311325,
+    "wof:geomhash":"592f0d490886b0ff0344e2e7efe98232",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874058885
+        }
+    ],
+    "wof:id":874058885,
+    "wof:lastmodified":1464311325,
+    "wof:name":"Bublitz Woodwork LLC",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woodworker"
+    ]
+},
+  "bbox": [
+    -105.62504,
+    41.295344,
+    -105.62504,
+    41.295344
+],
+  "geometry": {"coordinates":[-105.62504,41.295344],"type":"Point"}
+}

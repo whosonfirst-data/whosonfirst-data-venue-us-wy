@@ -1,0 +1,69 @@
+{
+  "id": 874131739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.386028,42.802263,-106.386028,42.802263",
+    "geom:latitude":42.802263,
+    "geom:longitude":-106.386028,
+    "iso:country":"US",
+    "sg:address":"4525 Squaw Creek Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 9393",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_320jldl210oh9IQpF5lcRb_42.802263_-106.386028@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312157,
+    "wof:geomhash":"211ec690ef16dc86c17b9d1cb2996a13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874131739
+        }
+    ],
+    "wof:id":874131739,
+    "wof:lastmodified":1464312157,
+    "wof:name":"Frank Odasz Consulting Chmcl",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -106.386028,
+    42.802263,
+    -106.386028,
+    42.802263
+],
+  "geometry": {"coordinates":[-106.386028,42.802263],"type":"Point"}
+}

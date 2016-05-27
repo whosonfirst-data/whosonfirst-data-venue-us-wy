@@ -1,0 +1,69 @@
+{
+  "id": 874190301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.297615,42.855309,-106.297615,42.855309",
+    "geom:latitude":42.855309,
+    "geom:longitude":-106.297615,
+    "iso:country":"US",
+    "sg:address":"535 N Beverly St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1109",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v6Ew1qP1htsF8uxQDGvkS_42.855309_-106.297615@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312743,
+    "wof:geomhash":"c597b7e36556677e358d6f6d6e57b16e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874190301
+        }
+    ],
+    "wof:id":874190301,
+    "wof:lastmodified":1464312743,
+    "wof:name":"Bingo Hotline",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "park"
+    ]
+},
+  "bbox": [
+    -106.297615,
+    42.855309,
+    -106.297615,
+    42.855309
+],
+  "geometry": {"coordinates":[-106.29761499999999,42.855309],"type":"Point"}
+}

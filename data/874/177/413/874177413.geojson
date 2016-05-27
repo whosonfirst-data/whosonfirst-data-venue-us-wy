@@ -1,0 +1,56 @@
+{
+  "id": 874177413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.189822,43.848883,-104.189822,43.848883",
+    "geom:latitude":43.848883,
+    "geom:longitude":-104.189822,
+    "iso:country":"US",
+    "sg:address":"1121 Washington Blvd",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 3582",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vc9LD0OAYhdpJgl0YPcpr_43.848883_-104.189822@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312600,
+    "wof:geomhash":"9ee1bba55f152cb55abb7745f7322cf9",
+    "wof:hierarchy":[],
+    "wof:id":874177413,
+    "wof:lastmodified":1464312600,
+    "wof:name":"Michael A Jording MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -104.189822,
+    43.848883,
+    -104.189822,
+    43.848883
+],
+  "geometry": {"coordinates":[-104.18982200000001,43.848883],"type":"Point"}
+}

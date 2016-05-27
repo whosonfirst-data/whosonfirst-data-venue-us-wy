@@ -1,0 +1,66 @@
+{
+  "id": 874094351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.542121,41.320843,-105.542121,41.320843",
+    "geom:latitude":41.320843,
+    "geom:longitude":-105.542121,
+    "iso:country":"US",
+    "sg:address":"4413 E Crow Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4753",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EZV1s2Lw9jDpiY88wiQR7_41.320843_-105.542121@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311707,
+    "wof:geomhash":"010345955a8a00f267bd136aef126d05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874094351
+        }
+    ],
+    "wof:id":874094351,
+    "wof:lastmodified":1464311707,
+    "wof:name":"J R Hydro Tech",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.542121,
+    41.320843,
+    -105.542121,
+    41.320843
+],
+  "geometry": {"coordinates":[-105.54212099999999,41.320843],"type":"Point"}
+}

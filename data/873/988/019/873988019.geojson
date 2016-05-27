@@ -1,0 +1,75 @@
+{
+  "id": 873988019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343777,42.809709,-106.343777,42.809709",
+    "geom:latitude":42.809709,
+    "geom:longitude":-106.343777,
+    "iso:country":"US",
+    "sg:address":"4070 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 3075",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "business",
+        "loan",
+        "real estate",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IPh6vXD1bDF6iicGtN2nG_42.809709_-106.343777@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310675,
+    "wof:geomhash":"c1261b12dd77f419024473efcfae81c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873988019
+        }
+    ],
+    "wof:id":873988019,
+    "wof:lastmodified":1464310675,
+    "wof:name":"American General Finance Corp",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "loan",
+        "real estate",
+        "institution"
+    ]
+},
+  "bbox": [
+    -106.343777,
+    42.809709,
+    -106.343777,
+    42.809709
+],
+  "geometry": {"coordinates":[-106.343777,42.809709],"type":"Point"}
+}

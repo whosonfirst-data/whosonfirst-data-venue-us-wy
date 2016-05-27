@@ -1,0 +1,69 @@
+{
+  "id": 874177757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.326496,42.847248,-106.326496,42.847248",
+    "geom:latitude":42.847248,
+    "geom:longitude":-106.326496,
+    "iso:country":"US",
+    "sg:address":"323 S David St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3239",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MjI1eETbuyVvWSxGef16S_42.847248_-106.326496@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312603,
+    "wof:geomhash":"1454b9c17bcf2bea38c6de7d7bf48515",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874177757
+        }
+    ],
+    "wof:id":874177757,
+    "wof:lastmodified":1464312603,
+    "wof:name":"Clapp & Assoc PC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -106.326496,
+    42.847248,
+    -106.326496,
+    42.847248
+],
+  "geometry": {"coordinates":[-106.32649600000001,42.847248],"type":"Point"}
+}

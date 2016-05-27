@@ -1,0 +1,56 @@
+{
+  "id": 874079529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.046401,43.71417,-111.046401,43.71417",
+    "geom:latitude":43.71417,
+    "geom:longitude":-111.046401,
+    "iso:country":"US",
+    "sg:address":"68 S 275 E",
+    "sg:city":"Victor",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 787 2196",
+    "sg:postcode":"83422",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sawmill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WfJceCydscYb7xuPWRMgV_43.714170_-111.046401@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311547,
+    "wof:geomhash":"9a2b18057eb4e72f72959087b401ae72",
+    "wof:hierarchy":[],
+    "wof:id":874079529,
+    "wof:lastmodified":1464311547,
+    "wof:name":"Victor Sawmill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sawmill"
+    ]
+},
+  "bbox": [
+    -111.046401,
+    43.71417,
+    -111.046401,
+    43.71417
+],
+  "geometry": {"coordinates":[-111.046401,43.71417],"type":"Point"}
+}

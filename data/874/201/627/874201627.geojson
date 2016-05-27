@@ -1,0 +1,56 @@
+{
+  "id": 874201627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.508634,44.268918,-105.508634,44.268918",
+    "geom:latitude":44.268918,
+    "geom:longitude":-105.508634,
+    "iso:country":"US",
+    "sg:address":"401 W Lakeway Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 4044",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74cBKDv0C4hv8APo8mY0UC_44.268918_-105.508634@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312860,
+    "wof:geomhash":"43da6a68e39339c620dc02f171520876",
+    "wof:hierarchy":[],
+    "wof:id":874201627,
+    "wof:lastmodified":1464312860,
+    "wof:name":"Lakeway Laundromat",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -105.508634,
+    44.268918,
+    -105.508634,
+    44.268918
+],
+  "geometry": {"coordinates":[-105.508634,44.268918],"type":"Point"}
+}

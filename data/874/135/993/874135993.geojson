@@ -1,0 +1,69 @@
+{
+  "id": 874135993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.293665,42.837012,-106.293665,42.837012",
+    "geom:latitude":42.837012,
+    "geom:longitude":-106.293665,
+    "iso:country":"US",
+    "sg:address":"2537 Farnum St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 7620",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14wlOh1G6rA2SmaYbDcT4J_42.837012_-106.293665@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312200,
+    "wof:geomhash":"7dfab8e2cede1ab2108937e29d5c1de9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874135993
+        }
+    ],
+    "wof:id":874135993,
+    "wof:lastmodified":1464312200,
+    "wof:name":"Morningstar",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -106.293665,
+    42.837012,
+    -106.293665,
+    42.837012
+],
+  "geometry": {"coordinates":[-106.293665,42.837012],"type":"Point"}
+}

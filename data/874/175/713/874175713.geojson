@@ -1,0 +1,69 @@
+{
+  "id": 874175713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.296531,42.838385,-106.296531,42.838385",
+    "geom:latitude":42.838385,
+    "geom:longitude":-106.296531,
+    "iso:country":"US",
+    "sg:address":"1343 S Wisconsin Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 3714",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wHE64dYlWlmjh61nlHkLJ_42.838385_-106.296531@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312585,
+    "wof:geomhash":"fec35e84ee7e83009c1f0a90fbdf1bec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874175713
+        }
+    ],
+    "wof:id":874175713,
+    "wof:lastmodified":1464312585,
+    "wof:name":"Present Time Hair Design LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.296531,
+    42.838385,
+    -106.296531,
+    42.838385
+],
+  "geometry": {"coordinates":[-106.296531,42.838385],"type":"Point"}
+}

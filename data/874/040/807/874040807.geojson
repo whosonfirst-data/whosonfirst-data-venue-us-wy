@@ -1,0 +1,64 @@
+{
+  "id": 874040807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.350251,42.81177,-106.350251,42.81177",
+    "geom:latitude":42.81177,
+    "geom:longitude":-106.350251,
+    "iso:country":"US",
+    "sg:address":"2031 W 39th Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 3532",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MK34a38k0RSQdqNhQZs8G_42.811770_-106.350251@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311151,
+    "wof:geomhash":"4b5ee3c81b11daf9af67ae0b09190774",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874040807
+        }
+    ],
+    "wof:id":874040807,
+    "wof:lastmodified":1464311151,
+    "wof:name":"Shriver Thearpy Group Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.350251,
+    42.81177,
+    -106.350251,
+    42.81177
+],
+  "geometry": {"coordinates":[-106.350251,42.81177],"type":"Point"}
+}

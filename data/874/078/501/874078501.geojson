@@ -1,0 +1,73 @@
+{
+  "id": 874078501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.321021,42.853513,-106.321021,42.853513",
+    "geom:latitude":42.853513,
+    "geom:longitude":-106.321021,
+    "iso:country":"US",
+    "sg:address":"214 N Beech St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 4220",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yLrtFqHzTaY5dfcvld9Ak_42.853513_-106.321021@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311532,
+    "wof:geomhash":"89b53d0652a4a44a19eb60060e49d4ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874078501
+        }
+    ],
+    "wof:id":874078501,
+    "wof:lastmodified":1464311532,
+    "wof:name":"H J's Auto Detail Shop",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -106.321021,
+    42.853513,
+    -106.321021,
+    42.853513
+],
+  "geometry": {"coordinates":[-106.321021,42.853513],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874103487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.223236,41.796185,-107.223236,41.796185",
+    "geom:latitude":41.796185,
+    "geom:longitude":-107.223236,
+    "iso:country":"US",
+    "sg:address":"1301 Daley St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 2075",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h8J8doOUXmIashUrG9K44_41.796185_-107.223236@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311838,
+    "wof:geomhash":"bbe41f0c4838262ddf068a7b9b82b711",
+    "wof:hierarchy":[],
+    "wof:id":874103487,
+    "wof:lastmodified":1464311838,
+    "wof:name":"Wyoming Rents",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -107.223236,
+    41.796185,
+    -107.223236,
+    41.796185
+],
+  "geometry": {"coordinates":[-107.223236,41.796185],"type":"Point"}
+}

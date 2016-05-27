@@ -1,0 +1,70 @@
+{
+  "id": 874209713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.40611,42.86396,-106.40611,42.86396",
+    "geom:latitude":42.86396,
+    "geom:longitude":-106.40611,
+    "iso:country":"US",
+    "sg:address":"5625 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 7722",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pump"
+    ],
+    "sg:website":"www.powerserviceinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jVFGKAEbKMMCvwQCwvUNB_42.863960_-106.406110@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312946,
+    "wof:geomhash":"b4cb2f26058d07a5791ba6d5634ea396",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874209713
+        }
+    ],
+    "wof:id":874209713,
+    "wof:lastmodified":1464312946,
+    "wof:name":"Power Service Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump"
+    ]
+},
+  "bbox": [
+    -106.40611,
+    42.86396,
+    -106.40611,
+    42.86396
+],
+  "geometry": {"coordinates":[-106.40611,42.86396],"type":"Point"}
+}

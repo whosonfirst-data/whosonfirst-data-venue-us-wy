@@ -1,0 +1,56 @@
+{
+  "id": 874103453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.37943,43.019573,-108.37943,43.019573",
+    "geom:latitude":43.019573,
+    "geom:longitude":-108.37943,
+    "iso:country":"US",
+    "sg:address":"910 E Monroe Ave",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 1904",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Bo3E9390idY75W0kplh9X_43.019573_-108.379430@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311838,
+    "wof:geomhash":"d02e3f98510becbf26222ea61aa6b601",
+    "wof:hierarchy":[],
+    "wof:id":874103453,
+    "wof:lastmodified":1464311838,
+    "wof:name":"Ideal Auto Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -108.37943,
+    43.019573,
+    -108.37943,
+    43.019573
+],
+  "geometry": {"coordinates":[-108.37943,43.019573],"type":"Point"}
+}

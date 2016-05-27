@@ -1,0 +1,71 @@
+{
+  "id": 874095621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.32974,42.844267,-106.32974,42.844267",
+    "geom:latitude":42.844267,
+    "geom:longitude":-106.32974,
+    "iso:country":"US",
+    "sg:address":"382 W Collins Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1038",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "machine",
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WvVcndPM00X49Lrowxrki_42.844267_-106.329740@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311720,
+    "wof:geomhash":"af768d3353935287c731c5e1052fcb55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874095621
+        }
+    ],
+    "wof:id":874095621,
+    "wof:lastmodified":1464311720,
+    "wof:name":"Sew Fix It",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "sewing"
+    ]
+},
+  "bbox": [
+    -106.32974,
+    42.844267,
+    -106.32974,
+    42.844267
+],
+  "geometry": {"coordinates":[-106.32974,42.844267],"type":"Point"}
+}

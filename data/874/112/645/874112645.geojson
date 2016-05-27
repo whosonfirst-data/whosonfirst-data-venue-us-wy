@@ -1,0 +1,58 @@
+{
+  "id": 874112645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.88008,44.574652,-106.88008,44.574652",
+    "geom:latitude":44.574652,
+    "geom:longitude":-106.88008,
+    "iso:country":"US",
+    "sg:address":"9 Fish Hatchery Rd",
+    "sg:city":"Story",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 683 3220",
+    "sg:postcode":"82842",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XR1tJhNbtDqJvN2Vm3LIn_44.574652_-106.880080@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311964,
+    "wof:geomhash":"429ab572b9c61c94ef1e7aab3c739094",
+    "wof:hierarchy":[],
+    "wof:id":874112645,
+    "wof:lastmodified":1464311964,
+    "wof:name":"Story Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.88008,
+    44.574652,
+    -106.88008,
+    44.574652
+],
+  "geometry": {"coordinates":[-106.88008000000001,44.574652],"type":"Point"}
+}

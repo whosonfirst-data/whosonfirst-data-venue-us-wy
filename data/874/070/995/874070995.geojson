@@ -1,0 +1,56 @@
+{
+  "id": 874070995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.4974,44.255025,-105.4974,44.255025",
+    "geom:latitude":44.255025,
+    "geom:longitude":-105.4974,
+    "iso:country":"US",
+    "sg:address":"513 Charlie St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 567 3534",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BHV8tpR4Sq79ljKURDHKi_44.255025_-105.497400@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311444,
+    "wof:geomhash":"abd56b1e59d3198f71f4e5e97dc69857",
+    "wof:hierarchy":[],
+    "wof:id":874070995,
+    "wof:lastmodified":1464311444,
+    "wof:name":"B & S Welding",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.4974,
+    44.255025,
+    -105.4974,
+    44.255025
+],
+  "geometry": {"coordinates":[-105.4974,44.255025],"type":"Point"}
+}

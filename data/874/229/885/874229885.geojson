@@ -1,0 +1,59 @@
+{
+  "id": 874229885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.493833,44.267855,-105.493833,44.267855",
+    "geom:latitude":44.267855,
+    "geom:longitude":-105.493833,
+    "iso:country":"US",
+    "sg:address":"2700 S Douglas Hwy",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/gillette-south/100337-golden-corral/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 9130",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XXSyiwK8UkNAPencUVOLW_44.267855_-105.493833@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313159,
+    "wof:geomhash":"f9358780f6ae3c98b0b57088840d938a",
+    "wof:hierarchy":[],
+    "wof:id":874229885,
+    "wof:lastmodified":1464313159,
+    "wof:name":"Golden Corral",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -105.493833,
+    44.267855,
+    -105.493833,
+    44.267855
+],
+  "geometry": {"coordinates":[-105.493833,44.267855],"type":"Point"}
+}

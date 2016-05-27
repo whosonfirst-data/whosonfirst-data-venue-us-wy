@@ -1,0 +1,61 @@
+{
+  "id": 874229835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.506726,44.269008,-105.506726,44.269008",
+    "geom:latitude":44.269008,
+    "geom:longitude":-105.506726,
+    "iso:country":"US",
+    "sg:address":"403 W Lakeway Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/gillette-south/78190-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 5999",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ewH7kSIUnP2AlKwcasnWE_44.269008_-105.506726@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313158,
+    "wof:geomhash":"bbff68e454f5af5a78b010f5ebd748b3",
+    "wof:hierarchy":[],
+    "wof:id":874229835,
+    "wof:lastmodified":1464313158,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -105.506726,
+    44.269008,
+    -105.506726,
+    44.269008
+],
+  "geometry": {"coordinates":[-105.506726,44.269008],"type":"Point"}
+}

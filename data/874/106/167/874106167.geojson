@@ -1,0 +1,69 @@
+{
+  "id": 874106167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.421011,42.874543,-106.421011,42.874543",
+    "geom:latitude":42.874543,
+    "geom:longitude":-106.421011,
+    "iso:country":"US",
+    "sg:address":"2045 Oil Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 6172",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vqmEUeFnWarekqusykMoP_42.874543_-106.421011@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311872,
+    "wof:geomhash":"c2394fb449416487b8d9430915c2c325",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874106167
+        }
+    ],
+    "wof:id":874106167,
+    "wof:lastmodified":1464311872,
+    "wof:name":"Westfreight Systems Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -106.421011,
+    42.874543,
+    -106.421011,
+    42.874543
+],
+  "geometry": {"coordinates":[-106.42101099999999,42.874543],"type":"Point"}
+}

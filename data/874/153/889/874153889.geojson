@@ -1,0 +1,64 @@
+{
+  "id": 874153889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.299547,42.851395,-106.299547,42.851395",
+    "geom:latitude":42.851395,
+    "geom:longitude":-106.299547,
+    "iso:country":"US",
+    "sg:address":"1941 E A St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 3004",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LfVWOWj4er1Gh66YQJguU_42.851395_-106.299547@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312365,
+    "wof:geomhash":"d45d5d03eea08956480151d4526c1c51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874153889
+        }
+    ],
+    "wof:id":874153889,
+    "wof:lastmodified":1464312365,
+    "wof:name":"Tracy's-Barber Stylist",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.299547,
+    42.851395,
+    -106.299547,
+    42.851395
+],
+  "geometry": {"coordinates":[-106.299547,42.851395],"type":"Point"}
+}

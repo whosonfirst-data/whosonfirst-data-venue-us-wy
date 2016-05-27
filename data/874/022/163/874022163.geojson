@@ -1,0 +1,69 @@
+{
+  "id": 874022163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.300332,42.838832,-106.300332,42.838832",
+    "geom:latitude":42.838832,
+    "geom:longitude":-106.300332,
+    "iso:country":"US",
+    "sg:address":"2101 E 12th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 5771",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RBDbSbsDNdOlOQuzQyAFP_42.838832_-106.300332@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310966,
+    "wof:geomhash":"2ad46b3973aefba1240647836583a4e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874022163
+        }
+    ],
+    "wof:id":874022163,
+    "wof:lastmodified":1464310966,
+    "wof:name":"County Market",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug"
+    ]
+},
+  "bbox": [
+    -106.300332,
+    42.838832,
+    -106.300332,
+    42.838832
+],
+  "geometry": {"coordinates":[-106.300332,42.838832],"type":"Point"}
+}

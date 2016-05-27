@@ -1,0 +1,75 @@
+{
+  "id": 874188141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.412228,42.811119,-106.412228,42.811119",
+    "geom:latitude":42.811119,
+    "geom:longitude":-106.412228,
+    "iso:country":"US",
+    "sg:address":"211 Aster St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 8854",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "distance",
+        "local",
+        "long",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cgKASKIbUkE0QqUvt7s5X_42.811119_-106.412228@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312721,
+    "wof:geomhash":"765b650a1f05e5852c1f3a375563b56e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874188141
+        }
+    ],
+    "wof:id":874188141,
+    "wof:lastmodified":1464312721,
+    "wof:name":"Williams Trucking Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "local",
+        "long",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -106.412228,
+    42.811119,
+    -106.412228,
+    42.811119
+],
+  "geometry": {"coordinates":[-106.412228,42.811119],"type":"Point"}
+}

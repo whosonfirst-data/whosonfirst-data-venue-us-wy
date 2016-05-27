@@ -1,0 +1,69 @@
+{
+  "id": 874194025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33026,42.803309,-106.33026,42.803309",
+    "geom:latitude":42.803309,
+    "geom:longitude":-106.33026,
+    "iso:country":"US",
+    "sg:address":"5028 Casper Mountain Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 9357",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JYOthFxZYCdvIMCcwCzMA_42.803309_-106.330260@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312780,
+    "wof:geomhash":"b2b9d10cc1e45e46971384d5754b3e3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874194025
+        }
+    ],
+    "wof:id":874194025,
+    "wof:lastmodified":1464312780,
+    "wof:name":"Lord Of Lords Lutheran Church",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -106.33026,
+    42.803309,
+    -106.33026,
+    42.803309
+],
+  "geometry": {"coordinates":[-106.33026,42.803309],"type":"Point"}
+}

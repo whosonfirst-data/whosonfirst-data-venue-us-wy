@@ -1,0 +1,75 @@
+{
+  "id": 874069457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.560933,41.308234,-105.560933,41.308234",
+    "geom:latitude":41.308234,
+    "geom:longitude":-105.560933,
+    "iso:country":"US",
+    "sg:address":"415 S 25th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 0747",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "development",
+        "instrumentation",
+        "aerospace"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ChoCHIWlXlaf19VMQO08y_41.308234_-105.560933@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311427,
+    "wof:geomhash":"c7886e22f4af1788507f5ae4feca60cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874069457
+        }
+    ],
+    "wof:id":874069457,
+    "wof:lastmodified":1464311427,
+    "wof:name":"Wind",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "instrumentation",
+        "aerospace"
+    ]
+},
+  "bbox": [
+    -105.560933,
+    41.308234,
+    -105.560933,
+    41.308234
+],
+  "geometry": {"coordinates":[-105.56093300000001,41.308234],"type":"Point"}
+}

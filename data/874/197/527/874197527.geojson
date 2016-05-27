@@ -1,0 +1,58 @@
+{
+  "id": 874197527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.159617,43.827366,-104.159617,43.827366",
+    "geom:latitude":43.827366,
+    "geom:longitude":-104.159617,
+    "iso:country":"US",
+    "sg:address":"6 Delores Ave",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 9478",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aVgqb0OJdQraX86rpzVGX_43.827366_-104.159617@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312821,
+    "wof:geomhash":"5ab5dfea92ea07259e4ab43857c33846",
+    "wof:hierarchy":[],
+    "wof:id":874197527,
+    "wof:lastmodified":1464312821,
+    "wof:name":"Sedgwicks Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -104.159617,
+    43.827366,
+    -104.159617,
+    43.827366
+],
+  "geometry": {"coordinates":[-104.159617,43.827366],"type":"Point"}
+}

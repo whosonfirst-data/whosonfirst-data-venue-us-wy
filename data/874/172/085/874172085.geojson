@@ -1,0 +1,58 @@
+{
+  "id": 874172085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.16829,44.45708,-109.16829,44.45708",
+    "geom:latitude":44.45708,
+    "geom:longitude":-109.16829,
+    "iso:country":"US",
+    "sg:address":"659 Southfork Rd",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 5226",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D1kr3Ol7J0VmgPN9umVug_44.457080_-109.168290@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312550,
+    "wof:geomhash":"480fbdfaca3c40538fc743d179af9618",
+    "wof:hierarchy":[],
+    "wof:id":874172085,
+    "wof:lastmodified":1464312550,
+    "wof:name":"Wyoming HEAT",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.16829,
+    44.45708,
+    -109.16829,
+    44.45708
+],
+  "geometry": {"coordinates":[-109.16829,44.45708],"type":"Point"}
+}

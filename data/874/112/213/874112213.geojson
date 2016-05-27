@@ -1,0 +1,71 @@
+{
+  "id": 874112213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.548642,41.324076,-105.548642,41.324076",
+    "geom:latitude":41.324076,
+    "geom:longitude":-105.548642,
+    "iso:country":"US",
+    "sg:address":"1158 N Hidalgo Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 0517",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sIHAbomI9gHn5TMbQjb5s_41.324076_-105.548642@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311960,
+    "wof:geomhash":"b8041190f4c8c0fc4cfdb8c5f7fbd69c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874112213
+        }
+    ],
+    "wof:id":874112213,
+    "wof:lastmodified":1464311960,
+    "wof:name":"Gvs Consulting LLC",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -105.548642,
+    41.324076,
+    -105.548642,
+    41.324076
+],
+  "geometry": {"coordinates":[-105.548642,41.324076],"type":"Point"}
+}

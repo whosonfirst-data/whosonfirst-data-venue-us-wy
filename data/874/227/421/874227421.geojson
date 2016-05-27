@@ -1,0 +1,65 @@
+{
+  "id": 874227421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.305721,42.82586,-106.305721,42.82586",
+    "geom:latitude":42.82586,
+    "geom:longitude":-106.305721,
+    "iso:country":"US",
+    "sg:address":"2112 Shumway Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 5532",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "product",
+        "petroleum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ohxVMUj11siCkUkzPypX2_42.825860_-106.305721@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313135,
+    "wof:geomhash":"7d8f13619158393df14de6046f5e9a08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874227421
+        }
+    ],
+    "wof:id":874227421,
+    "wof:lastmodified":1464313135,
+    "wof:name":"Mobil",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "petroleum"
+    ]
+},
+  "bbox": [
+    -106.305721,
+    42.82586,
+    -106.305721,
+    42.82586
+],
+  "geometry": {"coordinates":[-106.30572100000001,42.82586],"type":"Point"}
+}

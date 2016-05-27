@@ -1,0 +1,65 @@
+{
+  "id": 874195919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.51552,42.783719,-105.51552,42.783719",
+    "geom:latitude":42.783719,
+    "geom:longitude":-105.51552,
+    "iso:country":"US",
+    "sg:address":"14 Cherokee Trl",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 4134",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "trucking",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IUt9Ri7RKmsQldlzvcZX9_42.783719_-105.515520@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312804,
+    "wof:geomhash":"a45b1e8715045b050a970a3a99865250",
+    "wof:hierarchy":[],
+    "wof:id":874195919,
+    "wof:lastmodified":1464312804,
+    "wof:name":"Blackburn Cattle Company Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "trucking",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -105.51552,
+    42.783719,
+    -105.51552,
+    42.783719
+],
+  "geometry": {"coordinates":[-105.51552,42.783719],"type":"Point"}
+}

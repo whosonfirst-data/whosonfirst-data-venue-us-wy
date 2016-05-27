@@ -1,0 +1,72 @@
+{
+  "id": 874030357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.325105,42.845058,-106.325105,42.845058",
+    "geom:latitude":42.845058,
+    "geom:longitude":-106.325105,
+    "iso:country":"US",
+    "sg:address":"543 S Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1136",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "apparel",
+        "sport"
+    ],
+    "sg:website":"www.wyomap.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52d0zJPhAqyPSxZkExAWFC_42.845058_-106.325105@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311052,
+    "wof:geomhash":"e923032ac5aa8b7178bc36485371027f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874030357
+        }
+    ],
+    "wof:id":874030357,
+    "wof:lastmodified":1464311052,
+    "wof:name":"Mountain Sports Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apparel",
+        "sport"
+    ]
+},
+  "bbox": [
+    -106.325105,
+    42.845058,
+    -106.325105,
+    42.845058
+],
+  "geometry": {"coordinates":[-106.32510499999999,42.845058],"type":"Point"}
+}

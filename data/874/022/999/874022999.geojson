@@ -1,0 +1,71 @@
+{
+  "id": 874022999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.260745,42.845977,-106.260745,42.845977",
+    "geom:latitude":42.845977,
+    "geom:longitude":-106.260745,
+    "iso:country":"US",
+    "sg:address":"441 Landmark Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Stationery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 233 7021",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "supply",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H8t9TVQF7QjEFrwz5kboj_42.845977_-106.260745@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310973,
+    "wof:geomhash":"3f853f9d7c493776ee18cbf822e3d102",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874022999
+        }
+    ],
+    "wof:id":874022999,
+    "wof:lastmodified":1464310973,
+    "wof:name":"Boise Cascade",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -106.260745,
+    42.845977,
+    -106.260745,
+    42.845977
+],
+  "geometry": {"coordinates":[-106.260745,42.845977],"type":"Point"}
+}

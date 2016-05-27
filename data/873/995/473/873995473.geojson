@@ -1,0 +1,56 @@
+{
+  "id": 873995473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.698982,44.350587,-106.698982,44.350587",
+    "geom:latitude":44.350587,
+    "geom:longitude":-106.698982,
+    "iso:country":"US",
+    "sg:address":"209 N Main St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 7822",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42NmJHOplcNxTfRhFnDvi3_44.350587_-106.698982@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310729,
+    "wof:geomhash":"b5a2d6306da13b114e0353200003dd22",
+    "wof:hierarchy":[],
+    "wof:id":873995473,
+    "wof:lastmodified":1464310729,
+    "wof:name":"Big Horn Motel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -106.698982,
+    44.350587,
+    -106.698982,
+    44.350587
+],
+  "geometry": {"coordinates":[-106.698982,44.350587],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 874230017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.942517,44.783407,-106.942517,44.783407",
+    "geom:latitude":44.783407,
+    "geom:longitude":-106.942517,
+    "iso:country":"US",
+    "sg:address":"1373 Coffeen Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/sheridan/102386-perkins-restaurant--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 9336",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35Vwx9rTZ9IkOmj4ERVSKp_44.783407_-106.942517@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313160,
+    "wof:geomhash":"4e1284369d4c8dcee7cb1a5deb7d7bd9",
+    "wof:hierarchy":[],
+    "wof:id":874230017,
+    "wof:lastmodified":1464313160,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -106.942517,
+    44.783407,
+    -106.942517,
+    44.783407
+],
+  "geometry": {"coordinates":[-106.942517,44.783407],"type":"Point"}
+}

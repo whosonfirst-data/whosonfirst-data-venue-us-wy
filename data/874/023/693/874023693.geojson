@@ -1,0 +1,58 @@
+{
+  "id": 874023693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.384025,42.759679,-105.384025,42.759679",
+    "geom:latitude":42.759679,
+    "geom:longitude":-105.384025,
+    "iso:country":"US",
+    "sg:address":"129 N 3rd St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 9358",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CJFVquwFM5RnKSLripavO_42.759679_-105.384025@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310980,
+    "wof:geomhash":"0390f90f7050dd767adf828e4c371365",
+    "wof:hierarchy":[],
+    "wof:id":874023693,
+    "wof:lastmodified":1464310980,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -105.384025,
+    42.759679,
+    -105.384025,
+    42.759679
+],
+  "geometry": {"coordinates":[-105.38402499999999,42.759679],"type":"Point"}
+}

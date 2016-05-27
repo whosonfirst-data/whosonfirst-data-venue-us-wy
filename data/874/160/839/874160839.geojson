@@ -1,0 +1,75 @@
+{
+  "id": 874160839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.550008,41.306179,-105.550008,41.306179",
+    "geom:latitude":41.306179,
+    "geom:longitude":-105.550008,
+    "iso:country":"US",
+    "sg:address":"3420 E Garfield St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 9544",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24EF981UOQSTaSGMON6SKW_41.306179_-105.550008@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312441,
+    "wof:geomhash":"fa63e3abb0007395cde5dbcebc477e2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874160839
+        }
+    ],
+    "wof:id":874160839,
+    "wof:lastmodified":1464312441,
+    "wof:name":"Supersuds",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -105.550008,
+    41.306179,
+    -105.550008,
+    41.306179
+],
+  "geometry": {"coordinates":[-105.55000800000001,41.306179],"type":"Point"}
+}

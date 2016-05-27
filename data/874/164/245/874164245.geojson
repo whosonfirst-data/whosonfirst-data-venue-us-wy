@@ -1,0 +1,60 @@
+{
+  "id": 874164245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.95901,41.27107,-110.95901,41.27107",
+    "geom:latitude":41.27107,
+    "geom:longitude":-110.95901,
+    "iso:country":"US",
+    "sg:address":"127 Bear River Dr",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 4519",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YCbEacry8zNPWv02KN7Ep_41.271070_-110.959010@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312471,
+    "wof:geomhash":"47cec46ba41f4fbca99bce06b5255a7e",
+    "wof:hierarchy":[],
+    "wof:id":874164245,
+    "wof:lastmodified":1464312471,
+    "wof:name":"Riverside Collision LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "body"
+    ]
+},
+  "bbox": [
+    -110.95901,
+    41.27107,
+    -110.95901,
+    41.27107
+],
+  "geometry": {"coordinates":[-110.95901000000001,41.27107],"type":"Point"}
+}

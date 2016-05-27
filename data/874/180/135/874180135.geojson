@@ -1,0 +1,73 @@
+{
+  "id": 874180135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.624672,41.30885,-105.624672,41.30885",
+    "geom:latitude":41.30885,
+    "geom:longitude":-105.624672,
+    "iso:country":"US",
+    "sg:address":"2004 State Hwy 230",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6949",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JL8hQWOzCAvOzjPwThXVj_41.308850_-105.624672@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312631,
+    "wof:geomhash":"7ae71257bea0a10908db78a0644fdc0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874180135
+        }
+    ],
+    "wof:id":874180135,
+    "wof:lastmodified":1464312631,
+    "wof:name":"Big Lramie Vly Vlntr Fire Dept",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -105.624672,
+    41.30885,
+    -105.624672,
+    41.30885
+],
+  "geometry": {"coordinates":[-105.624672,41.30885],"type":"Point"}
+}

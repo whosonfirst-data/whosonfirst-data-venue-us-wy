@@ -1,0 +1,71 @@
+{
+  "id": 874060325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.292883,42.84734,-106.292883,42.84734",
+    "geom:latitude":42.84734,
+    "geom:longitude":-106.292883,
+    "iso:country":"US",
+    "sg:address":"2655 E 3rd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 3008",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "bingo",
+        "game"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Mkm32aoWHbD0X8V1sarzb_42.847340_-106.292883@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311338,
+    "wof:geomhash":"69900edd97b5c86d4cd9ec36791f7f02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874060325
+        }
+    ],
+    "wof:id":874060325,
+    "wof:lastmodified":1464311338,
+    "wof:name":"Hilltop Bingo",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bingo",
+        "game"
+    ]
+},
+  "bbox": [
+    -106.292883,
+    42.84734,
+    -106.292883,
+    42.84734
+],
+  "geometry": {"coordinates":[-106.292883,42.84734],"type":"Point"}
+}

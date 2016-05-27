@@ -1,0 +1,56 @@
+{
+  "id": 874182443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.380706,43.023504,-108.380706,43.023504",
+    "geom:latitude":43.023504,
+    "geom:longitude":-108.380706,
+    "iso:country":"US",
+    "sg:address":"705 E Washington Ave",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 5758",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gcU72yKjhJ0GxXBQiQnUf_43.023504_-108.380706@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312654,
+    "wof:geomhash":"d196f975513e72ab8c83350de9201a46",
+    "wof:hierarchy":[],
+    "wof:id":874182443,
+    "wof:lastmodified":1464312654,
+    "wof:name":"Hopkins Ralph MD PC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -108.380706,
+    43.023504,
+    -108.380706,
+    43.023504
+],
+  "geometry": {"coordinates":[-108.380706,43.023504],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874143385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.343945,42.135933,-104.343945,42.135933",
+    "geom:latitude":42.135933,
+    "geom:longitude":-104.343945,
+    "iso:country":"US",
+    "sg:address":"209 E 3rd St",
+    "sg:city":"Lingle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 837 2561",
+    "sg:postcode":"82223",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0izxooTMk76vNtZiUEqZob_42.135933_-104.343945@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312265,
+    "wof:geomhash":"de723403d06b9b5d3be08791203ebc49",
+    "wof:hierarchy":[],
+    "wof:id":874143385,
+    "wof:lastmodified":1464312265,
+    "wof:name":"Lingle Fire Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -104.343945,
+    42.135933,
+    -104.343945,
+    42.135933
+],
+  "geometry": {"coordinates":[-104.34394500000001,42.135933],"type":"Point"}
+}

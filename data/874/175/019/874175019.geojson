@@ -1,0 +1,70 @@
+{
+  "id": 874175019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.2904,42.84466,-106.2904,42.84466",
+    "geom:latitude":42.84466,
+    "geom:longitude":-106.2904,
+    "iso:country":"US",
+    "sg:address":"400 Country Club Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 5535",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.stpatricks-casper.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76l24cw79ft8onmyDJvEUE_42.844660_-106.290400@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312579,
+    "wof:geomhash":"dd5fa8811760435f96de1147a0f72447",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874175019
+        }
+    ],
+    "wof:id":874175019,
+    "wof:lastmodified":1464312579,
+    "wof:name":"St Patrick's Church",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -106.2904,
+    42.84466,
+    -106.2904,
+    42.84466
+],
+  "geometry": {"coordinates":[-106.29040000000001,42.84466],"type":"Point"}
+}

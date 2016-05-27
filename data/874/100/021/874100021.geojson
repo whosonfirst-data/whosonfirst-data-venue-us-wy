@@ -1,0 +1,58 @@
+{
+  "id": 874100021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.756129,43.479544,-110.756129,43.479544",
+    "geom:latitude":43.479544,
+    "geom:longitude":-110.756129,
+    "iso:country":"US",
+    "sg:address":"310 E Broadway",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 734 2877",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "therapy",
+        "hand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Bdm2IobinkWJbdEgUVOmt_43.479544_-110.756129@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311793,
+    "wof:geomhash":"09ccd2382610d9248d45ee443d2bd66d",
+    "wof:hierarchy":[],
+    "wof:id":874100021,
+    "wof:lastmodified":1464311793,
+    "wof:name":"Teton Hand Therapy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "hand"
+    ]
+},
+  "bbox": [
+    -110.756129,
+    43.479544,
+    -110.756129,
+    43.479544
+],
+  "geometry": {"coordinates":[-110.756129,43.479544],"type":"Point"}
+}

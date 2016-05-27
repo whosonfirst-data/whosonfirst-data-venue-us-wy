@@ -1,0 +1,59 @@
+{
+  "id": 874229727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.35752,42.74147,-105.35752,42.74147",
+    "geom:latitude":42.74147,
+    "geom:longitude":-105.35752,
+    "iso:country":"US",
+    "sg:address":"1826 E Richards St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/douglas/181570-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 6407",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rUhwqHLfskGZM1KdzEjWh_42.741470_-105.357520@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313157,
+    "wof:geomhash":"e4117bb85b999dd8afffd627bb864d05",
+    "wof:hierarchy":[],
+    "wof:id":874229727,
+    "wof:lastmodified":1464313157,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -105.35752,
+    42.74147,
+    -105.35752,
+    42.74147
+],
+  "geometry": {"coordinates":[-105.35751999999999,42.74147],"type":"Point"}
+}

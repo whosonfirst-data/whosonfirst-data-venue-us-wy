@@ -1,0 +1,73 @@
+{
+  "id": 873984803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.221034,41.585255,-109.221034,41.585255",
+    "geom:latitude":41.585255,
+    "geom:longitude":-109.221034,
+    "iso:country":"US",
+    "sg:address":"218 B St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 6012",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A0zBaLhbAZ4rU9nCJNUrQ_41.585255_-109.221034@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310648,
+    "wof:geomhash":"0ae9221376483f1a7e0ae9829ed60af2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":873984803
+        }
+    ],
+    "wof:id":873984803,
+    "wof:lastmodified":1464310648,
+    "wof:name":"Masonic Lodge",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -109.221034,
+    41.585255,
+    -109.221034,
+    41.585255
+],
+  "geometry": {"coordinates":[-109.221034,41.585255],"type":"Point"}
+}

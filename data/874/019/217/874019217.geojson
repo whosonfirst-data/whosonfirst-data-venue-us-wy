@@ -1,0 +1,71 @@
+{
+  "id": 874019217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.438832,42.878802,-106.438832,42.878802",
+    "geom:latitude":42.878802,
+    "geom:longitude":-106.438832,
+    "iso:country":"US",
+    "sg:address":"2377 Clover Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 1209",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "well"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fcDTwGZmH7zMvDuPDjPrz_42.878802_-106.438832@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310939,
+    "wof:geomhash":"62550223fe671834e2252935aabde7ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874019217
+        }
+    ],
+    "wof:id":874019217,
+    "wof:lastmodified":1464310939,
+    "wof:name":"Key Energy Services Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "well"
+    ]
+},
+  "bbox": [
+    -106.438832,
+    42.878802,
+    -106.438832,
+    42.878802
+],
+  "geometry": {"coordinates":[-106.438832,42.878802],"type":"Point"}
+}

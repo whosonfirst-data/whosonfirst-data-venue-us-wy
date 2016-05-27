@@ -1,0 +1,69 @@
+{
+  "id": 874017249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.342979,42.798231,-106.342979,42.798231",
+    "geom:latitude":42.798231,
+    "geom:longitude":-106.342979,
+    "iso:country":"US",
+    "sg:address":"5910 S Cedar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1408",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62LcI1oUQBQl3muXiqsf4p_42.798231_-106.342979@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310915,
+    "wof:geomhash":"bacf5a012028e3c51b631d5b90e62045",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874017249
+        }
+    ],
+    "wof:id":874017249,
+    "wof:lastmodified":1464310915,
+    "wof:name":"Hart Media Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -106.342979,
+    42.798231,
+    -106.342979,
+    42.798231
+],
+  "geometry": {"coordinates":[-106.342979,42.798231],"type":"Point"}
+}

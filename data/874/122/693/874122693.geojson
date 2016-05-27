@@ -1,0 +1,58 @@
+{
+  "id": 874122693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.389126,43.024712,-108.389126,43.024712",
+    "geom:latitude":43.024712,
+    "geom:longitude":-108.389126,
+    "iso:country":"US",
+    "sg:address":"208 E Main St",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 303 777 1875",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "nonscheduled",
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DrpHuqR847CtX8ub2BBUR_43.024712_-108.389126@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312065,
+    "wof:geomhash":"523a24eb6c9be2e30d7377a29059ffb0",
+    "wof:hierarchy":[],
+    "wof:id":874122693,
+    "wof:lastmodified":1464312065,
+    "wof:name":"Aerial Coalition Tech LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonscheduled",
+        "carrier"
+    ]
+},
+  "bbox": [
+    -108.389126,
+    43.024712,
+    -108.389126,
+    43.024712
+],
+  "geometry": {"coordinates":[-108.389126,43.024712],"type":"Point"}
+}

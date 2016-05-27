@@ -1,0 +1,61 @@
+{
+  "id": 874094491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.50246,44.29025,-105.50246,44.29025",
+    "geom:latitude":44.29025,
+    "geom:longitude":-105.50246,
+    "iso:country":"US",
+    "sg:address":"201 E 5th St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 5265",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "sg:website":"www.ci.gillette.wy.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52Z3tcjBdqU3wgYmd3h5nN_44.290250_-105.502460@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311708,
+    "wof:geomhash":"3efe0feb9935bc523d6a62517861bb98",
+    "wof:hierarchy":[],
+    "wof:id":874094491,
+    "wof:lastmodified":1464311708,
+    "wof:name":"Gillette City Public Works",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -105.50246,
+    44.29025,
+    -105.50246,
+    44.29025
+],
+  "geometry": {"coordinates":[-105.50246,44.29025],"type":"Point"}
+}

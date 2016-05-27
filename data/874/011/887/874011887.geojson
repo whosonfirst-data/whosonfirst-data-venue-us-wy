@@ -1,0 +1,72 @@
+{
+  "id": 874011887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.414686,42.84157,-106.414686,42.84157",
+    "geom:latitude":42.84157,
+    "geom:longitude":-106.414686,
+    "iso:country":"US",
+    "sg:address":"939 S Robertson Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 9375",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pipe",
+        "inspection"
+    ],
+    "sg:website":"www.icoinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rilYwPPNvhkKBoiBMGsbh_42.841570_-106.414686@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310868,
+    "wof:geomhash":"c846c3f63dc3691249a37298b2ec57ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874011887
+        }
+    ],
+    "wof:id":874011887,
+    "wof:lastmodified":1464310868,
+    "wof:name":"Tuboscope",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -106.414686,
+    42.84157,
+    -106.414686,
+    42.84157
+],
+  "geometry": {"coordinates":[-106.414686,42.84157],"type":"Point"}
+}

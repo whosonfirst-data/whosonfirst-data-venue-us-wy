@@ -1,0 +1,56 @@
+{
+  "id": 874175797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955865,44.79901,-106.955865,44.79901",
+    "geom:latitude":44.79901,
+    "geom:longitude":-106.955865,
+    "iso:country":"US",
+    "sg:address":"138 N Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 2391",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W2M6i5cxiA9QC7M70niSa_44.799010_-106.955865@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312586,
+    "wof:geomhash":"cb3f3832354dbedc981e2ff281fd32f1",
+    "wof:hierarchy":[],
+    "wof:id":874175797,
+    "wof:lastmodified":1464312586,
+    "wof:name":"Sheridan Palace",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -106.955865,
+    44.79901,
+    -106.955865,
+    44.79901
+],
+  "geometry": {"coordinates":[-106.955865,44.79901],"type":"Point"}
+}

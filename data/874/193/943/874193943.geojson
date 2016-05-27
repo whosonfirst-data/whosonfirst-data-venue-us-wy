@@ -1,0 +1,56 @@
+{
+  "id": 874193943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.039772,44.533344,-109.039772,44.533344",
+    "geom:latitude":44.533344,
+    "geom:longitude":-109.039772,
+    "iso:country":"US",
+    "sg:address":"2620 Big Horn Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 2164",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PW0maksTuKUpbeHye3X6S_44.533344_-109.039772@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312779,
+    "wof:geomhash":"c9247aeb5e81494ada1d3c09b1c5e280",
+    "wof:hierarchy":[],
+    "wof:id":874193943,
+    "wof:lastmodified":1464312779,
+    "wof:name":"Dale's Appliance Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -109.039772,
+    44.533344,
+    -109.039772,
+    44.533344
+],
+  "geometry": {"coordinates":[-109.039772,44.533344],"type":"Point"}
+}

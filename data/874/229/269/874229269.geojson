@@ -1,0 +1,57 @@
+{
+  "id": 874229269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.742764,42.835576,-108.742764,42.835576",
+    "geom:latitude":42.835576,
+    "geom:longitude":-108.742764,
+    "iso:country":"US",
+    "sg:address":"870 Main St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/lander/214077-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 335 7757",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g7aqB5pH8PHJcO21BuT6B_42.835576_-108.742764@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313153,
+    "wof:geomhash":"1086b886fe844254ce7dde62dc84a041",
+    "wof:hierarchy":[],
+    "wof:id":874229269,
+    "wof:lastmodified":1464313153,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -108.742764,
+    42.835576,
+    -108.742764,
+    42.835576
+],
+  "geometry": {"coordinates":[-108.74276399999999,42.835576],"type":"Point"}
+}

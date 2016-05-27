@@ -1,0 +1,56 @@
+{
+  "id": 874116839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.008089,45.143883,-109.008089,45.143883",
+    "geom:latitude":45.143883,
+    "geom:longitude":-109.008089,
+    "iso:country":"US",
+    "sg:address":"222 Carbon Ave",
+    "sg:city":"Belfry",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 664 3198",
+    "sg:postcode":"59008",
+    "sg:province":"WY",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kCUkQuUJnG91zfiR3gsW6_45.143883_-109.008089@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312004,
+    "wof:geomhash":"fd00f072681eaf98b8939ba41c14db13",
+    "wof:hierarchy":[],
+    "wof:id":874116839,
+    "wof:lastmodified":1464312004,
+    "wof:name":"Belfry Rural Fire Dst No 9",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -109.008089,
+    45.143883,
+    -109.008089,
+    45.143883
+],
+  "geometry": {"coordinates":[-109.008089,45.143883],"type":"Point"}
+}

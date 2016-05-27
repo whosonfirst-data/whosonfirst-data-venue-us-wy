@@ -1,0 +1,75 @@
+{
+  "id": 874162957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594887,41.311196,-105.594887,41.311196",
+    "geom:latitude":41.311196,
+    "geom:longitude":-105.594887,
+    "iso:country":"US",
+    "sg:address":"209 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3333",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "communication",
+        "radio",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24oytvXV2kbxCUBUsyqXjR_41.311196_-105.594887@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312459,
+    "wof:geomhash":"78f5fbeba8e80c9414a7888baa83d78b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874162957
+        }
+    ],
+    "wof:id":874162957,
+    "wof:lastmodified":1464312459,
+    "wof:name":"Rule Communications",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "radio",
+        "system"
+    ]
+},
+  "bbox": [
+    -105.594887,
+    41.311196,
+    -105.594887,
+    41.311196
+],
+  "geometry": {"coordinates":[-105.594887,41.311196],"type":"Point"}
+}

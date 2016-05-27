@@ -1,0 +1,56 @@
+{
+  "id": 874015141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.033468,44.520971,-109.033468,44.520971",
+    "geom:latitude":44.520971,
+    "geom:longitude":-109.033468,
+    "iso:country":"US",
+    "sg:address":"1614 29th St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 7055",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "blacksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d3avtIwGGbrdcdSyWZrPm_44.520971_-109.033468@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310892,
+    "wof:geomhash":"16471855905c5357e4710fc855d028e1",
+    "wof:hierarchy":[],
+    "wof:id":874015141,
+    "wof:lastmodified":1464310892,
+    "wof:name":"Rod's Old Fashioned Horseshoe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blacksmith"
+    ]
+},
+  "bbox": [
+    -109.033468,
+    44.520971,
+    -109.033468,
+    44.520971
+],
+  "geometry": {"coordinates":[-109.033468,44.520971],"type":"Point"}
+}

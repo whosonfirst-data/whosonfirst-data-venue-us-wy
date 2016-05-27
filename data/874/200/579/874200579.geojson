@@ -1,0 +1,69 @@
+{
+  "id": 874200579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.327877,42.844722,-106.327877,42.844722",
+    "geom:latitude":42.844722,
+    "geom:longitude":-106.327877,
+    "iso:country":"US",
+    "sg:address":"255 W Collins Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5161",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Eq2h0pFDktajSBfpl8Pm8_42.844722_-106.327877@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312849,
+    "wof:geomhash":"99e3a515a1c210834baf47afed38e57e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874200579
+        }
+    ],
+    "wof:id":874200579,
+    "wof:lastmodified":1464312849,
+    "wof:name":"Reeds Automotive Service",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -106.327877,
+    42.844722,
+    -106.327877,
+    42.844722
+],
+  "geometry": {"coordinates":[-106.327877,42.844722],"type":"Point"}
+}

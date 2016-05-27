@@ -1,0 +1,69 @@
+{
+  "id": 874115995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.416109,42.818389,-106.416109,42.818389",
+    "geom:latitude":42.818389,
+    "geom:longitude":-106.416109,
+    "iso:country":"US",
+    "sg:address":"3043 Cabin Creek Pl",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 1000",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Myer7srYIIm3lneItAJVI_42.818389_-106.416109@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311997,
+    "wof:geomhash":"1dc2f70a9b6d0993c894fcc3ff71ba46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874115995
+        }
+    ],
+    "wof:id":874115995,
+    "wof:lastmodified":1464311997,
+    "wof:name":"J L Pump Unit Service",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field"
+    ]
+},
+  "bbox": [
+    -106.416109,
+    42.818389,
+    -106.416109,
+    42.818389
+],
+  "geometry": {"coordinates":[-106.41610900000001,42.818389],"type":"Point"}
+}

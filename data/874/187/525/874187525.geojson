@@ -1,0 +1,69 @@
+{
+  "id": 874187525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.35324,42.80911,-106.35324,42.80911",
+    "geom:latitude":42.80911,
+    "geom:longitude":-106.35324,
+    "iso:country":"US",
+    "sg:address":"2584 Rainbow Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 0859",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2obn6Jkr0jTCtExj26sxfr_42.809110_-106.353240@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312715,
+    "wof:geomhash":"0886164202f86dfc4898df282563d285",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874187525
+        }
+    ],
+    "wof:id":874187525,
+    "wof:lastmodified":1464312715,
+    "wof:name":"Peryam & Peryam",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -106.35324,
+    42.80911,
+    -106.35324,
+    42.80911
+],
+  "geometry": {"coordinates":[-106.35324,42.80911],"type":"Point"}
+}

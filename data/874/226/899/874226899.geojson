@@ -1,0 +1,73 @@
+{
+  "id": 874226899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.336879,42.843963,-106.336879,42.843963",
+    "geom:latitude":42.843963,
+    "geom:longitude":-106.336879,
+    "iso:country":"US",
+    "sg:address":"605 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 5800",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lubricating",
+        "oil",
+        "gasoline",
+        "gas",
+        "filling",
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vDd22ygeCyLgZjQ8NkFXI_42.843963_-106.336879@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313129,
+    "wof:geomhash":"715b5ce8d5cad58e6927376e6309b675",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874226899
+        }
+    ],
+    "wof:id":874226899,
+    "wof:lastmodified":1464313129,
+    "wof:name":"Conoco Bulk Dlr Homax Oil Sls",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lubricating",
+        "oil",
+        "gasoline",
+        "gas",
+        "filling",
+        "station"
+    ]
+},
+  "bbox": [
+    -106.336879,
+    42.843963,
+    -106.336879,
+    42.843963
+],
+  "geometry": {"coordinates":[-106.336879,42.843963],"type":"Point"}
+}

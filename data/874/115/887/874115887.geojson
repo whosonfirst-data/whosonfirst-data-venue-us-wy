@@ -1,0 +1,56 @@
+{
+  "id": 874115887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.793231,43.461082,-110.793231,43.461082",
+    "geom:latitude":43.461082,
+    "geom:longitude":-110.793231,
+    "iso:country":"US",
+    "sg:address":"1325 US Hwy 89",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 734 5665",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OT0sx9IsZkTGoBgUwMgMM_43.461082_-110.793231@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311995,
+    "wof:geomhash":"39161cb88ed01b872265f991c32bdbb7",
+    "wof:hierarchy":[],
+    "wof:id":874115887,
+    "wof:lastmodified":1464311995,
+    "wof:name":"Teton Dental Arts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -110.793231,
+    43.461082,
+    -110.793231,
+    43.461082
+],
+  "geometry": {"coordinates":[-110.79323100000001,43.461082],"type":"Point"}
+}

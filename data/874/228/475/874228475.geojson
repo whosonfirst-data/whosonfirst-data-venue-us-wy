@@ -1,0 +1,57 @@
+{
+  "id": 874228475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.808523,41.124455,-104.808523,41.124455",
+    "geom:latitude":41.124455,
+    "geom:longitude":-104.808523,
+    "iso:country":"US",
+    "sg:address":"620 Central Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/22163-los-amigos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 8591",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09rIartj5IAT78qXtJ7Shh_41.124455_-104.808523@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313145,
+    "wof:geomhash":"fb6986787b6c587fdd7c00da768a4015",
+    "wof:hierarchy":[],
+    "wof:id":874228475,
+    "wof:lastmodified":1464313145,
+    "wof:name":"Los Amigos",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -104.808523,
+    41.124455,
+    -104.808523,
+    41.124455
+],
+  "geometry": {"coordinates":[-104.80852299999999,41.124455],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874191715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.537971,41.293127,-105.537971,41.293127",
+    "geom:latitude":41.293127,
+    "geom:longitude":-105.537971,
+    "iso:country":"US",
+    "sg:address":"4500 E Meadowlark Ln",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7428",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lNv80axdO9iJm5DqsWvse_41.293127_-105.537971@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312756,
+    "wof:geomhash":"28105f1e379d6bc0b5bdf7c8dd18aca8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874191715
+        }
+    ],
+    "wof:id":874191715,
+    "wof:lastmodified":1464312756,
+    "wof:name":"Shaw & Assoc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -105.537971,
+    41.293127,
+    -105.537971,
+    41.293127
+],
+  "geometry": {"coordinates":[-105.537971,41.293127],"type":"Point"}
+}

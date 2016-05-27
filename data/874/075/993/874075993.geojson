@@ -1,0 +1,64 @@
+{
+  "id": 874075993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.876576,41.860159,-104.876576,41.860159",
+    "geom:latitude":41.860159,
+    "geom:longitude":-104.876576,
+    "iso:country":"US",
+    "sg:address":"89 Richeau Rd",
+    "sg:city":"Wheatland",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 322 3212",
+    "sg:postcode":"82210",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "cattle",
+        "crop",
+        "beef",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tSudD0WJLlgaQCEUsO9EP_41.860159_-104.876576@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311511,
+    "wof:geomhash":"685197544837d8404b1a7a47c865463b",
+    "wof:hierarchy":[],
+    "wof:id":874075993,
+    "wof:lastmodified":1464311511,
+    "wof:name":"West Ranch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "cattle",
+        "crop",
+        "beef",
+        "general"
+    ]
+},
+  "bbox": [
+    -104.876576,
+    41.860159,
+    -104.876576,
+    41.860159
+],
+  "geometry": {"coordinates":[-104.876576,41.860159],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874141701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.215412,41.570724,-109.215412,41.570724",
+    "geom:latitude":41.570724,
+    "geom:longitude":-109.215412,
+    "iso:country":"US",
+    "sg:address":"1368 Alpine St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 352 3705",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZDMaCN9JgywgT7GT1Q0y1_41.570724_-109.215412@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312250,
+    "wof:geomhash":"f64a221ba79ac7154c4b095cabd73d2a",
+    "wof:hierarchy":[],
+    "wof:id":874141701,
+    "wof:lastmodified":1464312250,
+    "wof:name":"Jay's Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -109.215412,
+    41.570724,
+    -109.215412,
+    41.570724
+],
+  "geometry": {"coordinates":[-109.215412,41.570724],"type":"Point"}
+}

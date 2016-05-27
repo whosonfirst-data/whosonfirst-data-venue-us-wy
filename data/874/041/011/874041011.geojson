@@ -1,0 +1,75 @@
+{
+  "id": 874041011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.317258,42.848705,-106.317258,42.848705",
+    "geom:latitude":42.848705,
+    "geom:longitude":-106.317258,
+    "iso:country":"US",
+    "sg:address":"641 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 0902",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "installs",
+        "automotive",
+        "sound",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B92AeLAWgcFHWZjs7DIE4_42.848705_-106.317258@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311153,
+    "wof:geomhash":"c0695d2a38453b94a55097cbbd11e06d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874041011
+        }
+    ],
+    "wof:id":874041011,
+    "wof:lastmodified":1464311153,
+    "wof:name":"Car Tunes & More",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installs",
+        "automotive",
+        "sound",
+        "system"
+    ]
+},
+  "bbox": [
+    -106.317258,
+    42.848705,
+    -106.317258,
+    42.848705
+],
+  "geometry": {"coordinates":[-106.317258,42.848705],"type":"Point"}
+}

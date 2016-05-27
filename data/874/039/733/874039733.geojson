@@ -1,0 +1,59 @@
+{
+  "id": 874039733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.763273,43.479656,-110.763273,43.479656",
+    "geom:latitude":43.479656,
+    "geom:longitude":-110.763273,
+    "iso:country":"US",
+    "sg:address":"45 W Broadway",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Ferry",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 1000",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "river",
+        "trip"
+    ],
+    "sg:website":"www.barker-ewing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eS8uLldpOE3fGEDAHbHDw_43.479656_-110.763273@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311141,
+    "wof:geomhash":"2d3d064726594ad520f0b300267700b9",
+    "wof:hierarchy":[],
+    "wof:id":874039733,
+    "wof:lastmodified":1464311141,
+    "wof:name":"Barker Ewing River Trips",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "river",
+        "trip"
+    ]
+},
+  "bbox": [
+    -110.763273,
+    43.479656,
+    -110.763273,
+    43.479656
+],
+  "geometry": {"coordinates":[-110.763273,43.479656],"type":"Point"}
+}

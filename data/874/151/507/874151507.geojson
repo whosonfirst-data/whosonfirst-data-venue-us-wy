@@ -1,0 +1,58 @@
+{
+  "id": 874151507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.809188,41.138321,-104.809188,41.138321",
+    "geom:latitude":41.138321,
+    "geom:longitude":-104.809188,
+    "iso:country":"US",
+    "sg:address":"600 E 19th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 5511",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53xqL6ytyahCplDMwSdmFN_41.138321_-104.809188@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312342,
+    "wof:geomhash":"009c20b3bb02e05fb155d6f1987d7fcf",
+    "wof:hierarchy":[],
+    "wof:id":874151507,
+    "wof:lastmodified":1464312342,
+    "wof:name":"Auto Electric Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -104.809188,
+    41.138321,
+    -104.809188,
+    41.138321
+],
+  "geometry": {"coordinates":[-104.80918800000001,41.138321],"type":"Point"}
+}

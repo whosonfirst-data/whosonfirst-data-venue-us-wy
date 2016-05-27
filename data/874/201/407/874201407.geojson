@@ -1,0 +1,65 @@
+{
+  "id": 874201407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.816361,41.132416,-104.816361,41.132416",
+    "geom:latitude":41.132416,
+    "geom:longitude":-104.816361,
+    "iso:country":"US",
+    "sg:address":"206 W Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 6279",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "baker",
+        "wedding",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z7LtoCt0YqTBMuYe6Mq0t_41.132416_-104.816361@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312857,
+    "wof:geomhash":"e6b9f9aae57e2883dc9a71f5ba882429",
+    "wof:hierarchy":[],
+    "wof:id":874201407,
+    "wof:lastmodified":1464312857,
+    "wof:name":"Mary's Bake Shoppe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker",
+        "wedding",
+        "supply"
+    ]
+},
+  "bbox": [
+    -104.816361,
+    41.132416,
+    -104.816361,
+    41.132416
+],
+  "geometry": {"coordinates":[-104.816361,41.132416],"type":"Point"}
+}

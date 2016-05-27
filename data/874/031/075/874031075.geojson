@@ -1,0 +1,69 @@
+{
+  "id": 874031075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.394544,42.821085,-106.394544,42.821085",
+    "geom:latitude":42.821085,
+    "geom:longitude":-106.394544,
+    "iso:country":"US",
+    "sg:address":"5191 E Magnolia St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0641",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "crane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UVQdvcZV73YHyLXGkKuL6_42.821085_-106.394544@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311058,
+    "wof:geomhash":"7e318a6a379e8e162e488eb285c91ff8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874031075
+        }
+    ],
+    "wof:id":874031075,
+    "wof:lastmodified":1464311058,
+    "wof:name":"B & W Crane Service Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crane"
+    ]
+},
+  "bbox": [
+    -106.394544,
+    42.821085,
+    -106.394544,
+    42.821085
+],
+  "geometry": {"coordinates":[-106.394544,42.821085],"type":"Point"}
+}

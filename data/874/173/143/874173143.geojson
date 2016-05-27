@@ -1,0 +1,73 @@
+{
+  "id": 874173143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.297105,42.846554,-106.297105,42.846554",
+    "geom:latitude":42.846554,
+    "geom:longitude":-106.297105,
+    "iso:country":"US",
+    "sg:address":"321 S Wisconsin Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1086",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "house",
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fLqnz3DByGQoZoomBeaSo_42.846554_-106.297105@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312560,
+    "wof:geomhash":"535243d48260a761a6e9b81a82f3fb88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874173143
+        }
+    ],
+    "wof:id":874173143,
+    "wof:lastmodified":1464312560,
+    "wof:name":"Grovum Construction Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.297105,
+    42.846554,
+    -106.297105,
+    42.846554
+],
+  "geometry": {"coordinates":[-106.297105,42.846554],"type":"Point"}
+}

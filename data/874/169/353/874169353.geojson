@@ -1,0 +1,72 @@
+{
+  "id": 874169353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.340524,42.85673,-106.340524,42.85673",
+    "geom:latitude":42.85673,
+    "geom:longitude":-106.340524,
+    "iso:country":"US",
+    "sg:address":"778 Circle Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 3100",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "sg:website":"www.nationoil.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cGFfXVDbZaZ72GIR1mVVt_42.856730_-106.340524@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312520,
+    "wof:geomhash":"3d33f758d8c51152dc5159841c0ea178",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874169353
+        }
+    ],
+    "wof:id":874169353,
+    "wof:lastmodified":1464312520,
+    "wof:name":"National-Oilwell Varco",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.340524,
+    42.85673,
+    -106.340524,
+    42.85673
+],
+  "geometry": {"coordinates":[-106.340524,42.85673],"type":"Point"}
+}

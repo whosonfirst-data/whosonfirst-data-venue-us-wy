@@ -1,0 +1,56 @@
+{
+  "id": 874209343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.390001,44.837598,-108.390001,44.837598",
+    "geom:latitude":44.837598,
+    "geom:longitude":-108.390001,
+    "iso:country":"US",
+    "sg:address":"187 E Main St",
+    "sg:city":"Lovell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 548 6786",
+    "sg:postcode":"82431",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S3lh8vFuhx4JDlBj6ck6v_44.837598_-108.390001@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312942,
+    "wof:geomhash":"712ed39689e1ee78574c987b9ff4bde1",
+    "wof:hierarchy":[],
+    "wof:id":874209343,
+    "wof:lastmodified":1464312942,
+    "wof:name":"Shoshone Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.390001,
+    44.837598,
+    -108.390001,
+    44.837598
+],
+  "geometry": {"coordinates":[-108.390001,44.837598],"type":"Point"}
+}

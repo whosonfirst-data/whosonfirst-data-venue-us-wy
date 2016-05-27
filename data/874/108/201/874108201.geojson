@@ -1,0 +1,71 @@
+{
+  "id": 874108201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.447635,42.875663,-106.447635,42.875663",
+    "geom:latitude":42.875663,
+    "geom:longitude":-106.447635,
+    "iso:country":"US",
+    "sg:address":"2087 N Piney Creek Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 2428",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil",
+        "well"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20JOGum1Pz4BaukZhglVYH_42.875663_-106.447635@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311896,
+    "wof:geomhash":"badf791279d6bb940e53514ea636e178",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874108201
+        }
+    ],
+    "wof:id":874108201,
+    "wof:lastmodified":1464311896,
+    "wof:name":"Unit Drilling Co",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "well"
+    ]
+},
+  "bbox": [
+    -106.447635,
+    42.875663,
+    -106.447635,
+    42.875663
+],
+  "geometry": {"coordinates":[-106.44763500000001,42.875663],"type":"Point"}
+}

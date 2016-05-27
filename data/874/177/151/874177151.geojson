@@ -1,0 +1,56 @@
+{
+  "id": 874177151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.205913,43.672893,-108.205913,43.672893",
+    "geom:latitude":43.672893,
+    "geom:longitude":-108.205913,
+    "iso:country":"US",
+    "sg:address":"215 US Hwy 20 N",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 9286",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gOz9lowVGwUvSsyu4CbXV_43.672893_-108.205913@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312597,
+    "wof:geomhash":"a2c44bd1b988a242314535382b978aa1",
+    "wof:hierarchy":[],
+    "wof:id":874177151,
+    "wof:lastmodified":1464312597,
+    "wof:name":"Highway Patrol",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -108.205913,
+    43.672893,
+    -108.205913,
+    43.672893
+],
+  "geometry": {"coordinates":[-108.205913,43.672893],"type":"Point"}
+}

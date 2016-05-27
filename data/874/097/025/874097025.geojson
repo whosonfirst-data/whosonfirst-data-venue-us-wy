@@ -1,0 +1,56 @@
+{
+  "id": 874097025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.698208,44.345497,-106.698208,44.345497",
+    "geom:latitude":44.345497,
+    "geom:longitude":-106.698208,
+    "iso:country":"US",
+    "sg:address":"117 S Main St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 1663",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VCz9AoeaOy04rshH4Trnw_44.345497_-106.698208@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311744,
+    "wof:geomhash":"897beb11dcd25ade601e8a0cb87386a0",
+    "wof:hierarchy":[],
+    "wof:id":874097025,
+    "wof:lastmodified":1464311744,
+    "wof:name":"JLM Engineering",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -106.698208,
+    44.345497,
+    -106.698208,
+    44.345497
+],
+  "geometry": {"coordinates":[-106.69820799999999,44.345497],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 874027419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592557,41.31989,-105.592557,41.31989",
+    "geom:latitude":41.31989,
+    "geom:longitude":-105.592557,
+    "iso:country":"US",
+    "sg:address":"857 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8262",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZOpPRbN89YYHd81xIrJXZ_41.319890_-105.592557@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311020,
+    "wof:geomhash":"24f5231dd3fd910a6728338617e5d04a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874027419
+        }
+    ],
+    "wof:id":874027419,
+    "wof:lastmodified":1464311020,
+    "wof:name":"Peerless Tyre Co",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.592557,
+    41.31989,
+    -105.592557,
+    41.31989
+],
+  "geometry": {"coordinates":[-105.592557,41.31989],"type":"Point"}
+}

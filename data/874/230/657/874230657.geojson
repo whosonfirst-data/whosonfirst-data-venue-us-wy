@@ -1,0 +1,57 @@
+{
+  "id": 874230657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.963049,42.048532,-104.963049,42.048532",
+    "geom:latitude":42.048532,
+    "geom:longitude":-104.963049,
+    "iso:country":"US",
+    "sg:address":"92 16th St",
+    "sg:city":"Wheatland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/wheatland/166990-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 322 2424",
+    "sg:postcode":"82201",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1irnwue7icDhQ6CxP1ReXJ_42.048850_-104.963010@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313171,
+    "wof:geomhash":"34df0449f1fe2e29efafd278eea02620",
+    "wof:hierarchy":[],
+    "wof:id":874230657,
+    "wof:lastmodified":1464313171,
+    "wof:name":"Burger King",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -104.963049,
+    42.048532,
+    -104.963049,
+    42.048532
+],
+  "geometry": {"coordinates":[-104.963049,42.048532],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 874146269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.609854,41.322283,-105.609854,41.322283",
+    "geom:latitude":41.322283,
+    "geom:longitude":-105.609854,
+    "iso:country":"US",
+    "sg:address":"1368 N McCue St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5678",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SMmeqxnKl3ywjXpkSThWn_41.322283_-105.609854@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312295,
+    "wof:geomhash":"e70dc876fde83cdd1d33145aa1d42dc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874146269
+        }
+    ],
+    "wof:id":874146269,
+    "wof:lastmodified":1464312295,
+    "wof:name":"Days Inn",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.609854,
+    41.322283,
+    -105.609854,
+    41.322283
+],
+  "geometry": {"coordinates":[-105.609854,41.322283],"type":"Point"}
+}

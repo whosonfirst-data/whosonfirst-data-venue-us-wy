@@ -1,0 +1,68 @@
+{
+  "id": 873991535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.8011,41.160212,-104.8011,41.160212",
+    "geom:latitude":41.160212,
+    "geom:longitude":-104.8011,
+    "iso:country":"US",
+    "sg:address":"1851 Dell Range Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 3000",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MRDvl5Ggcvr1tCK1iuArl_41.160212_-104.801100@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310700,
+    "wof:geomhash":"21eef2dcb6315ece1305b18f5e042e8e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":873991535
+        }
+    ],
+    "wof:id":873991535,
+    "wof:lastmodified":1464310700,
+    "wof:name":"Barnes & Noble",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.8011,
+    41.160212,
+    -104.8011,
+    41.160212
+],
+  "geometry": {"coordinates":[-104.80110000000001,41.160212],"type":"Point"}
+}

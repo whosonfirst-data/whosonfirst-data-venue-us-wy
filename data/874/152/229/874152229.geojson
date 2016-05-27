@@ -1,0 +1,58 @@
+{
+  "id": 874152229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.384175,42.759709,-105.384175,42.759709",
+    "geom:latitude":42.759709,
+    "geom:longitude":-105.384175,
+    "iso:country":"US",
+    "sg:address":"126 N 3rd St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 1166",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59002AENG27tjnmlBljsf3_42.759709_-105.384175@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312349,
+    "wof:geomhash":"122e57e7ff3a6fcf55c299eb7e35ef93",
+    "wof:hierarchy":[],
+    "wof:id":874152229,
+    "wof:lastmodified":1464312349,
+    "wof:name":"Douglas Mini Mall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -105.384175,
+    42.759709,
+    -105.384175,
+    42.759709
+],
+  "geometry": {"coordinates":[-105.384175,42.759709],"type":"Point"}
+}

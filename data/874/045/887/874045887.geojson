@@ -1,0 +1,82 @@
+{
+  "id": 874045887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.5937,41.311006,-105.5937,41.311006",
+    "geom:latitude":41.311006,
+    "geom:longitude":-105.5937,
+    "iso:country":"US",
+    "sg:address":"304 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3301",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "management",
+        "dwelling",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oicP6mIWeZ3oaqn7FZlmN_41.311006_-105.593700@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311205,
+    "wof:geomhash":"30f542490ed4b29684d539094879779b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874045887
+        }
+    ],
+    "wof:id":874045887,
+    "wof:lastmodified":1464311205,
+    "wof:name":"Devereaux Properties",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "management",
+        "dwelling",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -105.5937,
+    41.311006,
+    -105.5937,
+    41.311006
+],
+  "geometry": {"coordinates":[-105.5937,41.311006],"type":"Point"}
+}

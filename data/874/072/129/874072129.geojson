@@ -1,0 +1,73 @@
+{
+  "id": 874072129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.300806,42.855071,-106.300806,42.855071",
+    "geom:latitude":42.855071,
+    "geom:longitude":-106.300806,
+    "iso:country":"US",
+    "sg:address":"459 N Lowell St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 0750",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HP2cZ3iBpr2a32oDi1oc4_42.855071_-106.300806@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311464,
+    "wof:geomhash":"2450a574e75091cb8ab8d9f4c0dbc309",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874072129
+        }
+    ],
+    "wof:id":874072129,
+    "wof:lastmodified":1464311464,
+    "wof:name":"A A Super Klean",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -106.300806,
+    42.855071,
+    -106.300806,
+    42.855071
+],
+  "geometry": {"coordinates":[-106.30080599999999,42.855071],"type":"Point"}
+}

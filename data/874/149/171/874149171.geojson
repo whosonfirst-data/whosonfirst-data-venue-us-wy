@@ -1,0 +1,64 @@
+{
+  "id": 874149171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.30298,42.824892,-106.30298,42.824892",
+    "geom:latitude":42.824892,
+    "geom:longitude":-106.30298,
+    "iso:country":"US",
+    "sg:address":"1712 E 24th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 9099",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ywF4lpfUT1ZPDS1ffhS3U_42.824892_-106.302980@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312321,
+    "wof:geomhash":"9689cc7576236073626fb89108372547",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874149171
+        }
+    ],
+    "wof:id":874149171,
+    "wof:lastmodified":1464312321,
+    "wof:name":"Sonic Media Development",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.30298,
+    42.824892,
+    -106.30298,
+    42.824892
+],
+  "geometry": {"coordinates":[-106.30298000000001,42.824892],"type":"Point"}
+}

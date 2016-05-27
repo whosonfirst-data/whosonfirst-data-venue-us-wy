@@ -1,0 +1,67 @@
+{
+  "id": 874219835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.482165,44.247248,-105.482165,44.247248",
+    "geom:latitude":44.247248,
+    "geom:longitude":-105.482165,
+    "iso:country":"US",
+    "sg:address":"5002 Rourke Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 685 6442",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "l",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07kx9LaRA1b9NbVW8J0ukM_44.247248_-105.482165@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313057,
+    "wof:geomhash":"836dcfb039e411748b41cfacf28a9712",
+    "wof:hierarchy":[],
+    "wof:id":874219835,
+    "wof:lastmodified":1464313057,
+    "wof:name":"Employment Testing Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "l",
+        "drug"
+    ]
+},
+  "bbox": [
+    -105.482165,
+    44.247248,
+    -105.482165,
+    44.247248
+],
+  "geometry": {"coordinates":[-105.48216499999999,44.247248],"type":"Point"}
+}

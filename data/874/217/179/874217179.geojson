@@ -1,0 +1,58 @@
+{
+  "id": 874217179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.229189,41.600618,-109.229189,41.600618",
+    "geom:latitude":41.600618,
+    "geom:longitude":-109.229189,
+    "iso:country":"US",
+    "sg:address":"1318 Elk St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 2929",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jKKtD4yMHBW9KFUE7WF11_41.600618_-109.229189@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313024,
+    "wof:geomhash":"f7ae856894c79efca51796bd369ef129",
+    "wof:hierarchy":[],
+    "wof:id":874217179,
+    "wof:lastmodified":1464313024,
+    "wof:name":"WYOMING Waste Systems",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -109.229189,
+    41.600618,
+    -109.229189,
+    41.600618
+],
+  "geometry": {"coordinates":[-109.22918900000001,41.600618],"type":"Point"}
+}

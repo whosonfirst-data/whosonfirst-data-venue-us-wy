@@ -1,0 +1,60 @@
+{
+  "id": 874192429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.73009,41.156275,-104.73009,41.156275",
+    "geom:latitude":41.156275,
+    "geom:longitude":-104.73009,
+    "iso:country":"US",
+    "sg:address":"6526 US Hwy 30",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 8955",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZGQ9YiOuBVPIib9d2SQbV_41.156275_-104.730090@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312763,
+    "wof:geomhash":"80a8fd77d9197ccd4a156920580ba45c",
+    "wof:hierarchy":[],
+    "wof:id":874192429,
+    "wof:lastmodified":1464312763,
+    "wof:name":"Big Al's Auto & Exhaust",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -104.73009,
+    41.156275,
+    -104.73009,
+    41.156275
+],
+  "geometry": {"coordinates":[-104.73009,41.156275],"type":"Point"}
+}

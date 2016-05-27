@@ -1,0 +1,64 @@
+{
+  "id": 874204477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33006,42.844111,-106.33006,42.844111",
+    "geom:latitude":42.844111,
+    "geom:longitude":-106.33006,
+    "iso:country":"US",
+    "sg:address":"350 W Collins Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5318",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OHVE9RgrYKCDg7Xzl1nFm_42.844111_-106.330060@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312888,
+    "wof:geomhash":"08bb9df40e1eff16ecbf90155954fc69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874204477
+        }
+    ],
+    "wof:id":874204477,
+    "wof:lastmodified":1464312888,
+    "wof:name":"Trains N Things",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.33006,
+    42.844111,
+    -106.33006,
+    42.844111
+],
+  "geometry": {"coordinates":[-106.33006,42.844111],"type":"Point"}
+}

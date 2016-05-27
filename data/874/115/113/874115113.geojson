@@ -1,0 +1,78 @@
+{
+  "id": 874115113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594766,41.313275,-105.594766,41.313275",
+    "geom:latitude":41.313275,
+    "geom:longitude":-105.594766,
+    "iso:country":"US",
+    "sg:address":"170 N 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4665",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "piece",
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dhAyM314c9oVDKxOKyh5a_41.313275_-105.594766@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311988,
+    "wof:geomhash":"13ecd00bff5730105e16a2affcb539d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874115113
+        }
+    ],
+    "wof:id":874115113,
+    "wof:lastmodified":1464311988,
+    "wof:name":"Van's Wholesale",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piece",
+        "janitor"
+    ]
+},
+  "bbox": [
+    -105.594766,
+    41.313275,
+    -105.594766,
+    41.313275
+],
+  "geometry": {"coordinates":[-105.59476600000001,41.313275],"type":"Point"}
+}

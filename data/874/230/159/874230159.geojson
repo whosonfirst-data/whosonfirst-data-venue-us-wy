@@ -1,0 +1,76 @@
+{
+  "id": 874230159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.249565,41.57917,-109.249565,41.57917",
+    "geom:latitude":41.57917,
+    "geom:longitude":-109.249565,
+    "iso:country":"US",
+    "sg:address":"201 Gateway Blvd",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/rock-springs-north/135378-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 3577",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xyzWr0wBUQ1N58zxoKbdb_41.579170_-109.249565@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313161,
+    "wof:geomhash":"b8c6a5d3fc8a30862ef7d30daa65a246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874230159
+        }
+    ],
+    "wof:id":874230159,
+    "wof:lastmodified":1464313161,
+    "wof:name":"Subway",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -109.249565,
+    41.57917,
+    -109.249565,
+    41.57917
+],
+  "geometry": {"coordinates":[-109.249565,41.57917],"type":"Point"}
+}

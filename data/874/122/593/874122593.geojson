@@ -1,0 +1,56 @@
+{
+  "id": 874122593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.737221,42.834416,-108.737221,42.834416",
+    "geom:latitude":42.834416,
+    "geom:longitude":-108.737221,
+    "iso:country":"US",
+    "sg:address":"637 Main St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 3900",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iu2pbQKYRmlQiGaN4UVku_42.834416_-108.737221@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312064,
+    "wof:geomhash":"f87430d133a707ecc4bc9ca2253e50a3",
+    "wof:hierarchy":[],
+    "wof:id":874122593,
+    "wof:lastmodified":1464312064,
+    "wof:name":"Tonys Pizza Shack",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -108.737221,
+    42.834416,
+    -108.737221,
+    42.834416
+],
+  "geometry": {"coordinates":[-108.73722100000001,42.834416],"type":"Point"}
+}

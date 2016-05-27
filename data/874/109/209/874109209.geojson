@@ -1,0 +1,62 @@
+{
+  "id": 874109209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.797354,41.139333,-104.797354,41.139333",
+    "geom:latitude":41.139333,
+    "geom:longitude":-104.797354,
+    "iso:country":"US",
+    "sg:address":"1505 E 16th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 8456",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "steel",
+        "product",
+        "foundry",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qaJGLffqkhLAqh5sOlVZc_41.139333_-104.797354@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311905,
+    "wof:geomhash":"832cc272bd84c0f074bb44e840c38f52",
+    "wof:hierarchy":[],
+    "wof:id":874109209,
+    "wof:lastmodified":1464311905,
+    "wof:name":"Steel Books Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "product",
+        "foundry",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -104.797354,
+    41.139333,
+    -104.797354,
+    41.139333
+],
+  "geometry": {"coordinates":[-104.797354,41.139333],"type":"Point"}
+}

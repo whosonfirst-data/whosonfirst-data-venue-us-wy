@@ -1,0 +1,58 @@
+{
+  "id": 874214787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955879,44.791258,-106.955879,44.791258",
+    "geom:latitude":44.791258,
+    "geom:longitude":-106.955879,
+    "iso:country":"US",
+    "sg:address":"647 S Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 6116",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mzXK48tETGONKxTxAgixo_44.791258_-106.955879@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313002,
+    "wof:geomhash":"5e25fe5f3c9dc1fc760290ffab6fb98e",
+    "wof:hierarchy":[],
+    "wof:id":874214787,
+    "wof:lastmodified":1464313002,
+    "wof:name":"King Locksmith & Electronics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -106.955879,
+    44.791258,
+    -106.955879,
+    44.791258
+],
+  "geometry": {"coordinates":[-106.955879,44.791258],"type":"Point"}
+}

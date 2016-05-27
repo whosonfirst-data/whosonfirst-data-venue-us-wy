@@ -1,0 +1,64 @@
+{
+  "id": 874043851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.335678,42.861035,-106.335678,42.861035",
+    "geom:latitude":42.861035,
+    "geom:longitude":-106.335678,
+    "iso:country":"US",
+    "sg:address":"951 Werner Ct",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 1670",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LXHhqaWW18ZX7sI4RfTMx_42.861035_-106.335678@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311183,
+    "wof:geomhash":"cb220464853b8db10665aa49d0e36d97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874043851
+        }
+    ],
+    "wof:id":874043851,
+    "wof:lastmodified":1464311183,
+    "wof:name":"Casper Board Of Realtors",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.335678,
+    42.861035,
+    -106.335678,
+    42.861035
+],
+  "geometry": {"coordinates":[-106.335678,42.861035],"type":"Point"}
+}

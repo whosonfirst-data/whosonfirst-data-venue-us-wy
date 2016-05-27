@@ -1,0 +1,68 @@
+{
+  "id": 874078045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.824849,41.13248,-104.824849,41.13248",
+    "geom:latitude":41.13248,
+    "geom:longitude":-104.824849,
+    "iso:country":"US",
+    "sg:address":"801 W 19th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 0105",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "farm",
+        "sport",
+        "trailer",
+        "utility"
+    ],
+    "sg:website":"www.wyotrailers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ShBF0SLTTS5bRbtGvCzhC_41.132480_-104.824849@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311529,
+    "wof:geomhash":"b2a16f8c11cf0a6dc2e6341b18dd308d",
+    "wof:hierarchy":[],
+    "wof:id":874078045,
+    "wof:lastmodified":1464311529,
+    "wof:name":"Steel Creek Trailer Sales Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "sport",
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -104.824849,
+    41.13248,
+    -104.824849,
+    41.13248
+],
+  "geometry": {"coordinates":[-104.824849,41.13248],"type":"Point"}
+}

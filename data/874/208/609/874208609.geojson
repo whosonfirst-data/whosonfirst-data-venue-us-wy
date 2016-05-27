@@ -1,0 +1,58 @@
+{
+  "id": 874208609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.389387,42.742657,-105.389387,42.742657",
+    "geom:latitude":42.742657,
+    "geom:longitude":-105.389387,
+    "iso:country":"US",
+    "sg:address":"1212 Smylie Rd",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 3111",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pumping",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W71PeJrchKPeO9npmgmiN_42.742657_-105.389387@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312935,
+    "wof:geomhash":"3af4949f8002b69553470598544be7e3",
+    "wof:hierarchy":[],
+    "wof:id":874208609,
+    "wof:lastmodified":1464312935,
+    "wof:name":"Don's Pumping Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pumping",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.389387,
+    42.742657,
+    -105.389387,
+    42.742657
+],
+  "geometry": {"coordinates":[-105.389387,42.742657],"type":"Point"}
+}

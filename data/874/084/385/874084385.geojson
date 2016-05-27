@@ -1,0 +1,71 @@
+{
+  "id": 874084385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.345169,42.831153,-106.345169,42.831153",
+    "geom:latitude":42.831153,
+    "geom:longitude":-106.345169,
+    "iso:country":"US",
+    "sg:address":"2300 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0667",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T60vOE8J8A2Ic4gBSGmAh_42.831153_-106.345169@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311602,
+    "wof:geomhash":"4409bb4b82f71bb121051f9286d8dd49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874084385
+        }
+    ],
+    "wof:id":874084385,
+    "wof:lastmodified":1464311602,
+    "wof:name":"Money Lenders",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -106.345169,
+    42.831153,
+    -106.345169,
+    42.831153
+],
+  "geometry": {"coordinates":[-106.345169,42.831153],"type":"Point"}
+}

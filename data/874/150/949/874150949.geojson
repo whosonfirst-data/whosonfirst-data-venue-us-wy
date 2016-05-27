@@ -1,0 +1,56 @@
+{
+  "id": 874150949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.261045,44.874327,-107.261045,44.874327",
+    "geom:latitude":44.874327,
+    "geom:longitude":-107.261045,
+    "iso:country":"US",
+    "sg:address":"608 Broadway Ave",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 655 2217",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79lNgFigDNNsyGtsmO144e_44.874327_-107.261045@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312337,
+    "wof:geomhash":"25a99827ab17550ce0ab21518bebda9a",
+    "wof:hierarchy":[],
+    "wof:id":874150949,
+    "wof:lastmodified":1464312337,
+    "wof:name":"Town Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -107.261045,
+    44.874327,
+    -107.261045,
+    44.874327
+],
+  "geometry": {"coordinates":[-107.261045,44.874327],"type":"Point"}
+}

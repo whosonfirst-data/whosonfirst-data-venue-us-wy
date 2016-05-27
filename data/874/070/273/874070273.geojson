@@ -1,0 +1,63 @@
+{
+  "id": 874070273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.205816,43.673297,-108.205816,43.673297",
+    "geom:latitude":43.673297,
+    "geom:longitude":-108.205816,
+    "iso:country":"US",
+    "sg:address":"210 US Hwy 20 N",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Ferry",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 9343",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "river",
+        "trip"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GFHEAQde54Iv4eDjHiIhO_43.673297_-108.205816@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311434,
+    "wof:geomhash":"721568c63a53c0ec89257f2e10e271e4",
+    "wof:hierarchy":[],
+    "wof:id":874070273,
+    "wof:lastmodified":1464311434,
+    "wof:name":"Wind River Canyon White Water",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "river",
+        "trip"
+    ]
+},
+  "bbox": [
+    -108.205816,
+    43.673297,
+    -108.205816,
+    43.673297
+],
+  "geometry": {"coordinates":[-108.205816,43.673297],"type":"Point"}
+}

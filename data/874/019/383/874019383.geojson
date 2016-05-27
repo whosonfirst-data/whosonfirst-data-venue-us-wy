@@ -1,0 +1,51 @@
+{
+  "id": 874019383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.697797,44.344711,-106.697797,44.344711",
+    "geom:latitude":44.344711,
+    "geom:longitude":-106.697797,
+    "iso:country":"US",
+    "sg:address":"193 S Main St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 000 1111",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PHkB8aslOnBI9EIQvA3r5_44.344711_-106.697797@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310941,
+    "wof:geomhash":"220fc06d7792d31d81ad2d29a3e75b14",
+    "wof:hierarchy":[],
+    "wof:id":874019383,
+    "wof:lastmodified":1464310941,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.697797,
+    44.344711,
+    -106.697797,
+    44.344711
+],
+  "geometry": {"coordinates":[-106.69779699999999,44.344711],"type":"Point"}
+}

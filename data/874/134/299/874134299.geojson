@@ -1,0 +1,69 @@
+{
+  "id": 874134299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.326626,42.846865,-106.326626,42.846865",
+    "geom:latitude":42.846865,
+    "geom:longitude":-106.326626,
+    "iso:country":"US",
+    "sg:address":"302 S David St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 1200",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lJPydn2F3mlcAnpVT4NA8_42.846865_-106.326626@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312184,
+    "wof:geomhash":"224fb96c2c42c5b1254f68f879212bf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874134299
+        }
+    ],
+    "wof:id":874134299,
+    "wof:lastmodified":1464312184,
+    "wof:name":"Killmer & Assoc PC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -106.326626,
+    42.846865,
+    -106.326626,
+    42.846865
+],
+  "geometry": {"coordinates":[-106.326626,42.846865],"type":"Point"}
+}

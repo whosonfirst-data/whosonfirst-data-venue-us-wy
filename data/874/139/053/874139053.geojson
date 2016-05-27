@@ -1,0 +1,58 @@
+{
+  "id": 874139053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.21645,41.596067,-109.21645,41.596067",
+    "geom:latitude":41.596067,
+    "geom:longitude":-109.21645,
+    "iso:country":"US",
+    "sg:address":"715 Randolph St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 5501",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NaHMZsyNRJXVN8NXY2Vol_41.596067_-109.216450@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312227,
+    "wof:geomhash":"5c19eb41b47df6d7ec7cb1128e405218",
+    "wof:hierarchy":[],
+    "wof:id":874139053,
+    "wof:lastmodified":1464312227,
+    "wof:name":"Dover Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -109.21645,
+    41.596067,
+    -109.21645,
+    41.596067
+],
+  "geometry": {"coordinates":[-109.21644999999999,41.596067],"type":"Point"}
+}

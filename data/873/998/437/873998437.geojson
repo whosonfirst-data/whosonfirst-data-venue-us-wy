@@ -1,0 +1,73 @@
+{
+  "id": 873998437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.38635,42.831889,-106.38635,42.831889",
+    "geom:latitude":42.831889,
+    "geom:longitude":-106.38635,
+    "iso:country":"US",
+    "sg:address":"4600 Sam Howell Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7322",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e30q3kLI2GaOlqXbCwysz_42.831889_-106.386350@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310750,
+    "wof:geomhash":"b7c60645de14e9c14ee6c660a1318e4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873998437
+        }
+    ],
+    "wof:id":873998437,
+    "wof:lastmodified":1464310750,
+    "wof:name":"Dean Lorimer Piano Tuning Svc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -106.38635,
+    42.831889,
+    -106.38635,
+    42.831889
+],
+  "geometry": {"coordinates":[-106.38634999999999,42.831889],"type":"Point"}
+}

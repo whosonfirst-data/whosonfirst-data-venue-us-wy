@@ -1,0 +1,58 @@
+{
+  "id": 874107077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.211319,43.647351,-108.211319,43.647351",
+    "geom:latitude":43.647351,
+    "geom:longitude":-108.211319,
+    "iso:country":"US",
+    "sg:address":"540 Arapahoe St",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 4636",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19nVbzjGDVM0wnmX40W7xU_43.647351_-108.211319@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311883,
+    "wof:geomhash":"8480839b7d971aedc16fbfee0c1c7e9d",
+    "wof:hierarchy":[],
+    "wof:id":874107077,
+    "wof:lastmodified":1464311883,
+    "wof:name":"Glen's Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.211319,
+    43.647351,
+    -108.211319,
+    43.647351
+],
+  "geometry": {"coordinates":[-108.211319,43.647351],"type":"Point"}
+}

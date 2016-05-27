@@ -1,0 +1,70 @@
+{
+  "id": 874207835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.407453,42.864821,-106.407453,42.864821",
+    "geom:latitude":42.864821,
+    "geom:longitude":-106.407453,
+    "iso:country":"US",
+    "sg:address":"5750 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3751",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.kindermorgan.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NP8U00nh1fkham0VIiNVI_42.864821_-106.407453@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312927,
+    "wof:geomhash":"80b24d35081e7bfb6c85e5f3a91eb87d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874207835
+        }
+    ],
+    "wof:id":874207835,
+    "wof:lastmodified":1464312927,
+    "wof:name":"Kinder Morgan Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -106.407453,
+    42.864821,
+    -106.407453,
+    42.864821
+],
+  "geometry": {"coordinates":[-106.407453,42.864821],"type":"Point"}
+}

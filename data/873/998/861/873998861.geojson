@@ -1,0 +1,65 @@
+{
+  "id": 873998861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.75758,44.749379,-108.75758,44.749379",
+    "geom:latitude":44.749379,
+    "geom:longitude":-108.75758,
+    "iso:country":"US",
+    "sg:address":"401 S Bent St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 9160",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "communication",
+        "company",
+        "radiotelephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gw69KRGgDVepGgVXl0aSj_44.749379_-108.757580@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310753,
+    "wof:geomhash":"20be49f0455541bd281b954bb274cc71",
+    "wof:hierarchy":[],
+    "wof:id":873998861,
+    "wof:lastmodified":1464310753,
+    "wof:name":"Tri Tel Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "company",
+        "radiotelephone"
+    ]
+},
+  "bbox": [
+    -108.75758,
+    44.749379,
+    -108.75758,
+    44.749379
+],
+  "geometry": {"coordinates":[-108.75758,44.749379],"type":"Point"}
+}

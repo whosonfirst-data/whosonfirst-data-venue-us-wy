@@ -1,0 +1,66 @@
+{
+  "id": 874111047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.624795,41.307337,-105.624795,41.307337",
+    "geom:latitude":41.307337,
+    "geom:longitude":-105.624795,
+    "iso:country":"US",
+    "sg:address":"540 S Colorado Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4337",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tTI9jOWRMLIeO7uyjqgs9_41.307337_-105.624795@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311941,
+    "wof:geomhash":"343d826e447cc46a2d2281928973f9d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874111047
+        }
+    ],
+    "wof:id":874111047,
+    "wof:lastmodified":1464311941,
+    "wof:name":"Summit Home Health Care P C",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.624795,
+    41.307337,
+    -105.624795,
+    41.307337
+],
+  "geometry": {"coordinates":[-105.62479500000001,41.307337],"type":"Point"}
+}

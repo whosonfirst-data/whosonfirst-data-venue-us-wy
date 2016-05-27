@@ -1,0 +1,51 @@
+{
+  "id": 874050791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.055313,44.495514,-108.055313,44.495514",
+    "geom:latitude":44.495514,
+    "geom:longitude":-108.055313,
+    "iso:country":"US",
+    "sg:address":"600 N 6th St",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 2537",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15tLyBuoWKvRXvuqXS2xyZ_44.495514_-108.055313@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311248,
+    "wof:geomhash":"340086b36138aa6dfc7375bdc45808c5",
+    "wof:hierarchy":[],
+    "wof:id":874050791,
+    "wof:lastmodified":1464311248,
+    "wof:name":"Greybull High School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.055313,
+    44.495514,
+    -108.055313,
+    44.495514
+],
+  "geometry": {"coordinates":[-108.055313,44.495514],"type":"Point"}
+}

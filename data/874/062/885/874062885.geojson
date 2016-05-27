@@ -1,0 +1,69 @@
+{
+  "id": 874062885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.331418,42.845058,-106.331418,42.845058",
+    "geom:latitude":42.845058,
+    "geom:longitude":-106.331418,
+    "iso:country":"US",
+    "sg:address":"535 W Midwest Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3514",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56wAgYYkTQt3SwOA9yCNnY_42.845058_-106.331418@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311361,
+    "wof:geomhash":"47ba9cd3e084112f930a11ba6a51a76c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874062885
+        }
+    ],
+    "wof:id":874062885,
+    "wof:lastmodified":1464311361,
+    "wof:name":"RTS Distributing",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution"
+    ]
+},
+  "bbox": [
+    -106.331418,
+    42.845058,
+    -106.331418,
+    42.845058
+],
+  "geometry": {"coordinates":[-106.331418,42.845058],"type":"Point"}
+}

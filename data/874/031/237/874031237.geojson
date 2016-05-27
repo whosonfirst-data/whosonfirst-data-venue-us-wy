@@ -1,0 +1,71 @@
+{
+  "id": 874031237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594544,41.311966,-105.594544,41.311966",
+    "geom:latitude":41.311966,
+    "geom:longitude":-105.594544,
+    "iso:country":"US",
+    "sg:address":"220 E Ivinson Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 8636",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TtFjAwriJ4sunIsySSxO1_41.311966_-105.594544@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311059,
+    "wof:geomhash":"0186e1ca8188bf2f599da9e12e236c8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874031237
+        }
+    ],
+    "wof:id":874031237,
+    "wof:lastmodified":1464311059,
+    "wof:name":"Laramie Private Investigation",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigator"
+    ]
+},
+  "bbox": [
+    -105.594544,
+    41.311966,
+    -105.594544,
+    41.311966
+],
+  "geometry": {"coordinates":[-105.594544,41.311966],"type":"Point"}
+}

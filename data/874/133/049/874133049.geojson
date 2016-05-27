@@ -1,0 +1,71 @@
+{
+  "id": 874133049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.310889,42.829573,-106.310889,42.829573",
+    "geom:latitude":42.829573,
+    "geom:longitude":-106.310889,
+    "iso:country":"US",
+    "sg:address":"1925 S Jackson St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 4144",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "correction",
+        "radon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0T0uWVirZN5ddMSGhhoxbC_42.829573_-106.310889@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312173,
+    "wof:geomhash":"817819f041e18a30c706eafe6541b0b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874133049
+        }
+    ],
+    "wof:id":874133049,
+    "wof:lastmodified":1464312173,
+    "wof:name":"Full House Radon Svc Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correction",
+        "radon"
+    ]
+},
+  "bbox": [
+    -106.310889,
+    42.829573,
+    -106.310889,
+    42.829573
+],
+  "geometry": {"coordinates":[-106.310889,42.829573],"type":"Point"}
+}

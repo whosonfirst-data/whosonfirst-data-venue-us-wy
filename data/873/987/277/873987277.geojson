@@ -1,0 +1,56 @@
+{
+  "id": 873987277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.936715,44.017167,-107.936715,44.017167",
+    "geom:latitude":44.017167,
+    "geom:longitude":-107.936715,
+    "iso:country":"US",
+    "sg:address":"2409 Big Horn Ave",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 4646",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74Q0RNB2URMaAYJBI39hNM_44.017167_-107.936715@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310670,
+    "wof:geomhash":"a4890421c6f9d6ab99ab7e67d082debe",
+    "wof:hierarchy":[],
+    "wof:id":873987277,
+    "wof:lastmodified":1464310670,
+    "wof:name":"Tokar Transport",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -107.936715,
+    44.017167,
+    -107.936715,
+    44.017167
+],
+  "geometry": {"coordinates":[-107.93671500000001,44.017167],"type":"Point"}
+}

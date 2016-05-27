@@ -1,0 +1,69 @@
+{
+  "id": 874099993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.345119,42.824543,-106.345119,42.824543",
+    "geom:latitude":42.824543,
+    "geom:longitude":-106.345119,
+    "iso:country":"US",
+    "sg:address":"2620 Saratoga Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 8631",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5apFIclplqLFPFMW8fLzoE_42.824543_-106.345119@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311792,
+    "wof:geomhash":"b120a5e9148158248ee4822ceb02f61d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874099993
+        }
+    ],
+    "wof:id":874099993,
+    "wof:lastmodified":1464311792,
+    "wof:name":"Rodriguez Janitorial",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -106.345119,
+    42.824543,
+    -106.345119,
+    42.824543
+],
+  "geometry": {"coordinates":[-106.345119,42.824543],"type":"Point"}
+}

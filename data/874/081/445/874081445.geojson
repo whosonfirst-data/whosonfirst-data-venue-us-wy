@@ -1,0 +1,56 @@
+{
+  "id": 874081445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.843727,41.29981,-104.843727,41.29981",
+    "geom:latitude":41.29981,
+    "geom:longitude":-104.843727,
+    "iso:country":"US",
+    "sg:address":"2305 Coulter Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 9188",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XGr1EpXBwqocc9sbDztdl_41.299810_-104.843727@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311568,
+    "wof:geomhash":"c15c6a10c905b739195d58c0965e4257",
+    "wof:hierarchy":[],
+    "wof:id":874081445,
+    "wof:lastmodified":1464311568,
+    "wof:name":"Eva Martin MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -104.843727,
+    41.29981,
+    -104.843727,
+    41.29981
+],
+  "geometry": {"coordinates":[-104.843727,41.29981],"type":"Point"}
+}

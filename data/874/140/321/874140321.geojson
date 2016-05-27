@@ -1,0 +1,69 @@
+{
+  "id": 874140321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.270855,42.857559,-106.270855,42.857559",
+    "geom:latitude":42.857559,
+    "geom:longitude":-106.270855,
+    "iso:country":"US",
+    "sg:address":"12 Curtis St",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 4182",
+    "sg:postcode":"82636",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PK1qONATIwd0RoIy1pQ5X_42.857559_-106.270855@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312237,
+    "wof:geomhash":"37d4f1e4caeaf892ad2665fa47de37c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874140321
+        }
+    ],
+    "wof:id":874140321,
+    "wof:lastmodified":1464312237,
+    "wof:name":"A Child Caring Center",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -106.270855,
+    42.857559,
+    -106.270855,
+    42.857559
+],
+  "geometry": {"coordinates":[-106.270855,42.857559],"type":"Point"}
+}

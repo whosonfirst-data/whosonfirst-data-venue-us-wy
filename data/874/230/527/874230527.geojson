@@ -1,0 +1,57 @@
+{
+  "id": 874230527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.806085,41.121284,-104.806085,41.121284",
+    "geom:latitude":41.121284,
+    "geom:longitude":-104.806085,
+    "iso:country":"US",
+    "sg:address":"205 N Greeley Hwy",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/166977-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 8277",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JtgJER24PuDWjESOYU6Wx_41.121299_-104.805956@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313170,
+    "wof:geomhash":"ced9d7b5e41bc6f15912da710a2e852e",
+    "wof:hierarchy":[],
+    "wof:id":874230527,
+    "wof:lastmodified":1464313170,
+    "wof:name":"Burger King",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -104.806085,
+    41.121284,
+    -104.806085,
+    41.121284
+],
+  "geometry": {"coordinates":[-104.806085,41.121284],"type":"Point"}
+}

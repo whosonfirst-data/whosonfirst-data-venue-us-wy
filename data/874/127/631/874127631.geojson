@@ -1,0 +1,66 @@
+{
+  "id": 874127631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.564957,41.30144,-105.564957,41.30144",
+    "geom:latitude":41.30144,
+    "geom:longitude":-105.564957,
+    "iso:country":"US",
+    "sg:address":"2223 Hillside Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 8310",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kjOsYYvtvZZdYqXnaaLqK_41.301440_-105.564957@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312108,
+    "wof:geomhash":"d04f1a8e3b611a4aed3bfb9e439a9917",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874127631
+        }
+    ],
+    "wof:id":874127631,
+    "wof:lastmodified":1464312108,
+    "wof:name":"Frank J Rahel Dr",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.564957,
+    41.30144,
+    -105.564957,
+    41.30144
+],
+  "geometry": {"coordinates":[-105.56495700000001,41.30144],"type":"Point"}
+}

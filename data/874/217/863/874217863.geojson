@@ -1,0 +1,71 @@
+{
+  "id": 874217863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.4504,42.862939,-106.4504,42.862939",
+    "geom:latitude":42.862939,
+    "geom:longitude":-106.4504,
+    "iso:country":"US",
+    "sg:address":"8189 W Zero Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 8861",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k64VM8wJ5MqeWvbEdEMza_42.862939_-106.450400@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313030,
+    "wof:geomhash":"619e517cdc127d5e8cd596bdf142bae7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874217863
+        }
+    ],
+    "wof:id":874217863,
+    "wof:lastmodified":1464313030,
+    "wof:name":"Sod's Mobile Home Transporting",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -106.4504,
+    42.862939,
+    -106.4504,
+    42.862939
+],
+  "geometry": {"coordinates":[-106.4504,42.862939],"type":"Point"}
+}

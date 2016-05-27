@@ -1,0 +1,71 @@
+{
+  "id": 874136059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343188,42.8171,-106.343188,42.8171",
+    "geom:latitude":42.8171,
+    "geom:longitude":-106.343188,
+    "iso:country":"US",
+    "sg:address":"3240 S Coffman Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 6382",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rwgi4XfzkkWPPS7PJYHvF_42.817100_-106.343188@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312200,
+    "wof:geomhash":"c1d6b69857d0bab7b22dc9a5c4a71297",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874136059
+        }
+    ],
+    "wof:id":874136059,
+    "wof:lastmodified":1464312200,
+    "wof:name":"Mullinnix Associates Ltd 66",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -106.343188,
+    42.8171,
+    -106.343188,
+    42.8171
+],
+  "geometry": {"coordinates":[-106.343188,42.8171],"type":"Point"}
+}

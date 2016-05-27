@@ -1,0 +1,56 @@
+{
+  "id": 873993613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.359059,43.021722,-108.359059,43.021722",
+    "geom:latitude":43.021722,
+    "geom:longitude":-108.359059,
+    "iso:country":"US",
+    "sg:address":"2500 Academy Ct",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 8190",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UNAlgb1oXTXRgQS6HmWgd_43.021722_-108.359059@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310716,
+    "wof:geomhash":"b73bdb961b19e5388fd3723891e98b2c",
+    "wof:hierarchy":[],
+    "wof:id":873993613,
+    "wof:lastmodified":1464310716,
+    "wof:name":"Wyoming Fire Acdemy Foundation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -108.359059,
+    43.021722,
+    -108.359059,
+    43.021722
+],
+  "geometry": {"coordinates":[-108.359059,43.021722],"type":"Point"}
+}

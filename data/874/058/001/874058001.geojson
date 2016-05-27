@@ -1,0 +1,73 @@
+{
+  "id": 874058001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.348267,42.832787,-106.348267,42.832787",
+    "geom:latitude":42.832787,
+    "geom:longitude":-106.348267,
+    "iso:country":"US",
+    "sg:address":"1725 Bellaire Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7551",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "home",
+        "product",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3smxbcF3OOq4p81lOHZlVi_42.832787_-106.348267@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311317,
+    "wof:geomhash":"b23157e797656914875213c76dad8516",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874058001
+        }
+    ],
+    "wof:id":874058001,
+    "wof:lastmodified":1464311317,
+    "wof:name":"J & M Enterprises",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "product",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -106.348267,
+    42.832787,
+    -106.348267,
+    42.832787
+],
+  "geometry": {"coordinates":[-106.34826700000001,42.832787],"type":"Point"}
+}

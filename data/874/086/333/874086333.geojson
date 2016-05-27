@@ -1,0 +1,56 @@
+{
+  "id": 874086333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.508285,44.2931,-105.508285,44.2931",
+    "geom:latitude":44.2931,
+    "geom:longitude":-105.508285,
+    "iso:country":"US",
+    "sg:address":"207 S Richards Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 685 1111",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mNUrRPda5eXtGuwpdUH6I_44.293100_-105.508285@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311623,
+    "wof:geomhash":"cc829c2a5b85dd9464f36a343047a37a",
+    "wof:hierarchy":[],
+    "wof:id":874086333,
+    "wof:lastmodified":1464311623,
+    "wof:name":"Carol Hungerford DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -105.508285,
+    44.2931,
+    -105.508285,
+    44.2931
+],
+  "geometry": {"coordinates":[-105.508285,44.2931],"type":"Point"}
+}

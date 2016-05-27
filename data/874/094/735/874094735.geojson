@@ -1,0 +1,58 @@
+{
+  "id": 874094735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.748883,44.752722,-108.748883,44.752722",
+    "geom:latitude":44.752722,
+    "geom:longitude":-108.748883,
+    "iso:country":"US",
+    "sg:address":"720 E North St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 9803",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qtQM0bm8LsuT49DYuJk7B_44.752722_-108.748883@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311710,
+    "wof:geomhash":"65160035896ee4f7b4afba7dcf9de1c7",
+    "wof:hierarchy":[],
+    "wof:id":874094735,
+    "wof:lastmodified":1464311710,
+    "wof:name":"Powell City Water Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -108.748883,
+    44.752722,
+    -108.748883,
+    44.752722
+],
+  "geometry": {"coordinates":[-108.74888300000001,44.752722],"type":"Point"}
+}

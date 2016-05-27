@@ -1,0 +1,60 @@
+{
+  "id": 874060363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.969195,41.265964,-110.969195,41.265964",
+    "geom:latitude":41.265964,
+    "geom:longitude":-110.969195,
+    "iso:country":"US",
+    "sg:address":"1048 Summit St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 444 0246",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52ZITquCpF3FsogNJOgtyt_41.265964_-110.969195@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311338,
+    "wof:geomhash":"8e15c490c0d7077a107db98c55657a4e",
+    "wof:hierarchy":[],
+    "wof:id":874060363,
+    "wof:lastmodified":1464311338,
+    "wof:name":"Brothers Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -110.969195,
+    41.265964,
+    -110.969195,
+    41.265964
+],
+  "geometry": {"coordinates":[-110.969195,41.265964],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874230963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.322239,42.84736,-106.322239,42.84736",
+    "geom:latitude":42.84736,
+    "geom:longitude":-106.322239,
+    "iso:country":"US",
+    "sg:address":"325 S Durbin St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/casper/109473-village-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1614",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mzv8RvoXiny4EQ1qgrZ39_42.846922_-106.322281@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313174,
+    "wof:geomhash":"9ced447f95d84a888e8ef9abde219963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874230963
+        }
+    ],
+    "wof:id":874230963,
+    "wof:lastmodified":1464313174,
+    "wof:name":"Village Inn",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -106.322239,
+    42.84736,
+    -106.322239,
+    42.84736
+],
+  "geometry": {"coordinates":[-106.322239,42.84736],"type":"Point"}
+}

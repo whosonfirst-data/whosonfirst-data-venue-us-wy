@@ -1,0 +1,56 @@
+{
+  "id": 874223359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.452301,41.505676,-109.452301,41.505676",
+    "geom:latitude":41.505676,
+    "geom:longitude":-109.452301,
+    "iso:country":"US",
+    "sg:address":"1500 N Riverbend Dr",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 1445",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "bicycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WZEwMz2AlrhhzjhdMB5zY_41.505676_-109.452301@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313097,
+    "wof:geomhash":"393f42f77a3c3942479c0c23db5c02c7",
+    "wof:hierarchy":[],
+    "wof:id":874223359,
+    "wof:lastmodified":1464313097,
+    "wof:name":"Greyhair Bike Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bicycle"
+    ]
+},
+  "bbox": [
+    -109.452301,
+    41.505676,
+    -109.452301,
+    41.505676
+],
+  "geometry": {"coordinates":[-109.45230100000001,41.505676],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874035211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.355977,42.872249,-106.355977,42.872249",
+    "geom:latitude":42.872249,
+    "geom:longitude":-106.355977,
+    "iso:country":"US",
+    "sg:address":"2080 Skyview Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 5950",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hospital",
+        "school",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bDRyH4cL7fxFI5bG27YGj_42.872249_-106.355977@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311096,
+    "wof:geomhash":"8d579424fd65e879de71cc49c4027ea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874035211
+        }
+    ],
+    "wof:id":874035211,
+    "wof:lastmodified":1464311096,
+    "wof:name":"Kloefkrn-Ballard Cnstr Develop",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "school",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.355977,
+    42.872249,
+    -106.355977,
+    42.872249
+],
+  "geometry": {"coordinates":[-106.355977,42.872249],"type":"Point"}
+}

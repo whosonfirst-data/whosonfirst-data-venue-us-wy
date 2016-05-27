@@ -1,0 +1,77 @@
+{
+  "id": 874015401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.30536,42.85147,-106.30536,42.85147",
+    "geom:latitude":42.85147,
+    "geom:longitude":-106.30536,
+    "iso:country":"US",
+    "sg:address":"1450 E A St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1166",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "merchandise",
+        "impaired"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lstRrYW9auYeZCZe5eNtP_42.851470_-106.305360@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310894,
+    "wof:geomhash":"7e0e9c592971d3393e9c684797255643",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874015401
+        }
+    ],
+    "wof:id":874015401,
+    "wof:lastmodified":1464310894,
+    "wof:name":"Alpine Hearing Care",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "merchandise",
+        "impaired"
+    ]
+},
+  "bbox": [
+    -106.30536,
+    42.85147,
+    -106.30536,
+    42.85147
+],
+  "geometry": {"coordinates":[-106.30535999999999,42.85147],"type":"Point"}
+}

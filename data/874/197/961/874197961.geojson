@@ -1,0 +1,51 @@
+{
+  "id": 874197961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.216175,41.798675,-107.216175,41.798675",
+    "geom:latitude":41.798675,
+    "geom:longitude":-107.216175,
+    "iso:country":"US",
+    "sg:address":"1602 E Murray St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 4767",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24yIYMa5wybk2ALBLIwftr_41.798675_-107.216175@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312825,
+    "wof:geomhash":"5182c831ec5e839f59a0bd0fddfc1f99",
+    "wof:hierarchy":[],
+    "wof:id":874197961,
+    "wof:lastmodified":1464312825,
+    "wof:name":"Murray's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.216175,
+    41.798675,
+    -107.216175,
+    41.798675
+],
+  "geometry": {"coordinates":[-107.21617500000001,41.798675],"type":"Point"}
+}

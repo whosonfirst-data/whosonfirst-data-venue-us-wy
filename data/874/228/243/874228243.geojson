@@ -1,0 +1,59 @@
+{
+  "id": 874228243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.810728,41.134445,-104.810728,41.134445",
+    "geom:latitude":41.134445,
+    "geom:longitude":-104.810728,
+    "iso:country":"US",
+    "sg:address":"408 E Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/21687-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 8181",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50oPEg71hlOADN7zTgq5Bz_41.134445_-104.810728@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313143,
+    "wof:geomhash":"abaea73366be946bde677b62723121c1",
+    "wof:hierarchy":[],
+    "wof:id":874228243,
+    "wof:lastmodified":1464313143,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -104.810728,
+    41.134445,
+    -104.810728,
+    41.134445
+],
+  "geometry": {"coordinates":[-104.810728,41.134445],"type":"Point"}
+}

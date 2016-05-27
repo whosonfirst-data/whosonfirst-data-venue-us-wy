@@ -1,0 +1,56 @@
+{
+  "id": 874117605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.76006,41.134622,-104.76006,41.134622",
+    "geom:latitude":41.134622,
+    "geom:longitude":-104.76006,
+    "iso:country":"US",
+    "sg:address":"903 Adams Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 771 2525",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05Djr6BIOL9iweqQWwGPQj_41.134622_-104.760060@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312012,
+    "wof:geomhash":"6f541eb4ac8e2f491df92f717e221107",
+    "wof:hierarchy":[],
+    "wof:id":874117605,
+    "wof:lastmodified":1464312012,
+    "wof:name":"Bain Elementary",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -104.76006,
+    41.134622,
+    -104.76006,
+    41.134622
+],
+  "geometry": {"coordinates":[-104.76006,41.134622],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874136297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.971265,41.288979,-110.971265,41.288979",
+    "geom:latitude":41.288979,
+    "geom:longitude":-110.971265,
+    "iso:country":"US",
+    "sg:address":"1252 State Hwy 89 N",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 9220",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RW09NpwWCvF73phhvIHzh_41.288979_-110.971265@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312202,
+    "wof:geomhash":"5525f7ab6e167c70a51273a8aa8a35a5",
+    "wof:hierarchy":[],
+    "wof:id":874136297,
+    "wof:lastmodified":1464312202,
+    "wof:name":"Marlins Body Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -110.971265,
+    41.288979,
+    -110.971265,
+    41.288979
+],
+  "geometry": {"coordinates":[-110.971265,41.288979],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 874215427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.290269,42.849607,-106.290269,42.849607",
+    "geom:latitude":42.849607,
+    "geom:longitude":-106.290269,
+    "iso:country":"US",
+    "sg:address":"221 S Montana Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 4438",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.countrycharmgifts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PBAtciBggChGqz41bRRYO_42.849607_-106.290269@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313008,
+    "wof:geomhash":"d6a1bb25f9a3ae115d00603f7659c6bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874215427
+        }
+    ],
+    "wof:id":874215427,
+    "wof:lastmodified":1464313008,
+    "wof:name":"Country Charm",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -106.290269,
+    42.849607,
+    -106.290269,
+    42.849607
+],
+  "geometry": {"coordinates":[-106.290269,42.849607],"type":"Point"}
+}

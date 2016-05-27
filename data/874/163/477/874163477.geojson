@@ -1,0 +1,58 @@
+{
+  "id": 874163477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.94887,41.271193,-110.94887,41.271193",
+    "geom:latitude":41.271193,
+    "geom:longitude":-110.94887,
+    "iso:country":"US",
+    "sg:address":"400 I- 80 Bus",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 3538",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69ERmaSzNZv4luvHwLvba4_41.271193_-110.948870@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312464,
+    "wof:geomhash":"23a92e49ed5821989d85b0f2d9ec65cf",
+    "wof:hierarchy":[],
+    "wof:id":874163477,
+    "wof:lastmodified":1464312464,
+    "wof:name":"Port Of Entry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -110.94887,
+    41.271193,
+    -110.94887,
+    41.271193
+],
+  "geometry": {"coordinates":[-110.94887,41.271193],"type":"Point"}
+}

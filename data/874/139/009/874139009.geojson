@@ -1,0 +1,56 @@
+{
+  "id": 874139009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.10156,44.50345,-109.10156,44.50345",
+    "geom:latitude":44.50345,
+    "geom:longitude":-109.10156,
+    "iso:country":"US",
+    "sg:address":"99 Southfork Rd",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 5995",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rPNrlDODNBZepXW7OL3Lg_44.503450_-109.101560@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312226,
+    "wof:geomhash":"5a9df9e00087dc49d67196a42dee819e",
+    "wof:hierarchy":[],
+    "wof:id":874139009,
+    "wof:lastmodified":1464312226,
+    "wof:name":"Yellowstone Baptist",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -109.10156,
+    44.50345,
+    -109.10156,
+    44.50345
+],
+  "geometry": {"coordinates":[-109.10156000000001,44.50345],"type":"Point"}
+}

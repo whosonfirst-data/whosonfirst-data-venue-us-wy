@@ -1,0 +1,58 @@
+{
+  "id": 874105393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.925101,42.724123,-110.925101,42.724123",
+    "geom:latitude":42.724123,
+    "geom:longitude":-110.925101,
+    "iso:country":"US",
+    "sg:address":"448 Madison St",
+    "sg:city":"Afton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 885 7610",
+    "sg:postcode":"83110",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KNTVWoR5cqd8JLx0PnJIj_42.724123_-110.925101@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311862,
+    "wof:geomhash":"84d39db23143053bd33f681d96f4f216",
+    "wof:hierarchy":[],
+    "wof:id":874105393,
+    "wof:lastmodified":1464311862,
+    "wof:name":"Freight TEC Management Group",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -110.925101,
+    42.724123,
+    -110.925101,
+    42.724123
+],
+  "geometry": {"coordinates":[-110.925101,42.724123],"type":"Point"}
+}

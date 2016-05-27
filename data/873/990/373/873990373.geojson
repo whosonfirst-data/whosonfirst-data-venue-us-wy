@@ -1,0 +1,73 @@
+{
+  "id": 873990373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.32733,42.84841,-106.32733,42.84841",
+    "geom:latitude":42.84841,
+    "geom:longitude":-106.32733,
+    "iso:country":"US",
+    "sg:address":"331 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7494",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TQgVXy6mLT2UdGMRgiQ58_42.848410_-106.327330@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310692,
+    "wof:geomhash":"9273d410d3be547b8ab4276bf5b08f33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873990373
+        }
+    ],
+    "wof:id":873990373,
+    "wof:lastmodified":1464310692,
+    "wof:name":"Dog World",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -106.32733,
+    42.84841,
+    -106.32733,
+    42.84841
+],
+  "geometry": {"coordinates":[-106.32733,42.84841],"type":"Point"}
+}

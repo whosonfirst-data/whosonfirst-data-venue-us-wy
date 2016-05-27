@@ -1,0 +1,69 @@
+{
+  "id": 874124773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.3025,42.848769,-106.3025,42.848769",
+    "geom:latitude":42.848769,
+    "geom:longitude":-106.3025,
+    "iso:country":"US",
+    "sg:address":"1650 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 8435",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FPHqcLK585hKc3qb8STgf_42.848769_-106.302500@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312083,
+    "wof:geomhash":"a4f9949aea4150dd3a1d09ff42f389a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874124773
+        }
+    ],
+    "wof:id":874124773,
+    "wof:lastmodified":1464312083,
+    "wof:name":"Bruce N Eddy DDS",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -106.3025,
+    42.848769,
+    -106.3025,
+    42.848769
+],
+  "geometry": {"coordinates":[-106.30249999999999,42.848769],"type":"Point"}
+}

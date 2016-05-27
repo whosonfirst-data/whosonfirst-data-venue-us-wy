@@ -1,0 +1,56 @@
+{
+  "id": 874115453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.749229,42.836661,-108.749229,42.836661",
+    "geom:latitude":42.836661,
+    "geom:longitude":-108.749229,
+    "iso:country":"US",
+    "sg:address":"149 Smith St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 4479",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c16bhTkcLUaPpP7tzQNeW_42.836661_-108.749229@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311991,
+    "wof:geomhash":"8ba806f74b6ce997e0c70ae0505518ac",
+    "wof:hierarchy":[],
+    "wof:id":874115453,
+    "wof:lastmodified":1464311991,
+    "wof:name":"Little River Contracting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.749229,
+    42.836661,
+    -108.749229,
+    42.836661
+],
+  "geometry": {"coordinates":[-108.749229,42.836661],"type":"Point"}
+}

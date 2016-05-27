@@ -1,0 +1,71 @@
+{
+  "id": 874059555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.617921,41.313241,-105.617921,41.313241",
+    "geom:latitude":41.313241,
+    "geom:longitude":-105.617921,
+    "iso:country":"US",
+    "sg:address":"1664 Wyoming Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3914",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q34XyUjdnQCPG1OY7eo1k_41.313241_-105.617921@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311331,
+    "wof:geomhash":"7b239c453a10b6cfae8d504b348e86c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874059555
+        }
+    ],
+    "wof:id":874059555,
+    "wof:lastmodified":1464311331,
+    "wof:name":"M R F Inc",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -105.617921,
+    41.313241,
+    -105.617921,
+    41.313241
+],
+  "geometry": {"coordinates":[-105.617921,41.313241],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874126145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.337104,42.834581,-106.337104,42.834581",
+    "geom:latitude":42.834581,
+    "geom:longitude":-106.337104,
+    "iso:country":"US",
+    "sg:address":"1748 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 1110",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H8vmwhgibFFb56i8snQV3_42.834581_-106.337104@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312095,
+    "wof:geomhash":"07c505b5b63cb6174a67acdf1d1d6f41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874126145
+        }
+    ],
+    "wof:id":874126145,
+    "wof:lastmodified":1464312095,
+    "wof:name":"Hair of Dog",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.337104,
+    42.834581,
+    -106.337104,
+    42.834581
+],
+  "geometry": {"coordinates":[-106.337104,42.834581],"type":"Point"}
+}

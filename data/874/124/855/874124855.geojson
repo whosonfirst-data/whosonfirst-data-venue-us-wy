@@ -1,0 +1,56 @@
+{
+  "id": 874124855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.068168,41.182947,-104.068168,41.182947",
+    "geom:latitude":41.182947,
+    "geom:longitude":-104.068168,
+    "iso:country":"US",
+    "sg:address":"203 Main St",
+    "sg:city":"Pine Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 245 3777",
+    "sg:postcode":"82082",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GnVhoUlUhj8O1IfLVidzc_41.182947_-104.068168@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312084,
+    "wof:geomhash":"acd74b8d5155472bbf75b9bfee0609ec",
+    "wof:hierarchy":[],
+    "wof:id":874124855,
+    "wof:lastmodified":1464312084,
+    "wof:name":"Pine Bluff Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -104.068168,
+    41.182947,
+    -104.068168,
+    41.182947
+],
+  "geometry": {"coordinates":[-104.068168,41.182947],"type":"Point"}
+}

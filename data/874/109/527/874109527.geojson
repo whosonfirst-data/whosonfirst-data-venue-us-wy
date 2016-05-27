@@ -1,0 +1,73 @@
+{
+  "id": 874109527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343199,42.831596,-106.343199,42.831596",
+    "geom:latitude":42.831596,
+    "geom:longitude":-106.343199,
+    "iso:country":"US",
+    "sg:address":"2155 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 1185",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VOzbUo8ZMwB3nonWGvns6_42.831596_-106.343199@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311908,
+    "wof:geomhash":"e08901de70cc9156f5fd725f76af8756",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874109527
+        }
+    ],
+    "wof:id":874109527,
+    "wof:lastmodified":1464311908,
+    "wof:name":"Meineke Car Care Ctr",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -106.343199,
+    42.831596,
+    -106.343199,
+    42.831596
+],
+  "geometry": {"coordinates":[-106.343199,42.831596],"type":"Point"}
+}

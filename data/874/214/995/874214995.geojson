@@ -1,0 +1,69 @@
+{
+  "id": 874214995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.371594,42.806712,-106.371594,42.806712",
+    "geom:latitude":42.806712,
+    "geom:longitude":-106.371594,
+    "iso:country":"US",
+    "sg:address":"3931 W 45th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 1186",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DQ0lLvGMsNEtPZtyqhy0F_42.806712_-106.371594@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313004,
+    "wof:geomhash":"402ee2245ec51b6efd7de9821e88c314",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874214995
+        }
+    ],
+    "wof:id":874214995,
+    "wof:lastmodified":1464313004,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -106.371594,
+    42.806712,
+    -106.371594,
+    42.806712
+],
+  "geometry": {"coordinates":[-106.371594,42.806712],"type":"Point"}
+}

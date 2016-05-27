@@ -1,0 +1,56 @@
+{
+  "id": 874125119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.208657,43.647125,-108.208657,43.647125",
+    "geom:latitude":43.647125,
+    "geom:longitude":-108.208657,
+    "iso:country":"US",
+    "sg:address":"417 Arapahoe St",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 3114",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7al9vKwxtsZmte0QYI46ih_43.647125_-108.208657@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312086,
+    "wof:geomhash":"3c34a9028b95b08ddc693a6dcfaec11f",
+    "wof:hierarchy":[],
+    "wof:id":874125119,
+    "wof:lastmodified":1464312086,
+    "wof:name":"Thermopolis Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -108.208657,
+    43.647125,
+    -108.208657,
+    43.647125
+],
+  "geometry": {"coordinates":[-108.208657,43.647125],"type":"Point"}
+}

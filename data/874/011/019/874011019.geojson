@@ -1,0 +1,71 @@
+{
+  "id": 874011019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.575549,41.328762,-105.575549,41.328762",
+    "geom:latitude":41.328762,
+    "geom:longitude":-105.575549,
+    "iso:country":"US",
+    "sg:address":"2154 N 16th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 5155",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_100FHau5QHh115ZLWJNzQK_41.328762_-105.575549@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310862,
+    "wof:geomhash":"5d4c2712daf50ddce0a90aeecbab19d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874011019
+        }
+    ],
+    "wof:id":874011019,
+    "wof:lastmodified":1464310862,
+    "wof:name":"Wyoming Business Center",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -105.575549,
+    41.328762,
+    -105.575549,
+    41.328762
+],
+  "geometry": {"coordinates":[-105.575549,41.328762],"type":"Point"}
+}

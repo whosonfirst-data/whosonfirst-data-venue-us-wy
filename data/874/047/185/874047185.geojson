@@ -1,0 +1,64 @@
+{
+  "id": 874047185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.28751,42.848744,-106.28751,42.848744",
+    "geom:latitude":42.848744,
+    "geom:longitude":-106.28751,
+    "iso:country":"US",
+    "sg:address":"2955 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 268 4712",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HngzD4jtwUZ25QM7oypbY_42.848744_-106.287510@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311216,
+    "wof:geomhash":"8d864452866d8736cd556e351ada5f15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874047185
+        }
+    ],
+    "wof:id":874047185,
+    "wof:lastmodified":1464311216,
+    "wof:name":"Mothers Against Drunk Driving",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.28751,
+    42.848744,
+    -106.28751,
+    42.848744
+],
+  "geometry": {"coordinates":[-106.28751,42.848744],"type":"Point"}
+}

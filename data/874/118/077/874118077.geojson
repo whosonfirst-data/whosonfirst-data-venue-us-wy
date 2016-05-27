@@ -1,0 +1,58 @@
+{
+  "id": 874118077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.380661,43.036113,-108.380661,43.036113",
+    "geom:latitude":43.036113,
+    "geom:longitude":-108.380661,
+    "iso:country":"US",
+    "sg:address":"1118 N Federal Blvd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 5338",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BFVT5xc0THn6DYWyo60BN_43.036113_-108.380661@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312016,
+    "wof:geomhash":"c0eb080f3a7376c43aaf6574f468c813",
+    "wof:hierarchy":[],
+    "wof:id":874118077,
+    "wof:lastmodified":1464312016,
+    "wof:name":"Extra Care Auto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.380661,
+    43.036113,
+    -108.380661,
+    43.036113
+],
+  "geometry": {"coordinates":[-108.380661,43.036113],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873985191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.280295,42.849018,-106.280295,42.849018",
+    "geom:latitude":42.849018,
+    "geom:longitude":-106.280295,
+    "iso:country":"US",
+    "sg:address":"111 N Forest Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 232 9790",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vHVzA4VGJt2DjBvfXI9ul_42.849018_-106.280295@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310651,
+    "wof:geomhash":"4993fbc72d2413085b1395aa6d4c809b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873985191
+        }
+    ],
+    "wof:id":873985191,
+    "wof:lastmodified":1464310651,
+    "wof:name":"Lighthouse Christian Fellowshp",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -106.280295,
+    42.849018,
+    -106.280295,
+    42.849018
+],
+  "geometry": {"coordinates":[-106.280295,42.849018],"type":"Point"}
+}

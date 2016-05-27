@@ -1,0 +1,69 @@
+{
+  "id": 874221401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.309675,42.849762,-106.309675,42.849762",
+    "geom:latitude":42.849762,
+    "geom:longitude":-106.309675,
+    "iso:country":"US",
+    "sg:address":"136 S Washington St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 4550",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_588z62q7SNaRLJ6ouiSppL_42.849762_-106.309675@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313078,
+    "wof:geomhash":"3e1c586d4fadfc7d7f38b663a13f8a46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874221401
+        }
+    ],
+    "wof:id":874221401,
+    "wof:lastmodified":1464313078,
+    "wof:name":"Casper Psychological Service",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -106.309675,
+    42.849762,
+    -106.309675,
+    42.849762
+],
+  "geometry": {"coordinates":[-106.309675,42.849762],"type":"Point"}
+}

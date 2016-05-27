@@ -1,0 +1,69 @@
+{
+  "id": 874093039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.26286,42.836854,-106.26286,42.836854",
+    "geom:latitude":42.836854,
+    "geom:longitude":-106.26286,
+    "iso:country":"US",
+    "sg:address":"1147 Derby St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 0359",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DK3twHJ7WvEuP342wtVI0_42.836854_-106.262860@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311695,
+    "wof:geomhash":"db8aff88ab3dd0faf60543fc9b240b82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874093039
+        }
+    ],
+    "wof:id":874093039,
+    "wof:lastmodified":1464311695,
+    "wof:name":"Mc Crary & Mc Crary",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -106.26286,
+    42.836854,
+    -106.26286,
+    42.836854
+],
+  "geometry": {"coordinates":[-106.26286,42.836854],"type":"Point"}
+}

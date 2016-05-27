@@ -1,0 +1,71 @@
+{
+  "id": 874115411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.411253,42.808872,-106.411253,42.808872",
+    "geom:latitude":42.808872,
+    "geom:longitude":-106.411253,
+    "iso:country":"US",
+    "sg:address":"6150 State Hwy 220",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 0766",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g7zgLJz5ko1bKo4kQh9cI_42.808872_-106.411253@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311991,
+    "wof:geomhash":"f19253fd5afa931733a97409b1110414",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874115411
+        }
+    ],
+    "wof:id":874115411,
+    "wof:lastmodified":1464311991,
+    "wof:name":"Riverside Ministorage Ctr",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -106.411253,
+    42.808872,
+    -106.411253,
+    42.808872
+],
+  "geometry": {"coordinates":[-106.411253,42.808872],"type":"Point"}
+}

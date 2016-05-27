@@ -1,0 +1,58 @@
+{
+  "id": 874070107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.520804,44.290098,-105.520804,44.290098",
+    "geom:latitude":44.290098,
+    "geom:longitude":-105.520804,
+    "iso:country":"US",
+    "sg:address":"407 S Medical Arts Ct",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 3179",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17MFvtXSakDBKnn9LUJniw_44.290098_-105.520804@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311433,
+    "wof:geomhash":"e255228a49324994772686f382c42c7f",
+    "wof:hierarchy":[],
+    "wof:id":874070107,
+    "wof:lastmodified":1464311433,
+    "wof:name":"Wyoming Cardiopulminary",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -105.520804,
+    44.290098,
+    -105.520804,
+    44.290098
+],
+  "geometry": {"coordinates":[-105.520804,44.290098],"type":"Point"}
+}

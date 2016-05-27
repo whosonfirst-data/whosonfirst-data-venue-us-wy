@@ -1,0 +1,69 @@
+{
+  "id": 874087043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.372898,42.80801,-106.372898,42.80801",
+    "geom:latitude":42.80801,
+    "geom:longitude":-106.372898,
+    "iso:country":"US",
+    "sg:address":"4231 Otter",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 2020",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BF249MsVdAGqaQG2Xqthe_42.808010_-106.372898@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311631,
+    "wof:geomhash":"fdec9ce21c4df04cd6b9bf4cfdc33e04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874087043
+        }
+    ],
+    "wof:id":874087043,
+    "wof:lastmodified":1464311631,
+    "wof:name":"Waylon Geuke Enterprises Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -106.372898,
+    42.80801,
+    -106.372898,
+    42.80801
+],
+  "geometry": {"coordinates":[-106.37289800000001,42.80801],"type":"Point"}
+}

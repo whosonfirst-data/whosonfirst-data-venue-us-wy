@@ -1,0 +1,56 @@
+{
+  "id": 874144897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.53649,41.791149,-110.53649,41.791149",
+    "geom:latitude":41.791149,
+    "geom:longitude":-110.53649,
+    "iso:country":"US",
+    "sg:address":"401 Onyx St",
+    "sg:city":"Kemmerer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 877 3213",
+    "sg:postcode":"83101",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_023ARZooU0BsAdpFISBygR_41.791149_-110.536490@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312279,
+    "wof:geomhash":"fdf8b7a9a8b15b11061244b131536a57",
+    "wof:hierarchy":[],
+    "wof:id":874144897,
+    "wof:lastmodified":1464312279,
+    "wof:name":"Maffei Properties",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -110.53649,
+    41.791149,
+    -110.53649,
+    41.791149
+],
+  "geometry": {"coordinates":[-110.53649,41.791149],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 874115525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.418853,44.837187,-108.418853,44.837187",
+    "geom:latitude":44.837187,
+    "geom:longitude":-108.418853,
+    "iso:country":"US",
+    "sg:address":"1952 US Hwy 310",
+    "sg:city":"Lovell",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 548 2204",
+    "sg:postcode":"82431",
+    "sg:province":"WY",
+    "sg:tags":[
+        "transmission",
+        "pipe",
+        "company",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63vhLek7vMpCq9ff4ayDTI_44.837187_-108.418853@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311992,
+    "wof:geomhash":"8a1773444d060935cd5789079139726b",
+    "wof:hierarchy":[],
+    "wof:id":874115525,
+    "wof:lastmodified":1464311992,
+    "wof:name":"Williston Basin Interstt Pipln",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "pipe",
+        "company",
+        "line"
+    ]
+},
+  "bbox": [
+    -108.418853,
+    44.837187,
+    -108.418853,
+    44.837187
+],
+  "geometry": {"coordinates":[-108.418853,44.837187],"type":"Point"}
+}

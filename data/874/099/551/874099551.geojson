@@ -1,0 +1,51 @@
+{
+  "id": 874099551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.958333,41.265359,-110.958333,41.265359",
+    "geom:latitude":41.265359,
+    "geom:longitude":-110.958333,
+    "iso:country":"US",
+    "sg:address":"120 Beckers Cir",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 9390",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ovyccPNCzUB6zWiLmTiux_41.265359_-110.958333@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311782,
+    "wof:geomhash":"7a2ff174e83063d2c61ec6ad4cea71b2",
+    "wof:hierarchy":[],
+    "wof:id":874099551,
+    "wof:lastmodified":1464311782,
+    "wof:name":"Wal-Mart Supercenter",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.958333,
+    41.265359,
+    -110.958333,
+    41.265359
+],
+  "geometry": {"coordinates":[-110.958333,41.265359],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874087761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.577155,41.316572,-105.577155,41.316572",
+    "geom:latitude":41.316572,
+    "geom:longitude":-105.577155,
+    "iso:country":"US",
+    "sg:address":"564 N 15th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 766 4800",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "loan",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iBMcJXpPDafDZ9csCCQC5_41.316572_-105.577155@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311639,
+    "wof:geomhash":"00577a7c1e75f3e3f4182aaa7afd1f53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874087761
+        }
+    ],
+    "wof:id":874087761,
+    "wof:lastmodified":1464311639,
+    "wof:name":"Uniwyo Federal Credit Union",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "loan",
+        "broker"
+    ]
+},
+  "bbox": [
+    -105.577155,
+    41.316572,
+    -105.577155,
+    41.316572
+],
+  "geometry": {"coordinates":[-105.577155,41.316572],"type":"Point"}
+}

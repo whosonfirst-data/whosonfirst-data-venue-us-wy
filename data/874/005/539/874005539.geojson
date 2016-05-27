@@ -1,0 +1,69 @@
+{
+  "id": 874005539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.335827,42.846183,-106.335827,42.846183",
+    "geom:latitude":42.846183,
+    "geom:longitude":-106.335827,
+    "iso:country":"US",
+    "sg:address":"901 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2088",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YmLzTd0JeBTYXBiMuTuMD_42.846183_-106.335827@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310820,
+    "wof:geomhash":"b291bf294a89f79e0404650db54b720c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874005539
+        }
+    ],
+    "wof:id":874005539,
+    "wof:lastmodified":1464310820,
+    "wof:name":"Sage & Sand Motel",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -106.335827,
+    42.846183,
+    -106.335827,
+    42.846183
+],
+  "geometry": {"coordinates":[-106.33582699999999,42.846183],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874074183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.505278,44.268955,-105.505278,44.268955",
+    "geom:latitude":44.268955,
+    "geom:longitude":-105.505278,
+    "iso:country":"US",
+    "sg:address":"105 W Lakeway Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 7635",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f5d3qdPCtYUJequbUSyd7_44.268955_-105.505278@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311495,
+    "wof:geomhash":"b8bea285f6117015fbe87f17b8221c74",
+    "wof:hierarchy":[],
+    "wof:id":874074183,
+    "wof:lastmodified":1464311495,
+    "wof:name":"Casper Children's Dental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -105.505278,
+    44.268955,
+    -105.505278,
+    44.268955
+],
+  "geometry": {"coordinates":[-105.505278,44.268955],"type":"Point"}
+}

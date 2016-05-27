@@ -1,0 +1,71 @@
+{
+  "id": 874076581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.326464,42.848759,-106.326464,42.848759",
+    "geom:latitude":42.848759,
+    "geom:longitude":-106.326464,
+    "iso:country":"US",
+    "sg:address":"112 W 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 6221",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DDZ6xuCIeW5xFcnBYme16_42.848759_-106.326464@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311516,
+    "wof:geomhash":"6ea306522fad3a9560139f2dfd2cc009",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874076581
+        }
+    ],
+    "wof:id":874076581,
+    "wof:lastmodified":1464311516,
+    "wof:name":"Amstar Mortgage",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -106.326464,
+    42.848759,
+    -106.326464,
+    42.848759
+],
+  "geometry": {"coordinates":[-106.326464,42.848759],"type":"Point"}
+}

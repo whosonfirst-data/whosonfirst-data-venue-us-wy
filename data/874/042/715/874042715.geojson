@@ -1,0 +1,68 @@
+{
+  "id": 874042715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.22078,41.585969,-109.22078,41.585969",
+    "geom:latitude":41.585969,
+    "geom:longitude":-109.22078,
+    "iso:country":"US",
+    "sg:address":"139 C St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 6890",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M9x3vMzolFX0r7e28bKzk_41.585969_-109.220780@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311172,
+    "wof:geomhash":"70dff8bea04da2672db34106cfdfca03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874042715
+        }
+    ],
+    "wof:id":874042715,
+    "wof:lastmodified":1464311172,
+    "wof:name":"Yoshi's",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.22078,
+    41.585969,
+    -109.22078,
+    41.585969
+],
+  "geometry": {"coordinates":[-109.22078,41.585969],"type":"Point"}
+}

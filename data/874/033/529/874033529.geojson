@@ -1,0 +1,71 @@
+{
+  "id": 874033529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.402498,42.854795,-106.402498,42.854795",
+    "geom:latitude":42.854795,
+    "geom:longitude":-106.402498,
+    "iso:country":"US",
+    "sg:address":"5660 Hanly St",
+    "sg:city":"Mills",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 3558",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xyFg9PzI0bWCcJ5shRoKS_42.854795_-106.402498@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311080,
+    "wof:geomhash":"aa0da87d22c811535e78d3a67d570889",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874033529
+        }
+    ],
+    "wof:id":874033529,
+    "wof:lastmodified":1464311080,
+    "wof:name":"Ed's Auto Wrecking",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -106.402498,
+    42.854795,
+    -106.402498,
+    42.854795
+],
+  "geometry": {"coordinates":[-106.40249799999999,42.854795],"type":"Point"}
+}

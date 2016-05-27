@@ -1,0 +1,59 @@
+{
+  "id": 874230055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.247865,41.575166,-109.247865,41.575166",
+    "geom:latitude":41.575166,
+    "geom:longitude":-109.247865,
+    "iso:country":"US",
+    "sg:address":"2028 Dewar Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/rock-springs-north/109477-village-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 1205",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EwYG6BScgArSJQikBuGkF_41.575166_-109.247865@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313160,
+    "wof:geomhash":"88e7265cb5912f53b0d8a2acc7cbc2fe",
+    "wof:hierarchy":[],
+    "wof:id":874230055,
+    "wof:lastmodified":1464313160,
+    "wof:name":"Village Inn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -109.247865,
+    41.575166,
+    -109.247865,
+    41.575166
+],
+  "geometry": {"coordinates":[-109.247865,41.575166],"type":"Point"}
+}

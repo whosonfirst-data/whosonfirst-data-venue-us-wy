@@ -1,0 +1,71 @@
+{
+  "id": 874037027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.45014,42.860422,-106.45014,42.860422",
+    "geom:latitude":42.860422,
+    "geom:longitude":-106.45014,
+    "iso:country":"US",
+    "sg:address":"920 N Lakeview Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 7621",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uJNdv7vEu0upw301HHTEb_42.860422_-106.450140@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311116,
+    "wof:geomhash":"3989130fab597a1a3f9ac69bab04d410",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874037027
+        }
+    ],
+    "wof:id":874037027,
+    "wof:lastmodified":1464311116,
+    "wof:name":"Centech Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.45014,
+    42.860422,
+    -106.45014,
+    42.860422
+],
+  "geometry": {"coordinates":[-106.45014,42.860422],"type":"Point"}
+}

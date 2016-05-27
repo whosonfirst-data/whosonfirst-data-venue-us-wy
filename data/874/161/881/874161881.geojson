@@ -1,0 +1,52 @@
+{
+  "id": 874161881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.51335,44.26001,-105.51335,44.26001",
+    "geom:latitude":44.26001,
+    "geom:longitude":-105.51335,
+    "iso:country":"US",
+    "sg:address":"4001 Saunders Blvd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 687 7733",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:website":"www.ccsd.k12.wy.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zZ4LU7VM8AF4fKtAYynSe_44.260010_-105.513350@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312450,
+    "wof:geomhash":"1864516fc5d44d1744fe99b77d18baa8",
+    "wof:hierarchy":[],
+    "wof:id":874161881,
+    "wof:lastmodified":1464312450,
+    "wof:name":"Campbell Cnty High Schl South",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.51335,
+    44.26001,
+    -105.51335,
+    44.26001
+],
+  "geometry": {"coordinates":[-105.51335,44.26001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874005891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590842,41.31077,-105.590842,41.31077",
+    "geom:latitude":41.31077,
+    "geom:longitude":-105.590842,
+    "iso:country":"US",
+    "sg:address":"512 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4734",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I1VrMN3DViPmC4jcDNSkG_41.310770_-105.590842@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310824,
+    "wof:geomhash":"6db0a1b37961f7378d3cb7f7ee824f10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874005891
+        }
+    ],
+    "wof:id":874005891,
+    "wof:lastmodified":1464310824,
+    "wof:name":"Country Hollow Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -105.590842,
+    41.31077,
+    -105.590842,
+    41.31077
+],
+  "geometry": {"coordinates":[-105.59084199999999,41.31077],"type":"Point"}
+}

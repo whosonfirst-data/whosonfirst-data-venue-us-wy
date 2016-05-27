@@ -1,0 +1,59 @@
+{
+  "id": 874228461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.805664,41.119984,-104.805664,41.119984",
+    "geom:latitude":41.119984,
+    "geom:longitude":-104.805664,
+    "iso:country":"US",
+    "sg:address":"120 N Greeley Hwy",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/135341-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 8199",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Cdwm4E47QTYneId7d0Gdq_41.119984_-104.805664@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313145,
+    "wof:geomhash":"4564cac37393ed1be476682d0e894b3d",
+    "wof:hierarchy":[],
+    "wof:id":874228461,
+    "wof:lastmodified":1464313145,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -104.805664,
+    41.119984,
+    -104.805664,
+    41.119984
+],
+  "geometry": {"coordinates":[-104.80566399999999,41.119984],"type":"Point"}
+}

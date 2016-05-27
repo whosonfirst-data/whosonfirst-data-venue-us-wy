@@ -1,0 +1,56 @@
+{
+  "id": 874030187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.933575,42.724988,-110.933575,42.724988",
+    "geom:latitude":42.724988,
+    "geom:longitude":-110.933575,
+    "iso:country":"US",
+    "sg:address":"416 Washington St",
+    "sg:city":"Afton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 885 8696",
+    "sg:postcode":"83110",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GPoioLR9HwkuU5cJejOsN_42.724988_-110.933575@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311050,
+    "wof:geomhash":"85cdbc7053934e9487fdf1a97696a693",
+    "wof:hierarchy":[],
+    "wof:id":874030187,
+    "wof:lastmodified":1464311050,
+    "wof:name":"Afton City Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -110.933575,
+    42.724988,
+    -110.933575,
+    42.724988
+],
+  "geometry": {"coordinates":[-110.933575,42.724988],"type":"Point"}
+}

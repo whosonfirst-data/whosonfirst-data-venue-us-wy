@@ -1,0 +1,56 @@
+{
+  "id": 874011439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.769751,43.559795,-110.769751,43.559795",
+    "geom:latitude":43.559795,
+    "geom:longitude":-110.769751,
+    "iso:country":"US",
+    "sg:address":"215 Kings Hwy",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 3603",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mlDcbfBNrd2uFswBRPJww_43.559795_-110.769751@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310865,
+    "wof:geomhash":"b02ca39463b92e01d47a0e8d82e3d880",
+    "wof:hierarchy":[],
+    "wof:id":874011439,
+    "wof:lastmodified":1464310865,
+    "wof:name":"US Airway Facilities Sector",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -110.769751,
+    43.559795,
+    -110.769751,
+    43.559795
+],
+  "geometry": {"coordinates":[-110.769751,43.559795],"type":"Point"}
+}

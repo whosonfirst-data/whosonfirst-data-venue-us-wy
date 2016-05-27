@@ -1,0 +1,58 @@
+{
+  "id": 874212773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.80377,41.136002,-104.80377,41.136002",
+    "geom:latitude":41.136002,
+    "geom:longitude":-104.80377,
+    "iso:country":"US",
+    "sg:address":"920 E 15th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 8927",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mhMihtLUUnJOnQ499nXwm_41.136002_-104.803770@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312982,
+    "wof:geomhash":"126d3824dbaa1cf1de226bd27f730eed",
+    "wof:hierarchy":[],
+    "wof:id":874212773,
+    "wof:lastmodified":1464312982,
+    "wof:name":"Simpson Electric Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -104.80377,
+    41.136002,
+    -104.80377,
+    41.136002
+],
+  "geometry": {"coordinates":[-104.80377,41.136002],"type":"Point"}
+}

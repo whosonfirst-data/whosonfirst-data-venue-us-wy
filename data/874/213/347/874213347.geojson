@@ -1,0 +1,56 @@
+{
+  "id": 874213347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.752511,44.747879,-108.752511,44.747879",
+    "geom:latitude":44.747879,
+    "geom:longitude":-108.752511,
+    "iso:country":"US",
+    "sg:address":"551 E Madison St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 4034",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OvDFLuEHnmHLXy4RnT0js_44.747879_-108.752511@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312987,
+    "wof:geomhash":"2c5a649aabc87c48b8ee5bb14259cf29",
+    "wof:hierarchy":[],
+    "wof:id":874213347,
+    "wof:lastmodified":1464312987,
+    "wof:name":"Dependable Appliance Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -108.752511,
+    44.747879,
+    -108.752511,
+    44.747879
+],
+  "geometry": {"coordinates":[-108.752511,44.747879],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874178735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.754249,42.852307,-108.754249,42.852307",
+    "geom:latitude":42.852307,
+    "geom:longitude":-108.754249,
+    "iso:country":"US",
+    "sg:address":"1731 W Main St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 5120",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26eKHLb1FVeCYWn7n41Ypg_42.852307_-108.754249@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312616,
+    "wof:geomhash":"054e14eec459f2b1aafafe5d46113ffc",
+    "wof:hierarchy":[],
+    "wof:id":874178735,
+    "wof:lastmodified":1464312616,
+    "wof:name":"Wyoming Rents",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -108.754249,
+    42.852307,
+    -108.754249,
+    42.852307
+],
+  "geometry": {"coordinates":[-108.754249,42.852307],"type":"Point"}
+}

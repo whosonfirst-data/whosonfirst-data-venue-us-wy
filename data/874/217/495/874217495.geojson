@@ -1,0 +1,56 @@
+{
+  "id": 874217495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.380659,43.033665,-108.380659,43.033665",
+    "geom:latitude":43.033665,
+    "geom:longitude":-108.380659,
+    "iso:country":"US",
+    "sg:address":"816 N Federal Blvd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 7063",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Lj0t2ARtIadNuTq9PSfAk_43.033665_-108.380659@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313027,
+    "wof:geomhash":"c597cf0f86da01316d9d2caecfa13994",
+    "wof:hierarchy":[],
+    "wof:id":874217495,
+    "wof:lastmodified":1464313027,
+    "wof:name":"Riverton Airport Fire Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -108.380659,
+    43.033665,
+    -108.380659,
+    43.033665
+],
+  "geometry": {"coordinates":[-108.38065899999999,43.033665],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874178211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.346926,42.873572,-106.346926,42.873572",
+    "geom:latitude":42.873572,
+    "geom:longitude":-106.346926,
+    "iso:country":"US",
+    "sg:address":"1950 N Loop Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 7653",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "sg:website":"www.cesdiv.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fBXJ5pOaSiN9aRkEBPoyV_42.873572_-106.346926@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312609,
+    "wof:geomhash":"0c2c13c8e84ac5beb080bdaa696d61e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874178211
+        }
+    ],
+    "wof:id":874178211,
+    "wof:lastmodified":1464312609,
+    "wof:name":"Cooper Compression",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.346926,
+    42.873572,
+    -106.346926,
+    42.873572
+],
+  "geometry": {"coordinates":[-106.346926,42.873572],"type":"Point"}
+}

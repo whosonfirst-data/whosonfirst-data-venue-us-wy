@@ -1,0 +1,73 @@
+{
+  "id": 874005395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.584466,41.283338,-105.584466,41.283338",
+    "geom:latitude":41.283338,
+    "geom:longitude":-105.584466,
+    "iso:country":"US",
+    "sg:address":"3525 Soldier Springs Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4888",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iGmGZNVKLJ8xM8wUWiGLO_41.283338_-105.584466@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310819,
+    "wof:geomhash":"a54a3b9c218b496f0d6f81152cf7fb91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874005395
+        }
+    ],
+    "wof:id":874005395,
+    "wof:lastmodified":1464310819,
+    "wof:name":"KOWB",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -105.584466,
+    41.283338,
+    -105.584466,
+    41.283338
+],
+  "geometry": {"coordinates":[-105.58446600000001,41.283338],"type":"Point"}
+}

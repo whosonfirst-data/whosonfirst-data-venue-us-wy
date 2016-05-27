@@ -1,0 +1,56 @@
+{
+  "id": 874173481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.770348,43.478137,-110.770348,43.478137",
+    "geom:latitude":43.478137,
+    "geom:longitude":-110.770348,
+    "iso:country":"US",
+    "sg:address":"520 W Broadway",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 734 9635",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U09WKUMqn6eRonKbvQqqR_43.478137_-110.770348@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312562,
+    "wof:geomhash":"73026f22a536d1b1cc0d615585978295",
+    "wof:hierarchy":[],
+    "wof:id":874173481,
+    "wof:lastmodified":1464312562,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -110.770348,
+    43.478137,
+    -110.770348,
+    43.478137
+],
+  "geometry": {"coordinates":[-110.770348,43.478137],"type":"Point"}
+}

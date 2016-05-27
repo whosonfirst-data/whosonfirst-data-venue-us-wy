@@ -1,0 +1,73 @@
+{
+  "id": 874091647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.341575,42.83221,-106.341575,42.83221",
+    "geom:latitude":42.83221,
+    "geom:longitude":-106.341575,
+    "iso:country":"US",
+    "sg:address":"1924 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 6605",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cw7ZwbsfHW5e26zkDXPdP_42.832210_-106.341575@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311683,
+    "wof:geomhash":"9b39a603b4a41144ade8156136910328",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874091647
+        }
+    ],
+    "wof:id":874091647,
+    "wof:lastmodified":1464311683,
+    "wof:name":"Decker Auto Glass",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -106.341575,
+    42.83221,
+    -106.341575,
+    42.83221
+],
+  "geometry": {"coordinates":[-106.34157500000001,42.83221],"type":"Point"}
+}

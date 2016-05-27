@@ -1,0 +1,71 @@
+{
+  "id": 874175403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.287145,42.844569,-106.287145,42.844569",
+    "geom:latitude":42.844569,
+    "geom:longitude":-106.287145,
+    "iso:country":"US",
+    "sg:address":"539 Payne Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 8818",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cTU6QVQluflmA6Gbh3Wcc_42.844569_-106.287145@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312582,
+    "wof:geomhash":"09ce6abec158bc4fb2f37b675fcd095b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874175403
+        }
+    ],
+    "wof:id":874175403,
+    "wof:lastmodified":1464312582,
+    "wof:name":"Visually Handicapped Svc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -106.287145,
+    42.844569,
+    -106.287145,
+    42.844569
+],
+  "geometry": {"coordinates":[-106.287145,42.844569],"type":"Point"}
+}

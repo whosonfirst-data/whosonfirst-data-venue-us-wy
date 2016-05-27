@@ -1,0 +1,69 @@
+{
+  "id": 874084639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.345552,42.892014,-106.345552,42.892014",
+    "geom:latitude":42.892014,
+    "geom:longitude":-106.345552,
+    "iso:country":"US",
+    "sg:address":"3614 Salt Creek Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 8101",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Myj90Uk0ga17ZT9lhjR7F_42.892014_-106.345552@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311605,
+    "wof:geomhash":"2a8fa35b4eaf8ac08563faa3ffec5ede",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874084639
+        }
+    ],
+    "wof:id":874084639,
+    "wof:lastmodified":1464311605,
+    "wof:name":"John Japp & Assoc Auctioneers",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -106.345552,
+    42.892014,
+    -106.345552,
+    42.892014
+],
+  "geometry": {"coordinates":[-106.345552,42.892014],"type":"Point"}
+}

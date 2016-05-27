@@ -1,0 +1,71 @@
+{
+  "id": 874131149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.428347,42.873845,-106.428347,42.873845",
+    "geom:latitude":42.873845,
+    "geom:longitude":-106.428347,
+    "iso:country":"US",
+    "sg:address":"6925 W Cactus Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 0133",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "disposal",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h5pa5Us6mBgwEoPZTfAJ1_42.873845_-106.428347@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312151,
+    "wof:geomhash":"9ecfa197408e3b638bde1a687be90ce6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874131149
+        }
+    ],
+    "wof:id":874131149,
+    "wof:lastmodified":1464312151,
+    "wof:name":"Wyoming Tire Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "tire"
+    ]
+},
+  "bbox": [
+    -106.428347,
+    42.873845,
+    -106.428347,
+    42.873845
+],
+  "geometry": {"coordinates":[-106.428347,42.873845],"type":"Point"}
+}

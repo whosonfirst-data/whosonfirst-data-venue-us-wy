@@ -1,0 +1,75 @@
+{
+  "id": 874162347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.615288,41.299852,-105.615288,41.299852",
+    "geom:latitude":41.299852,
+    "geom:longitude":-105.615288,
+    "iso:country":"US",
+    "sg:address":"1482 Commerce Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 9524",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31FMlyuoLJ4xfsYXVHVAe5_41.299852_-105.615288@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312454,
+    "wof:geomhash":"7a04b6f70c07ad03a6df1482669bba99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874162347
+        }
+    ],
+    "wof:id":874162347,
+    "wof:lastmodified":1464312454,
+    "wof:name":"Crescent Electric Supply Co",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ]
+},
+  "bbox": [
+    -105.615288,
+    41.299852,
+    -105.615288,
+    41.299852
+],
+  "geometry": {"coordinates":[-105.61528800000001,41.299852],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 874146381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.797852,41.142127,-104.797852,41.142127",
+    "geom:latitude":41.142127,
+    "geom:longitude":-104.797852,
+    "iso:country":"US",
+    "sg:address":"1822 Logan Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 3042",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repair",
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CpKNRtx3tB0YwnWDs23gQ_41.142127_-104.797852@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312296,
+    "wof:geomhash":"41e96017b886c447e67583d00c1a28f6",
+    "wof:hierarchy":[],
+    "wof:id":874146381,
+    "wof:lastmodified":1464312296,
+    "wof:name":"Logan Ave Texaco",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -104.797852,
+    41.142127,
+    -104.797852,
+    41.142127
+],
+  "geometry": {"coordinates":[-104.79785200000001,41.142127],"type":"Point"}
+}

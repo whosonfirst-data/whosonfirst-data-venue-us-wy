@@ -1,0 +1,57 @@
+{
+  "id": 874122333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.768425,41.157366,-104.768425,41.157366",
+    "geom:latitude":41.157366,
+    "geom:longitude":-104.768425,
+    "iso:country":"US",
+    "sg:address":"4202 Ridge Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 3331",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.cancer.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UYLT5wYezZSGEFJYLT6VM_41.157366_-104.768425@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312062,
+    "wof:geomhash":"5e24d6697949d23fb5715cd33edab5d2",
+    "wof:hierarchy":[],
+    "wof:id":874122333,
+    "wof:lastmodified":1464312062,
+    "wof:name":"American Cancer Society",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -104.768425,
+    41.157366,
+    -104.768425,
+    41.157366
+],
+  "geometry": {"coordinates":[-104.76842499999999,41.157366],"type":"Point"}
+}

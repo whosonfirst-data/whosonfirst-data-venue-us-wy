@@ -1,0 +1,58 @@
+{
+  "id": 874104301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.222003,43.641737,-108.222003,43.641737",
+    "geom:latitude":43.641737,
+    "geom:longitude":-108.222003,
+    "iso:country":"US",
+    "sg:address":"1135 Amoretti St",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 2131",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pumping",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BOCPNw3vodY6a040tWEwe_43.641737_-108.222003@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311848,
+    "wof:geomhash":"a0435f6d7ea41163c390f3274586349f",
+    "wof:hierarchy":[],
+    "wof:id":874104301,
+    "wof:lastmodified":1464311848,
+    "wof:name":"Mel's Pumping Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pumping",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.222003,
+    43.641737,
+    -108.222003,
+    43.641737
+],
+  "geometry": {"coordinates":[-108.222003,43.641737],"type":"Point"}
+}

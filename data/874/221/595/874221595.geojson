@@ -1,0 +1,58 @@
+{
+  "id": 874221595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.751094,41.139689,-104.751094,41.139689",
+    "geom:latitude":41.139689,
+    "geom:longitude":-104.751094,
+    "iso:country":"US",
+    "sg:address":"1607 Taft Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 4196",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DuVdLgCLQ7bFdOp59u3FT_41.139689_-104.751094@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313080,
+    "wof:geomhash":"ea330049494b3451f3beb4db5354e5e8",
+    "wof:hierarchy":[],
+    "wof:id":874221595,
+    "wof:lastmodified":1464313080,
+    "wof:name":"Cheyenne Station Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -104.751094,
+    41.139689,
+    -104.751094,
+    41.139689
+],
+  "geometry": {"coordinates":[-104.75109399999999,41.139689],"type":"Point"}
+}

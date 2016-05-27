@@ -1,0 +1,60 @@
+{
+  "id": 874138211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.260255,43.11341,-105.260255,43.11341",
+    "geom:latitude":43.11341,
+    "geom:longitude":-105.260255,
+    "iso:country":"US",
+    "sg:address":"2710 State Hwy 59",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 5256",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JSlnAPeCDkurzuBZ188oG_43.113410_-105.260255@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312220,
+    "wof:geomhash":"6647cb72ab733e82e029c70428df3819",
+    "wof:hierarchy":[],
+    "wof:id":874138211,
+    "wof:lastmodified":1464312220,
+    "wof:name":"Matrix Gas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ]
+},
+  "bbox": [
+    -105.260255,
+    43.11341,
+    -105.260255,
+    43.11341
+],
+  "geometry": {"coordinates":[-105.260255,43.11341],"type":"Point"}
+}

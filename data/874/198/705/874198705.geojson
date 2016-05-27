@@ -1,0 +1,58 @@
+{
+  "id": 874198705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.175042,42.043765,-104.175042,42.043765",
+    "geom:latitude":42.043765,
+    "geom:longitude":-104.175042,
+    "iso:country":"US",
+    "sg:address":"648 E 2nd Ave",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 8744",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EarSfoJo1vlmzXhDsMJLr_42.043765_-104.175042@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312832,
+    "wof:geomhash":"725dcd471c8f8fcd2865c0f9fcfe16c6",
+    "wof:hierarchy":[],
+    "wof:id":874198705,
+    "wof:lastmodified":1464312832,
+    "wof:name":"Dons Hay Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -104.175042,
+    42.043765,
+    -104.175042,
+    42.043765
+],
+  "geometry": {"coordinates":[-104.175042,42.043765],"type":"Point"}
+}

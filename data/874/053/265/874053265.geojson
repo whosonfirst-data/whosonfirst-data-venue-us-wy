@@ -1,0 +1,56 @@
+{
+  "id": 874053265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.400458,43.026401,-108.400458,43.026401",
+    "geom:latitude":43.026401,
+    "geom:longitude":-108.400458,
+    "iso:country":"US",
+    "sg:address":"220 N 8th St W",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 9725",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KSoLB5lmpHuSvMJoJy50l_43.026401_-108.400458@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311271,
+    "wof:geomhash":"5848c8e17aedb3271ae731987b9f117f",
+    "wof:hierarchy":[],
+    "wof:id":874053265,
+    "wof:lastmodified":1464311271,
+    "wof:name":"Robert D Fowler DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -108.400458,
+    43.026401,
+    -108.400458,
+    43.026401
+],
+  "geometry": {"coordinates":[-108.400458,43.026401],"type":"Point"}
+}

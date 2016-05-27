@@ -1,0 +1,64 @@
+{
+  "id": 874022747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.3265,42.838806,-106.3265,42.838806",
+    "geom:latitude":42.838806,
+    "geom:longitude":-106.3265,
+    "iso:country":"US",
+    "sg:address":"1125 S David St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0377",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O8u68ej9lZTT9gGN7LVgH_42.838806_-106.326500@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310971,
+    "wof:geomhash":"4d028995314af0d399628dde03166453",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874022747
+        }
+    ],
+    "wof:id":874022747,
+    "wof:lastmodified":1464310971,
+    "wof:name":"Pedro Mountain Outfitters LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.3265,
+    42.838806,
+    -106.3265,
+    42.838806
+],
+  "geometry": {"coordinates":[-106.3265,42.838806],"type":"Point"}
+}

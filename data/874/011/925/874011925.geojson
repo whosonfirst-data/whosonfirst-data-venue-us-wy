@@ -1,0 +1,68 @@
+{
+  "id": 874011925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.217348,41.587384,-109.217348,41.587384",
+    "geom:latitude":41.587384,
+    "geom:longitude":-109.217348,
+    "iso:country":"US",
+    "sg:address":"617 Broadway St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 2014",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QOgadNKf6gLUVtsFJkd7e_41.587384_-109.217348@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310868,
+    "wof:geomhash":"fddfda1f570a480ad96f4cd32a4783e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874011925
+        }
+    ],
+    "wof:id":874011925,
+    "wof:lastmodified":1464310868,
+    "wof:name":"Kronski Corp",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.217348,
+    41.587384,
+    -109.217348,
+    41.587384
+],
+  "geometry": {"coordinates":[-109.217348,41.587384],"type":"Point"}
+}

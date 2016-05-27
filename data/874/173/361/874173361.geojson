@@ -1,0 +1,71 @@
+{
+  "id": 874173361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.567461,41.307557,-105.567461,41.307557",
+    "geom:latitude":41.307557,
+    "geom:longitude":-105.567461,
+    "iso:country":"US",
+    "sg:address":"506 S 21st St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 0127",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pwdXvmXTvTSH8foeuV13H_41.307557_-105.567461@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312561,
+    "wof:geomhash":"32a4e5a2fafe97dcf5b6e1b3a69e7a47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874173361
+        }
+    ],
+    "wof:id":874173361,
+    "wof:lastmodified":1464312561,
+    "wof:name":"High Adventure Youth Programs",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -105.567461,
+    41.307557,
+    -105.567461,
+    41.307557
+],
+  "geometry": {"coordinates":[-105.56746099999999,41.307557],"type":"Point"}
+}

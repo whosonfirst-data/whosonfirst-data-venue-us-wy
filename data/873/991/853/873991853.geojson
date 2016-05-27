@@ -1,0 +1,51 @@
+{
+  "id": 873991853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.815353,41.179366,-104.815353,41.179366",
+    "geom:latitude":41.179366,
+    "geom:longitude":-104.815353,
+    "iso:country":"US",
+    "sg:address":"1001 Emerald Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 6323",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xpi3ikhzU1zoxMS9RU1ot_41.179366_-104.815353@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310704,
+    "wof:geomhash":"9eb8ad7e454a07ced51d899955071420",
+    "wof:hierarchy":[],
+    "wof:id":873991853,
+    "wof:lastmodified":1464310704,
+    "wof:name":"Western Skies Florist & Greenh",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.815353,
+    41.179366,
+    -104.815353,
+    41.179366
+],
+  "geometry": {"coordinates":[-104.815353,41.179366],"type":"Point"}
+}

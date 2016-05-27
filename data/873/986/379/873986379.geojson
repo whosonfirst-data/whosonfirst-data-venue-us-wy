@@ -1,0 +1,56 @@
+{
+  "id": 873986379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.065484,41.176698,-104.065484,41.176698",
+    "geom:latitude":41.176698,
+    "geom:longitude":-104.065484,
+    "iso:country":"US",
+    "sg:address":"805 Pine St",
+    "sg:city":"Pine Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 245 3444",
+    "sg:postcode":"82082",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OARhIrLlaZt3fMzjj2GIc_41.176698_-104.065484@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310664,
+    "wof:geomhash":"17fa758ce9ee1983b5766e0daa7c1881",
+    "wof:hierarchy":[],
+    "wof:id":873986379,
+    "wof:lastmodified":1464310664,
+    "wof:name":"Southeast Wyoming Mental Hlth",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -104.065484,
+    41.176698,
+    -104.065484,
+    41.176698
+],
+  "geometry": {"coordinates":[-104.065484,41.176698],"type":"Point"}
+}

@@ -1,0 +1,51 @@
+{
+  "id": 874224205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.537397,41.794794,-110.537397,41.794794",
+    "geom:latitude":41.794794,
+    "geom:longitude":-110.537397,
+    "iso:country":"US",
+    "sg:address":"107 J C Penney Dr",
+    "sg:city":"Kemmerer",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 877 4501",
+    "sg:postcode":"83101",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SpoyK9HSDh08X7QSILs8n_41.794794_-110.537397@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313104,
+    "wof:geomhash":"c9bbf7b45d883a12f1b18284681144a8",
+    "wof:hierarchy":[],
+    "wof:id":874224205,
+    "wof:lastmodified":1464313104,
+    "wof:name":"J C Penney Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.537397,
+    41.794794,
+    -110.537397,
+    41.794794
+],
+  "geometry": {"coordinates":[-110.537397,41.794794],"type":"Point"}
+}

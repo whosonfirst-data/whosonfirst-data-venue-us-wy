@@ -1,0 +1,60 @@
+{
+  "id": 874100247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.699092,44.340823,-106.699092,44.340823",
+    "geom:latitude":44.340823,
+    "geom:longitude":-106.699092,
+    "iso:country":"US",
+    "sg:address":"515 Mackenzie Dr",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 5253",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lock",
+        "maintenance",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mQ4WR8usiP6EeHnYmIj6E_44.340823_-106.699092@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311797,
+    "wof:geomhash":"c4c26509909689216874dcaa50c43ea5",
+    "wof:hierarchy":[],
+    "wof:id":874100247,
+    "wof:lastmodified":1464311797,
+    "wof:name":"Mikey's Locksmithing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "maintenance",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -106.699092,
+    44.340823,
+    -106.699092,
+    44.340823
+],
+  "geometry": {"coordinates":[-106.69909199999999,44.340823],"type":"Point"}
+}

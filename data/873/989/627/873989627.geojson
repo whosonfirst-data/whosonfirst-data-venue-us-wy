@@ -1,0 +1,64 @@
+{
+  "id": 873989627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.359192,42.827066,-106.359192,42.827066",
+    "geom:latitude":42.827066,
+    "geom:longitude":-106.359192,
+    "iso:country":"US",
+    "sg:address":"3230 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 0988",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71jmmwLkVxx1eJ6vuAKHGI_42.827066_-106.359192@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310687,
+    "wof:geomhash":"394a8f5184d930342a2ed16bf192f293",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873989627
+        }
+    ],
+    "wof:id":873989627,
+    "wof:lastmodified":1464310687,
+    "wof:name":"Casual Jack's Eat'n Shack",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.359192,
+    42.827066,
+    -106.359192,
+    42.827066
+],
+  "geometry": {"coordinates":[-106.35919199999999,42.827066],"type":"Point"}
+}

@@ -1,0 +1,51 @@
+{
+  "id": 874153139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.559625,42.243178,-107.559625,42.243178",
+    "geom:latitude":42.243178,
+    "geom:longitude":-107.559625,
+    "iso:country":"US",
+    "sg:address":"503 Antelope Dr",
+    "sg:city":"Bairoil",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 5541",
+    "sg:postcode":"82322",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qZx0jh6ETaDGcHmAMlQJn_42.243178_-107.559625@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312357,
+    "wof:geomhash":"8ba671f3a9dd075c3beb79e6f50ef9dd",
+    "wof:hierarchy":[],
+    "wof:id":874153139,
+    "wof:lastmodified":1464312357,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.559625,
+    42.243178,
+    -107.559625,
+    42.243178
+],
+  "geometry": {"coordinates":[-107.559625,42.243178],"type":"Point"}
+}

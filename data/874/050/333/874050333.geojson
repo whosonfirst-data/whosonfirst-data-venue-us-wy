@@ -1,0 +1,56 @@
+{
+  "id": 874050333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.961715,42.056994,-104.961715,42.056994",
+    "geom:latitude":42.056994,
+    "geom:longitude":-104.961715,
+    "iso:country":"US",
+    "sg:address":"909 15th St",
+    "sg:city":"Wheatland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 322 1172",
+    "sg:postcode":"82201",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0axxMIirvUCSi2x7TMgkox_42.056994_-104.961715@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311244,
+    "wof:geomhash":"2fc80aeb2de47b05d9bae5517ddea893",
+    "wof:hierarchy":[],
+    "wof:id":874050333,
+    "wof:lastmodified":1464311244,
+    "wof:name":"Atlas Towing & Recovery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -104.961715,
+    42.056994,
+    -104.961715,
+    42.056994
+],
+  "geometry": {"coordinates":[-104.961715,42.056994],"type":"Point"}
+}

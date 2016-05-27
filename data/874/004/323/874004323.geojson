@@ -1,0 +1,71 @@
+{
+  "id": 874004323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.413397,42.831422,-106.413397,42.831422",
+    "geom:latitude":42.831422,
+    "geom:longitude":-106.413397,
+    "iso:country":"US",
+    "sg:address":"1076 S Robertson Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 8087",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f8Fz8qcbtJ01xzDLmiaUM_42.831422_-106.413397@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310807,
+    "wof:geomhash":"b9eb10bfd101cc4527fce9fd2600bda6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874004323
+        }
+    ],
+    "wof:id":874004323,
+    "wof:lastmodified":1464310807,
+    "wof:name":"Directional Plus",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.413397,
+    42.831422,
+    -106.413397,
+    42.831422
+],
+  "geometry": {"coordinates":[-106.413397,42.831422],"type":"Point"}
+}

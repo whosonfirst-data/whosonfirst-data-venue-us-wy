@@ -1,0 +1,71 @@
+{
+  "id": 874211645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.71806,41.234138,-105.71806,41.234138",
+    "geom:latitude":41.234138,
+    "geom:longitude":-105.71806,
+    "iso:country":"US",
+    "sg:address":"152 Ryff Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5493",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "barn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kLIK7baNA1O2k0X2bl8Y5_41.234138_-105.718060@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312970,
+    "wof:geomhash":"5ed791c0933a5dda9e16379ff79741ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874211645
+        }
+    ],
+    "wof:id":874211645,
+    "wof:lastmodified":1464312970,
+    "wof:name":"Mears Morgans Barn",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barn"
+    ]
+},
+  "bbox": [
+    -105.71806,
+    41.234138,
+    -105.71806,
+    41.234138
+],
+  "geometry": {"coordinates":[-105.71805999999999,41.234138],"type":"Point"}
+}

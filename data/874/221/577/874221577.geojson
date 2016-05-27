@@ -1,0 +1,58 @@
+{
+  "id": 874221577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.820801,41.758305,-104.820801,41.758305",
+    "geom:latitude":41.758305,
+    "geom:longitude":-104.820801,
+    "iso:country":"US",
+    "sg:address":"101 Bowie Ave",
+    "sg:city":"Chugwater",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 422 3504",
+    "sg:postcode":"82210",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bOHnUgw0hifnRl8QjmpEK_41.758305_-104.820801@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313080,
+    "wof:geomhash":"81a36660def7c9e20fbd1af3d5dd8e26",
+    "wof:hierarchy":[],
+    "wof:id":874221577,
+    "wof:lastmodified":1464313080,
+    "wof:name":"Chugwater Fire Protection",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -104.820801,
+    41.758305,
+    -104.820801,
+    41.758305
+],
+  "geometry": {"coordinates":[-104.820801,41.758305],"type":"Point"}
+}

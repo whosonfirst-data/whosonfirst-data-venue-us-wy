@@ -1,0 +1,56 @@
+{
+  "id": 874207229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.805218,41.13651,-104.805218,41.13651",
+    "geom:latitude":41.13651,
+    "geom:longitude":-104.805218,
+    "iso:country":"US",
+    "sg:address":"801 E Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 5451",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65dQeN9e51TmTqxFZcMSty_41.136510_-104.805218@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312922,
+    "wof:geomhash":"6196f64ac6c027336fa0c4e25e8f0743",
+    "wof:hierarchy":[],
+    "wof:id":874207229,
+    "wof:lastmodified":1464312922,
+    "wof:name":"KFC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -104.805218,
+    41.13651,
+    -104.805218,
+    41.13651
+],
+  "geometry": {"coordinates":[-104.805218,41.13651],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874140151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.968336,44.793744,-106.968336,44.793744",
+    "geom:latitude":44.793744,
+    "geom:longitude":-106.968336,
+    "iso:country":"US",
+    "sg:address":"702 Monte Vista St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 8500",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZyKOFQdheOrxrHpxyuf3N_44.793744_-106.968336@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312236,
+    "wof:geomhash":"8cea3c80d65c6bcd97b25f71eecfa90f",
+    "wof:hierarchy":[],
+    "wof:id":874140151,
+    "wof:lastmodified":1464312236,
+    "wof:name":"Siding Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.968336,
+    44.793744,
+    -106.968336,
+    44.793744
+],
+  "geometry": {"coordinates":[-106.96833599999999,44.793744],"type":"Point"}
+}

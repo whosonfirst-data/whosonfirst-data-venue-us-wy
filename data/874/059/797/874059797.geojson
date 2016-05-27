@@ -1,0 +1,71 @@
+{
+  "id": 874059797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.326532,42.833992,-106.326532,42.833992",
+    "geom:latitude":42.833992,
+    "geom:longitude":-106.326532,
+    "iso:country":"US",
+    "sg:address":"125 College Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 268 2110",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "arts",
+        "liberal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vvl5Cvml3Ou7Sc2IhNYfY_42.833992_-106.326532@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311334,
+    "wof:geomhash":"74f79073843c2e6d76171a1b9a0aa8a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874059797
+        }
+    ],
+    "wof:id":874059797,
+    "wof:lastmodified":1464311334,
+    "wof:name":"Casper College",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arts",
+        "liberal"
+    ]
+},
+  "bbox": [
+    -106.326532,
+    42.833992,
+    -106.326532,
+    42.833992
+],
+  "geometry": {"coordinates":[-106.326532,42.833992],"type":"Point"}
+}

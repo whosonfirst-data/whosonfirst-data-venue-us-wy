@@ -1,0 +1,56 @@
+{
+  "id": 874168033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.696354,44.354269,-106.696354,44.354269",
+    "geom:latitude":44.354269,
+    "geom:longitude":-106.696354,
+    "iso:country":"US",
+    "sg:address":"190 E Hart St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 2318",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pPzEQisVn3w3BRQDmvesV_44.354269_-106.696354@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312507,
+    "wof:geomhash":"913dd51d19f8a61385ab6f698e7f2bed",
+    "wof:hierarchy":[],
+    "wof:id":874168033,
+    "wof:lastmodified":1464312507,
+    "wof:name":"Readboard",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -106.696354,
+    44.354269,
+    -106.696354,
+    44.354269
+],
+  "geometry": {"coordinates":[-106.696354,44.354269],"type":"Point"}
+}

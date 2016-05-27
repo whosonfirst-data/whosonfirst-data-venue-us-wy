@@ -1,0 +1,59 @@
+{
+  "id": 874228693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.82864,41.166664,-104.82864,41.166664",
+    "geom:latitude":41.166664,
+    "geom:longitude":-104.82864,
+    "iso:country":"US",
+    "sg:address":"5250 Yellowstone Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/159130-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 8505",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rnOjNEmvKfc5Ugm51GhRI_41.166664_-104.828640@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313148,
+    "wof:geomhash":"03162ad3edded2ca32b85d5b3753e19b",
+    "wof:hierarchy":[],
+    "wof:id":874228693,
+    "wof:lastmodified":1464313148,
+    "wof:name":"Arby's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -104.82864,
+    41.166664,
+    -104.82864,
+    41.166664
+],
+  "geometry": {"coordinates":[-104.82863999999999,41.166664],"type":"Point"}
+}

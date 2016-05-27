@@ -1,0 +1,73 @@
+{
+  "id": 874051973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.318049,42.853236,-106.318049,42.853236",
+    "geom:latitude":42.853236,
+    "geom:longitude":-106.318049,
+    "iso:country":"US",
+    "sg:address":"331 N Park St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 6326",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cMbQJJp0HxwC1HVJLt6xJ_42.853236_-106.318049@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311259,
+    "wof:geomhash":"96d410e398a3af60719ebecc1dfb6c41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874051973
+        }
+    ],
+    "wof:id":874051973,
+    "wof:lastmodified":1464311259,
+    "wof:name":"Modern Electric Communications",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ]
+},
+  "bbox": [
+    -106.318049,
+    42.853236,
+    -106.318049,
+    42.853236
+],
+  "geometry": {"coordinates":[-106.318049,42.853236],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874015565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.36706,42.822123,-106.36706,42.822123",
+    "geom:latitude":42.822123,
+    "geom:longitude":-106.36706,
+    "iso:country":"US",
+    "sg:address":"3861 Denis Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 7727",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fLaNkwO7hMBg8SmcflOPS_42.822123_-106.367060@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310895,
+    "wof:geomhash":"c7a45b99651e2586c95fe630963b9365",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874015565
+        }
+    ],
+    "wof:id":874015565,
+    "wof:lastmodified":1464310895,
+    "wof:name":"Porter's Mountain View Supply",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -106.36706,
+    42.822123,
+    -106.36706,
+    42.822123
+],
+  "geometry": {"coordinates":[-106.36706,42.822123],"type":"Point"}
+}

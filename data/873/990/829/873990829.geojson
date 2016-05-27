@@ -1,0 +1,75 @@
+{
+  "id": 873990829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594049,41.306219,-105.594049,41.306219",
+    "geom:latitude":41.306219,
+    "geom:longitude":-105.594049,
+    "iso:country":"US",
+    "sg:address":"809 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5815",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "auction",
+        "gen",
+        "mdse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Vswth3nO5XzAuIljvwoaK_41.306219_-105.594049@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310695,
+    "wof:geomhash":"9170c7a6f7db04dfc57bc4ca79ef038d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873990829
+        }
+    ],
+    "wof:id":873990829,
+    "wof:lastmodified":1464310695,
+    "wof:name":"Wasa",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auction",
+        "gen",
+        "mdse"
+    ]
+},
+  "bbox": [
+    -105.594049,
+    41.306219,
+    -105.594049,
+    41.306219
+],
+  "geometry": {"coordinates":[-105.594049,41.306219],"type":"Point"}
+}

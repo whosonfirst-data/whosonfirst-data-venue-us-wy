@@ -1,0 +1,74 @@
+{
+  "id": 874228863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.574773,41.309904,-105.574773,41.309904",
+    "geom:latitude":41.309904,
+    "geom:longitude":-105.574773,
+    "iso:country":"US",
+    "sg:address":"1700 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/laramie/135363-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4135",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DnZJGGeZCrEND09cDkLp9_41.309904_-105.574773@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313149,
+    "wof:geomhash":"d3b5d0f408a0cc48f59874d2e225a6d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874228863
+        }
+    ],
+    "wof:id":874228863,
+    "wof:lastmodified":1464313149,
+    "wof:name":"Subway",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -105.574773,
+    41.309904,
+    -105.574773,
+    41.309904
+],
+  "geometry": {"coordinates":[-105.57477299999999,41.309904],"type":"Point"}
+}

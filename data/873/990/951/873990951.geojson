@@ -1,0 +1,71 @@
+{
+  "id": 873990951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.316093,42.862347,-106.316093,42.862347",
+    "geom:latitude":42.862347,
+    "geom:longitude":-106.316093,
+    "iso:country":"US",
+    "sg:address":"1137 Glenarm St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4715",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NAEq46jPg5D1PYQ6dAuUT_42.862347_-106.316093@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310697,
+    "wof:geomhash":"3206f2440959d8379463306eec066f93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873990951
+        }
+    ],
+    "wof:id":873990951,
+    "wof:lastmodified":1464310697,
+    "wof:name":"Carl's Clean Plumbing & Htg",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.316093,
+    42.862347,
+    -106.316093,
+    42.862347
+],
+  "geometry": {"coordinates":[-106.316093,42.862347],"type":"Point"}
+}

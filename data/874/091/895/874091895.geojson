@@ -1,0 +1,69 @@
+{
+  "id": 874091895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.2954,42.852066,-106.2954,42.852066",
+    "geom:latitude":42.852066,
+    "geom:longitude":-106.2954,
+    "iso:country":"US",
+    "sg:address":"321 Siskin St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 0720",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q9JrBYKHoRKEyUgJgJ2xi_42.852066_-106.295400@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311685,
+    "wof:geomhash":"971432f78fc73c3a745783a8dc58e690",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874091895
+        }
+    ],
+    "wof:id":874091895,
+    "wof:lastmodified":1464311685,
+    "wof:name":"Rasmussen Tandi",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -106.2954,
+    42.852066,
+    -106.2954,
+    42.852066
+],
+  "geometry": {"coordinates":[-106.2954,42.852066],"type":"Point"}
+}

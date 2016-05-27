@@ -1,0 +1,56 @@
+{
+  "id": 874102459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.178707,43.842234,-104.178707,43.842234",
+    "geom:latitude":43.842234,
+    "geom:longitude":-104.178707,
+    "iso:country":"US",
+    "sg:address":"1 Old US Hwy 85",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 3181",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76BLVqdFoSGd1yEbQv890f_43.842234_-104.178707@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311825,
+    "wof:geomhash":"5c066f4ecb8b031a7504a612f10dfe68",
+    "wof:hierarchy":[],
+    "wof:id":874102459,
+    "wof:lastmodified":1464311825,
+    "wof:name":"Wyo Trans",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -104.178707,
+    43.842234,
+    -104.178707,
+    43.842234
+],
+  "geometry": {"coordinates":[-104.178707,43.842234],"type":"Point"}
+}

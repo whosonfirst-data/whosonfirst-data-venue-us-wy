@@ -1,0 +1,56 @@
+{
+  "id": 874125201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.039004,44.380949,-108.039004,44.380949",
+    "geom:latitude":44.380949,
+    "geom:longitude":-108.039004,
+    "iso:country":"US",
+    "sg:address":"114 S 4th St",
+    "sg:city":"Basin",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 568 2325",
+    "sg:postcode":"82410",
+    "sg:province":"WY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RiD3r8cW2Lu40KoeQBYrY_44.380949_-108.039004@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312087,
+    "wof:geomhash":"f42ce7dd6214c63a2dd993e24e590c82",
+    "wof:hierarchy":[],
+    "wof:id":874125201,
+    "wof:lastmodified":1464312087,
+    "wof:name":"Wheeler's Market Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -108.039004,
+    44.380949,
+    -108.039004,
+    44.380949
+],
+  "geometry": {"coordinates":[-108.03900400000001,44.380949],"type":"Point"}
+}

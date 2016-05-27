@@ -1,0 +1,52 @@
+{
+  "id": 874222923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.852806,41.099672,-104.852806,41.099672",
+    "geom:latitude":41.099672,
+    "geom:longitude":-104.852806,
+    "iso:country":"US",
+    "sg:address":"4000 W College Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 8009",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:website":"www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NrtkzYWaK4y2EQDDOFBoQ_41.099672_-104.852806@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313093,
+    "wof:geomhash":"f1a99d077d1d0dc4c041a9f1f4ed1f1e",
+    "wof:hierarchy":[],
+    "wof:id":874222923,
+    "wof:lastmodified":1464313093,
+    "wof:name":"Mc Donald's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.852806,
+    41.099672,
+    -104.852806,
+    41.099672
+],
+  "geometry": {"coordinates":[-104.852806,41.099672],"type":"Point"}
+}

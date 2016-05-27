@@ -1,0 +1,71 @@
+{
+  "id": 874089453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.327875,42.837971,-106.327875,42.837971",
+    "geom:latitude":42.837971,
+    "geom:longitude":-106.327875,
+    "iso:country":"US",
+    "sg:address":"1243 S Ash St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2486",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lithographic",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E22UMhoh4TBRWC0SF0fCy_42.837971_-106.327875@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311655,
+    "wof:geomhash":"8727af47584436848bb4deda233e609f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874089453
+        }
+    ],
+    "wof:id":874089453,
+    "wof:lastmodified":1464311655,
+    "wof:name":"Zephyr Printing Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lithographic",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -106.327875,
+    42.837971,
+    -106.327875,
+    42.837971
+],
+  "geometry": {"coordinates":[-106.32787500000001,42.837971],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874067935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.335864,42.838697,-106.335864,42.838697",
+    "geom:latitude":42.838697,
+    "geom:longitude":-106.335864,
+    "iso:country":"US",
+    "sg:address":"1112 S Cedar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4510",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "accessory"
+    ],
+    "sg:website":"www.bedskins.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FuV6DzJedbqk4TrzZEsdH_42.838697_-106.335864@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311407,
+    "wof:geomhash":"9b60dc294658c4508046f8456d90dd72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874067935
+        }
+    ],
+    "wof:id":874067935,
+    "wof:lastmodified":1464311407,
+    "wof:name":"Bed Skins Truck Bed Covers",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -106.335864,
+    42.838697,
+    -106.335864,
+    42.838697
+],
+  "geometry": {"coordinates":[-106.335864,42.838697],"type":"Point"}
+}

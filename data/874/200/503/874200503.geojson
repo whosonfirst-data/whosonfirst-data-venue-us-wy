@@ -1,0 +1,66 @@
+{
+  "id": 874200503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592184,41.310848,-105.592184,41.310848",
+    "geom:latitude":41.310848,
+    "geom:longitude":-105.592184,
+    "iso:country":"US",
+    "sg:address":"412 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 8036",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YsFfKDZzxIaklARW2RF4W_41.310848_-105.592184@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312848,
+    "wof:geomhash":"8f25729f14a17f13c4e8b76ccaadc5f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874200503
+        }
+    ],
+    "wof:id":874200503,
+    "wof:lastmodified":1464312848,
+    "wof:name":"All Terrain Sports Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.592184,
+    41.310848,
+    -105.592184,
+    41.310848
+],
+  "geometry": {"coordinates":[-105.592184,41.310848],"type":"Point"}
+}

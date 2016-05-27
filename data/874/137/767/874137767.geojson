@@ -1,0 +1,71 @@
+{
+  "id": 874137767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.566896,41.308572,-105.566896,41.308572",
+    "geom:latitude":41.308572,
+    "geom:longitude":-105.566896,
+    "iso:country":"US",
+    "sg:address":"2120 E Garfield St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 6917",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J0RAMnk1MgVlxmsrPNp2b_41.308572_-105.566896@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312215,
+    "wof:geomhash":"6791e7ca5d8144503b0ee5e5f6845432",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874137767
+        }
+    ],
+    "wof:id":874137767,
+    "wof:lastmodified":1464312215,
+    "wof:name":"Laramie Jay Cees",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -105.566896,
+    41.308572,
+    -105.566896,
+    41.308572
+],
+  "geometry": {"coordinates":[-105.566896,41.308572],"type":"Point"}
+}

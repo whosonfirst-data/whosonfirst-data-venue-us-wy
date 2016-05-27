@@ -1,0 +1,66 @@
+{
+  "id": 874069469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.580583,41.331631,-105.580583,41.331631",
+    "geom:latitude":41.331631,
+    "geom:longitude":-105.580583,
+    "iso:country":"US",
+    "sg:address":"1210 Beaufort St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 2837",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CAqFX6cqGHTLcskr05XU7_41.331631_-105.580583@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311427,
+    "wof:geomhash":"629ddaf6aff4698a26531d6fe006110a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874069469
+        }
+    ],
+    "wof:id":874069469,
+    "wof:lastmodified":1464311427,
+    "wof:name":"Cowboy Carpet Care",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.580583,
+    41.331631,
+    -105.580583,
+    41.331631
+],
+  "geometry": {"coordinates":[-105.580583,41.331631],"type":"Point"}
+}

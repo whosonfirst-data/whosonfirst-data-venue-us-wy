@@ -1,0 +1,79 @@
+{
+  "id": 874188659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.59474,41.311921,-105.59474,41.311921",
+    "geom:latitude":41.311921,
+    "geom:longitude":-105.59474,
+    "iso:country":"US",
+    "sg:address":"215 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3983",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "food",
+        "art",
+        "gallery",
+        "merchandise",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VIa2pulPPI2vPrIyEtZtP_41.311921_-105.594740@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312727,
+    "wof:geomhash":"1839fbaabea405123bcfef28d1da1800",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874188659
+        }
+    ],
+    "wof:id":874188659,
+    "wof:lastmodified":1464312727,
+    "wof:name":"Artisan's Gallery",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "art",
+        "gallery",
+        "merchandise",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -105.59474,
+    41.311921,
+    -105.59474,
+    41.311921
+],
+  "geometry": {"coordinates":[-105.59474,41.311921],"type":"Point"}
+}

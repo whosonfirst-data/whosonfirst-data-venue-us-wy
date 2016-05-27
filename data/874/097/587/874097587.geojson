@@ -1,0 +1,64 @@
+{
+  "id": 874097587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.40867,42.822443,-106.40867,42.822443",
+    "geom:latitude":42.822443,
+    "geom:longitude":-106.40867,
+    "iso:country":"US",
+    "sg:address":"159 Sunflower St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 4966",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6k9AwZbr9C0cnu7EmXwWgq_42.822443_-106.408670@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311751,
+    "wof:geomhash":"6e1270b7a2cfa35df3890b89560ce09c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874097587
+        }
+    ],
+    "wof:id":874097587,
+    "wof:lastmodified":1464311751,
+    "wof:name":"Dollar Daze",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.40867,
+    42.822443,
+    -106.40867,
+    42.822443
+],
+  "geometry": {"coordinates":[-106.40867,42.822443],"type":"Point"}
+}

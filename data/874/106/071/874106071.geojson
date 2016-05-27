@@ -1,0 +1,69 @@
+{
+  "id": 874106071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.313927,42.850852,-106.313927,42.850852",
+    "geom:latitude":42.850852,
+    "geom:longitude":-106.313927,
+    "iso:country":"US",
+    "sg:address":"811 E Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 7094",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FakyO1eedHCo6dcce5iuq_42.850852_-106.313927@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311869,
+    "wof:geomhash":"2462ab140715be66656dc5a903db7f8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874106071
+        }
+    ],
+    "wof:id":874106071,
+    "wof:lastmodified":1464311869,
+    "wof:name":"Car Shop",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -106.313927,
+    42.850852,
+    -106.313927,
+    42.850852
+],
+  "geometry": {"coordinates":[-106.31392700000001,42.850852],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874145705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.723089,44.343812,-106.723089,44.343812",
+    "geom:latitude":44.343812,
+    "geom:longitude":-106.723089,
+    "iso:country":"US",
+    "sg:address":"1400 Fort St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 2250",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SVHMfr0uNateHQ3u9itbM_44.343812_-106.723089@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312286,
+    "wof:geomhash":"a5a4b2a9bb81fbdc5641b0be6b97ee0f",
+    "wof:hierarchy":[],
+    "wof:id":874145705,
+    "wof:lastmodified":1464312286,
+    "wof:name":"Big Horn Baptist Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -106.723089,
+    44.343812,
+    -106.723089,
+    44.343812
+],
+  "geometry": {"coordinates":[-106.723089,44.343812],"type":"Point"}
+}

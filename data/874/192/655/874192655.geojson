@@ -1,0 +1,71 @@
+{
+  "id": 874192655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.329563,42.848316,-106.329563,42.848316",
+    "geom:latitude":42.848316,
+    "geom:longitude":-106.329563,
+    "iso:country":"US",
+    "sg:address":"310 Industrial Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 9427",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "refinishing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24VZ5rYN2TiGwNrNVu95f7_42.848316_-106.329563@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312767,
+    "wof:geomhash":"eaf8b29c9af18ec164cd298635e967cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874192655
+        }
+    ],
+    "wof:id":874192655,
+    "wof:lastmodified":1464312767,
+    "wof:name":"R F Woodcrafting",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refinishing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -106.329563,
+    42.848316,
+    -106.329563,
+    42.848316
+],
+  "geometry": {"coordinates":[-106.32956299999999,42.848316],"type":"Point"}
+}

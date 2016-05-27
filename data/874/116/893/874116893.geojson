@@ -1,0 +1,72 @@
+{
+  "id": 874116893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.338625,42.84781,-106.338625,42.84781",
+    "geom:latitude":42.84781,
+    "geom:longitude":-106.338625,
+    "iso:country":"US",
+    "sg:address":"1000 W 1st St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 0189",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "heat",
+        "exchanger"
+    ],
+    "sg:website":"www.hicofabrication.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fdweR6LvhdQO8wXORyKmk_42.847810_-106.338625@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312005,
+    "wof:geomhash":"e71fbe088e69e4442dcd2036d9a69dbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874116893
+        }
+    ],
+    "wof:id":874116893,
+    "wof:lastmodified":1464312005,
+    "wof:name":"High Country Fabrication",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heat",
+        "exchanger"
+    ]
+},
+  "bbox": [
+    -106.338625,
+    42.84781,
+    -106.338625,
+    42.84781
+],
+  "geometry": {"coordinates":[-106.33862499999999,42.84781],"type":"Point"}
+}

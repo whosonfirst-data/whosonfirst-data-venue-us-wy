@@ -1,0 +1,56 @@
+{
+  "id": 874092791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.947093,44.791756,-106.947093,44.791756",
+    "geom:latitude":44.791756,
+    "geom:longitude":-106.947093,
+    "iso:country":"US",
+    "sg:address":"510 E College Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 4111",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JcrLBydatHhqhWQOcAsXZ_44.791756_-106.947093@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311693,
+    "wof:geomhash":"a71f6710c6cb88b99b0c29ba301ed498",
+    "wof:hierarchy":[],
+    "wof:id":874092791,
+    "wof:lastmodified":1464311693,
+    "wof:name":"Mountain View Veterinary",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -106.947093,
+    44.791756,
+    -106.947093,
+    44.791756
+],
+  "geometry": {"coordinates":[-106.947093,44.791756],"type":"Point"}
+}

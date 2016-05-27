@@ -1,0 +1,56 @@
+{
+  "id": 874156589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.108194,42.552047,-110.108194,42.552047",
+    "geom:latitude":42.552047,
+    "geom:longitude":-110.108194,
+    "iso:country":"US",
+    "sg:address":"111 Ball Ln",
+    "sg:city":"Big Piney",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 276 3625",
+    "sg:postcode":"83113",
+    "sg:province":"WY",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zIVn2cuwYQsrxCp8LpCZI_42.552047_-110.108194@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312395,
+    "wof:geomhash":"9a8b1861dcfe88053bbb4c24d1206561",
+    "wof:hierarchy":[],
+    "wof:id":874156589,
+    "wof:lastmodified":1464312395,
+    "wof:name":"Martin's Welding",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -110.108194,
+    42.552047,
+    -110.108194,
+    42.552047
+],
+  "geometry": {"coordinates":[-110.108194,42.552047],"type":"Point"}
+}

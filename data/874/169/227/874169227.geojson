@@ -1,0 +1,58 @@
+{
+  "id": 874169227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.240298,41.788,-107.240298,41.788",
+    "geom:latitude":41.788,
+    "geom:longitude":-107.240298,
+    "iso:country":"US",
+    "sg:address":"208 5th St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 7200",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77MdBoP59Dr14qsMhHe4b8_41.788000_-107.240298@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312519,
+    "wof:geomhash":"503a9f87104035744a5f3acabc0edc64",
+    "wof:hierarchy":[],
+    "wof:id":874169227,
+    "wof:lastmodified":1464312519,
+    "wof:name":"Babbette's School Of Baton",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -107.240298,
+    41.788,
+    -107.240298,
+    41.788
+],
+  "geometry": {"coordinates":[-107.240298,41.788],"type":"Point"}
+}

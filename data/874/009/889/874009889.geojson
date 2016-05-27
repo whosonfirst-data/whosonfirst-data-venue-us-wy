@@ -1,0 +1,56 @@
+{
+  "id": 874009889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.725422,41.168573,-104.725422,41.168573",
+    "geom:latitude":41.168573,
+    "geom:longitude":-104.725422,
+    "iso:country":"US",
+    "sg:address":"6725 Lupine Trl",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 0034",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DzqtbStjajh17sRT24vBM_41.168573_-104.725422@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310855,
+    "wof:geomhash":"c46476e1e1e9e78e7369003390f32cd2",
+    "wof:hierarchy":[],
+    "wof:id":874009889,
+    "wof:lastmodified":1464310855,
+    "wof:name":"Public Education Coalition",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -104.725422,
+    41.168573,
+    -104.725422,
+    41.168573
+],
+  "geometry": {"coordinates":[-104.72542199999999,41.168573],"type":"Point"}
+}

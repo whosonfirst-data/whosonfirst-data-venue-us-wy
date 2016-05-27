@@ -1,0 +1,73 @@
+{
+  "id": 874105771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.361571,42.849725,-106.361571,42.849725",
+    "geom:latitude":42.849725,
+    "geom:longitude":-106.361571,
+    "iso:country":"US",
+    "sg:address":"301 Salt Creek Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 268 4524",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pipe",
+        "line",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dKPoyKuIodMtyRYDf9L6n_42.849725_-106.361571@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311866,
+    "wof:geomhash":"f40d6e6ca435179ba14e6370a1155fce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874105771
+        }
+    ],
+    "wof:id":874105771,
+    "wof:lastmodified":1464311866,
+    "wof:name":"Rocky Mountain Pipeline System",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "line",
+        "company"
+    ]
+},
+  "bbox": [
+    -106.361571,
+    42.849725,
+    -106.361571,
+    42.849725
+],
+  "geometry": {"coordinates":[-106.361571,42.849725],"type":"Point"}
+}

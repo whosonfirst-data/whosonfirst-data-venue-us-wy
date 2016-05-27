@@ -1,0 +1,58 @@
+{
+  "id": 874133293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.818215,41.139384,-104.818215,41.139384",
+    "geom:latitude":41.139384,
+    "geom:longitude":-104.818215,
+    "iso:country":"US",
+    "sg:address":"2301 Central Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 777 7200",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77hneKPb16a9NvmChBlWV4_41.139384_-104.818215@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312175,
+    "wof:geomhash":"1f0db620dc22ac57c416e5f1532efb1e",
+    "wof:hierarchy":[],
+    "wof:id":874133293,
+    "wof:lastmodified":1464312175,
+    "wof:name":"Attorney General Victim Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -104.818215,
+    41.139384,
+    -104.818215,
+    41.139384
+],
+  "geometry": {"coordinates":[-104.818215,41.139384],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874220399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.424444,42.877594,-106.424444,42.877594",
+    "geom:latitude":42.877594,
+    "geom:longitude":-106.424444,
+    "iso:country":"US",
+    "sg:address":"6684 W Uranium Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2244",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oCDk5p5MQ44pGFiFyJLLh_42.877594_-106.424444@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313068,
+    "wof:geomhash":"fc381bdbccb08d10a2d9b520d68b56e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874220399
+        }
+    ],
+    "wof:id":874220399,
+    "wof:lastmodified":1464313068,
+    "wof:name":"High Plains Construction Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.424444,
+    42.877594,
+    -106.424444,
+    42.877594
+],
+  "geometry": {"coordinates":[-106.42444399999999,42.877594],"type":"Point"}
+}

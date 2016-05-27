@@ -1,0 +1,71 @@
+{
+  "id": 874102483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.311088,42.85073,-106.311088,42.85073",
+    "geom:latitude":42.85073,
+    "geom:longitude":-106.311088,
+    "iso:country":"US",
+    "sg:address":"146 N Jackson St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Junior College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 0619",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "technical",
+        "institute"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6osMiU93gNcXFTmp9YdtIh_42.850730_-106.311088@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311826,
+    "wof:geomhash":"835082374691409b3dbba381d7471510",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874102483
+        }
+    ],
+    "wof:id":874102483,
+    "wof:lastmodified":1464311826,
+    "wof:name":"Academy Of Hair Design",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "institute"
+    ]
+},
+  "bbox": [
+    -106.311088,
+    42.85073,
+    -106.311088,
+    42.85073
+],
+  "geometry": {"coordinates":[-106.311088,42.85073],"type":"Point"}
+}

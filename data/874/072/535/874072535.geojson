@@ -1,0 +1,56 @@
+{
+  "id": 874072535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.796229,43.460226,-110.796229,43.460226",
+    "geom:latitude":43.460226,
+    "geom:longitude":-110.796229,
+    "iso:country":"US",
+    "sg:address":"1600 W Berger Ln",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 2615",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sanitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2shajkG6rIi99niEemq2Vi_43.460226_-110.796229@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311470,
+    "wof:geomhash":"7c8b56c60e22ee4ba47cd582ac5357a2",
+    "wof:hierarchy":[],
+    "wof:id":874072535,
+    "wof:lastmodified":1464311470,
+    "wof:name":"Westbank Sanitation Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitation"
+    ]
+},
+  "bbox": [
+    -110.796229,
+    43.460226,
+    -110.796229,
+    43.460226
+],
+  "geometry": {"coordinates":[-110.796229,43.460226],"type":"Point"}
+}

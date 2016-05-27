@@ -1,0 +1,58 @@
+{
+  "id": 874193693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.038205,44.516643,-109.038205,44.516643",
+    "geom:latitude":44.516643,
+    "geom:longitude":-109.038205,
+    "iso:country":"US",
+    "sg:address":"2102 26th St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 7811",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00Lb1246cLkKFbXAQee5LW_44.516643_-109.038205@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312776,
+    "wof:geomhash":"4dfbb32366f13795ddf594d676810126",
+    "wof:hierarchy":[],
+    "wof:id":874193693,
+    "wof:lastmodified":1464312776,
+    "wof:name":"26th Street Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -109.038205,
+    44.516643,
+    -109.038205,
+    44.516643
+],
+  "geometry": {"coordinates":[-109.038205,44.516643],"type":"Point"}
+}

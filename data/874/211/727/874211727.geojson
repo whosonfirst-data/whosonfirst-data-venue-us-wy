@@ -1,0 +1,56 @@
+{
+  "id": 874211727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.795249,41.138207,-104.795249,41.138207",
+    "geom:latitude":41.138207,
+    "geom:longitude":-104.795249,
+    "iso:country":"US",
+    "sg:address":"1604 E Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 2333",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I7ef47whtGzV2L806aoVC_41.138207_-104.795249@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312971,
+    "wof:geomhash":"d4868e4b14dc748dff3c62a52d15119a",
+    "wof:hierarchy":[],
+    "wof:id":874211727,
+    "wof:lastmodified":1464312971,
+    "wof:name":"Lincolnway Barber Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -104.795249,
+    41.138207,
+    -104.795249,
+    41.138207
+],
+  "geometry": {"coordinates":[-104.795249,41.138207],"type":"Point"}
+}

@@ -1,0 +1,51 @@
+{
+  "id": 874081437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.210002,43.647323,-108.210002,43.647323",
+    "geom:latitude":43.647323,
+    "geom:longitude":-108.210002,
+    "iso:country":"US",
+    "sg:address":"440 Arapahoe St",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 2511",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gq7ilyf1qu09KTnYgfZL8_43.647323_-108.210002@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311568,
+    "wof:geomhash":"96c8d50ec0b2b3bed54ab87339b916a6",
+    "wof:hierarchy":[],
+    "wof:id":874081437,
+    "wof:lastmodified":1464311568,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.210002,
+    43.647323,
+    -108.210002,
+    43.647323
+],
+  "geometry": {"coordinates":[-108.210002,43.647323],"type":"Point"}
+}

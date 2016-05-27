@@ -1,0 +1,69 @@
+{
+  "id": 874224569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.329397,42.847002,-106.329397,42.847002",
+    "geom:latitude":42.847002,
+    "geom:longitude":-106.329397,
+    "iso:country":"US",
+    "sg:address":"424 S Elm St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 334 2163",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T2q1b5BaRzEBkDHNUIDq0_42.847002_-106.329397@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313107,
+    "wof:geomhash":"3fd1adcbdc650f197068e7765cdcc499",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874224569
+        }
+    ],
+    "wof:id":874224569,
+    "wof:lastmodified":1464313107,
+    "wof:name":"Niobrara County Attorneys",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -106.329397,
+    42.847002,
+    -106.329397,
+    42.847002
+],
+  "geometry": {"coordinates":[-106.329397,42.847002],"type":"Point"}
+}

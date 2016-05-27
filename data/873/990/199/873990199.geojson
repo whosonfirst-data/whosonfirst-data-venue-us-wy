@@ -1,0 +1,64 @@
+{
+  "id": 873990199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.332002,42.833983,-106.332002,42.833983",
+    "geom:latitude":42.833983,
+    "geom:longitude":-106.332002,
+    "iso:country":"US",
+    "sg:address":"1550 S Spruce St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 3416",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DsvcHOntnsri01TdHaGmM_42.833983_-106.332002@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310691,
+    "wof:geomhash":"73f6c667c3d168cd808b1796bf72da79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873990199
+        }
+    ],
+    "wof:id":873990199,
+    "wof:lastmodified":1464310691,
+    "wof:name":"Windfall Oil Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.332002,
+    42.833983,
+    -106.332002,
+    42.833983
+],
+  "geometry": {"coordinates":[-106.332002,42.833983],"type":"Point"}
+}

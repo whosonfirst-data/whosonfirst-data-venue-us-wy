@@ -1,0 +1,73 @@
+{
+  "id": 874108399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.344004,42.823136,-106.344004,42.823136",
+    "geom:latitude":42.823136,
+    "geom:longitude":-106.344004,
+    "iso:country":"US",
+    "sg:address":"2520 Knollwood Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 2055",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "house",
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SwRgIoVO7eV3P9iN2wEf2_42.823136_-106.344004@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311898,
+    "wof:geomhash":"98eef827b994ca6a2d87592e9ca3b4cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874108399
+        }
+    ],
+    "wof:id":874108399,
+    "wof:lastmodified":1464311898,
+    "wof:name":"Old World Builders Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.344004,
+    42.823136,
+    -106.344004,
+    42.823136
+],
+  "geometry": {"coordinates":[-106.344004,42.823136],"type":"Point"}
+}

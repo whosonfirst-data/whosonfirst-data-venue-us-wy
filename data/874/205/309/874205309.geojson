@@ -1,0 +1,71 @@
+{
+  "id": 874205309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.627143,41.308839,-105.627143,41.308839",
+    "geom:latitude":41.308839,
+    "geom:longitude":-105.627143,
+    "iso:country":"US",
+    "sg:address":"2272 Snowy Range Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4247",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t6NpO7SxbQkQH8cQIp1M8_41.308839_-105.627143@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312897,
+    "wof:geomhash":"47c610d8b028342f0f519ceba1550581",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874205309
+        }
+    ],
+    "wof:id":874205309,
+    "wof:lastmodified":1464312897,
+    "wof:name":"Star's Snowy Range Spa",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.627143,
+    41.308839,
+    -105.627143,
+    41.308839
+],
+  "geometry": {"coordinates":[-105.627143,41.308839],"type":"Point"}
+}

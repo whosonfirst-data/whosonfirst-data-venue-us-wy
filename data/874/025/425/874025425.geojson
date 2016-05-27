@@ -1,0 +1,69 @@
+{
+  "id": 874025425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.30272,42.853643,-106.30272,42.853643",
+    "geom:latitude":42.853643,
+    "geom:longitude":-106.30272,
+    "iso:country":"US",
+    "sg:address":"1717 E Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2997",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RVAVdmwWnsi4gZdiRGoPh_42.853643_-106.302720@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311001,
+    "wof:geomhash":"bda98c046de91fa44b56ca9b0a0c4e6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874025425
+        }
+    ],
+    "wof:id":874025425,
+    "wof:lastmodified":1464311001,
+    "wof:name":"Custom Upholstery Works",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -106.30272,
+    42.853643,
+    -106.30272,
+    42.853643
+],
+  "geometry": {"coordinates":[-106.30271999999999,42.853643],"type":"Point"}
+}

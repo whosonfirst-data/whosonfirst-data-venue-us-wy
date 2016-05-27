@@ -1,0 +1,78 @@
+{
+  "id": 874208119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.818572,41.152207,-104.818572,41.152207",
+    "geom:latitude":41.152207,
+    "geom:longitude":-104.818572,
+    "iso:country":"US",
+    "sg:address":"3913 Evans Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 4417",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ],
+    "sg:website":"www.skyharborair.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WgbftvbKqWETQdXhhl5pr_41.152207_-104.818572@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312930,
+    "wof:geomhash":"d854a689434bafb63eb1c0ec0b8af4d0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":874208119
+        }
+    ],
+    "wof:id":874208119,
+    "wof:lastmodified":1464312930,
+    "wof:name":"Sky Harbor Air Svc",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ]
+},
+  "bbox": [
+    -104.818572,
+    41.152207,
+    -104.818572,
+    41.152207
+],
+  "geometry": {"coordinates":[-104.818572,41.152207],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874176785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.272021,42.840656,-106.272021,42.840656",
+    "geom:latitude":42.840656,
+    "geom:longitude":-106.272021,
+    "iso:country":"US",
+    "sg:address":"4033 Dorset St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 5834",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78eXA3NJefg8y1ejkV0Quo_42.840656_-106.272021@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312594,
+    "wof:geomhash":"1d392b2ff8a613c2f1accaad25f08ac8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874176785
+        }
+    ],
+    "wof:id":874176785,
+    "wof:lastmodified":1464312594,
+    "wof:name":"Delray Publications",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.272021,
+    42.840656,
+    -106.272021,
+    42.840656
+],
+  "geometry": {"coordinates":[-106.272021,42.840656],"type":"Point"}
+}

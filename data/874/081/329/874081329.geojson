@@ -1,0 +1,73 @@
+{
+  "id": 874081329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.310939,42.850635,-106.310939,42.850635",
+    "geom:latitude":42.850635,
+    "geom:longitude":-106.310939,
+    "iso:country":"US",
+    "sg:address":"155 N Jackson St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 9411",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "reservation",
+        "motel",
+        "hotel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O9Vpns0bB2ieN0AtOauhX_42.850635_-106.310939@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311567,
+    "wof:geomhash":"961cc0567d3c483f7d7b993008342a2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874081329
+        }
+    ],
+    "wof:id":874081329,
+    "wof:lastmodified":1464311567,
+    "wof:name":"Jackson Hole Reservations",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reservation",
+        "motel",
+        "hotel"
+    ]
+},
+  "bbox": [
+    -106.310939,
+    42.850635,
+    -106.310939,
+    42.850635
+],
+  "geometry": {"coordinates":[-106.310939,42.850635],"type":"Point"}
+}

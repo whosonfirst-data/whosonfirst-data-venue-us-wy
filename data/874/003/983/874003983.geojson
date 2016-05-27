@@ -1,0 +1,51 @@
+{
+  "id": 874003983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.884504,43.003026,-108.884504,43.003026",
+    "geom:latitude":43.003026,
+    "geom:longitude":-108.884504,
+    "iso:country":"US",
+    "sg:address":"12 N Fork Rd",
+    "sg:city":"Fort Washakie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 2481",
+    "sg:postcode":"82514",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OlgPLfBPfRy1se20DgAGx_43.003026_-108.884504@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310803,
+    "wof:geomhash":"c1e6c4640bc67d5ea6ef6531e376e3fa",
+    "wof:hierarchy":[],
+    "wof:id":874003983,
+    "wof:lastmodified":1464310803,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.884504,
+    43.003026,
+    -108.884504,
+    43.003026
+],
+  "geometry": {"coordinates":[-108.88450400000001,43.003026],"type":"Point"}
+}

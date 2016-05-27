@@ -1,0 +1,79 @@
+{
+  "id": 874104197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.596007,41.312033,-105.596007,41.312033",
+    "geom:latitude":41.312033,
+    "geom:longitude":-105.596007,
+    "iso:country":"US",
+    "sg:address":"106 E Ivinson Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 5835",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ready",
+        "to",
+        "lingerie",
+        "costume",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z6H6d3AMuy9MkTI7kqvRO_41.312033_-105.596007@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311847,
+    "wof:geomhash":"38e657d91af61ffce3c4870b04ef1424",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874104197
+        }
+    ],
+    "wof:id":874104197,
+    "wof:lastmodified":1464311847,
+    "wof:name":"Sensuous She",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "to",
+        "lingerie",
+        "costume",
+        "wear"
+    ]
+},
+  "bbox": [
+    -105.596007,
+    41.312033,
+    -105.596007,
+    41.312033
+],
+  "geometry": {"coordinates":[-105.596007,41.312033],"type":"Point"}
+}

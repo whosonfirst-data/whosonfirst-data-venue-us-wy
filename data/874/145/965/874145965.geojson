@@ -1,0 +1,73 @@
+{
+  "id": 874145965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.084461,42.855521,-106.084461,42.855521",
+    "geom:latitude":42.855521,
+    "geom:longitude":-106.084461,
+    "iso:country":"US",
+    "sg:address":"13423 US Hwy 20 - 26",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 5935",
+    "sg:postcode":"82636",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AvLKrtKJPeDrxnE9KKQzs_42.855521_-106.084461@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312293,
+    "wof:geomhash":"fc27108b2f4884caea8b04eedec4ad04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874145965
+        }
+    ],
+    "wof:id":874145965,
+    "wof:lastmodified":1464312293,
+    "wof:name":"Simmons Kard Dek Kennels",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -106.084461,
+    42.855521,
+    -106.084461,
+    42.855521
+],
+  "geometry": {"coordinates":[-106.084461,42.855521],"type":"Point"}
+}

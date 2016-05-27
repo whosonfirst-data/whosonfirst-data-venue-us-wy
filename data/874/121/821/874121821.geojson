@@ -1,0 +1,60 @@
+{
+  "id": 874121821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.639183,44.850743,-109.639183,44.850743",
+    "geom:latitude":44.850743,
+    "geom:longitude":-109.639183,
+    "iso:country":"US",
+    "sg:address":"44 N Crandall Rd",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 2049",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k3u8RSQC1qpD8y1O3uzac_44.850743_-109.639183@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312057,
+    "wof:geomhash":"a7d1e63f0519b524f63e7fa2a4bb66ea",
+    "wof:hierarchy":[],
+    "wof:id":874121821,
+    "wof:lastmodified":1464312057,
+    "wof:name":"Rick Wogoman",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -109.639183,
+    44.850743,
+    -109.639183,
+    44.850743
+],
+  "geometry": {"coordinates":[-109.639183,44.850743],"type":"Point"}
+}

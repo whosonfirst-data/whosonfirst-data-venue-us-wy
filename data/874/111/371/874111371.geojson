@@ -1,0 +1,64 @@
+{
+  "id": 874111371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.350804,42.834759,-106.350804,42.834759",
+    "geom:latitude":42.834759,
+    "geom:longitude":-106.350804,
+    "iso:country":"US",
+    "sg:address":"1725 Sycamore St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2843",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SG4Wp441BmjBTGtSNorZH_42.834759_-106.350804@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311947,
+    "wof:geomhash":"9e9f6f8008a5b02f30896fb8b7d7ff15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874111371
+        }
+    ],
+    "wof:id":874111371,
+    "wof:lastmodified":1464311947,
+    "wof:name":"Platte River Outfitters",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.350804,
+    42.834759,
+    -106.350804,
+    42.834759
+],
+  "geometry": {"coordinates":[-106.350804,42.834759],"type":"Point"}
+}

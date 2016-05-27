@@ -1,0 +1,56 @@
+{
+  "id": 874022755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.79155,41.210419,-106.79155,41.210419",
+    "geom:latitude":41.210419,
+    "geom:longitude":-106.79155,
+    "iso:country":"US",
+    "sg:address":"201 4th St",
+    "sg:city":"Encampment",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 327 5216",
+    "sg:postcode":"82325",
+    "sg:province":"WY",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5blKzEDwtdrk1derB2PLnk_41.210419_-106.791550@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310971,
+    "wof:geomhash":"52ed5fb382d4c571d3baac611b4bb968",
+    "wof:hierarchy":[],
+    "wof:id":874022755,
+    "wof:lastmodified":1464310971,
+    "wof:name":"Encampment Meats",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -106.79155,
+    41.210419,
+    -106.79155,
+    41.210419
+],
+  "geometry": {"coordinates":[-106.79155,41.210419],"type":"Point"}
+}

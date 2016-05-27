@@ -1,0 +1,57 @@
+{
+  "id": 874228621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.828621,41.172692,-104.828621,41.172692",
+    "geom:latitude":41.172692,
+    "geom:longitude":-104.828621,
+    "iso:country":"US",
+    "sg:address":"5800 Yellowstone Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/118410-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 8171",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B4oJprngEleK8WKxj30J6_41.172692_-104.828621@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313147,
+    "wof:geomhash":"7c32f5f3d4dcb91fe74882ebba6ac895",
+    "wof:hierarchy":[],
+    "wof:id":874228621,
+    "wof:lastmodified":1464313147,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -104.828621,
+    41.172692,
+    -104.828621,
+    41.172692
+],
+  "geometry": {"coordinates":[-104.828621,41.172692],"type":"Point"}
+}

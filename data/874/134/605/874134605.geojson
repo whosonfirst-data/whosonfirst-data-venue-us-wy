@@ -1,0 +1,71 @@
+{
+  "id": 874134605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33583,42.856544,-106.33583,42.856544",
+    "geom:latitude":42.856544,
+    "geom:longitude":-106.33583,
+    "iso:country":"US",
+    "sg:address":"892 W English Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 8805",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mail",
+        "direct"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j3fXCqdjsgFca60DnTu4r_42.856544_-106.335830@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312187,
+    "wof:geomhash":"2eeaca95be12bd0034cf108a3fcf3953",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874134605
+        }
+    ],
+    "wof:id":874134605,
+    "wof:lastmodified":1464312187,
+    "wof:name":"Wyoming Parcel Service",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "direct"
+    ]
+},
+  "bbox": [
+    -106.33583,
+    42.856544,
+    -106.33583,
+    42.856544
+],
+  "geometry": {"coordinates":[-106.33583,42.856544],"type":"Point"}
+}

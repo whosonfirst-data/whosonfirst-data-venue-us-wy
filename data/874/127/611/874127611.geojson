@@ -1,0 +1,71 @@
+{
+  "id": 874127611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.331388,42.850019,-106.331388,42.850019",
+    "geom:latitude":42.850019,
+    "geom:longitude":-106.331388,
+    "iso:country":"US",
+    "sg:address":"415 W 1st St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 6475",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qZDJ7ARKdm7VIw2N4lBhE_42.850019_-106.331388@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312108,
+    "wof:geomhash":"10c0ea481ac82c8581eb967a17b55da8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874127611
+        }
+    ],
+    "wof:id":874127611,
+    "wof:lastmodified":1464312108,
+    "wof:name":"Westech",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -106.331388,
+    42.850019,
+    -106.331388,
+    42.850019
+],
+  "geometry": {"coordinates":[-106.331388,42.850019],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874120739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.383064,42.850849,-106.383064,42.850849",
+    "geom:latitude":42.850849,
+    "geom:longitude":-106.383064,
+    "iso:country":"US",
+    "sg:address":"4570 W Yellowstone Hwy",
+    "sg:city":"Mills",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 3221",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FzIAlf2T2CEnPz7bZ1NgG_42.850849_-106.383064@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312048,
+    "wof:geomhash":"a5fa83e4447ca8242bc959f0f3103d11",
+    "wof:hierarchy":[],
+    "wof:id":874120739,
+    "wof:lastmodified":1464312048,
+    "wof:name":"Veterans Of Foreign Wars",
+    "wof:parent_id":420550301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -106.383064,
+    42.850849,
+    -106.383064,
+    42.850849
+],
+  "geometry": {"coordinates":[-106.383064,42.850849],"type":"Point"}
+}

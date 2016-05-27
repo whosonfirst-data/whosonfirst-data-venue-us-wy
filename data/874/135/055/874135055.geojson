@@ -1,0 +1,58 @@
+{
+  "id": 874135055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.23714,41.800547,-107.23714,41.800547",
+    "geom:latitude":41.800547,
+    "geom:longitude":-107.23714,
+    "iso:country":"US",
+    "sg:address":"118 E Kendrick St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 7232",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gLpciK07rapsFpWVUrcVC_41.800547_-107.237140@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312191,
+    "wof:geomhash":"79d22230c4c08bf203fe9c4d39529a90",
+    "wof:hierarchy":[],
+    "wof:id":874135055,
+    "wof:lastmodified":1464312191,
+    "wof:name":"Storage Ventures",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -107.23714,
+    41.800547,
+    -107.23714,
+    41.800547
+],
+  "geometry": {"coordinates":[-107.23714,41.800547],"type":"Point"}
+}

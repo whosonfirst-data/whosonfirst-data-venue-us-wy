@@ -1,0 +1,58 @@
+{
+  "id": 874083631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.761338,41.171905,-104.761338,41.171905",
+    "geom:latitude":41.171905,
+    "geom:longitude":-104.761338,
+    "iso:country":"US",
+    "sg:address":"5800 N College Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 5400",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "county",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dZ2eKgKlGzqTEFhnb6c9S_41.171905_-104.761338@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311595,
+    "wof:geomhash":"e0eb1ddabb35ff0848f97336c77d4e30",
+    "wof:hierarchy":[],
+    "wof:id":874083631,
+    "wof:lastmodified":1464311595,
+    "wof:name":"Laramie County Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "protection"
+    ]
+},
+  "bbox": [
+    -104.761338,
+    41.171905,
+    -104.761338,
+    41.171905
+],
+  "geometry": {"coordinates":[-104.76133799999999,41.171905],"type":"Point"}
+}

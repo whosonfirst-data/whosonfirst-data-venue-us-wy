@@ -1,0 +1,56 @@
+{
+  "id": 874184657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.95576,44.016828,-107.95576,44.016828",
+    "geom:latitude":44.016828,
+    "geom:longitude":-107.95576,
+    "iso:country":"US",
+    "sg:address":"1000 Big Horn Ave",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 2702",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xYcAiJCxABAAmsFP5yLHk_44.016828_-107.955760@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312687,
+    "wof:geomhash":"97f3cfa0f4de93a7e170c71e463fc39c",
+    "wof:hierarchy":[],
+    "wof:id":874184657,
+    "wof:lastmodified":1464312687,
+    "wof:name":"Washakie Cnty Circuit Court",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -107.95576,
+    44.016828,
+    -107.95576,
+    44.016828
+],
+  "geometry": {"coordinates":[-107.95576,44.016828],"type":"Point"}
+}

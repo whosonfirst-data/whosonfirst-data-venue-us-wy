@@ -1,0 +1,69 @@
+{
+  "id": 874123707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.27085,42.850337,-106.27085,42.850337",
+    "geom:latitude":42.850337,
+    "geom:longitude":-106.27085,
+    "iso:country":"US",
+    "sg:address":"100 SE Wyoming Blvd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 1764",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X6M8cOwqo8n2CY6xJH5ol_42.850337_-106.270850@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312074,
+    "wof:geomhash":"b6442f9e0250335d827c28e48e35d429",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874123707
+        }
+    ],
+    "wof:id":874123707,
+    "wof:lastmodified":1464312074,
+    "wof:name":"Plains Tire Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -106.27085,
+    42.850337,
+    -106.27085,
+    42.850337
+],
+  "geometry": {"coordinates":[-106.27085,42.850337],"type":"Point"}
+}

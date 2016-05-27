@@ -1,0 +1,71 @@
+{
+  "id": 874036109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.28513,42.841129,-106.28513,42.841129",
+    "geom:latitude":42.841129,
+    "geom:longitude":-106.28513,
+    "iso:country":"US",
+    "sg:address":"3460 Trigood Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 9274",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z7Q9Dg9oMbKvGKUpMvw51_42.841129_-106.285130@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311105,
+    "wof:geomhash":"6d402abf0378199780092de982317b9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874036109
+        }
+    ],
+    "wof:id":874036109,
+    "wof:lastmodified":1464311105,
+    "wof:name":"Wonder Wash Car Wash",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -106.28513,
+    42.841129,
+    -106.28513,
+    42.841129
+],
+  "geometry": {"coordinates":[-106.28513,42.841129],"type":"Point"}
+}

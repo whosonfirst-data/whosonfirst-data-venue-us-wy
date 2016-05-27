@@ -1,0 +1,71 @@
+{
+  "id": 874090139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.335096,42.836324,-106.335096,42.836324",
+    "geom:latitude":42.836324,
+    "geom:longitude":-106.335096,
+    "iso:country":"US",
+    "sg:address":"849 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 4016",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D69Df1ZvMQTvjg8SaBHfI_42.836324_-106.335096@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311665,
+    "wof:geomhash":"f2e7896d2aa549bef963cc57c71ecdf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874090139
+        }
+    ],
+    "wof:id":874090139,
+    "wof:lastmodified":1464311665,
+    "wof:name":"Good Vibrations",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -106.335096,
+    42.836324,
+    -106.335096,
+    42.836324
+],
+  "geometry": {"coordinates":[-106.33509599999999,42.836324],"type":"Point"}
+}

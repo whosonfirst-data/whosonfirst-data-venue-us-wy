@@ -1,0 +1,60 @@
+{
+  "id": 874149923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.345687,43.10645,-108.345687,43.10645",
+    "geom:latitude":43.10645,
+    "geom:longitude":-108.345687,
+    "iso:country":"US",
+    "sg:address":"4 Mc Call Ln",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 2511",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "postal",
+        "run",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fw14WqdRfgzCtv1WUwD3c_43.106450_-108.345687@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312328,
+    "wof:geomhash":"05f908d260fd71b728d9a917981685df",
+    "wof:hierarchy":[],
+    "wof:id":874149923,
+    "wof:lastmodified":1464312328,
+    "wof:name":"Lynch Trucking Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "run",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.345687,
+    43.10645,
+    -108.345687,
+    43.10645
+],
+  "geometry": {"coordinates":[-108.345687,43.10645],"type":"Point"}
+}

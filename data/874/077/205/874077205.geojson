@@ -1,0 +1,58 @@
+{
+  "id": 874077205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.77931,41.166313,-104.77931,41.166313",
+    "geom:latitude":41.166313,
+    "geom:longitude":-104.77931,
+    "iso:country":"US",
+    "sg:address":"5118 Maple Way",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 214 9955",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Twz8sQvfazPcWDKxCuSGC_41.166313_-104.779310@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311521,
+    "wof:geomhash":"53a47cf961be6c33fb767776e48e94f9",
+    "wof:hierarchy":[],
+    "wof:id":874077205,
+    "wof:lastmodified":1464311521,
+    "wof:name":"Braden Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -104.77931,
+    41.166313,
+    -104.77931,
+    41.166313
+],
+  "geometry": {"coordinates":[-104.77931,41.166313],"type":"Point"}
+}

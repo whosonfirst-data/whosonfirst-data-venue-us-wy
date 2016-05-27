@@ -1,0 +1,56 @@
+{
+  "id": 874100003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.943151,44.508269,-108.943151,44.508269",
+    "geom:latitude":44.508269,
+    "geom:longitude":-108.943151,
+    "iso:country":"US",
+    "sg:address":"5848 Greybull Hwy",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 5916",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Hlzn9SMxF7sfW0gzvDenr_44.508269_-108.943151@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311793,
+    "wof:geomhash":"256af56ef6e6f526d2e4dcef7cf2fefb",
+    "wof:hierarchy":[],
+    "wof:id":874100003,
+    "wof:lastmodified":1464311793,
+    "wof:name":"Wyoming Fire Safety",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -108.943151,
+    44.508269,
+    -108.943151,
+    44.508269
+],
+  "geometry": {"coordinates":[-108.943151,44.508269],"type":"Point"}
+}

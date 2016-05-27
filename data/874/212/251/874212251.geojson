@@ -1,0 +1,56 @@
+{
+  "id": 874212251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.800482,41.094692,-104.800482,41.094692",
+    "geom:latitude":41.094692,
+    "geom:longitude":-104.800482,
+    "iso:country":"US",
+    "sg:address":"2518 S Greeley Hwy",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 4532",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vsia0LYx7ICzQBcxSdduU_41.094692_-104.800482@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312977,
+    "wof:geomhash":"0bf4e51838227a4a6793cf1c0b2ae8c2",
+    "wof:hierarchy":[],
+    "wof:id":874212251,
+    "wof:lastmodified":1464312977,
+    "wof:name":"Mopar Specialist",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -104.800482,
+    41.094692,
+    -104.800482,
+    41.094692
+],
+  "geometry": {"coordinates":[-104.800482,41.094692],"type":"Point"}
+}

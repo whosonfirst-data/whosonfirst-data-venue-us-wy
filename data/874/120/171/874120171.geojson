@@ -1,0 +1,69 @@
+{
+  "id": 874120171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.274215,42.84761,-106.274215,42.84761",
+    "geom:latitude":42.84761,
+    "geom:longitude":-106.274215,
+    "iso:country":"US",
+    "sg:address":"317 Thelma Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 1267",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WLriC7t1Yn2Zkh13EcSBy_42.847610_-106.274215@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312042,
+    "wof:geomhash":"1a859d3ea545206514c5d1cd0d7cc3c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874120171
+        }
+    ],
+    "wof:id":874120171,
+    "wof:lastmodified":1464312042,
+    "wof:name":"Wells Fargo Financial Accptnce",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -106.274215,
+    42.84761,
+    -106.274215,
+    42.84761
+],
+  "geometry": {"coordinates":[-106.274215,42.84761],"type":"Point"}
+}

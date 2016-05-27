@@ -1,0 +1,56 @@
+{
+  "id": 874022151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.18446,42.065972,-104.18446,42.065972",
+    "geom:latitude":42.065972,
+    "geom:longitude":-104.18446,
+    "iso:country":"US",
+    "sg:address":"2102 Main St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 2959",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rQK4nxqRkeEhw4MvM036W_42.065972_-104.184460@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310966,
+    "wof:geomhash":"c92c76f39295453bc9bbebb66f00cffb",
+    "wof:hierarchy":[],
+    "wof:id":874022151,
+    "wof:lastmodified":1464310966,
+    "wof:name":"American Legion",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -104.18446,
+    42.065972,
+    -104.18446,
+    42.065972
+],
+  "geometry": {"coordinates":[-104.18446,42.065972],"type":"Point"}
+}

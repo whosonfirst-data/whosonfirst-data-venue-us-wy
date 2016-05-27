@@ -1,0 +1,56 @@
+{
+  "id": 874053245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.38534,42.759216,-105.38534,42.759216",
+    "geom:latitude":42.759216,
+    "geom:longitude":-105.38534,
+    "iso:country":"US",
+    "sg:address":"119 S 2nd St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 1832",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NT9ek9qDvWKHsJR8re0PN_42.759216_-105.385340@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311271,
+    "wof:geomhash":"3125aa12a83923ee34ccb3f6d91d5f72",
+    "wof:hierarchy":[],
+    "wof:id":874053245,
+    "wof:lastmodified":1464311271,
+    "wof:name":"American Transmissions",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -105.38534,
+    42.759216,
+    -105.38534,
+    42.759216
+],
+  "geometry": {"coordinates":[-105.38534,42.759216],"type":"Point"}
+}

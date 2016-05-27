@@ -1,0 +1,56 @@
+{
+  "id": 874055077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.744853,42.847626,-108.744853,42.847626",
+    "geom:latitude":42.847626,
+    "geom:longitude":-108.744853,
+    "iso:country":"US",
+    "sg:address":"108 Tweed Ln",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 5512",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_446JUpHrbgOlDdEK8y74rY_42.847626_-108.744853@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311293,
+    "wof:geomhash":"5c6b5cbe89dd462235740b39874c78b8",
+    "wof:hierarchy":[],
+    "wof:id":874055077,
+    "wof:lastmodified":1464311293,
+    "wof:name":"Wind River Veterinary Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -108.744853,
+    42.847626,
+    -108.744853,
+    42.847626
+],
+  "geometry": {"coordinates":[-108.74485300000001,42.847626],"type":"Point"}
+}

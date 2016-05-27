@@ -1,0 +1,64 @@
+{
+  "id": 874135249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323685,42.848267,-106.323685,42.848267",
+    "geom:latitude":42.848267,
+    "geom:longitude":-106.323685,
+    "iso:country":"US",
+    "sg:address":"225 S Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 6091",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QeAGipggSTXxKvCXQ5Q5j_42.848267_-106.323685@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312193,
+    "wof:geomhash":"6da4c350fba12694b24662353cdd21fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874135249
+        }
+    ],
+    "wof:id":874135249,
+    "wof:lastmodified":1464312193,
+    "wof:name":"Margaret K Fashions",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.323685,
+    42.848267,
+    -106.323685,
+    42.848267
+],
+  "geometry": {"coordinates":[-106.323685,42.848267],"type":"Point"}
+}

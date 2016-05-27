@@ -1,0 +1,56 @@
+{
+  "id": 873994645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.85067,44.67239,-103.85067,44.67239",
+    "geom:latitude":44.67239,
+    "geom:longitude":-103.85067,
+    "iso:country":"US",
+    "sg:address":"607 7th Ave",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 2643",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FXFG1gqSR0FLeex29wvmv_44.672390_-103.850670@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310723,
+    "wof:geomhash":"5b2580645e0bb102faab4148231ca930",
+    "wof:hierarchy":[],
+    "wof:id":873994645,
+    "wof:lastmodified":1464310723,
+    "wof:name":"Scott Peterson Motors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -103.85067,
+    44.67239,
+    -103.85067,
+    44.67239
+],
+  "geometry": {"coordinates":[-103.85066999999999,44.67239],"type":"Point"}
+}

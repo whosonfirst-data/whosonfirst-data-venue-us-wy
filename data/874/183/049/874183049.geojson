@@ -1,0 +1,71 @@
+{
+  "id": 874183049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.597736,41.251441,-105.597736,41.251441",
+    "geom:latitude":41.251441,
+    "geom:longitude":-105.597736,
+    "iso:country":"US",
+    "sg:address":"5870 S Chaparral Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 9181",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v5JPycWQHvMXfgx31SMJ7_41.251441_-105.597736@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312660,
+    "wof:geomhash":"c9357cab168b1badbe5a7093be2d77c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874183049
+        }
+    ],
+    "wof:id":874183049,
+    "wof:lastmodified":1464312660,
+    "wof:name":"New Looks Painting",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -105.597736,
+    41.251441,
+    -105.597736,
+    41.251441
+],
+  "geometry": {"coordinates":[-105.597736,41.251441],"type":"Point"}
+}

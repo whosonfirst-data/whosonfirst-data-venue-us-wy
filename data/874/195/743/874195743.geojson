@@ -1,0 +1,51 @@
+{
+  "id": 874195743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.208007,41.573118,-109.208007,41.573118",
+    "geom:latitude":41.573118,
+    "geom:longitude":-109.208007,
+    "iso:country":"US",
+    "sg:address":"1315 Kimberly Ave",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 7495",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wRzSEIPWMT6RDN1VYDMmK_41.573118_-109.208007@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312802,
+    "wof:geomhash":"adc56fcdea6c4b2cacc565567bf89dcf",
+    "wof:hierarchy":[],
+    "wof:id":874195743,
+    "wof:lastmodified":1464312802,
+    "wof:name":"Books Without Covers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.208007,
+    41.573118,
+    -109.208007,
+    41.573118
+],
+  "geometry": {"coordinates":[-109.20800699999999,41.573118],"type":"Point"}
+}

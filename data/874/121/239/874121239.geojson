@@ -1,0 +1,73 @@
+{
+  "id": 874121239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.296142,42.838824,-106.296142,42.838824",
+    "geom:latitude":42.838824,
+    "geom:longitude":-106.296142,
+    "iso:country":"US",
+    "sg:address":"2315 E 12th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 1110",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dHmOc73pdupDim79jrNrM_42.838824_-106.296142@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312052,
+    "wof:geomhash":"73d5fe23978cc95fc76b0d2ee0224af3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874121239
+        }
+    ],
+    "wof:id":874121239,
+    "wof:lastmodified":1464312052,
+    "wof:name":"Hair Of The Dog",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -106.296142,
+    42.838824,
+    -106.296142,
+    42.838824
+],
+  "geometry": {"coordinates":[-106.296142,42.838824],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874065425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.334606,42.831848,-106.334606,42.831848",
+    "geom:latitude":42.831848,
+    "geom:longitude":-106.334606,
+    "iso:country":"US",
+    "sg:address":"1730 S Chestnut St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 7038",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "educational",
+        "program",
+        "administrative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65kyQRkjx9wF0zkyrluCd2_42.831848_-106.334606@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311383,
+    "wof:geomhash":"664c35a6e849cb03f94739fcad773ccc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874065425
+        }
+    ],
+    "wof:id":874065425,
+    "wof:lastmodified":1464311383,
+    "wof:name":"Dist 18 Amercn Cntrct Brdge Lg",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "program",
+        "administrative"
+    ]
+},
+  "bbox": [
+    -106.334606,
+    42.831848,
+    -106.334606,
+    42.831848
+],
+  "geometry": {"coordinates":[-106.33460599999999,42.831848],"type":"Point"}
+}

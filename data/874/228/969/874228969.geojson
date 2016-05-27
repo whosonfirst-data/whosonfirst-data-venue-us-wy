@@ -1,0 +1,59 @@
+{
+  "id": 874228969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.186051,42.064044,-104.186051,42.064044",
+    "geom:latitude":42.064044,
+    "geom:longitude":-104.186051,
+    "iso:country":"US",
+    "sg:address":"224 W 20th Ave",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/torrington/96494-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 3711",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zxuVw3Vd60eTm45YcXVfF_42.064044_-104.186051@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313150,
+    "wof:geomhash":"0670c41d6881107035132606cd2c2749",
+    "wof:hierarchy":[],
+    "wof:id":874228969,
+    "wof:lastmodified":1464313150,
+    "wof:name":"Taco John's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -104.186051,
+    42.064044,
+    -104.186051,
+    42.064044
+],
+  "geometry": {"coordinates":[-104.18605100000001,42.064044],"type":"Point"}
+}

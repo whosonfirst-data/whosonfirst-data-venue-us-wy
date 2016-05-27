@@ -1,0 +1,64 @@
+{
+  "id": 874110263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.276952,42.83567,-106.276952,42.83567",
+    "geom:latitude":42.83567,
+    "geom:longitude":-106.276952,
+    "iso:country":"US",
+    "sg:address":"3750 E 15th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 6063",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_423ARiDHC3J5TkEsF7qEF6_42.835670_-106.276952@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311924,
+    "wof:geomhash":"ea08efa87d068fbb3295bbaa9cdc63a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874110263
+        }
+    ],
+    "wof:id":874110263,
+    "wof:lastmodified":1464311924,
+    "wof:name":"Crystal Corson",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.276952,
+    42.83567,
+    -106.276952,
+    42.83567
+],
+  "geometry": {"coordinates":[-106.27695199999999,42.83567],"type":"Point"}
+}

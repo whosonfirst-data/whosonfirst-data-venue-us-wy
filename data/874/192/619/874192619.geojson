@@ -1,0 +1,64 @@
+{
+  "id": 874192619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.269268,42.859271,-106.269268,42.859271",
+    "geom:latitude":42.859271,
+    "geom:longitude":-106.269268,
+    "iso:country":"US",
+    "sg:address":"480 Iron St",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 7125",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XaYvSqQdre7CaigLZ0adc_42.859271_-106.269268@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312766,
+    "wof:geomhash":"db9b03cb42be0b316d5530b9747fe965",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874192619
+        }
+    ],
+    "wof:id":874192619,
+    "wof:lastmodified":1464312766,
+    "wof:name":"Meadow Gold Dairies",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.269268,
+    42.859271,
+    -106.269268,
+    42.859271
+],
+  "geometry": {"coordinates":[-106.269268,42.859271],"type":"Point"}
+}

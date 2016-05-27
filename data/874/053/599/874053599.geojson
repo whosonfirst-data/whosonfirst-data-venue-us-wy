@@ -1,0 +1,71 @@
+{
+  "id": 874053599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.599051,41.338483,-105.599051,41.338483",
+    "geom:latitude":41.338483,
+    "geom:longitude":-105.599051,
+    "iso:country":"US",
+    "sg:address":"3650 N Banner Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 0289",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "truss"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sZ3WRWOaOzEgFmLcghHSf_41.338483_-105.599051@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311275,
+    "wof:geomhash":"9979a3c78d3b414aa5bcd82d9067ce56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874053599
+        }
+    ],
+    "wof:id":874053599,
+    "wof:lastmodified":1464311275,
+    "wof:name":"Laramie Trusses",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truss"
+    ]
+},
+  "bbox": [
+    -105.599051,
+    41.338483,
+    -105.599051,
+    41.338483
+],
+  "geometry": {"coordinates":[-105.599051,41.338483],"type":"Point"}
+}

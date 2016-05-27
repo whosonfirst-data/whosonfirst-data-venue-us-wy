@@ -1,0 +1,56 @@
+{
+  "id": 874086909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.807502,41.140024,-104.807502,41.140024",
+    "geom:latitude":41.140024,
+    "geom:longitude":-104.807502,
+    "iso:country":"US",
+    "sg:address":"800 E 20th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 633 8111",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zdLKdMPrFLtuQLtLIx9Du_41.140024_-104.807502@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311629,
+    "wof:geomhash":"0602b9ae5c2b76a05d22590bf8736071",
+    "wof:hierarchy":[],
+    "wof:id":874086909,
+    "wof:lastmodified":1464311629,
+    "wof:name":"Ready Care LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -104.807502,
+    41.140024,
+    -104.807502,
+    41.140024
+],
+  "geometry": {"coordinates":[-104.807502,41.140024],"type":"Point"}
+}

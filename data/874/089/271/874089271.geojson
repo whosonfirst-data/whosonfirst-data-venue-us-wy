@@ -1,0 +1,73 @@
+{
+  "id": 874089271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.615817,41.307386,-105.615817,41.307386",
+    "geom:latitude":41.307386,
+    "geom:longitude":-105.615817,
+    "iso:country":"US",
+    "sg:address":"528 S Adams St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4046",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "game",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ILJYM8Sj5JqcixRF66rnS_41.307386_-105.615817@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311653,
+    "wof:geomhash":"8d8a1650c3d7cedc8843ad8a37172320",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874089271
+        }
+    ],
+    "wof:id":874089271,
+    "wof:lastmodified":1464311653,
+    "wof:name":"Game and Fish Comm Wyoming",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -105.615817,
+    41.307386,
+    -105.615817,
+    41.307386
+],
+  "geometry": {"coordinates":[-105.61581700000001,41.307386],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874140445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.959358,44.820829,-106.959358,44.820829",
+    "geom:latitude":44.820829,
+    "geom:longitude":-106.959358,
+    "iso:country":"US",
+    "sg:address":"393 Fort Rd",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 7038",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4svdDbLXb8J1f3NQMi0iwA_44.820829_-106.959358@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312238,
+    "wof:geomhash":"950c305ad904aab96ec11d92b3e5e611",
+    "wof:hierarchy":[],
+    "wof:id":874140445,
+    "wof:lastmodified":1464312238,
+    "wof:name":"Sheridan Sewage Treatment Plnt",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -106.959358,
+    44.820829,
+    -106.959358,
+    44.820829
+],
+  "geometry": {"coordinates":[-106.95935799999999,44.820829],"type":"Point"}
+}

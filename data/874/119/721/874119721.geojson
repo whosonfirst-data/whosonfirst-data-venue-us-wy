@@ -1,0 +1,75 @@
+{
+  "id": 874119721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323584,42.853554,-106.323584,42.853554",
+    "geom:latitude":42.853554,
+    "geom:longitude":-106.323584,
+    "iso:country":"US",
+    "sg:address":"120 E C St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 259 0438",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "heavy",
+        "equipment",
+        "truck",
+        "reseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LuZ0x3ovHjgbztcA7GdA8_42.853554_-106.323584@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312033,
+    "wof:geomhash":"fd7b2a0323aee4136954dbf3c9d2a4fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874119721
+        }
+    ],
+    "wof:id":874119721,
+    "wof:lastmodified":1464312033,
+    "wof:name":"Trout Machinery Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "equipment",
+        "truck",
+        "reseller"
+    ]
+},
+  "bbox": [
+    -106.323584,
+    42.853554,
+    -106.323584,
+    42.853554
+],
+  "geometry": {"coordinates":[-106.323584,42.853554],"type":"Point"}
+}

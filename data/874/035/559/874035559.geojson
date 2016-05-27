@@ -1,0 +1,60 @@
+{
+  "id": 874035559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.75725,44.835975,-105.75725,44.835975",
+    "geom:latitude":44.835975,
+    "geom:longitude":-105.75725,
+    "iso:country":"US",
+    "sg:address":"580 Apache Gas Plant Rd",
+    "sg:city":"Recluse",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 3288",
+    "sg:postcode":"82725",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b5HDWaqE0uVb1wdHp6Pr2_44.835975_-105.757250@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311099,
+    "wof:geomhash":"3e05828e837bf419091807cbd666e76c",
+    "wof:hierarchy":[],
+    "wof:id":874035559,
+    "wof:lastmodified":1464311099,
+    "wof:name":"Williston Basin Pipeline",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ]
+},
+  "bbox": [
+    -105.75725,
+    44.835975,
+    -105.75725,
+    44.835975
+],
+  "geometry": {"coordinates":[-105.75725,44.835975],"type":"Point"}
+}

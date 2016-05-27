@@ -1,0 +1,59 @@
+{
+  "id": 874215295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.819717,41.153128,-104.819717,41.153128",
+    "geom:latitude":41.153128,
+    "geom:longitude":-104.819717,
+    "iso:country":"US",
+    "sg:address":"200 E 8th Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 777 3952",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "sg:website":"www.dot.state.wy.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Xsb3woKIsbAnVY69iuRde_41.153128_-104.819717@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313007,
+    "wof:geomhash":"d916163141c5649017616ba0ad49a885",
+    "wof:hierarchy":[],
+    "wof:id":874215295,
+    "wof:lastmodified":1464313007,
+    "wof:name":"Aeronautics Div",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -104.819717,
+    41.153128,
+    -104.819717,
+    41.153128
+],
+  "geometry": {"coordinates":[-104.819717,41.153128],"type":"Point"}
+}

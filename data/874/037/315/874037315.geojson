@@ -1,0 +1,56 @@
+{
+  "id": 874037315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.384353,42.85454,-106.384353,42.85454",
+    "geom:latitude":42.85454,
+    "geom:longitude":-106.384353,
+    "iso:country":"US",
+    "sg:address":"4720 Cleveland St",
+    "sg:city":"Mills",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 9004",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DyXQjAc6VGvx8tPmleS3Z_42.854540_-106.384353@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311119,
+    "wof:geomhash":"fe76335d64de8f162abd466f27b0b5e0",
+    "wof:hierarchy":[],
+    "wof:id":874037315,
+    "wof:lastmodified":1464311119,
+    "wof:name":"Compression Leasing Mechanical",
+    "wof:parent_id":420550301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -106.384353,
+    42.85454,
+    -106.384353,
+    42.85454
+],
+  "geometry": {"coordinates":[-106.384353,42.85454],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 874207249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595054,41.311073,-105.595054,41.311073",
+    "geom:latitude":41.311073,
+    "geom:longitude":-105.595054,
+    "iso:country":"US",
+    "sg:address":"306 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 2802",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3symIdOQtUdnGG5Gp09g4j_41.311073_-105.595054@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312922,
+    "wof:geomhash":"3f54e8a85479c3798c5d7cb57d26803d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874207249
+        }
+    ],
+    "wof:id":874207249,
+    "wof:lastmodified":1464312922,
+    "wof:name":"Saulcy Real Estate",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.595054,
+    41.311073,
+    -105.595054,
+    41.311073
+],
+  "geometry": {"coordinates":[-105.595054,41.311073],"type":"Point"}
+}

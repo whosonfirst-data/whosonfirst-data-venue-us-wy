@@ -1,0 +1,71 @@
+{
+  "id": 874077013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.426245,42.875292,-106.426245,42.875292",
+    "geom:latitude":42.875292,
+    "geom:longitude":-106.426245,
+    "iso:country":"US",
+    "sg:address":"6915 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1796",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "field"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zY9dWZAnYjRJSf55USUYj_42.875292_-106.426245@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311520,
+    "wof:geomhash":"07f70a91ac38f2150100bce04d7ba018",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874077013
+        }
+    ],
+    "wof:id":874077013,
+    "wof:lastmodified":1464311520,
+    "wof:name":"Franks Services Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "field"
+    ]
+},
+  "bbox": [
+    -106.426245,
+    42.875292,
+    -106.426245,
+    42.875292
+],
+  "geometry": {"coordinates":[-106.42624499999999,42.875292],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874024527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.270846,42.850187,-106.270846,42.850187",
+    "geom:latitude":42.850187,
+    "geom:longitude":-106.270846,
+    "iso:country":"US",
+    "sg:address":"90 SE Wyoming Blvd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 1490",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xXHbfJnI72QQuEGwSMYHD_42.850187_-106.270846@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310991,
+    "wof:geomhash":"ce468260813111df6d782976f8df3dcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874024527
+        }
+    ],
+    "wof:id":874024527,
+    "wof:lastmodified":1464310991,
+    "wof:name":"Wholesale Tire Distributors",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -106.270846,
+    42.850187,
+    -106.270846,
+    42.850187
+],
+  "geometry": {"coordinates":[-106.27084600000001,42.850187],"type":"Point"}
+}

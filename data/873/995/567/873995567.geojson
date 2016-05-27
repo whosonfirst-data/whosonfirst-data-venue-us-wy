@@ -1,0 +1,56 @@
+{
+  "id": 873995567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.068318,41.182839,-104.068318,41.182839",
+    "geom:latitude":41.182839,
+    "geom:longitude":-104.068318,
+    "iso:country":"US",
+    "sg:address":"212 Main St",
+    "sg:city":"Pine Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 245 3552",
+    "sg:postcode":"82082",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NHCygu0Myl77x1MIJ7h9g_41.182839_-104.068318@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310729,
+    "wof:geomhash":"9d69b3eb80db8bbc77ca09543d624c20",
+    "wof:hierarchy":[],
+    "wof:id":873995567,
+    "wof:lastmodified":1464310729,
+    "wof:name":"Left Lane Ends Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -104.068318,
+    41.182839,
+    -104.068318,
+    41.182839
+],
+  "geometry": {"coordinates":[-104.068318,41.182839],"type":"Point"}
+}

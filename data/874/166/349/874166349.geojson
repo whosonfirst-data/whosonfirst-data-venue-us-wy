@@ -1,0 +1,69 @@
+{
+  "id": 874166349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.352313,42.817677,-106.352313,42.817677",
+    "geom:latitude":42.817677,
+    "geom:longitude":-106.352313,
+    "iso:country":"US",
+    "sg:address":"2411 Brentwood Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 0638",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uPfIvS3Sx4Bw64Cams6bo_42.817677_-106.352313@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312492,
+    "wof:geomhash":"0c33719ee2e4174c93961df57ec79878",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874166349
+        }
+    ],
+    "wof:id":874166349,
+    "wof:lastmodified":1464312492,
+    "wof:name":"Gary T Casper",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field"
+    ]
+},
+  "bbox": [
+    -106.352313,
+    42.817677,
+    -106.352313,
+    42.817677
+],
+  "geometry": {"coordinates":[-106.352313,42.817677],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874148469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.449698,42.90019,-106.449698,42.90019",
+    "geom:latitude":42.90019,
+    "geom:longitude":-106.449698,
+    "iso:country":"US",
+    "sg:address":"3465 Bell Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 8916",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "insulation",
+        "heat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ntL1PX8N1FgZiNCpRK3GB_42.900190_-106.449698@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312315,
+    "wof:geomhash":"b340730933c232ca7047ea8638c64fa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874148469
+        }
+    ],
+    "wof:id":874148469,
+    "wof:lastmodified":1464312315,
+    "wof:name":"International Technifab",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat"
+    ]
+},
+  "bbox": [
+    -106.449698,
+    42.90019,
+    -106.449698,
+    42.90019
+],
+  "geometry": {"coordinates":[-106.449698,42.90019],"type":"Point"}
+}

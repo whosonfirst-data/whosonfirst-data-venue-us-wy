@@ -1,0 +1,69 @@
+{
+  "id": 874162619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33218,42.83856,-106.33218,42.83856",
+    "geom:latitude":42.83856,
+    "geom:longitude":-106.33218,
+    "iso:country":"US",
+    "sg:address":"600 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 7123",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YTLCevyhMeS2kCiitf21L_42.838560_-106.332180@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312456,
+    "wof:geomhash":"356031e449687e01418dd1a1390d2d95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874162619
+        }
+    ],
+    "wof:id":874162619,
+    "wof:lastmodified":1464312456,
+    "wof:name":"Bustard's Funeral Directors",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -106.33218,
+    42.83856,
+    -106.33218,
+    42.83856
+],
+  "geometry": {"coordinates":[-106.33217999999999,42.83856],"type":"Point"}
+}

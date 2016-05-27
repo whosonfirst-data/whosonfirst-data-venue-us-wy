@@ -1,0 +1,71 @@
+{
+  "id": 874120083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.416122,42.818676,-106.416122,42.818676",
+    "geom:latitude":42.818676,
+    "geom:longitude":-106.416122,
+    "iso:country":"US",
+    "sg:address":"3066 Cabin Creek Pl",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 5765",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "stuffed",
+        "doll"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70t6CD90KkTMK2SDqBUFh5_42.818676_-106.416122@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312042,
+    "wof:geomhash":"d4a2702a85d412ca0a372a3121590444",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874120083
+        }
+    ],
+    "wof:id":874120083,
+    "wof:lastmodified":1464312042,
+    "wof:name":"Gray's Crafts",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stuffed",
+        "doll"
+    ]
+},
+  "bbox": [
+    -106.416122,
+    42.818676,
+    -106.416122,
+    42.818676
+],
+  "geometry": {"coordinates":[-106.416122,42.818676],"type":"Point"}
+}

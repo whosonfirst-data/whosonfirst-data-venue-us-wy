@@ -1,0 +1,59 @@
+{
+  "id": 874230535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.82863,41.16853,-104.82863,41.16853",
+    "geom:latitude":41.16853,
+    "geom:longitude":-104.82863,
+    "iso:country":"US",
+    "sg:address":"5410 Yellowstone Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/96476-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 2863",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04QH9SpNcQDqv3jCaOW1fZ_41.168881_-104.828684@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313170,
+    "wof:geomhash":"a71fe03e8683985ea3c34462b27e7466",
+    "wof:hierarchy":[],
+    "wof:id":874230535,
+    "wof:lastmodified":1464313170,
+    "wof:name":"Taco John's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -104.82863,
+    41.16853,
+    -104.82863,
+    41.16853
+],
+  "geometry": {"coordinates":[-104.82863,41.16853],"type":"Point"}
+}

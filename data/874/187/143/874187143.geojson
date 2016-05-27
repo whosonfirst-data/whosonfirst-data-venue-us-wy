@@ -1,0 +1,60 @@
+{
+  "id": 874187143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.958775,44.516256,-108.958775,44.516256",
+    "geom:latitude":44.516256,
+    "geom:longitude":-108.958775,
+    "iso:country":"US",
+    "sg:address":"36 Spring Rd",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 6766",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3utTxAwiwOcP2Bxq4Ph6E8_44.516256_-108.958775@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312710,
+    "wof:geomhash":"31be56d7f8f78b2e8763f2185951f364",
+    "wof:hierarchy":[],
+    "wof:id":874187143,
+    "wof:lastmodified":1464312710,
+    "wof:name":"J & B Engines",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -108.958775,
+    44.516256,
+    -108.958775,
+    44.516256
+],
+  "geometry": {"coordinates":[-108.958775,44.516256],"type":"Point"}
+}

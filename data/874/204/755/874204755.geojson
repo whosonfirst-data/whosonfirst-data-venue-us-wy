@@ -1,0 +1,58 @@
+{
+  "id": 874204755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.75663,41.137083,-104.75663,41.137083",
+    "geom:latitude":41.137083,
+    "geom:longitude":-104.75663,
+    "iso:country":"US",
+    "sg:address":"1202 Cleveland Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 0444",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TSApoMxPIVAWnnHSav3QE_41.137083_-104.756630@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312892,
+    "wof:geomhash":"4377dbd4ce57d0db53d7c196b71f69cd",
+    "wof:hierarchy":[],
+    "wof:id":874204755,
+    "wof:lastmodified":1464312892,
+    "wof:name":"Fibromyalgia Treatment Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -104.75663,
+    41.137083,
+    -104.75663,
+    41.137083
+],
+  "geometry": {"coordinates":[-104.75663,41.137083],"type":"Point"}
+}

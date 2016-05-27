@@ -1,0 +1,76 @@
+{
+  "id": 874159355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.285471,42.836142,-106.285471,42.836142",
+    "geom:latitude":42.836142,
+    "geom:longitude":-106.285471,
+    "iso:country":"US",
+    "sg:address":"1261 Glenaire Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 0033",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "coffee",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dZDfS1jkS4mx4txLm4caL_42.836142_-106.285471@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312425,
+    "wof:geomhash":"ef23b63e57d2fb9ced6e790b4369c394",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874159355
+        }
+    ],
+    "wof:id":874159355,
+    "wof:lastmodified":1464312425,
+    "wof:name":"Uncommon Grounds 1",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "eating"
+    ]
+},
+  "bbox": [
+    -106.285471,
+    42.836142,
+    -106.285471,
+    42.836142
+],
+  "geometry": {"coordinates":[-106.285471,42.836142],"type":"Point"}
+}

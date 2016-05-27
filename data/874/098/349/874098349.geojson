@@ -1,0 +1,77 @@
+{
+  "id": 874098349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.306691,42.846524,-106.306691,42.846524",
+    "geom:latitude":42.846524,
+    "geom:longitude":-106.306691,
+    "iso:country":"US",
+    "sg:address":"319 S Wilson St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 4832",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hospice",
+        "specialty"
+    ],
+    "sg:website":"www.cwhp.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DCA336TZuyiGvpeukoSsh_42.846524_-106.306691@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311761,
+    "wof:geomhash":"bd3555a252ef0eba60ae3b1ef4ad3294",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874098349
+        }
+    ],
+    "wof:id":874098349,
+    "wof:lastmodified":1464311761,
+    "wof:name":"Central Wyming Hospice Program",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -106.306691,
+    42.846524,
+    -106.306691,
+    42.846524
+],
+  "geometry": {"coordinates":[-106.306691,42.846524],"type":"Point"}
+}

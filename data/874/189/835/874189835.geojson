@@ -1,0 +1,56 @@
+{
+  "id": 874189835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.815832,41.131451,-104.815832,41.131451",
+    "geom:latitude":41.131451,
+    "geom:longitude":-104.815832,
+    "iso:country":"US",
+    "sg:address":"1509 Carey Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 772 7935",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70QovIEx2fqtmepm0dKzlP_41.131451_-104.815832@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312738,
+    "wof:geomhash":"2c711081659ae4737fc2f59a357d4a3b",
+    "wof:hierarchy":[],
+    "wof:id":874189835,
+    "wof:lastmodified":1464312738,
+    "wof:name":"Studio D",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -104.815832,
+    41.131451,
+    -104.815832,
+    41.131451
+],
+  "geometry": {"coordinates":[-104.815832,41.131451],"type":"Point"}
+}

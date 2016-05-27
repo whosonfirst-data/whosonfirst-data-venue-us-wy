@@ -1,0 +1,72 @@
+{
+  "id": 874139125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.322435,42.844682,-106.322435,42.844682",
+    "geom:latitude":42.844682,
+    "geom:longitude":-106.322435,
+    "iso:country":"US",
+    "sg:address":"504 S Durbin St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 1941",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "sg:website":"www.bridge21.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jgWozKED7U3dvVzMKrsw0_42.844682_-106.322435@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312227,
+    "wof:geomhash":"8e02b95c23cbd1f2528b07d14ed87498",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874139125
+        }
+    ],
+    "wof:id":874139125,
+    "wof:lastmodified":1464312227,
+    "wof:name":"Bridge21",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -106.322435,
+    42.844682,
+    -106.322435,
+    42.844682
+],
+  "geometry": {"coordinates":[-106.322435,42.844682],"type":"Point"}
+}

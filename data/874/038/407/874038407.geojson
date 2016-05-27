@@ -1,0 +1,58 @@
+{
+  "id": 874038407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.37185,44.409,-104.37185,44.409",
+    "geom:latitude":44.409,
+    "geom:longitude":-104.37185,
+    "iso:country":"US",
+    "sg:address":"209 N 10th St",
+    "sg:city":"Sundance",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 283 2234",
+    "sg:postcode":"82729",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27cWxz40QFIglTH8zTQXIC_44.409000_-104.371850@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311129,
+    "wof:geomhash":"86188d531067d00d2b48fe9d8155e786",
+    "wof:hierarchy":[],
+    "wof:id":874038407,
+    "wof:lastmodified":1464311129,
+    "wof:name":"Hartl Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -104.37185,
+    44.409,
+    -104.37185,
+    44.409
+],
+  "geometry": {"coordinates":[-104.37184999999999,44.409],"type":"Point"}
+}

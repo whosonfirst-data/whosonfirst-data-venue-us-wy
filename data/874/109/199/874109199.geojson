@@ -1,0 +1,71 @@
+{
+  "id": 874109199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.309475,42.71914,-106.309475,42.71914",
+    "geom:latitude":42.71914,
+    "geom:longitude":-106.309475,
+    "iso:country":"US",
+    "sg:address":"10495 Prugh",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 6407",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "downspouts",
+        "gutter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35W6rtx2IxCoCGFFs9w9jX_42.719140_-106.309475@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311905,
+    "wof:geomhash":"d4bf449d7e7569ceee6eed0d66035b3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874109199
+        }
+    ],
+    "wof:id":874109199,
+    "wof:lastmodified":1464311905,
+    "wof:name":"Pat's Seamless Rain Gutters",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "downspouts",
+        "gutter"
+    ]
+},
+  "bbox": [
+    -106.309475,
+    42.71914,
+    -106.309475,
+    42.71914
+],
+  "geometry": {"coordinates":[-106.30947500000001,42.71914],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 874226713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.338924,42.817594,-106.338924,42.817594",
+    "geom:latitude":42.817594,
+    "geom:longitude":-106.338924,
+    "iso:country":"US",
+    "sg:address":"1144 Crest Hill Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7878",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "farm",
+        "field",
+        "crop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F3mbQhJ0AmEQogb0omsl9_42.817594_-106.338924@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313128,
+    "wof:geomhash":"7a55d5aaca8e522f7a27345be97e71fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874226713
+        }
+    ],
+    "wof:id":874226713,
+    "wof:lastmodified":1464313128,
+    "wof:name":"Kenneth Barbe",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "field",
+        "crop"
+    ]
+},
+  "bbox": [
+    -106.338924,
+    42.817594,
+    -106.338924,
+    42.817594
+],
+  "geometry": {"coordinates":[-106.33892400000001,42.817594],"type":"Point"}
+}

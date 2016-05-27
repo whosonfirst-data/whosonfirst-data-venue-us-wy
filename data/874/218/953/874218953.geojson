@@ -1,0 +1,56 @@
+{
+  "id": 874218953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.959913,44.01571,-107.959913,44.01571",
+    "geom:latitude":44.01571,
+    "geom:longitude":-107.959913,
+    "iso:country":"US",
+    "sg:address":"206 S 7th St",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 6165",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fGuWz3Cg3jo7ZqsP5W73F_44.015710_-107.959913@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313044,
+    "wof:geomhash":"b693a4485036d6ebe336f0cefe4fadf1",
+    "wof:hierarchy":[],
+    "wof:id":874218953,
+    "wof:lastmodified":1464313044,
+    "wof:name":"Washakie Mental Health Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -107.959913,
+    44.01571,
+    -107.959913,
+    44.01571
+],
+  "geometry": {"coordinates":[-107.959913,44.01571],"type":"Point"}
+}

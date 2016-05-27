@@ -1,0 +1,69 @@
+{
+  "id": 874026671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.298303,42.851395,-106.298303,42.851395",
+    "geom:latitude":42.851395,
+    "geom:longitude":-106.298303,
+    "iso:country":"US",
+    "sg:address":"1965 E A St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 9542",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DagfAd01Kbz9qa3HORSch_42.851395_-106.298303@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311013,
+    "wof:geomhash":"8727bc258e32a6948927f9e10848f294",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874026671
+        }
+    ],
+    "wof:id":874026671,
+    "wof:lastmodified":1464311013,
+    "wof:name":"Reida's Fine Designs & Jewlery",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -106.298303,
+    42.851395,
+    -106.298303,
+    42.851395
+],
+  "geometry": {"coordinates":[-106.298303,42.851395],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874150559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.577211,41.303724,-105.577211,41.303724",
+    "geom:latitude":41.303724,
+    "geom:longitude":-105.577211,
+    "iso:country":"US",
+    "sg:address":"1623 E Ord St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6872",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02y76rsRDXNYOQz7MMjbpr_41.303724_-105.577211@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312334,
+    "wof:geomhash":"2d1224866458608920cf597de791f319",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874150559
+        }
+    ],
+    "wof:id":874150559,
+    "wof:lastmodified":1464312334,
+    "wof:name":"Ty Bo Trucking Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -105.577211,
+    41.303724,
+    -105.577211,
+    41.303724
+],
+  "geometry": {"coordinates":[-105.57721100000001,41.303724],"type":"Point"}
+}

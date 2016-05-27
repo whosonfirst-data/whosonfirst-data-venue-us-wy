@@ -1,0 +1,56 @@
+{
+  "id": 874041469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.763803,43.483918,-110.763803,43.483918",
+    "geom:latitude":43.483918,
+    "geom:longitude":-110.763803,
+    "iso:country":"US",
+    "sg:address":"345 N Glenwood St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 734 2455",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OpH8Dbhn7ORTMhw3FWxEs_43.483918_-110.763803@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311156,
+    "wof:geomhash":"edd559234331c3ce409926d9a921bbda",
+    "wof:hierarchy":[],
+    "wof:id":874041469,
+    "wof:lastmodified":1464311156,
+    "wof:name":"Wild Flour Bakery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -110.763803,
+    43.483918,
+    -110.763803,
+    43.483918
+],
+  "geometry": {"coordinates":[-110.763803,43.483918],"type":"Point"}
+}

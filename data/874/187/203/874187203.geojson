@@ -1,0 +1,71 @@
+{
+  "id": 874187203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594091,41.307242,-105.594091,41.307242",
+    "geom:latitude":41.307242,
+    "geom:longitude":-105.594091,
+    "iso:country":"US",
+    "sg:address":"706 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8706",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7n0OmcLpTfoLzVh6uoXW3K_41.307242_-105.594091@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312711,
+    "wof:geomhash":"007c285f3c7236e479cedfded26bff5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874187203
+        }
+    ],
+    "wof:id":874187203,
+    "wof:lastmodified":1464312711,
+    "wof:name":"Taxidermy Unlimited",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -105.594091,
+    41.307242,
+    -105.594091,
+    41.307242
+],
+  "geometry": {"coordinates":[-105.59409100000001,41.307242],"type":"Point"}
+}

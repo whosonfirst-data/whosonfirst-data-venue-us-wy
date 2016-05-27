@@ -1,0 +1,58 @@
+{
+  "id": 874225459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.208422,43.64591,-108.208422,43.64591",
+    "geom:latitude":43.64591,
+    "geom:longitude":-108.208422,
+    "iso:country":"US",
+    "sg:address":"305 Broadway St",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 4141",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43vbFWxhndqyveI015kpYA_43.645910_-108.208422@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313115,
+    "wof:geomhash":"53bf32dd9e4974045b180dd32b38d581",
+    "wof:hierarchy":[],
+    "wof:id":874225459,
+    "wof:lastmodified":1464313115,
+    "wof:name":"Physical Therapy Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -108.208422,
+    43.64591,
+    -108.208422,
+    43.64591
+],
+  "geometry": {"coordinates":[-108.208422,43.64591],"type":"Point"}
+}

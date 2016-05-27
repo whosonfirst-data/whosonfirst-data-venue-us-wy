@@ -1,0 +1,71 @@
+{
+  "id": 874212533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.319291,42.853605,-106.319291,42.853605",
+    "geom:latitude":42.853605,
+    "geom:longitude":-106.319291,
+    "iso:country":"US",
+    "sg:address":"533 E C St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 2810",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZsG8jVPI1JaVtRmnab7wK_42.853605_-106.319291@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312980,
+    "wof:geomhash":"97431f46c61822b98b804135a59b8b57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874212533
+        }
+    ],
+    "wof:id":874212533,
+    "wof:lastmodified":1464312980,
+    "wof:name":"Kistler Plumbing & Heating Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.319291,
+    42.853605,
+    -106.319291,
+    42.853605
+],
+  "geometry": {"coordinates":[-106.31929100000001,42.853605],"type":"Point"}
+}

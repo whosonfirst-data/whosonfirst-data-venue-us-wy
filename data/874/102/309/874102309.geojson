@@ -1,0 +1,58 @@
+{
+  "id": 874102309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.814205,41.145889,-104.814205,41.145889",
+    "geom:latitude":41.145889,
+    "geom:longitude":-104.814205,
+    "iso:country":"US",
+    "sg:address":"617 E Pershing Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 3603",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NGK7ZRZJqIxi4DNLzKC9r_41.145889_-104.814205@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311822,
+    "wof:geomhash":"302090538df49a0cf8de8d50553f724c",
+    "wof:hierarchy":[],
+    "wof:id":874102309,
+    "wof:lastmodified":1464311822,
+    "wof:name":"G & G Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -104.814205,
+    41.145889,
+    -104.814205,
+    41.145889
+],
+  "geometry": {"coordinates":[-104.814205,41.145889],"type":"Point"}
+}

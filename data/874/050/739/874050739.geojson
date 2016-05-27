@@ -1,0 +1,73 @@
+{
+  "id": 874050739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592461,41.32242,-105.592461,41.32242",
+    "geom:latitude":41.32242,
+    "geom:longitude":-105.592461,
+    "iso:country":"US",
+    "sg:address":"1188 US Hwy 30",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 760 8582",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BIt9ocKNT3HdEtSrzteVR_41.322420_-105.592461@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311248,
+    "wof:geomhash":"95681f3112bd1feae22647f001d37b5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874050739
+        }
+    ],
+    "wof:id":874050739,
+    "wof:lastmodified":1464311248,
+    "wof:name":"Superior Heating Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.592461,
+    41.32242,
+    -105.592461,
+    41.32242
+],
+  "geometry": {"coordinates":[-105.592461,41.32242],"type":"Point"}
+}

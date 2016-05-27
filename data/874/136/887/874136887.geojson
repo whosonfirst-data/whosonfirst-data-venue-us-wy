@@ -1,0 +1,71 @@
+{
+  "id": 874136887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.319595,42.850727,-106.319595,42.850727",
+    "geom:latitude":42.850727,
+    "geom:longitude":-106.319595,
+    "iso:country":"US",
+    "sg:address":"152 N Kimball St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 2992",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SGLrK0FNINmfH9lqmEeVH_42.850727_-106.319595@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312207,
+    "wof:geomhash":"9d4dc151a01a60dd11c60359f3570d49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874136887
+        }
+    ],
+    "wof:id":874136887,
+    "wof:lastmodified":1464312207,
+    "wof:name":"Hole In The Wall Natural Foods",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -106.319595,
+    42.850727,
+    -106.319595,
+    42.850727
+],
+  "geometry": {"coordinates":[-106.31959500000001,42.850727],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874175883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592205,41.31085,-105.592205,41.31085",
+    "geom:latitude":41.31085,
+    "geom:longitude":-105.592205,
+    "iso:country":"US",
+    "sg:address":"410 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8948",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xdUZA37LizvITATCn6QYm_41.310850_-105.592205@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312586,
+    "wof:geomhash":"18eb7429f8706d79d3021b9f6220ffd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874175883
+        }
+    ],
+    "wof:id":874175883,
+    "wof:lastmodified":1464312586,
+    "wof:name":"Lou Farley Counseling Svc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -105.592205,
+    41.31085,
+    -105.592205,
+    41.31085
+],
+  "geometry": {"coordinates":[-105.59220500000001,41.31085],"type":"Point"}
+}

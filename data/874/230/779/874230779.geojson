@@ -1,0 +1,59 @@
+{
+  "id": 874230779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.054044,44.51811,-109.054044,44.51811",
+    "geom:latitude":44.51811,
+    "geom:longitude":-109.054044,
+    "iso:country":"US",
+    "sg:address":"1901 17th St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cody/77667-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 6601",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eOcrm2uSkfe4f2vuHTC1e_44.518048_-109.054145@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313172,
+    "wof:geomhash":"c3f8bab2f5dba852f349c2c9140d1d23",
+    "wof:hierarchy":[],
+    "wof:id":874230779,
+    "wof:lastmodified":1464313172,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -109.054044,
+    44.51811,
+    -109.054044,
+    44.51811
+],
+  "geometry": {"coordinates":[-109.054044,44.51811],"type":"Point"}
+}

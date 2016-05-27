@@ -1,0 +1,65 @@
+{
+  "id": 874080231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.320373,42.845729,-106.320373,42.845729",
+    "geom:latitude":42.845729,
+    "geom:longitude":-106.320373,
+    "iso:country":"US",
+    "sg:address":"412 E 5th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2559",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:website":"www.bullwhipcatering.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rD4lM1cslYDuvbGZXpTqV_42.845729_-106.320373@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311553,
+    "wof:geomhash":"65dd59672e6fd552332c2dff2018d757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874080231
+        }
+    ],
+    "wof:id":874080231,
+    "wof:lastmodified":1464311553,
+    "wof:name":"Weinrich's Quality Meats",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.320373,
+    42.845729,
+    -106.320373,
+    42.845729
+],
+  "geometry": {"coordinates":[-106.320373,42.845729],"type":"Point"}
+}

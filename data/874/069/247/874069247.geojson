@@ -1,0 +1,73 @@
+{
+  "id": 874069247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.394243,42.844997,-106.394243,42.844997",
+    "geom:latitude":42.844997,
+    "geom:longitude":-106.394243,
+    "iso:country":"US",
+    "sg:address":"5370 Poison Spider Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 3094",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mqr9PZGiWPqXbovu9sQLy_42.844997_-106.394243@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311425,
+    "wof:geomhash":"ac0ffd7d82c41894d0189d8167c142a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874069247
+        }
+    ],
+    "wof:id":874069247,
+    "wof:lastmodified":1464311425,
+    "wof:name":"USA Trucking",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -106.394243,
+    42.844997,
+    -106.394243,
+    42.844997
+],
+  "geometry": {"coordinates":[-106.394243,42.844997],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874113157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.947135,44.750871,-106.947135,44.750871",
+    "geom:latitude":44.750871,
+    "geom:longitude":-106.947135,
+    "iso:country":"US",
+    "sg:address":"4328 Coffeen Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 4826",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "marina",
+        "commercial",
+        "operation",
+        "storage",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Giitw6F5ZfDFW8GopiLBK_44.750871_-106.947135@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311969,
+    "wof:geomhash":"ab9a81d03ce5ef8b39cfaf6bf5b1aac1",
+    "wof:hierarchy":[],
+    "wof:id":874113157,
+    "wof:lastmodified":1464311969,
+    "wof:name":"South Side Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marina",
+        "commercial",
+        "operation",
+        "storage",
+        "special"
+    ]
+},
+  "bbox": [
+    -106.947135,
+    44.750871,
+    -106.947135,
+    44.750871
+],
+  "geometry": {"coordinates":[-106.947135,44.750871],"type":"Point"}
+}

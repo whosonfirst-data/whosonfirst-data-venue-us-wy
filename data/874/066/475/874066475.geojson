@@ -1,0 +1,71 @@
+{
+  "id": 874066475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.271616,42.856215,-106.271616,42.856215",
+    "geom:latitude":42.856215,
+    "geom:longitude":-106.271616,
+    "iso:country":"US",
+    "sg:address":"740 Luker Ln",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 6408",
+    "sg:postcode":"82636",
+    "sg:province":"WY",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Upvd40ZNsRsk5sZaCww0U_42.856215_-106.271616@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311392,
+    "wof:geomhash":"d3dd23196eee9d011d6ad3c1d84d623e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874066475
+        }
+    ],
+    "wof:id":874066475,
+    "wof:lastmodified":1464311392,
+    "wof:name":"Wic Program",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -106.271616,
+    42.856215,
+    -106.271616,
+    42.856215
+],
+  "geometry": {"coordinates":[-106.27161599999999,42.856215],"type":"Point"}
+}

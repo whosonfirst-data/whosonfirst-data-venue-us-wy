@@ -1,0 +1,69 @@
+{
+  "id": 874194151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.32524,42.848181,-106.32524,42.848181",
+    "geom:latitude":42.848181,
+    "geom:longitude":-106.32524,
+    "iso:country":"US",
+    "sg:address":"260 S Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 6614",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38naO0X0sX0qQNdGkapQgy_42.848181_-106.325240@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312781,
+    "wof:geomhash":"f0248ff35261706734b6b59d0d3c8458",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874194151
+        }
+    ],
+    "wof:id":874194151,
+    "wof:lastmodified":1464312781,
+    "wof:name":"Delices De France",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -106.32524,
+    42.848181,
+    -106.32524,
+    42.848181
+],
+  "geometry": {"coordinates":[-106.32523999999999,42.848181],"type":"Point"}
+}

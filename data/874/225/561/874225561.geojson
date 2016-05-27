@@ -1,0 +1,51 @@
+{
+  "id": 874225561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.704031,44.348168,-106.704031,44.348168",
+    "geom:latitude":44.348168,
+    "geom:longitude":-106.704031,
+    "iso:country":"US",
+    "sg:address":"431 Fort St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 7003",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yGtvSP9Gxyy1O0dxAL4m5_44.348168_-106.704031@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313116,
+    "wof:geomhash":"1ec8696ec5e88b89a8e87a8cc52d35d7",
+    "wof:hierarchy":[],
+    "wof:id":874225561,
+    "wof:lastmodified":1464313116,
+    "wof:name":"Buffalo Prescription Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.704031,
+    44.348168,
+    -106.704031,
+    44.348168
+],
+  "geometry": {"coordinates":[-106.704031,44.348168],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874136311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.328165,44.102098,-105.328165,44.102098",
+    "geom:latitude":44.102098,
+    "geom:longitude":-105.328165,
+    "iso:country":"US",
+    "sg:address":"2115 Bishop Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 6269",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "explosive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ahl8wNHHE8feW4iwJxxuI_44.102098_-105.328165@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312203,
+    "wof:geomhash":"4bb0979d9ef5129192c27ba75ec24e86",
+    "wof:hierarchy":[],
+    "wof:id":874136311,
+    "wof:lastmodified":1464312203,
+    "wof:name":"Nelson Brothers Mining Srvcs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "explosive"
+    ]
+},
+  "bbox": [
+    -105.328165,
+    44.102098,
+    -105.328165,
+    44.102098
+],
+  "geometry": {"coordinates":[-105.328165,44.102098],"type":"Point"}
+}

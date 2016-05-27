@@ -1,0 +1,58 @@
+{
+  "id": 874114621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.35918,43.037023,-108.35918,43.037023",
+    "geom:latitude":43.037023,
+    "geom:longitude":-108.35918,
+    "iso:country":"US",
+    "sg:address":"2451 Cottonwood Dr",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 0058",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11zPEdknZYfbDdTd4udYPn_43.037023_-108.359180@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311983,
+    "wof:geomhash":"d4a24cb37d0e541cd3c768a5ff425d1b",
+    "wof:hierarchy":[],
+    "wof:id":874114621,
+    "wof:lastmodified":1464311983,
+    "wof:name":"Murphy's Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.35918,
+    43.037023,
+    -108.35918,
+    43.037023
+],
+  "geometry": {"coordinates":[-108.35917999999999,43.037023],"type":"Point"}
+}

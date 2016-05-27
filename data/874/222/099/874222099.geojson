@@ -1,0 +1,69 @@
+{
+  "id": 874222099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343137,42.797261,-106.343137,42.797261",
+    "geom:latitude":42.797261,
+    "geom:longitude":-106.343137,
+    "iso:country":"US",
+    "sg:address":"5840 S Cedar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 5629",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7khBrCUAe8UVT9iLm836bC_42.797261_-106.343137@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313084,
+    "wof:geomhash":"dc59c831e3a29a4826fff523d30de2ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874222099
+        }
+    ],
+    "wof:id":874222099,
+    "wof:lastmodified":1464313084,
+    "wof:name":"McMarste Investments",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -106.343137,
+    42.797261,
+    -106.343137,
+    42.797261
+],
+  "geometry": {"coordinates":[-106.343137,42.797261],"type":"Point"}
+}

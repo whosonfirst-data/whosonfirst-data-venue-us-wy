@@ -1,0 +1,56 @@
+{
+  "id": 874083207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.750167,44.756371,-108.750167,44.756371",
+    "geom:latitude":44.756371,
+    "geom:longitude":-108.750167,
+    "iso:country":"US",
+    "sg:address":"335 N Gilbert St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 2701",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71Sb5JsY5EK1UxqKHNiNlh_44.756371_-108.750167@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311591,
+    "wof:geomhash":"4025af752f98e0ea80072c4dbc8d14ea",
+    "wof:hierarchy":[],
+    "wof:id":874083207,
+    "wof:lastmodified":1464311591,
+    "wof:name":"West Park Hospital Cedar Mtn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -108.750167,
+    44.756371,
+    -108.750167,
+    44.756371
+],
+  "geometry": {"coordinates":[-108.750167,44.756371],"type":"Point"}
+}

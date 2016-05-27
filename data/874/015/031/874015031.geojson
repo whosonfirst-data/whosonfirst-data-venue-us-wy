@@ -1,0 +1,52 @@
+{
+  "id": 874015031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.38045,44.40303,-104.38045,44.40303",
+    "geom:latitude":44.40303,
+    "geom:longitude":-104.38045,
+    "iso:country":"US",
+    "sg:address":"123 S 2nd St",
+    "sg:city":"Sundance",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 283 1074",
+    "sg:postcode":"82729",
+    "sg:province":"WY",
+    "sg:website":"www.sundancestatebank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pB9mDq7uGFfL0hCo6qy8L_44.403030_-104.380450@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310891,
+    "wof:geomhash":"6cc62ee1d9b0e4aac6e9284a606c3422",
+    "wof:hierarchy":[],
+    "wof:id":874015031,
+    "wof:lastmodified":1464310891,
+    "wof:name":"Sundance State Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.38045,
+    44.40303,
+    -104.38045,
+    44.40303
+],
+  "geometry": {"coordinates":[-104.38045,44.40303],"type":"Point"}
+}

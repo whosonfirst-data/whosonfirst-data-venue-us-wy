@@ -1,0 +1,69 @@
+{
+  "id": 874015215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.31105,42.838775,-106.31105,42.838775",
+    "geom:latitude":42.838775,
+    "geom:longitude":-106.31105,
+    "iso:country":"US",
+    "sg:address":"1135 E 12th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 7357",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43DwUaVeoMcWHmONsnuoWq_42.838775_-106.311050@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310893,
+    "wof:geomhash":"2d970b03ed95a30d1de768ba783f7081",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874015215
+        }
+    ],
+    "wof:id":874015215,
+    "wof:lastmodified":1464310893,
+    "wof:name":"United Pentecostal Church",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -106.31105,
+    42.838775,
+    -106.31105,
+    42.838775
+],
+  "geometry": {"coordinates":[-106.31104999999999,42.838775],"type":"Point"}
+}

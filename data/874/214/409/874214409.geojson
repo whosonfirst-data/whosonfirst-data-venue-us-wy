@@ -1,0 +1,66 @@
+{
+  "id": 874214409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.59085,41.311785,-105.59085,41.311785",
+    "geom:latitude":41.311785,
+    "geom:longitude":-105.59085,
+    "iso:country":"US",
+    "sg:address":"501 E Ivinson Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4625",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sCmDOlEQmrBEYSlgjI7MS_41.311785_-105.590850@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312998,
+    "wof:geomhash":"75eef76cc85ccade40fe0c1c1a09ae3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874214409
+        }
+    ],
+    "wof:id":874214409,
+    "wof:lastmodified":1464312998,
+    "wof:name":"First National Bank Of Wyoming",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.59085,
+    41.311785,
+    -105.59085,
+    41.311785
+],
+  "geometry": {"coordinates":[-105.59085,41.311785],"type":"Point"}
+}

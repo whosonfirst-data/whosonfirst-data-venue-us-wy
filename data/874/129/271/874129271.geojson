@@ -1,0 +1,70 @@
+{
+  "id": 874129271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.35049,42.868987,-106.35049,42.868987",
+    "geom:latitude":42.868987,
+    "geom:longitude":-106.35049,
+    "iso:country":"US",
+    "sg:address":"1750 S Loop Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 6295",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "truck"
+    ],
+    "sg:website":"www.cmiteco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fGfJh023TOLkv1XGuNvWI_42.868987_-106.350490@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312125,
+    "wof:geomhash":"fce3bda4471b707cafdc998f8fac1331",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874129271
+        }
+    ],
+    "wof:id":874129271,
+    "wof:lastmodified":1464312125,
+    "wof:name":"CMI-Teco",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -106.35049,
+    42.868987,
+    -106.35049,
+    42.868987
+],
+  "geometry": {"coordinates":[-106.35048999999999,42.868987],"type":"Point"}
+}

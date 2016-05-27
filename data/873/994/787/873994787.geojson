@@ -1,0 +1,69 @@
+{
+  "id": 873994787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.32596,42.85196,-106.32596,42.85196",
+    "geom:latitude":42.85196,
+    "geom:longitude":-106.32596,
+    "iso:country":"US",
+    "sg:address":"100 W B St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 232 8180",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "archaeologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IghlUf93LGmoOkMNKUBL9_42.851960_-106.325960@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310724,
+    "wof:geomhash":"bada284bf93d4c61d8940e8c53b0893c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873994787
+        }
+    ],
+    "wof:id":873994787,
+    "wof:lastmodified":1464310724,
+    "wof:name":"Dust Devil Archaeology Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "archaeologist"
+    ]
+},
+  "bbox": [
+    -106.32596,
+    42.85196,
+    -106.32596,
+    42.85196
+],
+  "geometry": {"coordinates":[-106.32595999999999,42.85196],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874182293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.953747,44.011154,-107.953747,44.011154",
+    "geom:latitude":44.011154,
+    "geom:longitude":-107.953747,
+    "iso:country":"US",
+    "sg:address":"608 S 12th St",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 6528",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bK3HeQo9aIwLiblqL8mvL_44.011154_-107.953747@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312653,
+    "wof:geomhash":"9c6dfa47d91bf2b993bb05935b9d81c9",
+    "wof:hierarchy":[],
+    "wof:id":874182293,
+    "wof:lastmodified":1464312653,
+    "wof:name":"Wyoming Drivers License",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -107.953747,
+    44.011154,
+    -107.953747,
+    44.011154
+],
+  "geometry": {"coordinates":[-107.95374700000001,44.011154],"type":"Point"}
+}

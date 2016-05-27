@@ -1,0 +1,64 @@
+{
+  "id": 874047873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.300101,42.837126,-106.300101,42.837126",
+    "geom:latitude":42.837126,
+    "geom:longitude":-106.300101,
+    "iso:country":"US",
+    "sg:address":"2138 Farnum St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 9400",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61NsOSyuZXuIWMVzb7P9bM_42.837126_-106.300101@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311222,
+    "wof:geomhash":"c9430d8bb4fd9074112b482ec875fd6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874047873
+        }
+    ],
+    "wof:id":874047873,
+    "wof:lastmodified":1464311222,
+    "wof:name":"Influent",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.300101,
+    42.837126,
+    -106.300101,
+    42.837126
+],
+  "geometry": {"coordinates":[-106.300101,42.837126],"type":"Point"}
+}

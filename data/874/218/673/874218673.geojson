@@ -1,0 +1,73 @@
+{
+  "id": 874218673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595235,41.307172,-105.595235,41.307172",
+    "geom:latitude":41.307172,
+    "geom:longitude":-105.595235,
+    "iso:country":"US",
+    "sg:address":"717 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7913",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "nonphysical",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TGhZgNEfl5NADcdag9XBo_41.307172_-105.595235@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313038,
+    "wof:geomhash":"5e13a88ddcdf7467479130e21c6b676c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874218673
+        }
+    ],
+    "wof:id":874218673,
+    "wof:lastmodified":1464313038,
+    "wof:name":"Suuqatsi Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonphysical",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -105.595235,
+    41.307172,
+    -105.595235,
+    41.307172
+],
+  "geometry": {"coordinates":[-105.595235,41.307172],"type":"Point"}
+}

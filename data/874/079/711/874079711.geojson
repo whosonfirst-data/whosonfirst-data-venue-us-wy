@@ -1,0 +1,66 @@
+{
+  "id": 874079711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.556363,41.308998,-105.556363,41.308998",
+    "geom:latitude":41.308998,
+    "geom:longitude":-105.556363,
+    "iso:country":"US",
+    "sg:address":"3131 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4587",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZRRCmEDilinTKzNrAVMB8_41.308998_-105.556363@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311549,
+    "wof:geomhash":"d5e213473d6323f146a70fca7b2eec1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874079711
+        }
+    ],
+    "wof:id":874079711,
+    "wof:lastmodified":1464311549,
+    "wof:name":"Zoopharm",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.556363,
+    41.308998,
+    -105.556363,
+    41.308998
+],
+  "geometry": {"coordinates":[-105.556363,41.308998],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 874064157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.249765,41.576425,-109.249765,41.576425",
+    "geom:latitude":41.576425,
+    "geom:longitude":-109.249765,
+    "iso:country":"US",
+    "sg:address":"70 Gateway Blvd",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 2034",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GteMGMMWuDweuYWRPb1Ce_41.576425_-109.249765@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311372,
+    "wof:geomhash":"38d42636bcb5d59106d2eb9556602eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874064157
+        }
+    ],
+    "wof:id":874064157,
+    "wof:lastmodified":1464311372,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.249765,
+    41.576425,
+    -109.249765,
+    41.576425
+],
+  "geometry": {"coordinates":[-109.249765,41.576425],"type":"Point"}
+}

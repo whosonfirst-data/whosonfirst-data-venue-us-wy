@@ -1,0 +1,69 @@
+{
+  "id": 874220869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.333832,42.80382,-106.333832,42.80382",
+    "geom:latitude":42.80382,
+    "geom:longitude":-106.333832,
+    "iso:country":"US",
+    "sg:address":"4730 S Elm St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 232 8090",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BhmfQnUGY1ji1J0XkgW5M_42.803820_-106.333832@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313073,
+    "wof:geomhash":"d63d7e40af95ee54729db097d0e11d52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874220869
+        }
+    ],
+    "wof:id":874220869,
+    "wof:lastmodified":1464313073,
+    "wof:name":"Carper/Hunnicutt Family L",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -106.333832,
+    42.80382,
+    -106.333832,
+    42.80382
+],
+  "geometry": {"coordinates":[-106.333832,42.80382],"type":"Point"}
+}

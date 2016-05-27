@@ -1,0 +1,71 @@
+{
+  "id": 874108561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.576795,41.324218,-105.576795,41.324218",
+    "geom:latitude":41.324218,
+    "geom:longitude":-105.576795,
+    "iso:country":"US",
+    "sg:address":"1277 N 15th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 5125",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dpQg60vhtTIlL8BOiWfDA_41.324218_-105.576795@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311899,
+    "wof:geomhash":"0c52d3dad35385d8daa26d23761e0fe1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874108561
+        }
+    ],
+    "wof:id":874108561,
+    "wof:lastmodified":1464311899,
+    "wof:name":"R Leo Sprinkle PHD",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -105.576795,
+    41.324218,
+    -105.576795,
+    41.324218
+],
+  "geometry": {"coordinates":[-105.576795,41.324218],"type":"Point"}
+}

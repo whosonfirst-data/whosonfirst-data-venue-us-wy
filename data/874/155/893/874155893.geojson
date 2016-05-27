@@ -1,0 +1,56 @@
+{
+  "id": 874155893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.394575,44.389788,-104.394575,44.389788",
+    "geom:latitude":44.389788,
+    "geom:longitude":-104.394575,
+    "iso:country":"US",
+    "sg:address":"7 State Hwy 116",
+    "sg:city":"Sundance",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 283 2115",
+    "sg:postcode":"82729",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QbFVrcKfj8eOC0x333oqo_44.389788_-104.394575@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312388,
+    "wof:geomhash":"7e7edaec97cec9056795e732bdb6d46e",
+    "wof:hierarchy":[],
+    "wof:id":874155893,
+    "wof:lastmodified":1464312388,
+    "wof:name":"Crook County Veterinary Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -104.394575,
+    44.389788,
+    -104.394575,
+    44.389788
+],
+  "geometry": {"coordinates":[-104.394575,44.389788],"type":"Point"}
+}

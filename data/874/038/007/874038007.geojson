@@ -1,0 +1,60 @@
+{
+  "id": 874038007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.193175,43.848248,-104.193175,43.848248",
+    "geom:latitude":43.848248,
+    "geom:longitude":-104.193175,
+    "iso:country":"US",
+    "sg:address":"2115 Delaware Ave",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 9330",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "operator",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hcAoE9yoQLohLDb8UxPLq_43.848248_-104.193175@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311126,
+    "wof:geomhash":"d1a573a03b1b72ef6a7c13d389d75e1d",
+    "wof:hierarchy":[],
+    "wof:id":874038007,
+    "wof:lastmodified":1464311126,
+    "wof:name":"Newcastle Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operator",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -104.193175,
+    43.848248,
+    -104.193175,
+    43.848248
+],
+  "geometry": {"coordinates":[-104.193175,43.848248],"type":"Point"}
+}

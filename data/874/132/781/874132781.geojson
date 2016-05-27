@@ -1,0 +1,71 @@
+{
+  "id": 874132781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.621857,41.317149,-105.621857,41.317149",
+    "geom:latitude":41.317149,
+    "geom:longitude":-105.621857,
+    "iso:country":"US",
+    "sg:address":"374 N Buchanan St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5678",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Xsl93n5rHzWIsAR6BS13l_41.317149_-105.621857@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312170,
+    "wof:geomhash":"5551b2c8c56f600bab5634b552879464",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874132781
+        }
+    ],
+    "wof:id":874132781,
+    "wof:lastmodified":1464312170,
+    "wof:name":"Jaycox Rentals",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -105.621857,
+    41.317149,
+    -105.621857,
+    41.317149
+],
+  "geometry": {"coordinates":[-105.62185700000001,41.317149],"type":"Point"}
+}

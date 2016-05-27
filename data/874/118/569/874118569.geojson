@@ -1,0 +1,56 @@
+{
+  "id": 874118569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.204115,43.854533,-104.204115,43.854533",
+    "geom:latitude":43.854533,
+    "geom:longitude":-104.204115,
+    "iso:country":"US",
+    "sg:address":"17 S Seneca Ave",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 4772",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ExG6N8u8HPpTkEqOPvhbT_43.854533_-104.204115@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312021,
+    "wof:geomhash":"6bbd5a9db45177eada4ebc77a39f32d2",
+    "wof:hierarchy":[],
+    "wof:id":874118569,
+    "wof:lastmodified":1464312021,
+    "wof:name":"Blackhills Dental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -104.204115,
+    43.854533,
+    -104.204115,
+    43.854533
+],
+  "geometry": {"coordinates":[-104.204115,43.854533],"type":"Point"}
+}

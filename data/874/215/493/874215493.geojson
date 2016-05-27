@@ -1,0 +1,75 @@
+{
+  "id": 874215493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.800078,41.160358,-104.800078,41.160358",
+    "geom:latitude":41.160358,
+    "geom:longitude":-104.800078,
+    "iso:country":"US",
+    "sg:address":"1782 Dell Range Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 8692",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47wavnB0SE5X7LeFSsgRqS_41.160358_-104.800078@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313009,
+    "wof:geomhash":"d1f90f6d14ec0990052db3452b2f602d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":874215493
+        }
+    ],
+    "wof:id":874215493,
+    "wof:lastmodified":1464313009,
+    "wof:name":"PETCO",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -104.800078,
+    41.160358,
+    -104.800078,
+    41.160358
+],
+  "geometry": {"coordinates":[-104.800078,41.160358],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 874145117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.959962,44.012652,-107.959962,44.012652",
+    "geom:latitude":44.012652,
+    "geom:longitude":-107.959962,
+    "iso:country":"US",
+    "sg:address":"612 Obie Sue Ave",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 8267",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kHPClg0e8z5UI96gR6gej_44.012652_-107.959962@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312281,
+    "wof:geomhash":"919fef10c654f25ca8dd83d13787ccd2",
+    "wof:hierarchy":[],
+    "wof:id":874145117,
+    "wof:lastmodified":1464312281,
+    "wof:name":"Rolling Hills Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -107.959962,
+    44.012652,
+    -107.959962,
+    44.012652
+],
+  "geometry": {"coordinates":[-107.959962,44.012652],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874020055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.317189,42.829582,-106.317189,42.829582",
+    "geom:latitude":42.829582,
+    "geom:longitude":-106.317189,
+    "iso:country":"US",
+    "sg:address":"1925 S Oakcrest Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1770",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ah2RZy10Yo0pX0WIY43fS_42.829582_-106.317189@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310949,
+    "wof:geomhash":"281c41b7fe4fa1d83f8fe3a8a4e49fad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874020055
+        }
+    ],
+    "wof:id":874020055,
+    "wof:lastmodified":1464310949,
+    "wof:name":"D & C Mini-Storage",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -106.317189,
+    42.829582,
+    -106.317189,
+    42.829582
+],
+  "geometry": {"coordinates":[-106.317189,42.829582],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874207099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.326154,42.845525,-106.326154,42.845525",
+    "geom:latitude":42.845525,
+    "geom:longitude":-106.326154,
+    "iso:country":"US",
+    "sg:address":"136 W Collins Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 3327",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "instruction",
+        "yoga"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2arzpKpX4WfybOeEzzW7BI_42.845525_-106.326154@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312921,
+    "wof:geomhash":"f37c3504d03d5496d8a0f7bf2eacc3c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874207099
+        }
+    ],
+    "wof:id":874207099,
+    "wof:lastmodified":1464312921,
+    "wof:name":"Cheryl's Yoga & Massage",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "yoga"
+    ]
+},
+  "bbox": [
+    -106.326154,
+    42.845525,
+    -106.326154,
+    42.845525
+],
+  "geometry": {"coordinates":[-106.326154,42.845525],"type":"Point"}
+}

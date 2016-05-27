@@ -1,0 +1,64 @@
+{
+  "id": 874024437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.31242,42.85011,-106.31242,42.85011",
+    "geom:latitude":42.85011,
+    "geom:longitude":-106.31242,
+    "iso:country":"US",
+    "sg:address":"928 E 1st St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 8800",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55gZ5wpvImOEW7A26xUUPq_42.850110_-106.312420@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310990,
+    "wof:geomhash":"32bc2acd68abd9d8a570a76c95a78c1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874024437
+        }
+    ],
+    "wof:id":874024437,
+    "wof:lastmodified":1464310990,
+    "wof:name":"Rainbow Real Estate",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.31242,
+    42.85011,
+    -106.31242,
+    42.85011
+],
+  "geometry": {"coordinates":[-106.31242,42.85011],"type":"Point"}
+}

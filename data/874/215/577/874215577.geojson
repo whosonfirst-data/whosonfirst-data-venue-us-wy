@@ -1,0 +1,69 @@
+{
+  "id": 874215577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.309525,42.849735,-106.309525,42.849735",
+    "geom:latitude":42.849735,
+    "geom:longitude":-106.309525,
+    "iso:country":"US",
+    "sg:address":"135 S Washington St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4214",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tN3zNPdUFXS0NrIH2BH7z_42.849735_-106.309525@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313010,
+    "wof:geomhash":"70cbc28479b131cbafe2a9fb0809e1ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874215577
+        }
+    ],
+    "wof:id":874215577,
+    "wof:lastmodified":1464313010,
+    "wof:name":"High Cntry Orthtics Prsthetics",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -106.309525,
+    42.849735,
+    -106.309525,
+    42.849735
+],
+  "geometry": {"coordinates":[-106.30952499999999,42.849735],"type":"Point"}
+}

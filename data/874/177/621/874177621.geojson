@@ -1,0 +1,75 @@
+{
+  "id": 874177621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.293091,42.84194,-106.293091,42.84194",
+    "geom:latitude":42.84194,
+    "geom:longitude":-106.293091,
+    "iso:country":"US",
+    "sg:address":"2414 E 9th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 0058",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repair",
+        "precious",
+        "mfg",
+        "met"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iIEcsfEh6nONlEBYmpBvc_42.841940_-106.293091@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312602,
+    "wof:geomhash":"218c9abcb90722394306008d85d247d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874177621
+        }
+    ],
+    "wof:id":874177621,
+    "wof:lastmodified":1464312602,
+    "wof:name":"Henry J Donaldson",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "precious",
+        "mfg",
+        "met"
+    ]
+},
+  "bbox": [
+    -106.293091,
+    42.84194,
+    -106.293091,
+    42.84194
+],
+  "geometry": {"coordinates":[-106.293091,42.84194],"type":"Point"}
+}

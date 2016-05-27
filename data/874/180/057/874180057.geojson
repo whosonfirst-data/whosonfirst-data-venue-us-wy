@@ -1,0 +1,58 @@
+{
+  "id": 874180057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.038613,44.521051,-109.038613,44.521051",
+    "geom:latitude":44.521051,
+    "geom:longitude":-109.038613,
+    "iso:country":"US",
+    "sg:address":"1820 26th St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 9760",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LEJvgVAjmHDP7C8xk1EwN_44.521051_-109.038613@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312630,
+    "wof:geomhash":"b02d470c273d6020ebc0327bf178edb3",
+    "wof:hierarchy":[],
+    "wof:id":874180057,
+    "wof:lastmodified":1464312630,
+    "wof:name":"Alpine Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.038613,
+    44.521051,
+    -109.038613,
+    44.521051
+],
+  "geometry": {"coordinates":[-109.038613,44.521051],"type":"Point"}
+}

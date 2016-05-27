@@ -1,0 +1,56 @@
+{
+  "id": 874102127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.24293,41.787931,-107.24293,41.787931",
+    "geom:latitude":41.787931,
+    "geom:longitude":-107.24293,
+    "iso:country":"US",
+    "sg:address":"710 W Buffalo St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 7440",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "blacksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tyZDq4vXqzjQVeqO5eRHS_41.787931_-107.242930@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311819,
+    "wof:geomhash":"ede991b3657c152040417b6c9c31460c",
+    "wof:hierarchy":[],
+    "wof:id":874102127,
+    "wof:lastmodified":1464311819,
+    "wof:name":"Glenn's Horseshoeing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blacksmith"
+    ]
+},
+  "bbox": [
+    -107.24293,
+    41.787931,
+    -107.24293,
+    41.787931
+],
+  "geometry": {"coordinates":[-107.24293,41.787931],"type":"Point"}
+}

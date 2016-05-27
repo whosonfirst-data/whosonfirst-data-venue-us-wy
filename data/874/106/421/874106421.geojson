@@ -1,0 +1,69 @@
+{
+  "id": 874106421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.75985,44.712669,-108.75985,44.712669",
+    "geom:latitude":44.712669,
+    "geom:longitude":-108.75985,
+    "iso:country":"US",
+    "sg:address":"1191 Rd 9",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 2571",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "warehouse",
+        "mini",
+        "self",
+        "storage",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LOhZWgG2xUiboFlBFzNMN_44.712669_-108.759850@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311876,
+    "wof:geomhash":"ceff9a11b7505a888698b0cc9df6dac7",
+    "wof:hierarchy":[],
+    "wof:id":874106421,
+    "wof:lastmodified":1464311876,
+    "wof:name":"Brandts Mini Storage Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "mini",
+        "self",
+        "storage",
+        "facility"
+    ]
+},
+  "bbox": [
+    -108.75985,
+    44.712669,
+    -108.75985,
+    44.712669
+],
+  "geometry": {"coordinates":[-108.75985,44.712669],"type":"Point"}
+}

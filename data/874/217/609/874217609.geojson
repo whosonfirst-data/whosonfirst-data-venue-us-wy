@@ -1,0 +1,73 @@
+{
+  "id": 874217609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.340545,42.855439,-106.340545,42.855439",
+    "geom:latitude":42.855439,
+    "geom:longitude":-106.340545,
+    "iso:country":"US",
+    "sg:address":"460 Circle Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 5565",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IESPQEMjDc9G0e7rzhmLj_42.855439_-106.340545@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313028,
+    "wof:geomhash":"c7be282711c6bb4d7e518fe0df7e8ee3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874217609
+        }
+    ],
+    "wof:id":874217609,
+    "wof:lastmodified":1464313028,
+    "wof:name":"Pathfinder Energy Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ]
+},
+  "bbox": [
+    -106.340545,
+    42.855439,
+    -106.340545,
+    42.855439
+],
+  "geometry": {"coordinates":[-106.34054500000001,42.855439],"type":"Point"}
+}

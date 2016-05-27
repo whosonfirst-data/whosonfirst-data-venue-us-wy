@@ -1,0 +1,56 @@
+{
+  "id": 874170323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.809135,44.697793,-104.809135,44.697793",
+    "geom:latitude":44.697793,
+    "geom:longitude":-104.809135,
+    "iso:country":"US",
+    "sg:address":"1122 Barlow Canyon Rd",
+    "sg:city":"Hulett",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 467 5474",
+    "sg:postcode":"82720",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vqiES0vM3iyANAppaBsri_44.697793_-104.809135@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312530,
+    "wof:geomhash":"e766759cc8e4ea92dddf07bcac8358e2",
+    "wof:hierarchy":[],
+    "wof:id":874170323,
+    "wof:lastmodified":1464312530,
+    "wof:name":"D R Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -104.809135,
+    44.697793,
+    -104.809135,
+    44.697793
+],
+  "geometry": {"coordinates":[-104.809135,44.697793],"type":"Point"}
+}

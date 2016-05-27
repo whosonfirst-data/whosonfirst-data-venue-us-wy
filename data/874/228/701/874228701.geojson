@@ -1,0 +1,57 @@
+{
+  "id": 874228701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.765852,41.160101,-104.765852,41.160101",
+    "geom:latitude":41.160101,
+    "geom:longitude":-104.765852,
+    "iso:country":"US",
+    "sg:address":"3610 Dell Range Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/118399-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 3433",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f9VKS3mrBGxSpJnOUMuBw_41.160101_-104.765852@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313148,
+    "wof:geomhash":"1d4dc7bfb64f91d6afb40a3aa1513d18",
+    "wof:hierarchy":[],
+    "wof:id":874228701,
+    "wof:lastmodified":1464313148,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -104.765852,
+    41.160101,
+    -104.765852,
+    41.160101
+],
+  "geometry": {"coordinates":[-104.765852,41.160101],"type":"Point"}
+}

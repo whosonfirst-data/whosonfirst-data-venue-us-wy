@@ -1,0 +1,64 @@
+{
+  "id": 874056709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.324044,42.848795,-106.324044,42.848795",
+    "geom:latitude":42.848795,
+    "geom:longitude":-106.324044,
+    "iso:country":"US",
+    "sg:address":"120 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 232 8726",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ewgBkradGxJAM2Dd0PLsM_42.848795_-106.324044@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311307,
+    "wof:geomhash":"cc9d01e3a7ebdafc2726a5c5e4dd77da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874056709
+        }
+    ],
+    "wof:id":874056709,
+    "wof:lastmodified":1464311307,
+    "wof:name":"Messy Moose",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.324044,
+    42.848795,
+    -106.324044,
+    42.848795
+],
+  "geometry": {"coordinates":[-106.324044,42.848795],"type":"Point"}
+}

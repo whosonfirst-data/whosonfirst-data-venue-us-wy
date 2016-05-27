@@ -1,0 +1,58 @@
+{
+  "id": 873998695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.45456,43.056473,-108.45456,43.056473",
+    "geom:latitude":43.056473,
+    "geom:longitude":-108.45456,
+    "iso:country":"US",
+    "sg:address":"4800 Airport Rd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 1307",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "scheduled",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hXtL8csmRVgNSUM0OxN5V_43.056473_-108.454560@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310752,
+    "wof:geomhash":"4df40e4f4e48908e9fa7dc0807fc264b",
+    "wof:hierarchy":[],
+    "wof:id":873998695,
+    "wof:lastmodified":1464310752,
+    "wof:name":"Great Lakes Airlines",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scheduled",
+        "air"
+    ]
+},
+  "bbox": [
+    -108.45456,
+    43.056473,
+    -108.45456,
+    43.056473
+],
+  "geometry": {"coordinates":[-108.45456,43.056473],"type":"Point"}
+}

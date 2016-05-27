@@ -1,0 +1,58 @@
+{
+  "id": 874176935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.044771,44.526182,-109.044771,44.526182",
+    "geom:latitude":44.526182,
+    "geom:longitude":-109.044771,
+    "iso:country":"US",
+    "sg:address":"2431 Sheridan Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 3254",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17cOSnkoTJGfO2cCQJSwBm_44.526182_-109.044771@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312596,
+    "wof:geomhash":"02ea5c0467a5c799bca7bca1bebaab76",
+    "wof:hierarchy":[],
+    "wof:id":874176935,
+    "wof:lastmodified":1464312596,
+    "wof:name":"Lucky's Car Wash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -109.044771,
+    44.526182,
+    -109.044771,
+    44.526182
+],
+  "geometry": {"coordinates":[-109.044771,44.526182],"type":"Point"}
+}

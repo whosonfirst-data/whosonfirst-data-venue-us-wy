@@ -1,0 +1,56 @@
+{
+  "id": 874138789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.381653,44.837369,-108.381653,44.837369",
+    "geom:latitude":44.837369,
+    "geom:longitude":-108.381653,
+    "iso:country":"US",
+    "sg:address":"575 E Main St",
+    "sg:city":"Lovell",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 548 6152",
+    "sg:postcode":"82431",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f0JjSxNOWdbNfV06mfKpj_44.837369_-108.381653@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312225,
+    "wof:geomhash":"5bba76556664421264e6ccfd0470ebc8",
+    "wof:hierarchy":[],
+    "wof:id":874138789,
+    "wof:lastmodified":1464312225,
+    "wof:name":"Mountain West Telecommunicatns",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -108.381653,
+    44.837369,
+    -108.381653,
+    44.837369
+],
+  "geometry": {"coordinates":[-108.381653,44.837369],"type":"Point"}
+}

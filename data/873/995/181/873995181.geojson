@@ -1,0 +1,56 @@
+{
+  "id": 873995181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955827,44.800604,-106.955827,44.800604",
+    "geom:latitude":44.800604,
+    "geom:longitude":-106.955827,
+    "iso:country":"US",
+    "sg:address":"206 N Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 8080",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MJpKT6B6bR0lRw59Aozbm_44.800604_-106.955827@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310727,
+    "wof:geomhash":"9f276cd652c5c628c9c879c30873bf9f",
+    "wof:hierarchy":[],
+    "wof:id":873995181,
+    "wof:lastmodified":1464310727,
+    "wof:name":"Sheridan Stationery Books",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -106.955827,
+    44.800604,
+    -106.955827,
+    44.800604
+],
+  "geometry": {"coordinates":[-106.955827,44.800604],"type":"Point"}
+}

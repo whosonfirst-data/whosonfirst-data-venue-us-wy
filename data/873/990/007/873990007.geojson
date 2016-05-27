@@ -1,0 +1,56 @@
+{
+  "id": 873990007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.523253,44.290953,-105.523253,44.290953",
+    "geom:latitude":44.290953,
+    "geom:longitude":-105.523253,
+    "iso:country":"US",
+    "sg:address":"1405 W 4th St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 7555",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L3BhaDLvN6r4lqLtogueT_44.290953_-105.523253@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310690,
+    "wof:geomhash":"3b222eea389e68e638ebbf6bda67530c",
+    "wof:hierarchy":[],
+    "wof:id":873990007,
+    "wof:lastmodified":1464310690,
+    "wof:name":"M David Flanagan MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -105.523253,
+    44.290953,
+    -105.523253,
+    44.290953
+],
+  "geometry": {"coordinates":[-105.523253,44.290953],"type":"Point"}
+}

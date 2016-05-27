@@ -1,0 +1,56 @@
+{
+  "id": 873990101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.828578,41.177344,-104.828578,41.177344",
+    "geom:latitude":41.177344,
+    "geom:longitude":-104.828578,
+    "iso:country":"US",
+    "sg:address":"6309 Yellowstone Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 3151",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4snbmGnSHtJykt3b1TycYO_41.177344_-104.828578@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310690,
+    "wof:geomhash":"60963f772a89032a11f335d08be5b3e8",
+    "wof:hierarchy":[],
+    "wof:id":873990101,
+    "wof:lastmodified":1464310690,
+    "wof:name":"Davis Elementary School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -104.828578,
+    41.177344,
+    -104.828578,
+    41.177344
+],
+  "geometry": {"coordinates":[-104.82857799999999,41.177344],"type":"Point"}
+}

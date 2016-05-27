@@ -1,0 +1,73 @@
+{
+  "id": 874158677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.00929,41.088198,-106.00929,41.088198",
+    "geom:latitude":41.088198,
+    "geom:longitude":-106.00929,
+    "iso:country":"US",
+    "sg:address":"228 State Hwy 10",
+    "sg:city":"Jelm",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 761 0903",
+    "sg:postcode":"82063",
+    "sg:province":"WY",
+    "sg:tags":[
+        "prepackaged",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nnEQq5Far6KGtuOEVgrUB_41.088198_-106.009290@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312419,
+    "wof:geomhash":"2002990cf5cbb5412562fcc251987a53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874158677
+        }
+    ],
+    "wof:id":874158677,
+    "wof:lastmodified":1464312419,
+    "wof:name":"Happy Jack Software",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prepackaged",
+        "software"
+    ]
+},
+  "bbox": [
+    -106.00929,
+    41.088198,
+    -106.00929,
+    41.088198
+],
+  "geometry": {"coordinates":[-106.00928999999999,41.088198],"type":"Point"}
+}

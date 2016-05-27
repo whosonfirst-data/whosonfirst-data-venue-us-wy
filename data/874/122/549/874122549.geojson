@@ -1,0 +1,56 @@
+{
+  "id": 874122549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.373027,42.748375,-105.373027,42.748375",
+    "geom:latitude":42.748375,
+    "geom:longitude":-105.373027,
+    "iso:country":"US",
+    "sg:address":"1155 E Richards St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 9474",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QzcRmkWiNHIPXavZrTb7F_42.748375_-105.373027@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312064,
+    "wof:geomhash":"a3327298dbdacb2e8e69bd5d78295e53",
+    "wof:hierarchy":[],
+    "wof:id":874122549,
+    "wof:lastmodified":1464312064,
+    "wof:name":"Raceway Lube & Wash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -105.373027,
+    42.748375,
+    -105.373027,
+    42.748375
+],
+  "geometry": {"coordinates":[-105.37302699999999,42.748375],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 874051629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.003199,43.152547,-110.003199,43.152547",
+    "geom:latitude":43.152547,
+    "geom:longitude":-110.003199,
+    "iso:country":"US",
+    "sg:address":"2006 State Hwy 352",
+    "sg:city":"Cora",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 367 2314",
+    "sg:postcode":"82925",
+    "sg:province":"WY",
+    "sg:tags":[
+        "camp",
+        "guest",
+        "ranch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Suuub0I2c5NhXXwfZZU9c_43.152547_-110.003199@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311256,
+    "wof:geomhash":"c1ca25db0077abcd9ef52f1dae2c736e",
+    "wof:hierarchy":[],
+    "wof:id":874051629,
+    "wof:lastmodified":1464311256,
+    "wof:name":"Green River Guest Ranch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp",
+        "guest",
+        "ranch"
+    ]
+},
+  "bbox": [
+    -110.003199,
+    43.152547,
+    -110.003199,
+    43.152547
+],
+  "geometry": {"coordinates":[-110.003199,43.152547],"type":"Point"}
+}

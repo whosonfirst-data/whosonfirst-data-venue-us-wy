@@ -1,0 +1,61 @@
+{
+  "id": 874142689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.18766,44.435085,-109.18766,44.435085",
+    "geom:latitude":44.435085,
+    "geom:longitude":-109.18766,
+    "iso:country":"US",
+    "sg:address":"22 Heather Rd",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 9622",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "leather"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JBMEDmqIEX0u2cSwTBaeR_44.435085_-109.187660@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312259,
+    "wof:geomhash":"5c34f27e4bb290c7aee478535ca3588a",
+    "wof:hierarchy":[],
+    "wof:id":874142689,
+    "wof:lastmodified":1464312259,
+    "wof:name":"Wyoming Customer Leather",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather"
+    ]
+},
+  "bbox": [
+    -109.18766,
+    44.435085,
+    -109.18766,
+    44.435085
+],
+  "geometry": {"coordinates":[-109.18765999999999,44.435085],"type":"Point"}
+}

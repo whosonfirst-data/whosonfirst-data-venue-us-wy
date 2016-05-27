@@ -1,0 +1,69 @@
+{
+  "id": 874129087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.295685,42.860875,-106.295685,42.860875",
+    "geom:latitude":42.860875,
+    "geom:longitude":-106.295685,
+    "iso:country":"US",
+    "sg:address":"2040 Bryan-Evansville Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 1502",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DqXFiELW0nEA1Sg3eorRZ_42.860875_-106.295685@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312123,
+    "wof:geomhash":"0defff6315d471da002effb7893d7d17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874129087
+        }
+    ],
+    "wof:id":874129087,
+    "wof:lastmodified":1464312123,
+    "wof:name":"Berts Truck & Auto Repair",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -106.295685,
+    42.860875,
+    -106.295685,
+    42.860875
+],
+  "geometry": {"coordinates":[-106.29568500000001,42.860875],"type":"Point"}
+}

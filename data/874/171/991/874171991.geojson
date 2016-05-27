@@ -1,0 +1,71 @@
+{
+  "id": 874171991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.438944,42.79337,-106.438944,42.79337",
+    "geom:latitude":42.79337,
+    "geom:longitude":-106.438944,
+    "iso:country":"US",
+    "sg:address":"5150 Chuck Wagon Trl",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 7940",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "representative",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i775amqtcof8BEpJ7autE_42.793370_-106.438944@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312550,
+    "wof:geomhash":"d5a9602692b1c49be3160762c23f3d66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874171991
+        }
+    ],
+    "wof:id":874171991,
+    "wof:lastmodified":1464312550,
+    "wof:name":"Magnetrol",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "representative",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -106.438944,
+    42.79337,
+    -106.438944,
+    42.79337
+],
+  "geometry": {"coordinates":[-106.43894400000001,42.79337],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874215913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.297784,42.840565,-106.297784,42.840565",
+    "geom:latitude":42.840565,
+    "geom:longitude":-106.297784,
+    "iso:country":"US",
+    "sg:address":"1123 S Beverly St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 268 8371",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zEXm6ST0NSF0ZPTr4fbqT_42.840565_-106.297784@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313013,
+    "wof:geomhash":"2919162a885f5c0893bf3b4ccd67c3f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874215913
+        }
+    ],
+    "wof:id":874215913,
+    "wof:lastmodified":1464313013,
+    "wof:name":"Western Financial Sys",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -106.297784,
+    42.840565,
+    -106.297784,
+    42.840565
+],
+  "geometry": {"coordinates":[-106.29778399999999,42.840565],"type":"Point"}
+}

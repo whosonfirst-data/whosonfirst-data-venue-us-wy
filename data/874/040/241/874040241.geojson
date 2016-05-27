@@ -1,0 +1,73 @@
+{
+  "id": 874040241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.57786,41.330033,-105.57786,41.330033",
+    "geom:latitude":41.330033,
+    "geom:longitude":-105.57786,
+    "iso:country":"US",
+    "sg:address":"1402 E Thomes St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 0892",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u1mFvBRz4GkyBwq5aeDWX_41.330033_-105.577860@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311145,
+    "wof:geomhash":"f84e183387d125eac9da51bc8fa2b8bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874040241
+        }
+    ],
+    "wof:id":874040241,
+    "wof:lastmodified":1464311145,
+    "wof:name":"Hysong Excavation",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.57786,
+    41.330033,
+    -105.57786,
+    41.330033
+],
+  "geometry": {"coordinates":[-105.57786,41.330033],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874032567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.312506,42.853509,-106.312506,42.853509",
+    "geom:latitude":42.853509,
+    "geom:longitude":-106.312506,
+    "iso:country":"US",
+    "sg:address":"314 N Mc Kinley St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5992",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tile",
+        "linoleum",
+        "rug",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lIE59r0FCKCkCky32tsNW_42.853509_-106.312506@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311071,
+    "wof:geomhash":"0e3cb654aadae83b119ab57c22a6aa6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874032567
+        }
+    ],
+    "wof:id":874032567,
+    "wof:lastmodified":1464311071,
+    "wof:name":"Hub Floor Covering Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "linoleum",
+        "rug",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -106.312506,
+    42.853509,
+    -106.312506,
+    42.853509
+],
+  "geometry": {"coordinates":[-106.312506,42.853509],"type":"Point"}
+}

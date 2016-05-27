@@ -1,0 +1,56 @@
+{
+  "id": 874055699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.110909,43.723026,-111.110909,43.723026",
+    "geom:latitude":43.723026,
+    "geom:longitude":-111.110909,
+    "iso:country":"US",
+    "sg:address":"14 E Little Ave",
+    "sg:city":"Driggs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 354 8808",
+    "sg:postcode":"83422",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mO8MxAR8X67YxyuYlaKi2_43.723026_-111.110909@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311298,
+    "wof:geomhash":"e0892a626b24c5e30398d7acb8313373",
+    "wof:hierarchy":[],
+    "wof:id":874055699,
+    "wof:lastmodified":1464311298,
+    "wof:name":"S E Owens DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -111.110909,
+    43.723026,
+    -111.110909,
+    43.723026
+],
+  "geometry": {"coordinates":[-111.11090900000001,43.723026],"type":"Point"}
+}

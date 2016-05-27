@@ -1,0 +1,57 @@
+{
+  "id": 874120979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.756155,44.754567,-108.756155,44.754567",
+    "geom:latitude":44.754567,
+    "geom:longitude":-108.756155,
+    "iso:country":"US",
+    "sg:address":"270 N Clark St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 5106",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "village"
+    ],
+    "sg:website":"www.cityofpowell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P13JikaddmGWe1mXDzaBW_44.754567_-108.756155@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312050,
+    "wof:geomhash":"db878882c557c37d21de3684b545987d",
+    "wof:hierarchy":[],
+    "wof:id":874120979,
+    "wof:lastmodified":1464312050,
+    "wof:name":"Powell City Adm Offices",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -108.756155,
+    44.754567,
+    -108.756155,
+    44.754567
+],
+  "geometry": {"coordinates":[-108.75615500000001,44.754567],"type":"Point"}
+}

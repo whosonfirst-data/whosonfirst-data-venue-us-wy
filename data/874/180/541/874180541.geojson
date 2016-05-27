@@ -1,0 +1,71 @@
+{
+  "id": 874180541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.268409,42.844452,-106.268409,42.844452",
+    "geom:latitude":42.844452,
+    "geom:longitude":-106.268409,
+    "iso:country":"US",
+    "sg:address":"581 Long Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 3055",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MLrYcAtuvZoerRbSu0dmy_42.844452_-106.268409@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312635,
+    "wof:geomhash":"3fbc56338abf2900bddd7e56e667296e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874180541
+        }
+    ],
+    "wof:id":874180541,
+    "wof:lastmodified":1464312635,
+    "wof:name":"Associated Electric",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.268409,
+    42.844452,
+    -106.268409,
+    42.844452
+],
+  "geometry": {"coordinates":[-106.26840900000001,42.844452],"type":"Point"}
+}

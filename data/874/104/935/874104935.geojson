@@ -1,0 +1,56 @@
+{
+  "id": 874104935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.406056,43.024653,-108.406056,43.024653",
+    "geom:latitude":43.024653,
+    "geom:longitude":-108.406056,
+    "iso:country":"US",
+    "sg:address":"1100 W Main St",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 4728",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hjtrC1EXjlYRzmPGyR9UZ_43.024653_-108.406056@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311856,
+    "wof:geomhash":"36f05d28d1615cc255487d3d8b63eeed",
+    "wof:hierarchy":[],
+    "wof:id":874104935,
+    "wof:lastmodified":1464311856,
+    "wof:name":"Bull Catering",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -108.406056,
+    43.024653,
+    -108.406056,
+    43.024653
+],
+  "geometry": {"coordinates":[-108.40605600000001,43.024653],"type":"Point"}
+}

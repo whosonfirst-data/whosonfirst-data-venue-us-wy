@@ -1,0 +1,64 @@
+{
+  "id": 874169467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.366188,42.828332,-106.366188,42.828332",
+    "geom:latitude":42.828332,
+    "geom:longitude":-106.366188,
+    "iso:country":"US",
+    "sg:address":"2159 SW Wyoming Blvd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 2212",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mefFo8oqKx1nvPlvu3RuJ_42.828332_-106.366188@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312521,
+    "wof:geomhash":"04625cdaf592a771720bb93b04e41528",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874169467
+        }
+    ],
+    "wof:id":874169467,
+    "wof:lastmodified":1464312521,
+    "wof:name":"Lotsa Stuff",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.366188,
+    42.828332,
+    -106.366188,
+    42.828332
+],
+  "geometry": {"coordinates":[-106.36618799999999,42.828332],"type":"Point"}
+}

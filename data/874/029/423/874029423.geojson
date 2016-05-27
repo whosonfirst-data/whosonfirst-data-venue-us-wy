@@ -1,0 +1,71 @@
+{
+  "id": 874029423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.395637,42.816808,-106.395637,42.816808",
+    "geom:latitude":42.816808,
+    "geom:longitude":-106.395637,
+    "iso:country":"US",
+    "sg:address":"3291 Paradise Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2929",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Gck3eWU33SZk4QasicShC_42.816808_-106.395637@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311043,
+    "wof:geomhash":"b0122a7558418099670e97a062645c36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874029423
+        }
+    ],
+    "wof:id":874029423,
+    "wof:lastmodified":1464311043,
+    "wof:name":"A A Schmitt Mini-Warehouses",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -106.395637,
+    42.816808,
+    -106.395637,
+    42.816808
+],
+  "geometry": {"coordinates":[-106.39563699999999,42.816808],"type":"Point"}
+}

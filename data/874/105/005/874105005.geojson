@@ -1,0 +1,58 @@
+{
+  "id": 874105005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.170595,43.812432,-104.170595,43.812432",
+    "geom:latitude":43.812432,
+    "geom:longitude":-104.170595,
+    "iso:country":"US",
+    "sg:address":"201 Burkett St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 3331",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tEx3MFWJWIFa7twvfTZBA_43.812432_-104.170595@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311857,
+    "wof:geomhash":"2028afc54a1d6a8aac4662a08f53ca48",
+    "wof:hierarchy":[],
+    "wof:id":874105005,
+    "wof:lastmodified":1464311857,
+    "wof:name":"Salt Creek Water & Sewer Distr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -104.170595,
+    43.812432,
+    -104.170595,
+    43.812432
+],
+  "geometry": {"coordinates":[-104.17059500000001,43.812432],"type":"Point"}
+}

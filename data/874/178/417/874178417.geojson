@@ -1,0 +1,64 @@
+{
+  "id": 874178417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.309393,42.838917,-106.309393,42.838917",
+    "geom:latitude":42.838917,
+    "geom:longitude":-106.309393,
+    "iso:country":"US",
+    "sg:address":"1212 E 12th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 8505",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0neIQr3w1u4P7N0raw4fxk_42.838917_-106.309393@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312611,
+    "wof:geomhash":"cfffd2f98f25e7010a06724f49721e8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874178417
+        }
+    ],
+    "wof:id":874178417,
+    "wof:lastmodified":1464312611,
+    "wof:name":"Sean F Ellis DDS",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.309393,
+    42.838917,
+    -106.309393,
+    42.838917
+],
+  "geometry": {"coordinates":[-106.309393,42.838917],"type":"Point"}
+}

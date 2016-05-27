@@ -1,0 +1,71 @@
+{
+  "id": 874155351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.589835,41.277741,-105.589835,41.277741",
+    "geom:latitude":41.277741,
+    "geom:longitude":-105.589835,
+    "iso:country":"US",
+    "sg:address":"790 Huron St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2933",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sporting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iLK1okx5bqofRN46HJTLL_41.277741_-105.589835@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312381,
+    "wof:geomhash":"00e809f843d06e44dd10f73be35e6edb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874155351
+        }
+    ],
+    "wof:id":874155351,
+    "wof:lastmodified":1464312381,
+    "wof:name":"Delancey Tack Shop",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sporting"
+    ]
+},
+  "bbox": [
+    -105.589835,
+    41.277741,
+    -105.589835,
+    41.277741
+],
+  "geometry": {"coordinates":[-105.58983499999999,41.277741],"type":"Point"}
+}

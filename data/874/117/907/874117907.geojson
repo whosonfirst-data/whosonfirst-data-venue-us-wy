@@ -1,0 +1,75 @@
+{
+  "id": 874117907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.264588,42.838683,-106.264588,42.838683",
+    "geom:latitude":42.838683,
+    "geom:longitude":-106.264588,
+    "iso:country":"US",
+    "sg:address":"950 Stafford St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7854",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "natural",
+        "oil",
+        "gas",
+        "production"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_428st0Pf5ULqF086hnw3In_42.838683_-106.264588@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312014,
+    "wof:geomhash":"6fec943d466fd29545e436dfacb5093b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874117907
+        }
+    ],
+    "wof:id":874117907,
+    "wof:lastmodified":1464312014,
+    "wof:name":"Sunshine Valley Petroleum",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "natural",
+        "oil",
+        "gas",
+        "production"
+    ]
+},
+  "bbox": [
+    -106.264588,
+    42.838683,
+    -106.264588,
+    42.838683
+],
+  "geometry": {"coordinates":[-106.264588,42.838683],"type":"Point"}
+}

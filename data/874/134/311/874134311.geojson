@@ -1,0 +1,64 @@
+{
+  "id": 874134311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.35601,42.910507,-106.35601,42.910507",
+    "geom:latitude":42.910507,
+    "geom:longitude":-106.35601,
+    "iso:country":"US",
+    "sg:address":"4557 Trl End",
+    "sg:city":"Bar Nunn",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 5104",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HcBljIRRiARcWjLIrJK2d_42.910507_-106.356010@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312184,
+    "wof:geomhash":"3c200b5afa452d91c2527ef1e0f4e540",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874134311
+        }
+    ],
+    "wof:id":874134311,
+    "wof:lastmodified":1464312184,
+    "wof:name":"Ciba Specialty Chemicals Corp",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.35601,
+    42.910507,
+    -106.35601,
+    42.910507
+],
+  "geometry": {"coordinates":[-106.35601,42.910507],"type":"Point"}
+}

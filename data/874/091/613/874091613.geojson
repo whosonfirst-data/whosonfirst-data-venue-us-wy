@@ -1,0 +1,68 @@
+{
+  "id": 874091613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.669849,43.301499,-110.669849,43.301499",
+    "geom:latitude":43.301499,
+    "geom:longitude":-110.669849,
+    "iso:country":"US",
+    "sg:address":"12355 US Hwy 191",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 2097",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operation",
+        "camp",
+        "guest",
+        "ranch"
+    ],
+    "sg:website":"www.spottedhorseranch.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l2heq68mGpqMFApodwhCH_43.301499_-110.669849@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311682,
+    "wof:geomhash":"3d46a2b098d7e675f3a3bd5350d95432",
+    "wof:hierarchy":[],
+    "wof:id":874091613,
+    "wof:lastmodified":1464311682,
+    "wof:name":"Spotted Horse Ranch Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "camp",
+        "guest",
+        "ranch"
+    ]
+},
+  "bbox": [
+    -110.669849,
+    43.301499,
+    -110.669849,
+    43.301499
+],
+  "geometry": {"coordinates":[-110.669849,43.301499],"type":"Point"}
+}

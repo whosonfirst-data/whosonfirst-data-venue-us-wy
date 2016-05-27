@@ -1,0 +1,65 @@
+{
+  "id": 874226085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.39421,42.85715,-106.39421,42.85715",
+    "geom:latitude":42.85715,
+    "geom:longitude":-106.39421,
+    "iso:country":"US",
+    "sg:address":"5100 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 9812",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ctzIKUhKbGavrOE9Hmgwe_42.857150_-106.394210@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313122,
+    "wof:geomhash":"a3e6d962f46e3cedfeae6fc17f395eee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874226085
+        }
+    ],
+    "wof:id":874226085,
+    "wof:lastmodified":1464313122,
+    "wof:name":"Dooley Oil Co Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -106.39421,
+    42.85715,
+    -106.39421,
+    42.85715
+],
+  "geometry": {"coordinates":[-106.39421,42.85715],"type":"Point"}
+}

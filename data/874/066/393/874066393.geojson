@@ -1,0 +1,56 @@
+{
+  "id": 874066393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.386436,44.83745,-108.386436,44.83745",
+    "geom:latitude":44.83745,
+    "geom:longitude":-108.386436,
+    "iso:country":"US",
+    "sg:address":"342 E Main St",
+    "sg:city":"Lovell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 548 7092",
+    "sg:postcode":"82431",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3B5h2UaaKTyCf7j0iQkILk_44.837450_-108.386436@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311392,
+    "wof:geomhash":"d7278919681780fcff05a807b6e1aa7f",
+    "wof:hierarchy":[],
+    "wof:id":874066393,
+    "wof:lastmodified":1464311392,
+    "wof:name":"Strong Tree Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -108.386436,
+    44.83745,
+    -108.386436,
+    44.83745
+],
+  "geometry": {"coordinates":[-108.386436,44.83745],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 874129515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591593,41.318005,-105.591593,41.318005",
+    "geom:latitude":41.318005,
+    "geom:longitude":-105.591593,
+    "iso:country":"US",
+    "sg:address":"650 N 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 8878",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AJebqcubL91UomSq4Fldn_41.318005_-105.591593@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312129,
+    "wof:geomhash":"7aaa483dd9ddb21ec3b445272329ac01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874129515
+        }
+    ],
+    "wof:id":874129515,
+    "wof:lastmodified":1464312129,
+    "wof:name":"Allen Insurance",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.591593,
+    41.318005,
+    -105.591593,
+    41.318005
+],
+  "geometry": {"coordinates":[-105.591593,41.318005],"type":"Point"}
+}

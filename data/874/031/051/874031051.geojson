@@ -1,0 +1,56 @@
+{
+  "id": 874031051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.44458,44.28997,-105.44458,44.28997",
+    "geom:latitude":44.28997,
+    "geom:longitude":-105.44458,
+    "iso:country":"US",
+    "sg:address":"4000 Collins Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 1516",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D3h1NjcdmoHF0PpWErMXH_44.289970_-105.444580@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311058,
+    "wof:geomhash":"1b3371263df518853d4d4c27a8cb39b4",
+    "wof:hierarchy":[],
+    "wof:id":874031051,
+    "wof:lastmodified":1464311058,
+    "wof:name":"Grace Bible Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -105.44458,
+    44.28997,
+    -105.44458,
+    44.28997
+],
+  "geometry": {"coordinates":[-105.44458,44.28997],"type":"Point"}
+}

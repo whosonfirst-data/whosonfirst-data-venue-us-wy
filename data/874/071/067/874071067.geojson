@@ -1,0 +1,71 @@
+{
+  "id": 874071067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591517,41.401379,-105.591517,41.401379",
+    "geom:latitude":41.401379,
+    "geom:longitude":-105.591517,
+    "iso:country":"US",
+    "sg:address":"9 West St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2158",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZyW6XkALWvCwCAmA6Esio_41.401379_-105.591517@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311445,
+    "wof:geomhash":"eab6762adbf207c3004d52eaaf007ea1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874071067
+        }
+    ],
+    "wof:id":874071067,
+    "wof:lastmodified":1464311445,
+    "wof:name":"Eg Enterprises",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -105.591517,
+    41.401379,
+    -105.591517,
+    41.401379
+],
+  "geometry": {"coordinates":[-105.591517,41.401379],"type":"Point"}
+}

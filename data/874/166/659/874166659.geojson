@@ -1,0 +1,69 @@
+{
+  "id": 874166659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.422338,42.815709,-106.422338,42.815709",
+    "geom:latitude":42.815709,
+    "geom:longitude":-106.422338,
+    "iso:country":"US",
+    "sg:address":"6521 Indian Wells Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 0177",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wmIgaBWmxFkFaYD9cOzm7_42.815709_-106.422338@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312495,
+    "wof:geomhash":"81f582c267d23d77bbb9b8e68caa4bc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874166659
+        }
+    ],
+    "wof:id":874166659,
+    "wof:lastmodified":1464312495,
+    "wof:name":"Wagner Racing",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -106.422338,
+    42.815709,
+    -106.422338,
+    42.815709
+],
+  "geometry": {"coordinates":[-106.422338,42.815709],"type":"Point"}
+}

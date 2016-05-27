@@ -1,0 +1,58 @@
+{
+  "id": 874065829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.071613,44.526106,-109.071613,44.526106",
+    "geom:latitude":44.526106,
+    "geom:longitude":-109.071613,
+    "iso:country":"US",
+    "sg:address":"707 Sheridan Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 578 2452",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c62Y38psyvW0VfC9HHtXd_44.526106_-109.071613@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311387,
+    "wof:geomhash":"ce2e4da0e621d9fdc92ad89719e048b5",
+    "wof:hierarchy":[],
+    "wof:id":874065829,
+    "wof:lastmodified":1464311387,
+    "wof:name":"Rehabilitation Svcs W Pk Hosp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -109.071613,
+    44.526106,
+    -109.071613,
+    44.526106
+],
+  "geometry": {"coordinates":[-109.071613,44.526106],"type":"Point"}
+}

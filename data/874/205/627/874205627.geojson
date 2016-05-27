@@ -1,0 +1,75 @@
+{
+  "id": 874205627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.600579,41.326169,-105.600579,41.326169",
+    "geom:latitude":41.326169,
+    "geom:longitude":-105.600579,
+    "iso:country":"US",
+    "sg:address":"1457 N Cedar St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5472",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P0FOEMmnFvsCWRm74M1xU_41.326169_-105.600579@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312900,
+    "wof:geomhash":"c9698c8439c7a91942abb90377a4d8b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874205627
+        }
+    ],
+    "wof:id":874205627,
+    "wof:lastmodified":1464312900,
+    "wof:name":"A & B Body Shop",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -105.600579,
+    41.326169,
+    -105.600579,
+    41.326169
+],
+  "geometry": {"coordinates":[-105.600579,41.326169],"type":"Point"}
+}

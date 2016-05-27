@@ -1,0 +1,56 @@
+{
+  "id": 874081577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.853444,44.672542,-103.853444,44.672542",
+    "geom:latitude":44.672542,
+    "geom:longitude":-103.853444,
+    "iso:country":"US",
+    "sg:address":"513 Grant St",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 3006",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JHmrfe0saiLnuooogIg07_44.672542_-103.853444@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311570,
+    "wof:geomhash":"3593c9592359d9e934fc69cb5246b7be",
+    "wof:hierarchy":[],
+    "wof:id":874081577,
+    "wof:lastmodified":1464311570,
+    "wof:name":"Belle Fourche City Engineer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -103.853444,
+    44.672542,
+    -103.853444,
+    44.672542
+],
+  "geometry": {"coordinates":[-103.853444,44.672542],"type":"Point"}
+}

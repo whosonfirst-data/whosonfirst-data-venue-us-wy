@@ -1,0 +1,73 @@
+{
+  "id": 874052471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.622717,41.317666,-105.622717,41.317666",
+    "geom:latitude":41.317666,
+    "geom:longitude":-105.622717,
+    "iso:country":"US",
+    "sg:address":"1975 W Madison St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 1060",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41Mm5mgTOYRrqZHq4Tzx8E_41.317666_-105.622717@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311264,
+    "wof:geomhash":"5388e00b03e247f6d16fe103b2c76ade",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874052471
+        }
+    ],
+    "wof:id":874052471,
+    "wof:lastmodified":1464311264,
+    "wof:name":"Dale Behrends",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -105.622717,
+    41.317666,
+    -105.622717,
+    41.317666
+],
+  "geometry": {"coordinates":[-105.62271699999999,41.317666],"type":"Point"}
+}

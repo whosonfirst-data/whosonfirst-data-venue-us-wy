@@ -1,0 +1,65 @@
+{
+  "id": 874070683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.830006,41.138249,-104.830006,41.138249",
+    "geom:latitude":41.138249,
+    "geom:longitude":-104.830006,
+    "iso:country":"US",
+    "sg:address":"1108 W 26th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 5430",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "communication",
+        "radio",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cFUcZBvArxpJsPLc7wnNf_41.138249_-104.830006@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311439,
+    "wof:geomhash":"aaba49cd3c9f2a9b1ac044b07725cb29",
+    "wof:hierarchy":[],
+    "wof:id":874070683,
+    "wof:lastmodified":1464311439,
+    "wof:name":"New Horizon Communications",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "radio",
+        "system"
+    ]
+},
+  "bbox": [
+    -104.830006,
+    41.138249,
+    -104.830006,
+    41.138249
+],
+  "geometry": {"coordinates":[-104.830006,41.138249],"type":"Point"}
+}

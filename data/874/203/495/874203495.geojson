@@ -1,0 +1,69 @@
+{
+  "id": 874203495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.4081,42.86887,-106.4081,42.86887",
+    "geom:latitude":42.86887,
+    "geom:longitude":-106.4081,
+    "iso:country":"US",
+    "sg:address":"6001 Old Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 2173",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ranch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6C7A5zW7zULigIG671qk0E_42.868870_-106.408100@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312879,
+    "wof:geomhash":"e4c5eac9206dcc7bdc0e46738ff8df90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874203495
+        }
+    ],
+    "wof:id":874203495,
+    "wof:lastmodified":1464312879,
+    "wof:name":"Forgey Ranches Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranch"
+    ]
+},
+  "bbox": [
+    -106.4081,
+    42.86887,
+    -106.4081,
+    42.86887
+],
+  "geometry": {"coordinates":[-106.4081,42.86887],"type":"Point"}
+}

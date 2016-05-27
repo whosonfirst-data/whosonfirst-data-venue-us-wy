@@ -1,0 +1,60 @@
+{
+  "id": 874218731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.710328,41.191846,-104.710328,41.191846",
+    "geom:latitude":41.191846,
+    "geom:longitude":-104.710328,
+    "iso:country":"US",
+    "sg:address":"8211 Yarina Way",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 2083",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0owZbDhlDKuWuOky6CABlD_41.191846_-104.710328@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313040,
+    "wof:geomhash":"ee67989d1278b7c506cf1e31c81af483",
+    "wof:hierarchy":[],
+    "wof:id":874218731,
+    "wof:lastmodified":1464313040,
+    "wof:name":"D & J Mail Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -104.710328,
+    41.191846,
+    -104.710328,
+    41.191846
+],
+  "geometry": {"coordinates":[-104.710328,41.191846],"type":"Point"}
+}

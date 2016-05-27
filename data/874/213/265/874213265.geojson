@@ -1,0 +1,71 @@
+{
+  "id": 874213265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.404272,42.843126,-106.404272,42.843126",
+    "geom:latitude":42.843126,
+    "geom:longitude":-106.404272,
+    "iso:country":"US",
+    "sg:address":"5981 Poison Spider Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 6419",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "national",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gyNHlsbQIsBy8AvtSkiBU_42.843126_-106.404272@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312987,
+    "wof:geomhash":"75c4a53eda8a71967a9612f217c45cd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874213265
+        }
+    ],
+    "wof:id":874213265,
+    "wof:lastmodified":1464312987,
+    "wof:name":"US Department of the Navy",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "security"
+    ]
+},
+  "bbox": [
+    -106.404272,
+    42.843126,
+    -106.404272,
+    42.843126
+],
+  "geometry": {"coordinates":[-106.40427200000001,42.843126],"type":"Point"}
+}

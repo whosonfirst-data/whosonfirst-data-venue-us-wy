@@ -1,0 +1,58 @@
+{
+  "id": 874121195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.380585,43.036543,-108.380585,43.036543",
+    "geom:latitude":43.036543,
+    "geom:longitude":-108.380585,
+    "iso:country":"US",
+    "sg:address":"1002 N Federal Blvd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 7789",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aPV7ipzzWVyXEycuyGLo1_43.036543_-108.380585@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312052,
+    "wof:geomhash":"ecd44b42bf18e6bdec6169907255d112",
+    "wof:hierarchy":[],
+    "wof:id":874121195,
+    "wof:lastmodified":1464312052,
+    "wof:name":"Us Auto Sales",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -108.380585,
+    43.036543,
+    -108.380585,
+    43.036543
+],
+  "geometry": {"coordinates":[-108.380585,43.036543],"type":"Point"}
+}

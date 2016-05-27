@@ -1,0 +1,71 @@
+{
+  "id": 873990175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.557435,41.309964,-105.557435,41.309964",
+    "geom:latitude":41.309964,
+    "geom:longitude":-105.557435,
+    "iso:country":"US",
+    "sg:address":"205 S 30th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 4177",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "teenage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43nu6alg5GW1GMjYSE8046_41.309964_-105.557435@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310691,
+    "wof:geomhash":"840fbc8e19d0ef2557dd8ac202180ce1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873990175
+        }
+    ],
+    "wof:id":873990175,
+    "wof:lastmodified":1464310691,
+    "wof:name":"Secular Nought",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "teenage"
+    ]
+},
+  "bbox": [
+    -105.557435,
+    41.309964,
+    -105.557435,
+    41.309964
+],
+  "geometry": {"coordinates":[-105.557435,41.309964],"type":"Point"}
+}

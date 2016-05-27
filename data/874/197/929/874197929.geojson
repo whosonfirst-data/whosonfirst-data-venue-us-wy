@@ -1,0 +1,56 @@
+{
+  "id": 874197929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.860675,42.868834,-109.860675,42.868834",
+    "geom:latitude":42.868834,
+    "geom:longitude":-109.860675,
+    "iso:country":"US",
+    "sg:address":"51 E North St",
+    "sg:city":"Pinedale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 367 2214",
+    "sg:postcode":"82941",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aV4VlSWZzn4xG1OyU1X8J_42.868834_-109.860675@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312825,
+    "wof:geomhash":"08f450e8a2ae27690c49a38c7f09cd37",
+    "wof:hierarchy":[],
+    "wof:id":874197929,
+    "wof:lastmodified":1464312825,
+    "wof:name":"Dental Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -109.860675,
+    42.868834,
+    -109.860675,
+    42.868834
+],
+  "geometry": {"coordinates":[-109.860675,42.868834],"type":"Point"}
+}

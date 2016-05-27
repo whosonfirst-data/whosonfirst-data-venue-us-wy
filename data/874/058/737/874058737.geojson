@@ -1,0 +1,69 @@
+{
+  "id": 874058737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.342897,42.79593,-106.342897,42.79593",
+    "geom:latitude":42.79593,
+    "geom:longitude":-106.342897,
+    "iso:country":"US",
+    "sg:address":"5940 S Cedar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 2453",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Yc85NDkfBmau85SCPVdia_42.795930_-106.342897@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311324,
+    "wof:geomhash":"1201b3f971dd0b1193431b893fb6a17c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874058737
+        }
+    ],
+    "wof:id":874058737,
+    "wof:lastmodified":1464311324,
+    "wof:name":"Creative Arts",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -106.342897,
+    42.79593,
+    -106.342897,
+    42.79593
+],
+  "geometry": {"coordinates":[-106.34289699999999,42.79593],"type":"Point"}
+}

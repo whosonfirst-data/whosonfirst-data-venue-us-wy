@@ -1,0 +1,58 @@
+{
+  "id": 874212191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.772093,41.171009,-104.772093,41.171009",
+    "geom:latitude":41.171009,
+    "geom:longitude":-104.772093,
+    "iso:country":"US",
+    "sg:address":"2947 Thomas Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 8447",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "party",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EINbMNbjG1rHsgGWUp3ro_41.171009_-104.772093@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312976,
+    "wof:geomhash":"4006c0cb595c3caef4d04889b0e049f6",
+    "wof:hierarchy":[],
+    "wof:id":874212191,
+    "wof:lastmodified":1464312976,
+    "wof:name":"Party Zone Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "supply"
+    ]
+},
+  "bbox": [
+    -104.772093,
+    41.171009,
+    -104.772093,
+    41.171009
+],
+  "geometry": {"coordinates":[-104.772093,41.171009],"type":"Point"}
+}

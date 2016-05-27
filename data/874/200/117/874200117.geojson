@@ -1,0 +1,56 @@
+{
+  "id": 874200117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.38056,43.019442,-108.38056,43.019442",
+    "geom:latitude":43.019442,
+    "geom:longitude":-108.38056,
+    "iso:country":"US",
+    "sg:address":"800 E Monroe Ave",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 4693",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3To2TcnWFX6gPG5JlK53u2_43.019442_-108.380560@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312845,
+    "wof:geomhash":"9906bff67f700e7c8ca234f2bb641346",
+    "wof:hierarchy":[],
+    "wof:id":874200117,
+    "wof:lastmodified":1464312845,
+    "wof:name":"Bobs Auto & Equipment",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -108.38056,
+    43.019442,
+    -108.38056,
+    43.019442
+],
+  "geometry": {"coordinates":[-108.38056,43.019442],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874023587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590746,41.311852,-105.590746,41.311852",
+    "geom:latitude":41.311852,
+    "geom:longitude":-105.590746,
+    "iso:country":"US",
+    "sg:address":"511 E Ivinson Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 7600",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "communication",
+        "radiotelephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ItNHup71VAtsXTOiXPlQv_41.311852_-105.590746@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310979,
+    "wof:geomhash":"07e94e1d452bb08bec57bcac3c05d5ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874023587
+        }
+    ],
+    "wof:id":874023587,
+    "wof:lastmodified":1464310979,
+    "wof:name":"Beckys One Stop Cellular",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "radiotelephone"
+    ]
+},
+  "bbox": [
+    -105.590746,
+    41.311852,
+    -105.590746,
+    41.311852
+],
+  "geometry": {"coordinates":[-105.590746,41.311852],"type":"Point"}
+}

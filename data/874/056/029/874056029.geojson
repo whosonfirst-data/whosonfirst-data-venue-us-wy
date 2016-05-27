@@ -1,0 +1,71 @@
+{
+  "id": 874056029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.41231,42.80184,-106.41231,42.80184",
+    "geom:latitude":42.80184,
+    "geom:longitude":-106.41231,
+    "iso:country":"US",
+    "sg:address":"4625 S Skyline Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 6856",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LI6UNz3lLNc8GkrRYccYT_42.801840_-106.412310@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311301,
+    "wof:geomhash":"4475ca9f3b9adfb1323bd04194190cd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874056029
+        }
+    ],
+    "wof:id":874056029,
+    "wof:lastmodified":1464311301,
+    "wof:name":"Vj Ranch",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -106.41231,
+    42.80184,
+    -106.41231,
+    42.80184
+],
+  "geometry": {"coordinates":[-106.41231000000001,42.80184],"type":"Point"}
+}

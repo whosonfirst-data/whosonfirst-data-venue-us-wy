@@ -1,0 +1,51 @@
+{
+  "id": 874039695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.970136,41.591112,-109.970136,41.591112",
+    "geom:latitude":41.591112,
+    "geom:longitude":-109.970136,
+    "iso:country":"US",
+    "sg:address":"60 Spruce St",
+    "sg:city":"Granger",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 8038",
+    "sg:postcode":"82934",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RUOVTV5ynFllUkNyGq18U_41.591112_-109.970136@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311140,
+    "wof:geomhash":"1a9a86b892ba4bcc1d1e3f76ab8775e6",
+    "wof:hierarchy":[],
+    "wof:id":874039695,
+    "wof:lastmodified":1464311140,
+    "wof:name":"Granger Branch Library",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.970136,
+    41.591112,
+    -109.970136,
+    41.591112
+],
+  "geometry": {"coordinates":[-109.970136,41.591112],"type":"Point"}
+}

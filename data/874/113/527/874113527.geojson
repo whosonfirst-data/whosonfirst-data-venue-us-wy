@@ -1,0 +1,58 @@
+{
+  "id": 874113527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.979988,44.807188,-106.979988,44.807188",
+    "geom:latitude":44.807188,
+    "geom:longitude":-106.979988,
+    "iso:country":"US",
+    "sg:address":"1585 W 5th St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 6022",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55HSQSsGS1FKnJiSeTURDy_44.807188_-106.979988@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311972,
+    "wof:geomhash":"16509b246a62bbfef0a71ae19e8d05aa",
+    "wof:hierarchy":[],
+    "wof:id":874113527,
+    "wof:lastmodified":1464311972,
+    "wof:name":"Cancer Center Northern Wyoming",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "general"
+    ]
+},
+  "bbox": [
+    -106.979988,
+    44.807188,
+    -106.979988,
+    44.807188
+],
+  "geometry": {"coordinates":[-106.97998800000001,44.807188],"type":"Point"}
+}

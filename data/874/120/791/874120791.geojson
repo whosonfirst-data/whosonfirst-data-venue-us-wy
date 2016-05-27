@@ -1,0 +1,64 @@
+{
+  "id": 874120791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.120746,42.857807,-106.120746,42.857807",
+    "geom:latitude":42.857807,
+    "geom:longitude":-106.120746,
+    "iso:country":"US",
+    "sg:address":"12070 Platte River Rd",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 6049",
+    "sg:postcode":"82636",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kSdVEqMApJw8mUpNA0wxJ_42.857807_-106.120746@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312048,
+    "wof:geomhash":"916eab903fbf44525267d57d65026df7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874120791
+        }
+    ],
+    "wof:id":874120791,
+    "wof:lastmodified":1464312048,
+    "wof:name":"Bullseye Services",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.120746,
+    42.857807,
+    -106.120746,
+    42.857807
+],
+  "geometry": {"coordinates":[-106.120746,42.857807],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874218535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.945314,44.790928,-106.945314,44.790928",
+    "geom:latitude":44.790928,
+    "geom:longitude":-106.945314,
+    "iso:country":"US",
+    "sg:address":"670 S Carlin St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 5846",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jv6mib3SG5Lu4hcgs8b5A_44.790928_-106.945314@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313037,
+    "wof:geomhash":"cd1cfbee0b052dcb078362380043b940",
+    "wof:hierarchy":[],
+    "wof:id":874218535,
+    "wof:lastmodified":1464313037,
+    "wof:name":"L L Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -106.945314,
+    44.790928,
+    -106.945314,
+    44.790928
+],
+  "geometry": {"coordinates":[-106.945314,44.790928],"type":"Point"}
+}

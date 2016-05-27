@@ -1,0 +1,71 @@
+{
+  "id": 874084399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.379131,42.819727,-106.379131,42.819727",
+    "geom:latitude":42.819727,
+    "geom:longitude":-106.379131,
+    "iso:country":"US",
+    "sg:address":"3010 Energy Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 3900",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54aufvfIOtF9qQ1s44EZq2_42.819727_-106.379131@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311602,
+    "wof:geomhash":"20a094fff287fd4b4d478e00a80f3619",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874084399
+        }
+    ],
+    "wof:id":874084399,
+    "wof:lastmodified":1464311602,
+    "wof:name":"White's Marine Ctr",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -106.379131,
+    42.819727,
+    -106.379131,
+    42.819727
+],
+  "geometry": {"coordinates":[-106.379131,42.819727],"type":"Point"}
+}

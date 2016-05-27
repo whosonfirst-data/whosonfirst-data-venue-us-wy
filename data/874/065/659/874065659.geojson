@@ -1,0 +1,63 @@
+{
+  "id": 874065659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.462171,42.8985,-106.462171,42.8985",
+    "geom:latitude":42.8985,
+    "geom:longitude":-106.462171,
+    "iso:country":"US",
+    "sg:address":"8410 Fuller St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 1377",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "aircraft",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10TUhfmMZvIfY7gg3uP30m_42.898500_-106.462171@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311385,
+    "wof:geomhash":"9f312792567e09d4b204e473f3a0a7d5",
+    "wof:hierarchy":[],
+    "wof:id":874065659,
+    "wof:lastmodified":1464311385,
+    "wof:name":"Wyoming Air Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "school"
+    ]
+},
+  "bbox": [
+    -106.462171,
+    42.8985,
+    -106.462171,
+    42.8985
+],
+  "geometry": {"coordinates":[-106.462171,42.8985],"type":"Point"}
+}

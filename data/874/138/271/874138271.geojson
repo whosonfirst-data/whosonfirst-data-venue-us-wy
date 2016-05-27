@@ -1,0 +1,51 @@
+{
+  "id": 874138271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.827467,43.586514,-110.827467,43.586514",
+    "geom:latitude":43.586514,
+    "geom:longitude":-110.827467,
+    "iso:country":"US",
+    "sg:address":"3230 W McCollister Dr",
+    "sg:city":"Teton Village",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 000 1111",
+    "sg:postcode":"83025",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LnIqIfmxR2qdk5PEdg4wd_43.586514_-110.827467@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312220,
+    "wof:geomhash":"0f18b3ef3d46cde846f0a9d973cb575b",
+    "wof:hierarchy":[],
+    "wof:id":874138271,
+    "wof:lastmodified":1464312220,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.827467,
+    43.586514,
+    -110.827467,
+    43.586514
+],
+  "geometry": {"coordinates":[-110.827467,43.586514],"type":"Point"}
+}

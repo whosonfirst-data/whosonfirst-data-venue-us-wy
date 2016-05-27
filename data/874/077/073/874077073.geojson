@@ -1,0 +1,58 @@
+{
+  "id": 874077073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.760779,44.749005,-108.760779,44.749005",
+    "geom:latitude":44.749005,
+    "geom:longitude":-108.760779,
+    "iso:country":"US",
+    "sg:address":"412 S Fair St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 5203",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fN0XAkFC5vcQMMIYLbr1S_44.749005_-108.760779@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311520,
+    "wof:geomhash":"1be9e70d8e26427c6d62a345992ac7db",
+    "wof:hierarchy":[],
+    "wof:id":874077073,
+    "wof:lastmodified":1464311520,
+    "wof:name":"Powell Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.760779,
+    44.749005,
+    -108.760779,
+    44.749005
+],
+  "geometry": {"coordinates":[-108.760779,44.749005],"type":"Point"}
+}

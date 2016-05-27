@@ -1,0 +1,68 @@
+{
+  "id": 874051725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.797074,41.159817,-104.797074,41.159817",
+    "geom:latitude":41.159817,
+    "geom:longitude":-104.797074,
+    "iso:country":"US",
+    "sg:address":"1802 Spring Ct",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 6300",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FXHhgh1DE54TJcdq7zfLo_41.159817_-104.797074@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311257,
+    "wof:geomhash":"6c9774ea7f6df6b48a3f3c04f9356fee",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":874051725
+        }
+    ],
+    "wof:id":874051725,
+    "wof:lastmodified":1464311257,
+    "wof:name":"Brookside Dental Clinic",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.797074,
+    41.159817,
+    -104.797074,
+    41.159817
+],
+  "geometry": {"coordinates":[-104.79707399999999,41.159817],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 874128923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.769853,41.109633,-104.769853,41.109633",
+    "geom:latitude":41.109633,
+    "geom:longitude":-104.769853,
+    "iso:country":"US",
+    "sg:address":"103 S College Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 0117",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4icm4zjy9B9WZM2wrxq9G8_41.109633_-104.769853@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312120,
+    "wof:geomhash":"c5f33fa0a1daa9abaa74b9ba4c488ae1",
+    "wof:hierarchy":[],
+    "wof:id":874128923,
+    "wof:lastmodified":1464312120,
+    "wof:name":"North Park Transportation Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -104.769853,
+    41.109633,
+    -104.769853,
+    41.109633
+],
+  "geometry": {"coordinates":[-104.769853,41.109633],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874148717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.421829,42.879503,-106.421829,42.879503",
+    "geom:latitude":42.879503,
+    "geom:longitude":-106.421829,
+    "iso:country":"US",
+    "sg:address":"2411 Oil Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 0477",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EhgaU0hgpeRAThV9DfpAS_42.879503_-106.421829@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312317,
+    "wof:geomhash":"4a94e6cddffb6c0c6409d30ba857fc89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874148717
+        }
+    ],
+    "wof:id":874148717,
+    "wof:lastmodified":1464312317,
+    "wof:name":"Continental Industries",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.421829,
+    42.879503,
+    -106.421829,
+    42.879503
+],
+  "geometry": {"coordinates":[-106.421829,42.879503],"type":"Point"}
+}

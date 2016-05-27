@@ -1,0 +1,75 @@
+{
+  "id": 874202955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592567,41.319794,-105.592567,41.319794",
+    "geom:latitude":41.319794,
+    "geom:longitude":-105.592567,
+    "iso:country":"US",
+    "sg:address":"867 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 0037",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "drinking",
+        "beverage",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Bp6iuBV6ojlrlHvhp3f1o_41.319794_-105.592567@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312874,
+    "wof:geomhash":"28937513ceeb11a7b617f2ebddb10863",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874202955
+        }
+    ],
+    "wof:id":874202955,
+    "wof:lastmodified":1464312874,
+    "wof:name":"Coppers Corner",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "beverage",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -105.592567,
+    41.319794,
+    -105.592567,
+    41.319794
+],
+  "geometry": {"coordinates":[-105.592567,41.319794],"type":"Point"}
+}

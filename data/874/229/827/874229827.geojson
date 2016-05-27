@@ -1,0 +1,67 @@
+{
+  "id": 874229827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.493878,44.269174,-105.493878,44.269174",
+    "geom:latitude":44.269174,
+    "geom:longitude":-105.493878,
+    "iso:country":"US",
+    "sg:address":"2510 S Douglas Hwy",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/gillette-north/102385-perkins-restaurant--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 6887",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VECK2ABXTAQd3Tn9vzS8B_44.269174_-105.493878@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313158,
+    "wof:geomhash":"cd6542fcba995e61bc9f17ed71685505",
+    "wof:hierarchy":[],
+    "wof:id":874229827,
+    "wof:lastmodified":1464313158,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -105.493878,
+    44.269174,
+    -105.493878,
+    44.269174
+],
+  "geometry": {"coordinates":[-105.493878,44.269174],"type":"Point"}
+}

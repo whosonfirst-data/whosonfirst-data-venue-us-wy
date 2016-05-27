@@ -1,0 +1,71 @@
+{
+  "id": 874197713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.338867,42.855435,-106.338867,42.855435",
+    "geom:latitude":42.855435,
+    "geom:longitude":-106.338867,
+    "iso:country":"US",
+    "sg:address":"488 N Foster Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4503",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shed",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0niHqKvqmy7XX0z6p2C0bq_42.855435_-106.338867@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312823,
+    "wof:geomhash":"adb8c1b61502f17bf5d8b63f70451c76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874197713
+        }
+    ],
+    "wof:id":874197713,
+    "wof:lastmodified":1464312823,
+    "wof:name":"Rocky Mountain Erectors LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shed",
+        "utility"
+    ]
+},
+  "bbox": [
+    -106.338867,
+    42.855435,
+    -106.338867,
+    42.855435
+],
+  "geometry": {"coordinates":[-106.33886699999999,42.855435],"type":"Point"}
+}

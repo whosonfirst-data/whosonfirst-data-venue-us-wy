@@ -1,0 +1,71 @@
+{
+  "id": 874122155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.330724,42.846513,-106.330724,42.846513",
+    "geom:latitude":42.846513,
+    "geom:longitude":-106.330724,
+    "iso:country":"US",
+    "sg:address":"424 S Oak St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 3020",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23kninZDMqovHmORKVV4Ov_42.846513_-106.330724@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312060,
+    "wof:geomhash":"6c281bb07c58b612d4a1ff4a62f6922b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874122155
+        }
+    ],
+    "wof:id":874122155,
+    "wof:lastmodified":1464312060,
+    "wof:name":"Kistler Tent & Awning Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -106.330724,
+    42.846513,
+    -106.330724,
+    42.846513
+],
+  "geometry": {"coordinates":[-106.330724,42.846513],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874043627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.971436,41.263299,-110.971436,41.263299",
+    "geom:latitude":41.263299,
+    "geom:longitude":-110.971436,
+    "iso:country":"US",
+    "sg:address":"901 Lombard St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 8733",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "conservation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jcgr13SDdwQ6mvZMZXdNJ_41.263299_-110.971436@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311181,
+    "wof:geomhash":"880daaa6d078865510b46ec60457b8e3",
+    "wof:hierarchy":[],
+    "wof:id":874043627,
+    "wof:lastmodified":1464311181,
+    "wof:name":"Preserve Wyoming",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conservation"
+    ]
+},
+  "bbox": [
+    -110.971436,
+    41.263299,
+    -110.971436,
+    41.263299
+],
+  "geometry": {"coordinates":[-110.971436,41.263299],"type":"Point"}
+}

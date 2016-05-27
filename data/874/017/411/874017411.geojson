@@ -1,0 +1,69 @@
+{
+  "id": 874017411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.286591,42.836105,-106.286591,42.836105",
+    "geom:latitude":42.836105,
+    "geom:longitude":-106.286591,
+    "iso:country":"US",
+    "sg:address":"1260 S Forest Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2841",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mvzZJ5QDb5T6R3Pz75jlf_42.836105_-106.286591@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310918,
+    "wof:geomhash":"e24648faadf076f8ec8ddb39341d268c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874017411
+        }
+    ],
+    "wof:id":874017411,
+    "wof:lastmodified":1464310918,
+    "wof:name":"Wyoming Marble & Granite",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.286591,
+    42.836105,
+    -106.286591,
+    42.836105
+],
+  "geometry": {"coordinates":[-106.286591,42.836105],"type":"Point"}
+}

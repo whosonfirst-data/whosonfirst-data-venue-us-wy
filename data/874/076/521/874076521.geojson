@@ -1,0 +1,71 @@
+{
+  "id": 874076521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.413332,42.83145,-106.413332,42.83145",
+    "geom:latitude":42.83145,
+    "geom:longitude":-106.413332,
+    "iso:country":"US",
+    "sg:address":"1080 S Robertson Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 3527",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05hknvVbylvpeMPHJHQa2N_42.831450_-106.413332@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311516,
+    "wof:geomhash":"10da1f0c4c934bddceb8a83e02a3c34b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874076521
+        }
+    ],
+    "wof:id":874076521,
+    "wof:lastmodified":1464311516,
+    "wof:name":"Hycalog-Reed",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "gas"
+    ]
+},
+  "bbox": [
+    -106.413332,
+    42.83145,
+    -106.413332,
+    42.83145
+],
+  "geometry": {"coordinates":[-106.413332,42.83145],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874087953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.554065,41.020859,-105.554065,41.020859",
+    "geom:latitude":41.020859,
+    "geom:longitude":-105.554065,
+    "iso:country":"US",
+    "sg:address":"505 Cherokee Park Rd",
+    "sg:city":"Tie Siding",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7420",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ranch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ue6TnSVPeXI3NZgCyRP3B_41.020859_-105.554065@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311641,
+    "wof:geomhash":"b20c81a04c22b74992c26d2a1f23494e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874087953
+        }
+    ],
+    "wof:id":874087953,
+    "wof:lastmodified":1464311641,
+    "wof:name":"Fish Creek Ranch",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranch"
+    ]
+},
+  "bbox": [
+    -105.554065,
+    41.020859,
+    -105.554065,
+    41.020859
+],
+  "geometry": {"coordinates":[-105.55406499999999,41.020859],"type":"Point"}
+}

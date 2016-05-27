@@ -1,0 +1,58 @@
+{
+  "id": 874221859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.653531,43.288312,-110.653531,43.288312",
+    "geom:latitude":43.288312,
+    "geom:longitude":-110.653531,
+    "iso:country":"US",
+    "sg:address":"13405 S Bryan Flat Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 3091",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F5XwvldtdVc4onhRokm16_43.288312_-110.653531@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313082,
+    "wof:geomhash":"4e5f83a367f962a8ed1341929d8b7953",
+    "wof:hierarchy":[],
+    "wof:id":874221859,
+    "wof:lastmodified":1464313082,
+    "wof:name":"Camp Davis-University-Michigan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -110.653531,
+    43.288312,
+    -110.653531,
+    43.288312
+],
+  "geometry": {"coordinates":[-110.653531,43.288312],"type":"Point"}
+}

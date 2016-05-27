@@ -1,0 +1,62 @@
+{
+  "id": 874220405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.954013,42.055374,-104.954013,42.055374",
+    "geom:latitude":42.055374,
+    "geom:longitude":-104.954013,
+    "iso:country":"US",
+    "sg:address":"956 Maple St",
+    "sg:city":"Wheatland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 322 2040",
+    "sg:postcode":"82201",
+    "sg:province":"WY",
+    "sg:tags":[
+        "driver",
+        "station",
+        "examination",
+        "license"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YWLuhdMy5bx9Y3bcl4T4F_42.055374_-104.954013@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313068,
+    "wof:geomhash":"6961a569343f5c7abc053e8f3e4ccd34",
+    "wof:hierarchy":[],
+    "wof:id":874220405,
+    "wof:lastmodified":1464313068,
+    "wof:name":"Wydot Drver Lcnse Exmntion Stn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "driver",
+        "station",
+        "examination",
+        "license"
+    ]
+},
+  "bbox": [
+    -104.954013,
+    42.055374,
+    -104.954013,
+    42.055374
+],
+  "geometry": {"coordinates":[-104.954013,42.055374],"type":"Point"}
+}

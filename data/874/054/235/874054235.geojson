@@ -1,0 +1,58 @@
+{
+  "id": 874054235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.823755,41.150447,-104.823755,41.150447",
+    "geom:latitude":41.150447,
+    "geom:longitude":-104.823755,
+    "iso:country":"US",
+    "sg:address":"117 W 5th Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 0144",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jk31YVu3zTYPHDMttjUNM_41.150447_-104.823755@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311280,
+    "wof:geomhash":"d846a648fa5237fc8cce61ec93150102",
+    "wof:hierarchy":[],
+    "wof:id":874054235,
+    "wof:lastmodified":1464311280,
+    "wof:name":"Atlas Electric LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -104.823755,
+    41.150447,
+    -104.823755,
+    41.150447
+],
+  "geometry": {"coordinates":[-104.82375500000001,41.150447],"type":"Point"}
+}

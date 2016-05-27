@@ -1,0 +1,71 @@
+{
+  "id": 874116859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.27078,42.851539,-106.27078,42.851539",
+    "geom:latitude":42.851539,
+    "geom:longitude":-106.27078,
+    "iso:country":"US",
+    "sg:address":"60 SE Wyoming Blvd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0992",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vVwZcq1yxpXMrDvCf88uP_42.851539_-106.270780@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312005,
+    "wof:geomhash":"bb2972574f28fbc7c39f4509bd50fa87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874116859
+        }
+    ],
+    "wof:id":874116859,
+    "wof:lastmodified":1464312005,
+    "wof:name":"Super Tunnel Car Wash",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -106.27078,
+    42.851539,
+    -106.27078,
+    42.851539
+],
+  "geometry": {"coordinates":[-106.27078,42.851539],"type":"Point"}
+}

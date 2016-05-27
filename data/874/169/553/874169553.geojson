@@ -1,0 +1,51 @@
+{
+  "id": 874169553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.828684,41.168813,-104.828684,41.168813",
+    "geom:latitude":41.168813,
+    "geom:longitude":-104.828684,
+    "iso:country":"US",
+    "sg:address":"5420 Yellowstone Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 6777",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1U3gS2mBjE11pUic9nZIlP_41.168813_-104.828684@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312522,
+    "wof:geomhash":"61ab86ebed68bd63e28e7037cab35899",
+    "wof:hierarchy":[],
+    "wof:id":874169553,
+    "wof:lastmodified":1464312522,
+    "wof:name":"Active Care Chiropractic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.828684,
+    41.168813,
+    -104.828684,
+    41.168813
+],
+  "geometry": {"coordinates":[-104.828684,41.168813],"type":"Point"}
+}

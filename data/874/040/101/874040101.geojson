@@ -1,0 +1,56 @@
+{
+  "id": 874040101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.597315,44.8911,-108.597315,44.8911",
+    "geom:latitude":44.8911,
+    "geom:longitude":-108.597315,
+    "iso:country":"US",
+    "sg:address":"180 W 1st St",
+    "sg:city":"Deaver",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 664 2384",
+    "sg:postcode":"82421",
+    "sg:province":"WY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hjevnRnhLEt4CXQ3Yf2ya_44.891100_-108.597315@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311144,
+    "wof:geomhash":"fc1854b719dd0f077f4d54dbb653e4f3",
+    "wof:hierarchy":[],
+    "wof:id":874040101,
+    "wof:lastmodified":1464311144,
+    "wof:name":"Deaver Town Maintenance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -108.597315,
+    44.8911,
+    -108.597315,
+    44.8911
+],
+  "geometry": {"coordinates":[-108.59731499999999,44.8911],"type":"Point"}
+}

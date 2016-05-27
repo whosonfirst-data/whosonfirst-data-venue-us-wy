@@ -1,0 +1,56 @@
+{
+  "id": 874028465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.451906,43.054873,-108.451906,43.054873",
+    "geom:latitude":43.054873,
+    "geom:longitude":-108.451906,
+    "iso:country":"US",
+    "sg:address":"4444 Skylane Ave",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 8101",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "seismograph"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xwLROG6kgGllKSdBEr0Tj_43.054873_-108.451906@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311028,
+    "wof:geomhash":"28326b212fb33ffa1df57eb1ac4655ef",
+    "wof:hierarchy":[],
+    "wof:id":874028465,
+    "wof:lastmodified":1464311028,
+    "wof:name":"Mowrey Seismic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seismograph"
+    ]
+},
+  "bbox": [
+    -108.451906,
+    43.054873,
+    -108.451906,
+    43.054873
+],
+  "geometry": {"coordinates":[-108.45190599999999,43.054873],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 873994911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.465632,41.519521,-109.465632,41.519521",
+    "geom:latitude":41.519521,
+    "geom:longitude":-109.465632,
+    "iso:country":"US",
+    "sg:address":"91 Uinta Dr",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 8841",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GcWktB46Qt2NmWW1ux8nC_41.519521_-109.465632@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310725,
+    "wof:geomhash":"894adaff27aa4982707f0ca457c191fd",
+    "wof:hierarchy":[],
+    "wof:id":873994911,
+    "wof:lastmodified":1464310725,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -109.465632,
+    41.519521,
+    -109.465632,
+    41.519521
+],
+  "geometry": {"coordinates":[-109.465632,41.519521],"type":"Point"}
+}

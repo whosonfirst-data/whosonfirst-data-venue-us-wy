@@ -1,0 +1,60 @@
+{
+  "id": 874045397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.964849,44.013063,-107.964849,44.013063",
+    "geom:latitude":44.013063,
+    "geom:longitude":-107.964849,
+    "iso:country":"US",
+    "sg:address":"470 S Railway Ave",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 3828",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N1a3DvpxshmgTWhepZps9_44.013063_-107.964849@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311200,
+    "wof:geomhash":"260c3d73c07998bf79125720b155f976",
+    "wof:hierarchy":[],
+    "wof:id":874045397,
+    "wof:lastmodified":1464311200,
+    "wof:name":"T R's Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -107.964849,
+    44.013063,
+    -107.964849,
+    44.013063
+],
+  "geometry": {"coordinates":[-107.964849,44.013063],"type":"Point"}
+}

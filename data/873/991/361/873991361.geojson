@@ -1,0 +1,76 @@
+{
+  "id": 873991361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.549653,41.321861,-105.549653,41.321861",
+    "geom:latitude":41.321861,
+    "geom:longitude":-105.549653,
+    "iso:country":"US",
+    "sg:address":"1054 N Hidalgo Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 9246",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33vNG7jMQsdT1I2xpCYmKf_41.321861_-105.549653@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310699,
+    "wof:geomhash":"461dcae2b7674b9a39ae9c950535f59b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873991361
+        }
+    ],
+    "wof:id":873991361,
+    "wof:lastmodified":1464310699,
+    "wof:name":"Young Appraisal Co LLC",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -105.549653,
+    41.321861,
+    -105.549653,
+    41.321861
+],
+  "geometry": {"coordinates":[-105.54965300000001,41.321861],"type":"Point"}
+}

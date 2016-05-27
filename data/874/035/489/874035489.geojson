@@ -1,0 +1,51 @@
+{
+  "id": 874035489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.782426,43.472135,-110.782426,43.472135",
+    "geom:latitude":43.472135,
+    "geom:longitude":-110.782426,
+    "iso:country":"US",
+    "sg:address":"250 Scott Ln",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 6321",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lAOcOug1PiX7XE8XH14mi_43.472135_-110.782426@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311099,
+    "wof:geomhash":"f8bbec6457ec367e815bef2ccc041c55",
+    "wof:hierarchy":[],
+    "wof:id":874035489,
+    "wof:lastmodified":1464311099,
+    "wof:name":"Building Futures",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.782426,
+    43.472135,
+    -110.782426,
+    43.472135
+],
+  "geometry": {"coordinates":[-110.782426,43.472135],"type":"Point"}
+}

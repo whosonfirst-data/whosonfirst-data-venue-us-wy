@@ -1,0 +1,59 @@
+{
+  "id": 874230421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.820013,41.137804,-104.820013,41.137804",
+    "geom:latitude":41.137804,
+    "geom:longitude":-104.820013,
+    "iso:country":"US",
+    "sg:address":"2220 Carey Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/96474-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 7853",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1feGL0pcO37w1OZrjaxgps_41.138316_-104.820404@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313164,
+    "wof:geomhash":"1794fd1e479ef472cf4dafacb0834101",
+    "wof:hierarchy":[],
+    "wof:id":874230421,
+    "wof:lastmodified":1464313164,
+    "wof:name":"Taco John's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -104.820013,
+    41.137804,
+    -104.820013,
+    41.137804
+],
+  "geometry": {"coordinates":[-104.820013,41.137804],"type":"Point"}
+}

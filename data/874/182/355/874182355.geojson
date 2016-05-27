@@ -1,0 +1,58 @@
+{
+  "id": 874182355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.498366,44.269141,-105.498366,44.269141",
+    "geom:latitude":44.269141,
+    "geom:longitude":-105.498366,
+    "iso:country":"US",
+    "sg:address":"601 E Lakeway Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 0522",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uoEdEddYJeparnzM3iKyl_44.269141_-105.498366@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312654,
+    "wof:geomhash":"5ac020c20c215a8e9a3c7a6ffebcc751",
+    "wof:hierarchy":[],
+    "wof:id":874182355,
+    "wof:lastmodified":1464312654,
+    "wof:name":"Pennzoil 10 Minute Oil Change",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -105.498366,
+    44.269141,
+    -105.498366,
+    44.269141
+],
+  "geometry": {"coordinates":[-105.498366,44.269141],"type":"Point"}
+}

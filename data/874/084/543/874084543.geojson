@@ -1,0 +1,56 @@
+{
+  "id": 874084543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.512274,44.797089,-108.512274,44.797089",
+    "geom:latitude":44.797089,
+    "geom:longitude":-108.512274,
+    "iso:country":"US",
+    "sg:address":"10 N Cloud Peak St",
+    "sg:city":"Byron",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 548 2710",
+    "sg:postcode":"82412",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tSL7YuKAhob8cYwIeW9HN_44.797089_-108.512274@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311604,
+    "wof:geomhash":"1a97c0f2a29966ae1ce002d33a84302e",
+    "wof:hierarchy":[],
+    "wof:id":874084543,
+    "wof:lastmodified":1464311604,
+    "wof:name":"Byron Cemetery District",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -108.512274,
+    44.797089,
+    -108.512274,
+    44.797089
+],
+  "geometry": {"coordinates":[-108.51227400000001,44.797089],"type":"Point"}
+}

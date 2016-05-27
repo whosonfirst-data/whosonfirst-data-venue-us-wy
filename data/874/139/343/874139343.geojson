@@ -1,0 +1,56 @@
+{
+  "id": 874139343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.241501,41.790523,-107.241501,41.790523",
+    "geom:latitude":41.790523,
+    "geom:longitude":-107.241501,
+    "iso:country":"US",
+    "sg:address":"519 W Spruce St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 9999",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UfHXvsNBAnBe7GgB6fxvA_41.790523_-107.241501@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312229,
+    "wof:geomhash":"1f628ad97c44d3efa2bcc66c42597667",
+    "wof:hierarchy":[],
+    "wof:id":874139343,
+    "wof:lastmodified":1464312229,
+    "wof:name":"Hones Veterinary Svc LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -107.241501,
+    41.790523,
+    -107.241501,
+    41.790523
+],
+  "geometry": {"coordinates":[-107.241501,41.790523],"type":"Point"}
+}

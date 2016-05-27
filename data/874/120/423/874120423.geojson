@@ -1,0 +1,56 @@
+{
+  "id": 874120423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.699176,44.348476,-106.699176,44.348476",
+    "geom:latitude":44.348476,
+    "geom:longitude":-106.699176,
+    "iso:country":"US",
+    "sg:address":"120 US Hwy 16",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 2851",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NVS8xsXgdaAUjXB3IGpCe_44.348476_-106.699176@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312045,
+    "wof:geomhash":"6bf02bf013a2ef3937b140becd57b333",
+    "wof:hierarchy":[],
+    "wof:id":874120423,
+    "wof:lastmodified":1464312045,
+    "wof:name":"Buffalo Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -106.699176,
+    44.348476,
+    -106.699176,
+    44.348476
+],
+  "geometry": {"coordinates":[-106.69917599999999,44.348476],"type":"Point"}
+}

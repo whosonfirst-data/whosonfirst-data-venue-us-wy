@@ -1,0 +1,58 @@
+{
+  "id": 874101409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.071524,44.515144,-109.071524,44.515144",
+    "geom:latitude":44.515144,
+    "geom:longitude":-109.071524,
+    "iso:country":"US",
+    "sg:address":"808 Meadow Lane Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 6241",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "supervisor",
+        "depart"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bq22FuTJTLd3Vdbk1jpVI_44.515144_-109.071524@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311811,
+    "wof:geomhash":"2c0aaa61ff9618cd89f9414ad095e208",
+    "wof:hierarchy":[],
+    "wof:id":874101409,
+    "wof:lastmodified":1464311811,
+    "wof:name":"Shoshone National Forest",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supervisor",
+        "depart"
+    ]
+},
+  "bbox": [
+    -109.071524,
+    44.515144,
+    -109.071524,
+    44.515144
+],
+  "geometry": {"coordinates":[-109.071524,44.515144],"type":"Point"}
+}

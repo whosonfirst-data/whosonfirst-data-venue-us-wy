@@ -1,0 +1,75 @@
+{
+  "id": 874048413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593103,41.31572,-105.593103,41.31572",
+    "geom:latitude":41.31572,
+    "geom:longitude":-105.593103,
+    "iso:country":"US",
+    "sg:address":"370 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2022",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "photocopying",
+        "lithographic",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27tsWmaUaVhKf7X6MEqaFG_41.315720_-105.593103@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311227,
+    "wof:geomhash":"31a1048dc8269d885d512fc9dab0ca1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874048413
+        }
+    ],
+    "wof:id":874048413,
+    "wof:lastmodified":1464311227,
+    "wof:name":"Lincoln Printing Plus",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photocopying",
+        "lithographic",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -105.593103,
+    41.31572,
+    -105.593103,
+    41.31572
+],
+  "geometry": {"coordinates":[-105.593103,41.31572],"type":"Point"}
+}

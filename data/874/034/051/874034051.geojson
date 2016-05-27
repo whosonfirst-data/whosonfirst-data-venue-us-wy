@@ -1,0 +1,69 @@
+{
+  "id": 874034051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.266785,42.840378,-106.266785,42.840378",
+    "geom:latitude":42.840378,
+    "geom:longitude":-106.266785,
+    "iso:country":"US",
+    "sg:address":"1043 Cardiff Cir",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 6001",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Vagvs9pvUzd4Z0mcxxptm_42.840378_-106.266785@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311085,
+    "wof:geomhash":"6dda3f54b16a7160bc0e20e32e3829c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874034051
+        }
+    ],
+    "wof:id":874034051,
+    "wof:lastmodified":1464311085,
+    "wof:name":"Mountain West Engineering",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -106.266785,
+    42.840378,
+    -106.266785,
+    42.840378
+],
+  "geometry": {"coordinates":[-106.266785,42.840378],"type":"Point"}
+}

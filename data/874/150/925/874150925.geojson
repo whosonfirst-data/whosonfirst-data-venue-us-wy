@@ -1,0 +1,58 @@
+{
+  "id": 874150925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.160456,42.063124,-104.160456,42.063124",
+    "geom:latitude":42.063124,
+    "geom:longitude":-104.160456,
+    "iso:country":"US",
+    "sg:address":"2025 E 20th Ave",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 2477",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HxDVEsMWUcCOXodvepPTH_42.063124_-104.160456@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312337,
+    "wof:geomhash":"554dcc97267a7bad8abd610ad66b3aa6",
+    "wof:hierarchy":[],
+    "wof:id":874150925,
+    "wof:lastmodified":1464312337,
+    "wof:name":"Aircraft Fabrications & Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -104.160456,
+    42.063124,
+    -104.160456,
+    42.063124
+],
+  "geometry": {"coordinates":[-104.160456,42.063124],"type":"Point"}
+}

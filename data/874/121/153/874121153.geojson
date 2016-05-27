@@ -1,0 +1,56 @@
+{
+  "id": 874121153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.902515,42.105187,-104.902515,42.105187",
+    "geom:latitude":42.105187,
+    "geom:longitude":-104.902515,
+    "iso:country":"US",
+    "sg:address":"244 Grayrocks Rd",
+    "sg:city":"Wheatland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 322 3970",
+    "sg:postcode":"82201",
+    "sg:province":"WY",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ygds60hRlOAngSzhDOfTv_42.105187_-104.902515@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312051,
+    "wof:geomhash":"28c6ebd8f845cde192a4d4072e5d420e",
+    "wof:hierarchy":[],
+    "wof:id":874121153,
+    "wof:lastmodified":1464312051,
+    "wof:name":"Basin Electric Power Coop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -104.902515,
+    42.105187,
+    -104.902515,
+    42.105187
+],
+  "geometry": {"coordinates":[-104.90251499999999,42.105187],"type":"Point"}
+}

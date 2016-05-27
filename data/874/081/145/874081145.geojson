@@ -1,0 +1,69 @@
+{
+  "id": 874081145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.337104,42.834551,-106.337104,42.834551",
+    "geom:latitude":42.834551,
+    "geom:longitude":-106.337104,
+    "iso:country":"US",
+    "sg:address":"1744 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 6364",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PdlDkHMChBtKCwDlGo4yH_42.834551_-106.337104@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311565,
+    "wof:geomhash":"3c3d593429266887ca2b6b3cfb6c6e5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874081145
+        }
+    ],
+    "wof:id":874081145,
+    "wof:lastmodified":1464311565,
+    "wof:name":"Middle Cross Baptist Church",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -106.337104,
+    42.834551,
+    -106.337104,
+    42.834551
+],
+  "geometry": {"coordinates":[-106.337104,42.834551],"type":"Point"}
+}

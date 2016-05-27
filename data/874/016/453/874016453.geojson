@@ -1,0 +1,73 @@
+{
+  "id": 874016453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.184033,42.063946,-104.184033,42.063946",
+    "geom:latitude":42.063946,
+    "geom:longitude":-104.184033,
+    "iso:country":"US",
+    "sg:address":"127 E 20th Ave",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 5751",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101733937,
+        102080733,
+        85850153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25IiM7ciyg2roEQrvEJwUj_42.063946_-104.184033@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310903,
+    "wof:geomhash":"176e85b7abdb5f9709301250d881d999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080733,
+            "locality_id":101733937,
+            "neighbourhood_id":85850153,
+            "region_id":85688475,
+            "venue_id":874016453
+        }
+    ],
+    "wof:id":874016453,
+    "wof:lastmodified":1464310903,
+    "wof:name":"C J's Permanent Solution",
+    "wof:parent_id":85850153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [
+    -104.184033,
+    42.063946,
+    -104.184033,
+    42.063946
+],
+  "geometry": {"coordinates":[-104.184033,42.063946],"type":"Point"}
+}

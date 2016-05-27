@@ -1,0 +1,58 @@
+{
+  "id": 874178831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.050782,44.532463,-109.050782,44.532463",
+    "geom:latitude":44.532463,
+    "geom:longitude":-109.050782,
+    "iso:country":"US",
+    "sg:address":"1926 Public St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 9781",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hhRzZeKOhqLrc7dTyZvAY_44.532463_-109.050782@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312617,
+    "wof:geomhash":"b1bd8e294d0eda666625b5a89de2551c",
+    "wof:hierarchy":[],
+    "wof:id":874178831,
+    "wof:lastmodified":1464312617,
+    "wof:name":"Rocky Mountain Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.050782,
+    44.532463,
+    -109.050782,
+    44.532463
+],
+  "geometry": {"coordinates":[-109.050782,44.532463],"type":"Point"}
+}

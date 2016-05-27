@@ -1,0 +1,56 @@
+{
+  "id": 874200127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.385492,42.761876,-105.385492,42.761876",
+    "geom:latitude":42.761876,
+    "geom:longitude":-105.385492,
+    "iso:country":"US",
+    "sg:address":"230 N 2nd St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 2155",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xSsnBbzmTR3qdnxsiHU1L_42.761876_-105.385492@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312845,
+    "wof:geomhash":"52e2296515ca620d4cc675788f3be33a",
+    "wof:hierarchy":[],
+    "wof:id":874200127,
+    "wof:lastmodified":1464312845,
+    "wof:name":"Douglas Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -105.385492,
+    42.761876,
+    -105.385492,
+    42.761876
+],
+  "geometry": {"coordinates":[-105.385492,42.761876],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874207259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.589511,41.312684,-105.589511,41.312684",
+    "geom:latitude":41.312684,
+    "geom:longitude":-105.589511,
+    "iso:country":"US",
+    "sg:address":"100 S 6th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5020",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vJZl4yLsxHI77R8mBW1jU_41.312684_-105.589511@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312922,
+    "wof:geomhash":"5bdad94b211a5500ae4e498bb92d4bcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874207259
+        }
+    ],
+    "wof:id":874207259,
+    "wof:lastmodified":1464312922,
+    "wof:name":"Schroeder David DDS",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -105.589511,
+    41.312684,
+    -105.589511,
+    41.312684
+],
+  "geometry": {"coordinates":[-105.589511,41.312684],"type":"Point"}
+}

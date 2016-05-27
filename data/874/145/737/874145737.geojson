@@ -1,0 +1,56 @@
+{
+  "id": 874145737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.229347,41.779286,-107.229347,41.779286",
+    "geom:latitude":41.779286,
+    "geom:longitude":-107.229347,
+    "iso:country":"US",
+    "sg:address":"205 State Hwy 71",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 328 2021",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Rbi92YgHGHDV9FFTcem2l_41.779286_-107.229347@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312291,
+    "wof:geomhash":"74d7008be657a4d40e2ef2f920b70d8e",
+    "wof:hierarchy":[],
+    "wof:id":874145737,
+    "wof:lastmodified":1464312291,
+    "wof:name":"KOA Kampground",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -107.229347,
+    41.779286,
+    -107.229347,
+    41.779286
+],
+  "geometry": {"coordinates":[-107.229347,41.779286],"type":"Point"}
+}

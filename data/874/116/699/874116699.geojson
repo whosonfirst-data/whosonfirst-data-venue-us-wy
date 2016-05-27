@@ -1,0 +1,64 @@
+{
+  "id": 874116699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.302058,42.853643,-106.302058,42.853643",
+    "geom:latitude":42.853643,
+    "geom:longitude":-106.302058,
+    "iso:country":"US",
+    "sg:address":"1733 E Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4989",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lgM6wTYyRZydDageSleMd_42.853643_-106.302058@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312003,
+    "wof:geomhash":"cac7d9d45a294f701e8a5a25d9f7f160",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874116699
+        }
+    ],
+    "wof:id":874116699,
+    "wof:lastmodified":1464312003,
+    "wof:name":"Air-Hydrolics",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.302058,
+    42.853643,
+    -106.302058,
+    42.853643
+],
+  "geometry": {"coordinates":[-106.302058,42.853643],"type":"Point"}
+}

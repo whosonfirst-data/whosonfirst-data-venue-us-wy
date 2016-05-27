@@ -1,0 +1,58 @@
+{
+  "id": 874182233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.707904,42.814053,-108.707904,42.814053",
+    "geom:latitude":42.814053,
+    "geom:longitude":-108.707904,
+    "iso:country":"US",
+    "sg:address":"8160 State Hwy 789",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 335 7416",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ul669J0OD5qY39eAkveaB_42.814053_-108.707904@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312653,
+    "wof:geomhash":"4d36511574e0a52dc5719671c0905a77",
+    "wof:hierarchy":[],
+    "wof:id":874182233,
+    "wof:lastmodified":1464312653,
+    "wof:name":"Teton Orthopedics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -108.707904,
+    42.814053,
+    -108.707904,
+    42.814053
+],
+  "geometry": {"coordinates":[-108.707904,42.814053],"type":"Point"}
+}

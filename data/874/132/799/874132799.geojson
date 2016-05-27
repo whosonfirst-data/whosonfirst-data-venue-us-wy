@@ -1,0 +1,58 @@
+{
+  "id": 874132799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.946165,44.777491,-106.946165,44.777491",
+    "geom:latitude":44.777491,
+    "geom:longitude":-106.946165,
+    "iso:country":"US",
+    "sg:address":"1818 Terra Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 7552",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZhDLidwFsfcp6mfFVB3m6_44.777491_-106.946165@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312171,
+    "wof:geomhash":"f0171fb58bbc3ad04c2ceab4cd26c1b3",
+    "wof:hierarchy":[],
+    "wof:id":874132799,
+    "wof:lastmodified":1464312171,
+    "wof:name":"Sheridan Self Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -106.946165,
+    44.777491,
+    -106.946165,
+    44.777491
+],
+  "geometry": {"coordinates":[-106.94616499999999,44.777491],"type":"Point"}
+}

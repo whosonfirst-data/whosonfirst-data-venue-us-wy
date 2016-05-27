@@ -1,0 +1,66 @@
+{
+  "id": 874106239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.937263,43.652827,-109.937263,43.652827",
+    "geom:latitude":43.652827,
+    "geom:longitude":-109.937263,
+    "iso:country":"US",
+    "sg:address":"3737 US Hwy 26",
+    "sg:city":"Dubois",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 455 2225",
+    "sg:postcode":"82513",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ranch",
+        "dude",
+        "snowmobile"
+    ],
+    "sg:website":"www.trianglec.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wWVLrnlPH1PXhSJWSAcnp_43.652827_-109.937263@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311873,
+    "wof:geomhash":"97e5d76e5f75cc1dd9ba1076bd150338",
+    "wof:hierarchy":[],
+    "wof:id":874106239,
+    "wof:lastmodified":1464311873,
+    "wof:name":"Triangle C Dude Ranch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranch",
+        "dude",
+        "snowmobile"
+    ]
+},
+  "bbox": [
+    -109.937263,
+    43.652827,
+    -109.937263,
+    43.652827
+],
+  "geometry": {"coordinates":[-109.937263,43.652827],"type":"Point"}
+}

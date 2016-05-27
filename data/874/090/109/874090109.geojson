@@ -1,0 +1,73 @@
+{
+  "id": 874090109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.556407,41.309006,-105.556407,41.309006",
+    "geom:latitude":41.309006,
+    "geom:longitude":-105.556407,
+    "iso:country":"US",
+    "sg:address":"3125 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3110",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ulCwyLAxU3hPsw9KrNjOS_41.309006_-105.556407@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311665,
+    "wof:geomhash":"dc880cc0b8ffc0e4872a60a97b440faf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874090109
+        }
+    ],
+    "wof:id":874090109,
+    "wof:lastmodified":1464311665,
+    "wof:name":"High Country Physical Therapy",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -105.556407,
+    41.309006,
+    -105.556407,
+    41.309006
+],
+  "geometry": {"coordinates":[-105.55640699999999,41.309006],"type":"Point"}
+}

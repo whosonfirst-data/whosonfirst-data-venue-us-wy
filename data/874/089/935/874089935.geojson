@@ -1,0 +1,77 @@
+{
+  "id": 874089935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.221131,41.586997,-109.221131,41.586997",
+    "geom:latitude":41.586997,
+    "geom:longitude":-109.221131,
+    "iso:country":"US",
+    "sg:address":"453 N Front St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 9692",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "drinking",
+        "beverage",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QKxNNpaWkj1dTJCeNdY9D_41.586997_-109.221131@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311661,
+    "wof:geomhash":"1c2042cc0bf3c84ea8edf876d4dc5a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874089935
+        }
+    ],
+    "wof:id":874089935,
+    "wof:lastmodified":1464311661,
+    "wof:name":"Toastmaster Bar & Liquor Store",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "beverage",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -109.221131,
+    41.586997,
+    -109.221131,
+    41.586997
+],
+  "geometry": {"coordinates":[-109.221131,41.586997],"type":"Point"}
+}

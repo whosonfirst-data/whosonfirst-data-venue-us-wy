@@ -1,0 +1,58 @@
+{
+  "id": 874072945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.11703,41.77908,-107.11703,41.77908",
+    "geom:latitude":41.77908,
+    "geom:longitude":-107.11703,
+    "iso:country":"US",
+    "sg:address":"500 Lincoln Ave",
+    "sg:city":"Sinclair",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 3058",
+    "sg:postcode":"82334",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dept",
+        "recreation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BpfBHxyo53lwSgShp2XzX_41.779080_-107.117030@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311476,
+    "wof:geomhash":"231a260e75ca9831377dc72a42724c71",
+    "wof:hierarchy":[],
+    "wof:id":874072945,
+    "wof:lastmodified":1464311476,
+    "wof:name":"Recreation Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept",
+        "recreation"
+    ]
+},
+  "bbox": [
+    -107.11703,
+    41.77908,
+    -107.11703,
+    41.77908
+],
+  "geometry": {"coordinates":[-107.11703,41.77908],"type":"Point"}
+}

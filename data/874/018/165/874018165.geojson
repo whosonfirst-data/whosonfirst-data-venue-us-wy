@@ -1,0 +1,56 @@
+{
+  "id": 874018165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.524819,44.298231,-105.524819,44.298231",
+    "geom:latitude":44.298231,
+    "geom:longitude":-105.524819,
+    "iso:country":"US",
+    "sg:address":"724 Commercial Dr",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 685 0655",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aiqXBnVRNqKkLDjZ0XLeV_44.298231_-105.524819@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310929,
+    "wof:geomhash":"8cf9e6ff0b04a876c6c8a1c2d45c6d20",
+    "wof:hierarchy":[],
+    "wof:id":874018165,
+    "wof:lastmodified":1464310929,
+    "wof:name":"Absaraka Clinical Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -105.524819,
+    44.298231,
+    -105.524819,
+    44.298231
+],
+  "geometry": {"coordinates":[-105.52481899999999,44.298231],"type":"Point"}
+}

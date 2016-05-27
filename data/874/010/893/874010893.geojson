@@ -1,0 +1,56 @@
+{
+  "id": 874010893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.372525,43.029332,-108.372525,43.029332",
+    "geom:latitude":43.029332,
+    "geom:longitude":-108.372525,
+    "iso:country":"US",
+    "sg:address":"521 N 15th St E",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 857 1337",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GfM3m1bJxtcLswqrToL4M_43.029332_-108.372525@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310862,
+    "wof:geomhash":"72cd14546e51436d313388a4ee6638a9",
+    "wof:hierarchy":[],
+    "wof:id":874010893,
+    "wof:lastmodified":1464310862,
+    "wof:name":"Parent Education Network",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -108.372525,
+    43.029332,
+    -108.372525,
+    43.029332
+],
+  "geometry": {"coordinates":[-108.372525,43.029332],"type":"Point"}
+}

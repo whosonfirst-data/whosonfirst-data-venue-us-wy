@@ -1,0 +1,73 @@
+{
+  "id": 874126993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.317078,42.850171,-106.317078,42.850171",
+    "geom:latitude":42.850171,
+    "geom:longitude":-106.317078,
+    "iso:country":"US",
+    "sg:address":"630 E 1st St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1200",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ihjeSQ8YA35hpQ2ox0lTh_42.850171_-106.317078@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312103,
+    "wof:geomhash":"f7a90d2c6bccf13921587f05a4a90bfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874126993
+        }
+    ],
+    "wof:id":874126993,
+    "wof:lastmodified":1464312103,
+    "wof:name":"Casper Mountain Medical PC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -106.317078,
+    42.850171,
+    -106.317078,
+    42.850171
+],
+  "geometry": {"coordinates":[-106.317078,42.850171],"type":"Point"}
+}

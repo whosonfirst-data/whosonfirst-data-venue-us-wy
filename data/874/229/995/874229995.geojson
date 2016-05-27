@@ -1,0 +1,59 @@
+{
+  "id": 874229995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955799,44.821762,-106.955799,44.821762",
+    "geom:latitude":44.821762,
+    "geom:longitude":-106.955799,
+    "iso:country":"US",
+    "sg:address":"2617 N Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/sheridan/222250-country-kitchen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 8144",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "southern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z8RhMOqcr6ErlBGDnGRf2_44.821762_-106.955799@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313160,
+    "wof:geomhash":"936c3f025336ba3216370079a88f315d",
+    "wof:hierarchy":[],
+    "wof:id":874229995,
+    "wof:lastmodified":1464313160,
+    "wof:name":"Country Kitchen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "southern"
+    ]
+},
+  "bbox": [
+    -106.955799,
+    44.821762,
+    -106.955799,
+    44.821762
+],
+  "geometry": {"coordinates":[-106.955799,44.821762],"type":"Point"}
+}

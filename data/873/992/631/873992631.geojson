@@ -1,0 +1,69 @@
+{
+  "id": 873992631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.309181,42.825719,-106.309181,42.825719",
+    "geom:latitude":42.825719,
+    "geom:longitude":-106.309181,
+    "iso:country":"US",
+    "sg:address":"2232 Glendale Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4936",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KwWRBevCCVczvWn19gBOe_42.825719_-106.309181@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310709,
+    "wof:geomhash":"24d5dd35583d25a7069b826a53ded6e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873992631
+        }
+    ],
+    "wof:id":873992631,
+    "wof:lastmodified":1464310709,
+    "wof:name":"TLC The Learning Center",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -106.309181,
+    42.825719,
+    -106.309181,
+    42.825719
+],
+  "geometry": {"coordinates":[-106.309181,42.825719],"type":"Point"}
+}

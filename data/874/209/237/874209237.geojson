@@ -1,0 +1,60 @@
+{
+  "id": 874209237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.463618,41.521352,-109.463618,41.521352",
+    "geom:latitude":41.521352,
+    "geom:longitude":-109.463618,
+    "iso:country":"US",
+    "sg:address":"593 E 2nd S",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 5820",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vXXiOivBTMN2ZFt6oaeX7_41.521352_-109.463618@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312941,
+    "wof:geomhash":"8f9a584152635ae236bd323de64262a0",
+    "wof:hierarchy":[],
+    "wof:id":874209237,
+    "wof:lastmodified":1464312941,
+    "wof:name":"Miller's Garage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -109.463618,
+    41.521352,
+    -109.463618,
+    41.521352
+],
+  "geometry": {"coordinates":[-109.463618,41.521352],"type":"Point"}
+}

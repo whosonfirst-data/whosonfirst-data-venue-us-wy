@@ -1,0 +1,73 @@
+{
+  "id": 873992769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.335705,42.830168,-106.335705,42.830168",
+    "geom:latitude":42.830168,
+    "geom:longitude":-106.335705,
+    "iso:country":"US",
+    "sg:address":"1911 S Cedar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 6539",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "concrete",
+        "contractor",
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iiZ4nriNcjgGG7kAPQqbs_42.830168_-106.335705@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310710,
+    "wof:geomhash":"f16beef6837d8b732d9d9ad24326efd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873992769
+        }
+    ],
+    "wof:id":873992769,
+    "wof:lastmodified":1464310710,
+    "wof:name":"Brubaker Construction Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor",
+        "foundation"
+    ]
+},
+  "bbox": [
+    -106.335705,
+    42.830168,
+    -106.335705,
+    42.830168
+],
+  "geometry": {"coordinates":[-106.335705,42.830168],"type":"Point"}
+}

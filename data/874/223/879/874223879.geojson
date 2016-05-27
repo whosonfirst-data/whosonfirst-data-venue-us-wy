@@ -1,0 +1,64 @@
+{
+  "id": 874223879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.30749,42.851459,-106.30749,42.851459",
+    "geom:latitude":42.851459,
+    "geom:longitude":-106.30749,
+    "iso:country":"US",
+    "sg:address":"1300 E A St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 6659",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GRVysYR6asg6fNwzP3DPk_42.851459_-106.307490@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313102,
+    "wof:geomhash":"f3be33bb4c7f949025df1dbaff0c2b4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874223879
+        }
+    ],
+    "wof:id":874223879,
+    "wof:lastmodified":1464313102,
+    "wof:name":"Chc Optometry Clinic",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.30749,
+    42.851459,
+    -106.30749,
+    42.851459
+],
+  "geometry": {"coordinates":[-106.30749,42.851459],"type":"Point"}
+}

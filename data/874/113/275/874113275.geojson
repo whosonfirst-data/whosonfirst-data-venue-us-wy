@@ -1,0 +1,70 @@
+{
+  "id": 874113275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.311829,42.850193,-106.311829,42.850193",
+    "geom:latitude":42.850193,
+    "geom:longitude":-106.311829,
+    "iso:country":"US",
+    "sg:address":"1010 E 1st St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1152",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"www.interim.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oHOEtQMHP7Tau59bk8sMo_42.850193_-106.311829@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311970,
+    "wof:geomhash":"49812452d14164d833eaf02c1dcd6854",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874113275
+        }
+    ],
+    "wof:id":874113275,
+    "wof:lastmodified":1464311970,
+    "wof:name":"Interim Healthcare",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -106.311829,
+    42.850193,
+    -106.311829,
+    42.850193
+],
+  "geometry": {"coordinates":[-106.311829,42.850193],"type":"Point"}
+}

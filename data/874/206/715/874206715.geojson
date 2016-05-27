@@ -1,0 +1,56 @@
+{
+  "id": 874206715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.02171,44.556979,-109.02171,44.556979",
+    "geom:latitude":44.556979,
+    "geom:longitude":-109.02171,
+    "iso:country":"US",
+    "sg:address":"61 Schneider Rd",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 5669",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rOd91lCpSTdSTZSxIxIrc_44.556979_-109.021710@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312911,
+    "wof:geomhash":"eeb5a71d5d4e90c8933aa9b819954452",
+    "wof:hierarchy":[],
+    "wof:id":874206715,
+    "wof:lastmodified":1464312911,
+    "wof:name":"Heart Mountain Garage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -109.02171,
+    44.556979,
+    -109.02171,
+    44.556979
+],
+  "geometry": {"coordinates":[-109.02171,44.556979],"type":"Point"}
+}

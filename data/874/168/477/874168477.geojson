@@ -1,0 +1,71 @@
+{
+  "id": 874168477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.566336,41.299748,-105.566336,41.299748",
+    "geom:latitude":41.299748,
+    "geom:longitude":-105.566336,
+    "iso:country":"US",
+    "sg:address":"2521 E Park Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3370",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JqyuHDHClvZnniUMrFqK3_41.299748_-105.566336@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312512,
+    "wof:geomhash":"ad1cb447639d16baa80de8574f976163",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874168477
+        }
+    ],
+    "wof:id":874168477,
+    "wof:lastmodified":1464312512,
+    "wof:name":"Corthell Hill Day Care",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -105.566336,
+    41.299748,
+    -105.566336,
+    41.299748
+],
+  "geometry": {"coordinates":[-105.56633600000001,41.299748],"type":"Point"}
+}

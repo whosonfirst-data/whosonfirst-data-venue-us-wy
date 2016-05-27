@@ -1,0 +1,56 @@
+{
+  "id": 874199085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.828563,41.166716,-104.828563,41.166716",
+    "geom:latitude":41.166716,
+    "geom:longitude":-104.828563,
+    "iso:country":"US",
+    "sg:address":"5211 Yellowstone Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 7633",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72SoYfGEEBrK9E9U7qbvx8_41.166716_-104.828563@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312835,
+    "wof:geomhash":"2d4defbbf829f1b1a8251de963845788",
+    "wof:hierarchy":[],
+    "wof:id":874199085,
+    "wof:lastmodified":1464312835,
+    "wof:name":"Cheyenne Family Dental Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -104.828563,
+    41.166716,
+    -104.828563,
+    41.166716
+],
+  "geometry": {"coordinates":[-104.828563,41.166716],"type":"Point"}
+}

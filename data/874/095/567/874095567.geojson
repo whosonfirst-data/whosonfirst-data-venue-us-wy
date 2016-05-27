@@ -1,0 +1,56 @@
+{
+  "id": 874095567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.80613,41.45435,-106.80613,41.45435",
+    "geom:latitude":41.45435,
+    "geom:longitude":-106.80613,
+    "iso:country":"US",
+    "sg:address":"201 S River St",
+    "sg:city":"Saratoga",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 326 5026",
+    "sg:postcode":"82331",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1veAmql2AjJzlyCuU523nz_41.454350_-106.806130@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311719,
+    "wof:geomhash":"48b450101f39db5d61a66f5a72901e33",
+    "wof:hierarchy":[],
+    "wof:id":874095567,
+    "wof:lastmodified":1464311719,
+    "wof:name":"Saratoga Town Municipal Court",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -106.80613,
+    41.45435,
+    -106.80613,
+    41.45435
+],
+  "geometry": {"coordinates":[-106.80613,41.45435],"type":"Point"}
+}

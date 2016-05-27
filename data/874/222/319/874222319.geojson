@@ -1,0 +1,56 @@
+{
+  "id": 874222319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.481847,44.284986,-105.481847,44.284986",
+    "geom:latitude":44.284986,
+    "geom:longitude":-105.481847,
+    "iso:country":"US",
+    "sg:address":"1024 Church Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 680 5110",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dhh2IA2cJB1b22H45UOXY_44.284986_-105.481847@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313087,
+    "wof:geomhash":"1b67fd1400b662336f0998e51180e9fd",
+    "wof:hierarchy":[],
+    "wof:id":874222319,
+    "wof:lastmodified":1464313087,
+    "wof:name":"Willow Creek Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -105.481847,
+    44.284986,
+    -105.481847,
+    44.284986
+],
+  "geometry": {"coordinates":[-105.481847,44.284986],"type":"Point"}
+}

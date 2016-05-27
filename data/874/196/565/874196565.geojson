@@ -1,0 +1,71 @@
+{
+  "id": 874196565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.306531,42.848844,-106.306531,42.848844",
+    "geom:latitude":42.848844,
+    "geom:longitude":-106.306531,
+    "iso:country":"US",
+    "sg:address":"1432 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 8436",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "profit",
+        "organization"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Tfqu8UsaY1MOFLDXahfGF_42.848844_-106.306531@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312811,
+    "wof:geomhash":"53f4233d9c3f3515b669d7e217ce1ae9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874196565
+        }
+    ],
+    "wof:id":874196565,
+    "wof:lastmodified":1464312811,
+    "wof:name":"Red Cross",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "profit",
+        "organization"
+    ]
+},
+  "bbox": [
+    -106.306531,
+    42.848844,
+    -106.306531,
+    42.848844
+],
+  "geometry": {"coordinates":[-106.30653100000001,42.848844],"type":"Point"}
+}

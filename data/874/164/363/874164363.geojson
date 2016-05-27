@@ -1,0 +1,69 @@
+{
+  "id": 874164363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.309985,42.839928,-106.309985,42.839928",
+    "geom:latitude":42.839928,
+    "geom:longitude":-106.309985,
+    "iso:country":"US",
+    "sg:address":"1122 S Washington St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3668",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "spraying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xHA3r4J0zwOcs29fSNhG6_42.839928_-106.309985@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312472,
+    "wof:geomhash":"6219228d76037c68ecf65f8ef03f7cb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874164363
+        }
+    ],
+    "wof:id":874164363,
+    "wof:lastmodified":1464312472,
+    "wof:name":"Skinner's Tree Svc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spraying"
+    ]
+},
+  "bbox": [
+    -106.309985,
+    42.839928,
+    -106.309985,
+    42.839928
+],
+  "geometry": {"coordinates":[-106.309985,42.839928],"type":"Point"}
+}

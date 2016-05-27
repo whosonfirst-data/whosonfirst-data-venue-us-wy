@@ -1,0 +1,58 @@
+{
+  "id": 874112887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.405587,42.751475,-105.405587,42.751475",
+    "geom:latitude":42.751475,
+    "geom:longitude":-105.405587,
+    "iso:country":"US",
+    "sg:address":"1300 W Richards St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 4875",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wILQ3WRIMbSbD5zDY9lbp_42.751475_-105.405587@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311966,
+    "wof:geomhash":"db260cb992d829cc3fe9e3792f353cea",
+    "wof:hierarchy":[],
+    "wof:id":874112887,
+    "wof:lastmodified":1464311966,
+    "wof:name":"Big Country Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -105.405587,
+    42.751475,
+    -105.405587,
+    42.751475
+],
+  "geometry": {"coordinates":[-105.405587,42.751475],"type":"Point"}
+}

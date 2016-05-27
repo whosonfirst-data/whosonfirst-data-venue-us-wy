@@ -1,0 +1,59 @@
+{
+  "id": 874231649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.770086,43.478454,-110.770086,43.478454",
+    "geom:latitude":43.478454,
+    "geom:longitude":-110.770086,
+    "iso:country":"US",
+    "sg:address":"100 Flat Creek Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/jackson-hole/109478-village-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 2171",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yu0AW8JT2BEKCWAPsM8SX_43.478446_-110.770132@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464313182,
+    "wof:geomhash":"a02eb314a3ae65bf0310c219849b8f0a",
+    "wof:hierarchy":[],
+    "wof:id":874231649,
+    "wof:lastmodified":1464313182,
+    "wof:name":"Village Inn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -110.770086,
+    43.478454,
+    -110.770086,
+    43.478454
+],
+  "geometry": {"coordinates":[-110.77008600000001,43.478454],"type":"Point"}
+}

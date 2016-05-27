@@ -1,0 +1,69 @@
+{
+  "id": 874200261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.424041,42.880554,-106.424041,42.880554",
+    "geom:latitude":42.880554,
+    "geom:longitude":-106.424041,
+    "iso:country":"US",
+    "sg:address":"2310 Oil Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 6115",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03og8RY5pxUVwFzzDv2SyL_42.880554_-106.424041@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312846,
+    "wof:geomhash":"eb671e0c4a4570b071844a001ca71820",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874200261
+        }
+    ],
+    "wof:id":874200261,
+    "wof:lastmodified":1464312846,
+    "wof:name":"E & F Wrecker",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -106.424041,
+    42.880554,
+    -106.424041,
+    42.880554
+],
+  "geometry": {"coordinates":[-106.424041,42.880554],"type":"Point"}
+}

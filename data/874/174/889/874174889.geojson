@@ -1,0 +1,64 @@
+{
+  "id": 874174889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.332111,42.858143,-106.332111,42.858143",
+    "geom:latitude":42.858143,
+    "geom:longitude":-106.332111,
+    "iso:country":"US",
+    "sg:address":"600 W F St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 7301",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tO2bu9YxaP0W4pDO8zvLk_42.858143_-106.332111@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312578,
+    "wof:geomhash":"c2361a47a62d728473db861afa092217",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874174889
+        }
+    ],
+    "wof:id":874174889,
+    "wof:lastmodified":1464312578,
+    "wof:name":"J B's Big Boy Restaurant",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.332111,
+    42.858143,
+    -106.332111,
+    42.858143
+],
+  "geometry": {"coordinates":[-106.332111,42.858143],"type":"Point"}
+}

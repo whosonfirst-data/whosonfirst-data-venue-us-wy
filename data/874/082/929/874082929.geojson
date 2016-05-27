@@ -1,0 +1,56 @@
+{
+  "id": 874082929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.883663,43.000032,-108.883663,43.000032",
+    "geom:latitude":43.000032,
+    "geom:longitude":-108.883663,
+    "iso:country":"US",
+    "sg:address":"358 Old Wind River Hwy",
+    "sg:city":"Fort Washakie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 4519",
+    "sg:postcode":"82514",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ybEEuARhGVBlMmyCAfa7M_43.000032_-108.883663@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311589,
+    "wof:geomhash":"eb0ec04408bc45b04d1d6d69159468dd",
+    "wof:hierarchy":[],
+    "wof:id":874082929,
+    "wof:lastmodified":1464311589,
+    "wof:name":"Fort Washakie Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -108.883663,
+    43.000032,
+    -108.883663,
+    43.000032
+],
+  "geometry": {"coordinates":[-108.883663,43.000032],"type":"Point"}
+}

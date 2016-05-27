@@ -1,0 +1,71 @@
+{
+  "id": 874001449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.318183,42.847119,-106.318183,42.847119",
+    "geom:latitude":42.847119,
+    "geom:longitude":-106.318183,
+    "iso:country":"US",
+    "sg:address":"342 S Park St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 6015",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "janitor",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LV6sf2VdpwogZ7SAUpdiX_42.847119_-106.318183@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310770,
+    "wof:geomhash":"1e29ede2e7d9d864dbc9984a91287a09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874001449
+        }
+    ],
+    "wof:id":874001449,
+    "wof:lastmodified":1464310770,
+    "wof:name":"Sunshine Janitorial & Maint",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -106.318183,
+    42.847119,
+    -106.318183,
+    42.847119
+],
+  "geometry": {"coordinates":[-106.318183,42.847119],"type":"Point"}
+}

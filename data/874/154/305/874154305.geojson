@@ -1,0 +1,64 @@
+{
+  "id": 874154305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.351086,42.82172,-106.351086,42.82172",
+    "geom:latitude":42.82172,
+    "geom:longitude":-106.351086,
+    "iso:country":"US",
+    "sg:address":"2936 Ridgecrest Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 5907",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q8QhlVaT0PUQSmzAj9aoR_42.821720_-106.351086@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312370,
+    "wof:geomhash":"09aba8e7d4efccd0368cbb75d05e1ceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874154305
+        }
+    ],
+    "wof:id":874154305,
+    "wof:lastmodified":1464312370,
+    "wof:name":"Comfy Cozy Child Care",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.351086,
+    42.82172,
+    -106.351086,
+    42.82172
+],
+  "geometry": {"coordinates":[-106.351086,42.82172],"type":"Point"}
+}

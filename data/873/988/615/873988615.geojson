@@ -1,0 +1,56 @@
+{
+  "id": 873988615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.698968,44.350855,-106.698968,44.350855",
+    "geom:latitude":44.350855,
+    "geom:longitude":-106.698968,
+    "iso:country":"US",
+    "sg:address":"381 N Main St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 7013",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D33RyUBIQZMeDR5j9bPtY_44.350855_-106.698968@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310680,
+    "wof:geomhash":"dd644f75a905801876c25a950075f26b",
+    "wof:hierarchy":[],
+    "wof:id":873988615,
+    "wof:lastmodified":1464310680,
+    "wof:name":"Western Home Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -106.698968,
+    44.350855,
+    -106.698968,
+    44.350855
+],
+  "geometry": {"coordinates":[-106.69896799999999,44.350855],"type":"Point"}
+}

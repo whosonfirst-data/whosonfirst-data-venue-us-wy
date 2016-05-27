@@ -1,0 +1,73 @@
+{
+  "id": 874209287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.596732,41.267843,-105.596732,41.267843",
+    "geom:latitude":41.267843,
+    "geom:longitude":-105.596732,
+    "iso:country":"US",
+    "sg:address":"4636 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 6777",
+    "sg:postcode":"82073",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Q1iQj8egOrHBDb2TiCLYL_41.267843_-105.596732@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312942,
+    "wof:geomhash":"a45d0327671d8edeb88d98ce7e720ba9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874209287
+        }
+    ],
+    "wof:id":874209287,
+    "wof:lastmodified":1464312942,
+    "wof:name":"Burgener Trucking Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -105.596732,
+    41.267843,
+    -105.596732,
+    41.267843
+],
+  "geometry": {"coordinates":[-105.596732,41.267843],"type":"Point"}
+}

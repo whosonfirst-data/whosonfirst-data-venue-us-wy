@@ -1,0 +1,69 @@
+{
+  "id": 874068313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.456841,42.902594,-106.456841,42.902594",
+    "geom:latitude":42.902594,
+    "geom:longitude":-106.456841,
+    "iso:country":"US",
+    "sg:address":"7607 Fuller St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 3323",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        102525293,
+        85688475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VB5NPyGqCHfIRFY4AozLe_42.902594_-106.456841@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311416,
+    "wof:geomhash":"c3aeb91566b9ef0149f0f98875832f0e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525293,
+            "country_id":85633793,
+            "region_id":85688475,
+            "venue_id":874068313
+        }
+    ],
+    "wof:id":874068313,
+    "wof:lastmodified":1464311416,
+    "wof:name":"WYOBRASKA Machining",
+    "wof:parent_id":102525293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.456841,
+    42.902594,
+    -106.456841,
+    42.902594
+],
+  "geometry": {"coordinates":[-106.456841,42.902594],"type":"Point"}
+}

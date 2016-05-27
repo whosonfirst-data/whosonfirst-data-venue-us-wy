@@ -1,0 +1,60 @@
+{
+  "id": 874205123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.794704,41.147105,-104.794704,41.147105",
+    "geom:latitude":41.147105,
+    "geom:longitude":-104.794704,
+    "iso:country":"US",
+    "sg:address":"1970 Newton Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 7888",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TczqJtqeucbeiaTFLFDud_41.147105_-104.794704@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312896,
+    "wof:geomhash":"188df9aa1a00e02fe3a943c11252f147",
+    "wof:hierarchy":[],
+    "wof:id":874205123,
+    "wof:lastmodified":1464312896,
+    "wof:name":"Top Dog Grooming LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -104.794704,
+    41.147105,
+    -104.794704,
+    41.147105
+],
+  "geometry": {"coordinates":[-104.794704,41.147105],"type":"Point"}
+}

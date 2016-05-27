@@ -1,0 +1,56 @@
+{
+  "id": 874093543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.984979,41.231422,-110.984979,41.231422",
+    "geom:latitude":41.231422,
+    "geom:longitude":-110.984979,
+    "iso:country":"US",
+    "sg:address":"343 Worland Cir",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 4091",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01nF8jCYTSClH3zNRUaPAL_41.231422_-110.984979@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311699,
+    "wof:geomhash":"4353c43012dd5b7f342cf3929d848ec0",
+    "wof:hierarchy":[],
+    "wof:id":874093543,
+    "wof:lastmodified":1464311699,
+    "wof:name":"Heath Welding Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -110.984979,
+    41.231422,
+    -110.984979,
+    41.231422
+],
+  "geometry": {"coordinates":[-110.984979,41.231422],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874050023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.461997,41.511393,-109.461997,41.511393",
+    "geom:latitude":41.511393,
+    "geom:longitude":-109.461997,
+    "iso:country":"US",
+    "sg:address":"665 Adams St",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 5154",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VsQYB8k5RD3ePfUMlAs5Q_41.511393_-109.461997@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311241,
+    "wof:geomhash":"53b94c0415125f293e0403885a84ef54",
+    "wof:hierarchy":[],
+    "wof:id":874050023,
+    "wof:lastmodified":1464311241,
+    "wof:name":"Baker Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.461997,
+    41.511393,
+    -109.461997,
+    41.511393
+],
+  "geometry": {"coordinates":[-109.461997,41.511393],"type":"Point"}
+}

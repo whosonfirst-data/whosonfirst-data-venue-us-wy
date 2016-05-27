@@ -1,0 +1,73 @@
+{
+  "id": 874159021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.424723,42.873014,-106.424723,42.873014",
+    "geom:latitude":42.873014,
+    "geom:longitude":-106.424723,
+    "iso:country":"US",
+    "sg:address":"1818 N Justin Morgan Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 1598",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "compressor",
+        "gas",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_002wJoieKioCD4EY7SUM5b_42.873014_-106.424723@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312422,
+    "wof:geomhash":"2a7148c94978d260331ad49282e31fa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874159021
+        }
+    ],
+    "wof:id":874159021,
+    "wof:lastmodified":1464312422,
+    "wof:name":"Compressor Systems Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compressor",
+        "gas",
+        "air"
+    ]
+},
+  "bbox": [
+    -106.424723,
+    42.873014,
+    -106.424723,
+    42.873014
+],
+  "geometry": {"coordinates":[-106.424723,42.873014],"type":"Point"}
+}

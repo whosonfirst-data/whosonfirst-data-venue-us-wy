@@ -1,0 +1,58 @@
+{
+  "id": 874014583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.472037,41.520661,-109.472037,41.520661",
+    "geom:latitude":41.520661,
+    "geom:longitude":-109.472037,
+    "iso:country":"US",
+    "sg:address":"155 Cedar St",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 3347",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E8oVWRQ6dMZHmiYa55t6k_41.520661_-109.472037@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310887,
+    "wof:geomhash":"52b4839b871e011cc846bd67961815a3",
+    "wof:hierarchy":[],
+    "wof:id":874014583,
+    "wof:lastmodified":1464310887,
+    "wof:name":"Able Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.472037,
+    41.520661,
+    -109.472037,
+    41.520661
+],
+  "geometry": {"coordinates":[-109.472037,41.520661],"type":"Point"}
+}

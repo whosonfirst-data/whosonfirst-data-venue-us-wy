@@ -1,0 +1,72 @@
+{
+  "id": 874228829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.566451,41.309494,-105.566451,41.309494",
+    "geom:latitude":41.309494,
+    "geom:longitude":-105.566451,
+    "iso:country":"US",
+    "sg:address":"2121 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/laramie/214079-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5008",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2snZNzS52Qp9VHKXTfJywb_41.309494_-105.566451@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313149,
+    "wof:geomhash":"ee158d4e69e51c46c450adc93933d932",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874228829
+        }
+    ],
+    "wof:id":874228829,
+    "wof:lastmodified":1464313149,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -105.566451,
+    41.309494,
+    -105.566451,
+    41.309494
+],
+  "geometry": {"coordinates":[-105.566451,41.309494],"type":"Point"}
+}

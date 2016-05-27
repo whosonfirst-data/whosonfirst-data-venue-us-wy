@@ -1,0 +1,51 @@
+{
+  "id": 874200999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.87339,44.149192,-108.87339,44.149192",
+    "geom:latitude":44.149192,
+    "geom:longitude":-108.87339,
+    "iso:country":"US",
+    "sg:address":"1748 Wyoming Ave",
+    "sg:city":"Meeteetse",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 868 2496",
+    "sg:postcode":"82433",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FJckxJOWpf6OlbcfpFh4y_44.149192_-108.873390@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312853,
+    "wof:geomhash":"f3bdf77efbd5ec8a9fa0ab95f0eefe8b",
+    "wof:hierarchy":[],
+    "wof:id":874200999,
+    "wof:lastmodified":1464312853,
+    "wof:name":"Us Government Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.87339,
+    44.149192,
+    -108.87339,
+    44.149192
+],
+  "geometry": {"coordinates":[-108.87339,44.149192],"type":"Point"}
+}

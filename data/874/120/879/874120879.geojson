@@ -1,0 +1,56 @@
+{
+  "id": 874120879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.992617,41.260003,-110.992617,41.260003",
+    "geom:latitude":41.260003,
+    "geom:longitude":-110.992617,
+    "iso:country":"US",
+    "sg:address":"45 Patriot Ct",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 783 6471",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JycmkYluZpgn4xDn7n1Y1_41.260003_-110.992617@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312049,
+    "wof:geomhash":"07b32b4cc1167cf4b51f0193a678d737",
+    "wof:hierarchy":[],
+    "wof:id":874120879,
+    "wof:lastmodified":1464312049,
+    "wof:name":"Evanston Police Animal Control",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -110.992617,
+    41.260003,
+    -110.992617,
+    41.260003
+],
+  "geometry": {"coordinates":[-110.992617,41.260003],"type":"Point"}
+}

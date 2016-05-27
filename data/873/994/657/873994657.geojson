@@ -1,0 +1,69 @@
+{
+  "id": 873994657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.350807,42.812654,-106.350807,42.812654",
+    "geom:latitude":42.812654,
+    "geom:longitude":-106.350807,
+    "iso:country":"US",
+    "sg:address":"3871 Plateau",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 5515",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G3NyT3HrARUlaLVdbC6t6_42.812654_-106.350807@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310723,
+    "wof:geomhash":"bc796e092426cd1fa1fff6676980ed36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873994657
+        }
+    ],
+    "wof:id":873994657,
+    "wof:lastmodified":1464310723,
+    "wof:name":"Wyoming Urological Service",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -106.350807,
+    42.812654,
+    -106.350807,
+    42.812654
+],
+  "geometry": {"coordinates":[-106.350807,42.812654],"type":"Point"}
+}

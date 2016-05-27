@@ -1,0 +1,73 @@
+{
+  "id": 874037685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.39154,42.856473,-106.39154,42.856473",
+    "geom:latitude":42.856473,
+    "geom:longitude":-106.39154,
+    "iso:country":"US",
+    "sg:address":"760 N 4th Ave",
+    "sg:city":"Mills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 6805",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "restoration",
+        "classic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kJ0MEXJ8pdOXIXw3fHXor_42.856473_-106.391540@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311123,
+    "wof:geomhash":"a062d995134883bae1b4d6f9f788d564",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874037685
+        }
+    ],
+    "wof:id":874037685,
+    "wof:lastmodified":1464311123,
+    "wof:name":"Tims Auto Boat & Rv Rstrtn",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "restoration",
+        "classic"
+    ]
+},
+  "bbox": [
+    -106.39154,
+    42.856473,
+    -106.39154,
+    42.856473
+],
+  "geometry": {"coordinates":[-106.39154000000001,42.856473],"type":"Point"}
+}

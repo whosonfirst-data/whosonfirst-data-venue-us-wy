@@ -1,0 +1,69 @@
+{
+  "id": 874202475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.4022,42.810624,-106.4022,42.810624",
+    "geom:latitude":42.810624,
+    "geom:longitude":-106.4022,
+    "iso:country":"US",
+    "sg:address":"280 Honeysuckle St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0170",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KY1viieC151ws4QRrRswE_42.810624_-106.402200@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312869,
+    "wof:geomhash":"dbe69d5153fa339038ae8438a4b8cb6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874202475
+        }
+    ],
+    "wof:id":874202475,
+    "wof:lastmodified":1464312869,
+    "wof:name":"Stahley Auto Service",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -106.4022,
+    42.810624,
+    -106.4022,
+    42.810624
+],
+  "geometry": {"coordinates":[-106.40219999999999,42.810624],"type":"Point"}
+}

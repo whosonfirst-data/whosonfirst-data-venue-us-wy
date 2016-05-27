@@ -1,0 +1,73 @@
+{
+  "id": 874019747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.326226,42.845488,-106.326226,42.845488",
+    "geom:latitude":42.845488,
+    "geom:longitude":-106.326226,
+    "iso:country":"US",
+    "sg:address":"130 W Collins Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 0516",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w8SIW38X6RnitCyhyqLnT_42.845488_-106.326226@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310945,
+    "wof:geomhash":"eb396cca0748ecc59327a393aebd3fbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874019747
+        }
+    ],
+    "wof:id":874019747,
+    "wof:lastmodified":1464310945,
+    "wof:name":"Mechanical Music",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -106.326226,
+    42.845488,
+    -106.326226,
+    42.845488
+],
+  "geometry": {"coordinates":[-106.32622600000001,42.845488],"type":"Point"}
+}

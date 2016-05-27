@@ -1,0 +1,56 @@
+{
+  "id": 874193261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.749632,43.479613,-110.749632,43.479613",
+    "geom:latitude":43.479613,
+    "geom:longitude":-110.749632,
+    "iso:country":"US",
+    "sg:address":"620 E Broadway",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 0857",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WZ3gYgXyps26Bf8mPCzJ1_43.479613_-110.749632@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312773,
+    "wof:geomhash":"689c290b25b8906eefed46353698dff2",
+    "wof:hierarchy":[],
+    "wof:id":874193261,
+    "wof:lastmodified":1464312773,
+    "wof:name":"Jackson Hole Baptist Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -110.749632,
+    43.479613,
+    -110.749632,
+    43.479613
+],
+  "geometry": {"coordinates":[-110.74963200000001,43.479613],"type":"Point"}
+}

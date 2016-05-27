@@ -1,0 +1,56 @@
+{
+  "id": 874169695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.933611,42.723832,-110.933611,42.723832",
+    "geom:latitude":42.723832,
+    "geom:longitude":-110.933611,
+    "iso:country":"US",
+    "sg:address":"470 Washington St",
+    "sg:city":"Afton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 885 2222",
+    "sg:postcode":"83110",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Sh9XFHZxmQLCYcvTylsxZ_42.723832_-110.933611@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312524,
+    "wof:geomhash":"2eea35dfefb04c087f408513fd227c77",
+    "wof:hierarchy":[],
+    "wof:id":874169695,
+    "wof:lastmodified":1464312524,
+    "wof:name":"Melina's Mexican Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -110.933611,
+    42.723832,
+    -110.933611,
+    42.723832
+],
+  "geometry": {"coordinates":[-110.933611,42.723832],"type":"Point"}
+}

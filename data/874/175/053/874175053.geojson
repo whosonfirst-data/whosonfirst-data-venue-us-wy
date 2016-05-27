@@ -1,0 +1,56 @@
+{
+  "id": 874175053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.381156,42.760787,-105.381156,42.760787",
+    "geom:latitude":42.760787,
+    "geom:longitude":-105.381156,
+    "iso:country":"US",
+    "sg:address":"107 N 5th St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 9821",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04eoJkdUHUdO6LqmGUm19I_42.760787_-105.381156@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312579,
+    "wof:geomhash":"d239ff3ebb489fdcb2a7ffd7f6e9b56d",
+    "wof:hierarchy":[],
+    "wof:id":874175053,
+    "wof:lastmodified":1464312579,
+    "wof:name":"Public Defender",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -105.381156,
+    42.760787,
+    -105.381156,
+    42.760787
+],
+  "geometry": {"coordinates":[-105.381156,42.760787],"type":"Point"}
+}

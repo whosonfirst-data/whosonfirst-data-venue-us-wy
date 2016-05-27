@@ -1,0 +1,56 @@
+{
+  "id": 874049935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.958512,41.265202,-110.958512,41.265202",
+    "geom:latitude":41.265202,
+    "geom:longitude":-110.958512,
+    "iso:country":"US",
+    "sg:address":"119 Beckers Cir",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 7054",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35VZ374VrKkCZmUjJXou6e_41.265202_-110.958512@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311240,
+    "wof:geomhash":"0942654e562434ba1701f2b2db913556",
+    "wof:hierarchy":[],
+    "wof:id":874049935,
+    "wof:lastmodified":1464311240,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -110.958512,
+    41.265202,
+    -110.958512,
+    41.265202
+],
+  "geometry": {"coordinates":[-110.958512,41.265202],"type":"Point"}
+}

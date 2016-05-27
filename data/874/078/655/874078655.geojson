@@ -1,0 +1,69 @@
+{
+  "id": 874078655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.309532,42.854884,-106.309532,42.854884",
+    "geom:latitude":42.854884,
+    "geom:longitude":-106.309532,
+    "iso:country":"US",
+    "sg:address":"1240 Burlington Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1518",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "windows"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_401i5C4KECHiMTH47n6Wks_42.854884_-106.309532@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311539,
+    "wof:geomhash":"6d7f3771b553d0c0796cb8c74e2e381c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874078655
+        }
+    ],
+    "wof:id":874078655,
+    "wof:lastmodified":1464311539,
+    "wof:name":"Pella Window Store",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windows"
+    ]
+},
+  "bbox": [
+    -106.309532,
+    42.854884,
+    -106.309532,
+    42.854884
+],
+  "geometry": {"coordinates":[-106.309532,42.854884],"type":"Point"}
+}

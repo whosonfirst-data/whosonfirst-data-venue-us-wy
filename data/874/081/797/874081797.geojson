@@ -1,0 +1,71 @@
+{
+  "id": 874081797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593297,41.313157,-105.593297,41.313157",
+    "geom:latitude":41.313157,
+    "geom:longitude":-105.593297,
+    "iso:country":"US",
+    "sg:address":"171 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 970 231 5536",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GbtRShRakjjLvxW4CPzym_41.313157_-105.593297@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311573,
+    "wof:geomhash":"bd7dcc6b464c553d0a3c758df4bf7691",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874081797
+        }
+    ],
+    "wof:id":874081797,
+    "wof:lastmodified":1464311573,
+    "wof:name":"Grounds Intrnet Cof Lounge LLC",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -105.593297,
+    41.313157,
+    -105.593297,
+    41.313157
+],
+  "geometry": {"coordinates":[-105.59329700000001,41.313157],"type":"Point"}
+}

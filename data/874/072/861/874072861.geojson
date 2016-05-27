@@ -1,0 +1,69 @@
+{
+  "id": 874072861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.35162,42.830989,-106.35162,42.830989",
+    "geom:latitude":42.830989,
+    "geom:longitude":-106.35162,
+    "iso:country":"US",
+    "sg:address":"2217 Crescent Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0167",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pmiX44soJDDYltH0lYIeg_42.830989_-106.351620@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311475,
+    "wof:geomhash":"f43e30bee35f762ed6d6dd533e6e9eb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874072861
+        }
+    ],
+    "wof:id":874072861,
+    "wof:lastmodified":1464311475,
+    "wof:name":"Henry Therkildsen",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -106.35162,
+    42.830989,
+    -106.35162,
+    42.830989
+],
+  "geometry": {"coordinates":[-106.35162,42.830989],"type":"Point"}
+}

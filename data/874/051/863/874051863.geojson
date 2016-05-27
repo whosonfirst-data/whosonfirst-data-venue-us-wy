@@ -1,0 +1,73 @@
+{
+  "id": 874051863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.280295,42.849018,-106.280295,42.849018",
+    "geom:latitude":42.849018,
+    "geom:longitude":-106.280295,
+    "iso:country":"US",
+    "sg:address":"111 N Forest Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2452",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JzDnHlYCAYv3pT4ajfSB8_42.849018_-106.280295@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311258,
+    "wof:geomhash":"4993fbc72d2413085b1395aa6d4c809b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874051863
+        }
+    ],
+    "wof:id":874051863,
+    "wof:lastmodified":1464311258,
+    "wof:name":"Michael's Lawn Care",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -106.280295,
+    42.849018,
+    -106.280295,
+    42.849018
+],
+  "geometry": {"coordinates":[-106.280295,42.849018],"type":"Point"}
+}

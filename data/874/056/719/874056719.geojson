@@ -1,0 +1,56 @@
+{
+  "id": 874056719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.200741,43.853704,-104.200741,43.853704",
+    "geom:latitude":43.853704,
+    "geom:longitude":-104.200741,
+    "iso:country":"US",
+    "sg:address":"7 W Wentworth St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 2800",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WM2YRuY2jokTnHICmZBRG_43.853704_-104.200741@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311307,
+    "wof:geomhash":"1f80b41cf43130e5e77c50ae03765153",
+    "wof:hierarchy":[],
+    "wof:id":874056719,
+    "wof:lastmodified":1464311307,
+    "wof:name":"Newcastle Ambulance Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -104.200741,
+    43.853704,
+    -104.200741,
+    43.853704
+],
+  "geometry": {"coordinates":[-104.20074099999999,43.853704],"type":"Point"}
+}

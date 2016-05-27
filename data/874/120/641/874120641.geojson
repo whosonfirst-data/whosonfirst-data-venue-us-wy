@@ -1,0 +1,62 @@
+{
+  "id": 874120641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.403196,43.024664,-108.403196,43.024664",
+    "geom:latitude":43.024664,
+    "geom:longitude":-108.403196,
+    "iso:country":"US",
+    "sg:address":"912 W Main St",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 1412",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive",
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BHvilAPDkUZfik5APTO6V_43.024664_-108.403196@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312047,
+    "wof:geomhash":"4d4a87196ed90d90edda7e2557d3d769",
+    "wof:hierarchy":[],
+    "wof:id":874120641,
+    "wof:lastmodified":1464312047,
+    "wof:name":"Bobs Hilltop Sinclair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -108.403196,
+    43.024664,
+    -108.403196,
+    43.024664
+],
+  "geometry": {"coordinates":[-108.40319599999999,43.024664],"type":"Point"}
+}

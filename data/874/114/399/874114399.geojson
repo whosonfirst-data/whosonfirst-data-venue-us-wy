@@ -1,0 +1,73 @@
+{
+  "id": 874114399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.367667,42.807738,-106.367667,42.807738",
+    "geom:latitude":42.807738,
+    "geom:longitude":-106.367667,
+    "iso:country":"US",
+    "sg:address":"4441 Moose",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 0673",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u5c3c33KGX4fqiy0ulLv5_42.807738_-106.367667@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311981,
+    "wof:geomhash":"59dae27d951bd5021e20b24569415b6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874114399
+        }
+    ],
+    "wof:id":874114399,
+    "wof:lastmodified":1464311981,
+    "wof:name":"Nutra-Systems",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -106.367667,
+    42.807738,
+    -106.367667,
+    42.807738
+],
+  "geometry": {"coordinates":[-106.367667,42.807738],"type":"Point"}
+}

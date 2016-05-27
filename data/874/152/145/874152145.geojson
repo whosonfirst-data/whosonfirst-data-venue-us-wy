@@ -1,0 +1,58 @@
+{
+  "id": 874152145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.85639,44.719914,-108.85639,44.719914",
+    "geom:latitude":44.719914,
+    "geom:longitude":-108.85639,
+    "iso:country":"US",
+    "sg:address":"241 Main St",
+    "sg:city":"Ralston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 4705",
+    "sg:postcode":"82440",
+    "sg:province":"WY",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oXPvjtey0g35dtnHvsy0E_44.719914_-108.856390@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312348,
+    "wof:geomhash":"4b9df4582b3e3378f48a99bd456f47f2",
+    "wof:hierarchy":[],
+    "wof:id":874152145,
+    "wof:lastmodified":1464312348,
+    "wof:name":"MDM Custom Concrete",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.85639,
+    44.719914,
+    -108.85639,
+    44.719914
+],
+  "geometry": {"coordinates":[-108.85639,44.719914],"type":"Point"}
+}

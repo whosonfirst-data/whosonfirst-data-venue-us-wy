@@ -1,0 +1,59 @@
+{
+  "id": 874228189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.814264,41.133251,-104.814264,41.133251",
+    "geom:latitude":41.133251,
+    "geom:longitude":-104.814264,
+    "iso:country":"US",
+    "sg:address":"1611 Central Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/5719-mondello-downtown/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 1553",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_356hGzyPVfwiwVBs4p8avL_41.133251_-104.814264@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313142,
+    "wof:geomhash":"ac35634573eb7c29978b2b7318c8ec16",
+    "wof:hierarchy":[],
+    "wof:id":874228189,
+    "wof:lastmodified":1464313142,
+    "wof:name":"Mondello Downtown",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -104.814264,
+    41.133251,
+    -104.814264,
+    41.133251
+],
+  "geometry": {"coordinates":[-104.81426399999999,41.133251],"type":"Point"}
+}

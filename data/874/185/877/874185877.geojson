@@ -1,0 +1,56 @@
+{
+  "id": 874185877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.040981,44.382477,-108.040981,44.382477",
+    "geom:latitude":44.382477,
+    "geom:longitude":-108.040981,
+    "iso:country":"US",
+    "sg:address":"415 Murphy St",
+    "sg:city":"Basin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 2308",
+    "sg:postcode":"82410",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qvhClhmBOIPIOxUauzMae_44.382477_-108.040981@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312699,
+    "wof:geomhash":"c76b790d492029272cc70b5cacb8fb02",
+    "wof:hierarchy":[],
+    "wof:id":874185877,
+    "wof:lastmodified":1464312699,
+    "wof:name":"Big Horn County Shriffi Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -108.040981,
+    44.382477,
+    -108.040981,
+    44.382477
+],
+  "geometry": {"coordinates":[-108.040981,44.382477],"type":"Point"}
+}

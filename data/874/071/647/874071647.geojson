@@ -1,0 +1,58 @@
+{
+  "id": 874071647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.803325,41.116538,-104.803325,41.116538",
+    "geom:latitude":41.116538,
+    "geom:longitude":-104.803325,
+    "iso:country":"US",
+    "sg:address":"218 S Greeley Hwy",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 772 0020",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T1i2z5tRRcb0dBEfZxGdP_41.116538_-104.803325@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311455,
+    "wof:geomhash":"98c861007bc0735ca9a481f02e18c13d",
+    "wof:hierarchy":[],
+    "wof:id":874071647,
+    "wof:lastmodified":1464311455,
+    "wof:name":"B & R Check Holders",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [
+    -104.803325,
+    41.116538,
+    -104.803325,
+    41.116538
+],
+  "geometry": {"coordinates":[-104.803325,41.116538],"type":"Point"}
+}

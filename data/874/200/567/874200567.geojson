@@ -1,0 +1,60 @@
+{
+  "id": 874200567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.259733,41.646315,-109.259733,41.646315",
+    "geom:latitude":41.646315,
+    "geom:longitude":-109.259733,
+    "iso:country":"US",
+    "sg:address":"179 Douglas Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 9295",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LLrbUF2OmRL3gSqzoWaM2_41.646315_-109.259733@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312849,
+    "wof:geomhash":"7746ad5fd994b50483ff9e3efd02c553",
+    "wof:hierarchy":[],
+    "wof:id":874200567,
+    "wof:lastmodified":1464312849,
+    "wof:name":"Kennison Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -109.259733,
+    41.646315,
+    -109.259733,
+    41.646315
+],
+  "geometry": {"coordinates":[-109.259733,41.646315],"type":"Point"}
+}

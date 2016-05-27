@@ -1,0 +1,73 @@
+{
+  "id": 873995303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.609744,41.320907,-105.609744,41.320907",
+    "geom:latitude":41.320907,
+    "geom:longitude":-105.609744,
+    "iso:country":"US",
+    "sg:address":"954 N McCue St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5441",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jfPINdhGStC7td5UV4Jd9_41.320907_-105.609744@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310728,
+    "wof:geomhash":"82ed2f3116cecac00f000a0db16c565d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":873995303
+        }
+    ],
+    "wof:id":873995303,
+    "wof:lastmodified":1464310728,
+    "wof:name":"Sunny Meadows Village",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -105.609744,
+    41.320907,
+    -105.609744,
+    41.320907
+],
+  "geometry": {"coordinates":[-105.60974400000001,41.320907],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874130867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.938285,44.804692,-106.938285,44.804692",
+    "geom:latitude":44.804692,
+    "geom:longitude":-106.938285,
+    "iso:country":"US",
+    "sg:address":"1514 E 5th St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 7900",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "carwash",
+        "convenience",
+        "station",
+        "gasoline",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C9JdqdqeZcV6SsdeOBAsj_44.804692_-106.938285@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312148,
+    "wof:geomhash":"2e723f1bd51737413b77e4bffce7191b",
+    "wof:hierarchy":[],
+    "wof:id":874130867,
+    "wof:lastmodified":1464312148,
+    "wof:name":"Rock Stop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "convenience",
+        "station",
+        "gasoline",
+        "store"
+    ]
+},
+  "bbox": [
+    -106.938285,
+    44.804692,
+    -106.938285,
+    44.804692
+],
+  "geometry": {"coordinates":[-106.93828499999999,44.804692],"type":"Point"}
+}

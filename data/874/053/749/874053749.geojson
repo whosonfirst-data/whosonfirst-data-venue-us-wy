@@ -1,0 +1,71 @@
+{
+  "id": 874053749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.587666,41.316423,-105.587666,41.316423",
+    "geom:latitude":41.316423,
+    "geom:longitude":-105.587666,
+    "iso:country":"US",
+    "sg:address":"711 E Bradley St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5269",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yIIQGGHRsektmrN2uDifY_41.316423_-105.587666@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311276,
+    "wof:geomhash":"065c3182d22487c8f390fed97ec3ee8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874053749
+        }
+    ],
+    "wof:id":874053749,
+    "wof:lastmodified":1464311276,
+    "wof:name":"B G B Electric Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -105.587666,
+    41.316423,
+    -105.587666,
+    41.316423
+],
+  "geometry": {"coordinates":[-105.587666,41.316423],"type":"Point"}
+}

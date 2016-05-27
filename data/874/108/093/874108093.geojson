@@ -1,0 +1,66 @@
+{
+  "id": 874108093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.596018,41.312184,-105.596018,41.312184",
+    "geom:latitude":41.312184,
+    "geom:longitude":-105.596018,
+    "iso:country":"US",
+    "sg:address":"105 E Ivinson Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4423",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15UpeMuSQ1gyB91uxmAwQf_41.312184_-105.596018@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311895,
+    "wof:geomhash":"6c092a9bc1f396608f80a62a3f24efdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874108093
+        }
+    ],
+    "wof:id":874108093,
+    "wof:lastmodified":1464311895,
+    "wof:name":"Ist Story Cafe",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.596018,
+    41.312184,
+    -105.596018,
+    41.312184
+],
+  "geometry": {"coordinates":[-105.596018,41.312184],"type":"Point"}
+}

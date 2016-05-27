@@ -1,0 +1,73 @@
+{
+  "id": 874018851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.223259,41.590079,-109.223259,41.590079",
+    "geom:latitude":41.590079,
+    "geom:longitude":-109.223259,
+    "iso:country":"US",
+    "sg:address":"204 Elk St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 8488",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "astrologer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z5pmn12Hxvb0IAmrIfOy8_41.590079_-109.223259@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310936,
+    "wof:geomhash":"562c0b7f0455dd5391717dee9ca5f7d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874018851
+        }
+    ],
+    "wof:id":874018851,
+    "wof:lastmodified":1464310936,
+    "wof:name":"Earth Impressions",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "astrologer"
+    ]
+},
+  "bbox": [
+    -109.223259,
+    41.590079,
+    -109.223259,
+    41.590079
+],
+  "geometry": {"coordinates":[-109.223259,41.590079],"type":"Point"}
+}

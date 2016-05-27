@@ -1,0 +1,51 @@
+{
+  "id": 874180025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.467045,41.528775,-109.467045,41.528775",
+    "geom:latitude":41.528775,
+    "geom:longitude":-109.467045,
+    "iso:country":"US",
+    "sg:address":"50 E Flaming Gorge Way",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 2435",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gP7NiCVNjEzwzShYA87Ml_41.528775_-109.467045@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312630,
+    "wof:geomhash":"5f302d7bb13994fa369205b161c125cf",
+    "wof:hierarchy":[],
+    "wof:id":874180025,
+    "wof:lastmodified":1464312630,
+    "wof:name":"Pay Less Drug Stores",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.467045,
+    41.528775,
+    -109.467045,
+    41.528775
+],
+  "geometry": {"coordinates":[-109.467045,41.528775],"type":"Point"}
+}

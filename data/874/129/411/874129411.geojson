@@ -1,0 +1,71 @@
+{
+  "id": 874129411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.39399,42.830339,-106.39399,42.830339",
+    "geom:latitude":42.830339,
+    "geom:longitude":-106.39399,
+    "iso:country":"US",
+    "sg:address":"4820 Sam Howell Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 1120",
+    "sg:postcode":"82644",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76j4XPptUJjyuTfa4LPYsA_42.830339_-106.393990@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312127,
+    "wof:geomhash":"bbe2e1f6d774fb44984562ccef02763b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874129411
+        }
+    ],
+    "wof:id":874129411,
+    "wof:lastmodified":1464312127,
+    "wof:name":"Pronghorn Electric Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.39399,
+    42.830339,
+    -106.39399,
+    42.830339
+],
+  "geometry": {"coordinates":[-106.39399,42.830339],"type":"Point"}
+}

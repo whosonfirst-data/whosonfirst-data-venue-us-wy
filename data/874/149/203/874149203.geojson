@@ -1,0 +1,56 @@
+{
+  "id": 874149203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.398617,44.835019,-108.398617,44.835019",
+    "geom:latitude":44.835019,
+    "geom:longitude":-108.398617,
+    "iso:country":"US",
+    "sg:address":"10 Circle Dr",
+    "sg:city":"Lovell",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 548 6111",
+    "sg:postcode":"82431",
+    "sg:province":"WY",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5I92txkzg3F9KQPIKOgMJN_44.835019_-108.398617@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312321,
+    "wof:geomhash":"e6cca21295b2a273d6701baaf1cc6310",
+    "wof:hierarchy":[],
+    "wof:id":874149203,
+    "wof:lastmodified":1464312321,
+    "wof:name":"Lovell Cable TV",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television"
+    ]
+},
+  "bbox": [
+    -108.398617,
+    44.835019,
+    -108.398617,
+    44.835019
+],
+  "geometry": {"coordinates":[-108.398617,44.835019],"type":"Point"}
+}

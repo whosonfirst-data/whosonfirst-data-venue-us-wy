@@ -1,0 +1,58 @@
+{
+  "id": 874013195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.800535,41.109629,-104.800535,41.109629",
+    "geom:latitude":41.109629,
+    "geom:longitude":-104.800535,
+    "iso:country":"US",
+    "sg:address":"505 S Greeley Hwy",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 9265",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6afPjFnsCjO381YBTUgD9o_41.109629_-104.800535@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310878,
+    "wof:geomhash":"7efa44382cd7e78df46e671f31f8e5fa",
+    "wof:hierarchy":[],
+    "wof:id":874013195,
+    "wof:lastmodified":1464310878,
+    "wof:name":"Adam's Lock & Key",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -104.800535,
+    41.109629,
+    -104.800535,
+    41.109629
+],
+  "geometry": {"coordinates":[-104.800535,41.109629],"type":"Point"}
+}

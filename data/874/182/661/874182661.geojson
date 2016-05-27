@@ -1,0 +1,64 @@
+{
+  "id": 874182661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.313348,42.844745,-106.313348,42.844745",
+    "geom:latitude":42.844745,
+    "geom:longitude":-106.313348,
+    "iso:country":"US",
+    "sg:address":"919 E 6th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 0271",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26xG6UcqwPqFZplATseDkp_42.844745_-106.313348@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312657,
+    "wof:geomhash":"99859bd8544734c1cfbe19e3c445f07f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874182661
+        }
+    ],
+    "wof:id":874182661,
+    "wof:lastmodified":1464312657,
+    "wof:name":"Michelles Balloons",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.313348,
+    42.844745,
+    -106.313348,
+    42.844745
+],
+  "geometry": {"coordinates":[-106.313348,42.844745],"type":"Point"}
+}

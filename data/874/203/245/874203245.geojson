@@ -1,0 +1,69 @@
+{
+  "id": 874203245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.325066,42.845575,-106.325066,42.845575",
+    "geom:latitude":42.845575,
+    "geom:longitude":-106.325066,
+    "iso:country":"US",
+    "sg:address":"330 S Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 5626",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zWKXHfiU77Qu88ge1QHtK_42.845575_-106.325066@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312877,
+    "wof:geomhash":"43607377f44708b321bbfd4730c2bf0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874203245
+        }
+    ],
+    "wof:id":874203245,
+    "wof:lastmodified":1464312877,
+    "wof:name":"American Heart Association",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "social"
+    ]
+},
+  "bbox": [
+    -106.325066,
+    42.845575,
+    -106.325066,
+    42.845575
+],
+  "geometry": {"coordinates":[-106.32506600000001,42.845575],"type":"Point"}
+}

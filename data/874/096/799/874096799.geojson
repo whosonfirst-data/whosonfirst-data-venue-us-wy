@@ -1,0 +1,71 @@
+{
+  "id": 874096799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.575232,41.298772,-105.575232,41.298772",
+    "geom:latitude":41.298772,
+    "geom:longitude":-105.575232,
+    "iso:country":"US",
+    "sg:address":"1622 S 17th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2524",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wqPSYbfHbO3Oxo9XZ6Kvr_41.298772_-105.575232@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311741,
+    "wof:geomhash":"92bdc7d356c5b04eab904781aea4955b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874096799
+        }
+    ],
+    "wof:id":874096799,
+    "wof:lastmodified":1464311741,
+    "wof:name":"University Heights",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -105.575232,
+    41.298772,
+    -105.575232,
+    41.298772
+],
+  "geometry": {"coordinates":[-105.575232,41.298772],"type":"Point"}
+}

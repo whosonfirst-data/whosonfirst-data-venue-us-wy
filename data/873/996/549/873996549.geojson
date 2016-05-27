@@ -1,0 +1,69 @@
+{
+  "id": 873996549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.35152,42.80678,-106.35152,42.80678",
+    "geom:latitude":42.80678,
+    "geom:longitude":-106.35152,
+    "iso:country":"US",
+    "sg:address":"2200 W 45th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1258",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "vinyl"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tSir6kxcTLvNByKEauRzT_42.806780_-106.351520@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310736,
+    "wof:geomhash":"29e81ac8dbd5ce10e96b99174c226183",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873996549
+        }
+    ],
+    "wof:id":873996549,
+    "wof:lastmodified":1464310736,
+    "wof:name":"A & S Enterprises",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vinyl"
+    ]
+},
+  "bbox": [
+    -106.35152,
+    42.80678,
+    -106.35152,
+    42.80678
+],
+  "geometry": {"coordinates":[-106.35151999999999,42.80678],"type":"Point"}
+}

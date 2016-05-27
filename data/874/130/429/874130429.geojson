@@ -1,0 +1,58 @@
+{
+  "id": 874130429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.969323,44.7852,-106.969323,44.7852",
+    "geom:latitude":44.7852,
+    "geom:longitude":-106.969323,
+    "iso:country":"US",
+    "sg:address":"707 Huntington St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 9335",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22AWVxIWmAnv5jHGuxhkUn_44.785200_-106.969323@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312142,
+    "wof:geomhash":"ff938f9fea680dd72b3c13c5ee592fde",
+    "wof:hierarchy":[],
+    "wof:id":874130429,
+    "wof:lastmodified":1464312142,
+    "wof:name":"Pat Burke Trucking Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -106.969323,
+    44.7852,
+    -106.969323,
+    44.7852
+],
+  "geometry": {"coordinates":[-106.969323,44.7852],"type":"Point"}
+}

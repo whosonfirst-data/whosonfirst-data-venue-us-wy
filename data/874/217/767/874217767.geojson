@@ -1,0 +1,74 @@
+{
+  "id": 874217767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323839,42.844256,-106.323839,42.844256",
+    "geom:latitude":42.844256,
+    "geom:longitude":-106.323839,
+    "iso:country":"US",
+    "sg:address":"614 S Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 8182",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MrEmLdmTV59gzQwWngwPw_42.844256_-106.323839@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313029,
+    "wof:geomhash":"869f30a33a470209833d0f45cd1553f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874217767
+        }
+    ],
+    "wof:id":874217767,
+    "wof:lastmodified":1464313029,
+    "wof:name":"Insurance Services LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -106.323839,
+    42.844256,
+    -106.323839,
+    42.844256
+],
+  "geometry": {"coordinates":[-106.32383900000001,42.844256],"type":"Point"}
+}

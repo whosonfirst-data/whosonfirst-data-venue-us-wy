@@ -1,0 +1,73 @@
+{
+  "id": 874178295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.575507,41.311679,-105.575507,41.311679",
+    "geom:latitude":41.311679,
+    "geom:longitude":-105.575507,
+    "iso:country":"US",
+    "sg:address":"1616 E Sorority Row",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 766 7992",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "membership",
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oDAZd0WF2oRzrjPuWU2LU_41.311679_-105.575507@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312610,
+    "wof:geomhash":"efe55d117cf019f93cea7088969579dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874178295
+        }
+    ],
+    "wof:id":874178295,
+    "wof:lastmodified":1464312610,
+    "wof:name":"Theta Eta Chapter of Delta Del",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "membership",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -105.575507,
+    41.311679,
+    -105.575507,
+    41.311679
+],
+  "geometry": {"coordinates":[-105.575507,41.311679],"type":"Point"}
+}

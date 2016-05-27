@@ -1,0 +1,58 @@
+{
+  "id": 874092151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.78781,41.165449,-104.78781,41.165449",
+    "geom:latitude":41.165449,
+    "geom:longitude":-104.78781,
+    "iso:country":"US",
+    "sg:address":"5101 King Arthur Way",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 4916",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sjOBbJL65LKWh36N7luO6_41.165449_-104.787810@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311687,
+    "wof:geomhash":"61039a54cafbb354179c4d21823331ca",
+    "wof:hierarchy":[],
+    "wof:id":874092151,
+    "wof:lastmodified":1464311687,
+    "wof:name":"Quality Plumbing Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -104.78781,
+    41.165449,
+    -104.78781,
+    41.165449
+],
+  "geometry": {"coordinates":[-104.78780999999999,41.165449],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874036961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592021,41.326448,-105.592021,41.326448",
+    "geom:latitude":41.326448,
+    "geom:longitude":-105.592021,
+    "iso:country":"US",
+    "sg:address":"1560 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 1511",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XMumgzmS9e8C0oG2kdfjW_41.326448_-105.592021@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311116,
+    "wof:geomhash":"03adab95fcfdcec39abb234793aeac9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874036961
+        }
+    ],
+    "wof:id":874036961,
+    "wof:lastmodified":1464311116,
+    "wof:name":"Public Assisted Transportation",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -105.592021,
+    41.326448,
+    -105.592021,
+    41.326448
+],
+  "geometry": {"coordinates":[-105.592021,41.326448],"type":"Point"}
+}

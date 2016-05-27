@@ -1,0 +1,68 @@
+{
+  "id": 874148215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.81869,41.152294,-104.81869,41.152294",
+    "geom:latitude":41.152294,
+    "geom:longitude":-104.81869,
+    "iso:country":"US",
+    "sg:address":"4101 Evans Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 5704",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48dUHBLsAU0E15G0XZVX0X_41.152294_-104.818690@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312313,
+    "wof:geomhash":"dbca0ba4bf93ce7d48c46f1745c800e1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":874148215
+        }
+    ],
+    "wof:id":874148215,
+    "wof:lastmodified":1464312313,
+    "wof:name":"Transaero",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.81869,
+    41.152294,
+    -104.81869,
+    41.152294
+],
+  "geometry": {"coordinates":[-104.81869,41.152294],"type":"Point"}
+}

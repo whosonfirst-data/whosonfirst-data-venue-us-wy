@@ -1,0 +1,58 @@
+{
+  "id": 874222141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.583662,42.905687,-108.583662,42.905687",
+    "geom:latitude":42.905687,
+    "geom:longitude":-108.583662,
+    "iso:country":"US",
+    "sg:address":"132 S Main St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 4627",
+    "sg:postcode":"82515",
+    "sg:province":"WY",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FWHW7r24n9jmzIrvzZXpb_42.905687_-108.583662@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313085,
+    "wof:geomhash":"6d0171b588f7115395328e6659733e5c",
+    "wof:hierarchy":[],
+    "wof:id":874222141,
+    "wof:lastmodified":1464313085,
+    "wof:name":"Club El Toro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -108.583662,
+    42.905687,
+    -108.583662,
+    42.905687
+],
+  "geometry": {"coordinates":[-108.583662,42.905687],"type":"Point"}
+}

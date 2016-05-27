@@ -1,0 +1,71 @@
+{
+  "id": 874124677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.292717,42.851527,-106.292717,42.851527",
+    "geom:latitude":42.851527,
+    "geom:longitude":-106.292717,
+    "iso:country":"US",
+    "sg:address":"364 N Nebraska Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2570",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BuqUxTx8rAKul7rkVVAvE_42.851527_-106.292717@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312082,
+    "wof:geomhash":"89d3025e8516085c36a24e7596f60501",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874124677
+        }
+    ],
+    "wof:id":874124677,
+    "wof:lastmodified":1464312082,
+    "wof:name":"Microtechnology Consulting",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -106.292717,
+    42.851527,
+    -106.292717,
+    42.851527
+],
+  "geometry": {"coordinates":[-106.292717,42.851527],"type":"Point"}
+}

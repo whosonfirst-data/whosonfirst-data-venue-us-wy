@@ -1,0 +1,73 @@
+{
+  "id": 874185963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.422836,42.873737,-106.422836,42.873737",
+    "geom:latitude":42.873737,
+    "geom:longitude":-106.422836,
+    "iso:country":"US",
+    "sg:address":"6680 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 0300",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71s7ebXftQvGCEdkmIYe52_42.873737_-106.422836@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312700,
+    "wof:geomhash":"ec21207f301dd14d72ad84de8f8b05d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874185963
+        }
+    ],
+    "wof:id":874185963,
+    "wof:lastmodified":1464312700,
+    "wof:name":"Ghost Town Truck Stop",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -106.422836,
+    42.873737,
+    -106.422836,
+    42.873737
+],
+  "geometry": {"coordinates":[-106.422836,42.873737],"type":"Point"}
+}

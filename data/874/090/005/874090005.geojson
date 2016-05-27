@@ -1,0 +1,56 @@
+{
+  "id": 874090005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.005363,41.324878,-111.005363,41.324878",
+    "geom:latitude":41.324878,
+    "geom:longitude":-111.005363,
+    "iso:country":"US",
+    "sg:address":"2549 Almy Rd 107",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 5511",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "rodeo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AxKhN8MmZEWN0tin0cJMz_41.324878_-111.005363@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311663,
+    "wof:geomhash":"9971b955a7a471061ba9b153b3eaa71c",
+    "wof:hierarchy":[],
+    "wof:id":874090005,
+    "wof:lastmodified":1464311663,
+    "wof:name":"Evanston Rodeo Series",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rodeo"
+    ]
+},
+  "bbox": [
+    -111.005363,
+    41.324878,
+    -111.005363,
+    41.324878
+],
+  "geometry": {"coordinates":[-111.005363,41.324878],"type":"Point"}
+}

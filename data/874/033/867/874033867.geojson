@@ -1,0 +1,56 @@
+{
+  "id": 874033867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.765311,43.479665,-110.765311,43.479665",
+    "geom:latitude":43.479665,
+    "geom:longitude":-110.765311,
+    "iso:country":"US",
+    "sg:address":"225 W Broadway",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 8327",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "snowboard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VHopLDWTlG2tINb4EVVCj_43.479665_-110.765311@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311084,
+    "wof:geomhash":"afe49dead59ec4dab25b5b8b460d5599",
+    "wof:hierarchy":[],
+    "wof:id":874033867,
+    "wof:lastmodified":1464311084,
+    "wof:name":"Board Room Of Jackson Hole",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snowboard"
+    ]
+},
+  "bbox": [
+    -110.765311,
+    43.479665,
+    -110.765311,
+    43.479665
+],
+  "geometry": {"coordinates":[-110.765311,43.479665],"type":"Point"}
+}

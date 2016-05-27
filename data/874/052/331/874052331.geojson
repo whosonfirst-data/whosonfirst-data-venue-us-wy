@@ -1,0 +1,58 @@
+{
+  "id": 874052331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.795814,43.430075,-110.795814,43.430075",
+    "geom:latitude":43.430075,
+    "geom:longitude":-110.795814,
+    "iso:country":"US",
+    "sg:address":"3420 S Appaloosa Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 732 0735",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EW6ThutD8eIC7FCVYMmxg_43.430075_-110.795814@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311262,
+    "wof:geomhash":"dc23ff3a8d83ee98066ee0b4e32852df",
+    "wof:hierarchy":[],
+    "wof:id":874052331,
+    "wof:lastmodified":1464311262,
+    "wof:name":"Teton Heating Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -110.795814,
+    43.430075,
+    -110.795814,
+    43.430075
+],
+  "geometry": {"coordinates":[-110.79581399999999,43.430075],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874163485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.231099,41.579485,-109.231099,41.579485",
+    "geom:latitude":41.579485,
+    "geom:longitude":-109.231099,
+    "iso:country":"US",
+    "sg:address":"1135 Dewar Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 7235",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12tbq9AEFXMFE055s9jlCn_41.579485_-109.231099@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312464,
+    "wof:geomhash":"fb11d550af632f2ce573d3a62b56bd94",
+    "wof:hierarchy":[],
+    "wof:id":874163485,
+    "wof:lastmodified":1464312464,
+    "wof:name":"Bob's Towing & Automotive Rpr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -109.231099,
+    41.579485,
+    -109.231099,
+    41.579485
+],
+  "geometry": {"coordinates":[-109.231099,41.579485],"type":"Point"}
+}

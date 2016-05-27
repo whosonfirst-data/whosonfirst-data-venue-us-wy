@@ -1,0 +1,69 @@
+{
+  "id": 874173297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.23002,42.858453,-106.23002,42.858453",
+    "geom:latitude":42.858453,
+    "geom:longitude":-106.23002,
+    "iso:country":"US",
+    "sg:address":"686 Rawhide Rd",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7060",
+    "sg:postcode":"82636",
+    "sg:province":"WY",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FYvK0oKDi4EJ0794DO5xK_42.858453_-106.230020@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312561,
+    "wof:geomhash":"ae876523447b3fa27331e19ae3604776",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874173297
+        }
+    ],
+    "wof:id":874173297,
+    "wof:lastmodified":1464312561,
+    "wof:name":"At Once Mobile Svc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -106.23002,
+    42.858453,
+    -106.23002,
+    42.858453
+],
+  "geometry": {"coordinates":[-106.23002,42.858453],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 873993127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.35831,43.017112,-108.35831,43.017112",
+    "geom:latitude":43.017112,
+    "geom:longitude":-108.35831,
+    "iso:country":"US",
+    "sg:address":"2605 Freedom Dr",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 857 5986",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17z85hyZZEMfKEvZVBLKdt_43.017112_-108.358310@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310713,
+    "wof:geomhash":"0f26fb79ba3b13c636ebb8da476303c6",
+    "wof:hierarchy":[],
+    "wof:id":873993127,
+    "wof:lastmodified":1464310713,
+    "wof:name":"Body Line",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -108.35831,
+    43.017112,
+    -108.35831,
+    43.017112
+],
+  "geometry": {"coordinates":[-108.35831,43.017112],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874110707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.583688,41.304614,-105.583688,41.304614",
+    "geom:latitude":41.304614,
+    "geom:longitude":-105.583688,
+    "iso:country":"US",
+    "sg:address":"916 S 11th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2329",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gviwHoXV7M6jGDrRM80W0_41.304614_-105.583688@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311934,
+    "wof:geomhash":"d9ffc8fc3bd2cb02a743177af430b5af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874110707
+        }
+    ],
+    "wof:id":874110707,
+    "wof:lastmodified":1464311934,
+    "wof:name":"Old Grey Fox Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -105.583688,
+    41.304614,
+    -105.583688,
+    41.304614
+],
+  "geometry": {"coordinates":[-105.583688,41.304614],"type":"Point"}
+}

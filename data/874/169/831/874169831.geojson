@@ -1,0 +1,69 @@
+{
+  "id": 874169831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.39562,42.825089,-106.39562,42.825089",
+    "geom:latitude":42.825089,
+    "geom:longitude":-106.39562,
+    "iso:country":"US",
+    "sg:address":"53 Calypso St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 9047",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dVHs7qKeiE8Rrc15aMSlw_42.825089_-106.395620@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312525,
+    "wof:geomhash":"98b2d2ec5e638e11cf8652fe38b4b34d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874169831
+        }
+    ],
+    "wof:id":874169831,
+    "wof:lastmodified":1464312525,
+    "wof:name":"Crimm Real Estate Inspection",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -106.39562,
+    42.825089,
+    -106.39562,
+    42.825089
+],
+  "geometry": {"coordinates":[-106.39561999999999,42.825089],"type":"Point"}
+}

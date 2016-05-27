@@ -1,0 +1,74 @@
+{
+  "id": 874229321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.337103,42.841022,-106.337103,42.841022",
+    "geom:latitude":42.841022,
+    "geom:longitude":-106.337103,
+    "iso:country":"US",
+    "sg:address":"938 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/casper/126922-blimpie-subs--sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 2160",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ru4w5WwnPljp5kMpYEcOg_42.841022_-106.337103@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313153,
+    "wof:geomhash":"055096d8b4a3ba5891ad765df12fe561",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874229321
+        }
+    ],
+    "wof:id":874229321,
+    "wof:lastmodified":1464313153,
+    "wof:name":"Blimpie Subs & Sandwiches",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -106.337103,
+    42.841022,
+    -106.337103,
+    42.841022
+],
+  "geometry": {"coordinates":[-106.337103,42.841022],"type":"Point"}
+}

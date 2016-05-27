@@ -1,0 +1,71 @@
+{
+  "id": 874047297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.577728,41.309984,-105.577728,41.309984",
+    "geom:latitude":41.309984,
+    "geom:longitude":-105.577728,
+    "iso:country":"US",
+    "sg:address":"1516 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 7275",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XPfReAQCbDOVg0ImlFkum_41.309984_-105.577728@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311218,
+    "wof:geomhash":"c6a82e3f0ba0b4a4e4cf868b355017b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874047297
+        }
+    ],
+    "wof:id":874047297,
+    "wof:lastmodified":1464311218,
+    "wof:name":"Wy Independent Living Rehab",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -105.577728,
+    41.309984,
+    -105.577728,
+    41.309984
+],
+  "geometry": {"coordinates":[-105.57772799999999,41.309984],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874041431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.759953,44.749248,-108.759953,44.749248",
+    "geom:latitude":44.749248,
+    "geom:longitude":-108.759953,
+    "iso:country":"US",
+    "sg:address":"158 W North St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 2376",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Oz9b6bU7nxPxYlqy82QrS_44.749248_-108.759953@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311156,
+    "wof:geomhash":"131fec01e9dc7539e5e201e7a20d0db6",
+    "wof:hierarchy":[],
+    "wof:id":874041431,
+    "wof:lastmodified":1464311156,
+    "wof:name":"Heart Mountain Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -108.759953,
+    44.749248,
+    -108.759953,
+    44.749248
+],
+  "geometry": {"coordinates":[-108.759953,44.749248],"type":"Point"}
+}

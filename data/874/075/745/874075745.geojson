@@ -1,0 +1,64 @@
+{
+  "id": 874075745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.276914,42.848069,-106.276914,42.848069",
+    "geom:latitude":42.848069,
+    "geom:longitude":-106.276914,
+    "iso:country":"US",
+    "sg:address":"295 S Walsh Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 7878",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jTq9lTOgg94X6OJFYzGUy_42.848069_-106.276914@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311509,
+    "wof:geomhash":"bd8196595ec17b26185c9b7aacdc41b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874075745
+        }
+    ],
+    "wof:id":874075745,
+    "wof:lastmodified":1464311509,
+    "wof:name":"Denise R Prugh DDS",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.276914,
+    42.848069,
+    -106.276914,
+    42.848069
+],
+  "geometry": {"coordinates":[-106.276914,42.848069],"type":"Point"}
+}

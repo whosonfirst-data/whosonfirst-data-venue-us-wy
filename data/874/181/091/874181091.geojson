@@ -1,0 +1,69 @@
+{
+  "id": 874181091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.2985,42.854706,-106.2985,42.854706",
+    "geom:latitude":42.854706,
+    "geom:longitude":-106.2985,
+    "iso:country":"US",
+    "sg:address":"544 N Fairdale St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4755",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wwa89AeExuhesO3hCHOIV_42.854706_-106.298500@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312641,
+    "wof:geomhash":"32baa45c13dc6b0738a70cd80c71f44b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874181091
+        }
+    ],
+    "wof:id":874181091,
+    "wof:lastmodified":1464312641,
+    "wof:name":"Mason Wrecker Svc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road"
+    ]
+},
+  "bbox": [
+    -106.2985,
+    42.854706,
+    -106.2985,
+    42.854706
+],
+  "geometry": {"coordinates":[-106.2985,42.854706],"type":"Point"}
+}

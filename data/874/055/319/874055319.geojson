@@ -1,0 +1,56 @@
+{
+  "id": 874055319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.038856,44.381583,-108.038856,44.381583",
+    "geom:latitude":44.381583,
+    "geom:longitude":-108.038856,
+    "iso:country":"US",
+    "sg:address":"155 N 4th St",
+    "sg:city":"Basin",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 568 9909",
+    "sg:postcode":"82410",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K36ppz551EWM4GMyMNd8Z_44.381583_-108.038856@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311295,
+    "wof:geomhash":"05b71dffc75df801105ebf872cf9c4f6",
+    "wof:hierarchy":[],
+    "wof:id":874055319,
+    "wof:lastmodified":1464311295,
+    "wof:name":"Mountain West Telecommunicatns",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -108.038856,
+    44.381583,
+    -108.038856,
+    44.381583
+],
+  "geometry": {"coordinates":[-108.038856,44.381583],"type":"Point"}
+}

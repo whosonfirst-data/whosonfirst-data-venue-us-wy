@@ -1,0 +1,51 @@
+{
+  "id": 874032871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.16074,42.06343,-104.16074,42.06343",
+    "geom:latitude":42.06343,
+    "geom:longitude":-104.16074,
+    "iso:country":"US",
+    "sg:address":"2000 E 20th Ave",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 8551",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fktflpQ8sll97gD7vX0GC_42.063430_-104.160740@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311074,
+    "wof:geomhash":"2fba39fae02bae276d18bb0f5ccef399",
+    "wof:hierarchy":[],
+    "wof:id":874032871,
+    "wof:lastmodified":1464311074,
+    "wof:name":"Torrington Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.16074,
+    42.06343,
+    -104.16074,
+    42.06343
+],
+  "geometry": {"coordinates":[-104.16074,42.06343],"type":"Point"}
+}

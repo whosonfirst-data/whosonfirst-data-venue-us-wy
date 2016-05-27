@@ -1,0 +1,56 @@
+{
+  "id": 874158419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.963454,44.783148,-106.963454,44.783148",
+    "geom:latitude":44.783148,
+    "geom:longitude":-106.963454,
+    "iso:country":"US",
+    "sg:address":"1410 de Smet Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 3786",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_610Ch8VFvAvVWqrSJkSN45_44.783148_-106.963454@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312417,
+    "wof:geomhash":"e50a3bbc188ef48d6e45676e4868c96b",
+    "wof:hierarchy":[],
+    "wof:id":874158419,
+    "wof:lastmodified":1464312417,
+    "wof:name":"Meadowlark Elementary School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -106.963454,
+    44.783148,
+    -106.963454,
+    44.783148
+],
+  "geometry": {"coordinates":[-106.963454,44.783148],"type":"Point"}
+}

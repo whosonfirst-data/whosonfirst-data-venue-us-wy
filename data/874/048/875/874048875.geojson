@@ -1,0 +1,71 @@
+{
+  "id": 874048875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.553576,41.309789,-105.553576,41.309789",
+    "geom:latitude":41.309789,
+    "geom:longitude":-105.553576,
+    "iso:country":"US",
+    "sg:address":"204 McCollum St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 6065",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FNd5COug3zkFNKCiAoifW_41.309789_-105.553576@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311231,
+    "wof:geomhash":"c5c94e5a615d399b7773222e0627337a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874048875
+        }
+    ],
+    "wof:id":874048875,
+    "wof:lastmodified":1464311231,
+    "wof:name":"Anesthesia Assoc Laramie LLC",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -105.553576,
+    41.309789,
+    -105.553576,
+    41.309789
+],
+  "geometry": {"coordinates":[-105.55357600000001,41.309789],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874082359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.8063,41.159978,-104.8063,41.159978",
+    "geom:latitude":41.159978,
+    "geom:longitude":-104.8063,
+    "iso:country":"US",
+    "sg:address":"1508 Stillwater Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 3500",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "financing",
+        "venture",
+        "capital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ny1QDJapJGqLBvJ24CHZf_41.159978_-104.806300@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311581,
+    "wof:geomhash":"47d189f57f50505d6fcd27519655af9f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":874082359
+        }
+    ],
+    "wof:id":874082359,
+    "wof:lastmodified":1464311581,
+    "wof:name":"Firstier Capital Corp",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financing",
+        "venture",
+        "capital"
+    ]
+},
+  "bbox": [
+    -104.8063,
+    41.159978,
+    -104.8063,
+    41.159978
+],
+  "geometry": {"coordinates":[-104.80629999999999,41.159978],"type":"Point"}
+}

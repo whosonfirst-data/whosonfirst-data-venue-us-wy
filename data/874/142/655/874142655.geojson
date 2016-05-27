@@ -1,0 +1,58 @@
+{
+  "id": 874142655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.773093,41.138846,-104.773093,41.138846",
+    "geom:latitude":41.138846,
+    "geom:longitude":-104.773093,
+    "iso:country":"US",
+    "sg:address":"3210 Old Faithful Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 9623",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "testing",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49zvG9dnwoBaW2sGA0L6iD_41.138846_-104.773093@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312258,
+    "wof:geomhash":"02de13c017886bee9b889e5b663ab85f",
+    "wof:hierarchy":[],
+    "wof:id":874142655,
+    "wof:lastmodified":1464312258,
+    "wof:name":"United Screening Services Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "testing",
+        "drug"
+    ]
+},
+  "bbox": [
+    -104.773093,
+    41.138846,
+    -104.773093,
+    41.138846
+],
+  "geometry": {"coordinates":[-104.773093,41.138846],"type":"Point"}
+}

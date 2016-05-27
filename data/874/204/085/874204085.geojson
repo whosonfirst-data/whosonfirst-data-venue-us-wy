@@ -1,0 +1,69 @@
+{
+  "id": 874204085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.309655,42.828373,-106.309655,42.828373",
+    "geom:latitude":42.828373,
+    "geom:longitude":-106.309655,
+    "iso:country":"US",
+    "sg:address":"2025 S Washington St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 8034",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79H1MOrc7GaNuFGWciDLH5_42.828373_-106.309655@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312885,
+    "wof:geomhash":"9c8931bbb1b684202707c3c8d3873610",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874204085
+        }
+    ],
+    "wof:id":874204085,
+    "wof:lastmodified":1464312885,
+    "wof:name":"Alligator Auto",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -106.309655,
+    42.828373,
+    -106.309655,
+    42.828373
+],
+  "geometry": {"coordinates":[-106.30965500000001,42.828373],"type":"Point"}
+}

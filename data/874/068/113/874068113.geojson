@@ -1,0 +1,71 @@
+{
+  "id": 874068113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.474751,42.937215,-106.474751,42.937215",
+    "geom:latitude":42.937215,
+    "geom:longitude":-106.474751,
+    "iso:country":"US",
+    "sg:address":"6555 Johnson Lateral Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 1581",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j2tNgVEK3uD59cCGlEa5T_42.937215_-106.474751@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311414,
+    "wof:geomhash":"2a758c3bda82e8fcaf0b2c44bd00abb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874068113
+        }
+    ],
+    "wof:id":874068113,
+    "wof:lastmodified":1464311414,
+    "wof:name":"Amac Construction",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.474751,
+    42.937215,
+    -106.474751,
+    42.937215
+],
+  "geometry": {"coordinates":[-106.474751,42.937215],"type":"Point"}
+}

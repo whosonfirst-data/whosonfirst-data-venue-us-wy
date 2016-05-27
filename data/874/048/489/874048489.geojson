@@ -1,0 +1,64 @@
+{
+  "id": 874048489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.39271,42.820989,-106.39271,42.820989",
+    "geom:latitude":42.820989,
+    "geom:longitude":-106.39271,
+    "iso:country":"US",
+    "sg:address":"5000 E Magnolia St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5900",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LNwoE8FKic4VKhq66U9i6_42.820989_-106.392710@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311228,
+    "wof:geomhash":"e1ea099f0e16f329a2b4343c7b158df4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874048489
+        }
+    ],
+    "wof:id":874048489,
+    "wof:lastmodified":1464311228,
+    "wof:name":"Town & Country Real Estate",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.39271,
+    42.820989,
+    -106.39271,
+    42.820989
+],
+  "geometry": {"coordinates":[-106.39270999999999,42.820989],"type":"Point"}
+}

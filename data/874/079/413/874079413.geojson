@@ -1,0 +1,69 @@
+{
+  "id": 874079413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.324581,42.8476,-106.324581,42.8476",
+    "geom:latitude":42.8476,
+    "geom:longitude":-106.324581,
+    "iso:country":"US",
+    "sg:address":"156 E Midwest Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 4243",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nSHnkEccb64c5J2fSiINZ_42.847600_-106.324581@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311546,
+    "wof:geomhash":"1ee621eee6672b8fe2d67c827112e7ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874079413
+        }
+    ],
+    "wof:id":874079413,
+    "wof:lastmodified":1464311546,
+    "wof:name":"Stephanie's",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.324581,
+    42.8476,
+    -106.324581,
+    42.8476
+],
+  "geometry": {"coordinates":[-106.32458099999999,42.8476],"type":"Point"}
+}

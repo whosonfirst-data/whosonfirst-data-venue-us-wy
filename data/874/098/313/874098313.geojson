@@ -1,0 +1,75 @@
+{
+  "id": 874098313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.630829,41.291781,-105.630829,41.291781",
+    "geom:latitude":41.291781,
+    "geom:longitude":-105.630829,
+    "iso:country":"US",
+    "sg:address":"2440 S Douglas Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5105",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant",
+        "planning",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yHp0Oxq1niTYT1bvDOEnm_41.291781_-105.630829@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311761,
+    "wof:geomhash":"c1e794b4a83fa3fbf18bd0a884f730f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874098313
+        }
+    ],
+    "wof:id":874098313,
+    "wof:lastmodified":1464311761,
+    "wof:name":"Davis Enterprises",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "planning",
+        "financial"
+    ]
+},
+  "bbox": [
+    -105.630829,
+    41.291781,
+    -105.630829,
+    41.291781
+],
+  "geometry": {"coordinates":[-105.63082900000001,41.291781],"type":"Point"}
+}

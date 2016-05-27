@@ -1,0 +1,58 @@
+{
+  "id": 874134233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.502962,44.268968,-105.502962,44.268968",
+    "geom:latitude":44.268968,
+    "geom:longitude":-105.502962,
+    "iso:country":"US",
+    "sg:address":"206 E Lakeway Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 7145",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09v1AWFdVzTLn2IHMTT3r3_44.268968_-105.502962@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312184,
+    "wof:geomhash":"b2dec5525475ba07d41b9811ab8e50cd",
+    "wof:hierarchy":[],
+    "wof:id":874134233,
+    "wof:lastmodified":1464312184,
+    "wof:name":"Lightning Lube",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -105.502962,
+    44.268968,
+    -105.502962,
+    44.268968
+],
+  "geometry": {"coordinates":[-105.502962,44.268968],"type":"Point"}
+}

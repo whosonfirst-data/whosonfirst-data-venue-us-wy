@@ -1,0 +1,56 @@
+{
+  "id": 874166831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.630804,43.536163,-109.630804,43.536163",
+    "geom:latitude":43.536163,
+    "geom:longitude":-109.630804,
+    "iso:country":"US",
+    "sg:address":"108 N 1st St",
+    "sg:city":"Dubois",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 455 2229",
+    "sg:postcode":"82513",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fo77yNzcYB41CyGeeWUaD_43.536163_-109.630804@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312496,
+    "wof:geomhash":"e77391d463098bfc6bc1b51ad9cc5ad1",
+    "wof:hierarchy":[],
+    "wof:id":874166831,
+    "wof:lastmodified":1464312496,
+    "wof:name":"Dental Care Of Jackson Hole",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -109.630804,
+    43.536163,
+    -109.630804,
+    43.536163
+],
+  "geometry": {"coordinates":[-109.630804,43.536163],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 874228687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.800684,41.160242,-104.800684,41.160242",
+    "geom:latitude":41.160242,
+    "geom:longitude":-104.800684,
+    "iso:country":"US",
+    "sg:address":"1730 Dell Range Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/102384-perkins-restaurant--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 7577",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OkPu72m1KZl2YZLPAP00T_41.160242_-104.800684@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313148,
+    "wof:geomhash":"2dfa8e8d20c33ee33cec66ea305fe8e2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":874228687
+        }
+    ],
+    "wof:id":874228687,
+    "wof:lastmodified":1464313148,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -104.800684,
+    41.160242,
+    -104.800684,
+    41.160242
+],
+  "geometry": {"coordinates":[-104.800684,41.160242],"type":"Point"}
+}

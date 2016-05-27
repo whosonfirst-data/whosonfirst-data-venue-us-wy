@@ -1,0 +1,72 @@
+{
+  "id": 874230603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593013,41.318247,-105.593013,41.318247",
+    "geom:latitude":41.318247,
+    "geom:longitude":-105.593013,
+    "iso:country":"US",
+    "sg:address":"666 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/laramie/100422-sharis-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 4813",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SzhVWhyhxhHvvRbeueuZU_41.317924_-105.592934@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313171,
+    "wof:geomhash":"d23c824c4cc5fe9a31963d39e4174913",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874230603
+        }
+    ],
+    "wof:id":874230603,
+    "wof:lastmodified":1464313171,
+    "wof:name":"Shari's Restaurant",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -105.593013,
+    41.318247,
+    -105.593013,
+    41.318247
+],
+  "geometry": {"coordinates":[-105.593013,41.318247],"type":"Point"}
+}

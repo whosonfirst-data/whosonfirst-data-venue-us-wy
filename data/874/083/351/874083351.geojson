@@ -1,0 +1,58 @@
+{
+  "id": 874083351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.524344,43.055365,-108.524344,43.055365",
+    "geom:latitude":43.055365,
+    "geom:longitude":-108.524344,
+    "iso:country":"US",
+    "sg:address":"6823 Riverview Rd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 5797",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IANr0Dg8yQPt4VYgxPf3D_43.055365_-108.524344@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311593,
+    "wof:geomhash":"7135829b4a64928925971b7cd4312697",
+    "wof:hierarchy":[],
+    "wof:id":874083351,
+    "wof:lastmodified":1464311593,
+    "wof:name":"Ray Whitener Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.524344,
+    43.055365,
+    -108.524344,
+    43.055365
+],
+  "geometry": {"coordinates":[-108.524344,43.055365],"type":"Point"}
+}

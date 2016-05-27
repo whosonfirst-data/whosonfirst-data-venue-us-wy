@@ -1,0 +1,69 @@
+{
+  "id": 874108999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.344038,42.838611,-106.344038,42.838611",
+    "geom:latitude":42.838611,
+    "geom:longitude":-106.344038,
+    "iso:country":"US",
+    "sg:address":"1131 Collins Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1004",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yS4qtDT6LrdFaI3J8ZiFt_42.838611_-106.344038@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311903,
+    "wof:geomhash":"5207f60358a909aa571fd28dd27d6a27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874108999
+        }
+    ],
+    "wof:id":874108999,
+    "wof:lastmodified":1464311903,
+    "wof:name":"Main Attraction",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.344038,
+    42.838611,
+    -106.344038,
+    42.838611
+],
+  "geometry": {"coordinates":[-106.344038,42.838611],"type":"Point"}
+}

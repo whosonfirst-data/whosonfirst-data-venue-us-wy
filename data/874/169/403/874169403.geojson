@@ -1,0 +1,58 @@
+{
+  "id": 874169403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.071476,44.52603,-109.071476,44.52603",
+    "geom:latitude":44.52603,
+    "geom:longitude":-109.071476,
+    "iso:country":"US",
+    "sg:address":"701 Sheridan Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 578 2375",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IOa52nWL5mN7773F5Snne_44.526030_-109.071476@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312521,
+    "wof:geomhash":"d67c32e2a3eec34411ea30a894eac833",
+    "wof:hierarchy":[],
+    "wof:id":874169403,
+    "wof:lastmodified":1464312521,
+    "wof:name":"West Park Hospital",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -109.071476,
+    44.52603,
+    -109.071476,
+    44.52603
+],
+  "geometry": {"coordinates":[-109.071476,44.52603],"type":"Point"}
+}

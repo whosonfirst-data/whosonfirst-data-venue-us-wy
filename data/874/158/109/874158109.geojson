@@ -1,0 +1,51 @@
+{
+  "id": 874158109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.230687,43.851115,-104.230687,43.851115",
+    "geom:latitude":43.851115,
+    "geom:longitude":-104.230687,
+    "iso:country":"US",
+    "sg:address":"2206 W Main St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 9775",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6z3CXJ1zjlbg78vLXSZu5z_43.851115_-104.230687@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312409,
+    "wof:geomhash":"54086bbc2effef67f9bf694f3abd65bd",
+    "wof:hierarchy":[],
+    "wof:id":874158109,
+    "wof:lastmodified":1464312409,
+    "wof:name":"Short Stop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.230687,
+    43.851115,
+    -104.230687,
+    43.851115
+],
+  "geometry": {"coordinates":[-104.230687,43.851115],"type":"Point"}
+}

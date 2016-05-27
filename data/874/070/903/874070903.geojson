@@ -1,0 +1,60 @@
+{
+  "id": 874070903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.892347,41.154987,-104.892347,41.154987",
+    "geom:latitude":41.154987,
+    "geom:longitude":-104.892347,
+    "iso:country":"US",
+    "sg:address":"7810 Healy Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 433 8896",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BJJL41S97J54UtWSOO89C_41.154987_-104.892347@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311442,
+    "wof:geomhash":"95c231ddc11a72edb634c18dd4838672",
+    "wof:hierarchy":[],
+    "wof:id":874070903,
+    "wof:lastmodified":1464311442,
+    "wof:name":"On Go Delivery LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -104.892347,
+    41.154987,
+    -104.892347,
+    41.154987
+],
+  "geometry": {"coordinates":[-104.892347,41.154987],"type":"Point"}
+}

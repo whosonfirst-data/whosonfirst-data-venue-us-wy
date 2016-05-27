@@ -1,0 +1,66 @@
+{
+  "id": 874203841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.618801,41.311355,-105.618801,41.311355",
+    "geom:latitude":41.311355,
+    "geom:longitude":-105.618801,
+    "iso:country":"US",
+    "sg:address":"236 S Fillmore St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 8125",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YuzSzzdABsGfkalzbh6fg_41.311355_-105.618801@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312882,
+    "wof:geomhash":"11fb7179c8a6cc267ec7607b7f3c2bcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874203841
+        }
+    ],
+    "wof:id":874203841,
+    "wof:lastmodified":1464312882,
+    "wof:name":"MCB Upholstery",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.618801,
+    41.311355,
+    -105.618801,
+    41.311355
+],
+  "geometry": {"coordinates":[-105.618801,41.311355],"type":"Point"}
+}

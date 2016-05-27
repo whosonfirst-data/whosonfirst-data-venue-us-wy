@@ -1,0 +1,56 @@
+{
+  "id": 874021235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.37761,42.76772,-105.37761,42.76772",
+    "geom:latitude":42.76772,
+    "geom:longitude":-105.37761,
+    "iso:country":"US",
+    "sg:address":"700 Kimball St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 4474",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tC3AeNgnrju1aKjVz1qE3_42.767720_-105.377610@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310958,
+    "wof:geomhash":"58a995d9083b63b835198ccdae142673",
+    "wof:hierarchy":[],
+    "wof:id":874021235,
+    "wof:lastmodified":1464310958,
+    "wof:name":"Patterson Logging",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -105.37761,
+    42.76772,
+    -105.37761,
+    42.76772
+],
+  "geometry": {"coordinates":[-105.37761,42.76772],"type":"Point"}
+}

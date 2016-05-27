@@ -1,0 +1,58 @@
+{
+  "id": 874161385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.051359,44.525995,-109.051359,44.525995",
+    "geom:latitude":44.525995,
+    "geom:longitude":-109.051359,
+    "iso:country":"US",
+    "sg:address":"1702 Sheridan Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 7879",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_077fjWCZpobpdHq0UWG0ep_44.525995_-109.051359@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312445,
+    "wof:geomhash":"dcaaca44177302701a44b62eed6b0a44",
+    "wof:hierarchy":[],
+    "wof:id":874161385,
+    "wof:lastmodified":1464312445,
+    "wof:name":"Cody Coffee Co & Eatery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -109.051359,
+    44.525995,
+    -109.051359,
+    44.525995
+],
+  "geometry": {"coordinates":[-109.05135900000001,44.525995],"type":"Point"}
+}

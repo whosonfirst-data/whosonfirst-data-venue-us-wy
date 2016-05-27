@@ -1,0 +1,56 @@
+{
+  "id": 874110525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.853647,44.665293,-103.853647,44.665293",
+    "geom:latitude":44.665293,
+    "geom:longitude":-103.853647,
+    "iso:country":"US",
+    "sg:address":"1122 5th Ave",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 9022",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79LZRcQZn8dAfXvrkAs3yZ_44.665293_-103.853647@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311929,
+    "wof:geomhash":"328b82a1e0848e6986ce9ddd5b0ccffa",
+    "wof:hierarchy":[],
+    "wof:id":874110525,
+    "wof:lastmodified":1464311929,
+    "wof:name":"Commercial Cleaning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -103.853647,
+    44.665293,
+    -103.853647,
+    44.665293
+],
+  "geometry": {"coordinates":[-103.853647,44.665293],"type":"Point"}
+}

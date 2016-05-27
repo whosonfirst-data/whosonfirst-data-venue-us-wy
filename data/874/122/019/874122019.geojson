@@ -1,0 +1,56 @@
+{
+  "id": 874122019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.493764,44.267772,-105.493764,44.267772",
+    "geom:latitude":44.267772,
+    "geom:longitude":-105.493764,
+    "iso:country":"US",
+    "sg:address":"2909 S Douglas Hwy",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 9057",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pizXVsnoQQHUpngAarPrs_44.267772_-105.493764@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312059,
+    "wof:geomhash":"25d5e3eb877beff91d01ebaa7a78dd9a",
+    "wof:hierarchy":[],
+    "wof:id":874122019,
+    "wof:lastmodified":1464312059,
+    "wof:name":"Gillette Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -105.493764,
+    44.267772,
+    -105.493764,
+    44.267772
+],
+  "geometry": {"coordinates":[-105.493764,44.267772],"type":"Point"}
+}

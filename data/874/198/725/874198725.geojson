@@ -1,0 +1,73 @@
+{
+  "id": 874198725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.416271,42.874566,-106.416271,42.874566",
+    "geom:latitude":42.874566,
+    "geom:longitude":-106.416271,
+    "iso:country":"US",
+    "sg:address":"1820 Pyrite Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1580",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil",
+        "well",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V5KxX0j0GolXSCak7l4Ir_42.874566_-106.416271@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312832,
+    "wof:geomhash":"51f45b0ce1961db6846e27a3e06928ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874198725
+        }
+    ],
+    "wof:id":874198725,
+    "wof:lastmodified":1464312832,
+    "wof:name":"Wenzel Downhole Tools LTD",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "well",
+        "supply"
+    ]
+},
+  "bbox": [
+    -106.416271,
+    42.874566,
+    -106.416271,
+    42.874566
+],
+  "geometry": {"coordinates":[-106.41627099999999,42.874566],"type":"Point"}
+}

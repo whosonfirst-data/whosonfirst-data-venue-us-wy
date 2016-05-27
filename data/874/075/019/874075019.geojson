@@ -1,0 +1,68 @@
+{
+  "id": 874075019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.841358,42.899831,-105.841358,42.899831",
+    "geom:latitude":42.899831,
+    "geom:longitude":-105.841358,
+    "iso:country":"US",
+    "sg:address":"14 S Coyote Rd",
+    "sg:city":"Glenrock",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 267 3497",
+    "sg:postcode":"82637",
+    "sg:province":"WY",
+    "sg:tags":[
+        "fiber",
+        "coax",
+        "optic",
+        "terminate",
+        "install",
+        "test",
+        "cable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5odF2axIjlUpziOLpiNcBe_42.899831_-105.841358@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311502,
+    "wof:geomhash":"016acde887804a9932354dc4579fa76c",
+    "wof:hierarchy":[],
+    "wof:id":874075019,
+    "wof:lastmodified":1464311502,
+    "wof:name":"Wire Weasel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fiber",
+        "coax",
+        "optic",
+        "terminate",
+        "install",
+        "test",
+        "cable"
+    ]
+},
+  "bbox": [
+    -105.841358,
+    42.899831,
+    -105.841358,
+    42.899831
+],
+  "geometry": {"coordinates":[-105.841358,42.899831],"type":"Point"}
+}

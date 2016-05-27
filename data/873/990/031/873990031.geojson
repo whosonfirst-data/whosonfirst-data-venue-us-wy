@@ -1,0 +1,56 @@
+{
+  "id": 873990031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.037646,44.381112,-108.037646,44.381112",
+    "geom:latitude":44.381112,
+    "geom:longitude":-108.037646,
+    "iso:country":"US",
+    "sg:address":"105 S 3rd St",
+    "sg:city":"Basin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 568 2324",
+    "sg:postcode":"82410",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_658HPjZi62ePwVt4wvOqKF_44.381112_-108.037646@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310690,
+    "wof:geomhash":"22910f88552442f4eec9ab480adfa80a",
+    "wof:hierarchy":[],
+    "wof:id":873990031,
+    "wof:lastmodified":1464310690,
+    "wof:name":"Basin Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -108.037646,
+    44.381112,
+    -108.037646,
+    44.381112
+],
+  "geometry": {"coordinates":[-108.037646,44.381112],"type":"Point"}
+}

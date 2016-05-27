@@ -1,0 +1,56 @@
+{
+  "id": 874143143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.847184,44.664287,-103.847184,44.664287",
+    "geom:latitude":44.664287,
+    "geom:longitude":-103.847184,
+    "iso:country":"US",
+    "sg:address":"1211 9th Ave",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 4158",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e2sjWPGKDJdMj2EduU1Rx_44.664287_-103.847184@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312263,
+    "wof:geomhash":"726da91c9021db318ac71a57373dffed",
+    "wof:hierarchy":[],
+    "wof:id":874143143,
+    "wof:lastmodified":1464312263,
+    "wof:name":"Thomas Garage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -103.847184,
+    44.664287,
+    -103.847184,
+    44.664287
+],
+  "geometry": {"coordinates":[-103.847184,44.664287],"type":"Point"}
+}

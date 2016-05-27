@@ -1,0 +1,56 @@
+{
+  "id": 874040279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.459033,41.503335,-109.459033,41.503335",
+    "geom:latitude":41.503335,
+    "geom:longitude":-109.459033,
+    "iso:country":"US",
+    "sg:address":"905 Bridger Dr",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 6900",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N9PEjeu2CMwwtIZJQgcwu_41.503335_-109.459033@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311146,
+    "wof:geomhash":"ae68af91960025b51e9e0b4edd2b15aa",
+    "wof:hierarchy":[],
+    "wof:id":874040279,
+    "wof:lastmodified":1464311146,
+    "wof:name":"Smith's Food & Drug Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -109.459033,
+    41.503335,
+    -109.459033,
+    41.503335
+],
+  "geometry": {"coordinates":[-109.45903300000001,41.503335],"type":"Point"}
+}

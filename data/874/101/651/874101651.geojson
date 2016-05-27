@@ -1,0 +1,75 @@
+{
+  "id": 874101651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.319592,42.849373,-106.319592,42.849373",
+    "geom:latitude":42.849373,
+    "geom:longitude":-106.319592,
+    "iso:country":"US",
+    "sg:address":"138 S Kimball St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 7662",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "club",
+        "health",
+        "studio",
+        "gymnasium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pnYOU8vlYjTeYfXhGhwna_42.849373_-106.319592@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311814,
+    "wof:geomhash":"f57826172dc5c3a13c7824789ac92956",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874101651
+        }
+    ],
+    "wof:id":874101651,
+    "wof:lastmodified":1464311814,
+    "wof:name":"Absolute Fitness",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "health",
+        "studio",
+        "gymnasium"
+    ]
+},
+  "bbox": [
+    -106.319592,
+    42.849373,
+    -106.319592,
+    42.849373
+],
+  "geometry": {"coordinates":[-106.319592,42.849373],"type":"Point"}
+}

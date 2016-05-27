@@ -1,0 +1,58 @@
+{
+  "id": 874089833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.299929,41.326717,-110.299929,41.326717",
+    "geom:latitude":41.326717,
+    "geom:longitude":-110.299929,
+    "iso:country":"US",
+    "sg:address":"139 S Meadow St",
+    "sg:city":"Lyman",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 786 2584",
+    "sg:postcode":"82937",
+    "sg:province":"WY",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JjxfEUW0wfxAUAv6K1QB7_41.326717_-110.299929@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311658,
+    "wof:geomhash":"ed24e96c968c18ee8c7f4a190ab551a8",
+    "wof:hierarchy":[],
+    "wof:id":874089833,
+    "wof:lastmodified":1464311658,
+    "wof:name":"Gary's Trash Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -110.299929,
+    41.326717,
+    -110.299929,
+    41.326717
+],
+  "geometry": {"coordinates":[-110.29992900000001,41.326717],"type":"Point"}
+}

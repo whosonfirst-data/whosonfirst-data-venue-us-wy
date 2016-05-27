@@ -1,0 +1,71 @@
+{
+  "id": 874150277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.333518,42.844777,-106.333518,42.844777",
+    "geom:latitude":42.844777,
+    "geom:longitude":-106.333518,
+    "iso:country":"US",
+    "sg:address":"518 S Walnut St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0000",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CzbN5ncZ7dRB3z9qbIVcR_42.844777_-106.333518@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312331,
+    "wof:geomhash":"0f0bdc1f421ecabf7720b50545968950",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874150277
+        }
+    ],
+    "wof:id":874150277,
+    "wof:lastmodified":1464312331,
+    "wof:name":"American Plumbing & Heating",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.333518,
+    42.844777,
+    -106.333518,
+    42.844777
+],
+  "geometry": {"coordinates":[-106.333518,42.844777],"type":"Point"}
+}

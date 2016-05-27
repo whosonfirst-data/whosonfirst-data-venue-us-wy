@@ -1,0 +1,60 @@
+{
+  "id": 874112515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.948495,44.809838,-106.948495,44.809838",
+    "geom:latitude":44.809838,
+    "geom:longitude":-106.948495,
+    "iso:country":"US",
+    "sg:address":"1116 N Sheridan Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 9539",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "garbage",
+        "collection",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Rlcr5RzgrkC9zJPIgY77M_44.809838_-106.948495@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311963,
+    "wof:geomhash":"471da38227df24c9924d3af3309c8f63",
+    "wof:hierarchy":[],
+    "wof:id":874112515,
+    "wof:lastmodified":1464311963,
+    "wof:name":"Circle S Sanitation Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection",
+        "system"
+    ]
+},
+  "bbox": [
+    -106.948495,
+    44.809838,
+    -106.948495,
+    44.809838
+],
+  "geometry": {"coordinates":[-106.94849499999999,44.809838],"type":"Point"}
+}

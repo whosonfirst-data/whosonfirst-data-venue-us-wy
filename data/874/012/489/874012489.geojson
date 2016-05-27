@@ -1,0 +1,56 @@
+{
+  "id": 874012489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.745998,44.755587,-108.745998,44.755587",
+    "geom:latitude":44.755587,
+    "geom:longitude":-108.745998,
+    "iso:country":"US",
+    "sg:address":"907 E 3rd St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 4394",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jLziXtbdOSShg7f3bLi24_44.755587_-108.745998@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310872,
+    "wof:geomhash":"642fd2ac3ad7624dfcd9b6d00a62e3f1",
+    "wof:hierarchy":[],
+    "wof:id":874012489,
+    "wof:lastmodified":1464310872,
+    "wof:name":"Coffee Club",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -108.745998,
+    44.755587,
+    -108.745998,
+    44.755587
+],
+  "geometry": {"coordinates":[-108.745998,44.755587],"type":"Point"}
+}

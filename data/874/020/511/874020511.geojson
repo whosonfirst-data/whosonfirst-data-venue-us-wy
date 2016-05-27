@@ -1,0 +1,56 @@
+{
+  "id": 874020511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.38222,43.033914,-108.38222,43.033914",
+    "geom:latitude":43.033914,
+    "geom:longitude":-108.38222,
+    "iso:country":"US",
+    "sg:address":"757 E Sunset Dr",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 1888",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qadvUMfksbJAFTpu4EOJr_43.033914_-108.382220@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310953,
+    "wof:geomhash":"7e70d0fb4136e0eaed5e0833d60dac85",
+    "wof:hierarchy":[],
+    "wof:id":874020511,
+    "wof:lastmodified":1464310953,
+    "wof:name":"Hall's Appliance Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -108.38222,
+    43.033914,
+    -108.38222,
+    43.033914
+],
+  "geometry": {"coordinates":[-108.38222,43.033914],"type":"Point"}
+}

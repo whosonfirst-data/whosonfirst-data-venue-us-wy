@@ -1,0 +1,58 @@
+{
+  "id": 874132593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.111065,42.535729,-110.111065,42.535729",
+    "geom:latitude":42.535729,
+    "geom:longitude":-110.111065,
+    "iso:country":"US",
+    "sg:address":"311 S Mickelson St",
+    "sg:city":"Big Piney",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 276 3088",
+    "sg:postcode":"83113",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78j92wORSRdGdvieDpuGSv_42.535729_-110.111065@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312168,
+    "wof:geomhash":"7cb88a00453b1c7fc567e081aace83f2",
+    "wof:hierarchy":[],
+    "wof:id":874132593,
+    "wof:lastmodified":1464312168,
+    "wof:name":"B & B Tire",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -110.111065,
+    42.535729,
+    -110.111065,
+    42.535729
+],
+  "geometry": {"coordinates":[-110.111065,42.535729],"type":"Point"}
+}

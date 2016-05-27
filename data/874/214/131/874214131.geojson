@@ -1,0 +1,56 @@
+{
+  "id": 874214131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.064546,42.665637,-110.064546,42.665637",
+    "geom:latitude":42.665637,
+    "geom:longitude":-110.064546,
+    "iso:country":"US",
+    "sg:address":"23 Dunham Rd",
+    "sg:city":"Big Piney",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 276 5795",
+    "sg:postcode":"83113",
+    "sg:province":"WY",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3skbAE7zOno72WycNU8d5m_42.665637_-110.064546@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312996,
+    "wof:geomhash":"7fbf128d1356f4286a27418cb9ded698",
+    "wof:hierarchy":[],
+    "wof:id":874214131,
+    "wof:lastmodified":1464312996,
+    "wof:name":"LDI Welding",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -110.064546,
+    42.665637,
+    -110.064546,
+    42.665637
+],
+  "geometry": {"coordinates":[-110.06454600000001,42.665637],"type":"Point"}
+}

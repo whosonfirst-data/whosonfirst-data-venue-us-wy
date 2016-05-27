@@ -1,0 +1,64 @@
+{
+  "id": 874069257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.333165,42.859689,-106.333165,42.859689",
+    "geom:latitude":42.859689,
+    "geom:longitude":-106.333165,
+    "iso:country":"US",
+    "sg:address":"851 Werner Ct",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 9400",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GZBLx03NXFHoJOWgRJGUK_42.859689_-106.333165@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311425,
+    "wof:geomhash":"1e3aa31b7d78f47440c1f050d00cfed5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874069257
+        }
+    ],
+    "wof:id":874069257,
+    "wof:lastmodified":1464311425,
+    "wof:name":"Mutual Of Omaha Insurance Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.333165,
+    42.859689,
+    -106.333165,
+    42.859689
+],
+  "geometry": {"coordinates":[-106.33316499999999,42.859689],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874195615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590863,41.312611,-105.590863,41.312611",
+    "geom:latitude":41.312611,
+    "geom:longitude":-105.590863,
+    "iso:country":"US",
+    "sg:address":"112 S 5th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2153",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "rehab",
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gjIzozsZar25p7yPLxUyZ_41.312611_-105.590863@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312801,
+    "wof:geomhash":"8f43aff4e9efcc028108002815b22ddf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874195615
+        }
+    ],
+    "wof:id":874195615,
+    "wof:lastmodified":1464312801,
+    "wof:name":"Work Force Ctr",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehab",
+        "government"
+    ]
+},
+  "bbox": [
+    -105.590863,
+    41.312611,
+    -105.590863,
+    41.312611
+],
+  "geometry": {"coordinates":[-105.590863,41.312611],"type":"Point"}
+}

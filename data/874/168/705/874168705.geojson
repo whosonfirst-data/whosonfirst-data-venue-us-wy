@@ -1,0 +1,56 @@
+{
+  "id": 874168705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.755517,43.479559,-110.755517,43.479559",
+    "geom:latitude":43.479559,
+    "geom:longitude":-110.755517,
+    "iso:country":"US",
+    "sg:address":"350 E Broadway",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 8300",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fvChBWCuPEq68R8VkHfkL_43.479559_-110.755517@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312515,
+    "wof:geomhash":"999025255a6c82b933841392c4b32b25",
+    "wof:hierarchy":[],
+    "wof:id":874168705,
+    "wof:lastmodified":1464312515,
+    "wof:name":"Meyer & Williams",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -110.755517,
+    43.479559,
+    -110.755517,
+    43.479559
+],
+  "geometry": {"coordinates":[-110.755517,43.479559],"type":"Point"}
+}

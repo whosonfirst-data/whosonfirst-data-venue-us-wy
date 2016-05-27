@@ -1,0 +1,56 @@
+{
+  "id": 874169429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.065979,44.525713,-109.065979,44.525713",
+    "geom:latitude":44.525713,
+    "geom:longitude":-109.065979,
+    "iso:country":"US",
+    "sg:address":"1131 11th St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 8710",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RE4SmKNX89M9ov7hVe8vz_44.525713_-109.065979@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312521,
+    "wof:geomhash":"e9a5618ad3c692739107ec7aa0901f97",
+    "wof:hierarchy":[],
+    "wof:id":874169429,
+    "wof:lastmodified":1464312521,
+    "wof:name":"Park County Sheriff Adm",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -109.065979,
+    44.525713,
+    -109.065979,
+    44.525713
+],
+  "geometry": {"coordinates":[-109.065979,44.525713],"type":"Point"}
+}

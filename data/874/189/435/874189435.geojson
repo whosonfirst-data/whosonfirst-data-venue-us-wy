@@ -1,0 +1,73 @@
+{
+  "id": 874189435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.561537,41.300019,-105.561537,41.300019",
+    "geom:latitude":41.300019,
+    "geom:longitude":-105.561537,
+    "iso:country":"US",
+    "sg:address":"1436 S Ashley St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 9260",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GQjitJQ0MUWtAF0kJ4Vz0_41.300019_-105.561537@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312735,
+    "wof:geomhash":"5d1c34528b766dece17f08f830642301",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874189435
+        }
+    ],
+    "wof:id":874189435,
+    "wof:lastmodified":1464312735,
+    "wof:name":"Kepler Family Farm Partnership",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -105.561537,
+    41.300019,
+    -105.561537,
+    41.300019
+],
+  "geometry": {"coordinates":[-105.561537,41.300019],"type":"Point"}
+}

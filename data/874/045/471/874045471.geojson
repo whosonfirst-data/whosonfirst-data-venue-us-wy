@@ -1,0 +1,58 @@
+{
+  "id": 874045471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.754843,41.123592,-104.754843,41.123592",
+    "geom:latitude":41.123592,
+    "geom:longitude":-104.754843,
+    "iso:country":"US",
+    "sg:address":"4221 S Industrial Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 9388",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CGowdU4KoBSgu5WFTKLwQ_41.123592_-104.754843@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311201,
+    "wof:geomhash":"8f2796e42cdb784c45e088ab6c2da40e",
+    "wof:hierarchy":[],
+    "wof:id":874045471,
+    "wof:lastmodified":1464311201,
+    "wof:name":"Cheyenne Truck Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -104.754843,
+    41.123592,
+    -104.754843,
+    41.123592
+],
+  "geometry": {"coordinates":[-104.75484299999999,41.123592],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874176563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.574256,41.309925,-105.574256,41.309925",
+    "geom:latitude":41.309925,
+    "geom:longitude":-105.574256,
+    "iso:country":"US",
+    "sg:address":"310 S 17th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4747",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nAJetyyAQs0ykrO1MfZvh_41.309925_-105.574256@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312592,
+    "wof:geomhash":"38a3d0af1642c641c6402f46ecabe764",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874176563
+        }
+    ],
+    "wof:id":874176563,
+    "wof:lastmodified":1464312592,
+    "wof:name":"Rainbow Groceries",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.574256,
+    41.309925,
+    -105.574256,
+    41.309925
+],
+  "geometry": {"coordinates":[-105.57425600000001,41.309925],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874083815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.274231,42.847591,-106.274231,42.847591",
+    "geom:latitude":42.847591,
+    "geom:longitude":-106.274231,
+    "iso:country":"US",
+    "sg:address":"319 Thelma Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 1253",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RVR4tTEbLvs1TPNjNTwvV_42.847591_-106.274231@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311597,
+    "wof:geomhash":"5d29b7bccd6bbd27134d13afc383e9fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874083815
+        }
+    ],
+    "wof:id":874083815,
+    "wof:lastmodified":1464311597,
+    "wof:name":"Countrywide Home Loans",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -106.274231,
+    42.847591,
+    -106.274231,
+    42.847591
+],
+  "geometry": {"coordinates":[-106.274231,42.847591],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874046787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.340185,42.853983,-106.340185,42.853983",
+    "geom:latitude":42.853983,
+    "geom:longitude":-106.340185,
+    "iso:country":"US",
+    "sg:address":"544 Circle Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2283",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01kuK1kKpD0eaC1xZFVyVx_42.853983_-106.340185@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311213,
+    "wof:geomhash":"ae25db9c920041b415e414ecf7c9be35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874046787
+        }
+    ],
+    "wof:id":874046787,
+    "wof:lastmodified":1464311213,
+    "wof:name":"L C Bishop Sales",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -106.340185,
+    42.853983,
+    -106.340185,
+    42.853983
+],
+  "geometry": {"coordinates":[-106.34018500000001,42.853983],"type":"Point"}
+}

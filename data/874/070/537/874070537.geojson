@@ -1,0 +1,77 @@
+{
+  "id": 874070537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594294,41.304388,-105.594294,41.304388",
+    "geom:latitude":41.304388,
+    "geom:longitude":-105.594294,
+    "iso:country":"US",
+    "sg:address":"1005 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2994",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "antique",
+        "shop",
+        "pawnbroker",
+        "pawn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M7ebmp6QLQJKynSQa8dmt_41.304388_-105.594294@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311436,
+    "wof:geomhash":"0c1c8c0c3864b00f45f26c80b1b55b7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874070537
+        }
+    ],
+    "wof:id":874070537,
+    "wof:lastmodified":1464311436,
+    "wof:name":"Ann's Pawns & Antiques",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique",
+        "shop",
+        "pawnbroker",
+        "pawn"
+    ]
+},
+  "bbox": [
+    -105.594294,
+    41.304388,
+    -105.594294,
+    41.304388
+],
+  "geometry": {"coordinates":[-105.594294,41.304388],"type":"Point"}
+}

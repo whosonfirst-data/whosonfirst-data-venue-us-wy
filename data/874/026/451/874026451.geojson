@@ -1,0 +1,69 @@
+{
+  "id": 874026451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.291585,42.835797,-106.291585,42.835797",
+    "geom:latitude":42.835797,
+    "geom:longitude":-106.291585,
+    "iso:country":"US",
+    "sg:address":"1431 S Illinois Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 6563",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NzkSBuqZyIkUmFZmQpnAK_42.835797_-106.291585@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311011,
+    "wof:geomhash":"248c91c7b217fdb618015e85782efafc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874026451
+        }
+    ],
+    "wof:id":874026451,
+    "wof:lastmodified":1464311011,
+    "wof:name":"Mountain Tool & Supply Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -106.291585,
+    42.835797,
+    -106.291585,
+    42.835797
+],
+  "geometry": {"coordinates":[-106.291585,42.835797],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874205647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.311205,42.835419,-106.311205,42.835419",
+    "geom:latitude":42.835419,
+    "geom:longitude":-106.311205,
+    "iso:country":"US",
+    "sg:address":"1336 S Jackson St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 5618",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ISf7O3g535wn02dh9zRd2_42.835419_-106.311205@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312901,
+    "wof:geomhash":"ba940f72538a40c413560cef8e4bf41c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874205647
+        }
+    ],
+    "wof:id":874205647,
+    "wof:lastmodified":1464312901,
+    "wof:name":"Suzi Q Dry Wall",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.311205,
+    42.835419,
+    -106.311205,
+    42.835419
+],
+  "geometry": {"coordinates":[-106.311205,42.835419],"type":"Point"}
+}

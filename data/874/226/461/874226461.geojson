@@ -1,0 +1,67 @@
+{
+  "id": 874226461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.55349,42.81724,-106.55349,42.81724",
+    "geom:latitude":42.81724,
+    "geom:longitude":-106.55349,
+    "iso:country":"US",
+    "sg:address":"3700 Twelve Mile Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4003",
+    "sg:postcode":"82644",
+    "sg:province":"WY",
+    "sg:tags":[
+        "farm",
+        "field",
+        "crop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GkS0lvdsm8GuvA5ilhLnH_42.817240_-106.553490@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313126,
+    "wof:geomhash":"08622965e8b0b8b75c937db6ecfcb57e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874226461
+        }
+    ],
+    "wof:id":874226461,
+    "wof:lastmodified":1464313126,
+    "wof:name":"Kossert Brothers Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "field",
+        "crop"
+    ]
+},
+  "bbox": [
+    -106.55349,
+    42.81724,
+    -106.55349,
+    42.81724
+],
+  "geometry": {"coordinates":[-106.55349,42.81724],"type":"Point"}
+}

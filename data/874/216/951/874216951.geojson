@@ -1,0 +1,58 @@
+{
+  "id": 874216951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.381904,43.024588,-108.381904,43.024588",
+    "geom:latitude":43.024588,
+    "geom:longitude":-108.381904,
+    "iso:country":"US",
+    "sg:address":"711 E Main St",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 2284",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "rescue",
+        "fighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h7xde71uQS1slqQoOhUCz_43.024588_-108.381904@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313022,
+    "wof:geomhash":"a048187e1b29ce3fedad89511d0aad4c",
+    "wof:hierarchy":[],
+    "wof:id":874216951,
+    "wof:lastmodified":1464313022,
+    "wof:name":"Riverton Fire Protection Dst",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rescue",
+        "fighting"
+    ]
+},
+  "bbox": [
+    -108.381904,
+    43.024588,
+    -108.381904,
+    43.024588
+],
+  "geometry": {"coordinates":[-108.38190400000001,43.024588],"type":"Point"}
+}

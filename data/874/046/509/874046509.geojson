@@ -1,0 +1,68 @@
+{
+  "id": 874046509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.182998,42.065034,-104.182998,42.065034",
+    "geom:latitude":42.065034,
+    "geom:longitude":-104.182998,
+    "iso:country":"US",
+    "sg:address":"2001 E A St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 3411",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101733937,
+        102080733,
+        85850153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SUqmzFqQgKJmF08RbQerc_42.065034_-104.182998@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311211,
+    "wof:geomhash":"9afdfb3d9131372e344d5e3cc8905a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080733,
+            "locality_id":101733937,
+            "neighbourhood_id":85850153,
+            "region_id":85688475,
+            "venue_id":874046509
+        }
+    ],
+    "wof:id":874046509,
+    "wof:lastmodified":1464311211,
+    "wof:name":"Goshen County of Library",
+    "wof:parent_id":85850153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.182998,
+    42.065034,
+    -104.182998,
+    42.065034
+],
+  "geometry": {"coordinates":[-104.182998,42.065034],"type":"Point"}
+}

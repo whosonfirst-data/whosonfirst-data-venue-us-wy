@@ -1,0 +1,63 @@
+{
+  "id": 874179725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.761321,43.480846,-110.761321,43.480846",
+    "geom:latitude":43.480846,
+    "geom:longitude":-110.761321,
+    "iso:country":"US",
+    "sg:address":"165 Center St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 4655",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wooden",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NIgkGkJfeN5uI50AFsdYz_43.480846_-110.761321@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312627,
+    "wof:geomhash":"41e0975cc16f9ff9b7539fbb30cfa0f0",
+    "wof:hierarchy":[],
+    "wof:id":874179725,
+    "wof:lastmodified":1464312627,
+    "wof:name":"Elkhorn Designs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wooden",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -110.761321,
+    43.480846,
+    -110.761321,
+    43.480846
+],
+  "geometry": {"coordinates":[-110.761321,43.480846],"type":"Point"}
+}

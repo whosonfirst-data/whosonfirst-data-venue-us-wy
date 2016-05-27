@@ -1,0 +1,79 @@
+{
+  "id": 874046923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590237,41.293657,-105.590237,41.293657",
+    "geom:latitude":41.293657,
+    "geom:longitude":-105.590237,
+    "iso:country":"US",
+    "sg:address":"745 E Plaza Ct",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6905",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "home",
+        "general",
+        "family",
+        "re",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vw6SXFXkLopMp0hxelwXh_41.293657_-105.590237@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311214,
+    "wof:geomhash":"aa936bd58778e89cbe3926c1ac4f7473",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874046923
+        }
+    ],
+    "wof:id":874046923,
+    "wof:lastmodified":1464311214,
+    "wof:name":"Prairie Homes Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "general",
+        "family",
+        "re",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.590237,
+    41.293657,
+    -105.590237,
+    41.293657
+],
+  "geometry": {"coordinates":[-105.590237,41.293657],"type":"Point"}
+}

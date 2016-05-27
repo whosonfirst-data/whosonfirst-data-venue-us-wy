@@ -1,0 +1,51 @@
+{
+  "id": 874204531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.750337,43.479616,-110.750337,43.479616",
+    "geom:latitude":43.479616,
+    "geom:longitude":-110.750337,
+    "iso:country":"US",
+    "sg:address":"582 E Broadway",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 1181",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lKY5ywuQFMltGkQiCgQZL_43.479616_-110.750337@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312889,
+    "wof:geomhash":"13a40725cdfa909fe1a4dcd060de6598",
+    "wof:hierarchy":[],
+    "wof:id":874204531,
+    "wof:lastmodified":1464312889,
+    "wof:name":"Bud's Eastside Liquor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.750337,
+    43.479616,
+    -110.750337,
+    43.479616
+],
+  "geometry": {"coordinates":[-110.750337,43.479616],"type":"Point"}
+}

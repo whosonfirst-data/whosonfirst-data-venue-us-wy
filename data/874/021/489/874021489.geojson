@@ -1,0 +1,69 @@
+{
+  "id": 874021489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.422442,42.822695,-106.422442,42.822695",
+    "geom:latitude":42.822695,
+    "geom:longitude":-106.422442,
+    "iso:country":"US",
+    "sg:address":"6616 Village Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 262 1455",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hkRSjI8PY2J0P9BR7tI2u_42.822695_-106.422442@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310960,
+    "wof:geomhash":"d5c7edfde64dc927083c541ffc82fc99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874021489
+        }
+    ],
+    "wof:id":874021489,
+    "wof:lastmodified":1464310960,
+    "wof:name":"Sprinkler Guy Casper",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.422442,
+    42.822695,
+    -106.422442,
+    42.822695
+],
+  "geometry": {"coordinates":[-106.422442,42.822695],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874091117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.27078,42.86192,-106.27078,42.86192",
+    "geom:latitude":42.86192,
+    "geom:longitude":-106.27078,
+    "iso:country":"US",
+    "sg:address":"740 Curtis St",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 232 8403",
+    "sg:postcode":"82636",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Mcd308lZpIK5nhQ6BAJII_42.861920_-106.270780@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311676,
+    "wof:geomhash":"6119d88525b420f0ea56fec63051a2e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874091117
+        }
+    ],
+    "wof:id":874091117,
+    "wof:lastmodified":1464311676,
+    "wof:name":"First Bank",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.27078,
+    42.86192,
+    -106.27078,
+    42.86192
+],
+  "geometry": {"coordinates":[-106.27078,42.86192],"type":"Point"}
+}

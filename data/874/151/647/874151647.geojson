@@ -1,0 +1,58 @@
+{
+  "id": 874151647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.792843,41.138516,-104.792843,41.138516",
+    "geom:latitude":41.138516,
+    "geom:longitude":-104.792843,
+    "iso:country":"US",
+    "sg:address":"2016 E Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 3538",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BNkSnLIhhzTE9Ytz0dTwl_41.138516_-104.792843@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312343,
+    "wof:geomhash":"4522d6b25c067991efcfca5f7d8de4ca",
+    "wof:hierarchy":[],
+    "wof:id":874151647,
+    "wof:lastmodified":1464312343,
+    "wof:name":"Buck's Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -104.792843,
+    41.138516,
+    -104.792843,
+    41.138516
+],
+  "geometry": {"coordinates":[-104.792843,41.138516],"type":"Point"}
+}

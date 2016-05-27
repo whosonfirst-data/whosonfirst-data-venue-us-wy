@@ -1,0 +1,73 @@
+{
+  "id": 874025949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.533477,41.301299,-105.533477,41.301299",
+    "geom:latitude":41.301299,
+    "geom:longitude":-105.533477,
+    "iso:country":"US",
+    "sg:address":"1610 Arabian Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 1984",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tu7pK4rFRbTwlAF2GQN3Q_41.301299_-105.533477@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311006,
+    "wof:geomhash":"278ed49959c8306d0b39e0d53439798f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874025949
+        }
+    ],
+    "wof:id":874025949,
+    "wof:lastmodified":1464311006,
+    "wof:name":"S Johnson Construction",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.533477,
+    41.301299,
+    -105.533477,
+    41.301299
+],
+  "geometry": {"coordinates":[-105.533477,41.301299],"type":"Point"}
+}

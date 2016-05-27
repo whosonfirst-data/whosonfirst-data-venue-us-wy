@@ -1,0 +1,77 @@
+{
+  "id": 874155533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591021,41.309789,-105.591021,41.309789",
+    "geom:latitude":41.309789,
+    "geom:longitude":-105.591021,
+    "iso:country":"US",
+    "sg:address":"415 S 5th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 9000",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "development",
+        "gas",
+        "oil",
+        "exploration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Rs8GUMVqfVfSrfLIDXxeZ_41.309789_-105.591021@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312383,
+    "wof:geomhash":"fc70b4922d41728a16af08243b57f250",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874155533
+        }
+    ],
+    "wof:id":874155533,
+    "wof:lastmodified":1464312383,
+    "wof:name":"Timberline Energy Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "gas",
+        "oil",
+        "exploration"
+    ]
+},
+  "bbox": [
+    -105.591021,
+    41.309789,
+    -105.591021,
+    41.309789
+],
+  "geometry": {"coordinates":[-105.591021,41.309789],"type":"Point"}
+}

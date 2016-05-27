@@ -1,0 +1,60 @@
+{
+  "id": 873984821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.81739,41.055262,-104.81739,41.055262",
+    "geom:latitude":41.055262,
+    "geom:longitude":-104.81739,
+    "iso:country":"US",
+    "sg:address":"1111 Crescent Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 432 0887",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MFfKdnyR0flrBSSkOA3xs_41.055262_-104.817390@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310649,
+    "wof:geomhash":"9ba2db6a521bac4994622d1830b46370",
+    "wof:hierarchy":[],
+    "wof:id":873984821,
+    "wof:lastmodified":1464310649,
+    "wof:name":"Haas Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -104.81739,
+    41.055262,
+    -104.81739,
+    41.055262
+],
+  "geometry": {"coordinates":[-104.81739,41.055262],"type":"Point"}
+}

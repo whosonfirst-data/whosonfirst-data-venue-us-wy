@@ -1,0 +1,58 @@
+{
+  "id": 874188807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.231009,41.584679,-109.231009,41.584679",
+    "geom:latitude":41.584679,
+    "geom:longitude":-109.231009,
+    "iso:country":"US",
+    "sg:address":"1204 Hilltop Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 0024",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CRpfuuzRYBlwR0DGZMonN_41.584679_-109.231009@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312729,
+    "wof:geomhash":"7681c34e8e00994e7d18f500841fe123",
+    "wof:hierarchy":[],
+    "wof:id":874188807,
+    "wof:lastmodified":1464312729,
+    "wof:name":"Mark S Lea MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -109.231009,
+    41.584679,
+    -109.231009,
+    41.584679
+],
+  "geometry": {"coordinates":[-109.231009,41.584679],"type":"Point"}
+}

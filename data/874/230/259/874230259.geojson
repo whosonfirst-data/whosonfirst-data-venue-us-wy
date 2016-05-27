@@ -1,0 +1,57 @@
+{
+  "id": 874230259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.957458,41.262924,-110.957458,41.262924",
+    "geom:latitude":41.262924,
+    "geom:longitude":-110.957458,
+    "iso:country":"US",
+    "sg:address":"205 Front St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/evanston/118382-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 2035",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GjsHZSxgakiNp7ZUkQv4F_41.262924_-110.957458@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313162,
+    "wof:geomhash":"aceb0bbad3e8d502472095438e2f4153",
+    "wof:hierarchy":[],
+    "wof:id":874230259,
+    "wof:lastmodified":1464313162,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -110.957458,
+    41.262924,
+    -110.957458,
+    41.262924
+],
+  "geometry": {"coordinates":[-110.957458,41.262924],"type":"Point"}
+}

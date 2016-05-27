@@ -1,0 +1,58 @@
+{
+  "id": 874205007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.772661,41.191432,-104.772661,41.191432",
+    "geom:latitude":41.191432,
+    "geom:longitude":-104.772661,
+    "iso:country":"US",
+    "sg:address":"8011 Jack Rabbit Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 7122",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bcTkAI2aUrVi6v38NRcbV_41.191432_-104.772661@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312895,
+    "wof:geomhash":"c40e2af60a33ad8110de373e181a51ce",
+    "wof:hierarchy":[],
+    "wof:id":874205007,
+    "wof:lastmodified":1464312895,
+    "wof:name":"Western Behavioral Consulting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -104.772661,
+    41.191432,
+    -104.772661,
+    41.191432
+],
+  "geometry": {"coordinates":[-104.772661,41.191432],"type":"Point"}
+}

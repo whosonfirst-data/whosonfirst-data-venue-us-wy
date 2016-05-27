@@ -1,0 +1,62 @@
+{
+  "id": 874197681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.03609,43.15641,-111.03609,43.15641",
+    "geom:latitude":43.15641,
+    "geom:longitude":-111.03609,
+    "iso:country":"US",
+    "sg:address":"65 US Hwy 89",
+    "sg:city":"Alpine",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 654 3837",
+    "sg:postcode":"83128",
+    "sg:province":"WY",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TcGn94ZuIJCMJGE6Hv3fW_43.156410_-111.036090@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312822,
+    "wof:geomhash":"09580811ffdfd09c3d22bf6d5e481554",
+    "wof:hierarchy":[],
+    "wof:id":874197681,
+    "wof:lastmodified":1464312822,
+    "wof:name":"Alpine Video",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -111.03609,
+    43.15641,
+    -111.03609,
+    43.15641
+],
+  "geometry": {"coordinates":[-111.03609,43.15641],"type":"Point"}
+}

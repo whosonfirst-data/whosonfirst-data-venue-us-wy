@@ -1,0 +1,69 @@
+{
+  "id": 874018437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.366338,42.830631,-106.366338,42.830631",
+    "geom:latitude":42.830631,
+    "geom:longitude":-106.366338,
+    "iso:country":"US",
+    "sg:address":"1600 SW Wyoming Blvd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 8359",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SbRwWYzfWqn9Vh2T9OwQ8_42.830631_-106.366338@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310931,
+    "wof:geomhash":"2e0319570f40af69cb0e8c8c06e5e486",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874018437
+        }
+    ],
+    "wof:id":874018437,
+    "wof:lastmodified":1464310931,
+    "wof:name":"Water Maintenance Garage",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -106.366338,
+    42.830631,
+    -106.366338,
+    42.830631
+],
+  "geometry": {"coordinates":[-106.366338,42.830631],"type":"Point"}
+}

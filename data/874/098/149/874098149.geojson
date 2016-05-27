@@ -1,0 +1,71 @@
+{
+  "id": 874098149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.589515,41.325242,-105.589515,41.325242",
+    "geom:latitude":41.325242,
+    "geom:longitude":-105.589515,
+    "iso:country":"US",
+    "sg:address":"1472 N 5th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2675",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CJ0Ar0k2RdU2gMvSHFJDl_41.325242_-105.589515@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311758,
+    "wof:geomhash":"813d4b708238b54276784143f7248e35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874098149
+        }
+    ],
+    "wof:id":874098149,
+    "wof:lastmodified":1464311758,
+    "wof:name":"EAI Corp",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -105.589515,
+    41.325242,
+    -105.589515,
+    41.325242
+],
+  "geometry": {"coordinates":[-105.58951500000001,41.325242],"type":"Point"}
+}

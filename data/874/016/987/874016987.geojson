@@ -1,0 +1,64 @@
+{
+  "id": 874016987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.315227,42.833726,-106.315227,42.833726",
+    "geom:latitude":42.833726,
+    "geom:longitude":-106.315227,
+    "iso:country":"US",
+    "sg:address":"1636 S Mitchell St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1624",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QtMCMfnDCwYgb2QVECflV_42.833726_-106.315227@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310912,
+    "wof:geomhash":"047dd45da2be32478c103d27fdc10773",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874016987
+        }
+    ],
+    "wof:id":874016987,
+    "wof:lastmodified":1464310912,
+    "wof:name":"Forsythe Surveying",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.315227,
+    42.833726,
+    -106.315227,
+    42.833726
+],
+  "geometry": {"coordinates":[-106.31522699999999,42.833726],"type":"Point"}
+}

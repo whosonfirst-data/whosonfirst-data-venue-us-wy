@@ -1,0 +1,56 @@
+{
+  "id": 874076623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.218592,41.591016,-109.218592,41.591016",
+    "geom:latitude":41.591016,
+    "geom:longitude":-109.218592,
+    "iso:country":"US",
+    "sg:address":"207 M St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 3100",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LgBWnZiViTXVU4XD2yqGo_41.591016_-109.218592@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311516,
+    "wof:geomhash":"75cbcc75f68743a22494af2faa8b0dbc",
+    "wof:hierarchy":[],
+    "wof:id":874076623,
+    "wof:lastmodified":1464311516,
+    "wof:name":"Dave's Appliance Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -109.218592,
+    41.591016,
+    -109.218592,
+    41.591016
+],
+  "geometry": {"coordinates":[-109.218592,41.591016],"type":"Point"}
+}

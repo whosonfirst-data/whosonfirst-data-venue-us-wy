@@ -1,0 +1,56 @@
+{
+  "id": 874016857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.456788,44.292659,-105.456788,44.292659",
+    "geom:latitude":44.292659,
+    "geom:longitude":-105.456788,
+    "iso:country":"US",
+    "sg:address":"3201 E 2nd St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 2313",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UZBDArKzty6b5HHknBO5f_44.292659_-105.456788@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310906,
+    "wof:geomhash":"76adb5285f58654fe161cfd2d1f66e8f",
+    "wof:hierarchy":[],
+    "wof:id":874016857,
+    "wof:lastmodified":1464310906,
+    "wof:name":"Pioneer Cleaning-Ne Wyoming",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -105.456788,
+    44.292659,
+    -105.456788,
+    44.292659
+],
+  "geometry": {"coordinates":[-105.456788,44.292659],"type":"Point"}
+}

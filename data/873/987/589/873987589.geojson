@@ -1,0 +1,64 @@
+{
+  "id": 873987589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323835,42.849223,-106.323835,42.849223",
+    "geom:latitude":42.849223,
+    "geom:longitude":-106.323835,
+    "iso:country":"US",
+    "sg:address":"136 S Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 5850",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hihjYAIOypyGHGn5fmrGb_42.849223_-106.323835@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310672,
+    "wof:geomhash":"7f37add5514e820c98a6ead58d90bbeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873987589
+        }
+    ],
+    "wof:id":873987589,
+    "wof:lastmodified":1464310672,
+    "wof:name":"Ioof Lodge",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.323835,
+    42.849223,
+    -106.323835,
+    42.849223
+],
+  "geometry": {"coordinates":[-106.323835,42.849223],"type":"Point"}
+}

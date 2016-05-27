@@ -1,0 +1,67 @@
+{
+  "id": 874121243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.675789,44.349058,-106.675789,44.349058",
+    "geom:latitude":44.349058,
+    "geom:longitude":-106.675789,
+    "iso:country":"US",
+    "sg:address":"149 Stockyard Rd",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 9010",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "industry",
+        "village",
+        "mac",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kP2Gsm44JiVtIrSnhQwU8_44.349058_-106.675789@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312052,
+    "wof:geomhash":"fd861ba83dfb5637615c3296df475ac7",
+    "wof:hierarchy":[],
+    "wof:id":874121243,
+    "wof:lastmodified":1464312052,
+    "wof:name":"Buffalo City Waste Water Plant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "village",
+        "mac",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -106.675789,
+    44.349058,
+    -106.675789,
+    44.349058
+],
+  "geometry": {"coordinates":[-106.67578899999999,44.349058],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874180951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.218673,43.851129,-104.218673,43.851129",
+    "geom:latitude":43.851129,
+    "geom:longitude":-104.218673,
+    "iso:country":"US",
+    "sg:address":"1070 W Main St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 2656",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eIStPhE6jzA3PIIr1zhiu_43.851129_-104.218673@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312639,
+    "wof:geomhash":"9347d8726156136ac6f5287185295d62",
+    "wof:hierarchy":[],
+    "wof:id":874180951,
+    "wof:lastmodified":1464312639,
+    "wof:name":"Aulick Leasing Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -104.218673,
+    43.851129,
+    -104.218673,
+    43.851129
+],
+  "geometry": {"coordinates":[-104.218673,43.851129],"type":"Point"}
+}

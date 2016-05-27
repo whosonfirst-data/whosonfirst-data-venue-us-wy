@@ -1,0 +1,73 @@
+{
+  "id": 874221415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.616893,41.308919,-105.616893,41.308919",
+    "geom:latitude":41.308919,
+    "geom:longitude":-105.616893,
+    "iso:country":"US",
+    "sg:address":"1560 Snowy Range Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 6698",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "siding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qAWPuSNU66zvBvwokgtSz_41.308919_-105.616893@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313078,
+    "wof:geomhash":"d5d64183ce0e8ea10d4a97dcdef8e83b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874221415
+        }
+    ],
+    "wof:id":874221415,
+    "wof:lastmodified":1464313078,
+    "wof:name":"Building Specialties",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "siding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.616893,
+    41.308919,
+    -105.616893,
+    41.308919
+],
+  "geometry": {"coordinates":[-105.616893,41.308919],"type":"Point"}
+}

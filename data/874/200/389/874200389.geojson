@@ -1,0 +1,56 @@
+{
+  "id": 874200389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.390349,44.825893,-108.390349,44.825893",
+    "geom:latitude":44.825893,
+    "geom:longitude":-108.390349,
+    "iso:country":"US",
+    "sg:address":"1115 Ln 12",
+    "sg:city":"Lovell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 548 2771",
+    "sg:postcode":"82431",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TEOzoCTu5MrENcvEZb8kC_44.825893_-108.390349@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312847,
+    "wof:geomhash":"a06bed896687447dc355b9d4a4b11a45",
+    "wof:hierarchy":[],
+    "wof:id":874200389,
+    "wof:lastmodified":1464312847,
+    "wof:name":"Debra Weinberger MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -108.390349,
+    44.825893,
+    -108.390349,
+    44.825893
+],
+  "geometry": {"coordinates":[-108.390349,44.825893],"type":"Point"}
+}

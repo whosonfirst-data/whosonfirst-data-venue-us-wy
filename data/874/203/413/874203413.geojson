@@ -1,0 +1,69 @@
+{
+  "id": 874203413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.310199,42.826135,-106.310199,42.826135",
+    "geom:latitude":42.826135,
+    "geom:longitude":-106.310199,
+    "iso:country":"US",
+    "sg:address":"2235 S Washington St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7304",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Dc2Nr2jAffqCMhGk2ll3w_42.826135_-106.310199@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312878,
+    "wof:geomhash":"7013a6b2200160a69762ff4bf0800715",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874203413
+        }
+    ],
+    "wof:id":874203413,
+    "wof:lastmodified":1464312878,
+    "wof:name":"Dels Alignment Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -106.310199,
+    42.826135,
+    -106.310199,
+    42.826135
+],
+  "geometry": {"coordinates":[-106.310199,42.826135],"type":"Point"}
+}

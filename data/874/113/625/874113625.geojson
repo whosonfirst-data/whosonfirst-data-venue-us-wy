@@ -1,0 +1,69 @@
+{
+  "id": 874113625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.30263,42.837039,-106.30263,42.837039",
+    "geom:latitude":42.837039,
+    "geom:longitude":-106.30263,
+    "iso:country":"US",
+    "sg:address":"1201 S Elk St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3890",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UGu5iCKT6jm5b7BbKdY8D_42.837039_-106.302630@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311973,
+    "wof:geomhash":"cbd99579ff91e1cc1ec76068fd2bb0ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874113625
+        }
+    ],
+    "wof:id":874113625,
+    "wof:lastmodified":1464311973,
+    "wof:name":"Paul A Dona DDS Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -106.30263,
+    42.837039,
+    -106.30263,
+    42.837039
+],
+  "geometry": {"coordinates":[-106.30262999999999,42.837039],"type":"Point"}
+}

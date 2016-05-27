@@ -1,0 +1,60 @@
+{
+  "id": 873999831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.806216,41.455499,-106.806216,41.455499",
+    "geom:latitude":41.455499,
+    "geom:longitude":-106.806216,
+    "iso:country":"US",
+    "sg:address":"108 N River St",
+    "sg:city":"Saratoga",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 326 8277",
+    "sg:postcode":"82331",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5auuX5FsEI2p915UByo2hG_41.455499_-106.806216@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310759,
+    "wof:geomhash":"678456bcb99444ff417e63ae77b64f81",
+    "wof:hierarchy":[],
+    "wof:id":873999831,
+    "wof:lastmodified":1464310759,
+    "wof:name":"Saratoga Piano Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -106.806216,
+    41.455499,
+    -106.806216,
+    41.455499
+],
+  "geometry": {"coordinates":[-106.80621600000001,41.455499],"type":"Point"}
+}

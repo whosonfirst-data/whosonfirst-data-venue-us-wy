@@ -1,0 +1,56 @@
+{
+  "id": 874094263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.469128,41.517117,-109.469128,41.517117",
+    "geom:latitude":41.517117,
+    "geom:longitude":-109.469128,
+    "iso:country":"US",
+    "sg:address":"175 River View Dr",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 4378",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EYZmyuPkbvqYHrSTxqE32_41.517117_-109.469128@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311706,
+    "wof:geomhash":"24efecad14846ba58fd38110c922b3a2",
+    "wof:hierarchy":[],
+    "wof:id":874094263,
+    "wof:lastmodified":1464311706,
+    "wof:name":"Allstate",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -109.469128,
+    41.517117,
+    -109.469128,
+    41.517117
+],
+  "geometry": {"coordinates":[-109.469128,41.517117],"type":"Point"}
+}

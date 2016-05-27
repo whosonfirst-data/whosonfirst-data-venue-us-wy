@@ -1,0 +1,71 @@
+{
+  "id": 874177061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.385923,42.830223,-106.385923,42.830223",
+    "geom:latitude":42.830223,
+    "geom:longitude":-106.385923,
+    "iso:country":"US",
+    "sg:address":"2025 Saber Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1039",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plant",
+        "packing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QWa9EbWstErdA6peluLx7_42.830223_-106.385923@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312597,
+    "wof:geomhash":"35c28e8ae5ffd56402295c690065be3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874177061
+        }
+    ],
+    "wof:id":874177061,
+    "wof:lastmodified":1464312597,
+    "wof:name":"Aristocrat Catering",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "packing"
+    ]
+},
+  "bbox": [
+    -106.385923,
+    42.830223,
+    -106.385923,
+    42.830223
+],
+  "geometry": {"coordinates":[-106.38592300000001,42.830223],"type":"Point"}
+}

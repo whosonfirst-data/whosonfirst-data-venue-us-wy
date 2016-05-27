@@ -1,0 +1,58 @@
+{
+  "id": 874212445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.81081,41.134434,-104.81081,41.134434",
+    "geom:latitude":41.134434,
+    "geom:longitude":-104.81081,
+    "iso:country":"US",
+    "sg:address":"300 E 16th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 1247",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ixv1gIx0PUUhCg3Gs6UZY_41.134434_-104.810810@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312978,
+    "wof:geomhash":"53a4eb8465bb87a3759ddbac06a1e916",
+    "wof:hierarchy":[],
+    "wof:id":874212445,
+    "wof:lastmodified":1464312978,
+    "wof:name":"Texaco One Stop Gas and Gr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -104.81081,
+    41.134434,
+    -104.81081,
+    41.134434
+],
+  "geometry": {"coordinates":[-104.81081,41.134434],"type":"Point"}
+}

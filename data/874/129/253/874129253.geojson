@@ -1,0 +1,82 @@
+{
+  "id": 874129253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594966,41.310102,-105.594966,41.310102",
+    "geom:latitude":41.310102,
+    "geom:longitude":-105.594966,
+    "iso:country":"US",
+    "sg:address":"407 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 6800",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "prepackaged",
+        "telemarketing",
+        "related",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lvWPqiSl8SvZj2UzR7S1u_41.310102_-105.594966@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312125,
+    "wof:geomhash":"ea63cf04ff30d84a0afd25c03302f43b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874129253
+        }
+    ],
+    "wof:id":874129253,
+    "wof:lastmodified":1464312125,
+    "wof:name":"Star Tek U S A Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prepackaged",
+        "telemarketing",
+        "related",
+        "software"
+    ]
+},
+  "bbox": [
+    -105.594966,
+    41.310102,
+    -105.594966,
+    41.310102
+],
+  "geometry": {"coordinates":[-105.594966,41.310102],"type":"Point"}
+}

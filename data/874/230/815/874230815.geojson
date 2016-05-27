@@ -1,0 +1,59 @@
+{
+  "id": 874230815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.76407,44.749495,-108.76407,44.749495",
+    "geom:latitude":44.749495,
+    "geom:longitude":-108.76407,
+    "iso:country":"US",
+    "sg:address":"443 W Coulter Ave",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/powell/135372-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 4649",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xCKYJunz561xvll9giiFj_44.749596_-108.764063@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313173,
+    "wof:geomhash":"90d0d79f67a09529111f34d7d38eb0ef",
+    "wof:hierarchy":[],
+    "wof:id":874230815,
+    "wof:lastmodified":1464313173,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -108.76407,
+    44.749495,
+    -108.76407,
+    44.749495
+],
+  "geometry": {"coordinates":[-108.76407,44.749495],"type":"Point"}
+}

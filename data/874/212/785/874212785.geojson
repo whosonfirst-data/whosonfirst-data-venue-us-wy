@@ -1,0 +1,71 @@
+{
+  "id": 874212785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.58757,41.303933,-105.58757,41.303933",
+    "geom:latitude":41.303933,
+    "geom:longitude":-105.58757,
+    "iso:country":"US",
+    "sg:address":"816 E Ord St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 6992",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ubpgjcFSZzqB7RJ6FhErI_41.303933_-105.587570@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312982,
+    "wof:geomhash":"ecdcde28a84cf4552e84acec537c2396",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874212785
+        }
+    ],
+    "wof:id":874212785,
+    "wof:lastmodified":1464312982,
+    "wof:name":"Laramie Credit & Collection",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -105.58757,
+    41.303933,
+    -105.58757,
+    41.303933
+],
+  "geometry": {"coordinates":[-105.58757,41.303933],"type":"Point"}
+}

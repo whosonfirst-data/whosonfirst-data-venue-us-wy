@@ -1,0 +1,58 @@
+{
+  "id": 874172837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.50409,44.295696,-105.50409,44.295696",
+    "geom:latitude":44.295696,
+    "geom:longitude":-105.50409,
+    "iso:country":"US",
+    "sg:address":"107 N Gillette Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 689 2633",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "line",
+        "haul"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m3zqTD7pQmu6U0wZYQFdo_44.295696_-105.504090@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312557,
+    "wof:geomhash":"9b35b9cedc6227c6e276d24ceb35c8e9",
+    "wof:hierarchy":[],
+    "wof:id":874172837,
+    "wof:lastmodified":1464312557,
+    "wof:name":"Burlington Northern",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line",
+        "haul"
+    ]
+},
+  "bbox": [
+    -105.50409,
+    44.295696,
+    -105.50409,
+    44.295696
+],
+  "geometry": {"coordinates":[-105.50409000000001,44.295696],"type":"Point"}
+}

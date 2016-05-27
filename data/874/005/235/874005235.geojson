@@ -1,0 +1,71 @@
+{
+  "id": 874005235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.379339,42.81959,-106.379339,42.81959",
+    "geom:latitude":42.81959,
+    "geom:longitude":-106.379339,
+    "iso:country":"US",
+    "sg:address":"3030 Energy Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 3450",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "environmental",
+        "quality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EkafpyTmD9UeUkLcbUXrL_42.819590_-106.379339@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310817,
+    "wof:geomhash":"ab4d8bd6330573b125dd9a135ac92e4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874005235
+        }
+    ],
+    "wof:id":874005235,
+    "wof:lastmodified":1464310817,
+    "wof:name":"Envirnmntal Qulty Wyoming Dept",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "quality"
+    ]
+},
+  "bbox": [
+    -106.379339,
+    42.81959,
+    -106.379339,
+    42.81959
+],
+  "geometry": {"coordinates":[-106.379339,42.81959],"type":"Point"}
+}

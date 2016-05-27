@@ -1,0 +1,59 @@
+{
+  "id": 874230205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.95711,41.262673,-110.95711,41.262673",
+    "geom:latitude":41.262673,
+    "geom:longitude":-110.95711,
+    "iso:country":"US",
+    "sg:address":"101 N 2nd St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/evanston/135351-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 0811",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l79W3RLQZhhfDvtuHc8yx_41.262673_-110.957110@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313162,
+    "wof:geomhash":"61f732481adcc19660ff2dee571c164b",
+    "wof:hierarchy":[],
+    "wof:id":874230205,
+    "wof:lastmodified":1464313162,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -110.95711,
+    41.262673,
+    -110.95711,
+    41.262673
+],
+  "geometry": {"coordinates":[-110.95711,41.262673],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874117761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591357,41.318897,-105.591357,41.318897",
+    "geom:latitude":41.318897,
+    "geom:longitude":-105.591357,
+    "iso:country":"US",
+    "sg:address":"755 N 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 8082",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77mdodrQrIb8XUcX6lLZCc_41.318897_-105.591357@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312013,
+    "wof:geomhash":"f6ec1a84713cb32b7676623adb52cca7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874117761
+        }
+    ],
+    "wof:id":874117761,
+    "wof:lastmodified":1464312013,
+    "wof:name":"John W Larkin CPA",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -105.591357,
+    41.318897,
+    -105.591357,
+    41.318897
+],
+  "geometry": {"coordinates":[-105.591357,41.318897],"type":"Point"}
+}

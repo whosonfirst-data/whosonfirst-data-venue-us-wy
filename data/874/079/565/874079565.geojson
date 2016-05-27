@@ -1,0 +1,64 @@
+{
+  "id": 874079565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.298283,42.850179,-106.298283,42.850179",
+    "geom:latitude":42.850179,
+    "geom:longitude":-106.298283,
+    "iso:country":"US",
+    "sg:address":"1916 E 1st St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 4415",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z9fTEhxDZd8OIj85dfXLW_42.850179_-106.298283@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311547,
+    "wof:geomhash":"f4589b7011b78a5e9ecd268f580a30d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874079565
+        }
+    ],
+    "wof:id":874079565,
+    "wof:lastmodified":1464311547,
+    "wof:name":"Casper Foot Clinic",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.298283,
+    42.850179,
+    -106.298283,
+    42.850179
+],
+  "geometry": {"coordinates":[-106.298283,42.850179],"type":"Point"}
+}

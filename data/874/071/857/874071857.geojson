@@ -1,0 +1,75 @@
+{
+  "id": 874071857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.795217,41.16033,-104.795217,41.16033",
+    "geom:latitude":41.16033,
+    "geom:longitude":-104.795217,
+    "iso:country":"US",
+    "sg:address":"2032 Dell Range Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 3203",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aE2jlWWHABy5PIvytsznb_41.160330_-104.795217@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311458,
+    "wof:geomhash":"8ffee55d750ff06fd84f9a9f2ace9dd4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":874071857
+        }
+    ],
+    "wof:id":874071857,
+    "wof:lastmodified":1464311458,
+    "wof:name":"Red Dot Wireless",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -104.795217,
+    41.16033,
+    -104.795217,
+    41.16033
+],
+  "geometry": {"coordinates":[-104.79521699999999,41.16033],"type":"Point"}
+}

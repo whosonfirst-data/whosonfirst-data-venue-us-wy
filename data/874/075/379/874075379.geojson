@@ -1,0 +1,69 @@
+{
+  "id": 874075379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343678,42.810057,-106.343678,42.810057",
+    "geom:latitude":42.810057,
+    "geom:longitude":-106.343678,
+    "iso:country":"US",
+    "sg:address":"4230 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1890",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75tq34H8ZdGKeOEz0jvJsv_42.810057_-106.343678@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311506,
+    "wof:geomhash":"1800a641956cda47f787f30256141086",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874075379
+        }
+    ],
+    "wof:id":874075379,
+    "wof:lastmodified":1464311506,
+    "wof:name":"Aquatics & Critters",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -106.343678,
+    42.810057,
+    -106.343678,
+    42.810057
+],
+  "geometry": {"coordinates":[-106.343678,42.810057],"type":"Point"}
+}

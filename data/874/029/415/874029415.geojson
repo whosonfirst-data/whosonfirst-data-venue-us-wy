@@ -1,0 +1,56 @@
+{
+  "id": 874029415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.699159,44.349117,-106.699159,44.349117",
+    "geom:latitude":44.349117,
+    "geom:longitude":-106.699159,
+    "iso:country":"US",
+    "sg:address":"182 N Main St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 9360",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20FZ7FPNOlceXyf2xNkj1e_44.349117_-106.699159@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311043,
+    "wof:geomhash":"bac4e36ce134848a470656f5a3dbd972",
+    "wof:hierarchy":[],
+    "wof:id":874029415,
+    "wof:lastmodified":1464311043,
+    "wof:name":"Summit Psychological Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -106.699159,
+    44.349117,
+    -106.699159,
+    44.349117
+],
+  "geometry": {"coordinates":[-106.69915899999999,44.349117],"type":"Point"}
+}

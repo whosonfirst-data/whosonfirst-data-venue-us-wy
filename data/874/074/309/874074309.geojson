@@ -1,0 +1,75 @@
+{
+  "id": 874074309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.407424,42.817875,-106.407424,42.817875",
+    "geom:latitude":42.817875,
+    "geom:longitude":-106.407424,
+    "iso:country":"US",
+    "sg:address":"37 Valley Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 1615",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant",
+        "petroleum",
+        "mineral",
+        "investment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lxAx5AXl6Qji6O5VEUt0L_42.817875_-106.407424@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311496,
+    "wof:geomhash":"7be261e1ae033392020059ccc8f46aa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874074309
+        }
+    ],
+    "wof:id":874074309,
+    "wof:lastmodified":1464311496,
+    "wof:name":"Petroleum & Mineral Projects",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "petroleum",
+        "mineral",
+        "investment"
+    ]
+},
+  "bbox": [
+    -106.407424,
+    42.817875,
+    -106.407424,
+    42.817875
+],
+  "geometry": {"coordinates":[-106.40742400000001,42.817875],"type":"Point"}
+}

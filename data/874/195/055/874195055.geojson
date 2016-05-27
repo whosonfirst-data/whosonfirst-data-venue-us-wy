@@ -1,0 +1,69 @@
+{
+  "id": 874195055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.297765,42.855341,-106.297765,42.855341",
+    "geom:latitude":42.855341,
+    "geom:longitude":-106.297765,
+    "iso:country":"US",
+    "sg:address":"532 N Beverly St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 0351",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Tlnt5qjU92YkjHE9eXaxQ_42.855341_-106.297765@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312795,
+    "wof:geomhash":"dc218c6f97191dbe9bd482becb4a8781",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874195055
+        }
+    ],
+    "wof:id":874195055,
+    "wof:lastmodified":1464312795,
+    "wof:name":"C & J Auto Repair Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -106.297765,
+    42.855341,
+    -106.297765,
+    42.855341
+],
+  "geometry": {"coordinates":[-106.297765,42.855341],"type":"Point"}
+}

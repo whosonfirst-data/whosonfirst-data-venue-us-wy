@@ -1,0 +1,61 @@
+{
+  "id": 874035663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.8927,44.572279,-106.8927,44.572279",
+    "geom:latitude":44.572279,
+    "geom:longitude":-106.8927,
+    "iso:country":"US",
+    "sg:address":"2 Story Brooke Ln",
+    "sg:city":"Story",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 3283",
+    "sg:postcode":"82842",
+    "sg:province":"WY",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dt4oNVreDe0mVyaSAuxun_44.572279_-106.892700@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311100,
+    "wof:geomhash":"2cc20a11431d918f7ab9b180e98b2cbd",
+    "wof:hierarchy":[],
+    "wof:id":874035663,
+    "wof:lastmodified":1464311100,
+    "wof:name":"Barbula's Upholstery & Sewing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -106.8927,
+    44.572279,
+    -106.8927,
+    44.572279
+],
+  "geometry": {"coordinates":[-106.8927,44.572279],"type":"Point"}
+}

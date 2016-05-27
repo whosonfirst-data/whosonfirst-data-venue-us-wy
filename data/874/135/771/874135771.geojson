@@ -1,0 +1,73 @@
+{
+  "id": 874135771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.337104,42.834566,-106.337104,42.834566",
+    "geom:latitude":42.834566,
+    "geom:longitude":-106.337104,
+    "iso:country":"US",
+    "sg:address":"1746 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 2273",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pregnancy",
+        "counseling",
+        "information"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GVyoWaNZW8JNnXOtVhGlt_42.834566_-106.337104@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312198,
+    "wof:geomhash":"2553f414f8543f08e9b907fc383cd71d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874135771
+        }
+    ],
+    "wof:id":874135771,
+    "wof:lastmodified":1464312198,
+    "wof:name":"Caring Center",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pregnancy",
+        "counseling",
+        "information"
+    ]
+},
+  "bbox": [
+    -106.337104,
+    42.834566,
+    -106.337104,
+    42.834566
+],
+  "geometry": {"coordinates":[-106.337104,42.834566],"type":"Point"}
+}

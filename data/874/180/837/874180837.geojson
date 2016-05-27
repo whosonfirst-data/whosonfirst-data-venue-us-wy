@@ -1,0 +1,56 @@
+{
+  "id": 874180837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.845678,44.671521,-103.845678,44.671521",
+    "geom:latitude":44.671521,
+    "geom:longitude":-103.845678,
+    "iso:country":"US",
+    "sg:address":"913 State St",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 3763",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p03Y5lKaMfCEO9Hqc2CS7_44.671521_-103.845678@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312638,
+    "wof:geomhash":"ecffc7aa4238913fdc503e49aebc05ec",
+    "wof:hierarchy":[],
+    "wof:id":874180837,
+    "wof:lastmodified":1464312638,
+    "wof:name":"Daniel J Clapper DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -103.845678,
+    44.671521,
+    -103.845678,
+    44.671521
+],
+  "geometry": {"coordinates":[-103.84567800000001,44.671521],"type":"Point"}
+}

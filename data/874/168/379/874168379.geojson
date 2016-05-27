@@ -1,0 +1,71 @@
+{
+  "id": 874168379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.289275,42.841708,-106.289275,42.841708",
+    "geom:latitude":42.841708,
+    "geom:longitude":-106.289275,
+    "iso:country":"US",
+    "sg:address":"931 Bon Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 3822",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AZIpkIZLGbg0hWTxUYsxP_42.841708_-106.289275@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312511,
+    "wof:geomhash":"910878b7cd0a3cfbafc3da27dfdbf761",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874168379
+        }
+    ],
+    "wof:id":874168379,
+    "wof:lastmodified":1464312511,
+    "wof:name":"Minihan Plumbing & Heating",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.289275,
+    42.841708,
+    -106.289275,
+    42.841708
+],
+  "geometry": {"coordinates":[-106.289275,42.841708],"type":"Point"}
+}

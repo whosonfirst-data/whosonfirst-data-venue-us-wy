@@ -1,0 +1,59 @@
+{
+  "id": 874228765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.769334,41.160138,-104.769334,41.160138",
+    "geom:latitude":41.160138,
+    "geom:longitude":-104.769334,
+    "iso:country":"US",
+    "sg:address":"3308 Dell Range Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/67240-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 6666",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30hgaM0eLWKZla8kufsYCK_41.160138_-104.769334@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313148,
+    "wof:geomhash":"23df3379bbef1277e4231a99ba3750d7",
+    "wof:hierarchy":[],
+    "wof:id":874228765,
+    "wof:lastmodified":1464313148,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -104.769334,
+    41.160138,
+    -104.769334,
+    41.160138
+],
+  "geometry": {"coordinates":[-104.769334,41.160138],"type":"Point"}
+}

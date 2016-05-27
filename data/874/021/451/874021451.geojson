@@ -1,0 +1,71 @@
+{
+  "id": 874021451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.356039,42.828208,-106.356039,42.828208",
+    "geom:latitude":42.828208,
+    "geom:longitude":-106.356039,
+    "iso:country":"US",
+    "sg:address":"2933 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 2919",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consultant",
+        "safety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Vex9ClmvOjctk9ANYXRwa_42.828208_-106.356039@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310960,
+    "wof:geomhash":"d7b224fe473eda8450ac48a54d916cb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874021451
+        }
+    ],
+    "wof:id":874021451,
+    "wof:lastmodified":1464310960,
+    "wof:name":"Action Fire Extinguisher Svc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "safety"
+    ]
+},
+  "bbox": [
+    -106.356039,
+    42.828208,
+    -106.356039,
+    42.828208
+],
+  "geometry": {"coordinates":[-106.356039,42.828208],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 874228277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.813626,41.134457,-104.813626,41.134457",
+    "geom:latitude":41.134457,
+    "geom:longitude":-104.813626,
+    "iso:country":"US",
+    "sg:address":"200 E 17th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/139323-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 0046",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JgtOgvgOoETBO9clWakE4_41.134457_-104.813626@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313143,
+    "wof:geomhash":"9d94dcfbc4b4072a2395011b26e61d75",
+    "wof:hierarchy":[],
+    "wof:id":874228277,
+    "wof:lastmodified":1464313143,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -104.813626,
+    41.134457,
+    -104.813626,
+    41.134457
+],
+  "geometry": {"coordinates":[-104.813626,41.134457],"type":"Point"}
+}

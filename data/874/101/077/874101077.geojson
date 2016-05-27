@@ -1,0 +1,56 @@
+{
+  "id": 874101077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.97515,44.691378,-106.97515,44.691378",
+    "geom:latitude":44.691378,
+    "geom:longitude":-106.97515,
+    "iso:country":"US",
+    "sg:address":"9 River Bend Ct",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 2298",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Qlz4mpQgjDXvqz7Snmv0Q_44.691378_-106.975150@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311807,
+    "wof:geomhash":"dc38e519c7a1aa0dac883a8f1e27d834",
+    "wof:hierarchy":[],
+    "wof:id":874101077,
+    "wof:lastmodified":1464311807,
+    "wof:name":"Saunders Walter G MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -106.97515,
+    44.691378,
+    -106.97515,
+    44.691378
+],
+  "geometry": {"coordinates":[-106.97515,44.691378],"type":"Point"}
+}

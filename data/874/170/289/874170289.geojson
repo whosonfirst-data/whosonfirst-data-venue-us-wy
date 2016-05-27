@@ -1,0 +1,71 @@
+{
+  "id": 874170289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.30743,42.83042,-106.30743,42.83042",
+    "geom:latitude":42.83042,
+    "geom:longitude":-106.30743,
+    "iso:country":"US",
+    "sg:address":"1800 S Conwell St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 5417",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "baptist",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nBn90yZe4oCQYbfm5XsHw_42.830420_-106.307430@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312529,
+    "wof:geomhash":"5078e1b35d59ddd9f1bcc8de5261c157",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874170289
+        }
+    ],
+    "wof:id":874170289,
+    "wof:lastmodified":1464312529,
+    "wof:name":"Calvary Baptist Church",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baptist",
+        "church"
+    ]
+},
+  "bbox": [
+    -106.30743,
+    42.83042,
+    -106.30743,
+    42.83042
+],
+  "geometry": {"coordinates":[-106.30743,42.83042],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874056395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.042476,44.53347,-109.042476,44.53347",
+    "geom:latitude":44.53347,
+    "geom:longitude":-109.042476,
+    "iso:country":"US",
+    "sg:address":"2319 Big Horn Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 5311",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07IFN7auiKRvkC2WsZokhI_44.533470_-109.042476@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311304,
+    "wof:geomhash":"601d2829ba274cd3aa95e6e6ee0ee352",
+    "wof:hierarchy":[],
+    "wof:id":874056395,
+    "wof:lastmodified":1464311304,
+    "wof:name":"Bighorn Taxidermy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -109.042476,
+    44.53347,
+    -109.042476,
+    44.53347
+],
+  "geometry": {"coordinates":[-109.04247599999999,44.53347],"type":"Point"}
+}

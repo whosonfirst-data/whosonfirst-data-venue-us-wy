@@ -1,0 +1,74 @@
+{
+  "id": 874155245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.623395,41.309018,-105.623395,41.309018",
+    "geom:latitude":41.309018,
+    "geom:longitude":-105.623395,
+    "iso:country":"US",
+    "sg:address":"2091 State Hwy 130",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7036",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ranch",
+        "guest"
+    ],
+    "sg:website":"www.vee-bar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wo05vCZknP4FDVqcsHPRZ_41.309018_-105.623395@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312380,
+    "wof:geomhash":"68b10b50c6abe86460529127c65dc58b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874155245
+        }
+    ],
+    "wof:id":874155245,
+    "wof:lastmodified":1464312380,
+    "wof:name":"Vee Bar Guest Ranch",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranch",
+        "guest"
+    ]
+},
+  "bbox": [
+    -105.623395,
+    41.309018,
+    -105.623395,
+    41.309018
+],
+  "geometry": {"coordinates":[-105.623395,41.309018],"type":"Point"}
+}

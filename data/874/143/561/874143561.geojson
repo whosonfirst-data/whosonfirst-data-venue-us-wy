@@ -1,0 +1,63 @@
+{
+  "id": 874143561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.947158,44.785344,-106.947158,44.785344",
+    "geom:latitude":44.785344,
+    "geom:longitude":-106.947158,
+    "iso:country":"US",
+    "sg:address":"551 Avoca Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 8827",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KlwMNkP6zqlCN2Ggof5tz_44.785344_-106.947158@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312267,
+    "wof:geomhash":"48df7734c893d28bc99a8be1b1beb2bb",
+    "wof:hierarchy":[],
+    "wof:id":874143561,
+    "wof:lastmodified":1464312267,
+    "wof:name":"Village Apartments Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -106.947158,
+    44.785344,
+    -106.947158,
+    44.785344
+],
+  "geometry": {"coordinates":[-106.947158,44.785344],"type":"Point"}
+}

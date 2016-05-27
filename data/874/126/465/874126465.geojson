@@ -1,0 +1,60 @@
+{
+  "id": 874126465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.756454,41.154633,-104.756454,41.154633",
+    "geom:latitude":41.154633,
+    "geom:longitude":-104.756454,
+    "iso:country":"US",
+    "sg:address":"4120 Rock Springs St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 8746",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PDdQ9jmSMIc1lSUi9NYKJ_41.154633_-104.756454@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312098,
+    "wof:geomhash":"376e1764cc6ecdc74ad39bb585444b3a",
+    "wof:hierarchy":[],
+    "wof:id":874126465,
+    "wof:lastmodified":1464312098,
+    "wof:name":"Warby Trucking Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -104.756454,
+    41.154633,
+    -104.756454,
+    41.154633
+],
+  "geometry": {"coordinates":[-104.75645400000001,41.154633],"type":"Point"}
+}

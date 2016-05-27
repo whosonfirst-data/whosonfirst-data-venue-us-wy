@@ -1,0 +1,65 @@
+{
+  "id": 874094455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.819546,41.114812,-104.819546,41.114812",
+    "geom:latitude":41.114812,
+    "geom:longitude":-104.819546,
+    "iso:country":"US",
+    "sg:address":"249 Dillon Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 2571",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "communications",
+        "system",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pbmPzEIHr7tD8hKzM1Mdy_41.114812_-104.819546@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311708,
+    "wof:geomhash":"ecd0d5ca51fbc7a98d20d44b6e487658",
+    "wof:hierarchy":[],
+    "wof:id":874094455,
+    "wof:lastmodified":1464311708,
+    "wof:name":"Affordable Telephone Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications",
+        "system",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -104.819546,
+    41.114812,
+    -104.819546,
+    41.114812
+],
+  "geometry": {"coordinates":[-104.819546,41.114812],"type":"Point"}
+}

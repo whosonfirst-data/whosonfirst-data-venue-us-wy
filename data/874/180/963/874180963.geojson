@@ -1,0 +1,56 @@
+{
+  "id": 874180963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.281269,41.64459,-109.281269,41.64459",
+    "geom:latitude":41.64459,
+    "geom:longitude":-109.281269,
+    "iso:country":"US",
+    "sg:address":"701 Antelope Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 8157",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sharpening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47wqQLqWb3wluMM3KHX9vU_41.644590_-109.281269@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312639,
+    "wof:geomhash":"4339061c45679a6407ed3844c98fb410",
+    "wof:hierarchy":[],
+    "wof:id":874180963,
+    "wof:lastmodified":1464312639,
+    "wof:name":"Wind River Sharpening Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sharpening"
+    ]
+},
+  "bbox": [
+    -109.281269,
+    41.64459,
+    -109.281269,
+    41.64459
+],
+  "geometry": {"coordinates":[-109.28126899999999,41.64459],"type":"Point"}
+}

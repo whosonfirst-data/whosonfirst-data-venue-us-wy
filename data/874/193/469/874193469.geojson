@@ -1,0 +1,73 @@
+{
+  "id": 874193469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.807744,41.160403,-104.807744,41.160403",
+    "geom:latitude":41.160403,
+    "geom:longitude":-104.807744,
+    "iso:country":"US",
+    "sg:address":"1400 Dell Range Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 3840",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sportswear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X1h6BH1ZqyLVPtGNcEred_41.160403_-104.807744@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312775,
+    "wof:geomhash":"1060bf617b9f3f75f14758ca8f16f9c1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":874193469
+        }
+    ],
+    "wof:id":874193469,
+    "wof:lastmodified":1464312775,
+    "wof:name":"Sportsfan",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sportswear"
+    ]
+},
+  "bbox": [
+    -104.807744,
+    41.160403,
+    -104.807744,
+    41.160403
+],
+  "geometry": {"coordinates":[-104.807744,41.160403],"type":"Point"}
+}

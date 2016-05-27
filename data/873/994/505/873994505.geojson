@@ -1,0 +1,75 @@
+{
+  "id": 873994505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.245893,41.574572,-109.245893,41.574572",
+    "geom:latitude":41.574572,
+    "geom:longitude":-109.245893,
+    "iso:country":"US",
+    "sg:address":"1525 Dewar Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 9515",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2td4N1LcFt60yCCvv9y22H_41.574572_-109.245893@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310722,
+    "wof:geomhash":"78d0f207a28e73ed2c56681257cf1564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":873994505
+        }
+    ],
+    "wof:id":873994505,
+    "wof:lastmodified":1464310722,
+    "wof:name":"Sweetwater Nissan",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -109.245893,
+    41.574572,
+    -109.245893,
+    41.574572
+],
+  "geometry": {"coordinates":[-109.245893,41.574572],"type":"Point"}
+}

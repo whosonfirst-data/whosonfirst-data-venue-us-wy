@@ -1,0 +1,69 @@
+{
+  "id": 874051881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323845,42.853006,-106.323845,42.853006",
+    "geom:latitude":42.853006,
+    "geom:longitude":-106.323845,
+    "iso:country":"US",
+    "sg:address":"356 N Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4271",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JJDJbaGginBEaoRj1EzRP_42.853006_-106.323845@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311258,
+    "wof:geomhash":"9689913ee66c1d5fdf14d7e3331b1f1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874051881
+        }
+    ],
+    "wof:id":874051881,
+    "wof:lastmodified":1464311258,
+    "wof:name":"Burlington Coop Fcu",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -106.323845,
+    42.853006,
+    -106.323845,
+    42.853006
+],
+  "geometry": {"coordinates":[-106.32384500000001,42.853006],"type":"Point"}
+}

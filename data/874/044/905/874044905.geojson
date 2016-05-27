@@ -1,0 +1,58 @@
+{
+  "id": 874044905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.966667,44.016811,-107.966667,44.016811",
+    "geom:latitude":44.016811,
+    "geom:longitude":-107.966667,
+    "iso:country":"US",
+    "sg:address":"100 S 2nd St",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 4787",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DB3L7YmVYW5ipcMYMBm9f_44.016811_-107.966667@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311193,
+    "wof:geomhash":"668465c5cf811a41516b3ca5605d2e29",
+    "wof:hierarchy":[],
+    "wof:id":874044905,
+    "wof:lastmodified":1464311193,
+    "wof:name":"Smith Electric Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -107.966667,
+    44.016811,
+    -107.966667,
+    44.016811
+],
+  "geometry": {"coordinates":[-107.966667,44.016811],"type":"Point"}
+}

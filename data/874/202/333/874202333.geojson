@@ -1,0 +1,63 @@
+{
+  "id": 874202333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.763795,43.481321,-110.763795,43.481321",
+    "geom:latitude":43.481321,
+    "geom:longitude":-110.763795,
+    "iso:country":"US",
+    "sg:address":"135 N Glenwood St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 734 1084",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "juice",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aFUW12jbxyFNTueHwNwQS_43.481321_-110.763795@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312867,
+    "wof:geomhash":"7b79fe4fe76ab43878c8502653cc8bdc",
+    "wof:hierarchy":[],
+    "wof:id":874202333,
+    "wof:lastmodified":1464312867,
+    "wof:name":"Jamba Juice",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "juice",
+        "eating"
+    ]
+},
+  "bbox": [
+    -110.763795,
+    43.481321,
+    -110.763795,
+    43.481321
+],
+  "geometry": {"coordinates":[-110.763795,43.481321],"type":"Point"}
+}

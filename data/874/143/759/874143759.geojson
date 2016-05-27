@@ -1,0 +1,69 @@
+{
+  "id": 874143759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.290407,42.846346,-106.290407,42.846346",
+    "geom:latitude":42.846346,
+    "geom:longitude":-106.290407,
+    "iso:country":"US",
+    "sg:address":"300 Country Club Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 3300",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m779ZkQpdu5VznVBY34XM_42.846346_-106.290407@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312269,
+    "wof:geomhash":"f601a616776c6abac5877aeb1868fb8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874143759
+        }
+    ],
+    "wof:id":874143759,
+    "wof:lastmodified":1464312269,
+    "wof:name":"Pinnacle West Asset Mgmt Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -106.290407,
+    42.846346,
+    -106.290407,
+    42.846346
+],
+  "geometry": {"coordinates":[-106.290407,42.846346],"type":"Point"}
+}

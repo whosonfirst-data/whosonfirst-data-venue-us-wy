@@ -1,0 +1,56 @@
+{
+  "id": 874141025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955885,44.79688,-106.955885,44.79688",
+    "geom:latitude":44.79688,
+    "geom:longitude":-106.955885,
+    "iso:country":"US",
+    "sg:address":"40 S Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 2799",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28FQRyMe1O1mKPdsTlAB75_44.796880_-106.955885@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312243,
+    "wof:geomhash":"d1ab48b6ad9679a220266ee13ecb2fa3",
+    "wof:hierarchy":[],
+    "wof:id":874141025,
+    "wof:lastmodified":1464312243,
+    "wof:name":"West Psychological Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -106.955885,
+    44.79688,
+    -106.955885,
+    44.79688
+],
+  "geometry": {"coordinates":[-106.95588499999999,44.79688],"type":"Point"}
+}

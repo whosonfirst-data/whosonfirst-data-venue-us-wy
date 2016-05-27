@@ -1,0 +1,73 @@
+{
+  "id": 874120159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.615034,41.300004,-105.615034,41.300004",
+    "geom:latitude":41.300004,
+    "geom:longitude":-105.615034,
+    "iso:country":"US",
+    "sg:address":"1461 Commerce Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4416",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "help",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12TbsTGZiEgkO9U2DfQgwG_41.300004_-105.615034@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312042,
+    "wof:geomhash":"ac50c22a87ccfb1cbfbbd4a3792585af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874120159
+        }
+    ],
+    "wof:id":874120159,
+    "wof:lastmodified":1464312042,
+    "wof:name":"Adecco Staffing",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "help",
+        "supply"
+    ]
+},
+  "bbox": [
+    -105.615034,
+    41.300004,
+    -105.615034,
+    41.300004
+],
+  "geometry": {"coordinates":[-105.61503399999999,41.300004],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 874230935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.315052,42.850078,-106.315052,42.850078",
+    "geom:latitude":42.850078,
+    "geom:longitude":-106.315052,
+    "iso:country":"US",
+    "sg:address":"813 E 1st St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/casper/78184-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4455",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dFx2560cBGk7hKbcKVtrr_42.849939_-106.314973@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313174,
+    "wof:geomhash":"89e3a32e65aef5ccda5b72a21999ee0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874230935
+        }
+    ],
+    "wof:id":874230935,
+    "wof:lastmodified":1464313174,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -106.315052,
+    42.850078,
+    -106.315052,
+    42.850078
+],
+  "geometry": {"coordinates":[-106.31505199999999,42.850078],"type":"Point"}
+}

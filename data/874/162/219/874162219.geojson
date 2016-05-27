@@ -1,0 +1,66 @@
+{
+  "id": 874162219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.584796,41.320257,-105.584796,41.320257",
+    "geom:latitude":41.320257,
+    "geom:longitude":-105.584796,
+    "iso:country":"US",
+    "sg:address":"968 N 9th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 6332",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WYe2ejeu6LJTbW9PV4XWP_41.320257_-105.584796@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312453,
+    "wof:geomhash":"d6898e0cbd15f514e9672b9e38848a9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874162219
+        }
+    ],
+    "wof:id":874162219,
+    "wof:lastmodified":1464312453,
+    "wof:name":"Wyoming Childrens Museum",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.584796,
+    41.320257,
+    -105.584796,
+    41.320257
+],
+  "geometry": {"coordinates":[-105.584796,41.320257],"type":"Point"}
+}

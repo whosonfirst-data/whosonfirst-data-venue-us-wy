@@ -1,0 +1,51 @@
+{
+  "id": 874078711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.371958,42.752633,-105.371958,42.752633",
+    "geom:latitude":42.752633,
+    "geom:longitude":-105.371958,
+    "iso:country":"US",
+    "sg:address":"1250 Birch St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 4363",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2av8k8QsFUrfGJquiAQght_42.752633_-105.371958@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311540,
+    "wof:geomhash":"7795dbfc2af46f7971fdcc57300330ba",
+    "wof:hierarchy":[],
+    "wof:id":874078711,
+    "wof:lastmodified":1464311540,
+    "wof:name":"Hoopmans Sporting Goods",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.371958,
+    42.752633,
+    -105.371958,
+    42.752633
+],
+  "geometry": {"coordinates":[-105.37195800000001,42.752633],"type":"Point"}
+}

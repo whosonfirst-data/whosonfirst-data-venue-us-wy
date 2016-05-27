@@ -1,0 +1,72 @@
+{
+  "id": 873996249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.84188,41.160338,-104.84188,41.160338",
+    "geom:latitude":41.160338,
+    "geom:longitude":-104.84188,
+    "iso:country":"US",
+    "sg:address":"800 Stinner Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 1204",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "golf",
+        "club",
+        "equipment",
+        "membership",
+        "eating",
+        "sport"
+    ],
+    "sg:website":"www.cheyennecountryclub.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6URPHB3a9BzVBmEV0RmrNx_41.160338_-104.841880@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310734,
+    "wof:geomhash":"c274891c2355678304c0630176d313d2",
+    "wof:hierarchy":[],
+    "wof:id":873996249,
+    "wof:lastmodified":1464310734,
+    "wof:name":"Cheyenne Country Club Pro Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "golf",
+        "club",
+        "equipment",
+        "membership",
+        "eating",
+        "sport"
+    ]
+},
+  "bbox": [
+    -104.84188,
+    41.160338,
+    -104.84188,
+    41.160338
+],
+  "geometry": {"coordinates":[-104.84188,41.160338],"type":"Point"}
+}

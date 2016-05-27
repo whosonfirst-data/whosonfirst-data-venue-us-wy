@@ -1,0 +1,58 @@
+{
+  "id": 874151411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.223471,41.590445,-109.223471,41.590445",
+    "geom:latitude":41.590445,
+    "geom:longitude":-109.223471,
+    "iso:country":"US",
+    "sg:address":"303 Elk St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 7154",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eifdiB4hV8jZSze1rwDsD_41.590445_-109.223471@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312341,
+    "wof:geomhash":"b2d6de8adbb1371afc8c64a15f35ab4e",
+    "wof:hierarchy":[],
+    "wof:id":874151411,
+    "wof:lastmodified":1464312341,
+    "wof:name":"Performance Auto Sales",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -109.223471,
+    41.590445,
+    -109.223471,
+    41.590445
+],
+  "geometry": {"coordinates":[-109.223471,41.590445],"type":"Point"}
+}

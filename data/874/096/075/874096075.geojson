@@ -1,0 +1,69 @@
+{
+  "id": 874096075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.337109,42.830352,-106.337109,42.830352",
+    "geom:latitude":42.830352,
+    "geom:longitude":-106.337109,
+    "iso:country":"US",
+    "sg:address":"1922 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 4104",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xpmp5JqiiVW1iNRVF6CmW_42.830352_-106.337109@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311729,
+    "wof:geomhash":"41c7c699a2beefed09707441fbb28ac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874096075
+        }
+    ],
+    "wof:id":874096075,
+    "wof:lastmodified":1464311729,
+    "wof:name":"Lincoln Burton",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -106.337109,
+    42.830352,
+    -106.337109,
+    42.830352
+],
+  "geometry": {"coordinates":[-106.337109,42.830352],"type":"Point"}
+}

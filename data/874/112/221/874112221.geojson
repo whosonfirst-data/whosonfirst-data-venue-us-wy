@@ -1,0 +1,58 @@
+{
+  "id": 874112221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.230401,41.611115,-109.230401,41.611115",
+    "geom:latitude":41.611115,
+    "geom:longitude":-109.230401,
+    "iso:country":"US",
+    "sg:address":"1635 Elk St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 5427",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "personal",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OoMlvQ78rZ32WyHUX7VDE_41.611115_-109.230401@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311960,
+    "wof:geomhash":"cd4701283ced35dbfbaad1c7dfceb716",
+    "wof:hierarchy":[],
+    "wof:id":874112221,
+    "wof:lastmodified":1464311960,
+    "wof:name":"Santa Fe Trails Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "eating"
+    ]
+},
+  "bbox": [
+    -109.230401,
+    41.611115,
+    -109.230401,
+    41.611115
+],
+  "geometry": {"coordinates":[-109.230401,41.611115],"type":"Point"}
+}

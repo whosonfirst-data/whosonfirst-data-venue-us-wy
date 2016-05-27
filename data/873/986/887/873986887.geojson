@@ -1,0 +1,56 @@
+{
+  "id": 873986887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.358965,43.019629,-108.358965,43.019629",
+    "geom:latitude":43.019629,
+    "geom:longitude":-108.358965,
+    "iso:country":"US",
+    "sg:address":"2600 E Monroe Ave",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 6712",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07SEdTTynYqX3qir4ChpCR_43.019629_-108.358965@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310668,
+    "wof:geomhash":"1ee150dc6ec92aee6510b4ddac280a7f",
+    "wof:hierarchy":[],
+    "wof:id":873986887,
+    "wof:lastmodified":1464310668,
+    "wof:name":"Riverton Wastewater Plant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -108.358965,
+    43.019629,
+    -108.358965,
+    43.019629
+],
+  "geometry": {"coordinates":[-108.358965,43.019629],"type":"Point"}
+}

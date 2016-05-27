@@ -1,0 +1,71 @@
+{
+  "id": 873990699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.623268,41.306603,-105.623268,41.306603",
+    "geom:latitude":41.306603,
+    "geom:longitude":-105.623268,
+    "iso:country":"US",
+    "sg:address":"540 S Lincoln St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4519",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cmAOhmfq96PQikh7CKn7R_41.306603_-105.623268@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310694,
+    "wof:geomhash":"77ab6dfd0f6f3d1f5cbeae80ff11f114",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":873990699
+        }
+    ],
+    "wof:id":873990699,
+    "wof:lastmodified":1464310694,
+    "wof:name":"Marys Day Care",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -105.623268,
+    41.306603,
+    -105.623268,
+    41.306603
+],
+  "geometry": {"coordinates":[-105.623268,41.306603],"type":"Point"}
+}

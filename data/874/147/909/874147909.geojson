@@ -1,0 +1,69 @@
+{
+  "id": 874147909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.325095,42.855247,-106.325095,42.855247",
+    "geom:latitude":42.855247,
+    "geom:longitude":-106.325095,
+    "iso:country":"US",
+    "sg:address":"505 N Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 2189",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05DVDqfBmhAz3OQYfp29Tx_42.855247_-106.325095@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312310,
+    "wof:geomhash":"57bd316ae6cff4bb958e6c73b9e34b5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874147909
+        }
+    ],
+    "wof:id":874147909,
+    "wof:lastmodified":1464312310,
+    "wof:name":"Casper Beverage",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale"
+    ]
+},
+  "bbox": [
+    -106.325095,
+    42.855247,
+    -106.325095,
+    42.855247
+],
+  "geometry": {"coordinates":[-106.325095,42.855247],"type":"Point"}
+}

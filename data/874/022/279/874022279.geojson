@@ -1,0 +1,58 @@
+{
+  "id": 874022279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.963065,44.794168,-106.963065,44.794168",
+    "geom:latitude":44.794168,
+    "geom:longitude":-106.963065,
+    "iso:country":"US",
+    "sg:address":"348 S Linden Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 6605",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12uhJc7muUKu3sNjUTh9TV_44.794168_-106.963065@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310967,
+    "wof:geomhash":"b07c5d0df244f857cec7c73b8327bb41",
+    "wof:hierarchy":[],
+    "wof:id":874022279,
+    "wof:lastmodified":1464310967,
+    "wof:name":"Sheridan Telephone Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.963065,
+    44.794168,
+    -106.963065,
+    44.794168
+],
+  "geometry": {"coordinates":[-106.963065,44.794168],"type":"Point"}
+}

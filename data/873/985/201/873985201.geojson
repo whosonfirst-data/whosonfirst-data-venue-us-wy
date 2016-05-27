@@ -1,0 +1,56 @@
+{
+  "id": 873985201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.055219,44.488697,-108.055219,44.488697",
+    "geom:latitude":44.488697,
+    "geom:longitude":-108.055219,
+    "iso:country":"US",
+    "sg:address":"15 S 6th St",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 2057",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q85J472vIKc3neu3QtS24_44.488697_-108.055219@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310651,
+    "wof:geomhash":"2f0c249950b0a8009e422327392c24d4",
+    "wof:hierarchy":[],
+    "wof:id":873985201,
+    "wof:lastmodified":1464310651,
+    "wof:name":"Hot Spot",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -108.055219,
+    44.488697,
+    -108.055219,
+    44.488697
+],
+  "geometry": {"coordinates":[-108.05521899999999,44.488697],"type":"Point"}
+}

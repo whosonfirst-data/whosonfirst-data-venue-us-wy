@@ -1,0 +1,58 @@
+{
+  "id": 874168561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.46609,41.5271,-109.46609,41.5271",
+    "geom:latitude":41.5271,
+    "geom:longitude":-109.46609,
+    "iso:country":"US",
+    "sg:address":"200 E Railroad Ave",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 6051",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yz6W0bZRc9fMZ2nxHHjCV_41.527100_-109.466090@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312513,
+    "wof:geomhash":"9457cf259d514521a4f59582d8f74f80",
+    "wof:hierarchy":[],
+    "wof:id":874168561,
+    "wof:lastmodified":1464312513,
+    "wof:name":"Union Pacific Railroad Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line"
+    ]
+},
+  "bbox": [
+    -109.46609,
+    41.5271,
+    -109.46609,
+    41.5271
+],
+  "geometry": {"coordinates":[-109.46608999999999,41.5271],"type":"Point"}
+}

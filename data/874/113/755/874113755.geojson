@@ -1,0 +1,60 @@
+{
+  "id": 874113755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.623159,43.295237,-107.623159,43.295237",
+    "geom:latitude":43.295237,
+    "geom:longitude":-107.623159,
+    "iso:country":"US",
+    "sg:address":"3175 Badwater Rd",
+    "sg:city":"Lysite",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 876 2693",
+    "sg:postcode":"82642",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pipe",
+        "line",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OZseg1fnikfq7tnCx2TnA_43.295237_-107.623159@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311974,
+    "wof:geomhash":"627aa5f5d41d4878bdef6fa956eb77cf",
+    "wof:hierarchy":[],
+    "wof:id":874113755,
+    "wof:lastmodified":1464311974,
+    "wof:name":"BP Pipeline North America",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "line",
+        "company"
+    ]
+},
+  "bbox": [
+    -107.623159,
+    43.295237,
+    -107.623159,
+    43.295237
+],
+  "geometry": {"coordinates":[-107.623159,43.295237],"type":"Point"}
+}

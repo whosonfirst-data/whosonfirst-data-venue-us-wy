@@ -1,0 +1,56 @@
+{
+  "id": 874023473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.438777,43.026287,-108.438777,43.026287",
+    "geom:latitude":43.026287,
+    "geom:longitude":-108.438777,
+    "iso:country":"US",
+    "sg:address":"3700 Riverview Rd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 7764",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KYosNqhzNWPyqqodStGR2_43.026287_-108.438777@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310978,
+    "wof:geomhash":"6a6b7f62eb46ea2abbba97b80bfeb663",
+    "wof:hierarchy":[],
+    "wof:id":874023473,
+    "wof:lastmodified":1464310978,
+    "wof:name":"Stock Doc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -108.438777,
+    43.026287,
+    -108.438777,
+    43.026287
+],
+  "geometry": {"coordinates":[-108.438777,43.026287],"type":"Point"}
+}

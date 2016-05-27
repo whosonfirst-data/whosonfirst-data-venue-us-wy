@@ -1,0 +1,71 @@
+{
+  "id": 874196261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.453014,42.869479,-106.453014,42.869479",
+    "geom:latitude":42.869479,
+    "geom:longitude":-106.453014,
+    "iso:country":"US",
+    "sg:address":"1631 N Mill Creek Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 8338",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "installation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DkUY7VQv7ZC3QdKEkLXVu_42.869479_-106.453014@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312807,
+    "wof:geomhash":"dafb97f080a612a7bca1238aac75bfab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874196261
+        }
+    ],
+    "wof:id":874196261,
+    "wof:lastmodified":1464312807,
+    "wof:name":"Access Wyoming",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "installation"
+    ]
+},
+  "bbox": [
+    -106.453014,
+    42.869479,
+    -106.453014,
+    42.869479
+],
+  "geometry": {"coordinates":[-106.453014,42.869479],"type":"Point"}
+}

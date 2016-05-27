@@ -1,0 +1,73 @@
+{
+  "id": 874204415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.589629,41.292207,-105.589629,41.292207",
+    "geom:latitude":41.292207,
+    "geom:longitude":-105.589629,
+    "iso:country":"US",
+    "sg:address":"725 Skyline Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7055",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "flea",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aOOFJCZMZ7O5z62ygnASH_41.292207_-105.589629@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312887,
+    "wof:geomhash":"c994e10e1e16ed75ae5879d407bc7848",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874204415
+        }
+    ],
+    "wof:id":874204415,
+    "wof:lastmodified":1464312887,
+    "wof:name":"Western Flea Market",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flea",
+        "market"
+    ]
+},
+  "bbox": [
+    -105.589629,
+    41.292207,
+    -105.589629,
+    41.292207
+],
+  "geometry": {"coordinates":[-105.589629,41.292207],"type":"Point"}
+}

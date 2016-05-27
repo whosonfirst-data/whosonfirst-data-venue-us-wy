@@ -1,0 +1,56 @@
+{
+  "id": 874102111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.254445,41.586446,-109.254445,41.586446",
+    "geom:latitude":41.586446,
+    "geom:longitude":-109.254445,
+    "iso:country":"US",
+    "sg:address":"3103 Sandy Rd",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 1689",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "refiner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zzILJ6gTcq7MFF6hyRE07_41.586446_-109.254445@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311819,
+    "wof:geomhash":"7c49ac0e1c723dccdab749ed9e621284",
+    "wof:hierarchy":[],
+    "wof:id":874102111,
+    "wof:lastmodified":1464311819,
+    "wof:name":"Rm Enterprises Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refiner"
+    ]
+},
+  "bbox": [
+    -109.254445,
+    41.586446,
+    -109.254445,
+    41.586446
+],
+  "geometry": {"coordinates":[-109.254445,41.586446],"type":"Point"}
+}

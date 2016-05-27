@@ -1,0 +1,71 @@
+{
+  "id": 874086857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595929,41.312029,-105.595929,41.312029",
+    "geom:latitude":41.312029,
+    "geom:longitude":-105.595929,
+    "iso:country":"US",
+    "sg:address":"114 E Ivinson Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3554",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NQCoPQAzIwerg2x0t2DGR_41.312029_-105.595929@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311629,
+    "wof:geomhash":"9731aa0c5562f4dcc14fe2eaa030d619",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874086857
+        }
+    ],
+    "wof:id":874086857,
+    "wof:lastmodified":1464311629,
+    "wof:name":"Buckhorn Bar",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bar"
+    ]
+},
+  "bbox": [
+    -105.595929,
+    41.312029,
+    -105.595929,
+    41.312029
+],
+  "geometry": {"coordinates":[-105.595929,41.312029],"type":"Point"}
+}

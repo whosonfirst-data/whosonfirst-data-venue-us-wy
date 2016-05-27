@@ -1,0 +1,73 @@
+{
+  "id": 874160099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.572225,41.295613,-105.572225,41.295613",
+    "geom:latitude":41.295613,
+    "geom:longitude":-105.572225,
+    "iso:country":"US",
+    "sg:address":"1710 E Barratt St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 3932",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DsvllzBWkkYwKcWkpNzsA_41.295613_-105.572225@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312433,
+    "wof:geomhash":"833817034766b57d696b42f1609056ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874160099
+        }
+    ],
+    "wof:id":874160099,
+    "wof:lastmodified":1464312433,
+    "wof:name":"Dale Bridgmon",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -105.572225,
+    41.295613,
+    -105.572225,
+    41.295613
+],
+  "geometry": {"coordinates":[-105.572225,41.295613],"type":"Point"}
+}

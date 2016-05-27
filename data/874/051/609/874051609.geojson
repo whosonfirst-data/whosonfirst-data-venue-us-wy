@@ -1,0 +1,56 @@
+{
+  "id": 874051609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.474589,41.522352,-109.474589,41.522352",
+    "geom:latitude":41.522352,
+    "geom:longitude":-109.474589,
+    "iso:country":"US",
+    "sg:address":"470 Ironwood St",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 2222",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VAc2gYAHmjJS1KxyZeLwT_41.522352_-109.474589@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311256,
+    "wof:geomhash":"008ca67b3a5144bf5f9cd4490e2afadf",
+    "wof:hierarchy":[],
+    "wof:id":874051609,
+    "wof:lastmodified":1464311256,
+    "wof:name":"Teton Catering",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catering"
+    ]
+},
+  "bbox": [
+    -109.474589,
+    41.522352,
+    -109.474589,
+    41.522352
+],
+  "geometry": {"coordinates":[-109.47458899999999,41.522352],"type":"Point"}
+}

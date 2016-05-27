@@ -1,0 +1,57 @@
+{
+  "id": 874230517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.800927,41.111256,-104.800927,41.111256",
+    "geom:latitude":41.111256,
+    "geom:longitude":-104.800927,
+    "iso:country":"US",
+    "sg:address":"715 S Greeley Hwy",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/5729-tortilla-factory/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 8850",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SPpXi5nrXE0vbWwamWSNf_41.111564_-104.800833@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313169,
+    "wof:geomhash":"806e8b0441a802ce3dafaf8e16103322",
+    "wof:hierarchy":[],
+    "wof:id":874230517,
+    "wof:lastmodified":1464313169,
+    "wof:name":"Tortilla Factory",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -104.800927,
+    41.111256,
+    -104.800927,
+    41.111256
+],
+  "geometry": {"coordinates":[-104.800927,41.111256],"type":"Point"}
+}

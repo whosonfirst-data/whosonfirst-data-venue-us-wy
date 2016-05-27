@@ -1,0 +1,58 @@
+{
+  "id": 874128145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.922318,44.670065,-108.922318,44.670065",
+    "geom:latitude":44.670065,
+    "geom:longitude":-108.922318,
+    "iso:country":"US",
+    "sg:address":"1775 Ln 15",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 3221",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zuls8MjvUDmWspTht721d_44.670065_-108.922318@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312112,
+    "wof:geomhash":"75b18069eb4da7ab787e1acd895dee1b",
+    "wof:hierarchy":[],
+    "wof:id":874128145,
+    "wof:lastmodified":1464312112,
+    "wof:name":"A-1 Sanitation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -108.922318,
+    44.670065,
+    -108.922318,
+    44.670065
+],
+  "geometry": {"coordinates":[-108.922318,44.670065],"type":"Point"}
+}

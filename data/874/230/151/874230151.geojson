@@ -1,0 +1,59 @@
+{
+  "id": 874230151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.247278,41.57501,-109.247278,41.57501",
+    "geom:latitude":41.57501,
+    "geom:longitude":-109.247278,
+    "iso:country":"US",
+    "sg:address":"1990 Dewar Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/rock-springs-north/100339-golden-corral/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 7234",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FrwmxmqT7F5iFjOZV2Un8_41.575010_-109.247278@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313161,
+    "wof:geomhash":"082bd77836fbbd974e245f5c085f0308",
+    "wof:hierarchy":[],
+    "wof:id":874230151,
+    "wof:lastmodified":1464313161,
+    "wof:name":"Golden Corral",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -109.247278,
+    41.57501,
+    -109.247278,
+    41.57501
+],
+  "geometry": {"coordinates":[-109.24727799999999,41.57501],"type":"Point"}
+}

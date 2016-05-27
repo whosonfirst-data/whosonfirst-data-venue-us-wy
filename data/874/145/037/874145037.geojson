@@ -1,0 +1,56 @@
+{
+  "id": 874145037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.826145,41.172589,-104.826145,41.172589",
+    "geom:latitude":41.172589,
+    "geom:longitude":-104.826145,
+    "iso:country":"US",
+    "sg:address":"109 Kornegay Ct",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 3795",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51xXDS9bFWtTTYQCsVlv17_41.172589_-104.826145@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312280,
+    "wof:geomhash":"21abd06ac93399dc4b20dcdd6501cb64",
+    "wof:hierarchy":[],
+    "wof:id":874145037,
+    "wof:lastmodified":1464312280,
+    "wof:name":"Yellowstone Animal Hospital",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -104.826145,
+    41.172589,
+    -104.826145,
+    41.172589
+],
+  "geometry": {"coordinates":[-104.826145,41.172589],"type":"Point"}
+}

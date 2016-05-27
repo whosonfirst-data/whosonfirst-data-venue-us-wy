@@ -1,0 +1,58 @@
+{
+  "id": 874058925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.811785,43.428548,-110.811785,43.428548",
+    "geom:latitude":43.428548,
+    "geom:longitude":-110.811785,
+    "iso:country":"US",
+    "sg:address":"2340 Grand Teton Cir",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 9711",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nIyj9MYR1y64euz8M8GSn_43.428548_-110.811785@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311325,
+    "wof:geomhash":"a0545b82575a5a3d70a8e69f7addac18",
+    "wof:hierarchy":[],
+    "wof:id":874058925,
+    "wof:lastmodified":1464311325,
+    "wof:name":"Viking Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -110.811785,
+    43.428548,
+    -110.811785,
+    43.428548
+],
+  "geometry": {"coordinates":[-110.811785,43.428548],"type":"Point"}
+}

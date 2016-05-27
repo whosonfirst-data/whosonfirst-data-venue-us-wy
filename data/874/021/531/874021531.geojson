@@ -1,0 +1,83 @@
+{
+  "id": 874021531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.801429,41.160213,-104.801429,41.160213",
+    "geom:latitude":41.160213,
+    "geom:longitude":-104.801429,
+    "iso:country":"US",
+    "sg:address":"1639 Dell Range Blvd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 7318",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "related",
+        "sauna",
+        "equipment",
+        "spa",
+        "tub",
+        "jetted"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531225,
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e4usojIdAr4TviWGaLioZ_41.160213_-104.801429@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310960,
+    "wof:geomhash":"74eb0dd13ebd49a02fecb163d24f3d5d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531225,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475,
+            "venue_id":874021531
+        }
+    ],
+    "wof:id":874021531,
+    "wof:lastmodified":1464310960,
+    "wof:name":"Global Wholesale Distributors",
+    "wof:parent_id":102531225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related",
+        "sauna",
+        "equipment",
+        "spa",
+        "tub",
+        "jetted"
+    ]
+},
+  "bbox": [
+    -104.801429,
+    41.160213,
+    -104.801429,
+    41.160213
+],
+  "geometry": {"coordinates":[-104.801429,41.160213],"type":"Point"}
+}

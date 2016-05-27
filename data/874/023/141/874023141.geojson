@@ -1,0 +1,73 @@
+{
+  "id": 874023141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.297673,42.838808,-106.297673,42.838808",
+    "geom:latitude":42.838808,
+    "geom:longitude":-106.297673,
+    "iso:country":"US",
+    "sg:address":"2235 E 12th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 7755",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "storage",
+        "commercial",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rzzm5TjGOQdKAt4CwQ0Vd_42.838808_-106.297673@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310975,
+    "wof:geomhash":"24c728ee6cea420c2ca7b061779ab56a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874023141
+        }
+    ],
+    "wof:id":874023141,
+    "wof:lastmodified":1464310975,
+    "wof:name":"Beverly Street Secure Storage",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage",
+        "commercial",
+        "special"
+    ]
+},
+  "bbox": [
+    -106.297673,
+    42.838808,
+    -106.297673,
+    42.838808
+],
+  "geometry": {"coordinates":[-106.297673,42.838808],"type":"Point"}
+}

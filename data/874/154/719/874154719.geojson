@@ -1,0 +1,56 @@
+{
+  "id": 874154719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.760203,43.47754,-110.760203,43.47754",
+    "geom:latitude":43.47754,
+    "geom:longitude":-110.760203,
+    "iso:country":"US",
+    "sg:address":"135 E Simpson Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 1066",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45dbWQ0Mdo3cAYdhsvff6A_43.477540_-110.760203@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312374,
+    "wof:geomhash":"7f3d062419f28fdf04d60b5cba3f8fc2",
+    "wof:hierarchy":[],
+    "wof:id":874154719,
+    "wof:lastmodified":1464312374,
+    "wof:name":"US Marshals Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -110.760203,
+    43.47754,
+    -110.760203,
+    43.47754
+],
+  "geometry": {"coordinates":[-110.760203,43.47754],"type":"Point"}
+}

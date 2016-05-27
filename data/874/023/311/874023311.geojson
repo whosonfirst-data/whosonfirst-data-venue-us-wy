@@ -1,0 +1,56 @@
+{
+  "id": 874023311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.787511,43.469339,-110.787511,43.469339",
+    "geom:latitude":43.469339,
+    "geom:longitude":-110.787511,
+    "iso:country":"US",
+    "sg:address":"750 Powderhorn Ln",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 4665",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Dqy2crDivd4UroqWg8Y57_43.469339_-110.787511@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310976,
+    "wof:geomhash":"511ab64dc5d588be18b1033b23dde0c9",
+    "wof:hierarchy":[],
+    "wof:id":874023311,
+    "wof:lastmodified":1464310976,
+    "wof:name":"Jackson Village Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -110.787511,
+    43.469339,
+    -110.787511,
+    43.469339
+],
+  "geometry": {"coordinates":[-110.78751099999999,43.469339],"type":"Point"}
+}

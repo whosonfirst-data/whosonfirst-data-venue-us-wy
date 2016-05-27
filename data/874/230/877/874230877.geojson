@@ -1,0 +1,61 @@
+{
+  "id": 874230877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.407142,43.024603,-108.407142,43.024603",
+    "geom:latitude":43.024603,
+    "geom:longitude":-108.407142,
+    "iso:country":"US",
+    "sg:address":"1188 W Main St",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/wind-river/78197-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 857 2033",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41bEG8Kd4LNuopoZ9uVvgf_43.024695_-108.407988@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313173,
+    "wof:geomhash":"c72e8d35ff99ee072ccfebefe0084361",
+    "wof:hierarchy":[],
+    "wof:id":874230877,
+    "wof:lastmodified":1464313173,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -108.407142,
+    43.024603,
+    -108.407142,
+    43.024603
+],
+  "geometry": {"coordinates":[-108.40714199999999,43.024603],"type":"Point"}
+}

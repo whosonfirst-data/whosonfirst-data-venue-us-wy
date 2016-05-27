@@ -1,0 +1,58 @@
+{
+  "id": 874196929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.781601,43.414709,-110.781601,43.414709",
+    "geom:latitude":43.414709,
+    "geom:longitude":-110.781601,
+    "iso:country":"US",
+    "sg:address":"5450 S Ricks Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 4203",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JfeP7F8eJ29348y545sbu_43.414709_-110.781601@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312814,
+    "wof:geomhash":"120e7389f0b9202a9e8c85d4a26642f3",
+    "wof:hierarchy":[],
+    "wof:id":874196929,
+    "wof:lastmodified":1464312814,
+    "wof:name":"Jackson Waste Water Treatment",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -110.781601,
+    43.414709,
+    -110.781601,
+    43.414709
+],
+  "geometry": {"coordinates":[-110.78160099999999,43.414709],"type":"Point"}
+}

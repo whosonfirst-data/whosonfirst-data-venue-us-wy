@@ -1,0 +1,58 @@
+{
+  "id": 874189979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.053134,44.520705,-109.053134,44.520705",
+    "geom:latitude":44.520705,
+    "geom:longitude":-109.053134,
+    "iso:country":"US",
+    "sg:address":"1814 Central Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 9350",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49AZ1VE2Ak1igKSYJmPI4z_44.520705_-109.053134@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312739,
+    "wof:geomhash":"04f01fc52d0bebc1137cd30f461bd9ef",
+    "wof:hierarchy":[],
+    "wof:id":874189979,
+    "wof:lastmodified":1464312739,
+    "wof:name":"Cody Electric Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.053134,
+    44.520705,
+    -109.053134,
+    44.520705
+],
+  "geometry": {"coordinates":[-109.053134,44.520705],"type":"Point"}
+}

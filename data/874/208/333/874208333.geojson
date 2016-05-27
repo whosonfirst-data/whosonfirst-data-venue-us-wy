@@ -1,0 +1,58 @@
+{
+  "id": 874208333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.05979,44.76845,-107.05979,44.76845",
+    "geom:latitude":44.76845,
+    "geom:longitude":-107.05979,
+    "iso:country":"US",
+    "sg:address":"10 Pierce Rd",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 7285",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1saRWN0QPaJFEmOSaJHJ2g_44.768450_-107.059790@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312932,
+    "wof:geomhash":"d5e576bcefc53850dcc66bc256e6c8b2",
+    "wof:hierarchy":[],
+    "wof:id":874208333,
+    "wof:lastmodified":1464312932,
+    "wof:name":"Highlite Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -107.05979,
+    44.76845,
+    -107.05979,
+    44.76845
+],
+  "geometry": {"coordinates":[-107.05979000000001,44.76845],"type":"Point"}
+}

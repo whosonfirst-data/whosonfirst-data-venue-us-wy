@@ -1,0 +1,56 @@
+{
+  "id": 874216331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.805317,43.458334,-110.805317,43.458334",
+    "geom:latitude":43.458334,
+    "geom:longitude":-110.805317,
+    "iso:country":"US",
+    "sg:address":"1755 High School Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 0746",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fk1kZTE7KqhrNExcMqkob_43.458334_-110.805317@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313016,
+    "wof:geomhash":"42b5013422b580dbb616cb72e81403c4",
+    "wof:hierarchy":[],
+    "wof:id":874216331,
+    "wof:lastmodified":1464313016,
+    "wof:name":"Florence Mc Call Photography",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -110.805317,
+    43.458334,
+    -110.805317,
+    43.458334
+],
+  "geometry": {"coordinates":[-110.805317,43.458334],"type":"Point"}
+}

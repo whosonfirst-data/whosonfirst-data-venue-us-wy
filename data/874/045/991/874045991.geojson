@@ -1,0 +1,58 @@
+{
+  "id": 874045991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.499479,44.261836,-105.499479,44.261836",
+    "geom:latitude":44.261836,
+    "geom:longitude":-105.499479,
+    "iso:country":"US",
+    "sg:address":"300 Sinclair St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 0254",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dBYyArP0g1mWmioULOtwF_44.261836_-105.499479@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311206,
+    "wof:geomhash":"46a7a51efb18a46056d71d3a0c5c9fd7",
+    "wof:hierarchy":[],
+    "wof:id":874045991,
+    "wof:lastmodified":1464311206,
+    "wof:name":"Gillette Campus",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -105.499479,
+    44.261836,
+    -105.499479,
+    44.261836
+],
+  "geometry": {"coordinates":[-105.49947899999999,44.261836],"type":"Point"}
+}

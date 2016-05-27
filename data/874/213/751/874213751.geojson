@@ -1,0 +1,65 @@
+{
+  "id": 874213751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.962561,44.015689,-107.962561,44.015689",
+    "geom:latitude":44.015689,
+    "geom:longitude":-107.962561,
+    "iso:country":"US",
+    "sg:address":"512 Coburn Ave",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 8285",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plant",
+        "packing",
+        "butchering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M56xvJVZZjhMi5pQyixg9_44.015689_-107.962561@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312991,
+    "wof:geomhash":"be0dcd4234380f3d196c3d05e5db9ecc",
+    "wof:hierarchy":[],
+    "wof:id":874213751,
+    "wof:lastmodified":1464312991,
+    "wof:name":"Lane's Meat & Sausage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "packing",
+        "butchering"
+    ]
+},
+  "bbox": [
+    -107.962561,
+    44.015689,
+    -107.962561,
+    44.015689
+],
+  "geometry": {"coordinates":[-107.96256099999999,44.015689],"type":"Point"}
+}

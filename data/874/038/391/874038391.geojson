@@ -1,0 +1,66 @@
+{
+  "id": 874038391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.566204,41.302515,-105.566204,41.302515",
+    "geom:latitude":41.302515,
+    "geom:longitude":-105.566204,
+    "iso:country":"US",
+    "sg:address":"2136 E Holliday Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7983",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NOkUnanMKmNy9DUlzAQyV_41.302515_-105.566204@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311129,
+    "wof:geomhash":"6201d097b1145e05aa87e83d827b984e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874038391
+        }
+    ],
+    "wof:id":874038391,
+    "wof:lastmodified":1464311129,
+    "wof:name":"Macmillan Rentals",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.566204,
+    41.302515,
+    -105.566204,
+    41.302515
+],
+  "geometry": {"coordinates":[-105.566204,41.302515],"type":"Point"}
+}

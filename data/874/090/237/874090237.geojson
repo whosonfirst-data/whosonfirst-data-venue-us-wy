@@ -1,0 +1,71 @@
+{
+  "id": 874090237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.584519,41.310306,-105.584519,41.310306",
+    "geom:latitude":41.310306,
+    "geom:longitude":-105.584519,
+    "iso:country":"US",
+    "sg:address":"318 S 10th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4836",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_130FokwCjTXWJpoGN2wP6x_41.310306_-105.584519@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311666,
+    "wof:geomhash":"f3c92f8faac5fd97292fa45e97a066dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874090237
+        }
+    ],
+    "wof:id":874090237,
+    "wof:lastmodified":1464311666,
+    "wof:name":"Laramie Peak Apartments",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -105.584519,
+    41.310306,
+    -105.584519,
+    41.310306
+],
+  "geometry": {"coordinates":[-105.584519,41.310306],"type":"Point"}
+}

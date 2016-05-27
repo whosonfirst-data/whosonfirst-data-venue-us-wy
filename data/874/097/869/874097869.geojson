@@ -1,0 +1,69 @@
+{
+  "id": 874097869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.30968,42.847144,-106.30968,42.847144",
+    "geom:latitude":42.847144,
+    "geom:longitude":-106.30968,
+    "iso:country":"US",
+    "sg:address":"350 S Washington St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 885 9327",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "clothing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62YkhT3zyhOz8tYdAJN5P1_42.847144_-106.309680@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311755,
+    "wof:geomhash":"8ed99289e3c42d7ffcd8896c37c93365",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874097869
+        }
+    ],
+    "wof:id":874097869,
+    "wof:lastmodified":1464311755,
+    "wof:name":"Calamity Jane's Clothing Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing"
+    ]
+},
+  "bbox": [
+    -106.30968,
+    42.847144,
+    -106.30968,
+    42.847144
+],
+  "geometry": {"coordinates":[-106.30968,42.847144],"type":"Point"}
+}

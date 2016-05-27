@@ -1,0 +1,58 @@
+{
+  "id": 874214229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.496499,44.287575,-105.496499,44.287575",
+    "geom:latitude":44.287575,
+    "geom:longitude":-105.496499,
+    "iso:country":"US",
+    "sg:address":"611 E 8th St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 687 7610",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EHHFrxAByT0u2gynYsaIs_44.287575_-105.496499@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312997,
+    "wof:geomhash":"c56ef6ec9fdb7c31e9640c29d9700182",
+    "wof:hierarchy":[],
+    "wof:id":874214229,
+    "wof:lastmodified":1464312997,
+    "wof:name":"NAPA Auto Parts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -105.496499,
+    44.287575,
+    -105.496499,
+    44.287575
+],
+  "geometry": {"coordinates":[-105.496499,44.287575],"type":"Point"}
+}

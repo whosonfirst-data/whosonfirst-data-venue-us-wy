@@ -1,0 +1,78 @@
+{
+  "id": 874230547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.555486,41.308809,-105.555486,41.308809",
+    "geom:latitude":41.308809,
+    "geom:longitude":-105.555486,
+    "iso:country":"US",
+    "sg:address":"3209 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/laramie/85224-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3880",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HcjiHlkTB70EsrLKGuZyU_41.308874_-105.555603@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313170,
+    "wof:geomhash":"9dc17a72a2f4d7d44759b3e7a8b61a3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874230547
+        }
+    ],
+    "wof:id":874230547,
+    "wof:lastmodified":1464313170,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -105.555486,
+    41.308809,
+    -105.555486,
+    41.308809
+],
+  "geometry": {"coordinates":[-105.555486,41.308809],"type":"Point"}
+}

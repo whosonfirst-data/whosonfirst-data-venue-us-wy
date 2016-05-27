@@ -1,0 +1,74 @@
+{
+  "id": 874228853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.565862,41.30947,-105.565862,41.30947",
+    "geom:latitude":41.30947,
+    "geom:longitude":-105.565862,
+    "iso:country":"US",
+    "sg:address":"2148 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/laramie/159135-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5559",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2801kupSgBW5rS7CG6yMnU_41.309470_-105.565862@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313149,
+    "wof:geomhash":"42eae477239ec8aeb1bd8ca8384193b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874228853
+        }
+    ],
+    "wof:id":874228853,
+    "wof:lastmodified":1464313149,
+    "wof:name":"Arby's",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -105.565862,
+    41.30947,
+    -105.565862,
+    41.30947
+],
+  "geometry": {"coordinates":[-105.565862,41.30947],"type":"Point"}
+}

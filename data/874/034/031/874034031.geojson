@@ -1,0 +1,71 @@
+{
+  "id": 874034031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.563125,41.165083,-105.563125,41.165083",
+    "geom:latitude":41.165083,
+    "geom:longitude":-105.563125,
+    "iso:country":"US",
+    "sg:address":"150 Butte Loop",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3906",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3raJqyp4TOyP5Z1VWklbcX_41.165083_-105.563125@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311085,
+    "wof:geomhash":"3fee6b40455523ead25234c7d302f5b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874034031
+        }
+    ],
+    "wof:id":874034031,
+    "wof:lastmodified":1464311085,
+    "wof:name":"Gantenbein/Powers Associates",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -105.563125,
+    41.165083,
+    -105.563125,
+    41.165083
+],
+  "geometry": {"coordinates":[-105.563125,41.165083],"type":"Point"}
+}

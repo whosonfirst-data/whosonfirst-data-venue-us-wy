@@ -1,0 +1,58 @@
+{
+  "id": 874155991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.226596,41.584632,-109.226596,41.584632",
+    "geom:latitude":41.584632,
+    "geom:longitude":-109.226596,
+    "iso:country":"US",
+    "sg:address":"440 Dewar Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 6524",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "academic",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67DG6pL7xEoie35e5Tj9bK_41.584632_-109.226596@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312389,
+    "wof:geomhash":"16521c0072699a6178b69a460669933f",
+    "wof:hierarchy":[],
+    "wof:id":874155991,
+    "wof:lastmodified":1464312389,
+    "wof:name":"Roosevelt Project",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "special"
+    ]
+},
+  "bbox": [
+    -109.226596,
+    41.584632,
+    -109.226596,
+    41.584632
+],
+  "geometry": {"coordinates":[-109.226596,41.584632],"type":"Point"}
+}

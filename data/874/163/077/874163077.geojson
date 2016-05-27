@@ -1,0 +1,77 @@
+{
+  "id": 874163077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.534122,42.771071,-106.534122,42.771071",
+    "geom:latitude":42.771071,
+    "geom:longitude":-106.534122,
+    "iso:country":"US",
+    "sg:address":"7100 Speas Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3017",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "chicken",
+        "egg",
+        "feedlot",
+        "beef",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t8xyAdLizx3hs17lU9xkq_42.771071_-106.534122@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312460,
+    "wof:geomhash":"77132405ae8343aead7fd2e3d31eaab2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874163077
+        }
+    ],
+    "wof:id":874163077,
+    "wof:lastmodified":1464312460,
+    "wof:name":"Goose Egg Ranch",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "egg",
+        "feedlot",
+        "beef",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -106.534122,
+    42.771071,
+    -106.534122,
+    42.771071
+],
+  "geometry": {"coordinates":[-106.534122,42.771071],"type":"Point"}
+}

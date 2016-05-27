@@ -1,0 +1,71 @@
+{
+  "id": 874124567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.444615,42.88328,-106.444615,42.88328",
+    "geom:latitude":42.88328,
+    "geom:longitude":-106.444615,
+    "iso:country":"US",
+    "sg:address":"7712 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2337",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LCgqnPrsk5LgKPlclAjXp_42.883280_-106.444615@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312081,
+    "wof:geomhash":"fe92285583d2a623fe95a763380161e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874124567
+        }
+    ],
+    "wof:id":874124567,
+    "wof:lastmodified":1464312081,
+    "wof:name":"Tokyo Massage",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -106.444615,
+    42.88328,
+    -106.444615,
+    42.88328
+],
+  "geometry": {"coordinates":[-106.444615,42.88328],"type":"Point"}
+}

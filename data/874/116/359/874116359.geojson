@@ -1,0 +1,71 @@
+{
+  "id": 874116359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.299182,42.8558,-106.299182,42.8558",
+    "geom:latitude":42.8558,
+    "geom:longitude":-106.299182,
+    "iso:country":"US",
+    "sg:address":"1830 Burlington Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 3539",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "concrete",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_523CMsbisjvRmojusB4JcX_42.855800_-106.299182@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312000,
+    "wof:geomhash":"0470200111abbef808d49fdae23c5600",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874116359
+        }
+    ],
+    "wof:id":874116359,
+    "wof:lastmodified":1464312000,
+    "wof:name":"Flexcon",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "product"
+    ]
+},
+  "bbox": [
+    -106.299182,
+    42.8558,
+    -106.299182,
+    42.8558
+],
+  "geometry": {"coordinates":[-106.299182,42.8558],"type":"Point"}
+}

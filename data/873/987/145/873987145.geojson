@@ -1,0 +1,66 @@
+{
+  "id": 873987145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.615669,41.30743,-105.615669,41.30743",
+    "geom:latitude":41.30743,
+    "geom:longitude":-105.615669,
+    "iso:country":"US",
+    "sg:address":"523 S Adams St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 8860",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57pmm3G1LlDVkzdM1cFSNp_41.307430_-105.615669@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310669,
+    "wof:geomhash":"7826615c8c03909dae30529bd76cf18f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":873987145
+        }
+    ],
+    "wof:id":873987145,
+    "wof:lastmodified":1464310669,
+    "wof:name":"Best Value Inn",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.615669,
+    41.30743,
+    -105.615669,
+    41.30743
+],
+  "geometry": {"coordinates":[-105.615669,41.30743],"type":"Point"}
+}

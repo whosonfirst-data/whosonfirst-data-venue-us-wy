@@ -1,0 +1,69 @@
+{
+  "id": 874041101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.35324,42.80911,-106.35324,42.80911",
+    "geom:latitude":42.80911,
+    "geom:longitude":-106.35324,
+    "iso:country":"US",
+    "sg:address":"2568 Rainbow Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 3396",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "consulting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BrU4bMCt0vO71AUlWSCxe_42.809110_-106.353240@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311153,
+    "wof:geomhash":"0886164202f86dfc4898df282563d285",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874041101
+        }
+    ],
+    "wof:id":874041101,
+    "wof:lastmodified":1464311153,
+    "wof:name":"Copper Mountain Consulting",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting"
+    ]
+},
+  "bbox": [
+    -106.35324,
+    42.80911,
+    -106.35324,
+    42.80911
+],
+  "geometry": {"coordinates":[-106.35324,42.80911],"type":"Point"}
+}

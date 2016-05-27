@@ -1,0 +1,70 @@
+{
+  "id": 874229633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.270803,42.851386,-106.270803,42.851386",
+    "geom:latitude":42.851386,
+    "geom:longitude":-106.270803,
+    "iso:country":"US",
+    "sg:address":"86 SE Wyoming Blvd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/casper/214075-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 0056",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Mcu2hVPp6pau5HOmlmHsd_42.851386_-106.270803@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313157,
+    "wof:geomhash":"2c8bcb7f8bf2484148c3cafb6c45d845",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874229633
+        }
+    ],
+    "wof:id":874229633,
+    "wof:lastmodified":1464313157,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -106.270803,
+    42.851386,
+    -106.270803,
+    42.851386
+],
+  "geometry": {"coordinates":[-106.270803,42.851386],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874048223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.062773,44.530484,-109.062773,44.530484",
+    "geom:latitude":44.530484,
+    "geom:longitude":-109.062773,
+    "iso:country":"US",
+    "sg:address":"1207 Wyoming Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 5745",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U5pK0q8JeZaF7YPYaIwwT_44.530484_-109.062773@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311225,
+    "wof:geomhash":"29cb7dd25ae98042395b810080a7ff3e",
+    "wof:hierarchy":[],
+    "wof:id":874048223,
+    "wof:lastmodified":1464311225,
+    "wof:name":"Frank's Barber Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -109.062773,
+    44.530484,
+    -109.062773,
+    44.530484
+],
+  "geometry": {"coordinates":[-109.06277300000001,44.530484],"type":"Point"}
+}

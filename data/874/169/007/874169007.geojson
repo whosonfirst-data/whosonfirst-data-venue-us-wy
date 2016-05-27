@@ -1,0 +1,57 @@
+{
+  "id": 874169007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.812716,41.143676,-104.812716,41.143676",
+    "geom:latitude":41.143676,
+    "geom:longitude":-104.812716,
+    "iso:country":"US",
+    "sg:address":"604 E 25th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 3953",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mental"
+    ],
+    "sg:website":"www.sewmhc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f2PC67ywQl4GCYP2cAJqI_41.143676_-104.812716@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312517,
+    "wof:geomhash":"a436ea70437975206b98fad92ec232cf",
+    "wof:hierarchy":[],
+    "wof:id":874169007,
+    "wof:lastmodified":1464312517,
+    "wof:name":"Southeast Wyoming Mental Hlth",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -104.812716,
+    41.143676,
+    -104.812716,
+    41.143676
+],
+  "geometry": {"coordinates":[-104.81271599999999,41.143676],"type":"Point"}
+}

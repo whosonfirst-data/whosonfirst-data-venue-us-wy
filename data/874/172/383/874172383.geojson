@@ -1,0 +1,56 @@
+{
+  "id": 874172383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.819503,41.098791,-104.819503,41.098791",
+    "geom:latitude":41.098791,
+    "geom:longitude":-104.819503,
+    "iso:country":"US",
+    "sg:address":"1505 Lampman Ct",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 5086",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qb4l3bAKipDqlmfpMyfoF_41.098791_-104.819503@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312553,
+    "wof:geomhash":"862684b8cf52582651e5734b434679a2",
+    "wof:hierarchy":[],
+    "wof:id":874172383,
+    "wof:lastmodified":1464312553,
+    "wof:name":"Red Tape Trucking Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -104.819503,
+    41.098791,
+    -104.819503,
+    41.098791
+],
+  "geometry": {"coordinates":[-104.819503,41.098791],"type":"Point"}
+}

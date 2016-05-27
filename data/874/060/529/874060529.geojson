@@ -1,0 +1,58 @@
+{
+  "id": 874060529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.16466,42.029949,-105.16466,42.029949",
+    "geom:latitude":42.029949,
+    "geom:longitude":-105.16466,
+    "iso:country":"US",
+    "sg:address":"180 Kittell Rd",
+    "sg:city":"Wheatland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 322 6211",
+    "sg:postcode":"82201",
+    "sg:province":"WY",
+    "sg:tags":[
+        "fire",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BAnEPpTbTNG8Iic9AHLEw_42.029949_-105.164660@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311340,
+    "wof:geomhash":"83747adde8ec7a076fe4f3e4b34d1af1",
+    "wof:hierarchy":[],
+    "wof:id":874060529,
+    "wof:lastmodified":1464311340,
+    "wof:name":"Platte County Fire",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "protection"
+    ]
+},
+  "bbox": [
+    -105.16466,
+    42.029949,
+    -105.16466,
+    42.029949
+],
+  "geometry": {"coordinates":[-105.16466,42.029949],"type":"Point"}
+}

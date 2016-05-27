@@ -1,0 +1,58 @@
+{
+  "id": 873985223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.033922,42.587618,-110.033922,42.587618",
+    "geom:latitude":42.587618,
+    "geom:longitude":-110.033922,
+    "iso:country":"US",
+    "sg:address":"50 Reservoir Rd",
+    "sg:city":"Big Piney",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 276 3488",
+    "sg:postcode":"83113",
+    "sg:province":"WY",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rzffyfKZ2YSeH785LjjrU_42.587618_-110.033922@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310651,
+    "wof:geomhash":"0ce18556052e524f40f40c0a26cbf398",
+    "wof:hierarchy":[],
+    "wof:id":873985223,
+    "wof:lastmodified":1464310651,
+    "wof:name":"Green River Valley Refuse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -110.033922,
+    42.587618,
+    -110.033922,
+    42.587618
+],
+  "geometry": {"coordinates":[-110.033922,42.587618],"type":"Point"}
+}

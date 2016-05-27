@@ -1,0 +1,65 @@
+{
+  "id": 874105247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.748407,44.749685,-108.748407,44.749685",
+    "geom:latitude":44.749685,
+    "geom:longitude":-108.748407,
+    "iso:country":"US",
+    "sg:address":"368 S Hamilton St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 4048",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "engine",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_014qZhmsxxRtRipekahN97_44.749685_-108.748407@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311860,
+    "wof:geomhash":"9e7e2e7a5478cffed8e0569da1a3952c",
+    "wof:hierarchy":[],
+    "wof:id":874105247,
+    "wof:lastmodified":1464311860,
+    "wof:name":"Polecat Manufacturing Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "engine",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -108.748407,
+    44.749685,
+    -108.748407,
+    44.749685
+],
+  "geometry": {"coordinates":[-108.748407,44.749685],"type":"Point"}
+}

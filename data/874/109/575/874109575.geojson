@@ -1,0 +1,56 @@
+{
+  "id": 874109575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.764695,43.480243,-110.764695,43.480243",
+    "geom:latitude":43.480243,
+    "geom:longitude":-110.764695,
+    "iso:country":"US",
+    "sg:address":"170 W Deloney Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 4142",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "herb"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UuZgbGrOstZhmhdRE7PUQ_43.480243_-110.764695@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311909,
+    "wof:geomhash":"387e5bc87735c0f2e5930adbc4900e12",
+    "wof:hierarchy":[],
+    "wof:id":874109575,
+    "wof:lastmodified":1464311909,
+    "wof:name":"Herb Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "herb"
+    ]
+},
+  "bbox": [
+    -110.764695,
+    43.480243,
+    -110.764695,
+    43.480243
+],
+  "geometry": {"coordinates":[-110.764695,43.480243],"type":"Point"}
+}

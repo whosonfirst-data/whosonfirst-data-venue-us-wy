@@ -1,0 +1,58 @@
+{
+  "id": 874025729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.76924,41.16104,-104.76924,41.16104",
+    "geom:latitude":41.16104,
+    "geom:longitude":-104.76924,
+    "iso:country":"US",
+    "sg:address":"3304 Sheridan St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 7947",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "housing",
+        "authority"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dEPsogPLPB0eP8EkbY1oG_41.161040_-104.769240@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311004,
+    "wof:geomhash":"20df596b4b8a7ddd6a9e334319a82ca2",
+    "wof:hierarchy":[],
+    "wof:id":874025729,
+    "wof:lastmodified":1464311004,
+    "wof:name":"Cheyenne Housing Authority",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "authority"
+    ]
+},
+  "bbox": [
+    -104.76924,
+    41.16104,
+    -104.76924,
+    41.16104
+],
+  "geometry": {"coordinates":[-104.76924,41.16104],"type":"Point"}
+}

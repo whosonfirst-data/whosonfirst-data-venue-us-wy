@@ -1,0 +1,56 @@
+{
+  "id": 874007461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.391305,44.839576,-108.391305,44.839576",
+    "geom:latitude":44.839576,
+    "geom:longitude":-108.391305,
+    "iso:country":"US",
+    "sg:address":"223 Montana Ave",
+    "sg:city":"Lovell",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 548 6819",
+    "sg:postcode":"82431",
+    "sg:province":"WY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y6mvChbglpRcywoCKSXHx_44.839576_-108.391305@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310836,
+    "wof:geomhash":"ab2cad84e7bf54f36fc6e81612735e1e",
+    "wof:hierarchy":[],
+    "wof:id":874007461,
+    "wof:lastmodified":1464310836,
+    "wof:name":"Lovell Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -108.391305,
+    44.839576,
+    -108.391305,
+    44.839576
+],
+  "geometry": {"coordinates":[-108.391305,44.839576],"type":"Point"}
+}

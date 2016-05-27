@@ -1,0 +1,71 @@
+{
+  "id": 874192559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.32994,42.85729,-106.32994,42.85729",
+    "geom:latitude":42.85729,
+    "geom:longitude":-106.32994,
+    "iso:country":"US",
+    "sg:address":"300 W F St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 2531",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "stock",
+        "insurer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LPEu2WbLdZRVHddop6x3b_42.857290_-106.329940@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312765,
+    "wof:geomhash":"a9e3d841b5039fa807f89753d79902a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874192559
+        }
+    ],
+    "wof:id":874192559,
+    "wof:lastmodified":1464312765,
+    "wof:name":"Mony Life",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "insurer"
+    ]
+},
+  "bbox": [
+    -106.32994,
+    42.85729,
+    -106.32994,
+    42.85729
+],
+  "geometry": {"coordinates":[-106.32993999999999,42.85729],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874182725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.225477,41.584736,-109.225477,41.584736",
+    "geom:latitude":41.584736,
+    "geom:longitude":-109.225477,
+    "iso:country":"US",
+    "sg:address":"625 Center St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 2984",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ltoGnYOvJTIlvyuYE0g3z_41.584736_-109.225477@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312657,
+    "wof:geomhash":"59065e434f7d2f8df4330a1e0351913c",
+    "wof:hierarchy":[],
+    "wof:id":874182725,
+    "wof:lastmodified":1464312657,
+    "wof:name":"Robert C Brown DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -109.225477,
+    41.584736,
+    -109.225477,
+    41.584736
+],
+  "geometry": {"coordinates":[-109.225477,41.584736],"type":"Point"}
+}

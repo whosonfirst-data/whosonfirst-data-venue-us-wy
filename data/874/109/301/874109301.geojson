@@ -1,0 +1,72 @@
+{
+  "id": 874109301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.427372,42.867179,-106.427372,42.867179",
+    "geom:latitude":42.867179,
+    "geom:longitude":-106.427372,
+    "iso:country":"US",
+    "sg:address":"7072 Barton Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 2922",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "sg:website":"www.71construction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42Z2GJclGJFL2vnO0d84QG_42.867179_-106.427372@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311906,
+    "wof:geomhash":"bbdc919d8387d0087d8187eae2bc9b29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874109301
+        }
+    ],
+    "wof:id":874109301,
+    "wof:lastmodified":1464311906,
+    "wof:name":"71 Construction",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.427372,
+    42.867179,
+    -106.427372,
+    42.867179
+],
+  "geometry": {"coordinates":[-106.42737200000001,42.867179],"type":"Point"}
+}

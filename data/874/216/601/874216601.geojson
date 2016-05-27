@@ -1,0 +1,56 @@
+{
+  "id": 874216601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.368842,41.245072,-104.368842,41.245072",
+    "geom:latitude":41.245072,
+    "geom:longitude":-104.368842,
+    "iso:country":"US",
+    "sg:address":"1600 Co Rd 148",
+    "sg:city":"Burns",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 547 3357",
+    "sg:postcode":"82053",
+    "sg:province":"WY",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hJqqIwCXigJxwSMHTKJQM_41.245072_-104.368842@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313019,
+    "wof:geomhash":"170855ac92105822446c35415bb2cc92",
+    "wof:hierarchy":[],
+    "wof:id":874216601,
+    "wof:lastmodified":1464313019,
+    "wof:name":"Risha Ranch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -104.368842,
+    41.245072,
+    -104.368842,
+    41.245072
+],
+  "geometry": {"coordinates":[-104.368842,41.245072],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873992303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.423053,42.873703,-106.423053,42.873703",
+    "geom:latitude":42.873703,
+    "geom:longitude":-106.423053,
+    "iso:country":"US",
+    "sg:address":"6671 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 2109",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RHpcdncZuYQlBn7zUNiNe_42.873703_-106.423053@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310707,
+    "wof:geomhash":"6a9592e60b8f9ac29b7959298b287f25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873992303
+        }
+    ],
+    "wof:id":873992303,
+    "wof:lastmodified":1464310707,
+    "wof:name":"Glenn's Machine Shop Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.423053,
+    42.873703,
+    -106.423053,
+    42.873703
+],
+  "geometry": {"coordinates":[-106.423053,42.873703],"type":"Point"}
+}

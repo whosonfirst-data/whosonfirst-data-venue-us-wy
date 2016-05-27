@@ -1,0 +1,64 @@
+{
+  "id": 874164227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.270866,42.849573,-106.270866,42.849573",
+    "geom:latitude":42.849573,
+    "geom:longitude":-106.270866,
+    "iso:country":"US",
+    "sg:address":"190 SE Wyoming Blvd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4698",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09NANhVOaqgbnQD0egZxxN_42.849573_-106.270866@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312471,
+    "wof:geomhash":"6731fe02a1831ab0001f7a036e88fdfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874164227
+        }
+    ],
+    "wof:id":874164227,
+    "wof:lastmodified":1464312471,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.270866,
+    42.849573,
+    -106.270866,
+    42.849573
+],
+  "geometry": {"coordinates":[-106.270866,42.849573],"type":"Point"}
+}

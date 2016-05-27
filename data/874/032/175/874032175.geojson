@@ -1,0 +1,72 @@
+{
+  "id": 874032175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.317154,42.857354,-106.317154,42.857354",
+    "geom:latitude":42.857354,
+    "geom:longitude":-106.317154,
+    "iso:country":"US",
+    "sg:address":"750 E F St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3547",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "industry",
+        "special"
+    ],
+    "sg:website":"www.industrialscreen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fJkemQA5bdua2Y5oW4h2l_42.857354_-106.317154@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311068,
+    "wof:geomhash":"0d34e9dfef502f45bcda5084d1ef333c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874032175
+        }
+    ],
+    "wof:id":874032175,
+    "wof:lastmodified":1464311068,
+    "wof:name":"Industrial Screen & Mntnc Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "special"
+    ]
+},
+  "bbox": [
+    -106.317154,
+    42.857354,
+    -106.317154,
+    42.857354
+],
+  "geometry": {"coordinates":[-106.317154,42.857354],"type":"Point"}
+}

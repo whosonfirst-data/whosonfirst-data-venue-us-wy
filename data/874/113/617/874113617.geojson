@@ -1,0 +1,64 @@
+{
+  "id": 874113617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.328651,42.850774,-106.328651,42.850774",
+    "geom:latitude":42.850774,
+    "geom:longitude":-106.328651,
+    "iso:country":"US",
+    "sg:address":"130 N Ash Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 3595",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vjm4GSnfFJG8zUWg5ufds_42.850774_-106.328651@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311973,
+    "wof:geomhash":"51b7602a610c982c838d61f3b3d276d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874113617
+        }
+    ],
+    "wof:id":874113617,
+    "wof:lastmodified":1464311973,
+    "wof:name":"John L Bouzis DDS PC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.328651,
+    42.850774,
+    -106.328651,
+    42.850774
+],
+  "geometry": {"coordinates":[-106.32865099999999,42.850774],"type":"Point"}
+}

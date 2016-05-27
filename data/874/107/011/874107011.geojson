@@ -1,0 +1,73 @@
+{
+  "id": 874107011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343715,42.809927,-106.343715,42.809927",
+    "geom:latitude":42.809927,
+    "geom:longitude":-106.343715,
+    "iso:country":"US",
+    "sg:address":"4170 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 377 2000",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wireless",
+        "communications",
+        "telephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vYGUWzaIlCOvghsv1fchS_42.809927_-106.343715@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311883,
+    "wof:geomhash":"1861de549041f7488bb899a1da67d541",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874107011
+        }
+    ],
+    "wof:id":874107011,
+    "wof:lastmodified":1464311883,
+    "wof:name":"Pyxis Communications",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wireless",
+        "communications",
+        "telephone"
+    ]
+},
+  "bbox": [
+    -106.343715,
+    42.809927,
+    -106.343715,
+    42.809927
+],
+  "geometry": {"coordinates":[-106.343715,42.809927],"type":"Point"}
+}

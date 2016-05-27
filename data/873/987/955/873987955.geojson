@@ -1,0 +1,56 @@
+{
+  "id": 873987955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.750296,42.848401,-108.750296,42.848401",
+    "geom:latitude":42.848401,
+    "geom:longitude":-108.750296,
+    "iso:country":"US",
+    "sg:address":"1335 W Main St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 8400",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lJx2vkaf0do638pg1cLqj_42.848401_-108.750296@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310675,
+    "wof:geomhash":"c8de96801ff9adbfc765130c8d463676",
+    "wof:hierarchy":[],
+    "wof:id":873987955,
+    "wof:lastmodified":1464310675,
+    "wof:name":"US Land Management Bureau",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -108.750296,
+    42.848401,
+    -108.750296,
+    42.848401
+],
+  "geometry": {"coordinates":[-108.75029600000001,42.848401],"type":"Point"}
+}

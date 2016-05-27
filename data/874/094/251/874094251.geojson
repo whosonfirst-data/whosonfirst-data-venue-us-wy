@@ -1,0 +1,58 @@
+{
+  "id": 874094251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.755491,44.749909,-108.755491,44.749909",
+    "geom:latitude":44.749909,
+    "geom:longitude":-108.755491,
+    "iso:country":"US",
+    "sg:address":"492 E South St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 5248",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aYc0qCgubdZ6qGBWZ4DNH_44.749909_-108.755491@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311706,
+    "wof:geomhash":"4e2918193fe6f8565647d4b075a63dd9",
+    "wof:hierarchy":[],
+    "wof:id":874094251,
+    "wof:lastmodified":1464311706,
+    "wof:name":"Steve's Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.755491,
+    44.749909,
+    -108.755491,
+    44.749909
+],
+  "geometry": {"coordinates":[-108.75549100000001,44.749909],"type":"Point"}
+}

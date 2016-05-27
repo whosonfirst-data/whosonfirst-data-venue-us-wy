@@ -1,0 +1,71 @@
+{
+  "id": 874181077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.271695,42.837396,-106.271695,42.837396",
+    "geom:latitude":42.837396,
+    "geom:longitude":-106.271695,
+    "iso:country":"US",
+    "sg:address":"4015 Somerset",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3757",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "bicycle",
+        "tours"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PpnQJbO3Xxf6wRRrJPDHp_42.837396_-106.271695@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312641,
+    "wof:geomhash":"399a70c23dc3fa2137cb5c45c4e26713",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874181077
+        }
+    ],
+    "wof:id":874181077,
+    "wof:lastmodified":1464312641,
+    "wof:name":"Over The Hill Mountain Bike",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bicycle",
+        "tours"
+    ]
+},
+  "bbox": [
+    -106.271695,
+    42.837396,
+    -106.271695,
+    42.837396
+],
+  "geometry": {"coordinates":[-106.27169499999999,42.837396],"type":"Point"}
+}

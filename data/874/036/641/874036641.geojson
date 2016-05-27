@@ -1,0 +1,56 @@
+{
+  "id": 874036641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.378474,44.400964,-104.378474,44.400964",
+    "geom:latitude":44.400964,
+    "geom:longitude":-104.378474,
+    "iso:country":"US",
+    "sg:address":"210 E Thompson St",
+    "sg:city":"Sundance",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 283 3423",
+    "sg:postcode":"82729",
+    "sg:province":"WY",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oDJ50eFel0a8RlXzo8yaA_44.400964_-104.378474@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311113,
+    "wof:geomhash":"f6c63f782347037aaa594ad864915b1c",
+    "wof:hierarchy":[],
+    "wof:id":874036641,
+    "wof:lastmodified":1464311113,
+    "wof:name":"Sundance Appliance Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -104.378474,
+    44.400964,
+    -104.378474,
+    44.400964
+],
+  "geometry": {"coordinates":[-104.378474,44.400964],"type":"Point"}
+}

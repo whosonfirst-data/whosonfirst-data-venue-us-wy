@@ -1,0 +1,73 @@
+{
+  "id": 874062591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.216926,42.853017,-106.216926,42.853017",
+    "geom:latitude":42.853017,
+    "geom:longitude":-106.216926,
+    "iso:country":"US",
+    "sg:address":"251 Gusher",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 1355",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "boring",
+        "drilling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3avA2Tcjb33hE6dj4F6a16_42.853017_-106.216926@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311359,
+    "wof:geomhash":"a2eae61e87b2922dd3d7be57e3b1c9a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874062591
+        }
+    ],
+    "wof:id":874062591,
+    "wof:lastmodified":1464311359,
+    "wof:name":"Elco Drilling",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boring",
+        "drilling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.216926,
+    42.853017,
+    -106.216926,
+    42.853017
+],
+  "geometry": {"coordinates":[-106.216926,42.853017],"type":"Point"}
+}

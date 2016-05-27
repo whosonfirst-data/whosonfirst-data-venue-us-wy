@@ -1,0 +1,58 @@
+{
+  "id": 874129493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.99142,41.265559,-110.99142,41.265559",
+    "geom:latitude":41.265559,
+    "geom:longitude":-110.99142,
+    "iso:country":"US",
+    "sg:address":"98 Independence Dr",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 1150",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3451nxAlzZdfQbtgfFBaOx_41.265559_-110.991420@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312128,
+    "wof:geomhash":"eac206bdc4aa6c59387c50b59cc5dd11",
+    "wof:hierarchy":[],
+    "wof:id":874129493,
+    "wof:lastmodified":1464312128,
+    "wof:name":"Wyoming Employment Tax",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -110.99142,
+    41.265559,
+    -110.99142,
+    41.265559
+],
+  "geometry": {"coordinates":[-110.99142000000001,41.265559],"type":"Point"}
+}

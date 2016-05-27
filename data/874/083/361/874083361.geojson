@@ -1,0 +1,73 @@
+{
+  "id": 874083361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.358527,42.827354,-106.358527,42.827354",
+    "geom:latitude":42.827354,
+    "geom:longitude":-106.358527,
+    "iso:country":"US",
+    "sg:address":"3130 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 0854",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bxqeAyNLPF12zBf21c3xl_42.827354_-106.358527@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311593,
+    "wof:geomhash":"b55d60b55482c4e7af5db7b30f8d50a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874083361
+        }
+    ],
+    "wof:id":874083361,
+    "wof:lastmodified":1464311593,
+    "wof:name":"Midas Auto Svc Experts",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -106.358527,
+    42.827354,
+    -106.358527,
+    42.827354
+],
+  "geometry": {"coordinates":[-106.358527,42.827354],"type":"Point"}
+}

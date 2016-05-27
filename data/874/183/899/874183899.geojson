@@ -1,0 +1,69 @@
+{
+  "id": 874183899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.327888,42.843969,-106.327888,42.843969",
+    "geom:latitude":42.843969,
+    "geom:longitude":-106.327888,
+    "iso:country":"US",
+    "sg:address":"631 S Ash St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 5600",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LQc2x59VbcxeMwsnxSdbp_42.843969_-106.327888@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312676,
+    "wof:geomhash":"28b0e0a3e6aefa4b225aa1402b280a2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874183899
+        }
+    ],
+    "wof:id":874183899,
+    "wof:lastmodified":1464312676,
+    "wof:name":"Westside Animal Hospital",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -106.327888,
+    42.843969,
+    -106.327888,
+    42.843969
+],
+  "geometry": {"coordinates":[-106.327888,42.843969],"type":"Point"}
+}

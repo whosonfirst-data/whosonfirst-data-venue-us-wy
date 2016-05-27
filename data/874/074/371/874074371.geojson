@@ -1,0 +1,56 @@
+{
+  "id": 874074371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.959343,44.797366,-106.959343,44.797366",
+    "geom:latitude":44.797366,
+    "geom:longitude":-106.959343,
+    "iso:country":"US",
+    "sg:address":"231 W Loucks St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 7313",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25qM9TD4NfQzKjTYS5phLU_44.797366_-106.959343@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311497,
+    "wof:geomhash":"01429bec8402639086691f0630cab540",
+    "wof:hierarchy":[],
+    "wof:id":874074371,
+    "wof:lastmodified":1464311497,
+    "wof:name":"Carl Ritola Dr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -106.959343,
+    44.797366,
+    -106.959343,
+    44.797366
+],
+  "geometry": {"coordinates":[-106.959343,44.797366],"type":"Point"}
+}

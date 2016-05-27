@@ -1,0 +1,59 @@
+{
+  "id": 874229101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.752707,44.752811,-108.752707,44.752811",
+    "geom:latitude":44.752811,
+    "geom:longitude":-108.752707,
+    "iso:country":"US",
+    "sg:address":"525 E Coulter Ave",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/powell/181576-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 9730",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rTDEBcdoTFKBqov32fCK5_44.752811_-108.752707@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313152,
+    "wof:geomhash":"d437c704ae48d74b9b7092d74d128c94",
+    "wof:hierarchy":[],
+    "wof:id":874229101,
+    "wof:lastmodified":1464313152,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -108.752707,
+    44.752811,
+    -108.752707,
+    44.752811
+],
+  "geometry": {"coordinates":[-108.752707,44.752811],"type":"Point"}
+}

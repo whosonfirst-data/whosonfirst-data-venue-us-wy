@@ -1,0 +1,58 @@
+{
+  "id": 874060769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.69996,44.345683,-106.69996,44.345683",
+    "geom:latitude":44.345683,
+    "geom:longitude":-106.69996,
+    "iso:country":"US",
+    "sg:address":"49 Western Ave",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 2992",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OFCv1ZrnQIyUgDhsIoOSj_44.345683_-106.699960@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311342,
+    "wof:geomhash":"c0dae0597bdb2300d5d6d407786003e1",
+    "wof:hierarchy":[],
+    "wof:id":874060769,
+    "wof:lastmodified":1464311342,
+    "wof:name":"Ron's Plumbing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.69996,
+    44.345683,
+    -106.69996,
+    44.345683
+],
+  "geometry": {"coordinates":[-106.69996,44.345683],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874187437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.976572,44.79495,-106.976572,44.79495",
+    "geom:latitude":44.79495,
+    "geom:longitude":-106.976572,
+    "iso:country":"US",
+    "sg:address":"241 Centennial Ln",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 4500",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U5xn90HYzpeLth2ySiOQj_44.794950_-106.976572@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312714,
+    "wof:geomhash":"57da30ecfc0a7c481f869f20f7266aca",
+    "wof:hierarchy":[],
+    "wof:id":874187437,
+    "wof:lastmodified":1464312714,
+    "wof:name":"Bischoff Veterinary Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -106.976572,
+    44.79495,
+    -106.976572,
+    44.79495
+],
+  "geometry": {"coordinates":[-106.976572,44.79495],"type":"Point"}
+}

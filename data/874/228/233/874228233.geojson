@@ -1,0 +1,59 @@
+{
+  "id": 874228233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.788554,41.13844,-104.788554,41.13844",
+    "geom:latitude":41.13844,
+    "geom:longitude":-104.788554,
+    "iso:country":"US",
+    "sg:address":"2414 E Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/109480-village-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 0414",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YdJ55jVPIjtvl5DFtbM1q_41.138440_-104.788554@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313143,
+    "wof:geomhash":"dae9679416baf33fce5fe7884f27eedc",
+    "wof:hierarchy":[],
+    "wof:id":874228233,
+    "wof:lastmodified":1464313143,
+    "wof:name":"Village Inn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -104.788554,
+    41.13844,
+    -104.788554,
+    41.13844
+],
+  "geometry": {"coordinates":[-104.788554,41.13844],"type":"Point"}
+}

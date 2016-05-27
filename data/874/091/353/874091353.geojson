@@ -1,0 +1,58 @@
+{
+  "id": 874091353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.05537,44.500336,-108.05537,44.500336",
+    "geom:latitude":44.500336,
+    "geom:longitude":-108.05537,
+    "iso:country":"US",
+    "sg:address":"1000 N 6th St",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 4767",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Bo0GQSBYrcZ91GoA1cJal_44.500336_-108.055370@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311680,
+    "wof:geomhash":"004d8d18e1885c29b92e77d0a2fcc424",
+    "wof:hierarchy":[],
+    "wof:id":874091353,
+    "wof:lastmodified":1464311680,
+    "wof:name":"Rick's Towing & Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -108.05537,
+    44.500336,
+    -108.05537,
+    44.500336
+],
+  "geometry": {"coordinates":[-108.05537,44.500336],"type":"Point"}
+}

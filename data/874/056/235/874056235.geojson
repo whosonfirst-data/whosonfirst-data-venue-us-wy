@@ -1,0 +1,71 @@
+{
+  "id": 874056235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.59734,41.422123,-105.59734,41.422123",
+    "geom:latitude":41.422123,
+    "geom:longitude":-105.59734,
+    "iso:country":"US",
+    "sg:address":"84 Antelope Ridge Loop",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 8511",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "taping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nAnNANkC75YNbu7G2J4Ik_41.422123_-105.597340@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311303,
+    "wof:geomhash":"9ce6cd4b05c830bdf02ce262905005bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874056235
+        }
+    ],
+    "wof:id":874056235,
+    "wof:lastmodified":1464311303,
+    "wof:name":"Video Taping Svc",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taping"
+    ]
+},
+  "bbox": [
+    -105.59734,
+    41.422123,
+    -105.59734,
+    41.422123
+],
+  "geometry": {"coordinates":[-105.59734,41.422123],"type":"Point"}
+}

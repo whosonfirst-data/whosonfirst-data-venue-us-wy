@@ -1,0 +1,51 @@
+{
+  "id": 874085257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.045404,44.526026,-109.045404,44.526026",
+    "geom:latitude":44.526026,
+    "geom:longitude":-109.045404,
+    "iso:country":"US",
+    "sg:address":"2320 Sheridan Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 2631",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DVxmDlqkuPpD1x9nPQ3yq_44.526026_-109.045404@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311611,
+    "wof:geomhash":"d3f6c0c9bf639c0b9f90f65f3b2a29e5",
+    "wof:hierarchy":[],
+    "wof:id":874085257,
+    "wof:lastmodified":1464311611,
+    "wof:name":"Cody Anmal Hlth Veterinary Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.045404,
+    44.526026,
+    -109.045404,
+    44.526026
+],
+  "geometry": {"coordinates":[-109.045404,44.526026],"type":"Point"}
+}

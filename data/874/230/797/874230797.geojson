@@ -1,0 +1,58 @@
+{
+  "id": 874230797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.054003,44.517471,-109.054003,44.517471",
+    "geom:latitude":44.517471,
+    "geom:longitude":-109.054003,
+    "iso:country":"US",
+    "sg:address":"2005 17th St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cody/206551-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aTg9Bwjt5CN6VZOrq3VY3_44.517261_-109.054062@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313172,
+    "wof:geomhash":"675adf6e5a5e48b0320044d33d5a437f",
+    "wof:hierarchy":[],
+    "wof:id":874230797,
+    "wof:lastmodified":1464313172,
+    "wof:name":"McDonald's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -109.054003,
+    44.517471,
+    -109.054003,
+    44.517471
+],
+  "geometry": {"coordinates":[-109.05400299999999,44.517471],"type":"Point"}
+}

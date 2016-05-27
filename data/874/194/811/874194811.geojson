@@ -1,0 +1,56 @@
+{
+  "id": 874194811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.630825,43.534591,-109.630825,43.534591",
+    "geom:latitude":43.534591,
+    "geom:longitude":-109.630825,
+    "iso:country":"US",
+    "sg:address":"1 1st St",
+    "sg:city":"Dubois",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 455 2029",
+    "sg:postcode":"82513",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZQTwty5Wufp4ysGirxaL9_43.534591_-109.630825@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312787,
+    "wof:geomhash":"ed99e50c3009e1013a6a0151da8defda",
+    "wof:hierarchy":[],
+    "wof:id":874194811,
+    "wof:lastmodified":1464312787,
+    "wof:name":"Whiskey Mountain Dental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -109.630825,
+    43.534591,
+    -109.630825,
+    43.534591
+],
+  "geometry": {"coordinates":[-109.630825,43.534591],"type":"Point"}
+}

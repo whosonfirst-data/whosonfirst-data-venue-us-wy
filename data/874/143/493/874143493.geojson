@@ -1,0 +1,62 @@
+{
+  "id": 874143493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.038857,44.380706,-108.038857,44.380706",
+    "geom:latitude":44.380706,
+    "geom:longitude":-108.038857,
+    "iso:country":"US",
+    "sg:address":"215 S 4th St",
+    "sg:city":"Basin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 568 2529",
+    "sg:postcode":"82410",
+    "sg:province":"WY",
+    "sg:tags":[
+        "driver",
+        "station",
+        "examination",
+        "license"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hegXFkbL4atunzA5t0Krv_44.380706_-108.038857@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312267,
+    "wof:geomhash":"7241bf16cb69edd5722319cad5f1f760",
+    "wof:hierarchy":[],
+    "wof:id":874143493,
+    "wof:lastmodified":1464312267,
+    "wof:name":"Wydot Drver Lcnse Exmntion Stn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "driver",
+        "station",
+        "examination",
+        "license"
+    ]
+},
+  "bbox": [
+    -108.038857,
+    44.380706,
+    -108.038857,
+    44.380706
+],
+  "geometry": {"coordinates":[-108.03885699999999,44.380706],"type":"Point"}
+}

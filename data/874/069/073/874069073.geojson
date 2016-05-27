@@ -1,0 +1,71 @@
+{
+  "id": 874069073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.276,42.835517,-106.276,42.835517",
+    "geom:latitude":42.835517,
+    "geom:longitude":-106.276,
+    "iso:country":"US",
+    "sg:address":"3841 E 15th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3551",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UtYTFkseq8jOaXF3QdgkM_42.835517_-106.276000@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311424,
+    "wof:geomhash":"4a74be05ba9c445ca85af2ec5844cd5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874069073
+        }
+    ],
+    "wof:id":874069073,
+    "wof:lastmodified":1464311424,
+    "wof:name":"Quail Run Apartments",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -106.276,
+    42.835517,
+    -106.276,
+    42.835517
+],
+  "geometry": {"coordinates":[-106.276,42.835517],"type":"Point"}
+}

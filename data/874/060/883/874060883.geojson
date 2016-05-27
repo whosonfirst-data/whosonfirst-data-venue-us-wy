@@ -1,0 +1,73 @@
+{
+  "id": 874060883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.317694,42.846604,-106.317694,42.846604",
+    "geom:latitude":42.846604,
+    "geom:longitude":-106.317694,
+    "iso:country":"US",
+    "sg:address":"629 E 4th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1696",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mx20HjBNIIMWvriDZH3PO_42.846604_-106.317694@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311343,
+    "wof:geomhash":"33f9a5efee21ef8b92cf565b994d41b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874060883
+        }
+    ],
+    "wof:id":874060883,
+    "wof:lastmodified":1464311343,
+    "wof:name":"Frank Tanner",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -106.317694,
+    42.846604,
+    -106.317694,
+    42.846604
+],
+  "geometry": {"coordinates":[-106.317694,42.846604],"type":"Point"}
+}

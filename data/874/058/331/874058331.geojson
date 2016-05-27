@@ -1,0 +1,69 @@
+{
+  "id": 874058331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.295817,42.844505,-106.295817,42.844505",
+    "geom:latitude":42.844505,
+    "geom:longitude":-106.295817,
+    "iso:country":"US",
+    "sg:address":"2444 E 6th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 1553",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R50BXF1fBxq6Y5xqvehpk_42.844505_-106.295817@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311320,
+    "wof:geomhash":"f1903bf0b72a5a2a5ab1595d4ed1b3b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874058331
+        }
+    ],
+    "wof:id":874058331,
+    "wof:lastmodified":1464311320,
+    "wof:name":"Prairie Wind Antiques LLC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -106.295817,
+    42.844505,
+    -106.295817,
+    42.844505
+],
+  "geometry": {"coordinates":[-106.295817,42.844505],"type":"Point"}
+}

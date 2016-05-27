@@ -1,0 +1,56 @@
+{
+  "id": 874033601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.744737,42.838462,-108.744737,42.838462",
+    "geom:latitude":42.838462,
+    "geom:longitude":-108.744737,
+    "iso:country":"US",
+    "sg:address":"372 W Main St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 8527",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pgdJMjKUsphbBUry1YU2o_42.838462_-108.744737@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311081,
+    "wof:geomhash":"63a260e287a12446bf3d48da0f70605c",
+    "wof:hierarchy":[],
+    "wof:id":874033601,
+    "wof:lastmodified":1464311081,
+    "wof:name":"Dollar Discount",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -108.744737,
+    42.838462,
+    -108.744737,
+    42.838462
+],
+  "geometry": {"coordinates":[-108.744737,42.838462],"type":"Point"}
+}

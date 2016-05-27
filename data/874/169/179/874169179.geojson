@@ -1,0 +1,62 @@
+{
+  "id": 874169179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.054196,44.488783,-108.054196,44.488783",
+    "geom:latitude":44.488783,
+    "geom:longitude":-108.054196,
+    "iso:country":"US",
+    "sg:address":"521 Greybull Ave",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 2100",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "bus",
+        "line",
+        "business",
+        "association"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hYFtJmgfOgBgyGQM4aaXz_44.488783_-108.054196@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312519,
+    "wof:geomhash":"f63bb86649ce3dcc42419da7212963d6",
+    "wof:hierarchy":[],
+    "wof:id":874169179,
+    "wof:lastmodified":1464312519,
+    "wof:name":"Chamber Cmmrce Hsptlity Cboose",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line",
+        "business",
+        "association"
+    ]
+},
+  "bbox": [
+    -108.054196,
+    44.488783,
+    -108.054196,
+    44.488783
+],
+  "geometry": {"coordinates":[-108.054196,44.488783],"type":"Point"}
+}

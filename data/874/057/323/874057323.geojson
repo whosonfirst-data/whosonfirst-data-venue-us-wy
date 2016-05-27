@@ -1,0 +1,73 @@
+{
+  "id": 874057323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595155,41.308111,-105.595155,41.308111",
+    "geom:latitude":41.308111,
+    "geom:longitude":-105.595155,
+    "iso:country":"US",
+    "sg:address":"617 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 4331",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plant",
+        "packing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UmDxxxVYjBuWKyWWAtpaR_41.308111_-105.595155@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311312,
+    "wof:geomhash":"b6b412bbdb1b160c70ff539350c9c427",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874057323
+        }
+    ],
+    "wof:id":874057323,
+    "wof:lastmodified":1464311312,
+    "wof:name":"Big Daddy Meats",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "packing"
+    ]
+},
+  "bbox": [
+    -105.595155,
+    41.308111,
+    -105.595155,
+    41.308111
+],
+  "geometry": {"coordinates":[-105.59515500000001,41.308111],"type":"Point"}
+}

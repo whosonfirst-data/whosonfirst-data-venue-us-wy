@@ -1,0 +1,58 @@
+{
+  "id": 874052193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.067546,44.52268,-109.067546,44.52268",
+    "geom:latitude":44.52268,
+    "geom:longitude":-109.067546,
+    "iso:country":"US",
+    "sg:address":"1008 Cody Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 5802",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LZOV42GUlZnXvR7CsNINl_44.522680_-109.067546@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311261,
+    "wof:geomhash":"294534ba876632d6c86624560578d093",
+    "wof:hierarchy":[],
+    "wof:id":874052193,
+    "wof:lastmodified":1464311261,
+    "wof:name":"Big Horn Basin Pathology",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -109.067546,
+    44.52268,
+    -109.067546,
+    44.52268
+],
+  "geometry": {"coordinates":[-109.06754599999999,44.52268],"type":"Point"}
+}

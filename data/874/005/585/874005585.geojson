@@ -1,0 +1,60 @@
+{
+  "id": 874005585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.703096,43.555301,-109.703096,43.555301",
+    "geom:latitude":43.555301,
+    "geom:longitude":-109.703096,
+    "iso:country":"US",
+    "sg:address":"151 Bald Mountain Rd",
+    "sg:city":"Dubois",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 455 2702",
+    "sg:postcode":"82513",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cat",
+        "dog",
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kKlemDxiBcLziaDPHUmNF_43.555301_-109.703096@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310820,
+    "wof:geomhash":"fe99dee94194686a481d4df69bab3a4b",
+    "wof:hierarchy":[],
+    "wof:id":874005585,
+    "wof:lastmodified":1464310820,
+    "wof:name":"Geyser Creek Boarding Kennels",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cat",
+        "dog",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -109.703096,
+    43.555301,
+    -109.703096,
+    43.555301
+],
+  "geometry": {"coordinates":[-109.703096,43.555301],"type":"Point"}
+}

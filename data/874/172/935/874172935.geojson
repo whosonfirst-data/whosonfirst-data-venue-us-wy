@@ -1,0 +1,73 @@
+{
+  "id": 874172935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.401408,42.829338,-106.401408,42.829338",
+    "geom:latitude":42.829338,
+    "geom:longitude":-106.401408,
+    "iso:country":"US",
+    "sg:address":"2013 Boysen St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 2650",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "horizontal",
+        "directional",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x2126yKWY6H2dwLF3e8hH_42.829338_-106.401408@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312558,
+    "wof:geomhash":"bf6f92ec5144869bc6391b5f6245f75e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874172935
+        }
+    ],
+    "wof:id":874172935,
+    "wof:lastmodified":1464312558,
+    "wof:name":"Bayert Directional Services",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horizontal",
+        "directional",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.401408,
+    42.829338,
+    -106.401408,
+    42.829338
+],
+  "geometry": {"coordinates":[-106.401408,42.829338],"type":"Point"}
+}

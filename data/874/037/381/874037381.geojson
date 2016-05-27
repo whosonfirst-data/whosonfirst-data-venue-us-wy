@@ -1,0 +1,58 @@
+{
+  "id": 874037381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.331879,41.230569,-104.331879,41.230569",
+    "geom:latitude":41.230569,
+    "geom:longitude":-104.331879,
+    "iso:country":"US",
+    "sg:address":"4990 Co Rd 216",
+    "sg:city":"Burns",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 547 3791",
+    "sg:postcode":"82050",
+    "sg:province":"WY",
+    "sg:tags":[
+        "disposal",
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e6BesCnDXYDvJd75T1dWK_41.230569_-104.331879@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311120,
+    "wof:geomhash":"a27f4cf745af105b9a0bafa1472f1458",
+    "wof:hierarchy":[],
+    "wof:id":874037381,
+    "wof:lastmodified":1464311120,
+    "wof:name":"East Laramie County Waste",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "waste"
+    ]
+},
+  "bbox": [
+    -104.331879,
+    41.230569,
+    -104.331879,
+    41.230569
+],
+  "geometry": {"coordinates":[-104.331879,41.230569],"type":"Point"}
+}

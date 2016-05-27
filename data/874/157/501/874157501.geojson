@@ -1,0 +1,56 @@
+{
+  "id": 874157501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.90618,44.57562,-106.90618,44.57562",
+    "geom:latitude":44.57562,
+    "geom:longitude":-106.90618,
+    "iso:country":"US",
+    "sg:address":"27 Mountain Home Rd",
+    "sg:city":"Story",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 683 2113",
+    "sg:postcode":"82842",
+    "sg:province":"WY",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3itLL5EPhMNwpFHP9gviMO_44.575620_-106.906180@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312404,
+    "wof:geomhash":"d356393a43b0673372ab91e1d48dd68c",
+    "wof:hierarchy":[],
+    "wof:id":874157501,
+    "wof:lastmodified":1464312404,
+    "wof:name":"TLC Greenhouse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -106.90618,
+    44.57562,
+    -106.90618,
+    44.57562
+],
+  "geometry": {"coordinates":[-106.90618000000001,44.57562],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874223683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33467,42.82541,-106.33467,42.82541",
+    "geom:latitude":42.82541,
+    "geom:longitude":-106.33467,
+    "iso:country":"US",
+    "sg:address":"800 College Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 8322",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OiGNGOI8IyF6n362y3IW5_42.825410_-106.334670@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313100,
+    "wof:geomhash":"0e7d85759c638e96c0cd9035e0f99c20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874223683
+        }
+    ],
+    "wof:id":874223683,
+    "wof:lastmodified":1464313100,
+    "wof:name":"Casper Fire Dept",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -106.33467,
+    42.82541,
+    -106.33467,
+    42.82541
+],
+  "geometry": {"coordinates":[-106.33467,42.82541],"type":"Point"}
+}

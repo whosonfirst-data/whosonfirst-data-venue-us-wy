@@ -1,0 +1,71 @@
+{
+  "id": 873996395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.229745,42.865462,-106.229745,42.865462",
+    "geom:latitude":42.865462,
+    "geom:longitude":-106.229745,
+    "iso:country":"US",
+    "sg:address":"6101 E Latigo Ln",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8333",
+    "sg:postcode":"82636",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zx3LCR6gq2imasISsvdLu_42.865462_-106.229745@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310735,
+    "wof:geomhash":"ff5c52f690396c46616c643c5099a9d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873996395
+        }
+    ],
+    "wof:id":873996395,
+    "wof:lastmodified":1464310735,
+    "wof:name":"Don Corson Oil Field Svc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.229745,
+    42.865462,
+    -106.229745,
+    42.865462
+],
+  "geometry": {"coordinates":[-106.22974499999999,42.865462],"type":"Point"}
+}

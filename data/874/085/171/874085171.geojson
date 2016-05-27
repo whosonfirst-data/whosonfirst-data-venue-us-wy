@@ -1,0 +1,56 @@
+{
+  "id": 874085171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.245283,43.850302,-104.245283,43.850302",
+    "geom:latitude":43.850302,
+    "geom:longitude":-104.245283,
+    "iso:country":"US",
+    "sg:address":"3350 W Main St",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 2703",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pr3VFKalA4MTte54CXnaK_43.850302_-104.245283@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311611,
+    "wof:geomhash":"61af4058bcc89bf621a74a4ae51eaefe",
+    "wof:hierarchy":[],
+    "wof:id":874085171,
+    "wof:lastmodified":1464311611,
+    "wof:name":"WEEG & Bradford Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -104.245283,
+    43.850302,
+    -104.245283,
+    43.850302
+],
+  "geometry": {"coordinates":[-104.245283,43.850302],"type":"Point"}
+}

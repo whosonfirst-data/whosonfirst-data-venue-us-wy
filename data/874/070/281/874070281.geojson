@@ -1,0 +1,60 @@
+{
+  "id": 874070281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.959921,44.011465,-107.959921,44.011465",
+    "geom:latitude":44.011465,
+    "geom:longitude":-107.959921,
+    "iso:country":"US",
+    "sg:address":"616 S 7th St",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 2882",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VYv5ZFwcmQGCaomtzMcEw_44.011465_-107.959921@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311434,
+    "wof:geomhash":"1c63f40a2d7af1fc7f2f84681c20aa38",
+    "wof:hierarchy":[],
+    "wof:id":874070281,
+    "wof:lastmodified":1464311434,
+    "wof:name":"W Y Test",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -107.959921,
+    44.011465,
+    -107.959921,
+    44.011465
+],
+  "geometry": {"coordinates":[-107.95992099999999,44.011465],"type":"Point"}
+}

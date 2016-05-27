@@ -1,0 +1,58 @@
+{
+  "id": 874013943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.387109,44.838142,-108.387109,44.838142",
+    "geom:latitude":44.838142,
+    "geom:longitude":-108.387109,
+    "iso:country":"US",
+    "sg:address":"359 Oregon Ave",
+    "sg:city":"Lovell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 548 6850",
+    "sg:postcode":"82431",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Yz6SeZlFnRQ2RZ1wnrAQm_44.838142_-108.387109@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310883,
+    "wof:geomhash":"ae15e74e2563eed87b6eb81c2722e860",
+    "wof:hierarchy":[],
+    "wof:id":874013943,
+    "wof:lastmodified":1464310883,
+    "wof:name":"Jon's Auto Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.387109,
+    44.838142,
+    -108.387109,
+    44.838142
+],
+  "geometry": {"coordinates":[-108.387109,44.838142],"type":"Point"}
+}

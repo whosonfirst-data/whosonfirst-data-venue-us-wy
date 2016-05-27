@@ -1,0 +1,75 @@
+{
+  "id": 874224371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.612543,41.301323,-105.612543,41.301323",
+    "geom:latitude":41.301323,
+    "geom:longitude":-105.612543,
+    "iso:country":"US",
+    "sg:address":"1490 Industry Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2722",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "trucking",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kzuBYjR0wGeInWhRG4PFM_41.301323_-105.612543@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313106,
+    "wof:geomhash":"1ed086a2386ef809f3b25792a1c854ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874224371
+        }
+    ],
+    "wof:id":874224371,
+    "wof:lastmodified":1464313106,
+    "wof:name":"North Park Transportation Co",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking",
+        "general"
+    ]
+},
+  "bbox": [
+    -105.612543,
+    41.301323,
+    -105.612543,
+    41.301323
+],
+  "geometry": {"coordinates":[-105.612543,41.301323],"type":"Point"}
+}

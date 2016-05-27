@@ -1,0 +1,73 @@
+{
+  "id": 874060927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.4081,42.86887,-106.4081,42.86887",
+    "geom:latitude":42.86887,
+    "geom:longitude":-106.4081,
+    "iso:country":"US",
+    "sg:address":"5901 Old Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 7463",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rYdA0Ftk38ePEzs6poQGU_42.868870_-106.408100@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311343,
+    "wof:geomhash":"e4c5eac9206dcc7bdc0e46738ff8df90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874060927
+        }
+    ],
+    "wof:id":874060927,
+    "wof:lastmodified":1464311343,
+    "wof:name":"Bideau Drilling",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -106.4081,
+    42.86887,
+    -106.4081,
+    42.86887
+],
+  "geometry": {"coordinates":[-106.4081,42.86887],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874132845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.531887,41.290737,-105.531887,41.290737",
+    "geom:latitude":41.290737,
+    "geom:longitude":-105.531887,
+    "iso:country":"US",
+    "sg:address":"4746 E Skyline Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 9050",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19iGaFYVIR1CCpJxaIcyMV_41.290737_-105.531887@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312171,
+    "wof:geomhash":"00ec2a97c0d9d61eee160527f8180ad5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874132845
+        }
+    ],
+    "wof:id":874132845,
+    "wof:lastmodified":1464312171,
+    "wof:name":"Ase Master Road Service",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -105.531887,
+    41.290737,
+    -105.531887,
+    41.290737
+],
+  "geometry": {"coordinates":[-105.531887,41.290737],"type":"Point"}
+}

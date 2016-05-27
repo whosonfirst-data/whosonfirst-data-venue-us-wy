@@ -1,0 +1,65 @@
+{
+  "id": 874089925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.276445,42.845137,-106.276445,42.845137",
+    "geom:latitude":42.845137,
+    "geom:longitude":-106.276445,
+    "iso:country":"US",
+    "sg:address":"411 S Walsh Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 4073",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:website":"www.hpcc.cc",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16yTXV7Js1D0fW25Zw5dlq_42.845137_-106.276445@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311661,
+    "wof:geomhash":"cebb41a7100a4211860b2d58417053ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874089925
+        }
+    ],
+    "wof:id":874089925,
+    "wof:lastmodified":1464311661,
+    "wof:name":"Highland Park Community Church",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.276445,
+    42.845137,
+    -106.276445,
+    42.845137
+],
+  "geometry": {"coordinates":[-106.276445,42.845137],"type":"Point"}
+}

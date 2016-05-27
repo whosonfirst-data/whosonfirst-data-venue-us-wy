@@ -1,0 +1,69 @@
+{
+  "id": 874062577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.309993,42.834806,-106.309993,42.834806",
+    "geom:latitude":42.834806,
+    "geom:longitude":-106.309993,
+    "iso:country":"US",
+    "sg:address":"1650 S Washington St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 9680",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q0ptcnQtrimjPUHdC7lfU_42.834806_-106.309993@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311358,
+    "wof:geomhash":"097d45641604260a2b2530f50f2859e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874062577
+        }
+    ],
+    "wof:id":874062577,
+    "wof:lastmodified":1464311358,
+    "wof:name":"Little Peoples Play House",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -106.309993,
+    42.834806,
+    -106.309993,
+    42.834806
+],
+  "geometry": {"coordinates":[-106.30999300000001,42.834806],"type":"Point"}
+}

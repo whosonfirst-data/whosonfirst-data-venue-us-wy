@@ -1,0 +1,56 @@
+{
+  "id": 874070555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.850668,44.672206,-103.850668,44.672206",
+    "geom:latitude":44.672206,
+    "geom:longitude":-103.850668,
+    "iso:country":"US",
+    "sg:address":"625 7th Ave",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 9181",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69x0ZkvIsplo99pgS3AGwM_44.672206_-103.850668@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311436,
+    "wof:geomhash":"7e0221d1d52739029be48bcb7a5fc265",
+    "wof:hierarchy":[],
+    "wof:id":874070555,
+    "wof:lastmodified":1464311436,
+    "wof:name":"South Side Standard & Towing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -103.850668,
+    44.672206,
+    -103.850668,
+    44.672206
+],
+  "geometry": {"coordinates":[-103.850668,44.672206],"type":"Point"}
+}

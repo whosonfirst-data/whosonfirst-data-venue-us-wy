@@ -1,0 +1,69 @@
+{
+  "id": 874122681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.333348,42.838,-106.333348,42.838",
+    "geom:latitude":42.838,
+    "geom:longitude":-106.333348,
+    "iso:country":"US",
+    "sg:address":"1230 S Walnut St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 7368",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XcBSkyJmP0J5Icg8kRCVu_42.838000_-106.333348@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312065,
+    "wof:geomhash":"0ef5873627eac2a0fc576251f7c68069",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874122681
+        }
+    ],
+    "wof:id":874122681,
+    "wof:lastmodified":1464312065,
+    "wof:name":"Rudd Agency Appraisals",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "real estate"
+    ]
+},
+  "bbox": [
+    -106.333348,
+    42.838,
+    -106.333348,
+    42.838
+],
+  "geometry": {"coordinates":[-106.333348,42.838],"type":"Point"}
+}

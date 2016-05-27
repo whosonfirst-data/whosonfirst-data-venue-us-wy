@@ -1,0 +1,71 @@
+{
+  "id": 874131189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592684,41.318931,-105.592684,41.318931",
+    "geom:latitude":41.318931,
+    "geom:longitude":-105.592684,
+    "iso:country":"US",
+    "sg:address":"759 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5093",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z7Jx9VzGzHwMFiTsvOST6_41.318931_-105.592684@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312152,
+    "wof:geomhash":"7427d2f4990e566c95cc15faac21f555",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874131189
+        }
+    ],
+    "wof:id":874131189,
+    "wof:lastmodified":1464312152,
+    "wof:name":"Amazing Rayz/Eas Nutrition",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -105.592684,
+    41.318931,
+    -105.592684,
+    41.318931
+],
+  "geometry": {"coordinates":[-105.59268400000001,41.318931],"type":"Point"}
+}

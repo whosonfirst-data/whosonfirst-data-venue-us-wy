@@ -1,0 +1,71 @@
+{
+  "id": 874160533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.365625,42.819614,-106.365625,42.819614",
+    "geom:latitude":42.819614,
+    "geom:longitude":-106.365625,
+    "iso:country":"US",
+    "sg:address":"3518 Quail Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 3304",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10BbHrIhpY7QhnR7vbQtkF_42.819614_-106.365625@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312437,
+    "wof:geomhash":"b660a8cd0ff84bee7c06bb47d9fe7dcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874160533
+        }
+    ],
+    "wof:id":874160533,
+    "wof:lastmodified":1464312437,
+    "wof:name":"Sanders Concrete & Constr",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.365625,
+    42.819614,
+    -106.365625,
+    42.819614
+],
+  "geometry": {"coordinates":[-106.36562499999999,42.819614],"type":"Point"}
+}

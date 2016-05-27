@@ -1,0 +1,56 @@
+{
+  "id": 873997233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.040619,44.526045,-109.040619,44.526045",
+    "geom:latitude":44.526045,
+    "geom:longitude":-109.040619,
+    "iso:country":"US",
+    "sg:address":"2526 Sheridan Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 3862",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A0Dxqw4qEqlTzdoGROZMz_44.526045_-109.040619@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310741,
+    "wof:geomhash":"647a3359df61fc473b44582aec3b94e4",
+    "wof:hierarchy":[],
+    "wof:id":873997233,
+    "wof:lastmodified":1464310741,
+    "wof:name":"Sweetheart Bakery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -109.040619,
+    44.526045,
+    -109.040619,
+    44.526045
+],
+  "geometry": {"coordinates":[-109.04061900000001,44.526045],"type":"Point"}
+}

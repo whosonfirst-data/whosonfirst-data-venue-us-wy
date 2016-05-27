@@ -1,0 +1,58 @@
+{
+  "id": 874033013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.955773,44.017886,-107.955773,44.017886",
+    "geom:latitude":44.017886,
+    "geom:longitude":-107.955773,
+    "iso:country":"US",
+    "sg:address":"100 N 10th St",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 4253",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GUsw18H4JdAv7yIHbEsUO_44.017886_-107.955773@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311075,
+    "wof:geomhash":"e5f548056c87b677cc4200fae825ee97",
+    "wof:hierarchy":[],
+    "wof:id":874033013,
+    "wof:lastmodified":1464311075,
+    "wof:name":"Worland Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -107.955773,
+    44.017886,
+    -107.955773,
+    44.017886
+],
+  "geometry": {"coordinates":[-107.95577299999999,44.017886],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873990973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.385956,42.804261,-106.385956,42.804261",
+    "geom:latitude":42.804261,
+    "geom:longitude":-106.385956,
+    "iso:country":"US",
+    "sg:address":"4511 Squaw Creek Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 6064",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HjpPQ5upGOlzCpTG5dnEG_42.804261_-106.385956@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310697,
+    "wof:geomhash":"f5e92436e28a6ba51b29b24eb670093b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873990973
+        }
+    ],
+    "wof:id":873990973,
+    "wof:lastmodified":1464310697,
+    "wof:name":"Wayne Coleman Construction",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.385956,
+    42.804261,
+    -106.385956,
+    42.804261
+],
+  "geometry": {"coordinates":[-106.38595599999999,42.804261],"type":"Point"}
+}

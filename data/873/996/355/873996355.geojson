@@ -1,0 +1,69 @@
+{
+  "id": 873996355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.326475,42.842535,-106.326475,42.842535",
+    "geom:latitude":42.842535,
+    "geom:longitude":-106.326475,
+    "iso:country":"US",
+    "sg:address":"111 W 8th St",
+    "sg:city":"Shoshoni",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 876 2773",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5T9bmGrj2WzU3kWfjpqG9l_42.842535_-106.326475@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310735,
+    "wof:geomhash":"e6d41de63367a63f1fe903eb9d338219",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873996355
+        }
+    ],
+    "wof:id":873996355,
+    "wof:lastmodified":1464310735,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -106.326475,
+    42.842535,
+    -106.326475,
+    42.842535
+],
+  "geometry": {"coordinates":[-106.326475,42.842535],"type":"Point"}
+}

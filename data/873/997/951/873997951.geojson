@@ -1,0 +1,56 @@
+{
+  "id": 873997951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.748372,44.754833,-108.748372,44.754833",
+    "geom:latitude":44.754833,
+    "geom:longitude":-108.748372,
+    "iso:country":"US",
+    "sg:address":"246 N Hamilton St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 5023",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d5mlRC7s33MqUs5e30LmI_44.754833_-108.748372@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310746,
+    "wof:geomhash":"08b294fc93d0fa8c278807defbcb8ae4",
+    "wof:hierarchy":[],
+    "wof:id":873997951,
+    "wof:lastmodified":1464310746,
+    "wof:name":"Northwest Wyoming Family Plnng",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -108.748372,
+    44.754833,
+    -108.748372,
+    44.754833
+],
+  "geometry": {"coordinates":[-108.748372,44.754833],"type":"Point"}
+}

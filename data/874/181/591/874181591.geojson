@@ -1,0 +1,73 @@
+{
+  "id": 874181591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.39397,42.849471,-106.39397,42.849471",
+    "geom:latitude":42.849471,
+    "geom:longitude":-106.39397,
+    "iso:country":"US",
+    "sg:address":"120 N 6th Ave",
+    "sg:city":"Mills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 3148",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dPEcdHXTCFSwlwUydpxOW_42.849471_-106.393970@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312647,
+    "wof:geomhash":"a8665dfbbf974c6c236584d9ef891ea6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874181591
+        }
+    ],
+    "wof:id":874181591,
+    "wof:lastmodified":1464312647,
+    "wof:name":"Casper Radiator & Air Cond",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -106.39397,
+    42.849471,
+    -106.39397,
+    42.849471
+],
+  "geometry": {"coordinates":[-106.39397,42.849471],"type":"Point"}
+}

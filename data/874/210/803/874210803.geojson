@@ -1,0 +1,56 @@
+{
+  "id": 874210803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.47617,44.248999,-105.47617,44.248999",
+    "geom:latitude":44.248999,
+    "geom:longitude":-105.47617,
+    "iso:country":"US",
+    "sg:address":"1500 O' Hara Dr",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 2077",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YZ5lw6fGayQjReWKqOauH_44.248999_-105.476170@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312959,
+    "wof:geomhash":"1acd4f06f68e66c7db6233345fe322e3",
+    "wof:hierarchy":[],
+    "wof:id":874210803,
+    "wof:lastmodified":1464312959,
+    "wof:name":"LDS Church Gillette Stake",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -105.47617,
+    44.248999,
+    -105.47617,
+    44.248999
+],
+  "geometry": {"coordinates":[-105.47617,44.248999],"type":"Point"}
+}

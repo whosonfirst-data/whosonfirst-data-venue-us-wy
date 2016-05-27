@@ -1,0 +1,65 @@
+{
+  "id": 874153239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.398135,43.044105,-108.398135,43.044105",
+    "geom:latitude":43.044105,
+    "geom:longitude":-108.398135,
+    "iso:country":"US",
+    "sg:address":"503 Green St",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 1787",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "engine",
+        "equipment",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46ieW6mVmW7jAakbX2DjBJ_43.044105_-108.398135@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312358,
+    "wof:geomhash":"954a370f134929457e3b1afaabb37441",
+    "wof:hierarchy":[],
+    "wof:id":874153239,
+    "wof:lastmodified":1464312358,
+    "wof:name":"Louie's Small Engine Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "equipment",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -108.398135,
+    43.044105,
+    -108.398135,
+    43.044105
+],
+  "geometry": {"coordinates":[-108.398135,43.044105],"type":"Point"}
+}

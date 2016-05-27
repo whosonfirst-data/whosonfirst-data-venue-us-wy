@@ -1,0 +1,56 @@
+{
+  "id": 874043323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.039237,44.381176,-108.039237,44.381176",
+    "geom:latitude":44.381176,
+    "geom:longitude":-108.039237,
+    "iso:country":"US",
+    "sg:address":"420 C St",
+    "sg:city":"Basin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 568 2381",
+    "sg:postcode":"82410",
+    "sg:province":"WY",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79YWNwv92Aan5XtAOVmebg_44.381176_-108.039237@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311179,
+    "wof:geomhash":"3a3f8996a277fb51eba9e87545933927",
+    "wof:hierarchy":[],
+    "wof:id":874043323,
+    "wof:lastmodified":1464311179,
+    "wof:name":"Big Horn District Court Clerk",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -108.039237,
+    44.381176,
+    -108.039237,
+    44.381176
+],
+  "geometry": {"coordinates":[-108.039237,44.381176],"type":"Point"}
+}

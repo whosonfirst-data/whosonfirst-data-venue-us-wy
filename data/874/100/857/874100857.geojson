@@ -1,0 +1,58 @@
+{
+  "id": 874100857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.022796,44.532351,-109.022796,44.532351",
+    "geom:latitude":44.532351,
+    "geom:longitude":-109.022796,
+    "iso:country":"US",
+    "sg:address":"513 Date St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 3248",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pbafqwGWQ0zzEUzjM8JGM_44.532351_-109.022796@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311805,
+    "wof:geomhash":"8ae6cdbeabcbdf78bd0c166a20a06405",
+    "wof:hierarchy":[],
+    "wof:id":874100857,
+    "wof:lastmodified":1464311805,
+    "wof:name":"Joe's Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -109.022796,
+    44.532351,
+    -109.022796,
+    44.532351
+],
+  "geometry": {"coordinates":[-109.022796,44.532351],"type":"Point"}
+}

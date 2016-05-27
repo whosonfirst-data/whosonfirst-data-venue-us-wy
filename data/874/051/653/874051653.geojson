@@ -1,0 +1,71 @@
+{
+  "id": 874051653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.411162,42.815685,-106.411162,42.815685",
+    "geom:latitude":42.815685,
+    "geom:longitude":-106.411162,
+    "iso:country":"US",
+    "sg:address":"385 Aster St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 6327",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YfW3Zz0WxWzvD02r5Z3Mm_42.815685_-106.411162@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311256,
+    "wof:geomhash":"b222a549b6f3cfb5425489cbe999e4de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874051653
+        }
+    ],
+    "wof:id":874051653,
+    "wof:lastmodified":1464311256,
+    "wof:name":"Howard's Inspection Svc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.411162,
+    42.815685,
+    -106.411162,
+    42.815685
+],
+  "geometry": {"coordinates":[-106.411162,42.815685],"type":"Point"}
+}

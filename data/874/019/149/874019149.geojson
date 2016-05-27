@@ -1,0 +1,86 @@
+{
+  "id": 874019149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.353528,42.829071,-106.353528,42.829071",
+    "geom:latitude":42.829071,
+    "geom:longitude":-106.353528,
+    "iso:country":"US",
+    "sg:address":"2839 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 9221",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "washing",
+        "mfg",
+        "industry",
+        "gasoline",
+        "operated",
+        "station",
+        "polishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39u4E6466bsvGFV6huIrrk_42.829071_-106.353528@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310939,
+    "wof:geomhash":"01908068887bdd232e3525eb1c85d73f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874019149
+        }
+    ],
+    "wof:id":874019149,
+    "wof:lastmodified":1464310939,
+    "wof:name":"C Y Car & Truck Wash",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "washing",
+        "mfg",
+        "industry",
+        "gasoline",
+        "operated",
+        "station",
+        "polishing"
+    ]
+},
+  "bbox": [
+    -106.353528,
+    42.829071,
+    -106.353528,
+    42.829071
+],
+  "geometry": {"coordinates":[-106.353528,42.829071],"type":"Point"}
+}

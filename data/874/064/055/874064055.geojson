@@ -1,0 +1,77 @@
+{
+  "id": 874064055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.418649,42.818821,-106.418649,42.818821",
+    "geom:latitude":42.818821,
+    "geom:longitude":-106.418649,
+    "iso:country":"US",
+    "sg:address":"3048 Herrington Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 1965",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "light",
+        "tube",
+        "lighting",
+        "bulb",
+        "fixture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12ElswwLhG6pimYpWG8f42_42.818821_-106.418649@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311371,
+    "wof:geomhash":"582c6529411f522ba47592febbdcef6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874064055
+        }
+    ],
+    "wof:id":874064055,
+    "wof:lastmodified":1464311371,
+    "wof:name":"4 Dimensional Lighting LLC",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "light",
+        "tube",
+        "lighting",
+        "bulb",
+        "fixture"
+    ]
+},
+  "bbox": [
+    -106.418649,
+    42.818821,
+    -106.418649,
+    42.818821
+],
+  "geometry": {"coordinates":[-106.418649,42.818821],"type":"Point"}
+}

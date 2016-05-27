@@ -1,0 +1,56 @@
+{
+  "id": 874000075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.824299,41.13146,-104.824299,41.13146",
+    "geom:latitude":41.13146,
+    "geom:longitude":-104.824299,
+    "iso:country":"US",
+    "sg:address":"1710 Snyder Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 6674",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AjQEUXMqyz5ubnCWBSsgM_41.131460_-104.824299@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310761,
+    "wof:geomhash":"8cec2198aef39d20fb928f39397c84a3",
+    "wof:hierarchy":[],
+    "wof:id":874000075,
+    "wof:lastmodified":1464310761,
+    "wof:name":"Boys & Girls Club of Cheyenne",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.824299,
+    41.13146,
+    -104.824299,
+    41.13146
+],
+  "geometry": {"coordinates":[-104.824299,41.13146],"type":"Point"}
+}

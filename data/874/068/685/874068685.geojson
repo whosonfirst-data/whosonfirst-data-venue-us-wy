@@ -1,0 +1,64 @@
+{
+  "id": 874068685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.4094,42.79907,-106.4094,42.79907",
+    "geom:latitude":42.79907,
+    "geom:longitude":-106.4094,
+    "iso:country":"US",
+    "sg:address":"6010 Bell Valley Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 0586",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JyhvGFJEz7upeehVOwIxL_42.799070_-106.409400@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311420,
+    "wof:geomhash":"97e25c1b7b234346f8582df390e8d584",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874068685
+        }
+    ],
+    "wof:id":874068685,
+    "wof:lastmodified":1464311420,
+    "wof:name":"Sundown Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.4094,
+    42.79907,
+    -106.4094,
+    42.79907
+],
+  "geometry": {"coordinates":[-106.40940000000001,42.79907],"type":"Point"}
+}

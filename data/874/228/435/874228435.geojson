@@ -1,0 +1,59 @@
+{
+  "id": 874228435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.800772,41.110467,-104.800772,41.110467",
+    "geom:latitude":41.110467,
+    "geom:longitude":-104.800772,
+    "iso:country":"US",
+    "sg:address":"800 S Greeley Hwy",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/cheyenne/21643-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 5452",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sGmRXDGboYZIqQ6stdETf_41.110467_-104.800772@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313145,
+    "wof:geomhash":"8d7a5130fc0d90d620947102c47b5aa4",
+    "wof:hierarchy":[],
+    "wof:id":874228435,
+    "wof:lastmodified":1464313145,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -104.800772,
+    41.110467,
+    -104.800772,
+    41.110467
+],
+  "geometry": {"coordinates":[-104.80077199999999,41.110467],"type":"Point"}
+}

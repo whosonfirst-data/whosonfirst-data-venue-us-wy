@@ -1,0 +1,71 @@
+{
+  "id": 874107181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.277601,42.848979,-106.277601,42.848979",
+    "geom:latitude":42.848979,
+    "geom:longitude":-106.277601,
+    "iso:country":"US",
+    "sg:address":"4242 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 6800",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ThblJOARzstXtbbaCvaSW_42.848979_-106.277601@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311884,
+    "wof:geomhash":"5a22a060de8aa6d5f22097129238a5dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874107181
+        }
+    ],
+    "wof:id":874107181,
+    "wof:lastmodified":1464311884,
+    "wof:name":"Lube Express Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -106.277601,
+    42.848979,
+    -106.277601,
+    42.848979
+],
+  "geometry": {"coordinates":[-106.277601,42.848979],"type":"Point"}
+}

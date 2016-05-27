@@ -1,0 +1,73 @@
+{
+  "id": 874103515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.59054,41.314045,-105.59054,41.314045",
+    "geom:latitude":41.314045,
+    "geom:longitude":-105.59054,
+    "iso:country":"US",
+    "sg:address":"261 N 5th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 9681",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "voice",
+        "america"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RcHBWGeYGHgWDDNv2SnIM_41.314045_-105.590540@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311838,
+    "wof:geomhash":"38d09873761051a253df8d0d06c0cb99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874103515
+        }
+    ],
+    "wof:id":874103515,
+    "wof:lastmodified":1464311838,
+    "wof:name":"Andrew Grace",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "voice",
+        "america"
+    ]
+},
+  "bbox": [
+    -105.59054,
+    41.314045,
+    -105.59054,
+    41.314045
+],
+  "geometry": {"coordinates":[-105.59054,41.314045],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874190645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.764835,44.755597,-108.764835,44.755597",
+    "geom:latitude":44.755597,
+    "geom:longitude":-108.764835,
+    "iso:country":"US",
+    "sg:address":"323 N Division St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 3521",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27k1YxIjHE0GkPJfwmAyId_44.755597_-108.764835@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312746,
+    "wof:geomhash":"eb630ce90ebeee598ccc622d3033b414",
+    "wof:hierarchy":[],
+    "wof:id":874190645,
+    "wof:lastmodified":1464312746,
+    "wof:name":"Thomas J Jones DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -108.764835,
+    44.755597,
+    -108.764835,
+    44.755597
+],
+  "geometry": {"coordinates":[-108.76483500000001,44.755597],"type":"Point"}
+}

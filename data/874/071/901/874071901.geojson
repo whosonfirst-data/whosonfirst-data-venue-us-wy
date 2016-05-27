@@ -1,0 +1,64 @@
+{
+  "id": 874071901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.344751,42.813015,-106.344751,42.813015",
+    "geom:latitude":42.813015,
+    "geom:longitude":-106.344751,
+    "iso:country":"US",
+    "sg:address":"3601 S Coffman Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 9000",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tjKwdJscHD9ctFn1i1sm3_42.813015_-106.344751@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311459,
+    "wof:geomhash":"a194d4c9a77b73273ffa5873a49452d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874071901
+        }
+    ],
+    "wof:id":874071901,
+    "wof:lastmodified":1464311459,
+    "wof:name":"Bert L Stovall",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.344751,
+    42.813015,
+    -106.344751,
+    42.813015
+],
+  "geometry": {"coordinates":[-106.344751,42.813015],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874065025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323815,42.85184,-106.323815,42.85184",
+    "geom:latitude":42.85184,
+    "geom:longitude":-106.323815,
+    "iso:country":"US",
+    "sg:address":"218 N Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1984",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "sg:website":"www.wyomingradio.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Doa3WDoF9JhyOgMlY9vP8_42.851840_-106.323815@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311380,
+    "wof:geomhash":"76358f208e2976a39d1adbe0ad1a9190",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874065025
+        }
+    ],
+    "wof:id":874065025,
+    "wof:lastmodified":1464311380,
+    "wof:name":"KHOC",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -106.323815,
+    42.85184,
+    -106.323815,
+    42.85184
+],
+  "geometry": {"coordinates":[-106.323815,42.85184],"type":"Point"}
+}

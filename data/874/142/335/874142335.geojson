@@ -1,0 +1,66 @@
+{
+  "id": 874142335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.573492,41.331622,-105.573492,41.331622",
+    "geom:latitude":41.331622,
+    "geom:longitude":-105.573492,
+    "iso:country":"US",
+    "sg:address":"1711 Beaufort St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 9088",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g8ghuui7Q0qJ8lokowYxJ_41.331622_-105.573492@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312256,
+    "wof:geomhash":"444ae0c45f7969456e087dd015800930",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874142335
+        }
+    ],
+    "wof:id":874142335,
+    "wof:lastmodified":1464312256,
+    "wof:name":"Sustainable Development Inst",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.573492,
+    41.331622,
+    -105.573492,
+    41.331622
+],
+  "geometry": {"coordinates":[-105.573492,41.331622],"type":"Point"}
+}

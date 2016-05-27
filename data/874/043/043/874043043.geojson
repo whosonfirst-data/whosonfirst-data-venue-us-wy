@@ -1,0 +1,63 @@
+{
+  "id": 874043043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.049708,44.489329,-108.049708,44.489329",
+    "geom:latitude":44.489329,
+    "geom:longitude":-108.049708,
+    "iso:country":"US",
+    "sg:address":"9 N 2nd St",
+    "sg:city":"Greybull",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 765 9236",
+    "sg:postcode":"82426",
+    "sg:province":"WY",
+    "sg:tags":[
+        "apartment",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fFvgBlrtQjrKzuyED79U5_44.489329_-108.049708@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311176,
+    "wof:geomhash":"18b6be251bb352fecc70fd1f64f5fc30",
+    "wof:hierarchy":[],
+    "wof:id":874043043,
+    "wof:lastmodified":1464311176,
+    "wof:name":"Greybull Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -108.049708,
+    44.489329,
+    -108.049708,
+    44.489329
+],
+  "geometry": {"coordinates":[-108.049708,44.489329],"type":"Point"}
+}

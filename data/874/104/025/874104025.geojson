@@ -1,0 +1,70 @@
+{
+  "id": 874104025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.351731,42.825638,-106.351731,42.825638",
+    "geom:latitude":42.825638,
+    "geom:longitude":-106.351731,
+    "iso:country":"US",
+    "sg:address":"2611 W 24th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5834",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "school"
+    ],
+    "sg:website":"www.lighthousebaptist-casper.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55wmFXvscKXDIIRvCs1ddg_42.825638_-106.351731@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311846,
+    "wof:geomhash":"a5e9c845a5ceb92a5aada5eec865fe8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874104025
+        }
+    ],
+    "wof:id":874104025,
+    "wof:lastmodified":1464311846,
+    "wof:name":"Lighthouse Baptist Church",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school"
+    ]
+},
+  "bbox": [
+    -106.351731,
+    42.825638,
+    -106.351731,
+    42.825638
+],
+  "geometry": {"coordinates":[-106.351731,42.825638],"type":"Point"}
+}

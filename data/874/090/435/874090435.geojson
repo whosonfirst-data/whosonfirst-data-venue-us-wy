@@ -1,0 +1,80 @@
+{
+  "id": 874090435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.302072,42.853642,-106.302072,42.853642",
+    "geom:latitude":42.853642,
+    "geom:longitude":-106.302072,
+    "iso:country":"US",
+    "sg:address":"1735 E Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0575",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "semiconductor",
+        "consultant",
+        "training",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rHHrqvQf7U6wqgclnK4xv_42.853642_-106.302072@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311667,
+    "wof:geomhash":"49c01e1e09232d5cd0d42c21d01b9029",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874090435
+        }
+    ],
+    "wof:id":874090435,
+    "wof:lastmodified":1464311667,
+    "wof:name":"Far C Ing Enterprises Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "semiconductor",
+        "consultant",
+        "training",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -106.302072,
+    42.853642,
+    -106.302072,
+    42.853642
+],
+  "geometry": {"coordinates":[-106.302072,42.853642],"type":"Point"}
+}

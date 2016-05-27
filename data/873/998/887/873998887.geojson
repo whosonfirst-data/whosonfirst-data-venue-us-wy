@@ -1,0 +1,58 @@
+{
+  "id": 873998887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.22264,41.79063,-107.22264,41.79063",
+    "geom:latitude":41.79063,
+    "geom:longitude":-107.22264,
+    "iso:country":"US",
+    "sg:address":"1101 E Cedar St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 4961",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IYKsdNxW7IBSOGytDTKtT_41.790630_-107.222640@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310753,
+    "wof:geomhash":"4b3ad6a3a076b31605b9231a2d47e9eb",
+    "wof:hierarchy":[],
+    "wof:id":873998887,
+    "wof:lastmodified":1464310753,
+    "wof:name":"Stan's Quick Lube",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -107.22264,
+    41.79063,
+    -107.22264,
+    41.79063
+],
+  "geometry": {"coordinates":[-107.22264,41.79063],"type":"Point"}
+}

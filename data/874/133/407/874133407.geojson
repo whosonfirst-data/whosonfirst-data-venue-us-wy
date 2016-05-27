@@ -1,0 +1,61 @@
+{
+  "id": 874133407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.949872,44.80281,-106.949872,44.80281",
+    "geom:latitude":44.80281,
+    "geom:longitude":-106.949872,
+    "iso:country":"US",
+    "sg:address":"409 E 1st St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 673 4559",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "carpentry",
+        "nonresidential",
+        "contractor"
+    ],
+    "sg:website":"www.clearybuilding.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bJHGkD9fXkZAfLQgR3OXi_44.802810_-106.949872@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312176,
+    "wof:geomhash":"107d9c070343d1c238db1e71e9d6ecc3",
+    "wof:hierarchy":[],
+    "wof:id":874133407,
+    "wof:lastmodified":1464312176,
+    "wof:name":"Cleary Building Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "nonresidential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.949872,
+    44.80281,
+    -106.949872,
+    44.80281
+],
+  "geometry": {"coordinates":[-106.949872,44.80281],"type":"Point"}
+}

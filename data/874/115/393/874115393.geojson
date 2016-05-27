@@ -1,0 +1,51 @@
+{
+  "id": 874115393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.501285,44.275247,-105.501285,44.275247",
+    "geom:latitude":44.275247,
+    "geom:longitude":-105.501285,
+    "iso:country":"US",
+    "sg:address":"300 E Laurel St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 7249",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E8F7GyX1rgkdKzjoK4x4W_44.275247_-105.501285@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311990,
+    "wof:geomhash":"62f4e102eec51740ead097824d83be7c",
+    "wof:hierarchy":[],
+    "wof:id":874115393,
+    "wof:lastmodified":1464311990,
+    "wof:name":"Shine A Blind",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.501285,
+    44.275247,
+    -105.501285,
+    44.275247
+],
+  "geometry": {"coordinates":[-105.501285,44.275247],"type":"Point"}
+}

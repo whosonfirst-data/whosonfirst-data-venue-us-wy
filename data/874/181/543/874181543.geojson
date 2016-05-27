@@ -1,0 +1,69 @@
+{
+  "id": 874181543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.312505,42.851408,-106.312505,42.851408",
+    "geom:latitude":42.851408,
+    "geom:longitude":-106.312505,
+    "iso:country":"US",
+    "sg:address":"908 E Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 3770",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QoJsWAB0Q1ZfNr7JQdHyz_42.851408_-106.312505@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312647,
+    "wof:geomhash":"12759e761c4cb27a096159418db1143d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874181543
+        }
+    ],
+    "wof:id":874181543,
+    "wof:lastmodified":1464312647,
+    "wof:name":"Auto Outlet",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -106.312505,
+    42.851408,
+    -106.312505,
+    42.851408
+],
+  "geometry": {"coordinates":[-106.312505,42.851408],"type":"Point"}
+}

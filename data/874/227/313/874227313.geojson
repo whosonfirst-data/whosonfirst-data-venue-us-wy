@@ -1,0 +1,67 @@
+{
+  "id": 874227313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.531575,41.294058,-105.531575,41.294058",
+    "geom:latitude":41.294058,
+    "geom:longitude":-105.531575,
+    "iso:country":"US",
+    "sg:address":"4610 E Meadowlark Ln",
+    "sg:city":"Laramie",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7602",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "farm",
+        "wheat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aRYnesM2LOIL1k9OF2fpf_41.294058_-105.531575@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313133,
+    "wof:geomhash":"e6ea86155062bf69ca4c632729988e0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874227313
+        }
+    ],
+    "wof:id":874227313,
+    "wof:lastmodified":1464313133,
+    "wof:name":"Rehers Farming",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "wheat"
+    ]
+},
+  "bbox": [
+    -105.531575,
+    41.294058,
+    -105.531575,
+    41.294058
+],
+  "geometry": {"coordinates":[-105.531575,41.294058],"type":"Point"}
+}

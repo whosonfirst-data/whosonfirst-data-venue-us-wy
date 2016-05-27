@@ -1,0 +1,71 @@
+{
+  "id": 874046001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.29438,42.83181,-106.29438,42.83181",
+    "geom:latitude":42.83181,
+    "geom:longitude":-106.29438,
+    "iso:country":"US",
+    "sg:address":"2300 E 18th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 6548",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kvdj4Tz1lTKwKAAFjllnt_42.831810_-106.294380@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311206,
+    "wof:geomhash":"01482d5da93370fd7ea8cab4d4f0bbb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874046001
+        }
+    ],
+    "wof:id":874046001,
+    "wof:lastmodified":1464311206,
+    "wof:name":"Casper Village Apartments",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -106.29438,
+    42.83181,
+    -106.29438,
+    42.83181
+],
+  "geometry": {"coordinates":[-106.29438,42.83181],"type":"Point"}
+}

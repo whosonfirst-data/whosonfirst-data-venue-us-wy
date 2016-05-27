@@ -1,0 +1,75 @@
+{
+  "id": 874090391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.304063,42.855212,-106.304063,42.855212",
+    "geom:latitude":42.855212,
+    "geom:longitude":-106.304063,
+    "iso:country":"US",
+    "sg:address":"1561 Burlington Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 473 2459",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G2FgnJ9TvXELPLt2ODQlf_42.855212_-106.304063@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311667,
+    "wof:geomhash":"4e8232392ab39ece392ae32f75bbc6ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874090391
+        }
+    ],
+    "wof:id":874090391,
+    "wof:lastmodified":1464311667,
+    "wof:name":"Rod Barstads Paint & Auto Body",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "general"
+    ]
+},
+  "bbox": [
+    -106.304063,
+    42.855212,
+    -106.304063,
+    42.855212
+],
+  "geometry": {"coordinates":[-106.304063,42.855212],"type":"Point"}
+}

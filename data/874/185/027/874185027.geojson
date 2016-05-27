@@ -1,0 +1,58 @@
+{
+  "id": 874185027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.51799,44.297271,-105.51799,44.297271",
+    "geom:latitude":44.297271,
+    "geom:longitude":-105.51799,
+    "iso:country":"US",
+    "sg:address":"1001 Larch St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 2764",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nRSgkUZTJuPuev4x8k83y_44.297271_-105.517990@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312691,
+    "wof:geomhash":"0d77f02ba10ddee9a5debf627f9dc00f",
+    "wof:hierarchy":[],
+    "wof:id":874185027,
+    "wof:lastmodified":1464312691,
+    "wof:name":"Pacific Steel & Recycling",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -105.51799,
+    44.297271,
+    -105.51799,
+    44.297271
+],
+  "geometry": {"coordinates":[-105.51799,44.297271],"type":"Point"}
+}

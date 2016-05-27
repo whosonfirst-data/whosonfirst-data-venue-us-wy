@@ -1,0 +1,75 @@
+{
+  "id": 873998547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.325242,42.849274,-106.325242,42.849274",
+    "geom:latitude":42.849274,
+    "geom:longitude":-106.325242,
+    "iso:country":"US",
+    "sg:address":"140 S Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 5947",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vqtoVC75KzFeSbuHBHMtp_42.849274_-106.325242@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310750,
+    "wof:geomhash":"32d064bd1a1334bac0a0851550824e72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873998547
+        }
+    ],
+    "wof:id":873998547,
+    "wof:lastmodified":1464310750,
+    "wof:name":"Sonic Rainbow Compact Discs",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -106.325242,
+    42.849274,
+    -106.325242,
+    42.849274
+],
+  "geometry": {"coordinates":[-106.325242,42.849274],"type":"Point"}
+}

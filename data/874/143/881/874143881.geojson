@@ -1,0 +1,58 @@
+{
+  "id": 874143881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.216406,41.80377,-107.216406,41.80377",
+    "geom:latitude":41.80377,
+    "geom:longitude":-107.216406,
+    "iso:country":"US",
+    "sg:address":"1626 Inverness Blvd",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4551",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zOSrgtAlyaJ33OMfeP5cw_41.803770_-107.216406@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312270,
+    "wof:geomhash":"846245792117d60a20d45fe495580a69",
+    "wof:hierarchy":[],
+    "wof:id":874143881,
+    "wof:lastmodified":1464312270,
+    "wof:name":"Wayne's Key & Lock Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -107.216406,
+    41.80377,
+    -107.216406,
+    41.80377
+],
+  "geometry": {"coordinates":[-107.21640600000001,41.80377],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874132909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.955535,44.819751,-106.955535,44.819751",
+    "geom:latitude":44.819751,
+    "geom:longitude":-106.955535,
+    "iso:country":"US",
+    "sg:address":"2004 N Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 0357",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7htEtnbBGbGDsqbtNGAMHR_44.819751_-106.955535@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312172,
+    "wof:geomhash":"3233357a80d922c824099aa4ce89bec2",
+    "wof:hierarchy":[],
+    "wof:id":874132909,
+    "wof:lastmodified":1464312172,
+    "wof:name":"Kim Family Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -106.955535,
+    44.819751,
+    -106.955535,
+    44.819751
+],
+  "geometry": {"coordinates":[-106.955535,44.819751],"type":"Point"}
+}

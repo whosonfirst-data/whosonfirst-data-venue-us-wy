@@ -1,0 +1,73 @@
+{
+  "id": 874194565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.322107,42.851545,-106.322107,42.851545",
+    "geom:latitude":42.851545,
+    "geom:longitude":-106.322107,
+    "iso:country":"US",
+    "sg:address":"332 E A St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 7144",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "parts",
+        "electronic",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mybAw68FuqwXRaeFnkp9L_42.851545_-106.322107@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312785,
+    "wof:geomhash":"7d58f8f9ac715502d53d5e5ebc9c8963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874194565
+        }
+    ],
+    "wof:id":874194565,
+    "wof:lastmodified":1464312785,
+    "wof:name":"Fleming Supply Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parts",
+        "electronic",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -106.322107,
+    42.851545,
+    -106.322107,
+    42.851545
+],
+  "geometry": {"coordinates":[-106.322107,42.851545],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 874094381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.01009,41.103074,-106.01009,41.103074",
+    "geom:latitude":41.103074,
+    "geom:longitude":-106.01009,
+    "iso:country":"US",
+    "sg:address":"85 State Hwy 10",
+    "sg:city":"Jelm",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 0151",
+    "sg:postcode":"82063",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27KBg3jQ6mwjhJZom9zgCC_41.103074_-106.010090@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311707,
+    "wof:geomhash":"66beec9eac1bbd5f91381289f61c22c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874094381
+        }
+    ],
+    "wof:id":874094381,
+    "wof:lastmodified":1464311707,
+    "wof:name":"Epi Service Co",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.01009,
+    41.103074,
+    -106.01009,
+    41.103074
+],
+  "geometry": {"coordinates":[-106.01009000000001,41.103074],"type":"Point"}
+}

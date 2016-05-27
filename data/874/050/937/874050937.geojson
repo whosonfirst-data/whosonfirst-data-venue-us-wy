@@ -1,0 +1,73 @@
+{
+  "id": 874050937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593827,41.309143,-105.593827,41.309143",
+    "geom:latitude":41.309143,
+    "geom:longitude":-105.593827,
+    "iso:country":"US",
+    "sg:address":"500 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3480",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MDtHvMbIJNwSoOnQuDer5_41.309143_-105.593827@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311249,
+    "wof:geomhash":"aadd00722c7876d167b10d638bf4f8cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874050937
+        }
+    ],
+    "wof:id":874050937,
+    "wof:lastmodified":1464311249,
+    "wof:name":"Albany County Title Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "title"
+    ]
+},
+  "bbox": [
+    -105.593827,
+    41.309143,
+    -105.593827,
+    41.309143
+],
+  "geometry": {"coordinates":[-105.593827,41.309143],"type":"Point"}
+}

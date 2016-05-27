@@ -1,0 +1,56 @@
+{
+  "id": 874098899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.498402,44.269141,-105.498402,44.269141",
+    "geom:latitude":44.269141,
+    "geom:longitude":-105.498402,
+    "iso:country":"US",
+    "sg:address":"607 E Lakeway Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 9274",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vCPGQ7obwhBXgxP02W0qY_44.269141_-105.498402@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311770,
+    "wof:geomhash":"4ad222e8c856de70ac7697def740f082",
+    "wof:hierarchy":[],
+    "wof:id":874098899,
+    "wof:lastmodified":1464311770,
+    "wof:name":"Buggy Bath Car Wash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -105.498402,
+    44.269141,
+    -105.498402,
+    44.269141
+],
+  "geometry": {"coordinates":[-105.498402,44.269141],"type":"Point"}
+}

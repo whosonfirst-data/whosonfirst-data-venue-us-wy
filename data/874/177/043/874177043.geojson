@@ -1,0 +1,56 @@
+{
+  "id": 874177043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.64469,43.535719,-109.64469,43.535719",
+    "geom:latitude":43.535719,
+    "geom:longitude":-109.64469,
+    "iso:country":"US",
+    "sg:address":"8 Stalnaker St",
+    "sg:city":"Dubois",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 455 3148",
+    "sg:postcode":"82513",
+    "sg:province":"WY",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OW5ND9HhOqEbU5nTFak3b_43.535719_-109.644690@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312597,
+    "wof:geomhash":"69602dea63fa956f28e6079fbe233936",
+    "wof:hierarchy":[],
+    "wof:id":874177043,
+    "wof:lastmodified":1464312597,
+    "wof:name":"Mastec North America",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -109.64469,
+    43.535719,
+    -109.64469,
+    43.535719
+],
+  "geometry": {"coordinates":[-109.64469,43.535719],"type":"Point"}
+}

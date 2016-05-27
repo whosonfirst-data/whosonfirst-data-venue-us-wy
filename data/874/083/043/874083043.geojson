@@ -1,0 +1,73 @@
+{
+  "id": 874083043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.401949,42.815398,-106.401949,42.815398",
+    "geom:latitude":42.815398,
+    "geom:longitude":-106.401949,
+    "iso:country":"US",
+    "sg:address":"98 Marigold St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 3200",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "construction",
+        "welding",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ayTmnK49LiG1n9slVCApu_42.815398_-106.401949@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311590,
+    "wof:geomhash":"eb34c34edd6db04ad41e702f8a84947b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874083043
+        }
+    ],
+    "wof:id":874083043,
+    "wof:lastmodified":1464311590,
+    "wof:name":"Sids Welding & Diversfd Svcs",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "welding",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -106.401949,
+    42.815398,
+    -106.401949,
+    42.815398
+],
+  "geometry": {"coordinates":[-106.401949,42.815398],"type":"Point"}
+}

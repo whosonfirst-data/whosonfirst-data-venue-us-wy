@@ -1,0 +1,73 @@
+{
+  "id": 874095575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.314622,42.853765,-106.314622,42.853765",
+    "geom:latitude":42.853765,
+    "geom:longitude":-106.314622,
+    "iso:country":"US",
+    "sg:address":"802 E C St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 9503",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3by4oX2GJ8gvTEfhwn0Wkq_42.853765_-106.314622@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311720,
+    "wof:geomhash":"cfb4431dd5427570c8500b6f2476d982",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874095575
+        }
+    ],
+    "wof:id":874095575,
+    "wof:lastmodified":1464311720,
+    "wof:name":"Winnelson Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ]
+},
+  "bbox": [
+    -106.314622,
+    42.853765,
+    -106.314622,
+    42.853765
+],
+  "geometry": {"coordinates":[-106.314622,42.853765],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874053401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.42122,42.87672,-106.42122,42.87672",
+    "geom:latitude":42.87672,
+    "geom:longitude":-106.42122,
+    "iso:country":"US",
+    "sg:address":"2188 Oil Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 0656",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GUfikecHfHHmkRUqySj0C_42.876720_-106.421220@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311273,
+    "wof:geomhash":"9071e35ab507d6fe5cdc37acec6c0612",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874053401
+        }
+    ],
+    "wof:id":874053401,
+    "wof:lastmodified":1464311273,
+    "wof:name":"Schwans Home Service Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -106.42122,
+    42.87672,
+    -106.42122,
+    42.87672
+],
+  "geometry": {"coordinates":[-106.42122000000001,42.87672],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874053103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.427889,42.876144,-106.427889,42.876144",
+    "geom:latitude":42.876144,
+    "geom:longitude":-106.427889,
+    "iso:country":"US",
+    "sg:address":"6821 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8979",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n6RBaSJSISAyjJGyP1fhg_42.876144_-106.427889@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311269,
+    "wof:geomhash":"cd21d611a867ee2061eae18906c35839",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874053103
+        }
+    ],
+    "wof:id":874053103,
+    "wof:lastmodified":1464311269,
+    "wof:name":"TDS/Tire Distribution Systs",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -106.427889,
+    42.876144,
+    -106.427889,
+    42.876144
+],
+  "geometry": {"coordinates":[-106.42788899999999,42.876144],"type":"Point"}
+}

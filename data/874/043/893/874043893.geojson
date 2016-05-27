@@ -1,0 +1,69 @@
+{
+  "id": 874043893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.385546,42.831571,-106.385546,42.831571",
+    "geom:latitude":42.831571,
+    "geom:longitude":-106.385546,
+    "iso:country":"US",
+    "sg:address":"1960 Saber Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 2941",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d1lERObIQeB3hpPuCdGIA_42.831571_-106.385546@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311183,
+    "wof:geomhash":"c4ceebb0f54bfe3b274a30064bd390ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874043893
+        }
+    ],
+    "wof:id":874043893,
+    "wof:lastmodified":1464311183,
+    "wof:name":"Central Construction Svc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -106.385546,
+    42.831571,
+    -106.385546,
+    42.831571
+],
+  "geometry": {"coordinates":[-106.38554600000001,42.831571],"type":"Point"}
+}

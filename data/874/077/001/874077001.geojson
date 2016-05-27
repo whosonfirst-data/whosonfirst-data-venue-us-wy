@@ -1,0 +1,56 @@
+{
+  "id": 874077001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.384768,43.024732,-108.384768,43.024732",
+    "geom:latitude":43.024732,
+    "geom:longitude":-108.384768,
+    "iso:country":"US",
+    "sg:address":"510 E Main St",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 4310",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "escrow"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DUnX7iHBqK2sTeoOH2sKB_43.024732_-108.384768@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311520,
+    "wof:geomhash":"30b116e6c306328b3481ac445e40befe",
+    "wof:hierarchy":[],
+    "wof:id":874077001,
+    "wof:lastmodified":1464311520,
+    "wof:name":"Mountain Escrow Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "escrow"
+    ]
+},
+  "bbox": [
+    -108.384768,
+    43.024732,
+    -108.384768,
+    43.024732
+],
+  "geometry": {"coordinates":[-108.38476799999999,43.024732],"type":"Point"}
+}

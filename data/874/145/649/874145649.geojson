@@ -1,0 +1,69 @@
+{
+  "id": 874145649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.326254,42.848614,-106.326254,42.848614",
+    "geom:latitude":42.848614,
+    "geom:longitude":-106.326254,
+    "iso:country":"US",
+    "sg:address":"125 W 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 6649",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Kq0oxLWEuoMMJCNHAhnPY_42.848614_-106.326254@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312285,
+    "wof:geomhash":"0dc4dadab1cc11181058c6fc2dbbfa02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874145649
+        }
+    ],
+    "wof:id":874145649,
+    "wof:lastmodified":1464312285,
+    "wof:name":"Dan Sullivan Consulting",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -106.326254,
+    42.848614,
+    -106.326254,
+    42.848614
+],
+  "geometry": {"coordinates":[-106.32625400000001,42.848614],"type":"Point"}
+}

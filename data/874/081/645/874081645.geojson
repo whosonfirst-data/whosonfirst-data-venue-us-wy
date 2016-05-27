@@ -1,0 +1,71 @@
+{
+  "id": 874081645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.335049,42.854309,-106.335049,42.854309",
+    "geom:latitude":42.854309,
+    "geom:longitude":-106.335049,
+    "iso:country":"US",
+    "sg:address":"459 Big Horn Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0164",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ru60gPZR4q9Nl9kMXROmu_42.854309_-106.335049@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311571,
+    "wof:geomhash":"0e9a079226d215d4d1427246bbbae401",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874081645
+        }
+    ],
+    "wof:id":874081645,
+    "wof:lastmodified":1464311571,
+    "wof:name":"Omega Painting & Construction",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.335049,
+    42.854309,
+    -106.335049,
+    42.854309
+],
+  "geometry": {"coordinates":[-106.335049,42.854309],"type":"Point"}
+}

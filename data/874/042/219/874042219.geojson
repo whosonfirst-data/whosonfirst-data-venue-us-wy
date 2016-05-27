@@ -1,0 +1,73 @@
+{
+  "id": 874042219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.3096,42.84675,-106.3096,42.84675",
+    "geom:latitude":42.84675,
+    "geom:longitude":-106.3096,
+    "iso:country":"US",
+    "sg:address":"498 S Washington St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 885 1535",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "book",
+        "rare",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YjdWkUPKU9Sf8X6ctF4fa_42.846750_-106.309600@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311168,
+    "wof:geomhash":"01634f4b55a6f0ea96f0a221cadbe50d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874042219
+        }
+    ],
+    "wof:id":874042219,
+    "wof:lastmodified":1464311168,
+    "wof:name":"Dog-Eared Books",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book",
+        "rare",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -106.3096,
+    42.84675,
+    -106.3096,
+    42.84675
+],
+  "geometry": {"coordinates":[-106.3096,42.84675],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874117151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.841774,41.122693,-104.841774,41.122693",
+    "geom:latitude":41.122693,
+    "geom:longitude":-104.841774,
+    "iso:country":"US",
+    "sg:address":"2310 W Lincolnway",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 6000",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v0DnbtKA4ltjgLSVTFCxV_41.122693_-104.841774@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312008,
+    "wof:geomhash":"bf8758ddd73d774a991f6f007c19592e",
+    "wof:hierarchy":[],
+    "wof:id":874117151,
+    "wof:lastmodified":1464312008,
+    "wof:name":"Wyoming Fleet Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -104.841774,
+    41.122693,
+    -104.841774,
+    41.122693
+],
+  "geometry": {"coordinates":[-104.841774,41.122693],"type":"Point"}
+}

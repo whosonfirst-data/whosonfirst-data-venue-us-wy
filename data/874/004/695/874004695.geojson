@@ -1,0 +1,61 @@
+{
+  "id": 874004695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.962563,41.280992,-110.962563,41.280992",
+    "geom:latitude":41.280992,
+    "geom:longitude":-110.962563,
+    "iso:country":"US",
+    "sg:address":"535 County Rd",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 7182",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nWcXurcAL7PX057a6xClb_41.280992_-110.962563@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310811,
+    "wof:geomhash":"34764c09be7f692ebc097b3d8ddaf21d",
+    "wof:hierarchy":[],
+    "wof:id":874004695,
+    "wof:lastmodified":1464310811,
+    "wof:name":"Maverik Country Stores 162",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -110.962563,
+    41.280992,
+    -110.962563,
+    41.280992
+],
+  "geometry": {"coordinates":[-110.962563,41.280992],"type":"Point"}
+}

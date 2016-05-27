@@ -1,0 +1,56 @@
+{
+  "id": 874001047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.760166,44.749159,-108.760166,44.749159",
+    "geom:latitude":44.749159,
+    "geom:longitude":-108.760166,
+    "iso:country":"US",
+    "sg:address":"178 W North St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 5736",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tBcU18iRkjNVAajGol9JA_44.749159_-108.760166@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310768,
+    "wof:geomhash":"df786aeed3eb8ba4f65610afcd39a826",
+    "wof:hierarchy":[],
+    "wof:id":874001047,
+    "wof:lastmodified":1464310768,
+    "wof:name":"Northwest Analytical Lab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -108.760166,
+    44.749159,
+    -108.760166,
+    44.749159
+],
+  "geometry": {"coordinates":[-108.760166,44.749159],"type":"Point"}
+}

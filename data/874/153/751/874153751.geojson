@@ -1,0 +1,71 @@
+{
+  "id": 874153751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.589504,41.301764,-105.589504,41.301764",
+    "geom:latitude":41.301764,
+    "geom:longitude":-105.589504,
+    "iso:country":"US",
+    "sg:address":"535 Spring Creek Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 3929",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43S8U647muM0Zt0ElFYxye_41.301764_-105.589504@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312363,
+    "wof:geomhash":"002fa337c1855a279690b45caa5cc306",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874153751
+        }
+    ],
+    "wof:id":874153751,
+    "wof:lastmodified":1464312363,
+    "wof:name":"Vics Flooring & Tile Services",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.589504,
+    41.301764,
+    -105.589504,
+    41.301764
+],
+  "geometry": {"coordinates":[-105.58950400000001,41.301764],"type":"Point"}
+}

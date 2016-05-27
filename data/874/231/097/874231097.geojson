@@ -1,0 +1,59 @@
+{
+  "id": 874231097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.495262,44.29315,-105.495262,44.29315",
+    "geom:latitude":44.29315,
+    "geom:longitude":-105.495262,
+    "iso:country":"US",
+    "sg:address":"207 S Miller Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/gillette-north/155300-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 612 854 7944",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cQ3udc5Qn5fw6PwueGBBe_44.293194_-105.495212@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313175,
+    "wof:geomhash":"bf219a873e1d1490379c7487e1f5a907",
+    "wof:hierarchy":[],
+    "wof:id":874231097,
+    "wof:lastmodified":1464313175,
+    "wof:name":"Hardee's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -105.495262,
+    44.29315,
+    -105.495262,
+    44.29315
+],
+  "geometry": {"coordinates":[-105.495262,44.29315],"type":"Point"}
+}

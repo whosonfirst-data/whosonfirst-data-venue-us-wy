@@ -1,0 +1,59 @@
+{
+  "id": 874229191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.380641,43.027827,-108.380641,43.027827",
+    "geom:latitude":43.027827,
+    "geom:longitude":-108.380641,
+    "iso:country":"US",
+    "sg:address":"400 N Federal Blvd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/wind-river/100338-golden-corral/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 1152",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rscKR4ZW0YxbuAlxQ5LRR_43.027827_-108.380641@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313152,
+    "wof:geomhash":"e7b44854cae594af4790a779f780aa31",
+    "wof:hierarchy":[],
+    "wof:id":874229191,
+    "wof:lastmodified":1464313152,
+    "wof:name":"Golden Corral",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -108.380641,
+    43.027827,
+    -108.380641,
+    43.027827
+],
+  "geometry": {"coordinates":[-108.380641,43.027827],"type":"Point"}
+}

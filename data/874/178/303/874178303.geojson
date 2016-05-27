@@ -1,0 +1,56 @@
+{
+  "id": 874178303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.760021,43.478435,-110.760021,43.478435",
+    "geom:latitude":43.478435,
+    "geom:longitude":-110.760021,
+    "iso:country":"US",
+    "sg:address":"150 E Pearl Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 739 4547",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y4EK1nR2tT0fPGTKVvmry_43.478435_-110.760021@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312610,
+    "wof:geomhash":"1370ab23706911c7cdb1f797ba612719",
+    "wof:hierarchy":[],
+    "wof:id":874178303,
+    "wof:lastmodified":1464312610,
+    "wof:name":"Jackson Engineer Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -110.760021,
+    43.478435,
+    -110.760021,
+    43.478435
+],
+  "geometry": {"coordinates":[-110.76002099999999,43.478435],"type":"Point"}
+}

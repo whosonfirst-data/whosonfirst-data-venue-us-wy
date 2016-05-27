@@ -1,0 +1,66 @@
+{
+  "id": 874075961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.592122,41.310844,-105.592122,41.310844",
+    "geom:latitude":41.310844,
+    "geom:longitude":-105.592122,
+    "iso:country":"US",
+    "sg:address":"418 E Grand Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 6000",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RJbLCLontBmxUYnbRjFCJ_41.310844_-105.592122@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311511,
+    "wof:geomhash":"0b1b2da26535e4fbd1ac794b3ce543b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874075961
+        }
+    ],
+    "wof:id":874075961,
+    "wof:lastmodified":1464311511,
+    "wof:name":"An Amazing Look",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.592122,
+    41.310844,
+    -105.592122,
+    41.310844
+],
+  "geometry": {"coordinates":[-105.592122,41.310844],"type":"Point"}
+}

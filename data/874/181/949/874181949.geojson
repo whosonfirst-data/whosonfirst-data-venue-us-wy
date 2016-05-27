@@ -1,0 +1,58 @@
+{
+  "id": 874181949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.786124,43.436682,-110.786124,43.436682",
+    "geom:latitude":43.436682,
+    "geom:longitude":-110.786124,
+    "iso:country":"US",
+    "sg:address":"3400 US Hwy 89",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 6876",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_495X9F77bLq1nL4J8a4fy3_43.436682_-110.786124@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312650,
+    "wof:geomhash":"d6526f9e6c5831d9a2cb0500547d20c7",
+    "wof:hierarchy":[],
+    "wof:id":874181949,
+    "wof:lastmodified":1464312650,
+    "wof:name":"A Storage Stable",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -110.786124,
+    43.436682,
+    -110.786124,
+    43.436682
+],
+  "geometry": {"coordinates":[-110.786124,43.436682],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874140473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.357481,42.827678,-106.357481,42.827678",
+    "geom:latitude":42.827678,
+    "geom:longitude":-106.357481,
+    "iso:country":"US",
+    "sg:address":"3030 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 8542",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ThCYiO6yDiUglsPk8FuKY_42.827678_-106.357481@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312239,
+    "wof:geomhash":"1659349714918ee75efe48effd2745e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874140473
+        }
+    ],
+    "wof:id":874140473,
+    "wof:lastmodified":1464312239,
+    "wof:name":"Westbrook's Pawn Shop",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -106.357481,
+    42.827678,
+    -106.357481,
+    42.827678
+],
+  "geometry": {"coordinates":[-106.35748100000001,42.827678],"type":"Point"}
+}

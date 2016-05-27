@@ -1,0 +1,58 @@
+{
+  "id": 874075567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.093784,44.5158,-109.093784,44.5158",
+    "geom:latitude":44.5158,
+    "geom:longitude":-109.093784,
+    "iso:country":"US",
+    "sg:address":"132 Yellowstone Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 4175",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EqyJpClKptY16Q1frHlLC_44.515800_-109.093784@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311507,
+    "wof:geomhash":"6555b8bb130fc6b3d40a275378d3bb2d",
+    "wof:hierarchy":[],
+    "wof:id":874075567,
+    "wof:lastmodified":1464311507,
+    "wof:name":"Sparky's Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.093784,
+    44.5158,
+    -109.093784,
+    44.5158
+],
+  "geometry": {"coordinates":[-109.093784,44.5158],"type":"Point"}
+}

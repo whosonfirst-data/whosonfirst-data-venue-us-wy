@@ -1,0 +1,73 @@
+{
+  "id": 874013411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.549228,42.964264,-106.549228,42.964264",
+    "geom:latitude":42.964264,
+    "geom:longitude":-106.549228,
+    "iso:country":"US",
+    "sg:address":"13250 Garbutt Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 232 8479",
+    "sg:postcode":"82644",
+    "sg:province":"WY",
+    "sg:tags":[
+        "paint",
+        "ball",
+        "sport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xskccn7TMaEOXSM8ZwwRW_42.964264_-106.549228@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310879,
+    "wof:geomhash":"04734e6f75cfcb16fc35831d92e1ddcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874013411
+        }
+    ],
+    "wof:id":874013411,
+    "wof:lastmodified":1464310879,
+    "wof:name":"Wasp Paintball Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "ball",
+        "sport"
+    ]
+},
+  "bbox": [
+    -106.549228,
+    42.964264,
+    -106.549228,
+    42.964264
+],
+  "geometry": {"coordinates":[-106.549228,42.964264],"type":"Point"}
+}

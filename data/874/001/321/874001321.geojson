@@ -1,0 +1,69 @@
+{
+  "id": 874001321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.44555,42.87312,-106.44555,42.87312",
+    "geom:latitude":42.87312,
+    "geom:longitude":-106.44555,
+    "iso:country":"US",
+    "sg:address":"7686 W Chalk Creek Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 7103",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "furnace"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S0skp88SPH0NoLuwjwgdp_42.873120_-106.445550@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310770,
+    "wof:geomhash":"fb9e052f0831054f136bdb295e69e2c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874001321
+        }
+    ],
+    "wof:id":874001321,
+    "wof:lastmodified":1464310770,
+    "wof:name":"Central Wyoming Furnace Cleang",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furnace"
+    ]
+},
+  "bbox": [
+    -106.44555,
+    42.87312,
+    -106.44555,
+    42.87312
+],
+  "geometry": {"coordinates":[-106.44555,42.87312],"type":"Point"}
+}

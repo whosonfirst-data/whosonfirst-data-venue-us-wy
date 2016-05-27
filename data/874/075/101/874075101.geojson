@@ -1,0 +1,56 @@
+{
+  "id": 874075101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.50241,41.55348,-109.50241,41.55348",
+    "geom:latitude":41.55348,
+    "geom:longitude":-109.50241,
+    "iso:country":"US",
+    "sg:address":"3280 State Hwy 374",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 5050",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nFJtQJ5GAKbpEQObj8JCz_41.553480_-109.502410@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311503,
+    "wof:geomhash":"1491f092407a25983c1e49a4c270a693",
+    "wof:hierarchy":[],
+    "wof:id":874075101,
+    "wof:lastmodified":1464311503,
+    "wof:name":"Industrial Transportation Syst",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -109.50241,
+    41.55348,
+    -109.50241,
+    41.55348
+],
+  "geometry": {"coordinates":[-109.50241,41.55348],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 874109245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.94098,44.001789,-107.94098,44.001789",
+    "geom:latitude":44.001789,
+    "geom:longitude":-107.94098,
+    "iso:country":"US",
+    "sg:address":"1104 Wilson Dr",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 6304",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "photo"
+    ],
+    "sg:website":"www.huberphoto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D3KdZsbIUtLQFEH80oU60_44.001789_-107.940980@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311906,
+    "wof:geomhash":"96d06ec1f866c6145cd5b451714d52e9",
+    "wof:hierarchy":[],
+    "wof:id":874109245,
+    "wof:lastmodified":1464311906,
+    "wof:name":"David Huber Photography",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -107.94098,
+    44.001789,
+    -107.94098,
+    44.001789
+],
+  "geometry": {"coordinates":[-107.94098,44.001789],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874180559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.959777,44.016608,-107.959777,44.016608",
+    "geom:latitude":44.016608,
+    "geom:longitude":-107.959777,
+    "iso:country":"US",
+    "sg:address":"121 S 7th St",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 3285",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VFVTFAwKUFLpaX3xjy8e6_44.016608_-107.959777@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312635,
+    "wof:geomhash":"b417c3064f7ba70ef040e2ddcd23f9b6",
+    "wof:hierarchy":[],
+    "wof:id":874180559,
+    "wof:lastmodified":1464312635,
+    "wof:name":"Worland Cleaners & Supply",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -107.959777,
+    44.016608,
+    -107.959777,
+    44.016608
+],
+  "geometry": {"coordinates":[-107.959777,44.016608],"type":"Point"}
+}

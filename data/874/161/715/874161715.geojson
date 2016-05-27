@@ -1,0 +1,62 @@
+{
+  "id": 874161715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.238781,41.781415,-107.238781,41.781415",
+    "geom:latitude":41.781415,
+    "geom:longitude":-107.238781,
+    "iso:country":"US",
+    "sg:address":"548 W Miller St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 328 3940",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fZhhmPozHomIgy5GUv1pW_41.781415_-107.238781@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312448,
+    "wof:geomhash":"68494770376f4f05aed7d3443b69a7b0",
+    "wof:hierarchy":[],
+    "wof:id":874161715,
+    "wof:lastmodified":1464312448,
+    "wof:name":"Mark's Truck Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -107.238781,
+    41.781415,
+    -107.238781,
+    41.781415
+],
+  "geometry": {"coordinates":[-107.238781,41.781415],"type":"Point"}
+}

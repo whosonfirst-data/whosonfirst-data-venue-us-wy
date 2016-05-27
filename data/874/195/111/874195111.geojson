@@ -1,0 +1,71 @@
+{
+  "id": 874195111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.564268,41.300865,-105.564268,41.300865",
+    "geom:latitude":41.300865,
+    "geom:longitude":-105.564268,
+    "iso:country":"US",
+    "sg:address":"1421 S Sublette St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 0363",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "counselor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LwlqQobY6ItnfaDzhWtiH_41.300865_-105.564268@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312795,
+    "wof:geomhash":"6bc926f6917ad7d4d0cb06230a95035d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874195111
+        }
+    ],
+    "wof:id":874195111,
+    "wof:lastmodified":1464312795,
+    "wof:name":"Horse Creek Studio",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor"
+    ]
+},
+  "bbox": [
+    -105.564268,
+    41.300865,
+    -105.564268,
+    41.300865
+],
+  "geometry": {"coordinates":[-105.564268,41.300865],"type":"Point"}
+}

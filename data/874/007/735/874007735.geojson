@@ -1,0 +1,73 @@
+{
+  "id": 874007735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.397983,42.821162,-106.397983,42.821162",
+    "geom:latitude":42.821162,
+    "geom:longitude":-106.397983,
+    "iso:country":"US",
+    "sg:address":"101 Calypso St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 2308",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SBRIYgXSG1SWP4q3fTzJ0_42.821162_-106.397983@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310838,
+    "wof:geomhash":"01dc824e2ece88d0e1eb97d7f2dfec26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874007735
+        }
+    ],
+    "wof:id":874007735,
+    "wof:lastmodified":1464310838,
+    "wof:name":"Horkan Dniel Coml Instllations",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.397983,
+    42.821162,
+    -106.397983,
+    42.821162
+],
+  "geometry": {"coordinates":[-106.397983,42.821162],"type":"Point"}
+}

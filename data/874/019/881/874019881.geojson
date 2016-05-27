@@ -1,0 +1,69 @@
+{
+  "id": 874019881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.325265,42.843662,-106.325265,42.843662",
+    "geom:latitude":42.843662,
+    "geom:longitude":-106.325265,
+    "iso:country":"US",
+    "sg:address":"604 S Center St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 2666",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OdhImajw4ryUYqeB7Djro_42.843662_-106.325265@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310947,
+    "wof:geomhash":"1bfdf9aae26d6c1878b0993002b2e4aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874019881
+        }
+    ],
+    "wof:id":874019881,
+    "wof:lastmodified":1464310947,
+    "wof:name":"Saint Anthonys Catholic Church",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -106.325265,
+    42.843662,
+    -106.325265,
+    42.843662
+],
+  "geometry": {"coordinates":[-106.325265,42.843662],"type":"Point"}
+}

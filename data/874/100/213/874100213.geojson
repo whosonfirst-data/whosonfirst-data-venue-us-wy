@@ -1,0 +1,69 @@
+{
+  "id": 874100213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.391531,42.851561,-106.391531,42.851561",
+    "geom:latitude":42.851561,
+    "geom:longitude":-106.391531,
+    "iso:country":"US",
+    "sg:address":"300 N 4th Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5177",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sanitary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lefcZHEPE5IdmidhRltVT_42.851561_-106.391531@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311796,
+    "wof:geomhash":"9317f6a5f549858b01816c05554d406c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874100213
+        }
+    ],
+    "wof:id":874100213,
+    "wof:lastmodified":1464311796,
+    "wof:name":"K & T Commercial Sweeping",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitary"
+    ]
+},
+  "bbox": [
+    -106.391531,
+    42.851561,
+    -106.391531,
+    42.851561
+],
+  "geometry": {"coordinates":[-106.391531,42.851561],"type":"Point"}
+}

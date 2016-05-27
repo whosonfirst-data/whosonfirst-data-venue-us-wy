@@ -1,0 +1,58 @@
+{
+  "id": 874210687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.253849,41.58298,-109.253849,41.58298",
+    "geom:latitude":41.58298,
+    "geom:longitude":-109.253849,
+    "iso:country":"US",
+    "sg:address":"2751 Commercial Way",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 7414",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00JmfhFOrrBnjjHrRAdR54_41.582980_-109.253849@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312958,
+    "wof:geomhash":"dceb6593574a8950fa2129fe66885a25",
+    "wof:hierarchy":[],
+    "wof:id":874210687,
+    "wof:lastmodified":1464312958,
+    "wof:name":"Hunter Family Medical Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -109.253849,
+    41.58298,
+    -109.253849,
+    41.58298
+],
+  "geometry": {"coordinates":[-109.253849,41.58298],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874043967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.780514,41.216454,-106.780514,41.216454",
+    "geom:latitude":41.216454,
+    "geom:longitude":-106.780514,
+    "iso:country":"US",
+    "sg:address":"207 W Welton St",
+    "sg:city":"Encampment",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 327 5266",
+    "sg:postcode":"82325",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07Yf4HyZqrCVGVume3FtqN_41.216454_-106.780514@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311184,
+    "wof:geomhash":"56595a977a6a8131d29f344ddc2a65a9",
+    "wof:hierarchy":[],
+    "wof:id":874043967,
+    "wof:lastmodified":1464311184,
+    "wof:name":"Town Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -106.780514,
+    41.216454,
+    -106.780514,
+    41.216454
+],
+  "geometry": {"coordinates":[-106.780514,41.216454],"type":"Point"}
+}

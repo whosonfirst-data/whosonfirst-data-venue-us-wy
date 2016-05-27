@@ -1,0 +1,64 @@
+{
+  "id": 874207381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.329212,42.851143,-106.329212,42.851143",
+    "geom:latitude":42.851143,
+    "geom:longitude":-106.329212,
+    "iso:country":"US",
+    "sg:address":"350 W A St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 7745",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZkFAQsR4i2TfOjascWnCc_42.851143_-106.329212@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312923,
+    "wof:geomhash":"2895b8b80597abd294d13d9bf1f61852",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874207381
+        }
+    ],
+    "wof:id":874207381,
+    "wof:lastmodified":1464312923,
+    "wof:name":"Bankers Life & Casualty Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.329212,
+    42.851143,
+    -106.329212,
+    42.851143
+],
+  "geometry": {"coordinates":[-106.329212,42.851143],"type":"Point"}
+}

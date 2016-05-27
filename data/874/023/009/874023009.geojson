@@ -1,0 +1,56 @@
+{
+  "id": 874023009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.154544,44.445631,-109.154544,44.445631",
+    "geom:latitude":44.445631,
+    "geom:longitude":-109.154544,
+    "iso:country":"US",
+    "sg:address":"87 Douglas Dr",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 6351",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QCPytsooYfp8YYmwPOZSu_44.445631_-109.154544@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310974,
+    "wof:geomhash":"b9b4e92994a09538c7ee17f01c54edc4",
+    "wof:hierarchy":[],
+    "wof:id":874023009,
+    "wof:lastmodified":1464310974,
+    "wof:name":"Diamond Creek Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -109.154544,
+    44.445631,
+    -109.154544,
+    44.445631
+],
+  "geometry": {"coordinates":[-109.154544,44.445631],"type":"Point"}
+}

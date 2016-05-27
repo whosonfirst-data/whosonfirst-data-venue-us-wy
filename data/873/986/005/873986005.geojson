@@ -1,0 +1,58 @@
+{
+  "id": 873986005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.241408,41.790332,-107.241408,41.790332",
+    "geom:latitude":41.790332,
+    "geom:longitude":-107.241408,
+    "iso:country":"US",
+    "sg:address":"505 W Spruce St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 6050",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47kbArsuOk4NZ4JE9fou0n_41.790332_-107.241408@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310662,
+    "wof:geomhash":"ae8f65703c25b66ada51fe67730815fd",
+    "wof:hierarchy":[],
+    "wof:id":873986005,
+    "wof:lastmodified":1464310662,
+    "wof:name":"Courtyard Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -107.241408,
+    41.790332,
+    -107.241408,
+    41.790332
+],
+  "geometry": {"coordinates":[-107.24140800000001,41.790332],"type":"Point"}
+}

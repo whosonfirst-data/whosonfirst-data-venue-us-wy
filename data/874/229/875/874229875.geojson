@@ -1,0 +1,57 @@
+{
+  "id": 874229875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.493852,44.268509,-105.493852,44.268509",
+    "geom:latitude":44.268509,
+    "geom:longitude":-105.493852,
+    "iso:country":"US",
+    "sg:address":"2610 S Douglas Hwy",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/gillette-south/118387-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 7352",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UMdBhpJOzd1foz88w6qoB_44.268509_-105.493852@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313159,
+    "wof:geomhash":"00a2a81b64b59dfaff168d63e205a17c",
+    "wof:hierarchy":[],
+    "wof:id":874229875,
+    "wof:lastmodified":1464313159,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -105.493852,
+    44.268509,
+    -105.493852,
+    44.268509
+],
+  "geometry": {"coordinates":[-105.493852,44.268509],"type":"Point"}
+}

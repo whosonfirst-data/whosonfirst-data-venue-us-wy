@@ -1,0 +1,64 @@
+{
+  "id": 874092029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.409922,42.813499,-106.409922,42.813499",
+    "geom:latitude":42.813499,
+    "geom:longitude":-106.409922,
+    "iso:country":"US",
+    "sg:address":"51 Yucca Cir",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 2977",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BDWfexBHhBD9pbs0fuHIT_42.813499_-106.409922@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311686,
+    "wof:geomhash":"64b2076549f21105c49ed72acc46e136",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874092029
+        }
+    ],
+    "wof:id":874092029,
+    "wof:lastmodified":1464311686,
+    "wof:name":"B&J Flooring",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.409922,
+    42.813499,
+    -106.409922,
+    42.813499
+],
+  "geometry": {"coordinates":[-106.40992199999999,42.813499],"type":"Point"}
+}

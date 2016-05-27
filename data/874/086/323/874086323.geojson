@@ -1,0 +1,56 @@
+{
+  "id": 874086323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.386278,43.024582,-108.386278,43.024582",
+    "geom:latitude":43.024582,
+    "geom:longitude":-108.386278,
+    "iso:country":"US",
+    "sg:address":"107 S Broadway Ave",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 4227",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UGXPmJDuKP9k93H8JVaZa_43.024582_-108.386278@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311623,
+    "wof:geomhash":"222e25575806ab56beb368a67a489142",
+    "wof:hierarchy":[],
+    "wof:id":874086323,
+    "wof:lastmodified":1464311623,
+    "wof:name":"Crossroads Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.386278,
+    43.024582,
+    -108.386278,
+    43.024582
+],
+  "geometry": {"coordinates":[-108.386278,43.024582],"type":"Point"}
+}

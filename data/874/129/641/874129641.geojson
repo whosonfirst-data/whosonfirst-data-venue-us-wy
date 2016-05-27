@@ -1,0 +1,62 @@
+{
+  "id": 874129641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.752869,44.344155,-106.752869,44.344155",
+    "geom:latitude":44.344155,
+    "geom:longitude":-106.752869,
+    "iso:country":"US",
+    "sg:address":"100 Redwood St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 2962",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "transmission",
+        "automotive",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YmIZ8J3wugSeGSij2FR4L_44.344155_-106.752869@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312131,
+    "wof:geomhash":"45d824d6ac6ee5f9537c5cc1ebea1c30",
+    "wof:hierarchy":[],
+    "wof:id":874129641,
+    "wof:lastmodified":1464312131,
+    "wof:name":"Brothers Automatic Transm Repr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "transmission",
+        "automotive",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -106.752869,
+    44.344155,
+    -106.752869,
+    44.344155
+],
+  "geometry": {"coordinates":[-106.752869,44.344155],"type":"Point"}
+}

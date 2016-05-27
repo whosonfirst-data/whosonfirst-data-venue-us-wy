@@ -1,0 +1,51 @@
+{
+  "id": 874060667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.140976,41.297734,-106.140976,41.297734",
+    "geom:latitude":41.297734,
+    "geom:longitude":-106.140976,
+    "iso:country":"US",
+    "sg:address":"1 Pine Ave",
+    "sg:city":"Centennial",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 000 1111",
+    "sg:postcode":"82055",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sqOGwTy4L7uohpWU90XQP_41.297734_-106.140976@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311341,
+    "wof:geomhash":"04255bc15624930a36537fc4222a5c7c",
+    "wof:hierarchy":[],
+    "wof:id":874060667,
+    "wof:lastmodified":1464311341,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.140976,
+    41.297734,
+    -106.140976,
+    41.297734
+],
+  "geometry": {"coordinates":[-106.14097599999999,41.297734],"type":"Point"}
+}

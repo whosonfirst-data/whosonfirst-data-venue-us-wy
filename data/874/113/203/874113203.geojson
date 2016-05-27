@@ -1,0 +1,56 @@
+{
+  "id": 874113203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.972614,41.671045,-107.972614,41.671045",
+    "geom:latitude":41.671045,
+    "geom:longitude":-107.972614,
+    "iso:country":"US",
+    "sg:address":"315 Broadway",
+    "sg:city":"Wamsutter",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 7830",
+    "sg:postcode":"82336",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37pn52bOBTLnfPW193B9jy_41.671045_-107.972614@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311969,
+    "wof:geomhash":"375ab7fb961fc6742dfa8d2e7f3b36b3",
+    "wof:hierarchy":[],
+    "wof:id":874113203,
+    "wof:lastmodified":1464311969,
+    "wof:name":"Broadway Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -107.972614,
+    41.671045,
+    -107.972614,
+    41.671045
+],
+  "geometry": {"coordinates":[-107.97261399999999,41.671045],"type":"Point"}
+}

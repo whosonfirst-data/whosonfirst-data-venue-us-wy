@@ -1,0 +1,58 @@
+{
+  "id": 874072181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.806702,43.459302,-110.806702,43.459302",
+    "geom:latitude":43.459302,
+    "geom:longitude":-110.806702,
+    "iso:country":"US",
+    "sg:address":"2198 Corner Creek Ln",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 4535",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KEbPzlufrBMAAZwDlm7xE_43.459302_-110.806702@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311465,
+    "wof:geomhash":"c1a5c5bce24a0074807d4e35726bd365",
+    "wof:hierarchy":[],
+    "wof:id":874072181,
+    "wof:lastmodified":1464311465,
+    "wof:name":"Jackson Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -110.806702,
+    43.459302,
+    -110.806702,
+    43.459302
+],
+  "geometry": {"coordinates":[-110.806702,43.459302],"type":"Point"}
+}

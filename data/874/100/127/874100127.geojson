@@ -1,0 +1,63 @@
+{
+  "id": 874100127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.501576,44.277349,-105.501576,44.277349",
+    "geom:latitude":44.277349,
+    "geom:longitude":-105.501576,
+    "iso:country":"US",
+    "sg:address":"201 E Boxelder Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 7956",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eHq2TNG9bP2dGFhrnB5HU_44.277349_-105.501576@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311795,
+    "wof:geomhash":"6654b226f71b18c9d768a3baff7d2ceb",
+    "wof:hierarchy":[],
+    "wof:id":874100127,
+    "wof:lastmodified":1464311795,
+    "wof:name":"Gillette Apartments Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -105.501576,
+    44.277349,
+    -105.501576,
+    44.277349
+],
+  "geometry": {"coordinates":[-105.501576,44.277349],"type":"Point"}
+}

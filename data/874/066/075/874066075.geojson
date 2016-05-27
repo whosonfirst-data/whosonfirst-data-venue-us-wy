@@ -1,0 +1,56 @@
+{
+  "id": 874066075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.92722,44.798326,-106.92722,44.798326",
+    "geom:latitude":44.798326,
+    "geom:longitude":-106.92722,
+    "iso:country":"US",
+    "sg:address":"71 E Ridge Rd",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 9764",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EkG4P18UTg4PkGAufnN9K_44.798326_-106.927220@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311389,
+    "wof:geomhash":"8d20521ed8c9ead331d94191fdac69c5",
+    "wof:hierarchy":[],
+    "wof:id":874066075,
+    "wof:lastmodified":1464311389,
+    "wof:name":"A-Plus Towing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -106.92722,
+    44.798326,
+    -106.92722,
+    44.798326
+],
+  "geometry": {"coordinates":[-106.92722000000001,44.798326],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874174951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.326544,42.851024,-106.326544,42.851024",
+    "geom:latitude":42.851024,
+    "geom:longitude":-106.326544,
+    "iso:country":"US",
+    "sg:address":"200 N David St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 8289",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C6Kxl9jm1eah009oVTX1D_42.851024_-106.326544@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312578,
+    "wof:geomhash":"a77a78bbcf76f34c6c8e5546225756a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874174951
+        }
+    ],
+    "wof:id":874174951,
+    "wof:lastmodified":1464312578,
+    "wof:name":"Casper Human Resources Dept",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -106.326544,
+    42.851024,
+    -106.326544,
+    42.851024
+],
+  "geometry": {"coordinates":[-106.326544,42.851024],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874079089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.270855,42.857848,-106.270855,42.857848",
+    "geom:latitude":42.857848,
+    "geom:longitude":-106.270855,
+    "iso:country":"US",
+    "sg:address":"3 Curtis St",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 9323",
+    "sg:postcode":"82636",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M5B6CwAEZjS8ln5JLdGyU_42.857848_-106.270855@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311543,
+    "wof:geomhash":"cf4cfd6979724a9d035c32fd4ac56c5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874079089
+        }
+    ],
+    "wof:id":874079089,
+    "wof:lastmodified":1464311543,
+    "wof:name":"Kum & Go",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.270855,
+    42.857848,
+    -106.270855,
+    42.857848
+],
+  "geometry": {"coordinates":[-106.270855,42.857848],"type":"Point"}
+}

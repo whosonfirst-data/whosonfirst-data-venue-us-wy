@@ -1,0 +1,69 @@
+{
+  "id": 874157331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.35449,42.872238,-106.35449,42.872238",
+    "geom:latitude":42.872238,
+    "geom:longitude":-106.35449,
+    "iso:country":"US",
+    "sg:address":"2017 Skyview Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 4747",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RJLfCd8UHTpYLSeimwYAr_42.872238_-106.354490@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312402,
+    "wof:geomhash":"60ba7b6501d0daeb761489e20d50afe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874157331
+        }
+    ],
+    "wof:id":874157331,
+    "wof:lastmodified":1464312402,
+    "wof:name":"Western Sling Co",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sling"
+    ]
+},
+  "bbox": [
+    -106.35449,
+    42.872238,
+    -106.35449,
+    42.872238
+],
+  "geometry": {"coordinates":[-106.35449,42.872238],"type":"Point"}
+}

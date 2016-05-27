@@ -1,0 +1,56 @@
+{
+  "id": 874083821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.750061,43.478396,-110.750061,43.478396",
+    "geom:latitude":43.478396,
+    "geom:longitude":-110.750061,
+    "iso:country":"US",
+    "sg:address":"117 Redmond St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 4957",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QpBSnr3aPVqKn64W41IeF_43.478396_-110.750061@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311597,
+    "wof:geomhash":"fb78aec1c70aff656d93161ada78ada2",
+    "wof:hierarchy":[],
+    "wof:id":874083821,
+    "wof:lastmodified":1464311597,
+    "wof:name":"Jim's Welding",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -110.750061,
+    43.478396,
+    -110.750061,
+    43.478396
+],
+  "geometry": {"coordinates":[-110.750061,43.478396],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874013963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.595053,41.311113,-105.595053,41.311113",
+    "geom:latitude":41.311113,
+    "geom:longitude":-105.595053,
+    "iso:country":"US",
+    "sg:address":"302 S 2nd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 760 5865",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "graphic",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eVRshUA0JwVxinfnFl8zA_41.311113_-105.595053@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310883,
+    "wof:geomhash":"0ff66669b1dc913010e6b6588ac6e864",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874013963
+        }
+    ],
+    "wof:id":874013963,
+    "wof:lastmodified":1464310883,
+    "wof:name":"Snowy Range Graphics",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "graphic",
+        "designer"
+    ]
+},
+  "bbox": [
+    -105.595053,
+    41.311113,
+    -105.595053,
+    41.311113
+],
+  "geometry": {"coordinates":[-105.59505299999999,41.311113],"type":"Point"}
+}

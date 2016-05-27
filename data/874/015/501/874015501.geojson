@@ -1,0 +1,60 @@
+{
+  "id": 874015501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.739254,42.834849,-108.739254,42.834849",
+    "geom:latitude":42.834849,
+    "geom:longitude":-108.739254,
+    "iso:country":"US",
+    "sg:address":"795 Main St",
+    "sg:city":"Lander",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 332 4057",
+    "sg:postcode":"82520",
+    "sg:province":"WY",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ux9kQwBGy3tTBchIDSHRM_42.834849_-108.739254@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310895,
+    "wof:geomhash":"f40770f4e5be3a66938fb06b004ca924",
+    "wof:hierarchy":[],
+    "wof:id":874015501,
+    "wof:lastmodified":1464310895,
+    "wof:name":"West Main Conoco",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -108.739254,
+    42.834849,
+    -108.739254,
+    42.834849
+],
+  "geometry": {"coordinates":[-108.739254,42.834849],"type":"Point"}
+}

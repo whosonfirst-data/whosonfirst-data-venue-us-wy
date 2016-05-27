@@ -1,0 +1,60 @@
+{
+  "id": 874163353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.806027,41.137359,-104.806027,41.137359",
+    "geom:latitude":41.137359,
+    "geom:longitude":-104.806027,
+    "iso:country":"US",
+    "sg:address":"820 E 17th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 2434",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "clinic",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N0zjzdPV9Lt30ds2IewFa_41.137359_-104.806027@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312463,
+    "wof:geomhash":"64e745a78ed907724b9d024bb94dd01f",
+    "wof:hierarchy":[],
+    "wof:id":874163353,
+    "wof:lastmodified":1464312463,
+    "wof:name":"University Of Wyoming Family",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "clinic",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -104.806027,
+    41.137359,
+    -104.806027,
+    41.137359
+],
+  "geometry": {"coordinates":[-104.806027,41.137359],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 874230101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.23034,41.611633,-109.23034,41.611633",
+    "geom:latitude":41.611633,
+    "geom:longitude":-109.23034,
+    "iso:country":"US",
+    "sg:address":"1641 Elk St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/rock-springs-north/235566-taco-time/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 3501",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79npdgu5m0HxqJctYIWYEN_41.611633_-109.230340@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313161,
+    "wof:geomhash":"19886b71953d3105dfa22b55e03404b2",
+    "wof:hierarchy":[],
+    "wof:id":874230101,
+    "wof:lastmodified":1464313161,
+    "wof:name":"Taco Time",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -109.23034,
+    41.611633,
+    -109.23034,
+    41.611633
+],
+  "geometry": {"coordinates":[-109.23034,41.611633],"type":"Point"}
+}

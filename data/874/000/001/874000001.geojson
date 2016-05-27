@@ -1,0 +1,71 @@
+{
+  "id": 874000001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.272522,42.84136,-106.272522,42.84136",
+    "geom:latitude":42.84136,
+    "geom:longitude":-106.272522,
+    "iso:country":"US",
+    "sg:address":"871 Bretton Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 3623",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "excavating",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nIFY9BOlmHxu6RUWHsDcH_42.841360_-106.272522@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310760,
+    "wof:geomhash":"0452e39af3b14b43802990369b3e4839",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874000001
+        }
+    ],
+    "wof:id":874000001,
+    "wof:lastmodified":1464310760,
+    "wof:name":"B & P Construction",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "general"
+    ]
+},
+  "bbox": [
+    -106.272522,
+    42.84136,
+    -106.272522,
+    42.84136
+],
+  "geometry": {"coordinates":[-106.272522,42.84136],"type":"Point"}
+}

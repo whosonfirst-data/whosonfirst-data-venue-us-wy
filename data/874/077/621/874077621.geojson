@@ -1,0 +1,51 @@
+{
+  "id": 874077621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.263814,41.579117,-109.263814,41.579117",
+    "geom:latitude":41.579117,
+    "geom:longitude":-109.263814,
+    "iso:country":"US",
+    "sg:address":"2450 Foothill Blvd",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 8560",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27e2MgjIUi2xbJpwpMv3ec_41.579117_-109.263814@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311525,
+    "wof:geomhash":"dac1bbb0771df799dd95fee7a90c2a25",
+    "wof:hierarchy":[],
+    "wof:id":874077621,
+    "wof:lastmodified":1464311525,
+    "wof:name":"Kmart",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.263814,
+    41.579117,
+    -109.263814,
+    41.579117
+],
+  "geometry": {"coordinates":[-109.263814,41.579117],"type":"Point"}
+}

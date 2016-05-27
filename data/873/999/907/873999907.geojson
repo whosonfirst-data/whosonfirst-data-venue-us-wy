@@ -1,0 +1,71 @@
+{
+  "id": 873999907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.410016,42.820463,-106.410016,42.820463",
+    "geom:latitude":42.820463,
+    "geom:longitude":-106.410016,
+    "iso:country":"US",
+    "sg:address":"264 Indian Paintbrush",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2955",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NGdVk7D4u8RzWAo1VvA0H_42.820463_-106.410016@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310760,
+    "wof:geomhash":"c453327993169827f9bd57350239eeb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":873999907
+        }
+    ],
+    "wof:id":873999907,
+    "wof:lastmodified":1464310760,
+    "wof:name":"Paradise Construction Concrete",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.410016,
+    42.820463,
+    -106.410016,
+    42.820463
+],
+  "geometry": {"coordinates":[-106.410016,42.820463],"type":"Point"}
+}

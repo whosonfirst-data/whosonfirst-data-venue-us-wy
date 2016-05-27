@@ -1,0 +1,71 @@
+{
+  "id": 874219153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.343784,42.809687,-106.343784,42.809687",
+    "geom:latitude":42.809687,
+    "geom:longitude":-106.343784,
+    "iso:country":"US",
+    "sg:address":"4060 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 3633",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "instruction",
+        "yoga"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FUOwwHr4VPfQ8Njl2egpc_42.809687_-106.343784@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313046,
+    "wof:geomhash":"14eec5b04fe69fcd66b1cb41eb8f956b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874219153
+        }
+    ],
+    "wof:id":874219153,
+    "wof:lastmodified":1464313046,
+    "wof:name":"Wyoming Sunrise Yoga Studio LL",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "yoga"
+    ]
+},
+  "bbox": [
+    -106.343784,
+    42.809687,
+    -106.343784,
+    42.809687
+],
+  "geometry": {"coordinates":[-106.343784,42.809687],"type":"Point"}
+}

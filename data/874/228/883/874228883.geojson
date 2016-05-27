@@ -1,0 +1,76 @@
+{
+  "id": 874228883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593236,41.314369,-105.593236,41.314369",
+    "geom:latitude":41.314369,
+    "geom:longitude":-105.593236,
+    "iso:country":"US",
+    "sg:address":"252 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/laramie/209455-tcby/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 7000",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BqzVFWuoGVjcHPKJpxqAt_41.314369_-105.593236@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313149,
+    "wof:geomhash":"5e60f6611d5ffff6ca77f8f4cf3e2e79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874228883
+        }
+    ],
+    "wof:id":874228883,
+    "wof:lastmodified":1464313149,
+    "wof:name":"TCBY",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -105.593236,
+    41.314369,
+    -105.593236,
+    41.314369
+],
+  "geometry": {"coordinates":[-105.593236,41.314369],"type":"Point"}
+}

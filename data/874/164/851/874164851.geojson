@@ -1,0 +1,58 @@
+{
+  "id": 874164851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.208401,43.645757,-108.208401,43.645757",
+    "geom:latitude":43.645757,
+    "geom:longitude":-108.208401,
+    "iso:country":"US",
+    "sg:address":"121 S 4th St",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 3138",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YoSqq49Vor7FKkuU9D9XS_43.645757_-108.208401@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312478,
+    "wof:geomhash":"e203c605819f8e49e2bed399c285ae09",
+    "wof:hierarchy":[],
+    "wof:id":874164851,
+    "wof:lastmodified":1464312478,
+    "wof:name":"Wyoming Mental Health Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -108.208401,
+    43.645757,
+    -108.208401,
+    43.645757
+],
+  "geometry": {"coordinates":[-108.20840099999999,43.645757],"type":"Point"}
+}

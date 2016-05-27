@@ -1,0 +1,58 @@
+{
+  "id": 874084879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.848691,44.65842,-103.848691,44.65842",
+    "geom:latitude":44.65842,
+    "geom:longitude":-103.848691,
+    "iso:country":"US",
+    "sg:address":"824 Park Dr",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 4357",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6k4gfl0qvi4BDNr2fx9rt3_44.658420_-103.848691@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311608,
+    "wof:geomhash":"930168a542087206cb40ea414e92e109",
+    "wof:hierarchy":[],
+    "wof:id":874084879,
+    "wof:lastmodified":1464311608,
+    "wof:name":"Scheele Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -103.848691,
+    44.65842,
+    -103.848691,
+    44.65842
+],
+  "geometry": {"coordinates":[-103.848691,44.65842],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874218919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.247216,43.413365,-106.247216,43.413365",
+    "geom:latitude":43.413365,
+    "geom:longitude":-106.247216,
+    "iso:country":"US",
+    "sg:address":"311 N 2nd St",
+    "sg:city":"Edgerton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 437 6763",
+    "sg:postcode":"82635",
+    "sg:province":"WY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ErD0pyhKjJQJLd8jvztEP_43.413365_-106.247216@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313043,
+    "wof:geomhash":"406adb38adbf71b9ff9cbf6d97ae9e53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874218919
+        }
+    ],
+    "wof:id":874218919,
+    "wof:lastmodified":1464313043,
+    "wof:name":"Edgerton Town Hall",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -106.247216,
+    43.413365,
+    -106.247216,
+    43.413365
+],
+  "geometry": {"coordinates":[-106.24721599999999,43.413365],"type":"Point"}
+}

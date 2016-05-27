@@ -1,0 +1,69 @@
+{
+  "id": 874021767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.254567,42.833186,-106.254567,42.833186",
+    "geom:latitude":42.833186,
+    "geom:longitude":-106.254567,
+    "iso:country":"US",
+    "sg:address":"4811 E 16th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 1510",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29YtqRk64FhuZIBtI1agdt_42.833186_-106.254567@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310963,
+    "wof:geomhash":"4f75b26640690737c1edc6cc04a73cea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874021767
+        }
+    ],
+    "wof:id":874021767,
+    "wof:lastmodified":1464310963,
+    "wof:name":"Cihak Consulting & Services",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -106.254567,
+    42.833186,
+    -106.254567,
+    42.833186
+],
+  "geometry": {"coordinates":[-106.25456699999999,42.833186],"type":"Point"}
+}

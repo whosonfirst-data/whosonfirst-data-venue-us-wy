@@ -1,0 +1,56 @@
+{
+  "id": 874205895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.18584,42.064998,-104.18584,42.064998",
+    "geom:latitude":42.064998,
+    "geom:longitude":-104.18584,
+    "iso:country":"US",
+    "sg:address":"2002 W A St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 8586",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "bicycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rXJvaVttj2oEkj2EfSnxc_42.064998_-104.185840@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312903,
+    "wof:geomhash":"a25ab15764cc11c9cc121709c2dd6f2d",
+    "wof:hierarchy":[],
+    "wof:id":874205895,
+    "wof:lastmodified":1464312903,
+    "wof:name":"D G's Bicycle Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bicycle"
+    ]
+},
+  "bbox": [
+    -104.18584,
+    42.064998,
+    -104.18584,
+    42.064998
+],
+  "geometry": {"coordinates":[-104.18584,42.064998],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 874230707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.955805,44.018897,-107.955805,44.018897",
+    "geom:latitude":44.018897,
+    "geom:longitude":-107.955805,
+    "iso:country":"US",
+    "sg:address":"1001 Pulliam Ave",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/worland/96496-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 6429",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k8hXrtZKwd6hrovqmPakb_44.018881_-107.955776@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313172,
+    "wof:geomhash":"90845f368751f73917b8bd1472caf75c",
+    "wof:hierarchy":[],
+    "wof:id":874230707,
+    "wof:lastmodified":1464313172,
+    "wof:name":"Taco John's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -107.955805,
+    44.018897,
+    -107.955805,
+    44.018897
+],
+  "geometry": {"coordinates":[-107.955805,44.018897],"type":"Point"}
+}

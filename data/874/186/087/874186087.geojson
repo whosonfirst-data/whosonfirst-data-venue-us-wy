@@ -1,0 +1,69 @@
+{
+  "id": 874186087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.42228,42.873267,-106.42228,42.873267",
+    "geom:latitude":42.873267,
+    "geom:longitude":-106.42228,
+    "iso:country":"US",
+    "sg:address":"6719 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 6139",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11cp9xWucfk0g9zH7dzRW6_42.873267_-106.422280@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312701,
+    "wof:geomhash":"528eddd76c42e475271b681c045f2a29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874186087
+        }
+    ],
+    "wof:id":874186087,
+    "wof:lastmodified":1464312701,
+    "wof:name":"CVIC Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -106.42228,
+    42.873267,
+    -106.42228,
+    42.873267
+],
+  "geometry": {"coordinates":[-106.42228,42.873267],"type":"Point"}
+}

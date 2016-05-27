@@ -1,0 +1,64 @@
+{
+  "id": 874171491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.310351,42.857991,-106.310351,42.857991",
+    "geom:latitude":42.857991,
+    "geom:longitude":-106.310351,
+    "iso:country":"US",
+    "sg:address":"820 N Washington St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 1660",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bC5XHbOVxGhPS4ha9yJZM_42.857991_-106.310351@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312544,
+    "wof:geomhash":"ce56f3cb6ad08371226568a1380e07e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874171491
+        }
+    ],
+    "wof:id":874171491,
+    "wof:lastmodified":1464312544,
+    "wof:name":"Brandis Interior Decor",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.310351,
+    42.857991,
+    -106.310351,
+    42.857991
+],
+  "geometry": {"coordinates":[-106.310351,42.857991],"type":"Point"}
+}

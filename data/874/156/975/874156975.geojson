@@ -1,0 +1,58 @@
+{
+  "id": 874156975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.485248,41.544995,-109.485248,41.544995",
+    "geom:latitude":41.544995,
+    "geom:longitude":-109.485248,
+    "iso:country":"US",
+    "sg:address":"2995 State Hwy 374",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 4340",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "hydraulic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NaFa9SyBfy8wpOPswhIpW_41.544995_-109.485248@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312399,
+    "wof:geomhash":"e64a1cb0c92f7cdedd6ec248ceb10104",
+    "wof:hierarchy":[],
+    "wof:id":874156975,
+    "wof:lastmodified":1464312399,
+    "wof:name":"Western Hydraulic Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "hydraulic"
+    ]
+},
+  "bbox": [
+    -109.485248,
+    41.544995,
+    -109.485248,
+    41.544995
+],
+  "geometry": {"coordinates":[-109.485248,41.544995],"type":"Point"}
+}

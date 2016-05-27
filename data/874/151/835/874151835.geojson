@@ -1,0 +1,51 @@
+{
+  "id": 874151835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.75752,44.754634,-108.75752,44.754634",
+    "geom:latitude":44.754634,
+    "geom:longitude":-108.75752,
+    "iso:country":"US",
+    "sg:address":"265 N Bent St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 4154",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X9qnsrbC41c64q3xCrWLd_44.754634_-108.757520@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312345,
+    "wof:geomhash":"f1a0f745d02ecf0cfd3773dc10c195bf",
+    "wof:hierarchy":[],
+    "wof:id":874151835,
+    "wof:lastmodified":1464312345,
+    "wof:name":"Powell Office Supply",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.75752,
+    44.754634,
+    -108.75752,
+    44.754634
+],
+  "geometry": {"coordinates":[-108.75752,44.754634],"type":"Point"}
+}

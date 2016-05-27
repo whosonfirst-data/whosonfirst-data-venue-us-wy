@@ -1,0 +1,56 @@
+{
+  "id": 874189353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.37807,43.038721,-108.37807,43.038721",
+    "geom:latitude":43.038721,
+    "geom:longitude":-108.37807,
+    "iso:country":"US",
+    "sg:address":"1525 Energy Ln",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 857 0813",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uhZDYj3gwllTuCbkQdVNX_43.038721_-108.378070@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312734,
+    "wof:geomhash":"8855f463c2146be370784716183a17fc",
+    "wof:hierarchy":[],
+    "wof:id":874189353,
+    "wof:lastmodified":1464312734,
+    "wof:name":"Bob's Truck Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -108.37807,
+    43.038721,
+    -108.37807,
+    43.038721
+],
+  "geometry": {"coordinates":[-108.37806999999999,43.038721],"type":"Point"}
+}

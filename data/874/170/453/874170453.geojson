@@ -1,0 +1,73 @@
+{
+  "id": 874170453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593613,41.301642,-105.593613,41.301642",
+    "geom:latitude":41.301642,
+    "geom:longitude":-105.593613,
+    "iso:country":"US",
+    "sg:address":"417 Sanders St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 399 1031",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "production",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1igSjRSwHxFHnFv4Uo04fI_41.301642_-105.593613@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312531,
+    "wof:geomhash":"d254c8ad47bb61ff4244b109c9a14225",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874170453
+        }
+    ],
+    "wof:id":874170453,
+    "wof:lastmodified":1464312531,
+    "wof:name":"Spotted Dog Productions",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "production",
+        "agency"
+    ]
+},
+  "bbox": [
+    -105.593613,
+    41.301642,
+    -105.593613,
+    41.301642
+],
+  "geometry": {"coordinates":[-105.593613,41.301642],"type":"Point"}
+}

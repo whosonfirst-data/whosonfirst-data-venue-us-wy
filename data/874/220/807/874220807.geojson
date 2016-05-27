@@ -1,0 +1,60 @@
+{
+  "id": 874220807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.977033,44.806413,-106.977033,44.806413",
+    "geom:latitude":44.806413,
+    "geom:longitude":-106.977033,
+    "iso:country":"US",
+    "sg:address":"1455 Burton St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 2522",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mrRbUpv2Rh6PAHMqbVDi7_44.806413_-106.977033@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313073,
+    "wof:geomhash":"b37fe5847c6582b05d5a8776ec35abed",
+    "wof:hierarchy":[],
+    "wof:id":874220807,
+    "wof:lastmodified":1464313073,
+    "wof:name":"Sheridan Womens Health PC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -106.977033,
+    44.806413,
+    -106.977033,
+    44.806413
+],
+  "geometry": {"coordinates":[-106.97703300000001,44.806413],"type":"Point"}
+}

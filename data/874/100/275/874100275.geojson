@@ -1,0 +1,66 @@
+{
+  "id": 874100275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.591843,41.313847,-105.591843,41.313847",
+    "geom:latitude":41.313847,
+    "geom:longitude":-105.591843,
+    "iso:country":"US",
+    "sg:address":"417 E Fremont St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 5081",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PgX76qH8cTSs9vrTqWod2_41.313847_-105.591843@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311797,
+    "wof:geomhash":"11ed281226e063c55a1b428ddd2079fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874100275
+        }
+    ],
+    "wof:id":874100275,
+    "wof:lastmodified":1464311797,
+    "wof:name":"NBS Assoc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.591843,
+    41.313847,
+    -105.591843,
+    41.313847
+],
+  "geometry": {"coordinates":[-105.591843,41.313847],"type":"Point"}
+}

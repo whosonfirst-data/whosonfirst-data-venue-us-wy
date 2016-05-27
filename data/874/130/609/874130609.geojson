@@ -1,0 +1,71 @@
+{
+  "id": 874130609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.335119,42.836516,-106.335119,42.836516",
+    "geom:latitude":42.836516,
+    "geom:longitude":-106.335119,
+    "iso:country":"US",
+    "sg:address":"860 Cy Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 5612",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "equipment",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EuVYSFLRYQIGoB5MfX1Ym_42.836516_-106.335119@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312144,
+    "wof:geomhash":"75f259db812e0e2b6d32f17da4439546",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874130609
+        }
+    ],
+    "wof:id":874130609,
+    "wof:lastmodified":1464312144,
+    "wof:name":"Ron's TV Svc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "video"
+    ]
+},
+  "bbox": [
+    -106.335119,
+    42.836516,
+    -106.335119,
+    42.836516
+],
+  "geometry": {"coordinates":[-106.33511900000001,42.836516],"type":"Point"}
+}

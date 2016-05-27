@@ -1,0 +1,73 @@
+{
+  "id": 874222779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.442787,42.882574,-106.442787,42.882574",
+    "geom:latitude":42.882574,
+    "geom:longitude":-106.442787,
+    "iso:country":"US",
+    "sg:address":"7266 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 8113",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n5grBHYE1ECf43R2B0n7n_42.882574_-106.442787@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313092,
+    "wof:geomhash":"a5baa4a78ba62a9306b5bb66185c2ccf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874222779
+        }
+    ],
+    "wof:id":874222779,
+    "wof:lastmodified":1464313092,
+    "wof:name":"Carl D Underwood Oil & Gas",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ]
+},
+  "bbox": [
+    -106.442787,
+    42.882574,
+    -106.442787,
+    42.882574
+],
+  "geometry": {"coordinates":[-106.442787,42.882574],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874204403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.797213,41.141422,-104.797213,41.141422",
+    "geom:latitude":41.141422,
+    "geom:longitude":-104.797213,
+    "iso:country":"US",
+    "sg:address":"1723 Logan Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 9201",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ULqsFz9xtOMOmvAJkCCSD_41.141422_-104.797213@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312887,
+    "wof:geomhash":"36cc6018593c5576be0523286c5fcc87",
+    "wof:hierarchy":[],
+    "wof:id":874204403,
+    "wof:lastmodified":1464312887,
+    "wof:name":"Family Medicine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -104.797213,
+    41.141422,
+    -104.797213,
+    41.141422
+],
+  "geometry": {"coordinates":[-104.797213,41.141422],"type":"Point"}
+}

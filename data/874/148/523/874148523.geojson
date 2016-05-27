@@ -1,0 +1,58 @@
+{
+  "id": 874148523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.961088,44.790655,-106.961088,44.790655",
+    "geom:latitude":44.790655,
+    "geom:longitude":-106.961088,
+    "iso:country":"US",
+    "sg:address":"375 W Heald St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 6211",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automobile",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14GGjFpN5M4gC8wWfW6smv_44.790655_-106.961088@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312315,
+    "wof:geomhash":"5bf5283bdb4e1edd72d0a649cfd505f5",
+    "wof:hierarchy":[],
+    "wof:id":874148523,
+    "wof:lastmodified":1464312315,
+    "wof:name":"Valley Motor Leasing Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -106.961088,
+    44.790655,
+    -106.961088,
+    44.790655
+],
+  "geometry": {"coordinates":[-106.961088,44.790655],"type":"Point"}
+}

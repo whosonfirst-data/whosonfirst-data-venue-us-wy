@@ -1,0 +1,71 @@
+{
+  "id": 874056701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.351766,42.830189,-106.351766,42.830189",
+    "geom:latitude":42.830189,
+    "geom:longitude":-106.351766,
+    "iso:country":"US",
+    "sg:address":"1915 Oxford Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 1658",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "photographer",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TlSutzObEMXmzudQGGZvf_42.830189_-106.351766@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311307,
+    "wof:geomhash":"ac19abe44636f69878fb360b31309a84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874056701
+        }
+    ],
+    "wof:id":874056701,
+    "wof:lastmodified":1464311307,
+    "wof:name":"Lifetouch",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "school"
+    ]
+},
+  "bbox": [
+    -106.351766,
+    42.830189,
+    -106.351766,
+    42.830189
+],
+  "geometry": {"coordinates":[-106.351766,42.830189],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874141709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.277762,42.82668,-106.277762,42.82668",
+    "geom:latitude":42.82668,
+    "geom:longitude":-106.277762,
+    "iso:country":"US",
+    "sg:address":"2321 Trojan Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 6763",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41p9bys7rI9hjthQq1TUqb_42.826680_-106.277762@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312250,
+    "wof:geomhash":"742bbb017bb51414583cc12c28262d21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874141709
+        }
+    ],
+    "wof:id":874141709,
+    "wof:lastmodified":1464312250,
+    "wof:name":"Color ME Beautiful",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -106.277762,
+    42.82668,
+    -106.277762,
+    42.82668
+],
+  "geometry": {"coordinates":[-106.277762,42.82668],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874086279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594322,41.325355,-105.594322,41.325355",
+    "geom:latitude":41.325355,
+    "geom:longitude":-105.594322,
+    "iso:country":"US",
+    "sg:address":"109 E Lyons St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 6338",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E8SW2ulbyy7VCmjz6xf0Q_41.325355_-105.594322@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311623,
+    "wof:geomhash":"47802a7524c1aa7d040bc4265a53aa4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874086279
+        }
+    ],
+    "wof:id":874086279,
+    "wof:lastmodified":1464311623,
+    "wof:name":"June Allen",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -105.594322,
+    41.325355,
+    -105.594322,
+    41.325355
+],
+  "geometry": {"coordinates":[-105.59432200000001,41.325355],"type":"Point"}
+}

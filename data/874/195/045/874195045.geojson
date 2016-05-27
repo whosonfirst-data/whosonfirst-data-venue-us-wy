@@ -1,0 +1,71 @@
+{
+  "id": 874195045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.360763,42.856544,-106.360763,42.856544",
+    "geom:latitude":42.856544,
+    "geom:longitude":-106.360763,
+    "iso:country":"US",
+    "sg:address":"3176 Liberty Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1620",
+    "sg:postcode":"82644",
+    "sg:province":"WY",
+    "sg:tags":[
+        "acoustical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TbbHcWuI8cmu2UGkjJ0v5_42.856544_-106.360763@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312795,
+    "wof:geomhash":"01383fc2455a7d1ada5b856a0ddf6bfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874195045
+        }
+    ],
+    "wof:id":874195045,
+    "wof:lastmodified":1464312795,
+    "wof:name":"Kegler Construction",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acoustical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.360763,
+    42.856544,
+    -106.360763,
+    42.856544
+],
+  "geometry": {"coordinates":[-106.36076300000001,42.856544],"type":"Point"}
+}

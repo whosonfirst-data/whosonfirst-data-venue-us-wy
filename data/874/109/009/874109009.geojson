@@ -1,0 +1,75 @@
+{
+  "id": 874109009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.240714,41.574644,-109.240714,41.574644",
+    "geom:latitude":41.574644,
+    "geom:longitude":-109.240714,
+    "iso:country":"US",
+    "sg:address":"1897 Dewar Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 3771",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "chambers",
+        "commerce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70O699DC35jusNY5JUwGOs_41.574644_-109.240714@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311903,
+    "wof:geomhash":"3eb22334e9f5e5b3071ec2bc54422e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874109009
+        }
+    ],
+    "wof:id":874109009,
+    "wof:lastmodified":1464311903,
+    "wof:name":"Rock Springs Chamber Commerce",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chambers",
+        "commerce"
+    ]
+},
+  "bbox": [
+    -109.240714,
+    41.574644,
+    -109.240714,
+    41.574644
+],
+  "geometry": {"coordinates":[-109.240714,41.574644],"type":"Point"}
+}

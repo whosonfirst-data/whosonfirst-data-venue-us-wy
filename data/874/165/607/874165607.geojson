@@ -1,0 +1,60 @@
+{
+  "id": 874165607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.503225,44.277247,-105.503225,44.277247",
+    "geom:latitude":44.277247,
+    "geom:longitude":-105.503225,
+    "iso:country":"US",
+    "sg:address":"2000 S Gillette Ave",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 685 1811",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eM6Rxzoc9MmNhjiFU9Y7l_44.277247_-105.503225@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312486,
+    "wof:geomhash":"c961aa095de690a0e7950c63f9c33cea",
+    "wof:hierarchy":[],
+    "wof:id":874165607,
+    "wof:lastmodified":1464312486,
+    "wof:name":"Western Well Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -105.503225,
+    44.277247,
+    -105.503225,
+    44.277247
+],
+  "geometry": {"coordinates":[-105.503225,44.277247],"type":"Point"}
+}

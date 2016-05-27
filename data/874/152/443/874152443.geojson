@@ -1,0 +1,51 @@
+{
+  "id": 874152443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.345544,42.135987,-104.345544,42.135987",
+    "geom:latitude":42.135987,
+    "geom:longitude":-104.345544,
+    "iso:country":"US",
+    "sg:address":"200 Main St",
+    "sg:city":"Yoder",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 4503",
+    "sg:postcode":"82223",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2N2PaWWP9f14hXEqx0yERo_42.135987_-104.345544@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312351,
+    "wof:geomhash":"64c9026b21180b33af7727f1aeb6bde1",
+    "wof:hierarchy":[],
+    "wof:id":874152443,
+    "wof:lastmodified":1464312351,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.345544,
+    42.135987,
+    -104.345544,
+    42.135987
+],
+  "geometry": {"coordinates":[-104.345544,42.135987],"type":"Point"}
+}

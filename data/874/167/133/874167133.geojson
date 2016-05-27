@@ -1,0 +1,56 @@
+{
+  "id": 874167133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.209989,43.646071,-108.209989,43.646071",
+    "geom:latitude":43.646071,
+    "geom:longitude":-108.209989,
+    "iso:country":"US",
+    "sg:address":"418 Broadway St",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 864 2531",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "dept"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SvEuRcFYNYv3WQSsTeTq7_43.646071_-108.209989@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312499,
+    "wof:geomhash":"d40bb1a5e735bf63fef52e5af580b31d",
+    "wof:hierarchy":[],
+    "wof:id":874167133,
+    "wof:lastmodified":1464312499,
+    "wof:name":"Thermopolis Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept"
+    ]
+},
+  "bbox": [
+    -108.209989,
+    43.646071,
+    -108.209989,
+    43.646071
+],
+  "geometry": {"coordinates":[-108.20998899999999,43.646071],"type":"Point"}
+}

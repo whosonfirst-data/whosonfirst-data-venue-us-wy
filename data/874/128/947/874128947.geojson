@@ -1,0 +1,56 @@
+{
+  "id": 874128947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.47422,41.50982,-109.47422,41.50982",
+    "geom:latitude":41.50982,
+    "geom:longitude":-109.47422,
+    "iso:country":"US",
+    "sg:address":"1400 Uinta Dr",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 872 4500",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R9ghQ13yW9qhb4FG2eXj4_41.509820_-109.474220@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312120,
+    "wof:geomhash":"7d195f95478d925053827dd082abbe0c",
+    "wof:hierarchy":[],
+    "wof:id":874128947,
+    "wof:lastmodified":1464312120,
+    "wof:name":"Castle Rock Medical Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -109.47422,
+    41.50982,
+    -109.47422,
+    41.50982
+],
+  "geometry": {"coordinates":[-109.47422,41.50982],"type":"Point"}
+}

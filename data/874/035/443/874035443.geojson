@@ -1,0 +1,73 @@
+{
+  "id": 874035443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.594426,41.304514,-105.594426,41.304514",
+    "geom:latitude":41.304514,
+    "geom:longitude":-105.594426,
+    "iso:country":"US",
+    "sg:address":"990 US Hwy 287",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 8504",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "organization",
+        "noncommercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29zbnwDXiSHMrgWFoTDjLk_41.304514_-105.594426@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311098,
+    "wof:geomhash":"0c32830084e154eb6bc3c6b4e6285c44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874035443
+        }
+    ],
+    "wof:id":874035443,
+    "wof:lastmodified":1464311098,
+    "wof:name":"Red Bettes Lab",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "noncommercial"
+    ]
+},
+  "bbox": [
+    -105.594426,
+    41.304514,
+    -105.594426,
+    41.304514
+],
+  "geometry": {"coordinates":[-105.594426,41.304514],"type":"Point"}
+}

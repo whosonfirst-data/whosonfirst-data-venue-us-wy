@@ -1,0 +1,62 @@
+{
+  "id": 874220233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.831806,41.167795,-104.831806,41.167795",
+    "geom:latitude":41.167795,
+    "geom:longitude":-104.831806,
+    "iso:country":"US",
+    "sg:address":"5416 Education Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 3675",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "practitioner",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53M3Am0WBuIGQA9qQSd41y_41.167795_-104.831806@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313064,
+    "wof:geomhash":"44767464a7ea2518626d2e9e513ca31f",
+    "wof:hierarchy":[],
+    "wof:id":874220233,
+    "wof:lastmodified":1464313064,
+    "wof:name":"Family First PC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "practitioner",
+        "family"
+    ]
+},
+  "bbox": [
+    -104.831806,
+    41.167795,
+    -104.831806,
+    41.167795
+],
+  "geometry": {"coordinates":[-104.831806,41.167795],"type":"Point"}
+}

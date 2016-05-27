@@ -1,0 +1,56 @@
+{
+  "id": 874035591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.943022,44.771282,-106.943022,44.771282",
+    "geom:latitude":44.771282,
+    "geom:longitude":-106.943022,
+    "iso:country":"US",
+    "sg:address":"2417 Coffeen Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 7133",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TqwRxhZSoPkH8Gm3eyp8F_44.771282_-106.943022@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311099,
+    "wof:geomhash":"e14625f6b9978074d1204721ce22c484",
+    "wof:hierarchy":[],
+    "wof:id":874035591,
+    "wof:lastmodified":1464311099,
+    "wof:name":"Country Hospital For Animals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "animal"
+    ]
+},
+  "bbox": [
+    -106.943022,
+    44.771282,
+    -106.943022,
+    44.771282
+],
+  "geometry": {"coordinates":[-106.943022,44.771282],"type":"Point"}
+}

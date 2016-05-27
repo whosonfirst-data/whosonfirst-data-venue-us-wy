@@ -1,0 +1,58 @@
+{
+  "id": 874187923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.354909,41.190243,-104.354909,41.190243",
+    "geom:latitude":41.190243,
+    "geom:longitude":-104.354909,
+    "iso:country":"US",
+    "sg:address":"233 S Washington Ave",
+    "sg:city":"Burns",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 547 3178",
+    "sg:postcode":"82053",
+    "sg:province":"WY",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UF751yjrDxrbUpqlt15D2_41.190243_-104.354909@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312719,
+    "wof:geomhash":"675bbf3c0b1e69d2d90a0037038dfdbb",
+    "wof:hierarchy":[],
+    "wof:id":874187923,
+    "wof:lastmodified":1464312719,
+    "wof:name":"Burns Utility Board",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -104.354909,
+    41.190243,
+    -104.354909,
+    41.190243
+],
+  "geometry": {"coordinates":[-104.35490900000001,41.190243],"type":"Point"}
+}

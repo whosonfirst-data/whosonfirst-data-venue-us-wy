@@ -1,0 +1,71 @@
+{
+  "id": 874055971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.58962,41.310853,-105.58962,41.310853",
+    "geom:latitude":41.310853,
+    "geom:longitude":-105.58962,
+    "iso:country":"US",
+    "sg:address":"605 US Hwy 30",
+    "sg:city":"Pine Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 245 3204",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "grain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xma4El7qnFeCPC6Rkch2A_41.310853_-105.589620@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311301,
+    "wof:geomhash":"eb25d75fc34414e72b7973390f105312",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874055971
+        }
+    ],
+    "wof:id":874055971,
+    "wof:lastmodified":1464311301,
+    "wof:name":"Farmers Elevator Co Grain",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain"
+    ]
+},
+  "bbox": [
+    -105.58962,
+    41.310853,
+    -105.58962,
+    41.310853
+],
+  "geometry": {"coordinates":[-105.58962,41.310853],"type":"Point"}
+}

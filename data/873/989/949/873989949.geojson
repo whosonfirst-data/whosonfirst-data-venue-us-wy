@@ -1,0 +1,56 @@
+{
+  "id": 873989949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.048863,44.531048,-109.048863,44.531048",
+    "geom:latitude":44.531048,
+    "geom:longitude":-109.048863,
+    "iso:country":"US",
+    "sg:address":"2111 Pioneer Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 7639",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jMkg3OdZyKJDjsDROQEJ7_44.531048_-109.048863@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310689,
+    "wof:geomhash":"eb752525bf18bbf4ce86171645be6234",
+    "wof:hierarchy":[],
+    "wof:id":873989949,
+    "wof:lastmodified":1464310689,
+    "wof:name":"Shoshone Court",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -109.048863,
+    44.531048,
+    -109.048863,
+    44.531048
+],
+  "geometry": {"coordinates":[-109.048863,44.531048],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874122173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.338283,42.813899,-106.338283,42.813899",
+    "geom:latitude":42.813899,
+    "geom:longitude":-106.338283,
+    "iso:country":"US",
+    "sg:address":"1150 Horizon Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 6130",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "engineering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aelAXAEM3pc4pJQDuq7GO_42.813899_-106.338283@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312060,
+    "wof:geomhash":"3a3e6af075dec5eaa02370deb8b20299",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874122173
+        }
+    ],
+    "wof:id":874122173,
+    "wof:lastmodified":1464312060,
+    "wof:name":"Structural Solutions LLC",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineering"
+    ]
+},
+  "bbox": [
+    -106.338283,
+    42.813899,
+    -106.338283,
+    42.813899
+],
+  "geometry": {"coordinates":[-106.338283,42.813899],"type":"Point"}
+}

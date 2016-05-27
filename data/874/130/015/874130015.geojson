@@ -1,0 +1,58 @@
+{
+  "id": 874130015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.512142,44.287494,-105.512142,44.287494",
+    "geom:latitude":44.287494,
+    "geom:longitude":-105.512142,
+    "iso:country":"US",
+    "sg:address":"709 W 8th St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 0883",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DzqtVbR0MQpypsjqLd2m1_44.287494_-105.512142@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312136,
+    "wof:geomhash":"a2aebfd1417280d77dfabf487ee85744",
+    "wof:hierarchy":[],
+    "wof:id":874130015,
+    "wof:lastmodified":1464312136,
+    "wof:name":"Black Hills Regional Eye Inst",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -105.512142,
+    44.287494,
+    -105.512142,
+    44.287494
+],
+  "geometry": {"coordinates":[-105.512142,44.287494],"type":"Point"}
+}

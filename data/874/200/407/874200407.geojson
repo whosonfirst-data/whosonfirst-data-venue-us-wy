@@ -1,0 +1,69 @@
+{
+  "id": 874200407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.344424,42.895255,-106.344424,42.895255",
+    "geom:latitude":42.895255,
+    "geom:longitude":-106.344424,
+    "iso:country":"US",
+    "sg:address":"3874 Salt Creek Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 259 0995",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "toilet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tTvC3XksKZAnO697wPakK_42.895255_-106.344424@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312847,
+    "wof:geomhash":"c23ba6bd93ef49469482ed469df3e93e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874200407
+        }
+    ],
+    "wof:id":874200407,
+    "wof:lastmodified":1464312847,
+    "wof:name":"A-1 Portables & Svc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toilet"
+    ]
+},
+  "bbox": [
+    -106.344424,
+    42.895255,
+    -106.344424,
+    42.895255
+],
+  "geometry": {"coordinates":[-106.344424,42.895255],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874007075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.232356,41.618754,-109.232356,41.618754",
+    "geom:latitude":41.618754,
+    "geom:longitude":-109.232356,
+    "iso:country":"US",
+    "sg:address":"1896 Elk St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 2428",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FK5uZJlmTuDxRwawqnAMJ_41.618754_-109.232356@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310833,
+    "wof:geomhash":"ec62e7db4cb1ab7f6ac4c90dcc2bcbdc",
+    "wof:hierarchy":[],
+    "wof:id":874007075,
+    "wof:lastmodified":1464310833,
+    "wof:name":"Rock Springs Auto Body & Glass",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -109.232356,
+    41.618754,
+    -109.232356,
+    41.618754
+],
+  "geometry": {"coordinates":[-109.232356,41.618754],"type":"Point"}
+}

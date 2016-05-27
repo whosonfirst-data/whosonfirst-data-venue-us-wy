@@ -1,0 +1,58 @@
+{
+  "id": 874102343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.398338,44.840352,-108.398338,44.840352",
+    "geom:latitude":44.840352,
+    "geom:longitude":-108.398338,
+    "iso:country":"US",
+    "sg:address":"202 W 2nd St",
+    "sg:city":"Lovell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 548 2494",
+    "sg:postcode":"82431",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nXuP8xL8Zmv8dHlQRXBnK_44.840352_-108.398338@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311823,
+    "wof:geomhash":"b55fa75561f04e816521e7eff2a828d4",
+    "wof:hierarchy":[],
+    "wof:id":874102343,
+    "wof:lastmodified":1464311823,
+    "wof:name":"Lovell Driver's License",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -108.398338,
+    44.840352,
+    -108.398338,
+    44.840352
+],
+  "geometry": {"coordinates":[-108.398338,44.840352],"type":"Point"}
+}

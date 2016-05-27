@@ -1,0 +1,58 @@
+{
+  "id": 874008919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.740532,44.341328,-106.740532,44.341328",
+    "geom:latitude":44.341328,
+    "geom:longitude":-106.740532,
+    "iso:country":"US",
+    "sg:address":"201 Aspen Dr",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 9062",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l9xxAJPfkYuCvx9hqoNMg_44.341328_-106.740532@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310848,
+    "wof:geomhash":"0eca5d32d0c0190c5d8598f18fae7570",
+    "wof:hierarchy":[],
+    "wof:id":874008919,
+    "wof:lastmodified":1464310848,
+    "wof:name":"Buffalo Health Mart",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -106.740532,
+    44.341328,
+    -106.740532,
+    44.341328
+],
+  "geometry": {"coordinates":[-106.740532,44.341328],"type":"Point"}
+}

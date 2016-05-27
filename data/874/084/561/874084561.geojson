@@ -1,0 +1,64 @@
+{
+  "id": 874084561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.321016,42.846515,-106.321016,42.846515",
+    "geom:latitude":42.846515,
+    "geom:longitude":-106.321016,
+    "iso:country":"US",
+    "sg:address":"416 S Beech St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 0934",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75yTuhNADj1IEaKGSWzO31_42.846515_-106.321016@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311604,
+    "wof:geomhash":"a26ebfba4dc21e5ce2f560723e20c911",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874084561
+        }
+    ],
+    "wof:id":874084561,
+    "wof:lastmodified":1464311604,
+    "wof:name":"Helmstad Wm D Counsellor Law",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.321016,
+    42.846515,
+    -106.321016,
+    42.846515
+],
+  "geometry": {"coordinates":[-106.321016,42.846515],"type":"Point"}
+}

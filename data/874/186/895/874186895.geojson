@@ -1,0 +1,71 @@
+{
+  "id": 874186895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.543628,41.379059,-105.543628,41.379059",
+    "geom:latitude":41.379059,
+    "geom:longitude":-105.543628,
+    "iso:country":"US",
+    "sg:address":"515 Roger Canyon Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 5856",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27yZlopRYdHQ4gzTmaow5y_41.379059_-105.543628@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312708,
+    "wof:geomhash":"0cbb4138c11e3ee713a55e05977722a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874186895
+        }
+    ],
+    "wof:id":874186895,
+    "wof:lastmodified":1464312708,
+    "wof:name":"Mike Flute Construction",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -105.543628,
+    41.379059,
+    -105.543628,
+    41.379059
+],
+  "geometry": {"coordinates":[-105.543628,41.379059],"type":"Point"}
+}

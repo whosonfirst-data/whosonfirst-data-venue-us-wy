@@ -1,0 +1,66 @@
+{
+  "id": 874135229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.56158,41.293891,-105.56158,41.293891",
+    "geom:latitude":41.293891,
+    "geom:longitude":-105.56158,
+    "iso:country":"US",
+    "sg:address":"402 Corthell Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 8032",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BetdVrdY8iv5gDfWhNcKO_41.293891_-105.561580@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312193,
+    "wof:geomhash":"ffd3c6686629b6da35ae6e80cd49434f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874135229
+        }
+    ],
+    "wof:id":874135229,
+    "wof:lastmodified":1464312193,
+    "wof:name":"Seventh Day Adventist Church",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.56158,
+    41.293891,
+    -105.56158,
+    41.293891
+],
+  "geometry": {"coordinates":[-105.56158000000001,41.293891],"type":"Point"}
+}

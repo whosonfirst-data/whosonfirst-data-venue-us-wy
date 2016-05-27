@@ -1,0 +1,56 @@
+{
+  "id": 874160373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.824915,41.134653,-104.824915,41.134653",
+    "geom:latitude":41.134653,
+    "geom:longitude":-104.824915,
+    "iso:country":"US",
+    "sg:address":"700 W 21st St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 777 7208",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "probation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uw6OrMXUsllz0zIfxISWK_41.134653_-104.824915@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312436,
+    "wof:geomhash":"b6cc3caabf2d5cecf1402aa03a6fd14d",
+    "wof:hierarchy":[],
+    "wof:id":874160373,
+    "wof:lastmodified":1464312436,
+    "wof:name":"Probation & Parole",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "probation"
+    ]
+},
+  "bbox": [
+    -104.824915,
+    41.134653,
+    -104.824915,
+    41.134653
+],
+  "geometry": {"coordinates":[-104.824915,41.134653],"type":"Point"}
+}

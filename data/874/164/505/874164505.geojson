@@ -1,0 +1,56 @@
+{
+  "id": 874164505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.508346,44.278876,-105.508346,44.278876",
+    "geom:latitude":44.278876,
+    "geom:longitude":-105.508346,
+    "iso:country":"US",
+    "sg:address":"408 W Juniper Ln",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 0100",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NdllPf8vSjUOdCAIdJTpH_44.278876_-105.508346@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312474,
+    "wof:geomhash":"75b2d9f04521944596066a9c5787d939",
+    "wof:hierarchy":[],
+    "wof:id":874164505,
+    "wof:lastmodified":1464312474,
+    "wof:name":"Humphrey's Bar & Grill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -105.508346,
+    44.278876,
+    -105.508346,
+    44.278876
+],
+  "geometry": {"coordinates":[-105.508346,44.278876],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 874019419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.379006,42.85029,-106.379006,42.85029",
+    "geom:latitude":42.85029,
+    "geom:longitude":-106.379006,
+    "iso:country":"US",
+    "sg:address":"4498 W Highway St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0290",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "field",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00S1FRu5EnsStmgh4FBcbL_42.850290_-106.379006@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310942,
+    "wof:geomhash":"2ba29432036b2be392dc7872cd2be0e1",
+    "wof:hierarchy":[],
+    "wof:id":874019419,
+    "wof:lastmodified":1464310942,
+    "wof:name":"R K Trucking",
+    "wof:parent_id":420550301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "field",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -106.379006,
+    42.85029,
+    -106.379006,
+    42.85029
+],
+  "geometry": {"coordinates":[-106.379006,42.85029],"type":"Point"}
+}

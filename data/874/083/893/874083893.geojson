@@ -1,0 +1,73 @@
+{
+  "id": 874083893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.525256,41.286649,-105.525256,41.286649",
+    "geom:latitude":41.286649,
+    "geom:longitude":-105.525256,
+    "iso:country":"US",
+    "sg:address":"5330 Meadow Ln",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 4663",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SAV7zzQb5yrMLr6pmhVZV_41.286649_-105.525256@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311598,
+    "wof:geomhash":"0ad719536bf8f5fdf527df42e514fc85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874083893
+        }
+    ],
+    "wof:id":874083893,
+    "wof:lastmodified":1464311598,
+    "wof:name":"Jairell Electric",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.525256,
+    41.286649,
+    -105.525256,
+    41.286649
+],
+  "geometry": {"coordinates":[-105.525256,41.286649],"type":"Point"}
+}

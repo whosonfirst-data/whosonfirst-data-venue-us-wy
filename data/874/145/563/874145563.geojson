@@ -1,0 +1,56 @@
+{
+  "id": 874145563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.493748,44.290224,-105.493748,44.290224",
+    "geom:latitude":44.290224,
+    "geom:longitude":-105.493748,
+    "iso:country":"US",
+    "sg:address":"818 E 5th St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 8622",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tC5EMf4pmoI1icPoGUqGM_44.290224_-105.493748@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312285,
+    "wof:geomhash":"e88ea08d7616638476a987eca5cde8a2",
+    "wof:hierarchy":[],
+    "wof:id":874145563,
+    "wof:lastmodified":1464312285,
+    "wof:name":"Fireside Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -105.493748,
+    44.290224,
+    -105.493748,
+    44.290224
+],
+  "geometry": {"coordinates":[-105.493748,44.290224],"type":"Point"}
+}

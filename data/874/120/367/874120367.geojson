@@ -1,0 +1,59 @@
+{
+  "id": 874120367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.944754,44.764167,-106.944754,44.764167",
+    "geom:latitude":44.764167,
+    "geom:longitude":-106.944754,
+    "iso:country":"US",
+    "sg:address":"3059 Coffeen Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 6446",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.sheridan.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CQkgakIkjdq15Vh3ol5bR_44.764167_-106.944754@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312044,
+    "wof:geomhash":"54c6fc19673b83eb825eb180ae5b658a",
+    "wof:hierarchy":[],
+    "wof:id":874120367,
+    "wof:lastmodified":1464312044,
+    "wof:name":"Sheridan College",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -106.944754,
+    44.764167,
+    -106.944754,
+    44.764167
+],
+  "geometry": {"coordinates":[-106.944754,44.764167],"type":"Point"}
+}

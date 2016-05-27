@@ -1,0 +1,71 @@
+{
+  "id": 874008267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33572,42.851107,-106.33572,42.851107",
+    "geom:latitude":42.851107,
+    "geom:longitude":-106.33572,
+    "iso:country":"US",
+    "sg:address":"701 Antler Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 4992",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "lock",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hkwEbkGq4H5FsBikbj6AS_42.851107_-106.335720@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310843,
+    "wof:geomhash":"a721be63af7caf3a4888434665fd0337",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874008267
+        }
+    ],
+    "wof:id":874008267,
+    "wof:lastmodified":1464310843,
+    "wof:name":"Dial Oil",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "gas"
+    ]
+},
+  "bbox": [
+    -106.33572,
+    42.851107,
+    -106.33572,
+    42.851107
+],
+  "geometry": {"coordinates":[-106.33571999999999,42.851107],"type":"Point"}
+}

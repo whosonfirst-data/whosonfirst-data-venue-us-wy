@@ -1,0 +1,71 @@
+{
+  "id": 874193723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.541909,41.323213,-105.541909,41.323213",
+    "geom:latitude":41.323213,
+    "geom:longitude":-105.541909,
+    "iso:country":"US",
+    "sg:address":"4209 E Cheyenne Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3113",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lNtNHauznY8K8zRdgYka4_41.323213_-105.541909@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312777,
+    "wof:geomhash":"b13b905b2c3552e40f6cbba485d218de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874193723
+        }
+    ],
+    "wof:id":874193723,
+    "wof:lastmodified":1464312777,
+    "wof:name":"Grannys Place",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -105.541909,
+    41.323213,
+    -105.541909,
+    41.323213
+],
+  "geometry": {"coordinates":[-105.541909,41.323213],"type":"Point"}
+}

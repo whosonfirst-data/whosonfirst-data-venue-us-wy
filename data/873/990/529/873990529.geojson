@@ -1,0 +1,61 @@
+{
+  "id": 873990529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.22748,41.59701,-109.22748,41.59701",
+    "geom:latitude":41.59701,
+    "geom:longitude":-109.22748,
+    "iso:country":"US",
+    "sg:address":"100 Bellview Dr",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 1858",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q5Z8MObjB9VCF3mRrkeQR_41.597010_-109.227480@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310693,
+    "wof:geomhash":"c6f0d8add9f1fa3f0595224f2d44afc8",
+    "wof:hierarchy":[],
+    "wof:id":873990529,
+    "wof:lastmodified":1464310693,
+    "wof:name":"Sign Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing"
+    ]
+},
+  "bbox": [
+    -109.22748,
+    41.59701,
+    -109.22748,
+    41.59701
+],
+  "geometry": {"coordinates":[-109.22748,41.59701],"type":"Point"}
+}

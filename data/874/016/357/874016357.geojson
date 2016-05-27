@@ -1,0 +1,71 @@
+{
+  "id": 874016357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.429908,42.877192,-106.429908,42.877192",
+    "geom:latitude":42.877192,
+    "geom:longitude":-106.429908,
+    "iso:country":"US",
+    "sg:address":"6923 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 0300",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HzeGHw1IYlTuYjSMWRQ45_42.877192_-106.429908@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310902,
+    "wof:geomhash":"192176b9c3e2711bddd3e76eafcf2108",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874016357
+        }
+    ],
+    "wof:id":874016357,
+    "wof:lastmodified":1464310902,
+    "wof:name":"M & M Sales & Svc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.429908,
+    42.877192,
+    -106.429908,
+    42.877192
+],
+  "geometry": {"coordinates":[-106.429908,42.877192],"type":"Point"}
+}

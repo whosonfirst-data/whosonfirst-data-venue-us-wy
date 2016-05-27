@@ -1,0 +1,58 @@
+{
+  "id": 874200623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.382319,43.033914,-108.382319,43.033914",
+    "geom:latitude":43.033914,
+    "geom:longitude":-108.382319,
+    "iso:country":"US",
+    "sg:address":"743 E Sunset Dr",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 7883",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iZg8LylvOa1zK1lD25RUu_43.033914_-108.382319@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312850,
+    "wof:geomhash":"a45d2b1ff70b7374d53afa849dae2f83",
+    "wof:hierarchy":[],
+    "wof:id":874200623,
+    "wof:lastmodified":1464312850,
+    "wof:name":"Valley Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.382319,
+    43.033914,
+    -108.382319,
+    43.033914
+],
+  "geometry": {"coordinates":[-108.382319,43.033914],"type":"Point"}
+}

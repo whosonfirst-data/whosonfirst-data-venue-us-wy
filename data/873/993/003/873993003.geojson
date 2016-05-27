@@ -1,0 +1,56 @@
+{
+  "id": 873993003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.040814,44.529595,-109.040814,44.529595",
+    "geom:latitude":44.529595,
+    "geom:longitude":-109.040814,
+    "iso:country":"US",
+    "sg:address":"2716 Cougar Ave",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 527 7355",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a3pwrFqVKJcp8SCFLfIEH_44.529595_-109.040814@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310712,
+    "wof:geomhash":"8591102eef47492457563494887775cf",
+    "wof:hierarchy":[],
+    "wof:id":873993003,
+    "wof:lastmodified":1464310712,
+    "wof:name":"Beehive Homes Of Cody",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -109.040814,
+    44.529595,
+    -109.040814,
+    44.529595
+],
+  "geometry": {"coordinates":[-109.040814,44.529595],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874183909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.276029,42.842725,-106.276029,42.842725",
+    "geom:latitude":42.842725,
+    "geom:longitude":-106.276029,
+    "iso:country":"US",
+    "sg:address":"3870 E 8th St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 0048",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MTiEA71SdaPSwyxm8rW3P_42.842725_-106.276029@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312676,
+    "wof:geomhash":"32ec37728302ec31eb572ff9c435dda1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874183909
+        }
+    ],
+    "wof:id":874183909,
+    "wof:lastmodified":1464312676,
+    "wof:name":"Salina Properties",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -106.276029,
+    42.842725,
+    -106.276029,
+    42.842725
+],
+  "geometry": {"coordinates":[-106.27602899999999,42.842725],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874034817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.054019,44.518621,-109.054019,44.518621",
+    "geom:latitude":44.518621,
+    "geom:longitude":-109.054019,
+    "iso:country":"US",
+    "sg:address":"1826 17th St",
+    "sg:city":"Cody",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 587 2552",
+    "sg:postcode":"82414",
+    "sg:province":"WY",
+    "sg:tags":[
+        "exhaust",
+        "grocery",
+        "gasoline",
+        "system",
+        "station",
+        "muffler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Gv0nSabAi2b3HXsHoYjYM_44.518621_-109.054019@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311092,
+    "wof:geomhash":"5855c948f1c4ee11aa977efa17a351f9",
+    "wof:hierarchy":[],
+    "wof:id":874034817,
+    "wof:lastmodified":1464311092,
+    "wof:name":"Hilltop Muffler Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust",
+        "grocery",
+        "gasoline",
+        "system",
+        "station",
+        "muffler"
+    ]
+},
+  "bbox": [
+    -109.054019,
+    44.518621,
+    -109.054019,
+    44.518621
+],
+  "geometry": {"coordinates":[-109.054019,44.518621],"type":"Point"}
+}

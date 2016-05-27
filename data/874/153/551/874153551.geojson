@@ -1,0 +1,60 @@
+{
+  "id": 874153551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.783168,44.74377,-108.783168,44.74377",
+    "geom:latitude":44.74377,
+    "geom:longitude":-108.783168,
+    "iso:country":"US",
+    "sg:address":"1025 W Coulter Ave",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 5123",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "farm",
+        "equipment",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w2Xj4NRA7fw597Xxi3h2F_44.743770_-108.783168@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312361,
+    "wof:geomhash":"f98923546b819fd2a3e9b3da40f0d607",
+    "wof:hierarchy":[],
+    "wof:id":874153551,
+    "wof:lastmodified":1464312361,
+    "wof:name":"Powell Equipment Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "equipment",
+        "parts"
+    ]
+},
+  "bbox": [
+    -108.783168,
+    44.74377,
+    -108.783168,
+    44.74377
+],
+  "geometry": {"coordinates":[-108.783168,44.74377],"type":"Point"}
+}

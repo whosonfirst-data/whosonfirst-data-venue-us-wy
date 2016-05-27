@@ -1,0 +1,74 @@
+{
+  "id": 874230593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593115,41.317324,-105.593115,41.317324",
+    "geom:latitude":41.317324,
+    "geom:longitude":-105.593115,
+    "iso:country":"US",
+    "sg:address":"570 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/laramie/86224-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 3131",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MdDic6qzQYIE0iUWBBL8R_41.316935_-105.593028@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313171,
+    "wof:geomhash":"d028c653c74009e42bdc4f8d29becea1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874230593
+        }
+    ],
+    "wof:id":874230593,
+    "wof:lastmodified":1464313171,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -105.593115,
+    41.317324,
+    -105.593115,
+    41.317324
+],
+  "geometry": {"coordinates":[-105.593115,41.317324],"type":"Point"}
+}

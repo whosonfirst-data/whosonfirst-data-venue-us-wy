@@ -1,0 +1,56 @@
+{
+  "id": 874093201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.60123,44.188761,-105.60123,44.188761",
+    "geom:latitude":44.188761,
+    "geom:longitude":-105.60123,
+    "iso:country":"US",
+    "sg:address":"59 Bell Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 5656",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "explosive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Krwz7jOTZDeLQbd7PWKaf_44.188761_-105.601230@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311696,
+    "wof:geomhash":"5e7ad0fd8657a862f2241bdd271a82ab",
+    "wof:hierarchy":[],
+    "wof:id":874093201,
+    "wof:lastmodified":1464311696,
+    "wof:name":"Buckley Powder Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "explosive"
+    ]
+},
+  "bbox": [
+    -105.60123,
+    44.188761,
+    -105.60123,
+    44.188761
+],
+  "geometry": {"coordinates":[-105.60123,44.188761],"type":"Point"}
+}

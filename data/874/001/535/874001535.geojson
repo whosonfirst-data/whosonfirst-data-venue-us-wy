@@ -1,0 +1,75 @@
+{
+  "id": 874001535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.576572,41.329131,-105.576572,41.329131",
+    "geom:latitude":41.329131,
+    "geom:longitude":-105.576572,
+    "iso:country":"US",
+    "sg:address":"1977 N 15th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 761 5674",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19sChHQ6c7IpbOONaKlnHP_41.329131_-105.576572@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310771,
+    "wof:geomhash":"793d694b1684c4991cc231d9042dd385",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874001535
+        }
+    ],
+    "wof:id":874001535,
+    "wof:lastmodified":1464310771,
+    "wof:name":"Novus Windshield Repair",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -105.576572,
+    41.329131,
+    -105.576572,
+    41.329131
+],
+  "geometry": {"coordinates":[-105.576572,41.329131],"type":"Point"}
+}

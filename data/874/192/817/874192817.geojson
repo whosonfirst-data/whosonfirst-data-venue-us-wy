@@ -1,0 +1,73 @@
+{
+  "id": 874192817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.672138,41.320702,-105.672138,41.320702",
+    "geom:latitude":41.320702,
+    "geom:longitude":-105.672138,
+    "iso:country":"US",
+    "sg:address":"555 General Brees Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 0500",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QIpKfiAuSu8SgnBBognFh_41.320702_-105.672138@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312769,
+    "wof:geomhash":"3a93ece016eeb70a2ace90c2d06621bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874192817
+        }
+    ],
+    "wof:id":874192817,
+    "wof:lastmodified":1464312769,
+    "wof:name":"Hertz Rent A Car",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -105.672138,
+    41.320702,
+    -105.672138,
+    41.320702
+],
+  "geometry": {"coordinates":[-105.672138,41.320702],"type":"Point"}
+}

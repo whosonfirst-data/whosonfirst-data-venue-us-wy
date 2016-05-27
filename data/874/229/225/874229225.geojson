@@ -1,0 +1,57 @@
+{
+  "id": 874229225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.38063,43.042191,-108.38063,43.042191",
+    "geom:latitude":43.042191,
+    "geom:longitude":-108.38063,
+    "iso:country":"US",
+    "sg:address":"1812 N Federal Blvd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/wind-river/214076-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 7443",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WV9l2OgnedQbQxmBBvAuC_43.042191_-108.380630@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313153,
+    "wof:geomhash":"3f8be8d7c7ecf05a00d2b19d4cfd1b76",
+    "wof:hierarchy":[],
+    "wof:id":874229225,
+    "wof:lastmodified":1464313153,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -108.38063,
+    43.042191,
+    -108.38063,
+    43.042191
+],
+  "geometry": {"coordinates":[-108.38063,43.042191],"type":"Point"}
+}

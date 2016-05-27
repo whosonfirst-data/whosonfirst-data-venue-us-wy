@@ -1,0 +1,63 @@
+{
+  "id": 874133809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.239322,41.792245,-107.239322,41.792245",
+    "geom:latitude":41.792245,
+    "geom:longitude":-107.239322,
+    "iso:country":"US",
+    "sg:address":"618 3rd St",
+    "sg:city":"Rawlins",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 324 3710",
+    "sg:postcode":"82301",
+    "sg:province":"WY",
+    "sg:tags":[
+        "auctioneer",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XsmRA7TDsh63dIrc2Xn1A_41.792245_-107.239322@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312180,
+    "wof:geomhash":"600b8382ae4a31414177c2d03356596a",
+    "wof:hierarchy":[],
+    "wof:id":874133809,
+    "wof:lastmodified":1464312180,
+    "wof:name":"Woodward & Associates",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -107.239322,
+    41.792245,
+    -107.239322,
+    41.792245
+],
+  "geometry": {"coordinates":[-107.239322,41.792245],"type":"Point"}
+}

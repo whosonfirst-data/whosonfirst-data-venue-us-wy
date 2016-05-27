@@ -1,0 +1,76 @@
+{
+  "id": 874224453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.312291,42.826456,-106.312291,42.826456",
+    "geom:latitude":42.826456,
+    "geom:longitude":-106.312291,
+    "iso:country":"US",
+    "sg:address":"2288 S McKinley St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1155",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gircC8aM2H1mrWMNIHrhP_42.826456_-106.312291@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313107,
+    "wof:geomhash":"a77625aa61391266f47c54c7cac5cc77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874224453
+        }
+    ],
+    "wof:id":874224453,
+    "wof:lastmodified":1464313107,
+    "wof:name":"Village Gardens Apartments",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -106.312291,
+    42.826456,
+    -106.312291,
+    42.826456
+],
+  "geometry": {"coordinates":[-106.312291,42.826456],"type":"Point"}
+}

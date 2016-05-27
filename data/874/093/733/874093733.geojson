@@ -1,0 +1,71 @@
+{
+  "id": 874093733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.586323,41.316204,-105.586323,41.316204",
+    "geom:latitude":41.316204,
+    "geom:longitude":-105.586323,
+    "iso:country":"US",
+    "sg:address":"812 E Bradley St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 7960",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75ClIPvpmG1715sydjDiPP_41.316204_-105.586323@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311701,
+    "wof:geomhash":"b8d00e4a83d14cae8ebf58dbb57e0f28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874093733
+        }
+    ],
+    "wof:id":874093733,
+    "wof:lastmodified":1464311701,
+    "wof:name":"Reitsmas Family Day Care",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -105.586323,
+    41.316204,
+    -105.586323,
+    41.316204
+],
+  "geometry": {"coordinates":[-105.58632299999999,41.316204],"type":"Point"}
+}

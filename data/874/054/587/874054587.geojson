@@ -1,0 +1,71 @@
+{
+  "id": 874054587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.548475,41.321139,-105.548475,41.321139",
+    "geom:latitude":41.321139,
+    "geom:longitude":-105.548475,
+    "iso:country":"US",
+    "sg:address":"1155 Inca Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 6005",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aT6nrEeAXfZuwSoZ4Bb6w_41.321139_-105.548475@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311289,
+    "wof:geomhash":"e294ab388318145397042f39f8798fec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874054587
+        }
+    ],
+    "wof:id":874054587,
+    "wof:lastmodified":1464311289,
+    "wof:name":"Suzanne H Lewis PC",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -105.548475,
+    41.321139,
+    -105.548475,
+    41.321139
+],
+  "geometry": {"coordinates":[-105.548475,41.321139],"type":"Point"}
+}

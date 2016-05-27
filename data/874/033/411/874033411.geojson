@@ -1,0 +1,71 @@
+{
+  "id": 874033411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.312353,42.843161,-106.312353,42.843161",
+    "geom:latitude":42.843161,
+    "geom:longitude":-106.312353,
+    "iso:country":"US",
+    "sg:address":"703 S McKinley St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 4655",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50Q86gdHvOhJXDbYdDTfsU_42.843161_-106.312353@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311079,
+    "wof:geomhash":"62aa1645d30dd3df6a6f2d1438706e8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874033411
+        }
+    ],
+    "wof:id":874033411,
+    "wof:lastmodified":1464311079,
+    "wof:name":"Pathfinder Inspection Svc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -106.312353,
+    42.843161,
+    -106.312353,
+    42.843161
+],
+  "geometry": {"coordinates":[-106.312353,42.843161],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 874096775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.705265,44.350754,-106.705265,44.350754",
+    "geom:latitude":44.350754,
+    "geom:longitude":-106.705265,
+    "iso:country":"US",
+    "sg:address":"210 N Desmet Ave",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 684 2564",
+    "sg:postcode":"82834",
+    "sg:province":"WY",
+    "sg:tags":[
+        "administration",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KVVT4PIHDSrH5X3ixzJLy_44.350754_-106.705265@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311740,
+    "wof:geomhash":"1a246b01500efd02a841c778c202cc01",
+    "wof:hierarchy":[],
+    "wof:id":874096775,
+    "wof:lastmodified":1464311740,
+    "wof:name":"Public Health",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administration",
+        "health"
+    ]
+},
+  "bbox": [
+    -106.705265,
+    44.350754,
+    -106.705265,
+    44.350754
+],
+  "geometry": {"coordinates":[-106.705265,44.350754],"type":"Point"}
+}

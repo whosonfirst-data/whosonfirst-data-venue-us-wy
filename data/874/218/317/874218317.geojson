@@ -1,0 +1,63 @@
+{
+  "id": 874218317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.965878,41.267605,-110.965878,41.267605",
+    "geom:latitude":41.267605,
+    "geom:longitude":-110.965878,
+    "iso:country":"US",
+    "sg:address":"917 Main St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 7679",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "county",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2adYnM5S4qOv6OT8pdO8Ya_41.267605_-110.965878@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313035,
+    "wof:geomhash":"1fd038cdaf3b28e969987c1053dd347c",
+    "wof:hierarchy":[],
+    "wof:id":874218317,
+    "wof:lastmodified":1464313035,
+    "wof:name":"ARC of Uinta & Lincoln County",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -110.965878,
+    41.267605,
+    -110.965878,
+    41.267605
+],
+  "geometry": {"coordinates":[-110.965878,41.267605],"type":"Point"}
+}

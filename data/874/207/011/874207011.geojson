@@ -1,0 +1,56 @@
+{
+  "id": 874207011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.546108,41.791342,-110.546108,41.791342",
+    "geom:latitude":41.791342,
+    "geom:longitude":-110.546108,
+    "iso:country":"US",
+    "sg:address":"921 Sorensen Dr",
+    "sg:city":"Kemmerer",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 877 6898",
+    "sg:postcode":"83101",
+    "sg:province":"WY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VToFCyD874TE5gRrVbdbl_41.791342_-110.546108@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312920,
+    "wof:geomhash":"64cffe5f73a19e75bef1ed8452f6759d",
+    "wof:hierarchy":[],
+    "wof:id":874207011,
+    "wof:lastmodified":1464312920,
+    "wof:name":"Kemmerer Water & Wastewater",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -110.546108,
+    41.791342,
+    -110.546108,
+    41.791342
+],
+  "geometry": {"coordinates":[-110.546108,41.791342],"type":"Point"}
+}

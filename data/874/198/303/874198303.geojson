@@ -1,0 +1,58 @@
+{
+  "id": 874198303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576581,44.739704,-108.576581,44.739704",
+    "geom:latitude":44.739704,
+    "geom:longitude":-108.576581,
+    "iso:country":"US",
+    "sg:address":"790 Rd 2",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 8480",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PbatwAxEWh4q8zVWqCJOH_44.739704_-108.576581@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312828,
+    "wof:geomhash":"3a372e3ff5811e4e54fed4d12d8525f2",
+    "wof:hierarchy":[],
+    "wof:id":874198303,
+    "wof:lastmodified":1464312828,
+    "wof:name":"Bar T Elec",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.576581,
+    44.739704,
+    -108.576581,
+    44.739704
+],
+  "geometry": {"coordinates":[-108.576581,44.739704],"type":"Point"}
+}

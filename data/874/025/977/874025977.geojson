@@ -1,0 +1,56 @@
+{
+  "id": 874025977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.793188,41.102206,-104.793188,41.102206",
+    "geom:latitude":41.102206,
+    "geom:longitude":-104.793188,
+    "iso:country":"US",
+    "sg:address":"513 E College Dr",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 8223",
+    "sg:postcode":"82007",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VwEyYwEThMgRiAuhe6oJc_41.102206_-104.793188@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311007,
+    "wof:geomhash":"6347d7e26b79315bfd11d9944f04f2b9",
+    "wof:hierarchy":[],
+    "wof:id":874025977,
+    "wof:lastmodified":1464311007,
+    "wof:name":"Doug's Towing Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -104.793188,
+    41.102206,
+    -104.793188,
+    41.102206
+],
+  "geometry": {"coordinates":[-104.793188,41.102206],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874161421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.324186,43.716179,-106.324186,43.716179",
+    "geom:latitude":43.716179,
+    "geom:longitude":-106.324186,
+    "iso:country":"US",
+    "sg:address":"1645 Sussex Rd",
+    "sg:city":"Kaycee",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 738 2303",
+    "sg:postcode":"82639",
+    "sg:province":"WY",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HAUB9vK5SHeugD39OGhwe_43.716179_-106.324186@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312446,
+    "wof:geomhash":"afbbf81ab83533759e199c2dd6fc52c1",
+    "wof:hierarchy":[],
+    "wof:id":874161421,
+    "wof:lastmodified":1464312446,
+    "wof:name":"Sussex Sand & Gravel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -106.324186,
+    43.716179,
+    -106.324186,
+    43.716179
+],
+  "geometry": {"coordinates":[-106.324186,43.716179],"type":"Point"}
+}

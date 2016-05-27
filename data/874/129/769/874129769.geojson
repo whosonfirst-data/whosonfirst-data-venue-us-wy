@@ -1,0 +1,56 @@
+{
+  "id": 874129769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.108732,42.551905,-110.108732,42.551905",
+    "geom:latitude":42.551905,
+    "geom:longitude":-110.108732,
+    "iso:country":"US",
+    "sg:address":"205 Ball Ln",
+    "sg:city":"Big Piney",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 276 3701",
+    "sg:postcode":"83113",
+    "sg:province":"WY",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0r00ZSLn5GX0VdPNN3xd6Z_42.551905_-110.108732@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312133,
+    "wof:geomhash":"46aa63d714af3cab233bac49a7c631d9",
+    "wof:hierarchy":[],
+    "wof:id":874129769,
+    "wof:lastmodified":1464312133,
+    "wof:name":"Terry's Welding Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -110.108732,
+    42.551905,
+    -110.108732,
+    42.551905
+],
+  "geometry": {"coordinates":[-110.108732,42.551905],"type":"Point"}
+}

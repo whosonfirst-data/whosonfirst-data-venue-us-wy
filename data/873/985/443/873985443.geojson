@@ -1,0 +1,73 @@
+{
+  "id": 873985443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.574611,41.329457,-105.574611,41.329457",
+    "geom:latitude":41.329457,
+    "geom:longitude":-105.574611,
+    "iso:country":"US",
+    "sg:address":"2063 N 17th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 2634",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "civil",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nZPy4DaE9xkZQTG5eJjZi_41.329457_-105.574611@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310653,
+    "wof:geomhash":"83ad699f662c75180f98e7e4f946442e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873985443
+        }
+    ],
+    "wof:id":873985443,
+    "wof:lastmodified":1464310653,
+    "wof:name":"Gorman Engineering Llc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "civil",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -105.574611,
+    41.329457,
+    -105.574611,
+    41.329457
+],
+  "geometry": {"coordinates":[-105.574611,41.329457],"type":"Point"}
+}

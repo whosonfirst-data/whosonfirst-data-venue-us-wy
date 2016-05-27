@@ -1,0 +1,66 @@
+{
+  "id": 874038755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.560021,41.306146,-105.560021,41.306146",
+    "geom:latitude":41.306146,
+    "geom:longitude":-105.560021,
+    "iso:country":"US",
+    "sg:address":"2604 E Sheridan St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7637",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2juWbG2sLfUm6P9QBgPO4B_41.306146_-105.560021@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311132,
+    "wof:geomhash":"434d87724554a29a8b48286c77463ba3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874038755
+        }
+    ],
+    "wof:id":874038755,
+    "wof:lastmodified":1464311132,
+    "wof:name":"Laramie Public Employees Assn",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.560021,
+    41.306146,
+    -105.560021,
+    41.306146
+],
+  "geometry": {"coordinates":[-105.56002100000001,41.306146],"type":"Point"}
+}

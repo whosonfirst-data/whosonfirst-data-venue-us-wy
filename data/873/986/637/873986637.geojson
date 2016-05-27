@@ -1,0 +1,71 @@
+{
+  "id": 873986637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323455,42.863431,-106.323455,42.863431",
+    "geom:latitude":42.863431,
+    "geom:longitude":-106.323455,
+    "iso:country":"US",
+    "sg:address":"1215 N Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 0179",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uDvOVtbUQLmelyNnLM0GV_42.863431_-106.323455@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310666,
+    "wof:geomhash":"27f7ce57cdc23ca959d2e31aaf7e293e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873986637
+        }
+    ],
+    "wof:id":873986637,
+    "wof:lastmodified":1464310666,
+    "wof:name":"Extreme Performance",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boat"
+    ]
+},
+  "bbox": [
+    -106.323455,
+    42.863431,
+    -106.323455,
+    42.863431
+],
+  "geometry": {"coordinates":[-106.323455,42.863431],"type":"Point"}
+}

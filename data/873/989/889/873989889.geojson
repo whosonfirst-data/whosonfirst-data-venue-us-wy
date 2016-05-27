@@ -1,0 +1,73 @@
+{
+  "id": 873989889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.590854,41.323593,-105.590854,41.323593",
+    "geom:latitude":41.323593,
+    "geom:longitude":-105.590854,
+    "iso:country":"US",
+    "sg:address":"1257 N 4th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 4445",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "heavy",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DS5SkSbtUscfff2ccZqqb_41.323593_-105.590854@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310689,
+    "wof:geomhash":"f20555b29efd02786d2fee383442fafa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873989889
+        }
+    ],
+    "wof:id":873989889,
+    "wof:lastmodified":1464310689,
+    "wof:name":"A-One Rental",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "construction"
+    ]
+},
+  "bbox": [
+    -105.590854,
+    41.323593,
+    -105.590854,
+    41.323593
+],
+  "geometry": {"coordinates":[-105.59085399999999,41.323593],"type":"Point"}
+}

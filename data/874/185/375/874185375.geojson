@@ -1,0 +1,73 @@
+{
+  "id": 874185375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.930634,44.062468,-107.930634,44.062468",
+    "geom:latitude":44.062468,
+    "geom:longitude":-107.930634,
+    "iso:country":"US",
+    "sg:address":"837 US Hwy 16",
+    "sg:city":"Worland",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 347 2777",
+    "sg:postcode":"82401",
+    "sg:province":"WY",
+    "sg:tags":[
+        "water",
+        "supply",
+        "company",
+        "gas",
+        "bulk",
+        "production",
+        "crude"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Xq7PcSUQDxsnMZGIrxhCr_44.062468_-107.930634@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312695,
+    "wof:geomhash":"414a4b6f210f0d869d9ce290fe293ab8",
+    "wof:hierarchy":[],
+    "wof:id":874185375,
+    "wof:lastmodified":1464312695,
+    "wof:name":"D M Consulting Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "supply",
+        "company",
+        "gas",
+        "bulk",
+        "production",
+        "crude"
+    ]
+},
+  "bbox": [
+    -107.930634,
+    44.062468,
+    -107.930634,
+    44.062468
+],
+  "geometry": {"coordinates":[-107.930634,44.062468],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874204629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.32858,42.84914,-106.32858,42.84914",
+    "geom:latitude":42.84914,
+    "geom:longitude":-106.32858,
+    "iso:country":"US",
+    "sg:address":"100 S Ash St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 3541",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37wRzkoEgHmOw8qMYHGw2U_42.849140_-106.328580@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312890,
+    "wof:geomhash":"df8393a3b9de8601aed844730b98c49c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874204629
+        }
+    ],
+    "wof:id":874204629,
+    "wof:lastmodified":1464312890,
+    "wof:name":"Casper Liquors",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.32858,
+    42.84914,
+    -106.32858,
+    42.84914
+],
+  "geometry": {"coordinates":[-106.32858,42.84914],"type":"Point"}
+}

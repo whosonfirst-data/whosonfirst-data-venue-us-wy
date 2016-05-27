@@ -1,0 +1,57 @@
+{
+  "id": 874098107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.386053,43.024571,-108.386053,43.024571",
+    "geom:latitude":43.024571,
+    "geom:longitude":-108.386053,
+    "iso:country":"US",
+    "sg:address":"421 E Main St",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 2244",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.dailyranger.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WKF4t42Pf4tumsDCzkl4p_43.024571_-108.386053@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311758,
+    "wof:geomhash":"5406b5d39438f1f341db1970a66d12a9",
+    "wof:hierarchy":[],
+    "wof:id":874098107,
+    "wof:lastmodified":1464311758,
+    "wof:name":"Ranger Newspaper",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -108.386053,
+    43.024571,
+    -108.386053,
+    43.024571
+],
+  "geometry": {"coordinates":[-108.386053,43.024571],"type":"Point"}
+}

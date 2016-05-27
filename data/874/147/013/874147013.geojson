@@ -1,0 +1,66 @@
+{
+  "id": 874147013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.620268,41.307028,-105.620268,41.307028",
+    "geom:latitude":41.307028,
+    "geom:longitude":-105.620268,
+    "iso:country":"US",
+    "sg:address":"528 S Pierce St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 0276",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tKFOutklEnfTNvSbHn1Dy_41.307028_-105.620268@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312303,
+    "wof:geomhash":"34b5e5f03b85b54a0d72e54f22d51c42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874147013
+        }
+    ],
+    "wof:id":874147013,
+    "wof:lastmodified":1464312303,
+    "wof:name":"L & M Critter Clips",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.620268,
+    41.307028,
+    -105.620268,
+    41.307028
+],
+  "geometry": {"coordinates":[-105.620268,41.307028],"type":"Point"}
+}

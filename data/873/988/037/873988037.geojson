@@ -1,0 +1,66 @@
+{
+  "id": 873988037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.21673,41.115625,-106.21673,41.115625",
+    "geom:latitude":41.115625,
+    "geom:longitude":-106.21673,
+    "iso:country":"US",
+    "sg:address":"147 Lake Creek Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 755 4297",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kpaG0UE8N12Ib7n4W7LnY_41.115625_-106.216730@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310675,
+    "wof:geomhash":"c3cb7b69bc4c4717dbf4bdf0202fda35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":873988037
+        }
+    ],
+    "wof:id":873988037,
+    "wof:lastmodified":1464310675,
+    "wof:name":"Altitude Chophouse & Brewery",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.21673,
+    41.115625,
+    -106.21673,
+    41.115625
+],
+  "geometry": {"coordinates":[-106.21673,41.115625],"type":"Point"}
+}

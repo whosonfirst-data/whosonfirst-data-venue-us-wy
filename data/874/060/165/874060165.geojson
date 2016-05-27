@@ -1,0 +1,62 @@
+{
+  "id": 874060165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.451926,42.755148,-104.451926,42.755148",
+    "geom:latitude":42.755148,
+    "geom:longitude":-104.451926,
+    "iso:country":"US",
+    "sg:address":"816 S Main St",
+    "sg:city":"Lusk",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 334 4094",
+    "sg:postcode":"82225",
+    "sg:province":"WY",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kJL35OOs4gkTk9qRniAHO_42.755148_-104.451926@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311336,
+    "wof:geomhash":"ee8249ef86233b775ad96fec0fe13c5e",
+    "wof:hierarchy":[],
+    "wof:id":874060165,
+    "wof:lastmodified":1464311336,
+    "wof:name":"Main Street Video & Smoke Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -104.451926,
+    42.755148,
+    -104.451926,
+    42.755148
+],
+  "geometry": {"coordinates":[-104.451926,42.755148],"type":"Point"}
+}

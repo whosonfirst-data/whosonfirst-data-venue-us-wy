@@ -1,0 +1,65 @@
+{
+  "id": 874077307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.763595,44.751058,-108.763595,44.751058",
+    "geom:latitude":44.751058,
+    "geom:longitude":-108.763595,
+    "iso:country":"US",
+    "sg:address":"276 S Douglas St",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 4609",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "parlor",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YuAmIduH5JbMMypMMjRAX_44.751058_-108.763595@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311522,
+    "wof:geomhash":"49ae5cc1c80a73cfbfb7f211401c9d49",
+    "wof:hierarchy":[],
+    "wof:id":874077307,
+    "wof:lastmodified":1464311522,
+    "wof:name":"Dan's Boot & Saddle Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "parlor",
+        "boot"
+    ]
+},
+  "bbox": [
+    -108.763595,
+    44.751058,
+    -108.763595,
+    44.751058
+],
+  "geometry": {"coordinates":[-108.763595,44.751058],"type":"Point"}
+}

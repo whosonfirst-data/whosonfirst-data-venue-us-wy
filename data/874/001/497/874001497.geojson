@@ -1,0 +1,51 @@
+{
+  "id": 874001497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.788756,41.144194,-104.788756,41.144194",
+    "geom:latitude":41.144194,
+    "geom:longitude":-104.788756,
+    "iso:country":"US",
+    "sg:address":"469 Cole Shopping Center",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 632 5171",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q5CPmHiqO84oRdJNEsxN7_41.144194_-104.788756@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310771,
+    "wof:geomhash":"286a2fbefa716b215156aed002792a94",
+    "wof:hierarchy":[],
+    "wof:id":874001497,
+    "wof:lastmodified":1464310771,
+    "wof:name":"Safeway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.788756,
+    41.144194,
+    -104.788756,
+    41.144194
+],
+  "geometry": {"coordinates":[-104.78875600000001,41.144194],"type":"Point"}
+}

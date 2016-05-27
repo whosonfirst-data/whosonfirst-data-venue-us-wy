@@ -1,0 +1,60 @@
+{
+  "id": 874050833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.686307,43.947699,-108.686307,43.947699",
+    "geom:latitude":43.947699,
+    "geom:longitude":-108.686307,
+    "iso:country":"US",
+    "sg:address":"3743 Grass Creek Rd",
+    "sg:city":"Thermopolis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 867 2363",
+    "sg:postcode":"82443",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12vXzoDQ2vjKzIjHPsl4XD_43.947699_-108.686307@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311249,
+    "wof:geomhash":"30db24389465b7b3530c6acfc5b7d012",
+    "wof:hierarchy":[],
+    "wof:id":874050833,
+    "wof:lastmodified":1464311249,
+    "wof:name":"Lone Wolf Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.686307,
+    43.947699,
+    -108.686307,
+    43.947699
+],
+  "geometry": {"coordinates":[-108.686307,43.947699],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874021397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.34316,42.821697,-106.34316,42.821697",
+    "geom:latitude":42.821697,
+    "geom:longitude":-106.34316,
+    "iso:country":"US",
+    "sg:address":"2746 S Odell Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 232 8507",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54VdgEuW37Ag5xjPoeSYWW_42.821697_-106.343160@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310959,
+    "wof:geomhash":"b1a37d38cd45b0a58bc7448850f97a95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874021397
+        }
+    ],
+    "wof:id":874021397,
+    "wof:lastmodified":1464310959,
+    "wof:name":"Robin Ahrndt",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.34316,
+    42.821697,
+    -106.34316,
+    42.821697
+],
+  "geometry": {"coordinates":[-106.34316,42.821697],"type":"Point"}
+}

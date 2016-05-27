@@ -1,0 +1,71 @@
+{
+  "id": 874040651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.580003,41.301447,-105.580003,41.301447",
+    "geom:latitude":41.301447,
+    "geom:longitude":-105.580003,
+    "iso:country":"US",
+    "sg:address":"1413 E Sanders Dr",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 760 0638",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X6MaUo046By6OmzZbxINm_41.301447_-105.580003@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311149,
+    "wof:geomhash":"b8f003eb6fd81875d07e80261e5cc024",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874040651
+        }
+    ],
+    "wof:id":874040651,
+    "wof:lastmodified":1464311149,
+    "wof:name":"Lone Star Paint & Drywall",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -105.580003,
+    41.301447,
+    -105.580003,
+    41.301447
+],
+  "geometry": {"coordinates":[-105.580003,41.301447],"type":"Point"}
+}

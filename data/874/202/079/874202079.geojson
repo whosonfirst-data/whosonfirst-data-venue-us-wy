@@ -1,0 +1,60 @@
+{
+  "id": 874202079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.95665,44.72597,-108.95665,44.72597",
+    "geom:latitude":44.72597,
+    "geom:longitude":-108.95665,
+    "iso:country":"US",
+    "sg:address":"1099 Rd 19",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 2653",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qKpcZoNJvR9fXzWK2cdEr_44.725970_-108.956650@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312865,
+    "wof:geomhash":"c0716749ab112fb5c80498848be834cf",
+    "wof:hierarchy":[],
+    "wof:id":874202079,
+    "wof:lastmodified":1464312865,
+    "wof:name":"CD Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.95665,
+    44.72597,
+    -108.95665,
+    44.72597
+],
+  "geometry": {"coordinates":[-108.95665,44.72597],"type":"Point"}
+}

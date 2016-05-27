@@ -1,0 +1,71 @@
+{
+  "id": 874104997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.604565,41.315198,-105.604565,41.315198",
+    "geom:latitude":41.315198,
+    "geom:longitude":-105.604565,
+    "iso:country":"US",
+    "sg:address":"419 State Hwy 230",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 7527",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F9PetQGJByFX2ytVkdgW2_41.315198_-105.604565@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311857,
+    "wof:geomhash":"eea38e29a837aedfca90d32b75907255",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874104997
+        }
+    ],
+    "wof:id":874104997,
+    "wof:lastmodified":1464311857,
+    "wof:name":"Wyoming Mobile Svc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -105.604565,
+    41.315198,
+    -105.604565,
+    41.315198
+],
+  "geometry": {"coordinates":[-105.60456499999999,41.315198],"type":"Point"}
+}

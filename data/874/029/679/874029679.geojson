@@ -1,0 +1,73 @@
+{
+  "id": 874029679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.578026,41.277204,-105.578026,41.277204",
+    "geom:latitude":41.277204,
+    "geom:longitude":-105.578026,
+    "iso:country":"US",
+    "sg:address":"4015 Soldier Springs Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 5649",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "antique",
+        "restoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cwU682UIRDi3WQHSFNkKc_41.277204_-105.578026@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311046,
+    "wof:geomhash":"246f0560d601225d770c3a6a52b63c7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874029679
+        }
+    ],
+    "wof:id":874029679,
+    "wof:lastmodified":1464311046,
+    "wof:name":"Kraft-Strip",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique",
+        "restoring"
+    ]
+},
+  "bbox": [
+    -105.578026,
+    41.277204,
+    -105.578026,
+    41.277204
+],
+  "geometry": {"coordinates":[-105.57802599999999,41.277204],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873993817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323695,42.853209,-106.323695,42.853209",
+    "geom:latitude":42.853209,
+    "geom:longitude":-106.323695,
+    "iso:country":"US",
+    "sg:address":"337 N Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 577 4913",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HlaAykDJb3aZY1rbIRojB_42.853209_-106.323695@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310717,
+    "wof:geomhash":"dbdaa8c2caa43c5aeb0e378698449370",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873993817
+        }
+    ],
+    "wof:id":873993817,
+    "wof:lastmodified":1464310717,
+    "wof:name":"Arc Of Natrona County",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -106.323695,
+    42.853209,
+    -106.323695,
+    42.853209
+],
+  "geometry": {"coordinates":[-106.323695,42.853209],"type":"Point"}
+}

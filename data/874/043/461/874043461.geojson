@@ -1,0 +1,56 @@
+{
+  "id": 874043461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.184217,42.062969,-104.184217,42.062969",
+    "geom:latitude":42.062969,
+    "geom:longitude":-104.184217,
+    "iso:country":"US",
+    "sg:address":"119 E 19th Ave",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 532 3811",
+    "sg:postcode":"82240",
+    "sg:province":"WY",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64beQBSD7t4HFDI5nSNx5L_42.062969_-104.184217@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311180,
+    "wof:geomhash":"9490df686b0470d637f9f8c9ed9fda61",
+    "wof:hierarchy":[],
+    "wof:id":874043461,
+    "wof:lastmodified":1464311180,
+    "wof:name":"Benchmark Of Torrington",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -104.184217,
+    42.062969,
+    -104.184217,
+    42.062969
+],
+  "geometry": {"coordinates":[-104.184217,42.062969],"type":"Point"}
+}

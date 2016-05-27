@@ -1,0 +1,69 @@
+{
+  "id": 874048787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.410879,42.798966,-106.410879,42.798966",
+    "geom:latitude":42.798966,
+    "geom:longitude":-106.410879,
+    "iso:country":"US",
+    "sg:address":"5925 Bell Valley Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 3969",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "archaeologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VXf30M34t5IfNF86icLWK_42.798966_-106.410879@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311230,
+    "wof:geomhash":"b4c5dad7882625649d04ba74813d34b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874048787
+        }
+    ],
+    "wof:id":874048787,
+    "wof:lastmodified":1464311230,
+    "wof:name":"Archaelogical Energy",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "archaeologist"
+    ]
+},
+  "bbox": [
+    -106.410879,
+    42.798966,
+    -106.410879,
+    42.798966
+],
+  "geometry": {"coordinates":[-106.41087899999999,42.798966],"type":"Point"}
+}

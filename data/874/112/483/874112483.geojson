@@ -1,0 +1,73 @@
+{
+  "id": 874112483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.220118,41.588729,-109.220118,41.588729",
+    "geom:latitude":41.588729,
+    "geom:longitude":-109.220118,
+    "iso:country":"US",
+    "sg:address":"117 K St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 7744",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qyocVL0bM04TvdiD5nLnN_41.588729_-109.220118@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311963,
+    "wof:geomhash":"b033a7161a15bb4c520299e49c6adf8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874112483
+        }
+    ],
+    "wof:id":874112483,
+    "wof:lastmodified":1464311963,
+    "wof:name":"Los Cabos",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -109.220118,
+    41.588729,
+    -109.220118,
+    41.588729
+],
+  "geometry": {"coordinates":[-109.220118,41.588729],"type":"Point"}
+}

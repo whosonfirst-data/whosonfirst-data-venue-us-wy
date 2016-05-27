@@ -1,0 +1,71 @@
+{
+  "id": 874010661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.58876,41.293617,-105.58876,41.293617",
+    "geom:latitude":41.293617,
+    "geom:longitude":-105.58876,
+    "iso:country":"US",
+    "sg:address":"605 E Plaza Ct",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 9220",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YuV0yHpA49t9ipFMWIkrq_41.293617_-105.588760@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310860,
+    "wof:geomhash":"34053e70b7020c09d4e1e1f807ec5dc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874010661
+        }
+    ],
+    "wof:id":874010661,
+    "wof:lastmodified":1464310860,
+    "wof:name":"Wester-Wetstein & Assoc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -105.58876,
+    41.293617,
+    -105.58876,
+    41.293617
+],
+  "geometry": {"coordinates":[-105.58875999999999,41.293617],"type":"Point"}
+}

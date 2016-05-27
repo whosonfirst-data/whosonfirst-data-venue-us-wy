@@ -1,0 +1,56 @@
+{
+  "id": 874129033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.788589,41.132122,-104.788589,41.132122",
+    "geom:latitude":41.132122,
+    "geom:longitude":-104.788589,
+    "iso:country":"US",
+    "sg:address":"611 Crook Ave",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 635 1474",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59NKCfkIKZ5saHoPkKes9o_41.132122_-104.788589@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312122,
+    "wof:geomhash":"1f618d2763e56f3ccff7a2ba52eef98a",
+    "wof:hierarchy":[],
+    "wof:id":874129033,
+    "wof:lastmodified":1464312122,
+    "wof:name":"Q C Testing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -104.788589,
+    41.132122,
+    -104.788589,
+    41.132122
+],
+  "geometry": {"coordinates":[-104.788589,41.132122],"type":"Point"}
+}

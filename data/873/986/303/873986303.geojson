@@ -1,0 +1,56 @@
+{
+  "id": 873986303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.809414,41.13609,-104.809414,41.13609",
+    "geom:latitude":41.13609,
+    "geom:longitude":-104.809414,
+    "iso:country":"US",
+    "sg:address":"522 E 17th St",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 638 9348",
+    "sg:postcode":"82001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ewbgBY1ZrAJGHmEMputdj_41.136090_-104.809414@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310664,
+    "wof:geomhash":"42228e0942c1e36281449294d57c447e",
+    "wof:hierarchy":[],
+    "wof:id":873986303,
+    "wof:lastmodified":1464310664,
+    "wof:name":"Sherman's Beauty Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -104.809414,
+    41.13609,
+    -104.809414,
+    41.13609
+],
+  "geometry": {"coordinates":[-104.809414,41.13609],"type":"Point"}
+}

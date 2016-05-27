@@ -1,0 +1,56 @@
+{
+  "id": 874118911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.390485,43.024704,-108.390485,43.024704",
+    "geom:latitude":43.024704,
+    "geom:longitude":-108.390485,
+    "iso:country":"US",
+    "sg:address":"124 E Main St",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 856 1145",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IGe46asgg3H7JnLVFD4hV_43.024704_-108.390485@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312024,
+    "wof:geomhash":"be27460f1dbc1395d9171f4f86d8d2b5",
+    "wof:hierarchy":[],
+    "wof:id":874118911,
+    "wof:lastmodified":1464312024,
+    "wof:name":"HMJ Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage"
+    ]
+},
+  "bbox": [
+    -108.390485,
+    43.024704,
+    -108.390485,
+    43.024704
+],
+  "geometry": {"coordinates":[-108.390485,43.024704],"type":"Point"}
+}

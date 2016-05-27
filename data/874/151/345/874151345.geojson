@@ -1,0 +1,56 @@
+{
+  "id": 874151345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.476242,41.508184,-109.476242,41.508184",
+    "geom:latitude":41.508184,
+    "geom:longitude":-109.476242,
+    "iso:country":"US",
+    "sg:address":"1450 Uinta Dr",
+    "sg:city":"Green River",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 875 2871",
+    "sg:postcode":"82935",
+    "sg:province":"WY",
+    "sg:tags":[
+        "forestry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KnHFPkI51RseEqlZUjKVZ_41.508184_-109.476242@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312340,
+    "wof:geomhash":"15d15b06f8d559b5674465a1701204df",
+    "wof:hierarchy":[],
+    "wof:id":874151345,
+    "wof:lastmodified":1464312340,
+    "wof:name":"National Forest",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forestry"
+    ]
+},
+  "bbox": [
+    -109.476242,
+    41.508184,
+    -109.476242,
+    41.508184
+],
+  "geometry": {"coordinates":[-109.476242,41.508184],"type":"Point"}
+}

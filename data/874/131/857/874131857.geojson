@@ -1,0 +1,58 @@
+{
+  "id": 874131857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.03885,44.376409,-108.03885,44.376409",
+    "geom:latitude":44.376409,
+    "geom:longitude":-108.03885,
+    "iso:country":"US",
+    "sg:address":"607 S 4th St",
+    "sg:city":"Basin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 568 2276",
+    "sg:postcode":"82410",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ncPXmpcEve65hgdt4ObdA_44.376409_-108.038850@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312158,
+    "wof:geomhash":"5776979f7887fa323e9cb4968388e899",
+    "wof:hierarchy":[],
+    "wof:id":874131857,
+    "wof:lastmodified":1464312158,
+    "wof:name":"RMF Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.03885,
+    44.376409,
+    -108.03885,
+    44.376409
+],
+  "geometry": {"coordinates":[-108.03885,44.376409],"type":"Point"}
+}

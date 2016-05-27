@@ -1,0 +1,73 @@
+{
+  "id": 874168817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.422514,42.873433,-106.422514,42.873433",
+    "geom:latitude":42.873433,
+    "geom:longitude":-106.422514,
+    "iso:country":"US",
+    "sg:address":"6701 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 7518",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "field",
+        "oil",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NVc11O1t2E3FR5OOcdsXR_42.873433_-106.422514@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312516,
+    "wof:geomhash":"1ac2e013cf42c79fa9b14ff7be0d7b2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874168817
+        }
+    ],
+    "wof:id":874168817,
+    "wof:lastmodified":1464312516,
+    "wof:name":"Harbison-Fischer",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -106.422514,
+    42.873433,
+    -106.422514,
+    42.873433
+],
+  "geometry": {"coordinates":[-106.42251400000001,42.873433],"type":"Point"}
+}

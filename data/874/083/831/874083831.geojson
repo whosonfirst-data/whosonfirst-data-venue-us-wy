@@ -1,0 +1,58 @@
+{
+  "id": 874083831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.750575,43.479767,-110.750575,43.479767",
+    "geom:latitude":43.479767,
+    "geom:longitude":-110.750575,
+    "iso:country":"US",
+    "sg:address":"555 E Broadway",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 7025",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OCkGGVsqZoj11pIvQVoPY_43.479767_-110.750575@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311597,
+    "wof:geomhash":"c178b7c263424badee5b5a7fc70a8654",
+    "wof:hierarchy":[],
+    "wof:id":874083831,
+    "wof:lastmodified":1464311597,
+    "wof:name":"Robert B Bricca MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -110.750575,
+    43.479767,
+    -110.750575,
+    43.479767
+],
+  "geometry": {"coordinates":[-110.750575,43.479767],"type":"Point"}
+}

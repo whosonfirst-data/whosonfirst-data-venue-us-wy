@@ -1,0 +1,59 @@
+{
+  "id": 874209261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.82851,41.17255,-104.82851,41.17255",
+    "geom:latitude":41.17255,
+    "geom:longitude":-104.82851,
+    "iso:country":"US",
+    "sg:address":"5719 Yellowstone Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 634 5222",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating",
+        "pizza"
+    ],
+    "sg:website":"www.godfathers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eyLysXQZP7NzIYcunSNUw_41.172550_-104.828510@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312941,
+    "wof:geomhash":"b15e49264bee16a0d953975cf3c2d356",
+    "wof:hierarchy":[],
+    "wof:id":874209261,
+    "wof:lastmodified":1464312941,
+    "wof:name":"Godfather's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -104.82851,
+    41.17255,
+    -104.82851,
+    41.17255
+],
+  "geometry": {"coordinates":[-104.82850999999999,41.17255],"type":"Point"}
+}

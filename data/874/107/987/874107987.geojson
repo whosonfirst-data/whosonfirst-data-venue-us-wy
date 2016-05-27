@@ -1,0 +1,64 @@
+{
+  "id": 874107987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.32666,42.83776,-106.32666,42.83776",
+    "geom:latitude":42.83776,
+    "geom:longitude":-106.32666,
+    "iso:country":"US",
+    "sg:address":"1222 S David St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 6836",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OvBvbjYyiuFWG31dSvePG_42.837760_-106.326660@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311894,
+    "wof:geomhash":"36868b672cffab4490150af0e4875969",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874107987
+        }
+    ],
+    "wof:id":874107987,
+    "wof:lastmodified":1464311894,
+    "wof:name":"Kelley Transport",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.32666,
+    42.83776,
+    -106.32666,
+    42.83776
+],
+  "geometry": {"coordinates":[-106.32666,42.83776],"type":"Point"}
+}

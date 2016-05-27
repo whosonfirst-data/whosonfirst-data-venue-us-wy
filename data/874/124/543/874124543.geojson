@@ -1,0 +1,56 @@
+{
+  "id": 874124543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.855016,44.654777,-103.855016,44.654777",
+    "geom:latitude":44.654777,
+    "geom:longitude":-103.855016,
+    "iso:country":"US",
+    "sg:address":"406 Summit St",
+    "sg:city":"Belle Fourche",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 892 2618",
+    "sg:postcode":"57717",
+    "sg:province":"WY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CnORTgi3ofoQXQtEDIEAo_44.654777_-103.855016@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312081,
+    "wof:geomhash":"ac7edb27264c16f54aebe6d68e29f3a4",
+    "wof:hierarchy":[],
+    "wof:id":874124543,
+    "wof:lastmodified":1464312081,
+    "wof:name":"Belle Fourche Vet Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -103.855016,
+    44.654777,
+    -103.855016,
+    44.654777
+],
+  "geometry": {"coordinates":[-103.85501600000001,44.654777],"type":"Point"}
+}

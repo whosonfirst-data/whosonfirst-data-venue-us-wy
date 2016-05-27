@@ -1,0 +1,56 @@
+{
+  "id": 874223609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.944754,44.764167,-106.944754,44.764167",
+    "geom:latitude":44.764167,
+    "geom:longitude":-106.944754,
+    "iso:country":"US",
+    "sg:address":"3059 Coffeen Ave",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 672 5868",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b7jB0uIDvpM3K5uDjka4O_44.764167_-106.944754@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313099,
+    "wof:geomhash":"54c6fc19673b83eb825eb180ae5b658a",
+    "wof:hierarchy":[],
+    "wof:id":874223609,
+    "wof:lastmodified":1464313099,
+    "wof:name":"Sodexho Marriott",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -106.944754,
+    44.764167,
+    -106.944754,
+    44.764167
+],
+  "geometry": {"coordinates":[-106.944754,44.764167],"type":"Point"}
+}

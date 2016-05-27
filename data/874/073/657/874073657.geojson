@@ -1,0 +1,73 @@
+{
+  "id": 874073657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.411652,42.814089,-106.411652,42.814089",
+    "geom:latitude":42.814089,
+    "geom:longitude":-106.411652,
+    "iso:country":"US",
+    "sg:address":"325 Aster St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 7022",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sun",
+        "goggles",
+        "sunglasses"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w72ec27B3lbCNdZydiLjG_42.814089_-106.411652@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311489,
+    "wof:geomhash":"5ab4cb840a12132538c55dc89396994a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874073657
+        }
+    ],
+    "wof:id":874073657,
+    "wof:lastmodified":1464311489,
+    "wof:name":"Shade Tree",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sun",
+        "goggles",
+        "sunglasses"
+    ]
+},
+  "bbox": [
+    -106.411652,
+    42.814089,
+    -106.411652,
+    42.814089
+],
+  "geometry": {"coordinates":[-106.411652,42.814089],"type":"Point"}
+}

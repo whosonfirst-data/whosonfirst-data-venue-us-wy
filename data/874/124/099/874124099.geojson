@@ -1,0 +1,64 @@
+{
+  "id": 874124099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.323834,42.845908,-106.323834,42.845908",
+    "geom:latitude":42.845908,
+    "geom:longitude":-106.323834,
+    "iso:country":"US",
+    "sg:address":"450 S Wolcott St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 232 8725",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08Z05R3z9m2q07OIqhKx3L_42.845908_-106.323834@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312077,
+    "wof:geomhash":"dab40b903cfae1dcbda20ad5fc79678d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874124099
+        }
+    ],
+    "wof:id":874124099,
+    "wof:lastmodified":1464312077,
+    "wof:name":"Poverty Resistance",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.323834,
+    42.845908,
+    -106.323834,
+    42.845908
+],
+  "geometry": {"coordinates":[-106.32383400000001,42.845908],"type":"Point"}
+}

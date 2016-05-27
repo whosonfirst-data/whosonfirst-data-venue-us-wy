@@ -1,0 +1,66 @@
+{
+  "id": 874194139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.587115,41.309513,-105.587115,41.309513",
+    "geom:latitude":41.309513,
+    "geom:longitude":-105.587115,
+    "iso:country":"US",
+    "sg:address":"419 S 8th St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 4480",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y5ydbGFZYAGnulDkdUGdr_41.309513_-105.587115@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312781,
+    "wof:geomhash":"13e39f8e4380b00a86f63399062c151d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874194139
+        }
+    ],
+    "wof:id":874194139,
+    "wof:lastmodified":1464312781,
+    "wof:name":"Albany Public Schools Food Svc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.587115,
+    41.309513,
+    -105.587115,
+    41.309513
+],
+  "geometry": {"coordinates":[-105.587115,41.309513],"type":"Point"}
+}

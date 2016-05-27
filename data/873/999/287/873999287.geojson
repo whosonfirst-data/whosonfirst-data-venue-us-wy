@@ -1,0 +1,69 @@
+{
+  "id": 873999287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.337105,42.834506,-106.337105,42.834506",
+    "geom:latitude":42.834506,
+    "geom:longitude":-106.337105,
+    "iso:country":"US",
+    "sg:address":"1738 S Poplar St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 4507",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "exploration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZODExxWRdxgDFhV7sLSNz_42.834506_-106.337105@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310755,
+    "wof:geomhash":"63d978c0fd1a646e8154d2f2f948bc7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873999287
+        }
+    ],
+    "wof:id":873999287,
+    "wof:lastmodified":1464310755,
+    "wof:name":"Hurley G William",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exploration"
+    ]
+},
+  "bbox": [
+    -106.337105,
+    42.834506,
+    -106.337105,
+    42.834506
+],
+  "geometry": {"coordinates":[-106.33710499999999,42.834506],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874212245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.828528,41.169582,-104.828528,41.169582",
+    "geom:latitude":41.169582,
+    "geom:longitude":-104.828528,
+    "iso:country":"US",
+    "sg:address":"5307 Yellowstone Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 778 0922",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L1kRfpQUyJyEqtCU81VdL_41.169582_-104.828528@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312977,
+    "wof:geomhash":"2cc19a04548f9a9b2a84424887301bbd",
+    "wof:hierarchy":[],
+    "wof:id":874212245,
+    "wof:lastmodified":1464312977,
+    "wof:name":"Kuhn Pete MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -104.828528,
+    41.169582,
+    -104.828528,
+    41.169582
+],
+  "geometry": {"coordinates":[-104.82852800000001,41.169582],"type":"Point"}
+}

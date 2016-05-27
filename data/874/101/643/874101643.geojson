@@ -1,0 +1,76 @@
+{
+  "id": 874101643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.315203,42.848883,-106.315203,42.848883",
+    "geom:latitude":42.848883,
+    "geom:longitude":-106.315203,
+    "iso:country":"US",
+    "sg:address":"113 S Lincoln St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 472 1117",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "royalty",
+        "trader",
+        "oil",
+        "subdivider"
+    ],
+    "sg:website":"www.oquinnrealty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y46SIwZnjs3Hp2333ypEZ_42.848883_-106.315203@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311814,
+    "wof:geomhash":"bce77d9b51d57877aa25f4d53f9f0567",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874101643
+        }
+    ],
+    "wof:id":874101643,
+    "wof:lastmodified":1464311814,
+    "wof:name":"O'Quinn Realty",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "royalty",
+        "trader",
+        "oil",
+        "subdivider"
+    ]
+},
+  "bbox": [
+    -106.315203,
+    42.848883,
+    -106.315203,
+    42.848883
+],
+  "geometry": {"coordinates":[-106.315203,42.848883],"type":"Point"}
+}

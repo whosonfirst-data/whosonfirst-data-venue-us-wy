@@ -1,0 +1,64 @@
+{
+  "id": 874191065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.247207,43.413874,-106.247207,43.413874",
+    "geom:latitude":43.413874,
+    "geom:longitude":-106.247207,
+    "iso:country":"US",
+    "sg:address":"303 N 2nd St",
+    "sg:city":"Edgerton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 437 6617",
+    "sg:postcode":"82635",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EXcN2DL8MsLIGOvikKyRU_43.413874_-106.247207@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312750,
+    "wof:geomhash":"84de5ed9e07f9b94230b9d6a26e2b4ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874191065
+        }
+    ],
+    "wof:id":874191065,
+    "wof:lastmodified":1464312750,
+    "wof:name":"Library Of Natrona County",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.247207,
+    43.413874,
+    -106.247207,
+    43.413874
+],
+  "geometry": {"coordinates":[-106.247207,43.413874],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874101899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.332012,42.840063,-106.332012,42.840063",
+    "geom:latitude":42.840063,
+    "geom:longitude":-106.332012,
+    "iso:country":"US",
+    "sg:address":"1032 S Spruce St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0865",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pHbcGzA7zM7ksFPSlEwAS_42.840063_-106.332012@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311817,
+    "wof:geomhash":"ec845d7aacf8382f5c05afe8a4de1981",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874101899
+        }
+    ],
+    "wof:id":874101899,
+    "wof:lastmodified":1464311817,
+    "wof:name":"American Legion Henry Whi",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.332012,
+    42.840063,
+    -106.332012,
+    42.840063
+],
+  "geometry": {"coordinates":[-106.33201200000001,42.840063],"type":"Point"}
+}

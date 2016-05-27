@@ -1,0 +1,71 @@
+{
+  "id": 873990313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.275337,42.843836,-106.275337,42.843836",
+    "geom:latitude":42.843836,
+    "geom:longitude":-106.275337,
+    "iso:country":"US",
+    "sg:address":"3840 Swanton Ave",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 8357",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "hardwood",
+        "mill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6F8YCvW9b37n8fVcmxeFmy_42.843836_-106.275337@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310692,
+    "wof:geomhash":"7bba383d2aa121a28cf150c0848fbf9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873990313
+        }
+    ],
+    "wof:id":873990313,
+    "wof:lastmodified":1464310692,
+    "wof:name":"Extreme Wood",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardwood",
+        "mill"
+    ]
+},
+  "bbox": [
+    -106.275337,
+    42.843836,
+    -106.275337,
+    42.843836
+],
+  "geometry": {"coordinates":[-106.27533699999999,42.843836],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874176793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.312155,42.859139,-106.312155,42.859139",
+    "geom:latitude":42.859139,
+    "geom:longitude":-106.312155,
+    "iso:country":"US",
+    "sg:address":"703 N Mc Kinley St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 2089",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VDt8EPJT7O1w22VX2MnYx_42.859139_-106.312155@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312594,
+    "wof:geomhash":"ef92614ad6fdaa4fab3e6360329e5ae3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874176793
+        }
+    ],
+    "wof:id":874176793,
+    "wof:lastmodified":1464312594,
+    "wof:name":"Mini Mart",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.312155,
+    42.859139,
+    -106.312155,
+    42.859139
+],
+  "geometry": {"coordinates":[-106.312155,42.859139],"type":"Point"}
+}

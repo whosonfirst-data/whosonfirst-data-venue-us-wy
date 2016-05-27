@@ -1,0 +1,56 @@
+{
+  "id": 874141249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.85306,42.86156,-105.85306,42.86156",
+    "geom:latitude":42.86156,
+    "geom:longitude":-105.85306,
+    "iso:country":"US",
+    "sg:address":"113 Oregon Trl",
+    "sg:city":"Glenrock",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 436 5774",
+    "sg:postcode":"82637",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55mfVA6C3fr172cIQwqjhz_42.861560_-105.853060@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312245,
+    "wof:geomhash":"406b22672914b7ae8dabf2c5c8b0ac5f",
+    "wof:hierarchy":[],
+    "wof:id":874141249,
+    "wof:lastmodified":1464312245,
+    "wof:name":"Bow Tie Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -105.85306,
+    42.86156,
+    -105.85306,
+    42.86156
+],
+  "geometry": {"coordinates":[-105.85306,42.86156],"type":"Point"}
+}

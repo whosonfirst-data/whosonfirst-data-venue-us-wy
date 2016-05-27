@@ -1,0 +1,77 @@
+{
+  "id": 874189687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.59271,41.319867,-105.59271,41.319867",
+    "geom:latitude":41.319867,
+    "geom:longitude":-105.59271,
+    "iso:country":"US",
+    "sg:address":"860 N 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 721 5825",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "r",
+        "truck",
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wwUndf8nEjmaru7oUykHu_41.319867_-105.592710@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312737,
+    "wof:geomhash":"b3b61ae6f055630acd13c707158f4fe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874189687
+        }
+    ],
+    "wof:id":874189687,
+    "wof:lastmodified":1464312737,
+    "wof:name":"D H U Haul",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "r",
+        "truck",
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -105.59271,
+    41.319867,
+    -105.59271,
+    41.319867
+],
+  "geometry": {"coordinates":[-105.59271,41.319867],"type":"Point"}
+}

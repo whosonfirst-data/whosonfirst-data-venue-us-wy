@@ -1,0 +1,63 @@
+{
+  "id": 874115683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.503929,44.268964,-105.503929,44.268964",
+    "geom:latitude":44.268964,
+    "geom:longitude":-105.503929,
+    "iso:country":"US",
+    "sg:address":"201 W Lakeway Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 3015",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DV3yoozK6ka8Y3jRCtqOn_44.268964_-105.503929@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311993,
+    "wof:geomhash":"10ab7af9887e23c3624f53fd759a3fdd",
+    "wof:hierarchy":[],
+    "wof:id":874115683,
+    "wof:lastmodified":1464311993,
+    "wof:name":"Therapeutic Massage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -105.503929,
+    44.268964,
+    -105.503929,
+    44.268964
+],
+  "geometry": {"coordinates":[-105.503929,44.268964],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 874186333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.965295,41.268173,-110.965295,41.268173",
+    "geom:latitude":41.268173,
+    "geom:longitude":-110.965295,
+    "iso:country":"US",
+    "sg:address":"125 10th St",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 4964",
+    "sg:postcode":"82930",
+    "sg:province":"WY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5piyrMv1YObDLVzfXvMkkb_41.268173_-110.965295@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312703,
+    "wof:geomhash":"962506409050dd1a876ad381a7aba0be",
+    "wof:hierarchy":[],
+    "wof:id":874186333,
+    "wof:lastmodified":1464312703,
+    "wof:name":"Tenth Street Barber Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -110.965295,
+    41.268173,
+    -110.965295,
+    41.268173
+],
+  "geometry": {"coordinates":[-110.965295,41.268173],"type":"Point"}
+}

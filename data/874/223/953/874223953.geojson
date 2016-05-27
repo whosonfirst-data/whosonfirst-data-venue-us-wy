@@ -1,0 +1,73 @@
+{
+  "id": 874223953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.624059,41.310487,-105.624059,41.310487",
+    "geom:latitude":41.310487,
+    "geom:longitude":-105.624059,
+    "iso:country":"US",
+    "sg:address":"2059 W Monroe St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 761 5371",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "janitor",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YsGcYRGzROOdp6fgrxQUS_41.310487_-105.624059@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313102,
+    "wof:geomhash":"9742b5103a1336f50b5f89acf6057be4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874223953
+        }
+    ],
+    "wof:id":874223953,
+    "wof:lastmodified":1464313102,
+    "wof:name":"All American Cleaning Company",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -105.624059,
+    41.310487,
+    -105.624059,
+    41.310487
+],
+  "geometry": {"coordinates":[-105.624059,41.310487],"type":"Point"}
+}

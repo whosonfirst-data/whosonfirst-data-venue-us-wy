@@ -1,0 +1,58 @@
+{
+  "id": 874166533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.957262,44.803499,-106.957262,44.803499",
+    "geom:latitude":44.803499,
+    "geom:longitude":-106.957262,
+    "iso:country":"US",
+    "sg:address":"532 Val Vista St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 5400",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QP5hWD5NmVRuY544xePTl_44.803499_-106.957262@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312494,
+    "wof:geomhash":"c79281270c0cd0f946697aeace669321",
+    "wof:hierarchy":[],
+    "wof:id":874166533,
+    "wof:lastmodified":1464312494,
+    "wof:name":"Hematology Oncology Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -106.957262,
+    44.803499,
+    -106.957262,
+    44.803499
+],
+  "geometry": {"coordinates":[-106.957262,44.803499],"type":"Point"}
+}

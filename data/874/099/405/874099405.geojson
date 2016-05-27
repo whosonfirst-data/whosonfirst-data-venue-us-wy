@@ -1,0 +1,64 @@
+{
+  "id": 874099405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.767818,44.756728,-108.767818,44.756728",
+    "geom:latitude":44.756728,
+    "geom:longitude":-108.767818,
+    "iso:country":"US",
+    "sg:address":"777 Ave H",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 754 2267",
+    "sg:postcode":"82435",
+    "sg:province":"WY",
+    "sg:tags":[
+        "skilled",
+        "general",
+        "nursing",
+        "care",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wnQMFxYNnqQDYiORsxD5m_44.756728_-108.767818@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311778,
+    "wof:geomhash":"9c44b0566b071b6d0a65ae0bfc11097d",
+    "wof:hierarchy":[],
+    "wof:id":874099405,
+    "wof:lastmodified":1464311778,
+    "wof:name":"Powell Valley Hospital",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled",
+        "general",
+        "nursing",
+        "care",
+        "facility"
+    ]
+},
+  "bbox": [
+    -108.767818,
+    44.756728,
+    -108.767818,
+    44.756728
+],
+  "geometry": {"coordinates":[-108.76781800000001,44.756728],"type":"Point"}
+}

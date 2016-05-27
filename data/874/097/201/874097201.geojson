@@ -1,0 +1,73 @@
+{
+  "id": 874097201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.335805,42.799307,-106.335805,42.799307",
+    "geom:latitude":42.799307,
+    "geom:longitude":-106.335805,
+    "iso:country":"US",
+    "sg:address":"5510 S Oak St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 2141",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "land",
+        "oil",
+        "lease"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hhb5DbUgkamrtwjpz5MaD_42.799307_-106.335805@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311746,
+    "wof:geomhash":"10c15357281fc6af91c22bc9fbb93e21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874097201
+        }
+    ],
+    "wof:id":874097201,
+    "wof:lastmodified":1464311746,
+    "wof:name":"WLR Inc",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "land",
+        "oil",
+        "lease"
+    ]
+},
+  "bbox": [
+    -106.335805,
+    42.799307,
+    -106.335805,
+    42.799307
+],
+  "geometry": {"coordinates":[-106.33580499999999,42.799307],"type":"Point"}
+}

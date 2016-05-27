@@ -1,0 +1,69 @@
+{
+  "id": 874168015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.39788,42.82082,-106.39788,42.82082",
+    "geom:latitude":42.82082,
+    "geom:longitude":-106.39788,
+    "iso:country":"US",
+    "sg:address":"1 E Magnolia St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 1952",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nTbq6NpiESNe0Zifih1ik_42.820820_-106.397880@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312507,
+    "wof:geomhash":"03ff7bf6b91a2e7a978a6b091da3acde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874168015
+        }
+    ],
+    "wof:id":874168015,
+    "wof:lastmodified":1464312507,
+    "wof:name":"Appletree Learning Center",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -106.39788,
+    42.82082,
+    -106.39788,
+    42.82082
+],
+  "geometry": {"coordinates":[-106.39788,42.82082],"type":"Point"}
+}

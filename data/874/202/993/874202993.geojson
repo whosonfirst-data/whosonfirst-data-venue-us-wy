@@ -1,0 +1,69 @@
+{
+  "id": 874202993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.33366,42.845824,-106.33366,42.845824",
+    "geom:latitude":42.845824,
+    "geom:longitude":-106.33366,
+    "iso:country":"US",
+    "sg:address":"450 S Walnut St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 1985",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sUPcVpt1mlhhAUr9jmhfD_42.845824_-106.333660@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312874,
+    "wof:geomhash":"6ac9028d3a02f999c0b68f6e6eb70c55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874202993
+        }
+    ],
+    "wof:id":874202993,
+    "wof:lastmodified":1464312874,
+    "wof:name":"Jr Flack Warehouse",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -106.33366,
+    42.845824,
+    -106.33366,
+    42.845824
+],
+  "geometry": {"coordinates":[-106.33365999999999,42.845824],"type":"Point"}
+}

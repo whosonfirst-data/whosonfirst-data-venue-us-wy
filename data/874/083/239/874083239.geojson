@@ -1,0 +1,73 @@
+{
+  "id": 874083239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.223159,41.589399,-109.223159,41.589399",
+    "geom:latitude":41.589399,
+    "geom:longitude":-109.223159,
+    "iso:country":"US",
+    "sg:address":"258 Elk St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 5999",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "scooter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155,
+        85806363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_203JFXQAIi2JSEdRATZ9k0_41.589399_-109.223159@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311592,
+    "wof:geomhash":"a3bb85ec23d318a2871b91b67a672772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "neighbourhood_id":85806363,
+            "region_id":85688475,
+            "venue_id":874083239
+        }
+    ],
+    "wof:id":874083239,
+    "wof:lastmodified":1464311592,
+    "wof:name":"Rat Fink Choppers",
+    "wof:parent_id":85806363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter"
+    ]
+},
+  "bbox": [
+    -109.223159,
+    41.589399,
+    -109.223159,
+    41.589399
+],
+  "geometry": {"coordinates":[-109.223159,41.589399],"type":"Point"}
+}

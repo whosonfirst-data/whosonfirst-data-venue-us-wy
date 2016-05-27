@@ -1,0 +1,57 @@
+{
+  "id": 874182183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.365968,42.746461,-105.365968,42.746461",
+    "geom:latitude":42.746461,
+    "geom:longitude":-105.365968,
+    "iso:country":"US",
+    "sg:address":"1841 Madora Ave",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 358 2846",
+    "sg:postcode":"82633",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mental"
+    ],
+    "sg:website":"www.ewmhc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QU2MNVBXwKRBeJ15Z9Baf_42.746461_-105.365968@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312652,
+    "wof:geomhash":"1d8d30c2b4862363750d6b1c407d8157",
+    "wof:hierarchy":[],
+    "wof:id":874182183,
+    "wof:lastmodified":1464312652,
+    "wof:name":"Eastern Wyoming Mental Health",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -105.365968,
+    42.746461,
+    -105.365968,
+    42.746461
+],
+  "geometry": {"coordinates":[-105.365968,42.746461],"type":"Point"}
+}

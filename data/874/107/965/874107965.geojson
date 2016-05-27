@@ -1,0 +1,80 @@
+{
+  "id": 874107965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.551507,41.13029,-105.551507,41.13029",
+    "geom:latitude":41.13029,
+    "geom:longitude":-105.551507,
+    "iso:country":"US",
+    "sg:address":"1348 US Hwy 287",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Toys & Hobbies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 8226",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "preparation",
+        "wholesaler",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rWTj3j7YxWYuBQp8wqlAc_41.130290_-105.551507@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311893,
+    "wof:geomhash":"87d6e65b0b399c29120a4fcbe0dc5e4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874107965
+        }
+    ],
+    "wof:id":874107965,
+    "wof:lastmodified":1464311893,
+    "wof:name":"J & G Wholesale",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "wholesaler",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -105.551507,
+    41.13029,
+    -105.551507,
+    41.13029
+],
+  "geometry": {"coordinates":[-105.551507,41.13029],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874028931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.548987,42.964264,-106.548987,42.964264",
+    "geom:latitude":42.964264,
+    "geom:longitude":-106.548987,
+    "iso:country":"US",
+    "sg:address":"13050 Garbutt Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 6326",
+    "sg:postcode":"82644",
+    "sg:province":"WY",
+    "sg:tags":[
+        "fence"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00KCixYkZhHPGdLG0kkT9h_42.964264_-106.548987@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311038,
+    "wof:geomhash":"07c1f21b2254cb9e43c717d792056f0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874028931
+        }
+    ],
+    "wof:id":874028931,
+    "wof:lastmodified":1464311038,
+    "wof:name":"Clark Fencing & Seeding",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence"
+    ]
+},
+  "bbox": [
+    -106.548987,
+    42.964264,
+    -106.548987,
+    42.964264
+],
+  "geometry": {"coordinates":[-106.548987,42.964264],"type":"Point"}
+}

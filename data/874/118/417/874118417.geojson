@@ -1,0 +1,59 @@
+{
+  "id": 874118417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.767328,43.479514,-110.767328,43.479514",
+    "geom:latitude":43.479514,
+    "geom:longitude":-110.767328,
+    "iso:country":"US",
+    "sg:address":"345 W Broadway",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 733 9224",
+    "sg:postcode":"83001",
+    "sg:province":"WY",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.jacksonholedollar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tCjsBrp3BZunmwy8bV31R_43.479514_-110.767328@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312020,
+    "wof:geomhash":"883359967072501cd787a7ebaf132058",
+    "wof:hierarchy":[],
+    "wof:id":874118417,
+    "wof:lastmodified":1464312020,
+    "wof:name":"Dollar Rent A Car",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -110.767328,
+    43.479514,
+    -110.767328,
+    43.479514
+],
+  "geometry": {"coordinates":[-110.76732800000001,43.479514],"type":"Point"}
+}

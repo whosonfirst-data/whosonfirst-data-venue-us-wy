@@ -1,0 +1,69 @@
+{
+  "id": 874199175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.324086,42.848795,-106.324086,42.848795",
+    "geom:latitude":42.848795,
+    "geom:longitude":-106.324086,
+    "iso:country":"US",
+    "sg:address":"124 E 2nd St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 266 1527",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o26Rn2M0xm6eAJAui9YDd_42.848795_-106.324086@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312836,
+    "wof:geomhash":"d0dc83c81ee3560c224f175077bb39f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874199175
+        }
+    ],
+    "wof:id":874199175,
+    "wof:lastmodified":1464312836,
+    "wof:name":"Sandwich Bar",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -106.324086,
+    42.848795,
+    -106.324086,
+    42.848795
+],
+  "geometry": {"coordinates":[-106.32408599999999,42.848795],"type":"Point"}
+}

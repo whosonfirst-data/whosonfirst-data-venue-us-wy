@@ -1,0 +1,58 @@
+{
+  "id": 874094831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.200479,43.849979,-104.200479,43.849979",
+    "geom:latitude":43.849979,
+    "geom:longitude":-104.200479,
+    "iso:country":"US",
+    "sg:address":"600 S Seneca Ave",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 746 3551",
+    "sg:postcode":"82701",
+    "sg:province":"WY",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zSUeXv95V0qdmxTwk4xGe_43.849979_-104.200479@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311711,
+    "wof:geomhash":"55c476b7498ac528c512627256d1661f",
+    "wof:hierarchy":[],
+    "wof:id":874094831,
+    "wof:lastmodified":1464311711,
+    "wof:name":"Transportation Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -104.200479,
+    43.849979,
+    -104.200479,
+    43.849979
+],
+  "geometry": {"coordinates":[-104.200479,43.849979],"type":"Point"}
+}

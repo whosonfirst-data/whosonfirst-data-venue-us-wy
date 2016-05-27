@@ -1,0 +1,71 @@
+{
+  "id": 874029083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.377987,42.833586,-106.377987,42.833586",
+    "geom:latitude":42.833586,
+    "geom:longitude":-106.377987,
+    "iso:country":"US",
+    "sg:address":"4414 Hideaway Ln",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 1844",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Aq91iB9Dg0a5XMiGAOo2g_42.833586_-106.377987@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311039,
+    "wof:geomhash":"2325fbdce1159cc86636dd6bc1f97835",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874029083
+        }
+    ],
+    "wof:id":874029083,
+    "wof:lastmodified":1464311039,
+    "wof:name":"Integrity Tile",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -106.377987,
+    42.833586,
+    -106.377987,
+    42.833586
+],
+  "geometry": {"coordinates":[-106.377987,42.833586],"type":"Point"}
+}

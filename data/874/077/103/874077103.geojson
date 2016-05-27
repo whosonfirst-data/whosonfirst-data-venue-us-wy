@@ -1,0 +1,71 @@
+{
+  "id": 874077103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.624737,41.316285,-105.624737,41.316285",
+    "geom:latitude":41.316285,
+    "geom:longitude":-105.624737,
+    "iso:country":"US",
+    "sg:address":"391 N Colorado Ave",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 760 5723",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dmCMYyxIXM85Z3dGw8xCs_41.316285_-105.624737@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311520,
+    "wof:geomhash":"06e0761b1df1e161a5b81a4f06659932",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874077103
+        }
+    ],
+    "wof:id":874077103,
+    "wof:lastmodified":1464311520,
+    "wof:name":"Gem City Iron Works",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -105.624737,
+    41.316285,
+    -105.624737,
+    41.316285
+],
+  "geometry": {"coordinates":[-105.624737,41.316285],"type":"Point"}
+}

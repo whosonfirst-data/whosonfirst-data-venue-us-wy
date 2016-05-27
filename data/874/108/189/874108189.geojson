@@ -1,0 +1,71 @@
+{
+  "id": 874108189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.593549,41.311016,-105.593549,41.311016",
+    "geom:latitude":41.311016,
+    "geom:longitude":-105.593549,
+    "iso:country":"US",
+    "sg:address":"303 S 3rd St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3330",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AIAEw2p2YuCKMGiQ2k8kh_41.311016_-105.593549@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311896,
+    "wof:geomhash":"20f666eb3cf8e85e159d56a4cc136458",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874108189
+        }
+    ],
+    "wof:id":874108189,
+    "wof:lastmodified":1464311896,
+    "wof:name":"Willies Wild",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -105.593549,
+    41.311016,
+    -105.593549,
+    41.311016
+],
+  "geometry": {"coordinates":[-105.593549,41.311016],"type":"Point"}
+}

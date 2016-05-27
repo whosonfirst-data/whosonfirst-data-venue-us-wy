@@ -1,0 +1,73 @@
+{
+  "id": 874079659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.598242,41.257942,-105.598242,41.257942",
+    "geom:latitude":41.257942,
+    "geom:longitude":-105.598242,
+    "iso:country":"US",
+    "sg:address":"5330 S South View Rd",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 3271",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TyvxZVTfzvRiTAR7t1bHw_41.257942_-105.598242@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311548,
+    "wof:geomhash":"33624a56d60a7321a4ee72370857fa9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874079659
+        }
+    ],
+    "wof:id":874079659,
+    "wof:lastmodified":1464311548,
+    "wof:name":"JV Trk Inc",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -105.598242,
+    41.257942,
+    -105.598242,
+    41.257942
+],
+  "geometry": {"coordinates":[-105.598242,41.257942],"type":"Point"}
+}

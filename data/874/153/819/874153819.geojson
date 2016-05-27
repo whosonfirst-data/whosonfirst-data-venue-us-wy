@@ -1,0 +1,75 @@
+{
+  "id": 874153819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.344235,42.834624,-106.344235,42.834624",
+    "geom:latitude":42.834624,
+    "geom:longitude":-106.344235,
+    "iso:country":"US",
+    "sg:address":"1513 Westridge Ter",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 237 2631",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sheet",
+        "work",
+        "metal",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GOrTLti5Zvn99oMxdAQWh_42.834624_-106.344235@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312364,
+    "wof:geomhash":"277ee576cc6b7a581caf95a28eaa41ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874153819
+        }
+    ],
+    "wof:id":874153819,
+    "wof:lastmodified":1464312364,
+    "wof:name":"Johnston Sheet Metal Svc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheet",
+        "work",
+        "metal",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.344235,
+    42.834624,
+    -106.344235,
+    42.834624
+],
+  "geometry": {"coordinates":[-106.344235,42.834624],"type":"Point"}
+}

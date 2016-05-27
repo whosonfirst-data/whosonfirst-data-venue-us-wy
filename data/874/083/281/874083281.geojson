@@ -1,0 +1,66 @@
+{
+  "id": 874083281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.569443,41.323486,-105.569443,41.323486",
+    "geom:latitude":41.323486,
+    "geom:longitude":-105.569443,
+    "iso:country":"US",
+    "sg:address":"2115 E Hancock St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 745 9284",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bpHovaVcf4YHeLNNaVsEc_41.323486_-105.569443@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311592,
+    "wof:geomhash":"11dd7486568d1d5a327de902ee1aecec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874083281
+        }
+    ],
+    "wof:id":874083281,
+    "wof:lastmodified":1464311592,
+    "wof:name":"Crocker Sylvia F Ms PHD",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.569443,
+    41.323486,
+    -105.569443,
+    41.323486
+],
+  "geometry": {"coordinates":[-105.56944300000001,41.323486],"type":"Point"}
+}

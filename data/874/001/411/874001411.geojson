@@ -1,0 +1,75 @@
+{
+  "id": 874001411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.334003,42.846553,-106.334003,42.846553",
+    "geom:latitude":42.846553,
+    "geom:longitude":-106.334003,
+    "iso:country":"US",
+    "sg:address":"800 W Yellowstone Hwy",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 5301",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive",
+        "retreading",
+        "tire",
+        "rebuilding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34KoczRxoZqfyl1rb5KS87_42.846553_-106.334003@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310770,
+    "wof:geomhash":"372afd90e606106c42f951e75a68e7af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874001411
+        }
+    ],
+    "wof:id":874001411,
+    "wof:lastmodified":1464310770,
+    "wof:name":"Dales Judd Tire Services",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "retreading",
+        "tire",
+        "rebuilding"
+    ]
+},
+  "bbox": [
+    -106.334003,
+    42.846553,
+    -106.334003,
+    42.846553
+],
+  "geometry": {"coordinates":[-106.334003,42.846553],"type":"Point"}
+}

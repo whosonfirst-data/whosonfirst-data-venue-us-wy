@@ -1,0 +1,56 @@
+{
+  "id": 874201667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.18976,41.191548,-105.18976,41.191548",
+    "geom:latitude":41.191548,
+    "geom:longitude":-105.18976,
+    "iso:country":"US",
+    "sg:address":"510 Happy Jack Rd",
+    "sg:city":"Cheyenne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 637 2846",
+    "sg:postcode":"82009",
+    "sg:province":"WY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ea7SPA4ChhxdPGijyJEzw_41.191548_-105.189760@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312860,
+    "wof:geomhash":"feb666bdc8ebac3ba228be9f4d267a2c",
+    "wof:hierarchy":[],
+    "wof:id":874201667,
+    "wof:lastmodified":1464312860,
+    "wof:name":"Don R Dickerson MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -105.18976,
+    41.191548,
+    -105.18976,
+    41.191548
+],
+  "geometry": {"coordinates":[-105.18976000000001,41.191548],"type":"Point"}
+}

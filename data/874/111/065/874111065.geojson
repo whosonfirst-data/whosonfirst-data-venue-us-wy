@@ -1,0 +1,69 @@
+{
+  "id": 874111065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.38368,42.82342,-106.38368,42.82342",
+    "geom:latitude":42.82342,
+    "geom:longitude":-106.38368,
+    "iso:country":"US",
+    "sg:address":"4645 Fitzhugh Rd",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 0319",
+    "sg:postcode":"82604",
+    "sg:province":"WY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85840457,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mktATVbCYDwrICe5pEJ1j_42.823420_-106.383680@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311942,
+    "wof:geomhash":"18ba0cb58921fc19142960a3a0349fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85840457,
+            "region_id":85688475,
+            "venue_id":874111065
+        }
+    ],
+    "wof:id":874111065,
+    "wof:lastmodified":1464311942,
+    "wof:name":"Mason Welding",
+    "wof:parent_id":85840457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.38368,
+    42.82342,
+    -106.38368,
+    42.82342
+],
+  "geometry": {"coordinates":[-106.38368,42.82342],"type":"Point"}
+}

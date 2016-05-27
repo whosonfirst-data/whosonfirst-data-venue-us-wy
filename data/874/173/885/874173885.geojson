@@ -1,0 +1,73 @@
+{
+  "id": 874173885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.304539,42.855033,-106.304539,42.855033",
+    "geom:latitude":42.855033,
+    "geom:longitude":-106.304539,
+    "iso:country":"US",
+    "sg:address":"425 N Fenway St",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 235 6558",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aydB8YQNwC7c7pNBY0r2b_42.855033_-106.304539@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312567,
+    "wof:geomhash":"25978f609569e1f81babb2bd6196870b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874173885
+        }
+    ],
+    "wof:id":874173885,
+    "wof:lastmodified":1464312567,
+    "wof:name":"Servpro Of Casper",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [
+    -106.304539,
+    42.855033,
+    -106.304539,
+    42.855033
+],
+  "geometry": {"coordinates":[-106.30453900000001,42.855033],"type":"Point"}
+}

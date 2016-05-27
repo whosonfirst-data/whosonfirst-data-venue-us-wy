@@ -1,0 +1,56 @@
+{
+  "id": 874084535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.381017,43.087179,-108.381017,43.087179",
+    "geom:latitude":43.087179,
+    "geom:longitude":-108.381017,
+    "iso:country":"US",
+    "sg:address":"39 Burma Rd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 857 2737",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o5UmvRbXtHxGYUAcoGYhr_43.087179_-108.381017@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311604,
+    "wof:geomhash":"ac99cbc66ff4d69680e88def84cac434",
+    "wof:hierarchy":[],
+    "wof:id":874084535,
+    "wof:lastmodified":1464311604,
+    "wof:name":"Sheppard Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.381017,
+    43.087179,
+    -108.381017,
+    43.087179
+],
+  "geometry": {"coordinates":[-108.381017,43.087179],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874032811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.315413,41.553046,-109.315413,41.553046",
+    "geom:latitude":41.553046,
+    "geom:longitude":-109.315413,
+    "iso:country":"US",
+    "sg:address":"38 Purple Sage Rd",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 9787",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "mfg",
+        "field",
+        "industrial",
+        "repair",
+        "mach"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t7K3pFldQjT2t57ldtv2k_41.553046_-109.315413@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311074,
+    "wof:geomhash":"93460075a2232cd113a143b8f0cf1170",
+    "wof:hierarchy":[],
+    "wof:id":874032811,
+    "wof:lastmodified":1464311074,
+    "wof:name":"Morgantown Machine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "field",
+        "industrial",
+        "repair",
+        "mach"
+    ]
+},
+  "bbox": [
+    -109.315413,
+    41.553046,
+    -109.315413,
+    41.553046
+],
+  "geometry": {"coordinates":[-109.31541300000001,41.553046],"type":"Point"}
+}

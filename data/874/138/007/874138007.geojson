@@ -1,0 +1,71 @@
+{
+  "id": 874138007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.581137,41.329442,-105.581137,41.329442",
+    "geom:latitude":41.329442,
+    "geom:longitude":-105.581137,
+    "iso:country":"US",
+    "sg:address":"1115 E Renshaw St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 3406",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sCMJ79rcvk7Z50WS36iD1_41.329442_-105.581137@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312218,
+    "wof:geomhash":"3c7f285415073a7465c5edc1e3586f56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874138007
+        }
+    ],
+    "wof:id":874138007,
+    "wof:lastmodified":1464312218,
+    "wof:name":"Perfect Image Photography",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -105.581137,
+    41.329442,
+    -105.581137,
+    41.329442
+],
+  "geometry": {"coordinates":[-105.581137,41.329442],"type":"Point"}
+}

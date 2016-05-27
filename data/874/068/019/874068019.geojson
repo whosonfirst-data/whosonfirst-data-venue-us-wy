@@ -1,0 +1,71 @@
+{
+  "id": 874068019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.28037,42.845376,-106.28037,42.845376",
+    "geom:latitude":42.845376,
+    "geom:longitude":-106.28037,
+    "iso:country":"US",
+    "sg:address":"571 S Forest Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 265 0709",
+    "sg:postcode":"82609",
+    "sg:province":"WY",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iMYQ91SQN7ufFX1Jqb1SO_42.845376_-106.280370@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311413,
+    "wof:geomhash":"404e4266acbd9d94e459bb1b7c20163c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874068019
+        }
+    ],
+    "wof:id":874068019,
+    "wof:lastmodified":1464311413,
+    "wof:name":"T & G Carpentry",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.28037,
+    42.845376,
+    -106.28037,
+    42.845376
+],
+  "geometry": {"coordinates":[-106.28037,42.845376],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874230049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.249707,41.578426,-109.249707,41.578426",
+    "geom:latitude":41.578426,
+    "geom:longitude":-109.249707,
+    "iso:country":"US",
+    "sg:address":"100 Gateway Blvd",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wy/rock-springs-north/95457-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 362 9999",
+    "sg:postcode":"82901",
+    "sg:province":"WY",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nG2woB3CzPQXiv4mBXRj8_41.578426_-109.249707@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313160,
+    "wof:geomhash":"99d8fa4b9e4205d0d8cd49efb1088174",
+    "wof:hierarchy":[],
+    "wof:id":874230049,
+    "wof:lastmodified":1464313160,
+    "wof:name":"IHOP",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -109.249707,
+    41.578426,
+    -109.249707,
+    41.578426
+],
+  "geometry": {"coordinates":[-109.249707,41.578426],"type":"Point"}
+}

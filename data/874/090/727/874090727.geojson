@@ -1,0 +1,73 @@
+{
+  "id": 874090727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.252651,43.412995,-106.252651,43.412995",
+    "geom:latitude":43.412995,
+    "geom:longitude":-106.252651,
+    "iso:country":"US",
+    "sg:address":"705 State Hwy 387",
+    "sg:city":"Midwest",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 437 6720",
+    "sg:postcode":"82635",
+    "sg:province":"WY",
+    "sg:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NucNnEUUKQjovdXyjJC5Z_43.412995_-106.252651@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311670,
+    "wof:geomhash":"a417217c4ae5c656613502a1476b2cc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":874090727
+        }
+    ],
+    "wof:id":874090727,
+    "wof:lastmodified":1464311670,
+    "wof:name":"Wyoming Oil Well Cementers",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ]
+},
+  "bbox": [
+    -106.252651,
+    43.412995,
+    -106.252651,
+    43.412995
+],
+  "geometry": {"coordinates":[-106.252651,43.412995],"type":"Point"}
+}

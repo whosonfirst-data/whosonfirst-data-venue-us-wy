@@ -1,0 +1,63 @@
+{
+  "id": 874067775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.44447,44.28997,-105.44447,44.28997",
+    "geom:latitude":44.28997,
+    "geom:longitude":-105.44447,
+    "iso:country":"US",
+    "sg:address":"4006 Collins Rd",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 0102",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "automotive",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Fs3zs7pAF7VsKvsbOtuLB_44.289970_-105.444470@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311406,
+    "wof:geomhash":"3e0c08a2798ea564630053d927d8d85b",
+    "wof:hierarchy":[],
+    "wof:id":874067775,
+    "wof:lastmodified":1464311406,
+    "wof:name":"J & M Enterprises Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "truck"
+    ]
+},
+  "bbox": [
+    -105.44447,
+    44.28997,
+    -105.44447,
+    44.28997
+],
+  "geometry": {"coordinates":[-105.44447,44.28997],"type":"Point"}
+}

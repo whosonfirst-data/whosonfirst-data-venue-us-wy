@@ -1,0 +1,56 @@
+{
+  "id": 874147003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.875314,44.152575,-108.875314,44.152575",
+    "geom:latitude":44.152575,
+    "geom:longitude":-108.875314,
+    "iso:country":"US",
+    "sg:address":"1624 Wilson Ave",
+    "sg:city":"Meeteetse",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 868 2627",
+    "sg:postcode":"82433",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kzIGc0GVV4igQcT2B8W4I_44.152575_-108.875314@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312303,
+    "wof:geomhash":"bdbb73c2b05472b927d20297b6eef7c3",
+    "wof:hierarchy":[],
+    "wof:id":874147003,
+    "wof:lastmodified":1464312303,
+    "wof:name":"Meeteetse Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -108.875314,
+    44.152575,
+    -108.875314,
+    44.152575
+],
+  "geometry": {"coordinates":[-108.875314,44.152575],"type":"Point"}
+}

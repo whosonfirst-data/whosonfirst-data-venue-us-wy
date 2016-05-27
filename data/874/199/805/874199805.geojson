@@ -1,0 +1,65 @@
+{
+  "id": 874199805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.862592,42.865576,-109.862592,42.865576",
+    "geom:latitude":42.865576,
+    "geom:longitude":-109.862592,
+    "iso:country":"US",
+    "sg:address":"118 S Maybell Ave",
+    "sg:city":"Pinedale",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 367 4857",
+    "sg:postcode":"82941",
+    "sg:province":"WY",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YoFQvFjtM6jDpvgOkG2Po_42.865576_-109.862592@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312841,
+    "wof:geomhash":"43357441243e59c1f058714932826d3a",
+    "wof:hierarchy":[],
+    "wof:id":874199805,
+    "wof:lastmodified":1464312841,
+    "wof:name":"Randall's Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "tire"
+    ]
+},
+  "bbox": [
+    -109.862592,
+    42.865576,
+    -109.862592,
+    42.865576
+],
+  "geometry": {"coordinates":[-109.86259200000001,42.865576],"type":"Point"}
+}

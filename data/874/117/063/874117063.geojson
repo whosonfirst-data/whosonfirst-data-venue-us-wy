@@ -1,0 +1,73 @@
+{
+  "id": 874117063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.558798,41.309043,-105.558798,41.309043",
+    "geom:latitude":41.309043,
+    "geom:longitude":-105.558798,
+    "iso:country":"US",
+    "sg:address":"2772 US Hwy 30",
+    "sg:city":"Bosler",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 1548",
+    "sg:postcode":"82051",
+    "sg:province":"WY",
+    "sg:tags":[
+        "animal",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_313RvpmTbxwrvNgnMTzOO2_41.309043_-105.558798@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312007,
+    "wof:geomhash":"de0e6a9db6152a47aee6d6a895e242c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874117063
+        }
+    ],
+    "wof:id":874117063,
+    "wof:lastmodified":1464312007,
+    "wof:name":"Homestead Ranches LLC",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "animal",
+        "general"
+    ]
+},
+  "bbox": [
+    -105.558798,
+    41.309043,
+    -105.558798,
+    41.309043
+],
+  "geometry": {"coordinates":[-105.558798,41.309043],"type":"Point"}
+}

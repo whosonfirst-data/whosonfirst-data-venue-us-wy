@@ -1,0 +1,56 @@
+{
+  "id": 874145229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.53015,44.239439,-105.53015,44.239439",
+    "geom:latitude":44.239439,
+    "geom:longitude":-105.53015,
+    "iso:country":"US",
+    "sg:address":"6500 Antelope Valley St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 682 2242",
+    "sg:postcode":"82718",
+    "sg:province":"WY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JRkSFPHybtg4zW6O4tVcM_44.239439_-105.530150@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312282,
+    "wof:geomhash":"27cb819818ad5695e36e4681fc82c205",
+    "wof:hierarchy":[],
+    "wof:id":874145229,
+    "wof:lastmodified":1464312282,
+    "wof:name":"Einars Auto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -105.53015,
+    44.239439,
+    -105.53015,
+    44.239439
+],
+  "geometry": {"coordinates":[-105.53015000000001,44.239439],"type":"Point"}
+}

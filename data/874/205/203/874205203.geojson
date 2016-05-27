@@ -1,0 +1,65 @@
+{
+  "id": 874205203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.820762,44.352739,-104.820762,44.352739",
+    "geom:latitude":44.352739,
+    "geom:longitude":-104.820762,
+    "iso:country":"US",
+    "sg:address":"20 Boe Dr",
+    "sg:city":"Moorcroft",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 756 3326",
+    "sg:postcode":"82721",
+    "sg:province":"WY",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iORDt3z8LywovB4C9vLKb_44.352739_-104.820762@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312896,
+    "wof:geomhash":"0226863275d366307c12523f05af0dde",
+    "wof:hierarchy":[],
+    "wof:id":874205203,
+    "wof:lastmodified":1464312896,
+    "wof:name":"M & E Used Auto & Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -104.820762,
+    44.352739,
+    -104.820762,
+    44.352739
+],
+  "geometry": {"coordinates":[-104.820762,44.352739],"type":"Point"}
+}

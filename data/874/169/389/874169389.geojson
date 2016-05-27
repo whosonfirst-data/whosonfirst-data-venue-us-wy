@@ -1,0 +1,58 @@
+{
+  "id": 874169389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.954565,42.053345,-104.954565,42.053345",
+    "geom:latitude":42.053345,
+    "geom:longitude":-104.954565,
+    "iso:country":"US",
+    "sg:address":"951 Water St",
+    "sg:city":"Wheatland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 322 2142",
+    "sg:postcode":"82201",
+    "sg:province":"WY",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zcqlBojcHkd53kTtaV1B8_42.053345_-104.954565@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312520,
+    "wof:geomhash":"91eca0fb295de8ba78a621cadefcab9c",
+    "wof:hierarchy":[],
+    "wof:id":874169389,
+    "wof:lastmodified":1464312520,
+    "wof:name":"Wheatland Police Department",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -104.954565,
+    42.053345,
+    -104.954565,
+    42.053345
+],
+  "geometry": {"coordinates":[-104.954565,42.053345],"type":"Point"}
+}

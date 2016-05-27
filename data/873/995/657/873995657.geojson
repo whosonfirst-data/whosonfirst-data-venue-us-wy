@@ -1,0 +1,71 @@
+{
+  "id": 873995657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.353824,42.87341,-106.353824,42.87341",
+    "geom:latitude":42.87341,
+    "geom:longitude":-106.353824,
+    "iso:country":"US",
+    "sg:address":"1944 Skyview Dr",
+    "sg:city":"Casper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 234 1450",
+    "sg:postcode":"82601",
+    "sg:province":"WY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        85834153,
+        102080753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4j5we4a9aaKW9eklJRE1wz_42.873410_-106.353824@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464310730,
+    "wof:geomhash":"1da1e87d9f9f958a36efb4ba73fd7530",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080753,
+            "neighbourhood_id":85834153,
+            "region_id":85688475,
+            "venue_id":873995657
+        }
+    ],
+    "wof:id":873995657,
+    "wof:lastmodified":1464310730,
+    "wof:name":"Morton Plumbing Inc",
+    "wof:parent_id":85834153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -106.353824,
+    42.87341,
+    -106.353824,
+    42.87341
+],
+  "geometry": {"coordinates":[-106.353824,42.87341],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 874070391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.548729,41.324866,-105.548729,41.324866",
+    "geom:latitude":41.324866,
+    "geom:longitude":-105.548729,
+    "iso:country":"US",
+    "sg:address":"3619 E Reynolds St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 1475",
+    "sg:postcode":"82072",
+    "sg:province":"WY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85897433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5paXQwigV2sltrwEg2RndM_41.324866_-105.548729@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311435,
+    "wof:geomhash":"a81b92f9a7c27287765a5e4b579b159c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85897433,
+            "region_id":85688475,
+            "venue_id":874070391
+        }
+    ],
+    "wof:id":874070391,
+    "wof:lastmodified":1464311435,
+    "wof:name":"Letchworth Enterprises LLC",
+    "wof:parent_id":85897433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.548729,
+    41.324866,
+    -105.548729,
+    41.324866
+],
+  "geometry": {"coordinates":[-105.54872899999999,41.324866],"type":"Point"}
+}

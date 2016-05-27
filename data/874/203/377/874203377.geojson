@@ -1,0 +1,56 @@
+{
+  "id": 874203377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.511563,44.285788,-105.511563,44.285788",
+    "geom:latitude":44.285788,
+    "geom:longitude":-105.511563,
+    "iso:country":"US",
+    "sg:address":"600 W 10th St",
+    "sg:city":"Gillette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 686 2391",
+    "sg:postcode":"82716",
+    "sg:province":"WY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vh9SKgYMnXezH7bJYJVJT_44.285788_-105.511563@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312878,
+    "wof:geomhash":"315dbf2fe003c108f9bd1cd244c84926",
+    "wof:hierarchy":[],
+    "wof:id":874203377,
+    "wof:lastmodified":1464312878,
+    "wof:name":"Tony's Towing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -105.511563,
+    44.285788,
+    -105.511563,
+    44.285788
+],
+  "geometry": {"coordinates":[-105.511563,44.285788],"type":"Point"}
+}

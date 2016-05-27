@@ -1,0 +1,70 @@
+{
+  "id": 874226625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.620388,41.321106,-105.620388,41.321106",
+    "geom:latitude":41.321106,
+    "geom:longitude":-105.620388,
+    "iso:country":"US",
+    "sg:address":"652 N Pierce St",
+    "sg:city":"Laramie",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 742 0770",
+    "sg:postcode":"82070",
+    "sg:province":"WY",
+    "sg:tags":[
+        "leather",
+        "finish",
+        "findings"
+    ],
+    "sg:website":"www.skidmores.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        85633793,
+        101733997,
+        102080731,
+        85855825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_338i7khRLvcKykdaEvWGhE_41.321106_-105.620388@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464313127,
+    "wof:geomhash":"0ea79864198d7d68a4e27a809a4c904f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080731,
+            "locality_id":101733997,
+            "neighbourhood_id":85855825,
+            "region_id":85688475,
+            "venue_id":874226625
+        }
+    ],
+    "wof:id":874226625,
+    "wof:lastmodified":1464313127,
+    "wof:name":"Skidmore's Leather Cream",
+    "wof:parent_id":85855825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather",
+        "finish",
+        "findings"
+    ]
+},
+  "bbox": [
+    -105.620388,
+    41.321106,
+    -105.620388,
+    41.321106
+],
+  "geometry": {"coordinates":[-105.62038800000001,41.321106],"type":"Point"}
+}

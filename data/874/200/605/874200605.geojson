@@ -1,0 +1,56 @@
+{
+  "id": 874200605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.402319,43.033812,-108.402319,43.033812",
+    "geom:latitude":43.033812,
+    "geom:longitude":-108.402319,
+    "iso:country":"US",
+    "sg:address":"822 W Sunset Dr",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 857 2441",
+    "sg:postcode":"82501",
+    "sg:province":"WY",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LIWmlrWmca1HY1PAk7Zjg_43.033812_-108.402319@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464312850,
+    "wof:geomhash":"21bbf0f51b684143789c0603bf9c896c",
+    "wof:hierarchy":[],
+    "wof:id":874200605,
+    "wof:lastmodified":1464312850,
+    "wof:name":"UPS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -108.402319,
+    43.033812,
+    -108.402319,
+    43.033812
+],
+  "geometry": {"coordinates":[-108.40231900000001,43.033812],"type":"Point"}
+}

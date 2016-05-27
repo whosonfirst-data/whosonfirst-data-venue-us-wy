@@ -1,0 +1,56 @@
+{
+  "id": 874101749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-107.181937,44.700143,-107.181937,44.700143",
+    "geom:latitude":44.700143,
+    "geom:longitude":-107.181937,
+    "iso:country":"US",
+    "sg:address":"1374 Big Goose Rd",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 674 7906",
+    "sg:postcode":"82801",
+    "sg:province":"WY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7doLQWJwbuqb5kv9KwmmgO_44.700143_-107.181937@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1464311815,
+    "wof:geomhash":"eaaaf23319c356ec5330c8e5078ba436",
+    "wof:hierarchy":[],
+    "wof:id":874101749,
+    "wof:lastmodified":1464311815,
+    "wof:name":"Sherican City Water Intake",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -107.181937,
+    44.700143,
+    -107.181937,
+    44.700143
+],
+  "geometry": {"coordinates":[-107.181937,44.700143],"type":"Point"}
+}
