@@ -2,13 +2,14 @@
   "id": 169604277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.267272,41.63542,-109.267272,41.63542",
     "geom:latitude":41.63542,
     "geom:longitude":-109.267272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"297 Granite Dr",
     "sg:city":"Rock Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169604277,
-    "wof:lastmodified":1449035568,
+    "wof:lastmodified":1467090787,
     "wof:name":"Insulation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-109.267272,41.63542,-109.267272,41.63542],
-  "geometry": {"coordinates":[-109.267272,41.63542],"type":"Point"}
+  "bbox": [
+    -109.267272,
+    41.63542,
+    -109.267272,
+    41.63542
+],
+  "geometry": {"coordinates":[-109.26727200000001,41.63542],"type":"Point"}
 }

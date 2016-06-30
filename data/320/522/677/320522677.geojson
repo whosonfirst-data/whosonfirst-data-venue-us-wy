@@ -2,13 +2,14 @@
   "id": 320522677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.564781,41.309401,-105.564781,41.309401",
     "geom:latitude":41.309401,
     "geom:longitude":-105.564781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2229 E Grand Ave",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":320522677,
-    "wof:lastmodified":1449013032,
+    "wof:lastmodified":1467090787,
     "wof:name":"Hilton Garden Inn & University of Wyoming Conference Center",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "hall"
     ]
 },
-  "bbox": [-105.564781,41.309401,-105.564781,41.309401],
+  "bbox": [
+    -105.564781,
+    41.309401,
+    -105.564781,
+    41.309401
+],
   "geometry": {"coordinates":[-105.564781,41.309401],"type":"Point"}
 }

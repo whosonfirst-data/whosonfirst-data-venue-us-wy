@@ -2,13 +2,14 @@
   "id": 186255803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.843259,43.512355,-110.843259,43.512355",
     "geom:latitude":43.512355,
     "geom:longitude":-110.843259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2150 Moose Wilson Rd",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186255803,
-    "wof:lastmodified":1449051592,
+    "wof:lastmodified":1467090787,
     "wof:name":"The Journeys School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.843259,43.512355,-110.843259,43.512355],
+  "bbox": [
+    -110.843259,
+    43.512355,
+    -110.843259,
+    43.512355
+],
   "geometry": {"coordinates":[-110.843259,43.512355],"type":"Point"}
 }

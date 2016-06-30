@@ -2,13 +2,14 @@
   "id": 169784125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.779145,43.416701,-110.779145,43.416701",
     "geom:latitude":43.416701,
     "geom:longitude":-110.779145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"793 Wind River Ln",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169784125,
-    "wof:lastmodified":1449034895,
+    "wof:lastmodified":1467090787,
     "wof:name":"Mountain Finish Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-110.779145,43.416701,-110.779145,43.416701],
+  "bbox": [
+    -110.779145,
+    43.416701,
+    -110.779145,
+    43.416701
+],
   "geometry": {"coordinates":[-110.779145,43.416701],"type":"Point"}
 }

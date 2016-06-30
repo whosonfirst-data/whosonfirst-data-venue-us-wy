@@ -2,13 +2,14 @@
   "id": 404194625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.965894,41.267619,-110.965894,41.267619",
     "geom:latitude":41.267619,
     "geom:longitude":-110.965894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 Main St",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404194625,
-    "wof:lastmodified":1449040146,
+    "wof:lastmodified":1467090787,
     "wof:name":"SOS Staffing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consultant"
     ]
 },
-  "bbox": [-110.965894,41.267619,-110.965894,41.267619],
-  "geometry": {"coordinates":[-110.965894,41.267619],"type":"Point"}
+  "bbox": [
+    -110.965894,
+    41.267619,
+    -110.965894,
+    41.267619
+],
+  "geometry": {"coordinates":[-110.96589400000001,41.267619],"type":"Point"}
 }

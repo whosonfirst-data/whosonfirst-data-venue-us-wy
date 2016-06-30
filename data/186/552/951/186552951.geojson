@@ -2,13 +2,14 @@
   "id": 186552951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.749275,43.479612,-110.749275,43.479612",
     "geom:latitude":43.479612,
     "geom:longitude":-110.749275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"640 E Broadway",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186552951,
-    "wof:lastmodified":1449051497,
+    "wof:lastmodified":1467090787,
     "wof:name":"Mountain House Adult Thrptc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-110.749275,43.479612,-110.749275,43.479612],
+  "bbox": [
+    -110.749275,
+    43.479612,
+    -110.749275,
+    43.479612
+],
   "geometry": {"coordinates":[-110.749275,43.479612],"type":"Point"}
 }

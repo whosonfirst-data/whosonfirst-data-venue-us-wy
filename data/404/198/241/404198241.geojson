@@ -2,13 +2,14 @@
   "id": 404198241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.965693,41.267689,-110.965693,41.267689",
     "geom:latitude":41.267689,
     "geom:longitude":-110.965693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Main St",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404198241,
-    "wof:lastmodified":1449039460,
+    "wof:lastmodified":1467090787,
     "wof:name":"Visionary Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.965693,41.267689,-110.965693,41.267689],
+  "bbox": [
+    -110.965693,
+    41.267689,
+    -110.965693,
+    41.267689
+],
   "geometry": {"coordinates":[-110.965693,41.267689],"type":"Point"}
 }

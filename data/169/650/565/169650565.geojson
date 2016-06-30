@@ -2,13 +2,14 @@
   "id": 169650565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.214779,41.578014,-109.214779,41.578014",
     "geom:latitude":41.578014,
     "geom:longitude":-109.214779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 Thompson St",
     "sg:city":"Rock Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169650565,
-    "wof:lastmodified":1449034702,
+    "wof:lastmodified":1467090787,
     "wof:name":"Municipal Cemetery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cemetery"
     ]
 },
-  "bbox": [-109.214779,41.578014,-109.214779,41.578014],
-  "geometry": {"coordinates":[-109.214779,41.578014],"type":"Point"}
+  "bbox": [
+    -109.214779,
+    41.578014,
+    -109.214779,
+    41.578014
+],
+  "geometry": {"coordinates":[-109.21477899999999,41.578014],"type":"Point"}
 }

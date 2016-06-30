@@ -2,13 +2,14 @@
   "id": 404194605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.968456,41.254754,-110.968456,41.254754",
     "geom:latitude":41.254754,
     "geom:longitude":-110.968456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Yellow Creek Rd",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404194605,
-    "wof:lastmodified":1449040141,
+    "wof:lastmodified":1467090787,
     "wof:name":"Wild Thunder LC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "establishment"
     ]
 },
-  "bbox": [-110.968456,41.254754,-110.968456,41.254754],
+  "bbox": [
+    -110.968456,
+    41.254754,
+    -110.968456,
+    41.254754
+],
   "geometry": {"coordinates":[-110.968456,41.254754],"type":"Point"}
 }

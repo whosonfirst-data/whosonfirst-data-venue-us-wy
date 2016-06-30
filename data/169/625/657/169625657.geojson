@@ -2,13 +2,14 @@
   "id": 169625657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.232302,41.578765,-109.232302,41.578765",
     "geom:latitude":41.578765,
     "geom:longitude":-109.232302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 Dewar Dr",
     "sg:city":"Rock Springs",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":169625657,
-    "wof:lastmodified":1449036022,
+    "wof:lastmodified":1467090787,
     "wof:name":"Porky's Bar",
     "wof:parent_id":85806363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-109.232302,41.578765,-109.232302,41.578765],
+  "bbox": [
+    -109.232302,
+    41.578765,
+    -109.232302,
+    41.578765
+],
   "geometry": {"coordinates":[-109.232302,41.578765],"type":"Point"}
 }
