@@ -2,6 +2,10 @@
   "id": 874057229,
   "type": "Feature",
   "properties": {
+    "addr:full":"732 S David St Casper WY 82601",
+    "addr:housenumber":"732",
+    "addr:postcode":"82601",
+    "addr:street":"S David St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874057229,
-    "wof:lastmodified":1467090809,
+    "wof:lastmodified":1472655195,
     "wof:name":"Casper Dental Laboratory",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

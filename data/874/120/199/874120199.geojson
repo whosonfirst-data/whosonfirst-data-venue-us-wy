@@ -2,6 +2,10 @@
   "id": 874120199,
   "type": "Feature",
   "properties": {
+    "addr:full":"420 E Ivinson Ave Laramie WY 82070",
+    "addr:housenumber":"420",
+    "addr:postcode":"82070",
+    "addr:street":"E Ivinson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":874120199,
-    "wof:lastmodified":1467090831,
+    "wof:lastmodified":1472655227,
     "wof:name":"Laramie Police-Crimestoppers",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

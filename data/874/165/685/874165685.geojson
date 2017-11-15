@@ -2,6 +2,10 @@
   "id": 874165685,
   "type": "Feature",
   "properties": {
+    "addr:full":"3233 Cy Ave Casper WY 82604",
+    "addr:housenumber":"3233",
+    "addr:postcode":"82604",
+    "addr:street":"Cy Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874165685,
-    "wof:lastmodified":1467090846,
+    "wof:lastmodified":1472655280,
     "wof:name":"RSC 439",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

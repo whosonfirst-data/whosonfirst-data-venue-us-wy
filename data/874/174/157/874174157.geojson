@@ -2,6 +2,10 @@
   "id": 874174157,
   "type": "Feature",
   "properties": {
+    "addr:full":"1139 E 2nd St Casper WY 82601",
+    "addr:housenumber":"1139",
+    "addr:postcode":"82601",
+    "addr:street":"E 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874174157,
-    "wof:lastmodified":1467090849,
+    "wof:lastmodified":1472655262,
     "wof:name":"Wyoming Medical Ctr Fndtn",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

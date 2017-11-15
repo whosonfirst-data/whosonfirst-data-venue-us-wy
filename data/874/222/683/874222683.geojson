@@ -2,6 +2,10 @@
   "id": 874222683,
   "type": "Feature",
   "properties": {
+    "addr:full":"1507 Stillwater Ave Cheyenne WY 82009",
+    "addr:housenumber":"1507",
+    "addr:postcode":"82009",
+    "addr:street":"Stillwater Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874222683,
-    "wof:lastmodified":1467090868,
+    "wof:lastmodified":1472655292,
     "wof:name":"Greene Chiropractor",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

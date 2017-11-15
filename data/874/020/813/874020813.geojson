@@ -2,6 +2,10 @@
   "id": 874020813,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 E Ivinson Ave Laramie WY 82070",
+    "addr:housenumber":"101",
+    "addr:postcode":"82070",
+    "addr:street":"E Ivinson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":874020813,
-    "wof:lastmodified":1467090797,
+    "wof:lastmodified":1472655208,
     "wof:name":"First Story Cafe",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874033411,
   "type": "Feature",
   "properties": {
+    "addr:full":"703 S McKinley St Casper WY 82601",
+    "addr:housenumber":"703",
+    "addr:postcode":"82601",
+    "addr:street":"S Mckinley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874033411,
-    "wof:lastmodified":1467090801,
+    "wof:lastmodified":1472655192,
     "wof:name":"Pathfinder Inspection Svc",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

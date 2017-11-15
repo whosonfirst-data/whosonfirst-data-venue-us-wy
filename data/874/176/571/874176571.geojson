@@ -2,6 +2,10 @@
   "id": 874176571,
   "type": "Feature",
   "properties": {
+    "addr:full":"4509 Driftwood Dr Cheyenne WY 82009",
+    "addr:housenumber":"4509",
+    "addr:postcode":"82009",
+    "addr:street":"Driftwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":874176571,
-    "wof:lastmodified":1467090850,
+    "wof:lastmodified":1472655282,
     "wof:name":"A & C Feed Co",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

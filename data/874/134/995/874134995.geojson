@@ -2,6 +2,10 @@
   "id": 874134995,
   "type": "Feature",
   "properties": {
+    "addr:full":"1314 Sycamore St Casper WY 82604",
+    "addr:housenumber":"1314",
+    "addr:postcode":"82604",
+    "addr:street":"Sycamore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874134995,
-    "wof:lastmodified":1467090836,
+    "wof:lastmodified":1472655256,
     "wof:name":"Darrell Burton Fishing Guide",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

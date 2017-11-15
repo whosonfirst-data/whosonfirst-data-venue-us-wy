@@ -2,6 +2,10 @@
   "id": 874105417,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 Parkway Dr Casper WY 82609",
+    "addr:housenumber":"1901",
+    "addr:postcode":"82609",
+    "addr:street":"Parkway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874105417,
-    "wof:lastmodified":1467090824,
+    "wof:lastmodified":1472655219,
     "wof:name":"Prime Time Bingo LLC",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

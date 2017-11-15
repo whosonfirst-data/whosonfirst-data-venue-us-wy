@@ -2,6 +2,10 @@
   "id": 874222369,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 W Collins Dr Casper WY 82601",
+    "addr:housenumber":"510",
+    "addr:postcode":"82601",
+    "addr:street":"W Collins Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874222369,
-    "wof:lastmodified":1467090868,
+    "wof:lastmodified":1472655281,
     "wof:name":"Wyoming Homes & Equity Bldrs",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

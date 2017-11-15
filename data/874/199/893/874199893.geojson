@@ -2,6 +2,10 @@
   "id": 874199893,
   "type": "Feature",
   "properties": {
+    "addr:full":"512 S 3rd St Laramie WY 82070",
+    "addr:housenumber":"512",
+    "addr:postcode":"82070",
+    "addr:street":"S 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":874199893,
-    "wof:lastmodified":1467090858,
+    "wof:lastmodified":1472655289,
     "wof:name":"Norm's Sewing & Appliance Rpr",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

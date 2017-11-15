@@ -2,6 +2,10 @@
   "id": 873997865,
   "type": "Feature",
   "properties": {
+    "addr:full":"3613 S Coffman Ave Casper WY 82604",
+    "addr:housenumber":"3613",
+    "addr:postcode":"82604",
+    "addr:street":"S Coffman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873997865,
-    "wof:lastmodified":1467090791,
+    "wof:lastmodified":1472655216,
     "wof:name":"Bevs Yarn Basket",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

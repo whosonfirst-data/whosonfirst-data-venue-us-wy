@@ -2,6 +2,10 @@
   "id": 873985929,
   "type": "Feature",
   "properties": {
+    "addr:full":"804 S David St Casper WY 82601",
+    "addr:housenumber":"804",
+    "addr:postcode":"82601",
+    "addr:street":"S David St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873985929,
-    "wof:lastmodified":1467090787,
+    "wof:lastmodified":1472655212,
     "wof:name":"Reclaim Inc",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

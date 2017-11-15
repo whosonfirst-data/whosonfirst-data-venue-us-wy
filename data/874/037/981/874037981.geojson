@@ -2,6 +2,10 @@
   "id": 874037981,
   "type": "Feature",
   "properties": {
+    "addr:full":"4330 E 2nd St Casper WY 82609",
+    "addr:housenumber":"4330",
+    "addr:postcode":"82609",
+    "addr:street":"E 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874037981,
-    "wof:lastmodified":1467090802,
+    "wof:lastmodified":1472655210,
     "wof:name":"Wyoming Work Warehouse Inc",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

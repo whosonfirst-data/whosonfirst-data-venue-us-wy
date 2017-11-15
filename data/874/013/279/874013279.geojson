@@ -2,6 +2,10 @@
   "id": 874013279,
   "type": "Feature",
   "properties": {
+    "addr:full":"663 Circle Dr Casper WY 82601",
+    "addr:housenumber":"663",
+    "addr:postcode":"82601",
+    "addr:street":"Circle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874013279,
-    "wof:lastmodified":1467090795,
+    "wof:lastmodified":1472655177,
     "wof:name":"Elder Equipment Leasing of WY",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

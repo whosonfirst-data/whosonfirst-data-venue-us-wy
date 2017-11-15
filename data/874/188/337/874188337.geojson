@@ -2,6 +2,10 @@
   "id": 874188337,
   "type": "Feature",
   "properties": {
+    "addr:full":"1265 N 2nd St Laramie WY 82072",
+    "addr:housenumber":"1265",
+    "addr:postcode":"82072",
+    "addr:street":"N 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874188337,
-    "wof:lastmodified":1467090854,
+    "wof:lastmodified":1472655267,
     "wof:name":"Wyoming Disposal Svc Inc",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

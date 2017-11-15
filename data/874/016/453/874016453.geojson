@@ -2,6 +2,10 @@
   "id": 874016453,
   "type": "Feature",
   "properties": {
+    "addr:full":"127 E 20th Ave Torrington WY 82240",
+    "addr:housenumber":"127",
+    "addr:postcode":"82240",
+    "addr:street":"E 20Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":874016453,
-    "wof:lastmodified":1467090796,
+    "wof:lastmodified":1472655190,
     "wof:name":"C J's Permanent Solution",
     "wof:parent_id":85850153,
     "wof:placetype":"venue",

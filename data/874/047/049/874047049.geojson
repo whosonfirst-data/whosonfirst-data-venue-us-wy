@@ -2,6 +2,10 @@
   "id": 874047049,
   "type": "Feature",
   "properties": {
+    "addr:full":"7400 Geary Dome Rd Evansville WY 82609",
+    "addr:housenumber":"7400",
+    "addr:postcode":"82609",
+    "addr:street":"Geary Dome Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874047049,
-    "wof:lastmodified":1467090805,
+    "wof:lastmodified":1472655180,
     "wof:name":"Rocky Mountain Builders",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

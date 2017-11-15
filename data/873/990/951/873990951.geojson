@@ -2,6 +2,10 @@
   "id": 873990951,
   "type": "Feature",
   "properties": {
+    "addr:full":"1137 Glenarm St Casper WY 82601",
+    "addr:housenumber":"1137",
+    "addr:postcode":"82601",
+    "addr:street":"Glenarm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":873990951,
-    "wof:lastmodified":1467090789,
+    "wof:lastmodified":1472655209,
     "wof:name":"Carl's Clean Plumbing & Htg",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

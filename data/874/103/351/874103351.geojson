@@ -2,6 +2,10 @@
   "id": 874103351,
   "type": "Feature",
   "properties": {
+    "addr:full":"2701 Belmont Rd Casper WY 82604",
+    "addr:housenumber":"2701",
+    "addr:postcode":"82604",
+    "addr:street":"Belmont Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874103351,
-    "wof:lastmodified":1467090824,
+    "wof:lastmodified":1472655236,
     "wof:name":"Latimer Enterprises LLC",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

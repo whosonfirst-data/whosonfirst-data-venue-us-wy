@@ -2,6 +2,10 @@
   "id": 874082777,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 W 29th St Casper WY 82604",
+    "addr:housenumber":"1600",
+    "addr:postcode":"82604",
+    "addr:street":"W 29Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874082777,
-    "wof:lastmodified":1467090816,
+    "wof:lastmodified":1472655227,
     "wof:name":"Natrona Cnty Schl Agd Chld Cre",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

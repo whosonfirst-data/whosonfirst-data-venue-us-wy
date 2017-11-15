@@ -2,6 +2,10 @@
   "id": 874080115,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 S Montana Ave Casper WY 82609",
+    "addr:housenumber":"215",
+    "addr:postcode":"82609",
+    "addr:street":"S Montana Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874080115,
-    "wof:lastmodified":1467090816,
+    "wof:lastmodified":1472655216,
     "wof:name":"Ralphs Book Store",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874074851,
   "type": "Feature",
   "properties": {
+    "addr:full":"5120 Chuck Wagon Trl Casper WY 82604",
+    "addr:housenumber":"5120",
+    "addr:postcode":"82604",
+    "addr:street":"Chuck Wagon Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874074851,
-    "wof:lastmodified":1467090814,
+    "wof:lastmodified":1472655214,
     "wof:name":"Savvy-Trader",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

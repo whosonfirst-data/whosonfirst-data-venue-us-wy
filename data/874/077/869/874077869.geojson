@@ -2,6 +2,10 @@
   "id": 874077869,
   "type": "Feature",
   "properties": {
+    "addr:full":"1275 N 15th St Laramie WY 82072",
+    "addr:housenumber":"1275",
+    "addr:postcode":"82072",
+    "addr:street":"N 15Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":874077869,
-    "wof:lastmodified":1467090815,
+    "wof:lastmodified":1472655238,
     "wof:name":"Innovative Discovery Tech LLC",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

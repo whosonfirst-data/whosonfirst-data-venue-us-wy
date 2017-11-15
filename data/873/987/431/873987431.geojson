@@ -2,6 +2,10 @@
   "id": 873987431,
   "type": "Feature",
   "properties": {
+    "addr:full":"2000 E Yellowstone Hwy Casper WY 82609",
+    "addr:housenumber":"2000",
+    "addr:postcode":"82609",
+    "addr:street":"E Yellowstone Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":873987431,
-    "wof:lastmodified":1467090788,
+    "wof:lastmodified":1472655195,
     "wof:name":"Sams Quality Motors",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

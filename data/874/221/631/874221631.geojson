@@ -2,6 +2,10 @@
   "id": 874221631,
   "type": "Feature",
   "properties": {
+    "addr:full":"1637 Stillwater Ave Cheyenne WY 82009",
+    "addr:housenumber":"1637",
+    "addr:postcode":"82009",
+    "addr:street":"Stillwater Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":874221631,
-    "wof:lastmodified":1467090868,
+    "wof:lastmodified":1472655289,
     "wof:name":"A New You",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

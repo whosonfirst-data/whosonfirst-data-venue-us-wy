@@ -2,6 +2,10 @@
   "id": 873985803,
   "type": "Feature",
   "properties": {
+    "addr:full":"2589 Old Salt Creek Hwy Casper WY 82601",
+    "addr:housenumber":"2589",
+    "addr:postcode":"82601",
+    "addr:street":"Old Salt Creek Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":873985803,
-    "wof:lastmodified":1467090787,
+    "wof:lastmodified":1472655209,
     "wof:name":"Anderson Seismograph Bit Svc",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

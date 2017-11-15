@@ -2,6 +2,10 @@
   "id": 874092893,
   "type": "Feature",
   "properties": {
+    "addr:full":"1434 Holly St Casper WY 82604",
+    "addr:housenumber":"1434",
+    "addr:postcode":"82604",
+    "addr:street":"Holly St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874092893,
-    "wof:lastmodified":1467090820,
+    "wof:lastmodified":1472655236,
     "wof:name":"Boomtown Builders",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

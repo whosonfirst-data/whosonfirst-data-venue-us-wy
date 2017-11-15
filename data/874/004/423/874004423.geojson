@@ -2,14 +2,20 @@
   "id": 874004423,
   "type": "Feature",
   "properties": {
+    "addr:full":"4101 Evans Ave Cheyenne WY 82001",
+    "addr:housenumber":"4101",
+    "addr:postcode":"82001",
+    "addr:street":"Evans Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.81869,41.152294,-104.81869,41.152294",
     "geom:latitude":41.152294,
     "geom:longitude":-104.81869,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4101 Evans Ave",
     "sg:city":"Cheyenne",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         101734121,
         102080769
     ],
+    "wof:brand_id":1125150645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hIICboRv5Vc8T2qf23JE7_41.152294_-104.818690@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464310808,
-    "wof:geomhash":"dbca0ba4bf93ce7d48c46f1745c800e1",
+    "wof:geomhash":"b8c39ea4884fcfeecc83629cf2491403",
     "wof:hierarchy":[
         {
             "campus_id":102531225,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":874004423,
-    "wof:lastmodified":1467090792,
+    "wof:lastmodified":1510613316,
     "wof:name":"Us Faa",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

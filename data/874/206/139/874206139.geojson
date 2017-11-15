@@ -2,6 +2,10 @@
   "id": 874206139,
   "type": "Feature",
   "properties": {
+    "addr:full":"1439 Stillwater Ave Cheyenne WY 82009",
+    "addr:housenumber":"1439",
+    "addr:postcode":"82009",
+    "addr:street":"Stillwater Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":874206139,
-    "wof:lastmodified":1467090862,
+    "wof:lastmodified":1472655272,
     "wof:name":"US Coast Guard",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

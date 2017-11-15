@@ -2,6 +2,10 @@
   "id": 874002749,
   "type": "Feature",
   "properties": {
+    "addr:full":"6905 Casper Mountain Rd Casper WY 82601",
+    "addr:housenumber":"6905",
+    "addr:postcode":"82601",
+    "addr:street":"Casper Mountain Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874002749,
-    "wof:lastmodified":1467090792,
+    "wof:lastmodified":1472655209,
     "wof:name":"Front Range Clinical Labs Inc",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

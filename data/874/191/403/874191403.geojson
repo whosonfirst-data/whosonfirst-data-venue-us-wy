@@ -2,6 +2,10 @@
   "id": 874191403,
   "type": "Feature",
   "properties": {
+    "addr:full":"3323 S Poplar St Casper WY 82601",
+    "addr:housenumber":"3323",
+    "addr:postcode":"82601",
+    "addr:street":"S Poplar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874191403,
-    "wof:lastmodified":1467090855,
+    "wof:lastmodified":1472655274,
     "wof:name":"Dennis Sun",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

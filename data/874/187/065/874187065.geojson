@@ -2,6 +2,10 @@
   "id": 874187065,
   "type": "Feature",
   "properties": {
+    "addr:full":"1505 Arabian Dr Laramie WY 82070",
+    "addr:housenumber":"1505",
+    "addr:postcode":"82070",
+    "addr:street":"Arabian Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874187065,
-    "wof:lastmodified":1467090854,
+    "wof:lastmodified":1472655264,
     "wof:name":"Anne Moore Soccer Camps",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874095529,
   "type": "Feature",
   "properties": {
+    "addr:full":"520 S Walnut St Casper WY 82601",
+    "addr:housenumber":"520",
+    "addr:postcode":"82601",
+    "addr:street":"S Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.33352,42.844798,-106.33352,42.844798",
     "geom:latitude":42.844798,
     "geom:longitude":-106.33352,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"520 S Walnut St",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85834153,
         102080753
     ],
+    "wof:brand_id":1125152251,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iIGyPmEjyadiwLjqaXQd8_42.844798_-106.333520@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311719,
-    "wof:geomhash":"14b676a93ffe69a5d518d54dd1c685b8",
+    "wof:geomhash":"a8482dd419f31c252a3e3ac69961605d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874095529,
-    "wof:lastmodified":1467090821,
+    "wof:lastmodified":1510604944,
     "wof:name":"Youth For Christ",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

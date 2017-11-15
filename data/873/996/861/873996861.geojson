@@ -2,6 +2,10 @@
   "id": 873996861,
   "type": "Feature",
   "properties": {
+    "addr:full":"2205 E 12th St Casper WY 82609",
+    "addr:housenumber":"2205",
+    "addr:postcode":"82609",
+    "addr:street":"E 12Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":873996861,
-    "wof:lastmodified":1467090790,
+    "wof:lastmodified":1472655195,
     "wof:name":"12 Street Auto",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

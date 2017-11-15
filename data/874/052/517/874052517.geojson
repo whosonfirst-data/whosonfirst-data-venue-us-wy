@@ -2,6 +2,10 @@
   "id": 874052517,
   "type": "Feature",
   "properties": {
+    "addr:full":"1517 S Hackney Rd Laramie WY 82070",
+    "addr:housenumber":"1517",
+    "addr:postcode":"82070",
+    "addr:street":"S Hackney Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874052517,
-    "wof:lastmodified":1467090807,
+    "wof:lastmodified":1472655184,
     "wof:name":"Form Master Construction",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874021587,
   "type": "Feature",
   "properties": {
+    "addr:full":"726 E 11th St Casper WY 82601",
+    "addr:housenumber":"726",
+    "addr:postcode":"82601",
+    "addr:street":"E 11Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874021587,
-    "wof:lastmodified":1467090797,
+    "wof:lastmodified":1472655195,
     "wof:name":"Megee Consulting",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

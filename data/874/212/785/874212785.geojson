@@ -2,6 +2,10 @@
   "id": 874212785,
   "type": "Feature",
   "properties": {
+    "addr:full":"816 E Ord St Laramie WY 82070",
+    "addr:housenumber":"816",
+    "addr:postcode":"82070",
+    "addr:street":"E Ord St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874212785,
-    "wof:lastmodified":1467090864,
+    "wof:lastmodified":1472655294,
     "wof:name":"Laramie Credit & Collection",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

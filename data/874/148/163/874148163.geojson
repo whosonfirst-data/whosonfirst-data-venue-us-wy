@@ -2,6 +2,10 @@
   "id": 874148163,
   "type": "Feature",
   "properties": {
+    "addr:full":"1558 N Henry Dr Laramie WY 82072",
+    "addr:housenumber":"1558",
+    "addr:postcode":"82072",
+    "addr:street":"N Henry Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":874148163,
-    "wof:lastmodified":1467090840,
+    "wof:lastmodified":1472655238,
     "wof:name":"A-1 Petroskis Appliance Repair",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874024527,
   "type": "Feature",
   "properties": {
+    "addr:full":"90 SE Wyoming Blvd Casper WY 82609",
+    "addr:housenumber":"90",
+    "addr:postcode":"82609",
+    "addr:street":"Se Wyoming Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874024527,
-    "wof:lastmodified":1467090798,
+    "wof:lastmodified":1472655188,
     "wof:name":"Wholesale Tire Distributors",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

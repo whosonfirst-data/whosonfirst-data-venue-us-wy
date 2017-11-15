@@ -2,6 +2,10 @@
   "id": 874212351,
   "type": "Feature",
   "properties": {
+    "addr:full":"3544 Wolf Creek Rd Casper WY 82604",
+    "addr:housenumber":"3544",
+    "addr:postcode":"82604",
+    "addr:street":"Wolf Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874212351,
-    "wof:lastmodified":1467090864,
+    "wof:lastmodified":1472655280,
     "wof:name":"DK Luers LLC",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

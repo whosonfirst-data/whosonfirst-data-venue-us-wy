@@ -2,6 +2,10 @@
   "id": 874111133,
   "type": "Feature",
   "properties": {
+    "addr:full":"1035 Iron St Evansville WY 82609",
+    "addr:housenumber":"1035",
+    "addr:postcode":"82609",
+    "addr:street":"Iron St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874111133,
-    "wof:lastmodified":1467090826,
+    "wof:lastmodified":1472655224,
     "wof:name":"South Dakota Cement Plant",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

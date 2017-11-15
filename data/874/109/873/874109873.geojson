@@ -2,6 +2,10 @@
   "id": 874109873,
   "type": "Feature",
   "properties": {
+    "addr:full":"555 Warehouse Rd Casper WY 82601",
+    "addr:housenumber":"555",
+    "addr:postcode":"82601",
+    "addr:street":"Warehouse Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874109873,
-    "wof:lastmodified":1467090826,
+    "wof:lastmodified":1472655251,
     "wof:name":"Hensley's Pro Tec Auto Body",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

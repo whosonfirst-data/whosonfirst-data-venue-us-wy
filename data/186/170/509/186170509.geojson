@@ -2,6 +2,10 @@
   "id": 186170509,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Flat Creek Dr Jackson ID 83002",
+    "addr:housenumber":"120 flat",
+    "addr:postcode":"83002",
+    "addr:street":"Creek Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":186170509,
-    "wof:lastmodified":1467090787,
+    "wof:lastmodified":1472655175,
     "wof:name":"Cowboy Village Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874108457,
   "type": "Feature",
   "properties": {
+    "addr:full":"1264 N 4th St Laramie WY 82072",
+    "addr:housenumber":"1264",
+    "addr:postcode":"82072",
+    "addr:street":"N 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874108457,
-    "wof:lastmodified":1467090825,
+    "wof:lastmodified":1472655236,
     "wof:name":"Cheyenne Housing Authority",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874096115,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 Dell Range Blvd Cheyenne WY 82009",
+    "addr:housenumber":"1400",
+    "addr:postcode":"82009",
+    "addr:street":"Dell Range Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":874096115,
-    "wof:lastmodified":1467090821,
+    "wof:lastmodified":1472655220,
     "wof:name":"Trevors Stores Inc",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

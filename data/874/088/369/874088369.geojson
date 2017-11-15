@@ -2,14 +2,20 @@
   "id": 874088369,
   "type": "Feature",
   "properties": {
+    "addr:full":"1038 N Foster Rd Casper WY 82601",
+    "addr:housenumber":"1038",
+    "addr:postcode":"82601",
+    "addr:street":"N Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.33995,42.858495,-106.33995,42.858495",
     "geom:latitude":42.858495,
     "geom:longitude":-106.33995,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1038 N Foster Rd",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         85834153,
         102080753
     ],
+    "wof:brand_id":1125151649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wefiUHkCmEFWVyteeWraj_42.858495_-106.339950@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311645,
-    "wof:geomhash":"cb2b854df7a3a99d1df0f29e878625c8",
+    "wof:geomhash":"81e87d117e83a6873fbcb8cb1f7f2729",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":874088369,
-    "wof:lastmodified":1467090818,
+    "wof:lastmodified":1510695202,
     "wof:name":"Johnson Controls Inc",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

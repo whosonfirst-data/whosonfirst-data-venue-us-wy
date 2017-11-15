@@ -2,6 +2,10 @@
   "id": 874122519,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 E 20th Ave Torrington WY 82240",
+    "addr:housenumber":"121",
+    "addr:postcode":"82240",
+    "addr:street":"E 20Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874122519,
-    "wof:lastmodified":1467090831,
+    "wof:lastmodified":1472655248,
     "wof:name":"Clark Carol S",
     "wof:parent_id":85850153,
     "wof:placetype":"venue",

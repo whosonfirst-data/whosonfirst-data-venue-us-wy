@@ -2,6 +2,10 @@
   "id": 874055089,
   "type": "Feature",
   "properties": {
+    "addr:full":"6704 S Ridgecrest Dr Casper WY 82601",
+    "addr:housenumber":"6704",
+    "addr:postcode":"82601",
+    "addr:street":"S Ridgecrest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874055089,
-    "wof:lastmodified":1467090808,
+    "wof:lastmodified":1472655184,
     "wof:name":"Custom House Painting",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

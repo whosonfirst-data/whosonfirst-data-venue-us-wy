@@ -2,6 +2,10 @@
   "id": 874042775,
   "type": "Feature",
   "properties": {
+    "addr:full":"1303 S Beverly St Casper WY 82609",
+    "addr:housenumber":"1303",
+    "addr:postcode":"82609",
+    "addr:street":"S Beverly St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874042775,
-    "wof:lastmodified":1467090804,
+    "wof:lastmodified":1472655204,
     "wof:name":"Shell",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874071901,
   "type": "Feature",
   "properties": {
+    "addr:full":"3601 S Coffman Ave Casper WY 82604",
+    "addr:housenumber":"3601",
+    "addr:postcode":"82604",
+    "addr:street":"S Coffman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874071901,
-    "wof:lastmodified":1467090813,
+    "wof:lastmodified":1472655214,
     "wof:name":"Bert L Stovall",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

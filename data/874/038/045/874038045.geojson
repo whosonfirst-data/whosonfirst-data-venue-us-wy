@@ -2,6 +2,10 @@
   "id": 874038045,
   "type": "Feature",
   "properties": {
+    "addr:full":"1845 W Coffman Ave Casper WY 82604",
+    "addr:housenumber":"1845",
+    "addr:postcode":"82604",
+    "addr:street":"W Coffman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874038045,
-    "wof:lastmodified":1467090802,
+    "wof:lastmodified":1472655177,
     "wof:name":"L & N Enterprises",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

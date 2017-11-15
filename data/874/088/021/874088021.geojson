@@ -2,6 +2,10 @@
   "id": 874088021,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 E A St Casper WY 82601",
+    "addr:housenumber":"801",
+    "addr:postcode":"82601",
+    "addr:street":"E A St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874088021,
-    "wof:lastmodified":1467090818,
+    "wof:lastmodified":1472655216,
     "wof:name":"Merit Realty",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

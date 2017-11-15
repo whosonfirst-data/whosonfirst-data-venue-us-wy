@@ -2,6 +2,10 @@
   "id": 874131277,
   "type": "Feature",
   "properties": {
+    "addr:full":"1202 S Conwell St Casper WY 82601",
+    "addr:housenumber":"1202",
+    "addr:postcode":"82601",
+    "addr:street":"S Conwell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874131277,
-    "wof:lastmodified":1467090834,
+    "wof:lastmodified":1472655230,
     "wof:name":"Antique Rose",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

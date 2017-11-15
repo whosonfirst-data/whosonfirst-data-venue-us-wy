@@ -2,6 +2,10 @@
   "id": 874228697,
   "type": "Feature",
   "properties": {
+    "addr:full":"1947 Dell Range Blvd Cheyenne WY 82009",
+    "addr:housenumber":"1947",
+    "addr:postcode":"82009",
+    "addr:street":"Dell Range Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":874228697,
-    "wof:lastmodified":1467090871,
+    "wof:lastmodified":1472655292,
     "wof:name":"Shari's Restaurant",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

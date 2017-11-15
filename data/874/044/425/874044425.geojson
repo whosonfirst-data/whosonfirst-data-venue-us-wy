@@ -2,6 +2,10 @@
   "id": 874044425,
   "type": "Feature",
   "properties": {
+    "addr:full":"914 E Park Ave Laramie WY 82070",
+    "addr:housenumber":"914",
+    "addr:postcode":"82070",
+    "addr:street":"E Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":874044425,
-    "wof:lastmodified":1467090804,
+    "wof:lastmodified":1472655181,
     "wof:name":"Grail Inc",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

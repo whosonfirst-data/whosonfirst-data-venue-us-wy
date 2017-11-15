@@ -2,6 +2,10 @@
   "id": 874203495,
   "type": "Feature",
   "properties": {
+    "addr:full":"6001 Old Yellowstone Hwy Casper WY 82604",
+    "addr:housenumber":"6001",
+    "addr:postcode":"82604",
+    "addr:street":"Old Yellowstone Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874203495,
-    "wof:lastmodified":1467090861,
+    "wof:lastmodified":1472655283,
     "wof:name":"Forgey Ranches Inc",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

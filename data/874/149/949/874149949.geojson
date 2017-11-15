@@ -2,6 +2,10 @@
   "id": 874149949,
   "type": "Feature",
   "properties": {
+    "addr:full":"1802 Dell Range Blvd Cheyenne WY 82009",
+    "addr:housenumber":"1802",
+    "addr:postcode":"82009",
+    "addr:street":"Dell Range Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":874149949,
-    "wof:lastmodified":1467090841,
+    "wof:lastmodified":1472655246,
     "wof:name":"Rent-A-Center",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

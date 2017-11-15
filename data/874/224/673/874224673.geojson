@@ -2,14 +2,20 @@
   "id": 874224673,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 N Walsh Dr Casper WY 82609",
+    "addr:housenumber":"345",
+    "addr:postcode":"82609",
+    "addr:street":"N Walsh Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.276911,42.851652,-106.276911,42.851652",
     "geom:latitude":42.851652,
     "geom:longitude":-106.276911,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"345 N Walsh Dr",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85834153,
         102080753
     ],
+    "wof:brand_id":1125154013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CS7x73MaXNKED44b1mqHa_42.851652_-106.276911@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464313108,
-    "wof:geomhash":"6906afde90dcdb6f50a31a4c06097a20",
+    "wof:geomhash":"301ce9b8e8a352be1eaf874d5493f125",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874224673,
-    "wof:lastmodified":1467090869,
+    "wof:lastmodified":1510695148,
     "wof:name":"US Army Dept",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

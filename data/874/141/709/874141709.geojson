@@ -2,6 +2,10 @@
   "id": 874141709,
   "type": "Feature",
   "properties": {
+    "addr:full":"2321 Trojan Dr Casper WY 82609",
+    "addr:housenumber":"2321",
+    "addr:postcode":"82609",
+    "addr:street":"Trojan Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874141709,
-    "wof:lastmodified":1467090838,
+    "wof:lastmodified":1472655252,
     "wof:name":"Color ME Beautiful",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

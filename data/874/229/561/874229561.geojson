@@ -2,6 +2,10 @@
   "id": 874229561,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 S Montana Ave Casper WY 82609",
+    "addr:housenumber":"207",
+    "addr:postcode":"82609",
+    "addr:street":"S Montana Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874229561,
-    "wof:lastmodified":1467090871,
+    "wof:lastmodified":1472655288,
     "wof:name":"Blimpie Subs & Sandwiches",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874209697,
   "type": "Feature",
   "properties": {
+    "addr:full":"506 S Johnson St Laramie WY 82070",
+    "addr:housenumber":"506",
+    "addr:postcode":"82070",
+    "addr:street":"S Johnson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874209697,
-    "wof:lastmodified":1467090863,
+    "wof:lastmodified":1472655290,
     "wof:name":"Everglass",
     "wof:parent_id":85855825,
     "wof:placetype":"venue",

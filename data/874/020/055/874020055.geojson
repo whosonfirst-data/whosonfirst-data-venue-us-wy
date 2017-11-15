@@ -2,6 +2,10 @@
   "id": 874020055,
   "type": "Feature",
   "properties": {
+    "addr:full":"1925 S Oakcrest Ave Casper WY 82601",
+    "addr:housenumber":"1925",
+    "addr:postcode":"82601",
+    "addr:street":"S Oakcrest Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874020055,
-    "wof:lastmodified":1467090797,
+    "wof:lastmodified":1472655179,
     "wof:name":"D & C Mini-Storage",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

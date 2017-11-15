@@ -2,6 +2,10 @@
   "id": 874228637,
   "type": "Feature",
   "properties": {
+    "addr:full":"1938 Dell Range Blvd Cheyenne WY 82009",
+    "addr:housenumber":"1938",
+    "addr:postcode":"82009",
+    "addr:street":"Dell Range Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":874228637,
-    "wof:lastmodified":1467090871,
+    "wof:lastmodified":1472655291,
     "wof:name":"IHOP",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

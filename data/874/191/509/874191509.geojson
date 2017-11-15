@@ -2,6 +2,10 @@
   "id": 874191509,
   "type": "Feature",
   "properties": {
+    "addr:full":"489 State Hwy 230 Laramie WY 82070",
+    "addr:housenumber":"489",
+    "addr:postcode":"82070",
+    "addr:street":"State Hwy 230",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874191509,
-    "wof:lastmodified":1467090855,
+    "wof:lastmodified":1472655281,
     "wof:name":"Laramie Country Club Golf Crse",
     "wof:parent_id":85855825,
     "wof:placetype":"venue",

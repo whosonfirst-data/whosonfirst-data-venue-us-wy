@@ -2,6 +2,10 @@
   "id": 874167469,
   "type": "Feature",
   "properties": {
+    "addr:full":"4010 S Poplar St Casper WY 82601",
+    "addr:housenumber":"4010",
+    "addr:postcode":"82601",
+    "addr:street":"S Poplar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874167469,
-    "wof:lastmodified":1467090847,
+    "wof:lastmodified":1472655269,
     "wof:name":"Donnelly/ASC Marketing Inc",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

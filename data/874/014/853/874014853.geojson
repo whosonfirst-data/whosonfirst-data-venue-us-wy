@@ -2,6 +2,10 @@
   "id": 874014853,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 Dell Range Blvd Cheyenne WY 82009",
+    "addr:housenumber":"1400",
+    "addr:postcode":"82009",
+    "addr:street":"Dell Range Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":874014853,
-    "wof:lastmodified":1467090795,
+    "wof:lastmodified":1472655202,
     "wof:name":"Blue Wire",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

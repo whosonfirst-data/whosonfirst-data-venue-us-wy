@@ -2,6 +2,10 @@
   "id": 874173961,
   "type": "Feature",
   "properties": {
+    "addr:full":"5160 Bel Vista Dr Casper WY 82601",
+    "addr:housenumber":"",
+    "addr:postcode":"5160;82601",
+    "addr:street":"Vista Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874173961,
-    "wof:lastmodified":1467090849,
+    "wof:lastmodified":1472655290,
     "wof:name":"Rex Machine Industries",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

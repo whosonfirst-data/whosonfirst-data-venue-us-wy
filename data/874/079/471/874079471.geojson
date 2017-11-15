@@ -2,6 +2,10 @@
   "id": 874079471,
   "type": "Feature",
   "properties": {
+    "addr:full":"2015 E Reynolds St Laramie WY 82072",
+    "addr:housenumber":"2015",
+    "addr:postcode":"82072",
+    "addr:street":"E Reynolds St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874079471,
-    "wof:lastmodified":1467090815,
+    "wof:lastmodified":1472655224,
     "wof:name":"Tax & Business Professionals",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

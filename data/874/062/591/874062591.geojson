@@ -2,6 +2,10 @@
   "id": 874062591,
   "type": "Feature",
   "properties": {
+    "addr:full":"251 Gusher Evansville WY 82609",
+    "addr:housenumber":"251",
+    "addr:postcode":"82609",
+    "addr:street":"Gusher Evansville Wy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874062591,
-    "wof:lastmodified":1467090810,
+    "wof:lastmodified":1472655208,
     "wof:name":"Elco Drilling",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

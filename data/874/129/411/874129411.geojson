@@ -2,6 +2,10 @@
   "id": 874129411,
   "type": "Feature",
   "properties": {
+    "addr:full":"4820 Sam Howell Rd Casper WY 82644",
+    "addr:housenumber":"4820",
+    "addr:postcode":"82644",
+    "addr:street":"Sam Howell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874129411,
-    "wof:lastmodified":1467090834,
+    "wof:lastmodified":1472655237,
     "wof:name":"Pronghorn Electric Inc",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

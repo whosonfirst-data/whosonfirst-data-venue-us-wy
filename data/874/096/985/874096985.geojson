@@ -2,6 +2,10 @@
   "id": 874096985,
   "type": "Feature",
   "properties": {
+    "addr:full":"160 N Washington St Casper WY 82601",
+    "addr:housenumber":"160",
+    "addr:postcode":"82601",
+    "addr:street":"N Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874096985,
-    "wof:lastmodified":1467090821,
+    "wof:lastmodified":1472655236,
     "wof:name":"Wyoming Medical Learning Ctr",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

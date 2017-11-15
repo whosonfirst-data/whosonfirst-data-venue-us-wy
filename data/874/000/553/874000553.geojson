@@ -2,6 +2,10 @@
   "id": 874000553,
   "type": "Feature",
   "properties": {
+    "addr:full":"167 S Conwell St Casper WY 82601",
+    "addr:housenumber":"167",
+    "addr:postcode":"82601",
+    "addr:street":"S Conwell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874000553,
-    "wof:lastmodified":1467090791,
+    "wof:lastmodified":1472655206,
     "wof:name":"Quest Diagnostics",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

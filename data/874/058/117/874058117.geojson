@@ -2,6 +2,10 @@
   "id": 874058117,
   "type": "Feature",
   "properties": {
+    "addr:full":"4040 Crystie Ln Casper WY 82609",
+    "addr:housenumber":"4040",
+    "addr:postcode":"82609",
+    "addr:street":"Crystie Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874058117,
-    "wof:lastmodified":1467090809,
+    "wof:lastmodified":1472655187,
     "wof:name":"McGinty Plumbing and Heating",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

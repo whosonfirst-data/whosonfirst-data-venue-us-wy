@@ -2,6 +2,10 @@
   "id": 873988339,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 S 4th St Laramie WY 82070",
+    "addr:housenumber":"502",
+    "addr:postcode":"82070",
+    "addr:street":"S 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873988339,
-    "wof:lastmodified":1467090788,
+    "wof:lastmodified":1472655195,
     "wof:name":"ABC Massage & Healing Arts",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

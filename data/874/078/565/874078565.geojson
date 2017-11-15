@@ -2,6 +2,10 @@
   "id": 874078565,
   "type": "Feature",
   "properties": {
+    "addr:full":"1645 Sunset Dr Rock Springs WY 82901",
+    "addr:housenumber":"1645",
+    "addr:postcode":"82901",
+    "addr:street":"Sunset Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874078565,
-    "wof:lastmodified":1467090815,
+    "wof:lastmodified":1472655221,
     "wof:name":"Kellys Sunset",
     "wof:parent_id":85806363,
     "wof:placetype":"venue",

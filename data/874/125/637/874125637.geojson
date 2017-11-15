@@ -2,14 +2,20 @@
   "id": 874125637,
   "type": "Feature",
   "properties": {
+    "addr:full":"174 N Colorado Ave Laramie WY 82070",
+    "addr:housenumber":"174",
+    "addr:postcode":"82070",
+    "addr:street":"N Colorado Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.624855,41.313617,-105.624855,41.313617",
     "geom:latitude":41.313617,
     "geom:longitude":-105.624855,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"174 N Colorado Ave",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102080731,
         85855825
     ],
+    "wof:brand_id":420575231,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qv0YjlxHB8lzuFh1GT1Bp_41.313617_-105.624855@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464312091,
-    "wof:geomhash":"24a5df13c5f4d12384a5cfdcf8afb248",
+    "wof:geomhash":"ee9261b7a85b7dc17f043323b82171b2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":874125637,
-    "wof:lastmodified":1467090833,
+    "wof:lastmodified":1510602879,
     "wof:name":"Horace Mann Insurance Co",
     "wof:parent_id":85855825,
     "wof:placetype":"venue",

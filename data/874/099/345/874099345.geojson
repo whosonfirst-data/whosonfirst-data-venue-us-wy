@@ -2,6 +2,10 @@
   "id": 874099345,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 S David St Casper WY 82601",
+    "addr:housenumber":"235",
+    "addr:postcode":"82601",
+    "addr:street":"S David St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874099345,
-    "wof:lastmodified":1467090822,
+    "wof:lastmodified":1472655221,
     "wof:name":"Core Concepts Pilates",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

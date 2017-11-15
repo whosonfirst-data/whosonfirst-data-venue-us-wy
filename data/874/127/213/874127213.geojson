@@ -2,6 +2,10 @@
   "id": 874127213,
   "type": "Feature",
   "properties": {
+    "addr:full":"930 S Elm St Casper WY 82601",
+    "addr:housenumber":"930",
+    "addr:postcode":"82601",
+    "addr:street":"S Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874127213,
-    "wof:lastmodified":1467090833,
+    "wof:lastmodified":1472655226,
     "wof:name":"KTWO",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

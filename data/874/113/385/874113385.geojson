@@ -2,6 +2,10 @@
   "id": 874113385,
   "type": "Feature",
   "properties": {
+    "addr:full":"1871 W Washington St Laramie WY 82070",
+    "addr:housenumber":"1871",
+    "addr:postcode":"82070",
+    "addr:street":"W Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":874113385,
-    "wof:lastmodified":1467090827,
+    "wof:lastmodified":1472655229,
     "wof:name":"Riegel Auto Sales",
     "wof:parent_id":85855825,
     "wof:placetype":"venue",

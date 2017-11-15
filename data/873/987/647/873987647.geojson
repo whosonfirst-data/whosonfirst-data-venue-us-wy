@@ -2,6 +2,10 @@
   "id": 873987647,
   "type": "Feature",
   "properties": {
+    "addr:full":"3330 E Yellowstone Hwy Casper WY 82609",
+    "addr:housenumber":"3330",
+    "addr:postcode":"82609",
+    "addr:street":"E Yellowstone Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873987647,
-    "wof:lastmodified":1467090788,
+    "wof:lastmodified":1472655204,
     "wof:name":"Wyoming Discount Groceries",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

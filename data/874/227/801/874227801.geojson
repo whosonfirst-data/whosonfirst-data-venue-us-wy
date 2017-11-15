@@ -2,6 +2,10 @@
   "id": 874227801,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 S Adams St Laramie WY 82070",
+    "addr:housenumber":"400",
+    "addr:postcode":"82070",
+    "addr:street":"S Adams St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874227801,
-    "wof:lastmodified":1467090870,
+    "wof:lastmodified":1472655291,
     "wof:name":"Four G Fuels",
     "wof:parent_id":85855825,
     "wof:placetype":"venue",

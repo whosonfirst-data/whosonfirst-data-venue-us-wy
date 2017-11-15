@@ -2,6 +2,10 @@
   "id": 874109109,
   "type": "Feature",
   "properties": {
+    "addr:full":"651 S Walsh Dr Casper WY 82609",
+    "addr:housenumber":"651",
+    "addr:postcode":"82609",
+    "addr:street":"S Walsh Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874109109,
-    "wof:lastmodified":1467090826,
+    "wof:lastmodified":1472655223,
     "wof:name":"Ruth's Images",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

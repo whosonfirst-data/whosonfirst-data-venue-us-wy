@@ -2,6 +2,10 @@
   "id": 404219005,
   "type": "Feature",
   "properties": {
+    "addr:full":"6022 State Hwy 89 N Evanston UT 82930",
+    "addr:housenumber":"6022",
+    "addr:postcode":"82930",
+    "addr:street":"State Hwy 89 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":404219005,
-    "wof:lastmodified":1467090787,
+    "wof:lastmodified":1472655175,
     "wof:name":"Rocket Sanitation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

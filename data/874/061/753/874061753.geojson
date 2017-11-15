@@ -2,6 +2,10 @@
   "id": 874061753,
   "type": "Feature",
   "properties": {
+    "addr:full":"7197 W Derick Dr Casper WY 82604",
+    "addr:housenumber":"7197",
+    "addr:postcode":"82604",
+    "addr:street":"W Derick Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874061753,
-    "wof:lastmodified":1467090810,
+    "wof:lastmodified":1472655215,
     "wof:name":"Security Dbs Halliburton Co",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874165847,
   "type": "Feature",
   "properties": {
+    "addr:full":"2402 Chugwater Dr Laramie WY 82070",
+    "addr:housenumber":"2402",
+    "addr:postcode":"82070",
+    "addr:street":"Chugwater Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":874165847,
-    "wof:lastmodified":1467090847,
+    "wof:lastmodified":1472655288,
     "wof:name":"Workout",
     "wof:parent_id":85855825,
     "wof:placetype":"venue",

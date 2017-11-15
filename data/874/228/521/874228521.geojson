@@ -2,6 +2,10 @@
   "id": 874228521,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 Dell Range Blvd Cheyenne WY 82009",
+    "addr:housenumber":"1400",
+    "addr:postcode":"82009",
+    "addr:street":"Dell Range Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":874228521,
-    "wof:lastmodified":1467090870,
+    "wof:lastmodified":1472655286,
     "wof:name":"Taco John's",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

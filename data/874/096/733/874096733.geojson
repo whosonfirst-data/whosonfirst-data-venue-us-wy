@@ -2,6 +2,10 @@
   "id": 874096733,
   "type": "Feature",
   "properties": {
+    "addr:full":"1395 Willer Dr Casper WY 82604",
+    "addr:housenumber":"1395",
+    "addr:postcode":"82604",
+    "addr:street":"Willer Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874096733,
-    "wof:lastmodified":1467090821,
+    "wof:lastmodified":1472655234,
     "wof:name":"Loepp Welding Svc",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

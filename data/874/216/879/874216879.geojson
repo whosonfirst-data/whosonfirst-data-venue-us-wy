@@ -2,6 +2,10 @@
   "id": 874216879,
   "type": "Feature",
   "properties": {
+    "addr:full":"1450 Stillwater Ave Cheyenne WY 82009",
+    "addr:housenumber":"1450",
+    "addr:postcode":"82009",
+    "addr:street":"Stillwater Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":874216879,
-    "wof:lastmodified":1467090866,
+    "wof:lastmodified":1472655286,
     "wof:name":"AAA",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

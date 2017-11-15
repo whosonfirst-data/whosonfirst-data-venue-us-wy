@@ -2,6 +2,10 @@
   "id": 874196367,
   "type": "Feature",
   "properties": {
+    "addr:full":"3440 Studer Ave Casper WY 82604",
+    "addr:housenumber":"",
+    "addr:postcode":"3440;82604",
+    "addr:street":"Studer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874196367,
-    "wof:lastmodified":1467090857,
+    "wof:lastmodified":1472655277,
     "wof:name":"Ritchie Bros Auctioneers",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874053401,
   "type": "Feature",
   "properties": {
+    "addr:full":"2188 Oil Dr Casper WY 82604",
+    "addr:housenumber":"2188",
+    "addr:postcode":"82604",
+    "addr:street":"Oil Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.42122,42.87672,-106.42122,42.87672",
     "geom:latitude":42.87672,
     "geom:longitude":-106.42122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2188 Oil Dr",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85840457,
         102080753
     ],
+    "wof:brand_id":1125151053,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GUfikecHfHHmkRUqySj0C_42.876720_-106.421220@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311273,
-    "wof:geomhash":"9071e35ab507d6fe5cdc37acec6c0612",
+    "wof:geomhash":"79efd98a874dcc92fffafe7de9cef47a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874053401,
-    "wof:lastmodified":1467090807,
+    "wof:lastmodified":1510613133,
     "wof:name":"Schwans Home Service Inc",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

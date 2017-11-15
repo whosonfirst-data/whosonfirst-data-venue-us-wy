@@ -2,6 +2,10 @@
   "id": 874030233,
   "type": "Feature",
   "properties": {
+    "addr:full":"1275 N 11th St Laramie WY 82072",
+    "addr:housenumber":"1275",
+    "addr:postcode":"82072",
+    "addr:street":"N 11Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":874030233,
-    "wof:lastmodified":1467090800,
+    "wof:lastmodified":1472655191,
     "wof:name":"Laramie Senior High School",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

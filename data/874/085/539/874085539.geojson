@@ -2,6 +2,10 @@
   "id": 874085539,
   "type": "Feature",
   "properties": {
+    "addr:full":"3632 Squaw Creek Rd Casper WY 82604",
+    "addr:housenumber":"3632",
+    "addr:postcode":"82604",
+    "addr:street":"Squaw Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874085539,
-    "wof:lastmodified":1467090817,
+    "wof:lastmodified":1472655224,
     "wof:name":"Rig Ups By J & J Inc",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

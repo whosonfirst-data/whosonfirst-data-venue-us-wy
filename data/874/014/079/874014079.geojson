@@ -2,6 +2,10 @@
   "id": 874014079,
   "type": "Feature",
   "properties": {
+    "addr:full":"1332 E Grafton St Laramie WY 82072",
+    "addr:housenumber":"1332",
+    "addr:postcode":"82072",
+    "addr:street":"E Grafton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874014079,
-    "wof:lastmodified":1467090795,
+    "wof:lastmodified":1472655177,
     "wof:name":"Ace Plowing Inc",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874112797,
   "type": "Feature",
   "properties": {
+    "addr:full":"1328 W English Ave Casper WY 82601",
+    "addr:housenumber":"1328",
+    "addr:postcode":"82601",
+    "addr:street":"W English Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874112797,
-    "wof:lastmodified":1467090827,
+    "wof:lastmodified":1472655256,
     "wof:name":"Waterworks Industries Inc",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

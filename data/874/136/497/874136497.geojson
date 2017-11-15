@@ -2,6 +2,10 @@
   "id": 874136497,
   "type": "Feature",
   "properties": {
+    "addr:full":"611 S Jackson St Casper WY 82601",
+    "addr:housenumber":"611",
+    "addr:postcode":"82601",
+    "addr:street":"S Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874136497,
-    "wof:lastmodified":1467090836,
+    "wof:lastmodified":1472655246,
     "wof:name":"Ramax Lc",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

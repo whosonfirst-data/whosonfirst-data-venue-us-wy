@@ -2,6 +2,10 @@
   "id": 874182135,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 W 2nd St Casper WY 82601",
+    "addr:housenumber":"111",
+    "addr:postcode":"82601",
+    "addr:street":"W 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874182135,
-    "wof:lastmodified":1467090852,
+    "wof:lastmodified":1472655262,
     "wof:name":"Richard R Wilking",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

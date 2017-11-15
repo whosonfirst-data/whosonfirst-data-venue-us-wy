@@ -2,6 +2,10 @@
   "id": 874148829,
   "type": "Feature",
   "properties": {
+    "addr:full":"304 S Washington St Casper WY 82601",
+    "addr:housenumber":"304",
+    "addr:postcode":"82601",
+    "addr:street":"S Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874148829,
-    "wof:lastmodified":1467090841,
+    "wof:lastmodified":1472655245,
     "wof:name":"Evergreen Cancer Center P C",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

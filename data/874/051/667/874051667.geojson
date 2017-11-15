@@ -2,6 +2,10 @@
   "id": 874051667,
   "type": "Feature",
   "properties": {
+    "addr:full":"1341 Glenaire Dr Casper WY 82609",
+    "addr:housenumber":"1341",
+    "addr:postcode":"82609",
+    "addr:street":"Glenaire Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874051667,
-    "wof:lastmodified":1467090807,
+    "wof:lastmodified":1472655203,
     "wof:name":"DLJ Management Consulting",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

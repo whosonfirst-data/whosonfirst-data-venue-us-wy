@@ -2,6 +2,10 @@
   "id": 874179679,
   "type": "Feature",
   "properties": {
+    "addr:full":"413 N Washington St Casper WY 82601",
+    "addr:housenumber":"413",
+    "addr:postcode":"82601",
+    "addr:street":"N Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874179679,
-    "wof:lastmodified":1467090851,
+    "wof:lastmodified":1472655283,
     "wof:name":"Hutchs HI-Country Plumbing",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

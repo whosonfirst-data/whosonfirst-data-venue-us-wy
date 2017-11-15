@@ -2,6 +2,10 @@
   "id": 874054131,
   "type": "Feature",
   "properties": {
+    "addr:full":"323 Thelma Dr Casper WY 82609",
+    "addr:housenumber":"323",
+    "addr:postcode":"82609",
+    "addr:street":"Thelma Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874054131,
-    "wof:lastmodified":1467090808,
+    "wof:lastmodified":1472655189,
     "wof:name":"Front Range Fitness Equipment",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

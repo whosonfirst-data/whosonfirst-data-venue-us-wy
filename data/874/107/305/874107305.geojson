@@ -2,6 +2,10 @@
   "id": 874107305,
   "type": "Feature",
   "properties": {
+    "addr:full":"441 S Center St Casper WY 82601",
+    "addr:housenumber":"441",
+    "addr:postcode":"82601",
+    "addr:street":"S Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874107305,
-    "wof:lastmodified":1467090825,
+    "wof:lastmodified":1472655224,
     "wof:name":"Susans Spa Salon",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

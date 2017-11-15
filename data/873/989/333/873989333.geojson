@@ -2,6 +2,10 @@
   "id": 873989333,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 Bryan Stock Trl Casper WY 82601",
+    "addr:housenumber":"1800",
+    "addr:postcode":"82601",
+    "addr:street":"Bryan Stock Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873989333,
-    "wof:lastmodified":1467090788,
+    "wof:lastmodified":1472655180,
     "wof:name":"Veterans Of Foreign Wars",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874213241,
   "type": "Feature",
   "properties": {
+    "addr:full":"7846 E Easy St Evansville WY 82636",
+    "addr:housenumber":"7846",
+    "addr:postcode":"82636",
+    "addr:street":"E Easy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874213241,
-    "wof:lastmodified":1467090865,
+    "wof:lastmodified":1472655277,
     "wof:name":"Atlantic Electrical LLC",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

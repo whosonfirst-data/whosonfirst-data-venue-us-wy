@@ -2,6 +2,10 @@
   "id": 874162619,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Cy Ave Casper WY 82601",
+    "addr:housenumber":"600",
+    "addr:postcode":"82601",
+    "addr:street":"Cy Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874162619,
-    "wof:lastmodified":1467090845,
+    "wof:lastmodified":1472655257,
     "wof:name":"Bustard's Funeral Directors",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

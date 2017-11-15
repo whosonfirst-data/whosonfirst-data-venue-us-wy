@@ -2,6 +2,10 @@
   "id": 873989627,
   "type": "Feature",
   "properties": {
+    "addr:full":"3230 Cy Ave Casper WY 82604",
+    "addr:housenumber":"",
+    "addr:postcode":"3230;82604",
+    "addr:street":"Cy Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":873989627,
-    "wof:lastmodified":1467090788,
+    "wof:lastmodified":1472655181,
     "wof:name":"Casual Jack's Eat'n Shack",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

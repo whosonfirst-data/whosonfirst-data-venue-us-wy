@@ -2,6 +2,10 @@
   "id": 874127071,
   "type": "Feature",
   "properties": {
+    "addr:full":"5511 S David St Casper WY 82601",
+    "addr:housenumber":"5511",
+    "addr:postcode":"82601",
+    "addr:street":"S David St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874127071,
-    "wof:lastmodified":1467090833,
+    "wof:lastmodified":1472655224,
     "wof:name":"Kim Barner",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

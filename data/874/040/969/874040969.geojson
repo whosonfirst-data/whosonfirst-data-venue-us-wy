@@ -2,6 +2,10 @@
   "id": 874040969,
   "type": "Feature",
   "properties": {
+    "addr:full":"4112 Salt Creek Hwy Casper WY 82601",
+    "addr:housenumber":"4112",
+    "addr:postcode":"82601",
+    "addr:street":"Salt Creek Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874040969,
-    "wof:lastmodified":1467090803,
+    "wof:lastmodified":1472655203,
     "wof:name":"Ron's Plumbing & Heating",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

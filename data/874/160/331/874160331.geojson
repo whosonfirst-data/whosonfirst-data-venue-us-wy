@@ -2,6 +2,10 @@
   "id": 874160331,
   "type": "Feature",
   "properties": {
+    "addr:full":"4101 Evans Ave Cheyenne WY 82001",
+    "addr:housenumber":"4101",
+    "addr:postcode":"82001",
+    "addr:street":"Evans Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874160331,
-    "wof:lastmodified":1467090844,
+    "wof:lastmodified":1472655249,
     "wof:name":"CHEYENNE Work Ctr",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

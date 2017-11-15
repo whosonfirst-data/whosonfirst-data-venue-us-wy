@@ -2,6 +2,10 @@
   "id": 874093019,
   "type": "Feature",
   "properties": {
+    "addr:full":"5400 Twelve Mile Rd Casper WY 82604",
+    "addr:housenumber":"5400",
+    "addr:postcode":"82604",
+    "addr:street":"Twelve Mile Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874093019,
-    "wof:lastmodified":1467090820,
+    "wof:lastmodified":1472655218,
     "wof:name":"33 Ranch",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874022991,
   "type": "Feature",
   "properties": {
+    "addr:full":"512 N Fairdale St Casper WY 82601",
+    "addr:housenumber":"512",
+    "addr:postcode":"82601",
+    "addr:street":"N Fairdale St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874022991,
-    "wof:lastmodified":1467090797,
+    "wof:lastmodified":1472655206,
     "wof:name":"Viking Body & Paint",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

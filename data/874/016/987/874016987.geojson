@@ -2,6 +2,10 @@
   "id": 874016987,
   "type": "Feature",
   "properties": {
+    "addr:full":"1636 S Mitchell St Casper WY 82601",
+    "addr:housenumber":"1636",
+    "addr:postcode":"82601",
+    "addr:street":"S Mitchell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874016987,
-    "wof:lastmodified":1467090796,
+    "wof:lastmodified":1472655203,
     "wof:name":"Forsythe Surveying",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

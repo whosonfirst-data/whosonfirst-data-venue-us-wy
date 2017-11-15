@@ -2,6 +2,10 @@
   "id": 874227595,
   "type": "Feature",
   "properties": {
+    "addr:full":"1620 Mariposa Blvd Casper WY 82604",
+    "addr:housenumber":"1620",
+    "addr:postcode":"82604",
+    "addr:street":"Mariposa Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":874227595,
-    "wof:lastmodified":1467090870,
+    "wof:lastmodified":1472655288,
     "wof:name":"Edwin Sevcik",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

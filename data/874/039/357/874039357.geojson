@@ -2,6 +2,10 @@
   "id": 874039357,
   "type": "Feature",
   "properties": {
+    "addr:full":"1204 Bella Vista Dr Casper WY 82601",
+    "addr:housenumber":"1204",
+    "addr:postcode":"82601",
+    "addr:street":"Bella Vista Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874039357,
-    "wof:lastmodified":1467090803,
+    "wof:lastmodified":1472655192,
     "wof:name":"Cougar Construction Inc",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

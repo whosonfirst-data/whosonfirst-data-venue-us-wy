@@ -2,6 +2,10 @@
   "id": 873985953,
   "type": "Feature",
   "properties": {
+    "addr:full":"2895 Mockingbird Trl Casper WY 82604",
+    "addr:housenumber":"2895",
+    "addr:postcode":"82604",
+    "addr:street":"Mockingbird Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873985953,
-    "wof:lastmodified":1467090787,
+    "wof:lastmodified":1472655214,
     "wof:name":"Red Roofing LLC",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

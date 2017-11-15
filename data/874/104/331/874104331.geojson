@@ -2,6 +2,10 @@
   "id": 874104331,
   "type": "Feature",
   "properties": {
+    "addr:full":"136 S Center St Casper WY 82601",
+    "addr:housenumber":"136",
+    "addr:postcode":"82601",
+    "addr:street":"S Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874104331,
-    "wof:lastmodified":1467090824,
+    "wof:lastmodified":1472655224,
     "wof:name":"Shirts 'n Things",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

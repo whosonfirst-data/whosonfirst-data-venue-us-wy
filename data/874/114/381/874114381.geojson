@@ -2,6 +2,10 @@
   "id": 874114381,
   "type": "Feature",
   "properties": {
+    "addr:full":"951 Werner Ct Casper WY 82601",
+    "addr:housenumber":"951",
+    "addr:postcode":"82601",
+    "addr:street":"Werner Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":874114381,
-    "wof:lastmodified":1467090827,
+    "wof:lastmodified":1472655244,
     "wof:name":"Petroleum Association Wyoming",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

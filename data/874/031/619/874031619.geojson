@@ -2,6 +2,10 @@
   "id": 874031619,
   "type": "Feature",
   "properties": {
+    "addr:full":"5211 S Center St Casper WY 82601",
+    "addr:housenumber":"5211",
+    "addr:postcode":"82601",
+    "addr:street":"S Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874031619,
-    "wof:lastmodified":1467090800,
+    "wof:lastmodified":1472655189,
     "wof:name":"Meyer Construction",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

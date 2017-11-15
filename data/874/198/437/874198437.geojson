@@ -2,6 +2,10 @@
   "id": 874198437,
   "type": "Feature",
   "properties": {
+    "addr:full":"2083 Sweetwater Dr Laramie WY 82070",
+    "addr:housenumber":"2083",
+    "addr:postcode":"82070",
+    "addr:street":"Sweetwater Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874198437,
-    "wof:lastmodified":1467090858,
+    "wof:lastmodified":1472655275,
     "wof:name":"Osborne Concrete",
     "wof:parent_id":85855825,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874033133,
   "type": "Feature",
   "properties": {
+    "addr:full":"537 W Collins Dr Casper WY 82601",
+    "addr:housenumber":"537",
+    "addr:postcode":"82601",
+    "addr:street":"W Collins Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874033133,
-    "wof:lastmodified":1467090801,
+    "wof:lastmodified":1472655184,
     "wof:name":"Collins Street Storage & Coins",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

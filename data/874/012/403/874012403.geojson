@@ -2,6 +2,10 @@
   "id": 874012403,
   "type": "Feature",
   "properties": {
+    "addr:full":"805 W Platte Rd Casper WY 82601",
+    "addr:housenumber":"805",
+    "addr:postcode":"82601",
+    "addr:street":"W Platte Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874012403,
-    "wof:lastmodified":1467090795,
+    "wof:lastmodified":1472655176,
     "wof:name":"Klimek Insurance",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

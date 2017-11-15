@@ -2,6 +2,10 @@
   "id": 874076281,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 S Wolcott St Casper WY 82601",
+    "addr:housenumber":"300",
+    "addr:postcode":"82601",
+    "addr:street":"S Wolcott St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874076281,
-    "wof:lastmodified":1467090814,
+    "wof:lastmodified":1472655218,
     "wof:name":"Maurice W Brown",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

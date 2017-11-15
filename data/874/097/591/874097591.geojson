@@ -2,14 +2,20 @@
   "id": 874097591,
   "type": "Feature",
   "properties": {
+    "addr:full":"1232 E 12th St Casper WY 82601",
+    "addr:housenumber":"1232",
+    "addr:postcode":"82601",
+    "addr:street":"E 12Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.30969,42.838921,-106.30969,42.838921",
     "geom:latitude":42.838921,
     "geom:longitude":-106.30969,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1232 E 12th St",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85834153,
         102080753
     ],
+    "wof:brand_id":1125159495,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dqxiJOviZosJejPZpmKj3_42.838921_-106.309690@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311751,
-    "wof:geomhash":"28f1aa14e88fc179f57fe68288fa5b7a",
+    "wof:geomhash":"b01ea6cbfb84061479b0edfe18a46a1a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874097591,
-    "wof:lastmodified":1467090822,
+    "wof:lastmodified":1510695422,
     "wof:name":"Cenex Convenience Store",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

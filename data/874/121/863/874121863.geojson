@@ -2,6 +2,10 @@
   "id": 874121863,
   "type": "Feature",
   "properties": {
+    "addr:full":"3915 Gannett St Casper WY 82609",
+    "addr:housenumber":"3915",
+    "addr:postcode":"82609",
+    "addr:street":"Gannett St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874121863,
-    "wof:lastmodified":1467090831,
+    "wof:lastmodified":1472655257,
     "wof:name":"Kirk Buchholz",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

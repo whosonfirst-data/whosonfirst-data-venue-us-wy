@@ -2,6 +2,10 @@
   "id": 874115995,
   "type": "Feature",
   "properties": {
+    "addr:full":"3043 Cabin Creek Pl Casper WY 82604",
+    "addr:housenumber":"3043",
+    "addr:postcode":"82604",
+    "addr:street":"Cabin Creek Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874115995,
-    "wof:lastmodified":1467090828,
+    "wof:lastmodified":1472655257,
     "wof:name":"J L Pump Unit Service",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

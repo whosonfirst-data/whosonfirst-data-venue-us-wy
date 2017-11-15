@@ -2,6 +2,10 @@
   "id": 874184555,
   "type": "Feature",
   "properties": {
+    "addr:full":"539 S Ash St Casper WY 82601",
+    "addr:housenumber":"539",
+    "addr:postcode":"82601",
+    "addr:street":"S Ash St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874184555,
-    "wof:lastmodified":1467090853,
+    "wof:lastmodified":1472655276,
     "wof:name":"Uptown Hair Styles",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

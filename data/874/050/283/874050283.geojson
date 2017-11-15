@@ -2,6 +2,10 @@
   "id": 874050283,
   "type": "Feature",
   "properties": {
+    "addr:full":"1692 Chamberlain Rd Casper WY 82604",
+    "addr:housenumber":"1692",
+    "addr:postcode":"82604",
+    "addr:street":"Chamberlain Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874050283,
-    "wof:lastmodified":1467090806,
+    "wof:lastmodified":1472655188,
     "wof:name":"Kirkeeng Welding",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

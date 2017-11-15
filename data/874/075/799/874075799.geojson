@@ -2,6 +2,10 @@
   "id": 874075799,
   "type": "Feature",
   "properties": {
+    "addr:full":"1230 S Beverly St Casper WY 82609",
+    "addr:housenumber":"1230",
+    "addr:postcode":"82609",
+    "addr:street":"S Beverly St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874075799,
-    "wof:lastmodified":1467090814,
+    "wof:lastmodified":1472655209,
     "wof:name":"Check Cashing Ctr",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

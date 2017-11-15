@@ -2,6 +2,10 @@
   "id": 874056575,
   "type": "Feature",
   "properties": {
+    "addr:full":"1044 N Foster Rd Casper WY 82601",
+    "addr:housenumber":"1044",
+    "addr:postcode":"82601",
+    "addr:street":"N Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874056575,
-    "wof:lastmodified":1467090808,
+    "wof:lastmodified":1472655207,
     "wof:name":"Advanced Heating & Plumbing",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

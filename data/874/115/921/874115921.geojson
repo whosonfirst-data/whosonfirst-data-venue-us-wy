@@ -2,6 +2,10 @@
   "id": 874115921,
   "type": "Feature",
   "properties": {
+    "addr:full":"2401 S Lennox Ave Casper WY 82601",
+    "addr:housenumber":"2401",
+    "addr:postcode":"82601",
+    "addr:street":"S Lennox Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874115921,
-    "wof:lastmodified":1467090828,
+    "wof:lastmodified":1472655256,
     "wof:name":"Dreamland Productions LLC",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

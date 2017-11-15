@@ -2,6 +2,10 @@
   "id": 874177555,
   "type": "Feature",
   "properties": {
+    "addr:full":"7197 W Derick Dr Casper WY 82604",
+    "addr:housenumber":"7197",
+    "addr:postcode":"82604",
+    "addr:street":"W Derick Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874177555,
-    "wof:lastmodified":1467090851,
+    "wof:lastmodified":1472655270,
     "wof:name":"Sperry-Sun Drilling Services",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

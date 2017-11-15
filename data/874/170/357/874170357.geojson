@@ -2,6 +2,10 @@
   "id": 874170357,
   "type": "Feature",
   "properties": {
+    "addr:full":"6150 W Yellowstone Hwy Casper WY 82604",
+    "addr:housenumber":"6150",
+    "addr:postcode":"82604",
+    "addr:street":"W Yellowstone Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874170357,
-    "wof:lastmodified":1467090848,
+    "wof:lastmodified":1472655266,
     "wof:name":"Corab Services",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874159589,
   "type": "Feature",
   "properties": {
+    "addr:full":"5590 W Yellowstone Hwy Casper WY 82604",
+    "addr:housenumber":"5590",
+    "addr:postcode":"82604",
+    "addr:street":"W Yellowstone Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874159589,
-    "wof:lastmodified":1467090844,
+    "wof:lastmodified":1472655257,
     "wof:name":"Limmer Roofing",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

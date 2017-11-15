@@ -2,6 +2,10 @@
   "id": 874053599,
   "type": "Feature",
   "properties": {
+    "addr:full":"3650 N Banner Rd Laramie WY 82072",
+    "addr:housenumber":"3650",
+    "addr:postcode":"82072",
+    "addr:street":"N Banner Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874053599,
-    "wof:lastmodified":1467090807,
+    "wof:lastmodified":1472655205,
     "wof:name":"Laramie Trusses",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

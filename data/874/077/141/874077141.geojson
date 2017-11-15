@@ -2,6 +2,10 @@
   "id": 874077141,
   "type": "Feature",
   "properties": {
+    "addr:full":"1262 N 22nd St Laramie WY 82072",
+    "addr:housenumber":"1262",
+    "addr:postcode":"82072",
+    "addr:street":"N 22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":874077141,
-    "wof:lastmodified":1467090815,
+    "wof:lastmodified":1472655217,
     "wof:name":"Hospice of Laramie",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

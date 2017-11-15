@@ -2,6 +2,10 @@
   "id": 873997031,
   "type": "Feature",
   "properties": {
+    "addr:full":"2919 Garden Creek Rd Casper WY 82601",
+    "addr:housenumber":"2919",
+    "addr:postcode":"82601",
+    "addr:street":"Garden Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":873997031,
-    "wof:lastmodified":1467090790,
+    "wof:lastmodified":1472655182,
     "wof:name":"Com Track Communications",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

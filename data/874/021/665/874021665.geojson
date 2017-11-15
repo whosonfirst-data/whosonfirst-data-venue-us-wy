@@ -2,14 +2,20 @@
   "id": 874021665,
   "type": "Feature",
   "properties": {
+    "addr:full":"1947 Blue Grass Cir Cheyenne WY 82009",
+    "addr:housenumber":"1947",
+    "addr:postcode":"82009",
+    "addr:street":"Blue Grass Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.7956,41.158991,-104.7956,41.158991",
     "geom:latitude":41.158991,
     "geom:longitude":-104.7956,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1947 Blue Grass Cir",
     "sg:city":"Cheyenne",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         101734121,
         102080769
     ],
+    "wof:brand_id":1125150807,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40k7owtFoewo1BJBQiRZdO_41.158991_-104.795600@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464310962,
-    "wof:geomhash":"0d37f977c0398c0613fed108612e1754",
+    "wof:geomhash":"3b874e8b41e753ed894b95e6193fc272",
     "wof:hierarchy":[
         {
             "campus_id":102531225,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874021665,
-    "wof:lastmodified":1467090797,
+    "wof:lastmodified":1510697332,
     "wof:name":"Medicap Pharmacy",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

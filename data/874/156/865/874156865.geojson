@@ -2,6 +2,10 @@
   "id": 874156865,
   "type": "Feature",
   "properties": {
+    "addr:full":"1004 Highland Way Rock Springs WY 82901",
+    "addr:housenumber":"1004",
+    "addr:postcode":"82901",
+    "addr:street":"Highland Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":874156865,
-    "wof:lastmodified":1467090843,
+    "wof:lastmodified":1472655255,
     "wof:name":"A-1 Electric",
     "wof:parent_id":85806363,
     "wof:placetype":"venue",

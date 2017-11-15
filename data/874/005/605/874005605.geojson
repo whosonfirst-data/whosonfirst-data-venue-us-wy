@@ -2,6 +2,10 @@
   "id": 874005605,
   "type": "Feature",
   "properties": {
+    "addr:full":"1845 Skyview Dr Casper WY 82601",
+    "addr:housenumber":"1845",
+    "addr:postcode":"82601",
+    "addr:street":"Skyview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874005605,
-    "wof:lastmodified":1467090793,
+    "wof:lastmodified":1472655205,
     "wof:name":"Satel-Lite Industries",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

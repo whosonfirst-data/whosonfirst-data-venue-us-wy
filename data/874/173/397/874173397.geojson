@@ -2,6 +2,10 @@
   "id": 874173397,
   "type": "Feature",
   "properties": {
+    "addr:full":"1425 W Ormsby Rd Bar Nunn WY 82601",
+    "addr:housenumber":"1425",
+    "addr:postcode":"82601",
+    "addr:street":"W Ormsby Rd;Nunn Wy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874173397,
-    "wof:lastmodified":1467090849,
+    "wof:lastmodified":1472655269,
     "wof:name":"Northern Dreams",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

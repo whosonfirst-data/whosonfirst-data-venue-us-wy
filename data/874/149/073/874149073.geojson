@@ -2,6 +2,10 @@
   "id": 874149073,
   "type": "Feature",
   "properties": {
+    "addr:full":"3447 Burd Rd Casper WY 82604",
+    "addr:housenumber":"3447",
+    "addr:postcode":"82604",
+    "addr:street":"Burd Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874149073,
-    "wof:lastmodified":1467090841,
+    "wof:lastmodified":1472655237,
     "wof:name":"Hall's Custom Paving & Excvtn",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

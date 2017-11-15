@@ -2,6 +2,10 @@
   "id": 874106107,
   "type": "Feature",
   "properties": {
+    "addr:full":"339 N Iowa Ave Casper WY 82609",
+    "addr:housenumber":"339",
+    "addr:postcode":"82609",
+    "addr:street":"N Iowa Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874106107,
-    "wof:lastmodified":1467090825,
+    "wof:lastmodified":1472655222,
     "wof:name":"Paint Masters",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

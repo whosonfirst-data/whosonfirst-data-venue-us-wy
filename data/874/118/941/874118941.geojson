@@ -2,6 +2,10 @@
   "id": 874118941,
   "type": "Feature",
   "properties": {
+    "addr:full":"414 S 24th St Laramie WY 82070",
+    "addr:housenumber":"414",
+    "addr:postcode":"82070",
+    "addr:street":"S 24Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874118941,
-    "wof:lastmodified":1467090830,
+    "wof:lastmodified":1472655248,
     "wof:name":"Open School",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 320522677,
   "type": "Feature",
   "properties": {
+    "addr:full":"2229 E Grand Ave Laramie WY 82070",
+    "addr:housenumber":"2229",
+    "addr:postcode":"82070",
+    "addr:street":"E Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":320522677,
-    "wof:lastmodified":1467090787,
+    "wof:lastmodified":1472655175,
     "wof:name":"Hilton Garden Inn & University of Wyoming Conference Center",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

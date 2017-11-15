@@ -2,6 +2,10 @@
   "id": 874103439,
   "type": "Feature",
   "properties": {
+    "addr:full":"2131 Kingsboro Rd Casper WY 82604",
+    "addr:housenumber":"2131",
+    "addr:postcode":"82604",
+    "addr:street":"Kingsboro Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874103439,
-    "wof:lastmodified":1467090824,
+    "wof:lastmodified":1472655236,
     "wof:name":"Bideau Drilling",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874099927,
   "type": "Feature",
   "properties": {
+    "addr:full":"59 Curtis St Evansville WY 82636",
+    "addr:housenumber":"59",
+    "addr:postcode":"82636",
+    "addr:street":"Curtis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.270865,42.859921,-106.270865,42.859921",
     "geom:latitude":42.859921,
     "geom:longitude":-106.270865,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"59 Curtis St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85834153,
         102080753
     ],
+    "wof:brand_id":1125150869,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EY9pl3AAFdD4YNmgh52id_42.859921_-106.270865@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311791,
-    "wof:geomhash":"05e7d483930c7870c277815043eec083",
+    "wof:geomhash":"d8de49967682d08d4fd964bfd2f9b76c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874099927,
-    "wof:lastmodified":1467090823,
+    "wof:lastmodified":1510698875,
     "wof:name":"Mini Mart",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

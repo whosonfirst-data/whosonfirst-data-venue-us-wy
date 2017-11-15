@@ -2,6 +2,10 @@
   "id": 874036573,
   "type": "Feature",
   "properties": {
+    "addr:full":"2156 Riverside Dr Laramie WY 82070",
+    "addr:housenumber":"2156",
+    "addr:postcode":"82070",
+    "addr:street":"Riverside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":874036573,
-    "wof:lastmodified":1467090802,
+    "wof:lastmodified":1472655197,
     "wof:name":"W W Woodworks Inc",
     "wof:parent_id":85855825,
     "wof:placetype":"venue",

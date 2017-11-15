@@ -2,6 +2,10 @@
   "id": 874042739,
   "type": "Feature",
   "properties": {
+    "addr:full":"2110 E Binford St Laramie WY 82072",
+    "addr:housenumber":"2110",
+    "addr:postcode":"82072",
+    "addr:street":"E Binford St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":874042739,
-    "wof:lastmodified":1467090804,
+    "wof:lastmodified":1472655198,
     "wof:name":"Connemara Apartments",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

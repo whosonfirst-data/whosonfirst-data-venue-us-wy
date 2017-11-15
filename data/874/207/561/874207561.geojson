@@ -2,6 +2,10 @@
   "id": 874207561,
   "type": "Feature",
   "properties": {
+    "addr:full":"4700 E Bluebird Ln Laramie WY 82070",
+    "addr:housenumber":"4700",
+    "addr:postcode":"82070",
+    "addr:street":"E Bluebird Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874207561,
-    "wof:lastmodified":1467090862,
+    "wof:lastmodified":1472655285,
     "wof:name":"Tombelweed Express",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

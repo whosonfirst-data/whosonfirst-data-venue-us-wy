@@ -2,6 +2,10 @@
   "id": 873991687,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 S Washington St Casper WY 82601",
+    "addr:housenumber":"119",
+    "addr:postcode":"82601",
+    "addr:street":"S Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873991687,
-    "wof:lastmodified":1467090789,
+    "wof:lastmodified":1472655203,
     "wof:name":"Miller Law Office",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

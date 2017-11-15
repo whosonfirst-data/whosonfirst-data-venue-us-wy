@@ -2,6 +2,10 @@
   "id": 874023719,
   "type": "Feature",
   "properties": {
+    "addr:full":"737 W Collins Dr Casper WY 82601",
+    "addr:housenumber":"737",
+    "addr:postcode":"82601",
+    "addr:street":"W Collins Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":874023719,
-    "wof:lastmodified":1467090798,
+    "wof:lastmodified":1472655189,
     "wof:name":"Select Used Cars Inc",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

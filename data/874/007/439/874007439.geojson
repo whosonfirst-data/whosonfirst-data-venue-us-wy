@@ -2,6 +2,10 @@
   "id": 874007439,
   "type": "Feature",
   "properties": {
+    "addr:full":"2512 River Meadows Rd Casper WY 82604",
+    "addr:housenumber":"2512",
+    "addr:postcode":"82604",
+    "addr:street":"River Meadows Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874007439,
-    "wof:lastmodified":1467090793,
+    "wof:lastmodified":1472655194,
     "wof:name":"Pronghorn Archaeology LLC",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

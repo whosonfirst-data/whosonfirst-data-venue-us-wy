@@ -2,6 +2,10 @@
   "id": 874128993,
   "type": "Feature",
   "properties": {
+    "addr:full":"2919 County Shop Rd Laramie WY 82070",
+    "addr:housenumber":"2919",
+    "addr:postcode":"82070",
+    "addr:street":"County Shop Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874128993,
-    "wof:lastmodified":1467090834,
+    "wof:lastmodified":1472655238,
     "wof:name":"Albany County Weed & Pest",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

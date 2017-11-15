@@ -2,6 +2,10 @@
   "id": 874164127,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 Prospector Dr Casper WY 82604",
+    "addr:housenumber":"3200",
+    "addr:postcode":"82604",
+    "addr:street":"Prospector Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874164127,
-    "wof:lastmodified":1467090846,
+    "wof:lastmodified":1472655242,
     "wof:name":"Steiner Corp",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

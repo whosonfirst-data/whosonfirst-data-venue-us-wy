@@ -2,6 +2,10 @@
   "id": 874165307,
   "type": "Feature",
   "properties": {
+    "addr:full":"473 N Lennox St Casper WY 82601",
+    "addr:housenumber":"473",
+    "addr:postcode":"82601",
+    "addr:street":"N Lennox St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874165307,
-    "wof:lastmodified":1467090846,
+    "wof:lastmodified":1472655267,
     "wof:name":"Auction ICS",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

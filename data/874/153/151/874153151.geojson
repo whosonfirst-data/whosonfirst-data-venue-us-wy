@@ -2,6 +2,10 @@
   "id": 874153151,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 E 6th St Casper WY 82601",
+    "addr:housenumber":"211",
+    "addr:postcode":"82601",
+    "addr:street":"E 6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874153151,
-    "wof:lastmodified":1467090842,
+    "wof:lastmodified":1472655239,
     "wof:name":"Village Hairsmith",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

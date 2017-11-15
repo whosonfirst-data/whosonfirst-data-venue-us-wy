@@ -2,6 +2,10 @@
   "id": 874061291,
   "type": "Feature",
   "properties": {
+    "addr:full":"814 S Durbin St Casper WY 82601",
+    "addr:housenumber":"814",
+    "addr:postcode":"82601",
+    "addr:street":"S Durbin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874061291,
-    "wof:lastmodified":1467090810,
+    "wof:lastmodified":1472655202,
     "wof:name":"Janes Sweet Temptations",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

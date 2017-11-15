@@ -2,6 +2,10 @@
   "id": 874172441,
   "type": "Feature",
   "properties": {
+    "addr:full":"3211 Energy Ln Casper WY 82604",
+    "addr:housenumber":"3211",
+    "addr:postcode":"82604",
+    "addr:street":"Energy Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874172441,
-    "wof:lastmodified":1467090849,
+    "wof:lastmodified":1472655268,
     "wof:name":"Nutrition & Child Development",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

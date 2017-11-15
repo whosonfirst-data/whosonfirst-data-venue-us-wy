@@ -2,6 +2,10 @@
   "id": 874208807,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 W Collins Dr Casper WY 82601",
+    "addr:housenumber":"500",
+    "addr:postcode":"82601",
+    "addr:street":"W Collins Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874208807,
-    "wof:lastmodified":1467090863,
+    "wof:lastmodified":1472655290,
     "wof:name":"Action Glass",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

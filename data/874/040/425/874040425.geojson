@@ -2,6 +2,10 @@
   "id": 874040425,
   "type": "Feature",
   "properties": {
+    "addr:full":"1542 Burlington Ave Casper WY 82601",
+    "addr:housenumber":"1542",
+    "addr:postcode":"82601",
+    "addr:street":"Burlington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874040425,
-    "wof:lastmodified":1467090803,
+    "wof:lastmodified":1472655183,
     "wof:name":"Torque Process & Control",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

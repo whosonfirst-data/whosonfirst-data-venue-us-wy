@@ -2,6 +2,10 @@
   "id": 874188703,
   "type": "Feature",
   "properties": {
+    "addr:full":"136 E J St Casper WY 82601",
+    "addr:housenumber":"136",
+    "addr:postcode":"82601",
+    "addr:street":"E J St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874188703,
-    "wof:lastmodified":1467090854,
+    "wof:lastmodified":1472655282,
     "wof:name":"Cy Barber Shop",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

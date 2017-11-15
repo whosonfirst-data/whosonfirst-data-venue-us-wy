@@ -2,6 +2,10 @@
   "id": 874139185,
   "type": "Feature",
   "properties": {
+    "addr:full":"818 S 3rd St Laramie WY 82070",
+    "addr:housenumber":"818",
+    "addr:postcode":"82070",
+    "addr:street":"S 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":874139185,
-    "wof:lastmodified":1467090837,
+    "wof:lastmodified":1472655235,
     "wof:name":"Mini Mart",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874138955,
   "type": "Feature",
   "properties": {
+    "addr:full":"3831 Eagle Dr Casper WY 82604",
+    "addr:housenumber":"3831",
+    "addr:postcode":"82604",
+    "addr:street":"Eagle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874138955,
-    "wof:lastmodified":1467090837,
+    "wof:lastmodified":1472655259,
     "wof:name":"Scola Production LLC",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874035325,
   "type": "Feature",
   "properties": {
+    "addr:full":"6000 W Incline Rd Casper WY 82604",
+    "addr:housenumber":"6000",
+    "addr:postcode":"82604",
+    "addr:street":"W Incline Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874035325,
-    "wof:lastmodified":1467090802,
+    "wof:lastmodified":1472655192,
     "wof:name":"Lost Iguana Consulting Inc",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

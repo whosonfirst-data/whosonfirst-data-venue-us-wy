@@ -2,6 +2,10 @@
   "id": 874058411,
   "type": "Feature",
   "properties": {
+    "addr:full":"2945 Ridgecrest Dr Casper WY 82604",
+    "addr:housenumber":"2945",
+    "addr:postcode":"82604",
+    "addr:street":"Ridgecrest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874058411,
-    "wof:lastmodified":1467090809,
+    "wof:lastmodified":1472655204,
     "wof:name":"Hladik & Hladik",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

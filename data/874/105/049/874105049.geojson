@@ -2,6 +2,10 @@
   "id": 874105049,
   "type": "Feature",
   "properties": {
+    "addr:full":"6235 W Yellowstone Hwy Casper WY 82604",
+    "addr:housenumber":"6235",
+    "addr:postcode":"82604",
+    "addr:street":"W Yellowstone Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874105049,
-    "wof:lastmodified":1467090824,
+    "wof:lastmodified":1472655218,
     "wof:name":"Cliff's Crane & Equip Repair",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874171799,
   "type": "Feature",
   "properties": {
+    "addr:full":"330 S Center St Casper WY 82601",
+    "addr:housenumber":"330",
+    "addr:postcode":"82601",
+    "addr:street":"S Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":874171799,
-    "wof:lastmodified":1467090849,
+    "wof:lastmodified":1472655273,
     "wof:name":"Cordilleran Compliance Svcs",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

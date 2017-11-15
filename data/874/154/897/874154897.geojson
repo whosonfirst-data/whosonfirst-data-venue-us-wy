@@ -2,6 +2,10 @@
   "id": 874154897,
   "type": "Feature",
   "properties": {
+    "addr:full":"4190 S Poplar St Casper WY 82601",
+    "addr:housenumber":"4190",
+    "addr:postcode":"82601",
+    "addr:street":"S Poplar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":874154897,
-    "wof:lastmodified":1467090843,
+    "wof:lastmodified":1472655256,
     "wof:name":"Bed Pan Boutique",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

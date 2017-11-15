@@ -2,6 +2,10 @@
   "id": 874126357,
   "type": "Feature",
   "properties": {
+    "addr:full":"2350 Paradise Dr Casper WY 82604",
+    "addr:housenumber":"2350",
+    "addr:postcode":"82604",
+    "addr:street":"Paradise Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874126357,
-    "wof:lastmodified":1467090833,
+    "wof:lastmodified":1472655244,
     "wof:name":"D and L Construction/Roofing",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

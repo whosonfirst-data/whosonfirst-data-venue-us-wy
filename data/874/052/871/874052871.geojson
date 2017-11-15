@@ -2,6 +2,10 @@
   "id": 874052871,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Sand Creek Rd Laramie WY 82070",
+    "addr:housenumber":"19",
+    "addr:postcode":"82070",
+    "addr:street":"Sand Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874052871,
-    "wof:lastmodified":1467090807,
+    "wof:lastmodified":1472655202,
     "wof:name":"Wyoming Disposal Svc Inc",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874222779,
   "type": "Feature",
   "properties": {
+    "addr:full":"7266 W Yellowstone Hwy Casper WY 82604",
+    "addr:housenumber":"7266",
+    "addr:postcode":"82604",
+    "addr:street":"W Yellowstone Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874222779,
-    "wof:lastmodified":1467090868,
+    "wof:lastmodified":1472655292,
     "wof:name":"Carl D Underwood Oil & Gas",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

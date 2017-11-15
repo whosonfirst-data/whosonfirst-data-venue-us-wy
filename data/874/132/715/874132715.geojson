@@ -2,6 +2,10 @@
   "id": 874132715,
   "type": "Feature",
   "properties": {
+    "addr:full":"213 E Grand Ave Laramie WY 82070",
+    "addr:housenumber":"213",
+    "addr:postcode":"82070",
+    "addr:street":"E Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874132715,
-    "wof:lastmodified":1467090835,
+    "wof:lastmodified":1472655241,
     "wof:name":"Rainbow Photography",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

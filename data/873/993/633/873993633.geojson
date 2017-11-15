@@ -2,6 +2,10 @@
   "id": 873993633,
   "type": "Feature",
   "properties": {
+    "addr:full":"1141 Wilkins Cir Casper WY 82601",
+    "addr:housenumber":"1141",
+    "addr:postcode":"82601",
+    "addr:street":"Wilkins Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873993633,
-    "wof:lastmodified":1467090789,
+    "wof:lastmodified":1472655201,
     "wof:name":"James C Rupp MD",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873985443,
   "type": "Feature",
   "properties": {
+    "addr:full":"2063 N 17th St Laramie WY 82072",
+    "addr:housenumber":"2063",
+    "addr:postcode":"82072",
+    "addr:street":"N 17Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873985443,
-    "wof:lastmodified":1467090787,
+    "wof:lastmodified":1472655194,
     "wof:name":"Gorman Engineering Llc",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

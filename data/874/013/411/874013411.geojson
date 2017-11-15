@@ -2,6 +2,10 @@
   "id": 874013411,
   "type": "Feature",
   "properties": {
+    "addr:full":"13250 Garbutt Rd Casper WY 82644",
+    "addr:housenumber":"",
+    "addr:postcode":"13250;82644",
+    "addr:street":"Garbutt Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874013411,
-    "wof:lastmodified":1467090795,
+    "wof:lastmodified":1472655178,
     "wof:name":"Wasp Paintball Inc",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

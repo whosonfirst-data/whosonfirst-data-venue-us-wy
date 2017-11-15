@@ -2,6 +2,10 @@
   "id": 874150771,
   "type": "Feature",
   "properties": {
+    "addr:full":"277 N 4th Ave Casper WY 82604",
+    "addr:housenumber":"277",
+    "addr:postcode":"82604",
+    "addr:street":"N 4Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874150771,
-    "wof:lastmodified":1467090841,
+    "wof:lastmodified":1472655248,
     "wof:name":"Superior Structures Inc",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

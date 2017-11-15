@@ -2,6 +2,10 @@
   "id": 874140321,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Curtis St Evansville WY 82636",
+    "addr:housenumber":"12",
+    "addr:postcode":"82636",
+    "addr:street":"Curtis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874140321,
-    "wof:lastmodified":1467090837,
+    "wof:lastmodified":1472655242,
     "wof:name":"A Child Caring Center",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

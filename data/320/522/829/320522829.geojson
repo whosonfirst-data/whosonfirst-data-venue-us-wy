@@ -2,6 +2,10 @@
   "id": 320522829,
   "type": "Feature",
   "properties": {
+    "addr:full":"240 W 1st St Casper WY 82601",
+    "addr:housenumber":"240",
+    "addr:postcode":"82601",
+    "addr:street":"W 1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":320522829,
-    "wof:lastmodified":1467090787,
+    "wof:lastmodified":1472655175,
     "wof:name":"Caspers Fountain or Youth Day Spa",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

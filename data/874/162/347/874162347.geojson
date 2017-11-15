@@ -2,14 +2,20 @@
   "id": 874162347,
   "type": "Feature",
   "properties": {
+    "addr:full":"1482 Commerce Dr Laramie WY 82070",
+    "addr:housenumber":"1482",
+    "addr:postcode":"82070",
+    "addr:street":"Commerce Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.615288,41.299852,-105.615288,41.299852",
     "geom:latitude":41.299852,
     "geom:longitude":-105.615288,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1482 Commerce Dr",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102080731,
         85855825
     ],
+    "wof:brand_id":1125155589,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31FMlyuoLJ4xfsYXVHVAe5_41.299852_-105.615288@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464312454,
-    "wof:geomhash":"7a04b6f70c07ad03a6df1482669bba99",
+    "wof:geomhash":"19c8189d8ed924c95319eff5cc161716",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":874162347,
-    "wof:lastmodified":1467090845,
+    "wof:lastmodified":1510694031,
     "wof:name":"Crescent Electric Supply Co",
     "wof:parent_id":85855825,
     "wof:placetype":"venue",

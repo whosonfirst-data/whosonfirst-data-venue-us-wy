@@ -2,6 +2,10 @@
   "id": 873998315,
   "type": "Feature",
   "properties": {
+    "addr:full":"650 Antler Dr Casper WY 82601",
+    "addr:housenumber":"650",
+    "addr:postcode":"82601",
+    "addr:street":"Antler Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":873998315,
-    "wof:lastmodified":1467090791,
+    "wof:lastmodified":1472655194,
     "wof:name":"Underwood Supply",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

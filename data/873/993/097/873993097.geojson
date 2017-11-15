@@ -2,6 +2,10 @@
   "id": 873993097,
   "type": "Feature",
   "properties": {
+    "addr:full":"2136 Oil Dr Casper WY 82604",
+    "addr:housenumber":"2136",
+    "addr:postcode":"82604",
+    "addr:street":"Oil Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":873993097,
-    "wof:lastmodified":1467090789,
+    "wof:lastmodified":1472655180,
     "wof:name":"New Patriot Drilling Inc",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

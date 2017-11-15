@@ -2,6 +2,10 @@
   "id": 874055447,
   "type": "Feature",
   "properties": {
+    "addr:full":"3950 Denis Dr Casper WY 82604",
+    "addr:housenumber":"",
+    "addr:postcode":"3950;82604",
+    "addr:street":"Denis Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874055447,
-    "wof:lastmodified":1467090808,
+    "wof:lastmodified":1472655204,
     "wof:name":"Lazer Wash",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

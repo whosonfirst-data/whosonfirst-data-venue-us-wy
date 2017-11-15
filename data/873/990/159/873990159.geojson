@@ -2,6 +2,10 @@
   "id": 873990159,
   "type": "Feature",
   "properties": {
+    "addr:full":"1610 Cornwall St Casper WY 82609",
+    "addr:housenumber":"1610",
+    "addr:postcode":"82609",
+    "addr:street":"Cornwall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873990159,
-    "wof:lastmodified":1467090788,
+    "wof:lastmodified":1472655182,
     "wof:name":"Wyndsong Creations",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874199255,
   "type": "Feature",
   "properties": {
+    "addr:full":"1514 E 12th St Casper WY 82601",
+    "addr:housenumber":"1514",
+    "addr:postcode":"82601",
+    "addr:street":"E 12Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874199255,
-    "wof:lastmodified":1467090858,
+    "wof:lastmodified":1472655272,
     "wof:name":"Interfaith",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874087775,
   "type": "Feature",
   "properties": {
+    "addr:full":"2401 W 42nd St Casper WY 82604",
+    "addr:housenumber":"2401",
+    "addr:postcode":"82604",
+    "addr:street":"W 42Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874087775,
-    "wof:lastmodified":1467090818,
+    "wof:lastmodified":1472655234,
     "wof:name":"Carl Sawson",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

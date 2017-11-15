@@ -2,6 +2,10 @@
   "id": 874125499,
   "type": "Feature",
   "properties": {
+    "addr:full":"1315 E 24th St Casper WY 82601",
+    "addr:housenumber":"1315",
+    "addr:postcode":"82601",
+    "addr:street":"E 24Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874125499,
-    "wof:lastmodified":1467090833,
+    "wof:lastmodified":1472655246,
     "wof:name":"Sweets & Treats",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

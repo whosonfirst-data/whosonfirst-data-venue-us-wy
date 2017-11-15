@@ -2,6 +2,10 @@
   "id": 874134651,
   "type": "Feature",
   "properties": {
+    "addr:full":"5240 Poison Spider Rd Casper WY 82604",
+    "addr:housenumber":"",
+    "addr:postcode":"5240;82604",
+    "addr:street":"Spider Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":874134651,
-    "wof:lastmodified":1467090836,
+    "wof:lastmodified":1472655251,
     "wof:name":"USA Motor Sports",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874060685,
   "type": "Feature",
   "properties": {
+    "addr:full":"2404 Oil Dr Casper WY 82604",
+    "addr:housenumber":"2404",
+    "addr:postcode":"82604",
+    "addr:street":"Oil Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874060685,
-    "wof:lastmodified":1467090810,
+    "wof:lastmodified":1472655214,
     "wof:name":"Owen Oil Tools Inc",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

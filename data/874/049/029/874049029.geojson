@@ -2,6 +2,10 @@
   "id": 874049029,
   "type": "Feature",
   "properties": {
+    "addr:full":"709 E Renshaw St Laramie WY 82072",
+    "addr:housenumber":"709",
+    "addr:postcode":"82072",
+    "addr:street":"E Renshaw St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874049029,
-    "wof:lastmodified":1467090806,
+    "wof:lastmodified":1472655178,
     "wof:name":"Specialized Welding & Machine",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

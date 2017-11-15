@@ -2,14 +2,20 @@
   "id": 874152293,
   "type": "Feature",
   "properties": {
+    "addr:full":"1301 Airport Pkwy Cheyenne WY 82001",
+    "addr:housenumber":"1301",
+    "addr:postcode":"82001",
+    "addr:street":"Airport Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.805751,41.152279,-104.805751,41.152279",
     "geom:latitude":41.152279,
     "geom:longitude":-104.805751,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1301 Airport Pkwy",
     "sg:city":"Cheyenne",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         101734121,
         102080769
     ],
+    "wof:brand_id":1125157919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kOUx0qsDSyhR9eamI0vMN_41.152279_-104.805751@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464312349,
-    "wof:geomhash":"43101ffe08582d61ee3c62be9ef4fb69",
+    "wof:geomhash":"15bcb0cfa5e6c1d4d8ba0ed1cf74dd1f",
     "wof:hierarchy":[
         {
             "campus_id":102531225,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":874152293,
-    "wof:lastmodified":1467090842,
+    "wof:lastmodified":1510697542,
     "wof:name":"National Weather Svc",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

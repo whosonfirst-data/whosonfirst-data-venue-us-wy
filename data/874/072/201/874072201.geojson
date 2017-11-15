@@ -2,6 +2,10 @@
   "id": 874072201,
   "type": "Feature",
   "properties": {
+    "addr:full":"1620 Burlington Ave Casper WY 82601",
+    "addr:housenumber":"1620",
+    "addr:postcode":"82601",
+    "addr:street":"Burlington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874072201,
-    "wof:lastmodified":1467090813,
+    "wof:lastmodified":1472655192,
     "wof:name":"Auto & Truck Glass Svc",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

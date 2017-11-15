@@ -2,6 +2,10 @@
   "id": 874022667,
   "type": "Feature",
   "properties": {
+    "addr:full":"517 N Lennox St Casper WY 82601",
+    "addr:housenumber":"517",
+    "addr:postcode":"82601",
+    "addr:street":"N Lennox St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874022667,
-    "wof:lastmodified":1467090797,
+    "wof:lastmodified":1472655198,
     "wof:name":"Classy Chassis Auto Shop",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

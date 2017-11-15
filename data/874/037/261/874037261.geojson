@@ -2,6 +2,10 @@
   "id": 874037261,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 S Beverly St Casper WY 82609",
+    "addr:housenumber":"900",
+    "addr:postcode":"82609",
+    "addr:street":"S Beverly St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874037261,
-    "wof:lastmodified":1467090802,
+    "wof:lastmodified":1472655190,
     "wof:name":"East Junior High School",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

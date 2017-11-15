@@ -2,6 +2,10 @@
   "id": 874076341,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 Main St Torrington WY 82240",
+    "addr:housenumber":"1901",
+    "addr:postcode":"82240",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":874076341,
-    "wof:lastmodified":1467090814,
+    "wof:lastmodified":1472655218,
     "wof:name":"Dollar Discount",
     "wof:parent_id":85850153,
     "wof:placetype":"venue",

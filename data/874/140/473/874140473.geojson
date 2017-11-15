@@ -2,6 +2,10 @@
   "id": 874140473,
   "type": "Feature",
   "properties": {
+    "addr:full":"3030 Cy Ave Casper WY 82604",
+    "addr:housenumber":"3030",
+    "addr:postcode":"82604",
+    "addr:street":"Cy Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874140473,
-    "wof:lastmodified":1467090837,
+    "wof:lastmodified":1472655244,
     "wof:name":"Westbrook's Pawn Shop",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

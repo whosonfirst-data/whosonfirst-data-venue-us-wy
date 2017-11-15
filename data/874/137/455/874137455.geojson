@@ -2,6 +2,10 @@
   "id": 874137455,
   "type": "Feature",
   "properties": {
+    "addr:full":"5945 Bell Valley Rd Casper WY 82604",
+    "addr:housenumber":"5945",
+    "addr:postcode":"82604",
+    "addr:street":"Bell Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874137455,
-    "wof:lastmodified":1467090836,
+    "wof:lastmodified":1472655244,
     "wof:name":"Gurkin Construction",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

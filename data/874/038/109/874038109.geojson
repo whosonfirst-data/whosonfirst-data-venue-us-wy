@@ -2,6 +2,10 @@
   "id": 874038109,
   "type": "Feature",
   "properties": {
+    "addr:full":"6006 S Chaparral Dr Laramie WY 82070",
+    "addr:housenumber":"6006",
+    "addr:postcode":"82070",
+    "addr:street":"S Chaparral Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874038109,
-    "wof:lastmodified":1467090802,
+    "wof:lastmodified":1472655181,
     "wof:name":"Laramie Hometown Press",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

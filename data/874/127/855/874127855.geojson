@@ -2,6 +2,10 @@
   "id": 874127855,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 W Yellowstone Hwy Casper WY 82601",
+    "addr:housenumber":"1801",
+    "addr:postcode":"82601",
+    "addr:street":"W Yellowstone Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":874127855,
-    "wof:lastmodified":1467090833,
+    "wof:lastmodified":1472655240,
     "wof:name":"Pepper Tank & Contracting Co",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

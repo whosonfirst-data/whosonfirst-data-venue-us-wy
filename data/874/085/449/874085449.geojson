@@ -2,6 +2,10 @@
   "id": 874085449,
   "type": "Feature",
   "properties": {
+    "addr:full":"1939 Main St Torrington WY 82240",
+    "addr:housenumber":"1939",
+    "addr:postcode":"82240",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":874085449,
-    "wof:lastmodified":1467090817,
+    "wof:lastmodified":1472655222,
     "wof:name":"Ron's Water Treatment Svc",
     "wof:parent_id":85850153,
     "wof:placetype":"venue",

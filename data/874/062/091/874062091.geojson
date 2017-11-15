@@ -2,6 +2,10 @@
   "id": 874062091,
   "type": "Feature",
   "properties": {
+    "addr:full":"3740 Jourgenson Ave Casper WY 82604",
+    "addr:housenumber":"3740",
+    "addr:postcode":"82604",
+    "addr:street":"Jourgenson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":874062091,
-    "wof:lastmodified":1467090810,
+    "wof:lastmodified":1472655195,
     "wof:name":"Veterans Memorial Museum",
     "wof:parent_id":102525293,
     "wof:placetype":"venue",

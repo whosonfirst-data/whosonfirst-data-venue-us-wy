@@ -2,6 +2,10 @@
   "id": 874109301,
   "type": "Feature",
   "properties": {
+    "addr:full":"7072 Barton Dr Casper WY 82604",
+    "addr:housenumber":"7072",
+    "addr:postcode":"82604",
+    "addr:street":"Barton Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874109301,
-    "wof:lastmodified":1467090826,
+    "wof:lastmodified":1472655232,
     "wof:name":"71 Construction",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

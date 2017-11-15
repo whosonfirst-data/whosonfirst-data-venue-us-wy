@@ -2,6 +2,10 @@
   "id": 874135829,
   "type": "Feature",
   "properties": {
+    "addr:full":"129 N Elk St Casper WY 82601",
+    "addr:housenumber":"129",
+    "addr:postcode":"82601",
+    "addr:street":"N Elk St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874135829,
-    "wof:lastmodified":1467090836,
+    "wof:lastmodified":1472655249,
     "wof:name":"Willard Elementary School",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

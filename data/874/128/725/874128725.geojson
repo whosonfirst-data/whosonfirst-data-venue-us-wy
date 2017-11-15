@@ -2,6 +2,10 @@
   "id": 874128725,
   "type": "Feature",
   "properties": {
+    "addr:full":"12120 Poison Spider Rd Casper WY 82644",
+    "addr:housenumber":"",
+    "addr:postcode":"12120;82644",
+    "addr:street":"Spider Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874128725,
-    "wof:lastmodified":1467090834,
+    "wof:lastmodified":1472655236,
     "wof:name":"Mule Drilling",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

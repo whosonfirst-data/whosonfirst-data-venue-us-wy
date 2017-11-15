@@ -2,6 +2,10 @@
   "id": 874047227,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 N Ash Ave Casper WY 82601",
+    "addr:housenumber":"300",
+    "addr:postcode":"82601",
+    "addr:street":"N Ash Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874047227,
-    "wof:lastmodified":1467090805,
+    "wof:lastmodified":1472655186,
     "wof:name":"Altered Images",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

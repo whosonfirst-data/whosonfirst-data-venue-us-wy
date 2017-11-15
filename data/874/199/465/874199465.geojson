@@ -2,6 +2,10 @@
   "id": 874199465,
   "type": "Feature",
   "properties": {
+    "addr:full":"3163 Prospector Dr Casper WY 82604",
+    "addr:housenumber":"3163",
+    "addr:postcode":"82604",
+    "addr:street":"Prospector Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874199465,
-    "wof:lastmodified":1467090858,
+    "wof:lastmodified":1472655277,
     "wof:name":"Best Friends Animal Health Ctr",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

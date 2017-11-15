@@ -2,6 +2,10 @@
   "id": 874059969,
   "type": "Feature",
   "properties": {
+    "addr:full":"804 N Poplar St Casper WY 82601",
+    "addr:housenumber":"804",
+    "addr:postcode":"82601",
+    "addr:street":"N Poplar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874059969,
-    "wof:lastmodified":1467090809,
+    "wof:lastmodified":1472655215,
     "wof:name":"Ryder",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

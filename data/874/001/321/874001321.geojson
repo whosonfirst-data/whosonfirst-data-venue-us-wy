@@ -2,6 +2,10 @@
   "id": 874001321,
   "type": "Feature",
   "properties": {
+    "addr:full":"7686 W Chalk Creek Rd Casper WY 82604",
+    "addr:housenumber":"7686",
+    "addr:postcode":"82604",
+    "addr:street":"W Chalk Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874001321,
-    "wof:lastmodified":1467090792,
+    "wof:lastmodified":1472655181,
     "wof:name":"Central Wyoming Furnace Cleang",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

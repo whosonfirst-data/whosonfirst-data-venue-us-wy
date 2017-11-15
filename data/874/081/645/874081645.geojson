@@ -2,6 +2,10 @@
   "id": 874081645,
   "type": "Feature",
   "properties": {
+    "addr:full":"459 Big Horn Rd Casper WY 82601",
+    "addr:housenumber":"459",
+    "addr:postcode":"82601",
+    "addr:street":"Big Horn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874081645,
-    "wof:lastmodified":1467090816,
+    "wof:lastmodified":1472655222,
     "wof:name":"Omega Painting & Construction",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

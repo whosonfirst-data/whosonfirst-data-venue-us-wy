@@ -2,6 +2,10 @@
   "id": 874156207,
   "type": "Feature",
   "properties": {
+    "addr:full":"160 N 2nd St Laramie WY 82072",
+    "addr:housenumber":"160",
+    "addr:postcode":"82072",
+    "addr:street":"N 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":874156207,
-    "wof:lastmodified":1467090843,
+    "wof:lastmodified":1472655244,
     "wof:name":"Snowy River Quilts & Vintage",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

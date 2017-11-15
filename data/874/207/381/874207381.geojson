@@ -2,14 +2,20 @@
   "id": 874207381,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 W A St Casper WY 82601",
+    "addr:housenumber":"350",
+    "addr:postcode":"82601",
+    "addr:street":"W A St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.329212,42.851143,-106.329212,42.851143",
     "geom:latitude":42.851143,
     "geom:longitude":-106.329212,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"350 W A St",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85834153,
         102080753
     ],
+    "wof:brand_id":1125150855,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZkFAQsR4i2TfOjascWnCc_42.851143_-106.329212@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464312923,
-    "wof:geomhash":"2895b8b80597abd294d13d9bf1f61852",
+    "wof:geomhash":"d6f7dd05ab8a655bb043bb42230e0d14",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874207381,
-    "wof:lastmodified":1467090862,
+    "wof:lastmodified":1510694215,
     "wof:name":"Bankers Life & Casualty Co",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

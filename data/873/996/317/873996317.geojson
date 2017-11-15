@@ -2,6 +2,10 @@
   "id": 873996317,
   "type": "Feature",
   "properties": {
+    "addr:full":"1040 Carriage Ln Casper WY 82609",
+    "addr:housenumber":"1040",
+    "addr:postcode":"82609",
+    "addr:street":"Carriage Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873996317,
-    "wof:lastmodified":1467090790,
+    "wof:lastmodified":1472655188,
     "wof:name":"Tanglewood",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

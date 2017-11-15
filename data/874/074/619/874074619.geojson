@@ -2,6 +2,10 @@
   "id": 874074619,
   "type": "Feature",
   "properties": {
+    "addr:full":"444 S Center St Casper WY 82601",
+    "addr:housenumber":"444",
+    "addr:postcode":"82601",
+    "addr:street":"S Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874074619,
-    "wof:lastmodified":1467090814,
+    "wof:lastmodified":1472655208,
     "wof:name":"Party Animals",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

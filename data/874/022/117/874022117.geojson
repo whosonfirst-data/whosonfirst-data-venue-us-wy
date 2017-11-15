@@ -2,14 +2,20 @@
   "id": 874022117,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 Dell Range Blvd Cheyenne WY 82009",
+    "addr:housenumber":"1400",
+    "addr:postcode":"82009",
+    "addr:street":"Dell Range Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.807744,41.160403,-104.807744,41.160403",
     "geom:latitude":41.160403,
     "geom:longitude":-104.807744,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1400 Dell Range Blvd",
     "sg:city":"Cheyenne",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         101734121,
         102080769
     ],
+    "wof:brand_id":420575223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1w75BGKJaTa2VFt8Y1YiMT_41.160403_-104.807744@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464310965,
-    "wof:geomhash":"1060bf617b9f3f75f14758ca8f16f9c1",
+    "wof:geomhash":"44fbc7211094f7f15555274c6a59e1e4",
     "wof:hierarchy":[
         {
             "campus_id":102531225,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874022117,
-    "wof:lastmodified":1467090797,
+    "wof:lastmodified":1510602903,
     "wof:name":"China Wok",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

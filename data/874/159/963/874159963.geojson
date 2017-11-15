@@ -2,6 +2,10 @@
   "id": 874159963,
   "type": "Feature",
   "properties": {
+    "addr:full":"3900 Wolf Creek Rd Casper WY 82604",
+    "addr:housenumber":"3900",
+    "addr:postcode":"82604",
+    "addr:street":"Wolf Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874159963,
-    "wof:lastmodified":1467090844,
+    "wof:lastmodified":1472655259,
     "wof:name":"Dick's Bison Wrecker Svc",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874034425,
   "type": "Feature",
   "properties": {
+    "addr:full":"933 S Wolcott St Casper WY 82601",
+    "addr:housenumber":"933",
+    "addr:postcode":"82601",
+    "addr:street":"S Wolcott St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874034425,
-    "wof:lastmodified":1467090801,
+    "wof:lastmodified":1472655198,
     "wof:name":"Whatever It Takes",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

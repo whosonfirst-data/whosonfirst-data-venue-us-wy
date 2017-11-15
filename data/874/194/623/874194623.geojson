@@ -2,6 +2,10 @@
   "id": 874194623,
   "type": "Feature",
   "properties": {
+    "addr:full":"253 Sodergreen Rd Laramie WY 82070",
+    "addr:housenumber":"253",
+    "addr:postcode":"82070",
+    "addr:street":"Sodergreen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":874194623,
-    "wof:lastmodified":1467090857,
+    "wof:lastmodified":1472655277,
     "wof:name":"Bar Nunn Cattle Company",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874216055,
   "type": "Feature",
   "properties": {
+    "addr:full":"3340 Saratoga Rd Casper WY 82604",
+    "addr:housenumber":"3340",
+    "addr:postcode":"82604",
+    "addr:street":"Saratoga Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.35025,42.817849,-106.35025,42.817849",
     "geom:latitude":42.817849,
     "geom:longitude":-106.35025,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3340 Saratoga Rd",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85840457,
         102080753
     ],
+    "wof:brand_id":1125151223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ns3Mz8RF2lf4DZs7tQxqi_42.817849_-106.350250@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464313014,
-    "wof:geomhash":"e61f6f439e4dc786dc343b853d4da070",
+    "wof:geomhash":"5edf5f120f1e864716452fc70c20aef2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874216055,
-    "wof:lastmodified":1467090866,
+    "wof:lastmodified":1510697268,
     "wof:name":"Indoff Inc",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

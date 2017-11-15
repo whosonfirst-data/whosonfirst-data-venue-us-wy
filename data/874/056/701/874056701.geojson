@@ -2,14 +2,20 @@
   "id": 874056701,
   "type": "Feature",
   "properties": {
+    "addr:full":"1915 Oxford Ln Casper WY 82604",
+    "addr:housenumber":"1915",
+    "addr:postcode":"82604",
+    "addr:street":"Oxford Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.351766,42.830189,-106.351766,42.830189",
     "geom:latitude":42.830189,
     "geom:longitude":-106.351766,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1915 Oxford Ln",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85834153,
         102080753
     ],
+    "wof:brand_id":1125150187,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TlSutzObEMXmzudQGGZvf_42.830189_-106.351766@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311307,
-    "wof:geomhash":"ac19abe44636f69878fb360b31309a84",
+    "wof:geomhash":"2715f2a24c8fbbf834766c878bfdc7e1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874056701,
-    "wof:lastmodified":1467090808,
+    "wof:lastmodified":1510697300,
     "wof:name":"Lifetouch",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

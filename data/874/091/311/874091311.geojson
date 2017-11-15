@@ -2,6 +2,10 @@
   "id": 874091311,
   "type": "Feature",
   "properties": {
+    "addr:full":"2461 County Shop Rd Laramie WY 82070",
+    "addr:housenumber":"2461",
+    "addr:postcode":"82070",
+    "addr:street":"County Shop Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874091311,
-    "wof:lastmodified":1467090819,
+    "wof:lastmodified":1472655231,
     "wof:name":"South Laramie Wtr & Sewer Dst",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874184209,
   "type": "Feature",
   "properties": {
+    "addr:full":"2111 Willett Dr Laramie WY 82072",
+    "addr:housenumber":"2111",
+    "addr:postcode":"82072",
+    "addr:street":"Willett Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874184209,
-    "wof:lastmodified":1467090853,
+    "wof:lastmodified":1472655264,
     "wof:name":"American Heritage Ctr",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

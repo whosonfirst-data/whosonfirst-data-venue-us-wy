@@ -2,6 +2,10 @@
   "id": 874171535,
   "type": "Feature",
   "properties": {
+    "addr:full":"3358 Burd Rd Casper WY 82604",
+    "addr:housenumber":"3358",
+    "addr:postcode":"82604",
+    "addr:street":"Burd Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874171535,
-    "wof:lastmodified":1467090848,
+    "wof:lastmodified":1472655263,
     "wof:name":"Custom Contracting Svc Inc",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

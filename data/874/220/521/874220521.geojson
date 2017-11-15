@@ -2,6 +2,10 @@
   "id": 874220521,
   "type": "Feature",
   "properties": {
+    "addr:full":"4500 S Poplar St Casper WY 82601",
+    "addr:housenumber":"4500",
+    "addr:postcode":"82601",
+    "addr:street":"S Poplar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":874220521,
-    "wof:lastmodified":1467090868,
+    "wof:lastmodified":1472655281,
     "wof:name":"Pine Tree Condominiums",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

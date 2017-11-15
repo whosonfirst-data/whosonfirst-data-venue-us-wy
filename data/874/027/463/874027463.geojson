@@ -2,6 +2,10 @@
   "id": 874027463,
   "type": "Feature",
   "properties": {
+    "addr:full":"4460 S David St Casper WY 82601",
+    "addr:housenumber":"4460",
+    "addr:postcode":"82601",
+    "addr:street":"S David St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":874027463,
-    "wof:lastmodified":1467090799,
+    "wof:lastmodified":1472655184,
     "wof:name":"Cercy Investments Llc",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

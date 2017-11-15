@@ -2,6 +2,10 @@
   "id": 874164967,
   "type": "Feature",
   "properties": {
+    "addr:full":"2760 Fleetwood Pl Casper WY 82604",
+    "addr:housenumber":"2760",
+    "addr:postcode":"82604",
+    "addr:street":"Fleetwood Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":874164967,
-    "wof:lastmodified":1467090846,
+    "wof:lastmodified":1472655260,
     "wof:name":"Als Window & Overhead Door",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

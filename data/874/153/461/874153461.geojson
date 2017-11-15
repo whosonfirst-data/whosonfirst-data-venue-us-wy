@@ -2,6 +2,10 @@
   "id": 874153461,
   "type": "Feature",
   "properties": {
+    "addr:full":"1342 S Willow St Casper WY 82604",
+    "addr:housenumber":"1342",
+    "addr:postcode":"82604",
+    "addr:street":"S Willow St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874153461,
-    "wof:lastmodified":1467090842,
+    "wof:lastmodified":1472655254,
     "wof:name":"Daddys Concessions",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

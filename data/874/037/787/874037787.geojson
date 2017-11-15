@@ -2,14 +2,20 @@
   "id": 874037787,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 E Grand Ave Laramie WY 82070",
+    "addr:housenumber":"121",
+    "addr:postcode":"82070",
+    "addr:street":"E Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.595941,41.311239,-105.595941,41.311239",
     "geom:latitude":41.311239,
     "geom:longitude":-105.595941,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"121 E Grand Ave",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102080731,
         85897433
     ],
+    "wof:brand_id":1125150315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DGDf7hSEkFAKWik8CS2Q2_41.311239_-105.595941@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311123,
-    "wof:geomhash":"6b059bac9d99a41b66c476929b4d26bb",
+    "wof:geomhash":"17725c60c37c22cfb171616b738ab47c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874037787,
-    "wof:lastmodified":1467090802,
+    "wof:lastmodified":1510697387,
     "wof:name":"Principal Financial Group",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

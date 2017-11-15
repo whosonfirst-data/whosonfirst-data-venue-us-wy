@@ -2,6 +2,10 @@
   "id": 874111111,
   "type": "Feature",
   "properties": {
+    "addr:full":"1265 N 3rd St Laramie WY 82072",
+    "addr:housenumber":"1265",
+    "addr:postcode":"82072",
+    "addr:street":"N 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874111111,
-    "wof:lastmodified":1467090826,
+    "wof:lastmodified":1472655222,
     "wof:name":"Les' Exxon Svc",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

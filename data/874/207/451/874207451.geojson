@@ -2,6 +2,10 @@
   "id": 874207451,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 E Collins Dr Casper WY 82601",
+    "addr:housenumber":"710",
+    "addr:postcode":"82601",
+    "addr:street":"E Collins Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874207451,
-    "wof:lastmodified":1467090862,
+    "wof:lastmodified":1472655282,
     "wof:name":"Casper Saw Shop",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

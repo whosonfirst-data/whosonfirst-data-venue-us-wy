@@ -2,6 +2,10 @@
   "id": 873995093,
   "type": "Feature",
   "properties": {
+    "addr:full":"2840 E Yellowstone Hwy Casper WY 82609",
+    "addr:housenumber":"2840",
+    "addr:postcode":"82609",
+    "addr:street":"E Yellowstone Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":873995093,
-    "wof:lastmodified":1467090790,
+    "wof:lastmodified":1472655186,
     "wof:name":"Pacific Power & Light",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

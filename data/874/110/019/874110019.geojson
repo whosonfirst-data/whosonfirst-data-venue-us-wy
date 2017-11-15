@@ -2,14 +2,20 @@
   "id": 874110019,
   "type": "Feature",
   "properties": {
+    "addr:full":"656 N 4th St Laramie WY 82072",
+    "addr:housenumber":"656",
+    "addr:postcode":"82072",
+    "addr:street":"N 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.591598,41.317949,-105.591598,41.317949",
     "geom:latitude":41.317949,
     "geom:longitude":-105.591598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"656 N 4th St",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102080731,
         85897433
     ],
+    "wof:brand_id":1125158845,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kzV0ezEqADArXSMprcJHP_41.317949_-105.591598@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311920,
-    "wof:geomhash":"bf0aaf86f8af0a2f1e746a4e51365bca",
+    "wof:geomhash":"b4a5330f48975fcbb01deb3e901a7e16",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874110019,
-    "wof:lastmodified":1467090826,
+    "wof:lastmodified":1510697511,
     "wof:name":"Quality Electric",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

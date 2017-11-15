@@ -2,6 +2,10 @@
   "id": 874175257,
   "type": "Feature",
   "properties": {
+    "addr:full":"4280 S Poplar St Casper WY 82601",
+    "addr:housenumber":"4280",
+    "addr:postcode":"82601",
+    "addr:street":"S Poplar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874175257,
-    "wof:lastmodified":1467090850,
+    "wof:lastmodified":1472655268,
     "wof:name":"Casper Animal Medical Ctr",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874028537,
   "type": "Feature",
   "properties": {
+    "addr:full":"1717 E Kearney St Laramie WY 82070",
+    "addr:housenumber":"1717",
+    "addr:postcode":"82070",
+    "addr:street":"E Kearney St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":874028537,
-    "wof:lastmodified":1467090800,
+    "wof:lastmodified":1472655181,
     "wof:name":"Laramie Fire Extinguisher Svc",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

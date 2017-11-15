@@ -2,6 +2,10 @@
   "id": 874201961,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 N Jackson St Casper WY 82601",
+    "addr:housenumber":"115",
+    "addr:postcode":"82601",
+    "addr:street":"N Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874201961,
-    "wof:lastmodified":1467090859,
+    "wof:lastmodified":1472655294,
     "wof:name":"Positive Preceptions",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

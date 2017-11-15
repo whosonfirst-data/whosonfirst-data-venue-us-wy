@@ -2,6 +2,10 @@
   "id": 874226267,
   "type": "Feature",
   "properties": {
+    "addr:full":"5685 Hanly St Mills WY 82604",
+    "addr:housenumber":"",
+    "addr:postcode":"5685;82604",
+    "addr:street":"Hanly St Mills Wy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":874226267,
-    "wof:lastmodified":1467090870,
+    "wof:lastmodified":1472655279,
     "wof:name":"Blakeman Propane Inc",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

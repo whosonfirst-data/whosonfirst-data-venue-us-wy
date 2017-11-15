@@ -2,6 +2,10 @@
   "id": 874060441,
   "type": "Feature",
   "properties": {
+    "addr:full":"1208 Hilltop Dr Rock Springs WY 82901",
+    "addr:housenumber":"1208",
+    "addr:postcode":"82901",
+    "addr:street":"Hilltop Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":874060441,
-    "wof:lastmodified":1467090810,
+    "wof:lastmodified":1472655207,
     "wof:name":"HealthSouth",
     "wof:parent_id":85806363,
     "wof:placetype":"venue",

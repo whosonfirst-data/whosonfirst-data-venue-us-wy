@@ -2,6 +2,10 @@
   "id": 874047133,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Jonquil St Casper WY 82604",
+    "addr:housenumber":"110",
+    "addr:postcode":"82604",
+    "addr:street":"Jonquil St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874047133,
-    "wof:lastmodified":1467090805,
+    "wof:lastmodified":1472655184,
     "wof:name":"Kaikowski Chiropractic Clinic",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

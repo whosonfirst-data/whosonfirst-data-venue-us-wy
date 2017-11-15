@@ -2,6 +2,10 @@
   "id": 874112359,
   "type": "Feature",
   "properties": {
+    "addr:full":"190 S David St Casper WY 82601",
+    "addr:housenumber":"190",
+    "addr:postcode":"82601",
+    "addr:street":"S David St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874112359,
-    "wof:lastmodified":1467090827,
+    "wof:lastmodified":1472655240,
     "wof:name":"Wyo Central Federal Cu",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874224005,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 Dell Range Blvd Cheyenne WY 82009",
+    "addr:housenumber":"1400",
+    "addr:postcode":"82009",
+    "addr:street":"Dell Range Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":874224005,
-    "wof:lastmodified":1467090869,
+    "wof:lastmodified":1472655268,
     "wof:name":"Cinna Monster",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

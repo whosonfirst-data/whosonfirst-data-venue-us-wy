@@ -2,6 +2,10 @@
   "id": 874182957,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Jonquil St Casper WY 82604",
+    "addr:housenumber":"50",
+    "addr:postcode":"82604",
+    "addr:street":"Jonquil St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874182957,
-    "wof:lastmodified":1467090852,
+    "wof:lastmodified":1472655294,
     "wof:name":"PM Cleaning",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

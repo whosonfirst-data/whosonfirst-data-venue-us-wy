@@ -2,6 +2,10 @@
   "id": 874167353,
   "type": "Feature",
   "properties": {
+    "addr:full":"680 Boles Rd Casper WY 82604",
+    "addr:housenumber":"680",
+    "addr:postcode":"82604",
+    "addr:street":"Boles Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874167353,
-    "wof:lastmodified":1467090847,
+    "wof:lastmodified":1472655263,
     "wof:name":"R & K-Murray Drilling Svc",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

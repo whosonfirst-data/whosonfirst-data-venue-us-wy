@@ -2,6 +2,10 @@
   "id": 874050627,
   "type": "Feature",
   "properties": {
+    "addr:full":"319 S Buchanan St Laramie WY 82070",
+    "addr:housenumber":"319",
+    "addr:postcode":"82070",
+    "addr:street":"S Buchanan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":874050627,
-    "wof:lastmodified":1467090806,
+    "wof:lastmodified":1472655204,
     "wof:name":"Absolute Dsign Cstm Shlving HM",
     "wof:parent_id":85855825,
     "wof:placetype":"venue",

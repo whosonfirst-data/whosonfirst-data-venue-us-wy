@@ -2,6 +2,10 @@
   "id": 874111249,
   "type": "Feature",
   "properties": {
+    "addr:full":"1710 Cornwall St Casper WY 82609",
+    "addr:housenumber":"1710",
+    "addr:postcode":"82609",
+    "addr:street":"Cornwall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874111249,
-    "wof:lastmodified":1467090826,
+    "wof:lastmodified":1472655226,
     "wof:name":"Giese Enterprises",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

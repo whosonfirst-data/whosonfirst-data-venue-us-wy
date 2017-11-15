@@ -2,6 +2,10 @@
   "id": 874039115,
   "type": "Feature",
   "properties": {
+    "addr:full":"309 N Mc Kinley St Casper WY 82601",
+    "addr:housenumber":"309",
+    "addr:postcode":"82601",
+    "addr:street":"N Mc Kinley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874039115,
-    "wof:lastmodified":1467090803,
+    "wof:lastmodified":1472655182,
     "wof:name":"Abusers Re-Education Group",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

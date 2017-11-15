@@ -2,6 +2,10 @@
   "id": 874160839,
   "type": "Feature",
   "properties": {
+    "addr:full":"3420 E Garfield St Laramie WY 82070",
+    "addr:housenumber":"3420",
+    "addr:postcode":"82070",
+    "addr:street":"E Garfield St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":874160839,
-    "wof:lastmodified":1467090845,
+    "wof:lastmodified":1472655256,
     "wof:name":"Supersuds",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

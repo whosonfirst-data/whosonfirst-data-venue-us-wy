@@ -2,6 +2,10 @@
   "id": 874222435,
   "type": "Feature",
   "properties": {
+    "addr:full":"940 E 3rd St Casper WY 82601",
+    "addr:housenumber":"940",
+    "addr:postcode":"82601",
+    "addr:street":"E 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":874222435,
-    "wof:lastmodified":1467090868,
+    "wof:lastmodified":1472655283,
     "wof:name":"Casper Clinic",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

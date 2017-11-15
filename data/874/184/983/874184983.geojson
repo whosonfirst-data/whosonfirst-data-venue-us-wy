@@ -2,6 +2,10 @@
   "id": 874184983,
   "type": "Feature",
   "properties": {
+    "addr:full":"1607 Cy Ave Casper WY 82604",
+    "addr:housenumber":"1607",
+    "addr:postcode":"82604",
+    "addr:street":"Cy Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874184983,
-    "wof:lastmodified":1467090853,
+    "wof:lastmodified":1472655284,
     "wof:name":"Allstate Insurance",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

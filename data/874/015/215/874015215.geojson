@@ -2,6 +2,10 @@
   "id": 874015215,
   "type": "Feature",
   "properties": {
+    "addr:full":"1135 E 12th St Casper WY 82601",
+    "addr:housenumber":"1135",
+    "addr:postcode":"82601",
+    "addr:street":"E 12Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874015215,
-    "wof:lastmodified":1467090795,
+    "wof:lastmodified":1472655177,
     "wof:name":"United Pentecostal Church",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

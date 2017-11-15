@@ -2,6 +2,10 @@
   "id": 874213117,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 E McConnel St Laramie WY 82072",
+    "addr:housenumber":"122",
+    "addr:postcode":"82072",
+    "addr:street":"E Mcconnel St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":874213117,
-    "wof:lastmodified":1467090865,
+    "wof:lastmodified":1472655273,
     "wof:name":"Laramie Machine Shop",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874111141,
   "type": "Feature",
   "properties": {
+    "addr:full":"6686 Riverside Dr Casper WY 82604",
+    "addr:housenumber":"6686",
+    "addr:postcode":"82604",
+    "addr:street":"Riverside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874111141,
-    "wof:lastmodified":1467090826,
+    "wof:lastmodified":1472655223,
     "wof:name":"Towers Financial Services",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",

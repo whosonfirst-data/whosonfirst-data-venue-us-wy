@@ -2,6 +2,10 @@
   "id": 874224389,
   "type": "Feature",
   "properties": {
+    "addr:full":"1221 Manor Dr Casper WY 82609",
+    "addr:housenumber":"1221",
+    "addr:postcode":"82609",
+    "addr:street":"Manor Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874224389,
-    "wof:lastmodified":1467090869,
+    "wof:lastmodified":1472655287,
     "wof:name":"Floyd Barry",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

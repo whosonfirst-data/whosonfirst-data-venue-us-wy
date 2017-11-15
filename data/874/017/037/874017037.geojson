@@ -2,6 +2,10 @@
   "id": 874017037,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 N Higley Blvd Rawlins WY 82301",
+    "addr:housenumber":"600",
+    "addr:postcode":"82301",
+    "addr:street":"N Higley Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":874017037,
-    "wof:lastmodified":1467090796,
+    "wof:lastmodified":1472655176,
     "wof:name":"Daniel T Massey PC",
     "wof:parent_id":102528131,
     "wof:placetype":"venue",

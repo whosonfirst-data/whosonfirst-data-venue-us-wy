@@ -2,6 +2,10 @@
   "id": 874186723,
   "type": "Feature",
   "properties": {
+    "addr:full":"4984 N 3rd St Laramie WY 82072",
+    "addr:housenumber":"4984",
+    "addr:postcode":"82072",
+    "addr:street":"N 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":874186723,
-    "wof:lastmodified":1467090854,
+    "wof:lastmodified":1472655271,
     "wof:name":"A/C Electric Supply Co",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",
