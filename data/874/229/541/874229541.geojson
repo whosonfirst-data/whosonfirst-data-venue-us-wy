@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.271385,42.848805,-106.271385,42.848805",
     "geom:latitude":42.848805,
     "geom:longitude":-106.271385,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4281 E 2nd St",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -42,11 +44,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":292205289,
         "sg:id":"SG_2oWCpZdHpEBxAVNPgKNfap_42.848805_-106.271385@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464313156,
-    "wof:geomhash":"87970bc0beed72a4aa6cf3e31b369b52",
+    "wof:geomhash":"68004b182ea57f9e2ed72fa2f4dc5f4b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":874229541,
-    "wof:lastmodified":1472655287,
+    "wof:lastmodified":1510942639,
     "wof:name":"Wendy's",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-109.208075,41.591068,-109.208075,41.591068",
     "geom:latitude":41.591068,
     "geom:longitude":-109.208075,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1375 James Dr",
     "sg:city":"Rock Springs",
     "sg:classifiers":[
@@ -39,11 +41,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":355082791,
         "sg:id":"SG_3gLpqu4pcasrOTgZZpDkDl_41.591068_-109.208075@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311599,
-    "wof:geomhash":"a44d09eb1b981443e1f18f9cd928f635",
+    "wof:geomhash":"31b60113388bc0d650b48195602e5b80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":874084043,
-    "wof:lastmodified":1472655216,
+    "wof:lastmodified":1510942369,
     "wof:name":"Rock Springs High School",
     "wof:parent_id":85806363,
     "wof:placetype":"venue",

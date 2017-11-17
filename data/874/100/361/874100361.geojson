@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-110.955296,41.248141,-110.955296,41.248141",
     "geom:latitude":41.248141,
     "geom:longitude":-110.955296,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"350 City View Dr",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1464311799,
-    "wof:geomhash":"5967d16c1cf9fc82aef55d7bd540a7d7",
+    "wof:geomhash":"3858d5f47619371c58b43e7e074ddcaf",
     "wof:hierarchy":[],
     "wof:id":874100361,
-    "wof:lastmodified":1472655225,
+    "wof:lastmodified":1510942962,
     "wof:name":"Uinta County Human Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857355725
+    ],
     "wof:tags":[
         "county",
         "resource"

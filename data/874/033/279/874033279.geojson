@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-109.246806,41.574732,-109.246806,41.574732",
     "geom:latitude":41.574732,
     "geom:longitude":-109.246806,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1471 Dewar Dr",
     "sg:city":"Rock Springs",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464311078,
-    "wof:geomhash":"7f173a122108856b7a4c159c29a8297c",
+    "wof:geomhash":"038963dae7ce6451d3b9c0f0e7aec020",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":874033279,
-    "wof:lastmodified":1472655190,
+    "wof:lastmodified":1510941677,
     "wof:name":"Western Wyming RC D Cunsel Inc",
     "wof:parent_id":85806363,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823924439
+    ],
     "wof:tags":[
         "development",
         "community"

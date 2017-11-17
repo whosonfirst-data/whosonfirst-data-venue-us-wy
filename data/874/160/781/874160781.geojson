@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.595037,41.310165,-105.595037,41.310165",
     "geom:latitude":41.310165,
     "geom:longitude":-105.595037,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"401 S 2nd St",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -37,11 +39,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":238528914,
         "sg:id":"SG_25HriHWZZhTa4sp95BPkO6_41.310165_-105.595037@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464312440,
-    "wof:geomhash":"b35ef749127ae67beec388dc4829111f",
+    "wof:geomhash":"8ff111747a6d02f0b60d3ecf8baa277c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":874160781,
-    "wof:lastmodified":1472655257,
+    "wof:lastmodified":1510943764,
     "wof:name":"Dodds Shoe Co",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

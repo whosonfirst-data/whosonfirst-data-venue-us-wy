@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.575083,41.305187,-105.575083,41.305187",
     "geom:latitude":41.305187,
     "geom:longitude":-105.575083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"811 S 17th St",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -37,11 +39,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":225867994,
         "sg:id":"SG_451JYXxhYQxXnURYppQLf4_41.305187_-105.575083@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464312331,
-    "wof:geomhash":"260e9a07cd0c847fd32516a362528f1a",
+    "wof:geomhash":"6cf2b0511704754c8bd9c86872ec7327",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":874150347,
-    "wof:lastmodified":1472655239,
+    "wof:lastmodified":1510941607,
     "wof:name":"Beitel Elementary School",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

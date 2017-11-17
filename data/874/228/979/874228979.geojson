@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-107.211488,41.792599,-107.211488,41.792599",
     "geom:latitude":41.792599,
     "geom:longitude":-107.211488,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2225 E Cedar St",
     "sg:city":"Rawlins",
     "sg:classifiers":[
@@ -42,11 +44,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":233276580,
         "sg:id":"SG_5idZFTdrCxua10ZxGUGnjB_41.792599_-107.211488@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464313151,
-    "wof:geomhash":"6883464deb9e90516d9bd34d24874ff7",
+    "wof:geomhash":"257a121fcb18c4ef4c5b8bb68f45cb90",
     "wof:hierarchy":[
         {
             "campus_id":102528131,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":874228979,
-    "wof:lastmodified":1472655296,
+    "wof:lastmodified":1510942973,
     "wof:name":"McDonald's",
     "wof:parent_id":102528131,
     "wof:placetype":"venue",

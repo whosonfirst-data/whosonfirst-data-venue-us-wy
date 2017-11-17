@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-109.246806,41.574732,-109.246806,41.574732",
     "geom:latitude":41.574732,
     "geom:longitude":-109.246806,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1471 Dewar Dr",
     "sg:city":"Rock Springs",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312476,
-    "wof:geomhash":"7f173a122108856b7a4c159c29a8297c",
+    "wof:geomhash":"038963dae7ce6451d3b9c0f0e7aec020",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":874164695,
-    "wof:lastmodified":1472655259,
+    "wof:lastmodified":1510943565,
     "wof:name":"Rocky Veco Mountain Inc",
     "wof:parent_id":85806363,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823825627
+    ],
     "wof:tags":[
         "engineer"
     ]

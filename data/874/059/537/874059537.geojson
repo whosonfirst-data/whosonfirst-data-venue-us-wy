@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.25969,42.84776,-106.25969,42.84776",
     "geom:latitude":42.84776,
     "geom:longitude":-106.25969,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4900 E 2nd St",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -37,11 +39,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":370113549,
         "sg:id":"SG_7j00NmPTOqEZ9FkjVkpn0J_42.847760_-106.259690@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311331,
-    "wof:geomhash":"46b7672212b237b8142c95705cc0a8cd",
+    "wof:geomhash":"7ebb833c172c13bfcb0151c0429fc20e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":874059537,
-    "wof:lastmodified":1472655204,
+    "wof:lastmodified":1510941630,
     "wof:name":"Home Depot",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

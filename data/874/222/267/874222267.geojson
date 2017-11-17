@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.580733,41.321465,-105.580733,41.321465",
     "geom:latitude":41.321465,
     "geom:longitude":-105.580733,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1212 E Baker St",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -37,11 +39,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":317930703,
         "sg:id":"SG_721GogOwpiRjf3jPa87No6_41.321465_-105.580733@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464313086,
-    "wof:geomhash":"517d87082c91d72e16b1be7acaf774ee",
+    "wof:geomhash":"0e5bd8c15cb1109da187d680adc2251e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":874222267,
-    "wof:lastmodified":1472655277,
+    "wof:lastmodified":1510943613,
     "wof:name":"Slade Elementary School",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

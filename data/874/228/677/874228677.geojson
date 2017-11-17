@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.796208,41.160242,-104.796208,41.160242",
     "geom:latitude":41.160242,
     "geom:longitude":-104.796208,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1923 Dell Range Blvd",
     "sg:city":"Cheyenne",
     "sg:classifiers":[
@@ -43,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":236513679,
         "sg:id":"SG_501zDduQG43gG29FaAC54D_41.160242_-104.796208@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464313148,
-    "wof:geomhash":"5761b33cc2098ae4d471abbf66fa7b36",
+    "wof:geomhash":"c92ec368a42ea7d4c5fe4b2b49153652",
     "wof:hierarchy":[
         {
             "campus_id":102531225,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":874228677,
-    "wof:lastmodified":1472655292,
+    "wof:lastmodified":1510942262,
     "wof:name":"Red Lobster",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

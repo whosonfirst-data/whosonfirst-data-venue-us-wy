@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.59611,41.311224,-105.59611,41.311224",
     "geom:latitude":41.311224,
     "geom:longitude":-105.59611,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"207 S 1st St",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -37,11 +39,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":238572346,
         "sg:id":"SG_0HdsyNilmjMYJY2Vae504h_41.311224_-105.596110@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464310879,
-    "wof:geomhash":"102ecbd344440d48c1088d1da613f538",
+    "wof:geomhash":"ed508b38c314b6d76c2101c4421431d3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":874013365,
-    "wof:lastmodified":1472655177,
+    "wof:lastmodified":1510944100,
     "wof:name":"Pedal House",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

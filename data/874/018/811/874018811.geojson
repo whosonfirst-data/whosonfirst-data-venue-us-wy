@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.5871,41.310571,-105.5871,41.310571",
     "geom:latitude":41.310571,
     "geom:longitude":-105.5871,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"310 S 8th St",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -40,11 +42,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":401647677,
         "sg:id":"SG_6zrTwC79hejZsPQObrOG5T_41.310571_-105.587100@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464310935,
-    "wof:geomhash":"906738f9c5c456ed9e99a06fea5a5340",
+    "wof:geomhash":"e9dfa24c151a02bf9c6ad3fef8e4d34f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":874018811,
-    "wof:lastmodified":1472655203,
+    "wof:lastmodified":1510941165,
     "wof:name":"Albany County Public Library",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

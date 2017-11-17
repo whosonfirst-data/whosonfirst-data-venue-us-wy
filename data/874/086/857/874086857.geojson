@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.595929,41.312029,-105.595929,41.312029",
     "geom:latitude":41.312029,
     "geom:longitude":-105.595929,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"114 E Ivinson Ave",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -40,11 +42,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3934151647,
         "sg:id":"SG_3NQCoPQAzIwerg2x0t2DGR_41.312029_-105.595929@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311629,
-    "wof:geomhash":"9731aa0c5562f4dcc14fe2eaa030d619",
+    "wof:geomhash":"ffadc97309746f52050693d502f637e8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":874086857,
-    "wof:lastmodified":1472655242,
+    "wof:lastmodified":1510942520,
     "wof:name":"Buckhorn Bar",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.29305,42.835339,-106.29305,42.835339",
     "geom:latitude":42.835339,
     "geom:longitude":-106.29305,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2521 E 15th St",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -41,11 +43,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":32945434,
         "sg:id":"SG_08IIOxOwO5xpIz6SajA4ip_42.835339_-106.293050@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464312064,
-    "wof:geomhash":"d823b5cc69fcc633c5d67772de7b5388",
+    "wof:geomhash":"1dc7784d32eebada347f13db7524acc8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":874122581,
-    "wof:lastmodified":1472655249,
+    "wof:lastmodified":1510943447,
     "wof:name":"Wyoming Behavioral Institute",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

@@ -7,13 +7,16 @@
     "addr:postcode":"82009",
     "addr:street":"Dell Range Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.76501,41.160149,-104.76501,41.160149",
     "geom:latitude":41.160149,
     "geom:longitude":-104.76501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3410 Dell Range Blvd",
     "sg:city":"Cheyenne",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1464310738,
-    "wof:geomhash":"cb893ea68eea8d9ea90938f51afdeb3c",
+    "wof:geomhash":"585a3b2899125a9d915f495fdc40599f",
     "wof:hierarchy":[],
     "wof:id":873996829,
-    "wof:lastmodified":1472655200,
+    "wof:lastmodified":1510943243,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874228737
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fast"

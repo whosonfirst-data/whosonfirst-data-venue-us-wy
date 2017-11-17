@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.582776,41.302905,-105.582776,41.302905",
     "geom:latitude":41.302905,
     "geom:longitude":-105.582776,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1203 Russell St",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -38,11 +40,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":225868164,
         "sg:id":"SG_0z44m2tTsWukEAExc0UCBE_41.302905_-105.582776@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311307,
-    "wof:geomhash":"459a7cf877bc7bdc1e97e8789f62882d",
+    "wof:geomhash":"1f7c57af40ad42f7377d34d856b5f4de",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":874056757,
-    "wof:lastmodified":1472655215,
+    "wof:lastmodified":1510941614,
     "wof:name":"Spring Creek Elementary School",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

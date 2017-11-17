@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.593705,41.310929,-105.593705,41.310929",
     "geom:latitude":41.310929,
     "geom:longitude":-105.593705,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"312 S 3rd St",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -37,11 +39,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":238636766,
         "sg:id":"SG_3vfwimO20Vh7lb3vQr0Am8_41.310929_-105.593705@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311293,
-    "wof:geomhash":"0ec6c8d92b941363b975ba8dc6fa41f7",
+    "wof:geomhash":"1a679967a3f6158e6a89408084060028",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":874055137,
-    "wof:lastmodified":1472655181,
+    "wof:lastmodified":1510941398,
     "wof:name":"Killian Florist",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

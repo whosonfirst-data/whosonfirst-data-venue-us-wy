@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-109.21905,41.585678,-109.21905,41.585678",
     "geom:latitude":41.585678,
     "geom:longitude":-109.21905,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"212 D St",
     "sg:city":"Rock Springs",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1464311942,
-    "wof:geomhash":"0b7631b8bb07af464ae0e2c943e11c6f",
+    "wof:geomhash":"b6ea648ff8eaeed2c67cbc47d06a0755",
     "wof:hierarchy":[],
     "wof:id":874111083,
-    "wof:lastmodified":1472655221,
+    "wof:lastmodified":1510943821,
     "wof:name":"Rock Springs Municipal Utility",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        839969741
+    ],
     "wof:tags":[
         "public"
     ]

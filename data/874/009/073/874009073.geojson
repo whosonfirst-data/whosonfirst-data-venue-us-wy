@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-109.231009,41.584679,-109.231009,41.584679",
     "geom:latitude":41.584679,
     "geom:longitude":-109.231009,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1204 Hilltop Dr",
     "sg:city":"Rock Springs",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1464310849,
-    "wof:geomhash":"7681c34e8e00994e7d18f500841fe123",
+    "wof:geomhash":"7605b89a16b656c02bca30ad7e227b3f",
     "wof:hierarchy":[],
     "wof:id":874009073,
-    "wof:lastmodified":1472655175,
+    "wof:lastmodified":1510943598,
     "wof:name":"Tan Lo-Fu MD PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824057321
+    ],
     "wof:tags":[
         "medical"
     ]

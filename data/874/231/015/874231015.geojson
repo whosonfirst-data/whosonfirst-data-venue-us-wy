@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.270885,42.847895,-106.270885,42.847895",
     "geom:latitude":42.847895,
     "geom:longitude":-106.270885,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"350 SE Wyoming Blvd",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -41,11 +43,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":292205290,
         "sg:id":"SG_0PeZd8Y16HDQKgEb6yQKdP_42.847382_-106.270562@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464313174,
-    "wof:geomhash":"d7bb2d36ecfdab24cc27dd9a7e48f288",
+    "wof:geomhash":"3643dc33e6bb9d88e201239384b04b8f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":874231015,
-    "wof:lastmodified":1472655270,
+    "wof:lastmodified":1510942640,
     "wof:name":"Village Inn",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

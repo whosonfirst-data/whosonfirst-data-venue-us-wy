@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.270803,42.851386,-106.270803,42.851386",
     "geom:latitude":42.851386,
     "geom:longitude":-106.270803,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"86 SE Wyoming Blvd",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -40,11 +42,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2707715783,
         "sg:id":"SG_7Mcu2hVPp6pau5HOmlmHsd_42.851386_-106.270803@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464313157,
-    "wof:geomhash":"2c8bcb7f8bf2484148c3cafb6c45d845",
+    "wof:geomhash":"c51ceb7f1d5cc94548d36dccf3cd5afc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":874229633,
-    "wof:lastmodified":1472655290,
+    "wof:lastmodified":1510943065,
     "wof:name":"Taco Bell",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",
