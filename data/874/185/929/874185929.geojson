@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.669654,41.280142,-105.669654,41.280142",
     "geom:latitude":41.280142,
     "geom:longitude":-105.669654,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"306 State Hwy 230",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -42,13 +44,14 @@
         102080731,
         85855825
     ],
+    "wof:brand_id":1125150967,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AewDGtTXvuHUWMgkTQ84Z_41.280142_-105.669654@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464312699,
-    "wof:geomhash":"d42f30db0b5fd740147367ade45cf0a8",
+    "wof:geomhash":"6419dd1eec018e68032103ee8735cb4b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":874185929,
-    "wof:lastmodified":1472655283,
+    "wof:lastmodified":1510875282,
     "wof:name":"AmeriGas",
     "wof:parent_id":85855825,
     "wof:placetype":"venue",

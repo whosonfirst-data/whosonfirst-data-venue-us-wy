@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.566724,41.309505,-105.566724,41.309505",
     "geom:latitude":41.309505,
     "geom:longitude":-105.566724,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2114 E Grand Ave",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -40,13 +42,14 @@
         102080731,
         85897433
     ],
+    "wof:brand_id":1125148877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GPsnWh2HXNcfbNkfp5FCE_41.309505_-105.566724@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464313149,
-    "wof:geomhash":"00a32e770658ea0794502083dc3f0484",
+    "wof:geomhash":"b227a8861c9ba4b5d70d66b241ccd0fe",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":874228787,
-    "wof:lastmodified":1472655293,
+    "wof:lastmodified":1510874686,
     "wof:name":"Taco John's",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

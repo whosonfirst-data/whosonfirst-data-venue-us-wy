@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.807249,41.160252,-104.807249,41.160252",
     "geom:latitude":41.160252,
     "geom:longitude":-104.807249,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1239 Dell Range Blvd",
     "sg:city":"Cheyenne",
     "sg:classifiers":[
@@ -41,13 +43,14 @@
         101734121,
         102080769
     ],
+    "wof:brand_id":1125148981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72SOQO4Oqq6qK6saiqjkCC_41.160252_-104.807249@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464313146,
-    "wof:geomhash":"914baa1336c47b57612081521548bec0",
+    "wof:geomhash":"0c2307f596681c5b6b10dc8ac3e2fdd0",
     "wof:hierarchy":[
         {
             "campus_id":102531225,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":874228553,
-    "wof:lastmodified":1472655289,
+    "wof:lastmodified":1510874817,
     "wof:name":"Culver's",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

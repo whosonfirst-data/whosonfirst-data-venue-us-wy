@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.299825,42.854071,-106.299825,42.854071",
     "geom:latitude":42.854071,
     "geom:longitude":-106.299825,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1968 E Yellowstone Hwy",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -37,13 +39,14 @@
         85834153,
         102080753
     ],
+    "wof:brand_id":1125162197,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sad54UO827roWatEdRGMJ_42.854071_-106.299825@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464312047,
-    "wof:geomhash":"51a9c72095497a90544bf70b2fcc7e4e",
+    "wof:geomhash":"1e67f146d6435d0d4b0e35dc00b4fd0f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":874120631,
-    "wof:lastmodified":1472655250,
+    "wof:lastmodified":1510874917,
     "wof:name":"Convenience Plus",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

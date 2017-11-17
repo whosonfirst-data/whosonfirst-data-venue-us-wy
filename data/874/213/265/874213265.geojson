@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.404272,42.843126,-106.404272,42.843126",
     "geom:latitude":42.843126,
     "geom:longitude":-106.404272,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5981 Poison Spider Rd",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -38,13 +40,14 @@
         85840457,
         102080753
     ],
+    "wof:brand_id":1125161651,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gyNHlsbQIsBy8AvtSkiBU_42.843126_-106.404272@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464312987,
-    "wof:geomhash":"75c4a53eda8a71967a9612f217c45cd2",
+    "wof:geomhash":"41be5333eba7b357b958bbcf8649bd89",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":874213265,
-    "wof:lastmodified":1472655277,
+    "wof:lastmodified":1510877547,
     "wof:name":"US Department of the Navy",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",
