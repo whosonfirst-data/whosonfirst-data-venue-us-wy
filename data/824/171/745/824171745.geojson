@@ -1,0 +1,86 @@
+{
+  "id": 824171745,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"731 C St Rock Springs CO 82901",
+    "addr:housenumber":"731",
+    "addr:postcode":"82901",
+    "addr:street":"C St",
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.215585,41.580506,-109.215585,41.580506",
+    "geom:latitude":41.580506,
+    "geom:longitude":-109.215585,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sg:address":"731 C St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 872 6311",
+    "sg:postcode":"82901",
+    "sg:province":"CO",
+    "sg:tags":[
+        "county",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CvFmygN1kKyPwwNl5Xy7T_41.580506_-109.215585@1294083659"
+    },
+    "wof:country":"US",
+    "wof:created":1463456753,
+    "wof:geomhash":"600b8b27eafdfaa8b2fd69963b74e512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "region_id":85688475,
+            "venue_id":824171745
+        }
+    ],
+    "wof:id":824171745,
+    "wof:lastmodified":1510812455,
+    "wof:name":"Sweetwater County Attorney",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-co",
+    "wof:superseded_by":[
+        874182623
+    ],
+    "wof:supersedes":[
+        824171745
+    ],
+    "wof:tags":[
+        "county",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -109.215585,
+    41.580506,
+    -109.215585,
+    41.580506
+],
+  "geometry": {"coordinates":[-109.215585,41.580506],"type":"Point"}
+}

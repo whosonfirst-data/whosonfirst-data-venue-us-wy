@@ -1,0 +1,67 @@
+{
+  "id": 857130833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-110.955296,41.248141,-110.955296,41.248141",
+    "geom:latitude":41.248141,
+    "geom:longitude":-110.955296,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sg:address":"350 City View Dr",
+    "sg:city":"Evanston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 789 2766",
+    "sg:postcode":"82930",
+    "sg:province":"UT",
+    "sg:tags":[
+        "rehabilitation",
+        "vocational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ksSpPiSKo6dRkaJP4Xiog_41.248141_-110.955296@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122697,
+    "wof:geomhash":"3858d5f47619371c58b43e7e074ddcaf",
+    "wof:hierarchy":[],
+    "wof:id":857130833,
+    "wof:lastmodified":1510813733,
+    "wof:name":"Employment Wyoming Department",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
+    "wof:superseded_by":[
+        874166515
+    ],
+    "wof:supersedes":[
+        857130833
+    ],
+    "wof:tags":[
+        "rehabilitation",
+        "vocational"
+    ]
+},
+  "bbox": [
+    -110.955296,
+    41.248141,
+    -110.955296,
+    41.248141
+],
+  "geometry": {"coordinates":[-110.955296,41.248141],"type":"Point"}
+}

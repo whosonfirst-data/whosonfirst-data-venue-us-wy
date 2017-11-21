@@ -1,0 +1,84 @@
+{
+  "id": 823604315,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"212 D St Rock Springs CO 82901",
+    "addr:housenumber":"212",
+    "addr:postcode":"82901",
+    "addr:street":"D St",
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.21905,41.585678,-109.21905,41.585678",
+    "geom:latitude":41.585678,
+    "geom:longitude":-109.21905,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sg:address":"212 D St",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 352 1527",
+    "sg:postcode":"82901",
+    "sg:province":"CO",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kcy9SrCoq0XdbtkndXHu7_41.585678_-109.219050@1294083659"
+    },
+    "wof:country":"US",
+    "wof:created":1463442004,
+    "wof:geomhash":"b6ea648ff8eaeed2c67cbc47d06a0755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "region_id":85688475,
+            "venue_id":823604315
+        }
+    ],
+    "wof:id":823604315,
+    "wof:lastmodified":1510812591,
+    "wof:name":"Rock Springs Sewer Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-co",
+    "wof:superseded_by":[
+        874092117
+    ],
+    "wof:supersedes":[
+        823604315
+    ],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -109.21905,
+    41.585678,
+    -109.21905,
+    41.585678
+],
+  "geometry": {"coordinates":[-109.21905,41.585678],"type":"Point"}
+}

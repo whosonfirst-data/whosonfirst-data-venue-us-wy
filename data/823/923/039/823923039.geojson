@@ -1,0 +1,80 @@
+{
+  "id": 823923039,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2441 Foothill Blvd Rock Springs CO 82901",
+    "addr:housenumber":"2441",
+    "addr:postcode":"82901",
+    "addr:street":"Foothill Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.263879,41.579256,-109.263879,41.579256",
+    "geom:latitude":41.579256,
+    "geom:longitude":-109.263879,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sg:address":"2441 Foothill Blvd",
+    "sg:city":"Rock Springs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 307 382 6440",
+    "sg:postcode":"82901",
+    "sg:province":"CO",
+    "sg:website":"www.maurices.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734005,
+        102081155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wyN1xBjOSfUPm271dq8CM_41.579256_-109.263879@1294083659"
+    },
+    "wof:country":"US",
+    "wof:created":1463450079,
+    "wof:geomhash":"3a9263ea24b3da4daa8473b9f36a9b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081155,
+            "locality_id":101734005,
+            "region_id":85688475,
+            "venue_id":823923039
+        }
+    ],
+    "wof:id":823923039,
+    "wof:lastmodified":1510814037,
+    "wof:name":"Maurice's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-co",
+    "wof:superseded_by":[
+        874130903
+    ],
+    "wof:supersedes":[
+        823923039
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.263879,
+    41.579256,
+    -109.263879,
+    41.579256
+],
+  "geometry": {"coordinates":[-109.263879,41.579256],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 186497085,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"89 N Main St Driggs ID 83422",
+    "addr:housenumber":"89",
+    "addr:postcode":"83422",
+    "addr:street":"N Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.110995,43.723974,-111.110995,43.723974",
+    "geom:latitude":43.723974,
+    "geom:longitude":-111.110995,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sg:address":"89 N Main St",
+    "sg:city":"Driggs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 354 2961",
+    "sg:postcode":"83422",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937899,
+        102086021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6p4pmZkNCN8QQm1HGzMC6V_43.723974_-111.110995@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"787b7990c6f9509d40b321e1f3bfcbed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086021,
+            "locality_id":85937899,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186497085
+        }
+    ],
+    "wof:id":186497085,
+    "wof:lastmodified":1510813693,
+    "wof:name":"Teton County Extension Agent",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
+    "wof:superseded_by":[
+        874102573
+    ],
+    "wof:supersedes":[
+        186497085
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.110995,
+    43.723974,
+    -111.110995,
+    43.723974
+],
+  "geometry": {"coordinates":[-111.110995,43.723974],"type":"Point"}
+}
