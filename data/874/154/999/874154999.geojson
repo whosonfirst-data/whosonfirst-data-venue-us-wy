@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.326694,42.851021,-106.326694,42.851021",
     "geom:latitude":42.851021,
     "geom:longitude":-106.326694,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 N David St",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -37,13 +39,14 @@
         85834153,
         102080753
     ],
+    "wof:brand_id":1125150409,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06wT90LAmOfa21fvdi1mRh_42.851021_-106.326694@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464312377,
-    "wof:geomhash":"8c2328b17b95347f03e5257cf911761c",
+    "wof:geomhash":"0dcf3a020abe6cafd8e21dac592bbb8c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":874154999,
-    "wof:lastmodified":1472655258,
+    "wof:lastmodified":1511318568,
     "wof:name":"Crime Stoppers",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

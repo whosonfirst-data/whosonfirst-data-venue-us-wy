@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.594724,41.300146,-105.594724,41.300146",
     "geom:latitude":41.300146,
     "geom:longitude":-105.594724,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1507 S 3rd St",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -39,13 +41,14 @@
         102080731,
         85897433
     ],
+    "wof:brand_id":420574043,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AlN1PBd69SRQxHRIefhwn_41.300146_-105.594724@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311349,
-    "wof:geomhash":"b7d428b572477791063bf39898bff9c4",
+    "wof:geomhash":"4eb535817f49316a8305c2784a809dce",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":874061517,
-    "wof:lastmodified":1472655211,
+    "wof:lastmodified":1511324634,
     "wof:name":"Chevron",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

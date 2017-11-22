@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.330715,42.857506,-106.330715,42.857506",
     "geom:latitude":42.857506,
     "geom:longitude":-106.330715,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 W F St",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -34,13 +36,14 @@
         85834153,
         102080753
     ],
+    "wof:brand_id":420574255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tmw8GSTw4qcULmtlONzNA_42.857506_-106.330715@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311047,
-    "wof:geomhash":"60be17cafd52c84c7909932461cfcbac",
+    "wof:geomhash":"85b42613a1ce67a698a790a64332eeb3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":874029849,
-    "wof:lastmodified":1472655204,
+    "wof:lastmodified":1511328395,
     "wof:name":"Hampton Inn",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

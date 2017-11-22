@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-109.231442,41.584381,-109.231442,41.584381",
     "geom:latitude":41.584381,
     "geom:longitude":-109.231442,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1208 Hilltop Dr",
     "sg:city":"Rock Springs",
     "sg:classifiers":[
@@ -41,13 +43,14 @@
         102081155,
         85806363
     ],
+    "wof:brand_id":420574701,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3psLNO7lOmrELoN8RA0Uvp_41.584381_-109.231442@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311339,
-    "wof:geomhash":"d84e95ab89c0bbe4450f43bb6b6757e3",
+    "wof:geomhash":"b26594b7517b346f9c3c07fc8c95b85c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":874060441,
-    "wof:lastmodified":1472655207,
+    "wof:lastmodified":1511324350,
     "wof:name":"HealthSouth",
     "wof:parent_id":85806363,
     "wof:placetype":"venue",

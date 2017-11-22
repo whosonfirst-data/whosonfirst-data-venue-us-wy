@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.802555,41.160366,-104.802555,41.160366",
     "geom:latitude":41.160366,
     "geom:longitude":-104.802555,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1708 Dell Range Blvd",
     "sg:city":"Cheyenne",
     "sg:classifiers":[
@@ -36,13 +38,14 @@
         101734121,
         102080769
     ],
+    "wof:brand_id":420574115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tNTrbXz3KVBoWH7UgJlWl_41.160366_-104.802555@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311759,
-    "wof:geomhash":"20e978faa093bee524b5f96ddeebed79",
+    "wof:geomhash":"c868b1ba7f86424a8afc2de754491ae1",
     "wof:hierarchy":[
         {
             "campus_id":102531225,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":874098185,
-    "wof:lastmodified":1472655219,
+    "wof:lastmodified":1511323423,
     "wof:name":"Target",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

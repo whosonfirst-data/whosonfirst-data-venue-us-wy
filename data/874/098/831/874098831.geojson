@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.593708,41.310871,-105.593708,41.310871",
     "geom:latitude":41.310871,
     "geom:longitude":-105.593708,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"318 S 3rd St",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -35,13 +37,14 @@
         102080731,
         85897433
     ],
+    "wof:brand_id":420573773,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hfgXxCCvzjoeWhQ7Bbiq2_41.310871_-105.593708@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311769,
-    "wof:geomhash":"2954135d26bef77c26ba40cf087ab68a",
+    "wof:geomhash":"fc9f43d3e2d4d8d985a384c50e6a9ad0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":874098831,
-    "wof:lastmodified":1472655226,
+    "wof:lastmodified":1511320612,
     "wof:name":"Radio Shack",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.27763,43.409718,-106.27763,43.409718",
     "geom:latitude":43.409718,
     "geom:longitude":-106.27763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"132 Stock St",
     "sg:city":"Midwest",
     "sg:classifiers":[
@@ -34,13 +36,14 @@
         85834153,
         102080753
     ],
+    "wof:brand_id":420573749,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Fxm7uGz9VsTaizC7lqLjC_43.409718_-106.277630@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464312077,
-    "wof:geomhash":"53b7c916babee7e856f66bd1c0c564f3",
+    "wof:geomhash":"abf5e61f048e0391cba4b189b0a29408",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":874123995,
-    "wof:lastmodified":1472655259,
+    "wof:lastmodified":1511320755,
     "wof:name":"US Post Office",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

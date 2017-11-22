@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-109.245721,41.574548,-109.245721,41.574548",
     "geom:latitude":41.574548,
     "geom:longitude":-109.245721,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1899 Dewar Dr",
     "sg:city":"Rock Springs",
     "sg:classifiers":[
@@ -41,13 +43,14 @@
         102081155,
         85806363
     ],
+    "wof:brand_id":420574151,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4THQDcRSsyG1HtZbmCDiaR_41.574548_-109.245721@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464313160,
-    "wof:geomhash":"b944721efc93ba8095d7d256d8ed43de",
+    "wof:geomhash":"bc535bb1902a9e397da972dcb48b2384",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":874230041,
-    "wof:lastmodified":1472655270,
+    "wof:lastmodified":1511323457,
     "wof:name":"Arby's",
     "wof:parent_id":85806363,
     "wof:placetype":"venue",

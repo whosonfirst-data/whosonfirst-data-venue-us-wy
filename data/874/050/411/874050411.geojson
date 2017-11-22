@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.576869,41.319625,-105.576869,41.319625",
     "geom:latitude":41.319625,
     "geom:longitude":-105.576869,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1517 E Canby St",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -38,13 +40,14 @@
         102080731,
         85897433
     ],
+    "wof:brand_id":420573781,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RTuJes08k03UjSfBNr8hy_41.319625_-105.576869@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311245,
-    "wof:geomhash":"b576a4bdb604a6af542038aff79511df",
+    "wof:geomhash":"451582f99ed33f92fcf4fd69a42c1b76",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":874050411,
-    "wof:lastmodified":1472655195,
+    "wof:lastmodified":1511321295,
     "wof:name":"First Baptist Church",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

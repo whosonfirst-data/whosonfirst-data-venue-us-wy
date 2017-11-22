@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.593027,41.316954,-105.593027,41.316954",
     "geom:latitude":41.316954,
     "geom:longitude":-105.593027,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"568 N 3rd St",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -40,13 +42,14 @@
         102080731,
         85897433
     ],
+    "wof:brand_id":420574061,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gZzmZpwddtLOh3joQPO3w_41.316954_-105.593027@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464312215,
-    "wof:geomhash":"9f936355c0c71b10b6b482f609b9a253",
+    "wof:geomhash":"e494d0a637792ef1858f1d1243ded7a2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":874137805,
-    "wof:lastmodified":1472655255,
+    "wof:lastmodified":1511323135,
     "wof:name":"US Bank",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

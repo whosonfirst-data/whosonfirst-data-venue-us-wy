@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.247233,43.412461,-106.247233,43.412461",
     "geom:latitude":43.412461,
     "geom:longitude":-106.247233,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"309 S 2nd St",
     "sg:city":"Edgerton",
     "sg:classifiers":[
@@ -38,13 +40,14 @@
         85834153,
         102080753
     ],
+    "wof:brand_id":420573749,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BcubBcOTkGQFbPPv4ZHwy_43.412461_-106.247233@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464312336,
-    "wof:geomhash":"54f31cdd905b93adb0546f5c29dd1203",
+    "wof:geomhash":"9e0e467abe57af95cf2faf349c896e05",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":874150851,
-    "wof:lastmodified":1472655249,
+    "wof:lastmodified":1511320686,
     "wof:name":"US Post Office",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

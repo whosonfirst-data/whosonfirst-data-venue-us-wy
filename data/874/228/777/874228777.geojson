@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.556399,41.308937,-105.556399,41.308937",
     "geom:latitude":41.308937,
     "geom:longitude":-105.556399,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3112 E Grand Ave",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -39,13 +41,14 @@
         102080731,
         85897433
     ],
+    "wof:brand_id":420574001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JIeZvzv6nrKsoZuDe8bZY_41.308937_-105.556399@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464313149,
-    "wof:geomhash":"9eec1c06d7add74a30759fe99c928ac3",
+    "wof:geomhash":"d06d095d71056b53f070a327e05055d1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":874228777,
-    "wof:lastmodified":1472655293,
+    "wof:lastmodified":1511324339,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

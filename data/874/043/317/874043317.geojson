@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.807057,41.160239,-104.807057,41.160239",
     "geom:latitude":41.160239,
     "geom:longitude":-104.807057,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1345 Dell Range Blvd",
     "sg:city":"Cheyenne",
     "sg:classifiers":[
@@ -36,13 +38,14 @@
         101734121,
         102080769
     ],
+    "wof:brand_id":1125149521,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xarguOVxWtdFCmYLZ7rjW_41.160239_-104.807057@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311179,
-    "wof:geomhash":"89a4242a53adc085bc0a9f1f68967f0e",
+    "wof:geomhash":"708776e02c72410402cd24bf89ae52b9",
     "wof:hierarchy":[
         {
             "campus_id":102531225,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":874043317,
-    "wof:lastmodified":1472655180,
+    "wof:lastmodified":1511320572,
     "wof:name":"Pier 1",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

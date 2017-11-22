@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.588379,41.309684,-105.588379,41.309684",
     "geom:latitude":41.309684,
     "geom:longitude":-105.588379,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"710 E Garfield St",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -39,13 +41,14 @@
         102080731,
         85897433
     ],
+    "wof:brand_id":420574367,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ElGr7Db7fyS5H5UA7OtNL_41.309684_-105.588379@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311657,
-    "wof:geomhash":"c14f77446162207e1e1f4d34856fd3d6",
+    "wof:geomhash":"c33bedc6f78fc5418e34fb11d2836d76",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":874089677,
-    "wof:lastmodified":1472655224,
+    "wof:lastmodified":1511323627,
     "wof:name":"United Way",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

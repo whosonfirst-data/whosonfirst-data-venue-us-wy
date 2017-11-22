@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.557473,41.30904,-105.557473,41.30904",
     "geom:latitude":41.30904,
     "geom:longitude":-105.557473,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3000 E Grand Ave",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -39,13 +41,14 @@
         102080731,
         85897433
     ],
+    "wof:brand_id":420573961,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wG8IYAAl9lNWxWE0tc7fH_41.309052_-105.557511@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464313170,
-    "wof:geomhash":"9567d131423884b828d03ea8ee11eeee",
+    "wof:geomhash":"b5b25e1caaa6c832e6b559c7eb23c4f7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":874230567,
-    "wof:lastmodified":1472655284,
+    "wof:lastmodified":1511321557,
     "wof:name":"McDonald's",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

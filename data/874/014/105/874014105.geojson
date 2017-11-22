@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.322285,42.84623,-106.322285,42.84623",
     "geom:latitude":42.84623,
     "geom:longitude":-106.322285,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"451 S Durbin St",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -37,13 +39,14 @@
         85834153,
         102080753
     ],
+    "wof:brand_id":420573981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nnaofuMvKkP6UowTWltPq_42.846230_-106.322285@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464310884,
-    "wof:geomhash":"dfe761307077f221bb5b7120fd9c9e9a",
+    "wof:geomhash":"d40c79d5be8862fffe0d2dde97bde4ca",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":874014105,
-    "wof:lastmodified":1472655182,
+    "wof:lastmodified":1511322950,
     "wof:name":"AT&T",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

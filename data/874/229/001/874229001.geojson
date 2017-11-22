@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-107.211547,41.79261,-107.211547,41.79261",
     "geom:latitude":41.79261,
     "geom:longitude":-107.211547,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2221 E Cedar St",
     "sg:city":"Rawlins",
     "sg:classifiers":[
@@ -41,13 +43,14 @@
         101734107,
         102081173
     ],
+    "wof:brand_id":420573791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uZCv4tDyfMynUurfgG2rc_41.792610_-107.211547@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464313151,
-    "wof:geomhash":"9f6b7c98a3f5d4f7dd786a48116534f9",
+    "wof:geomhash":"46ae071fc57651ca18f0d899ab6de2f1",
     "wof:hierarchy":[
         {
             "campus_id":102528131,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":874229001,
-    "wof:lastmodified":1472655269,
+    "wof:lastmodified":1511322280,
     "wof:name":"Subway",
     "wof:parent_id":102528131,
     "wof:placetype":"venue",

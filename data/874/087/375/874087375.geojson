@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.618238,41.30891,-105.618238,41.30891",
     "geom:latitude":41.30891,
     "geom:longitude":-105.618238,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1666 Snowy Range Rd",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -38,13 +40,14 @@
         102080731,
         85855825
     ],
+    "wof:brand_id":420573827,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sgsiMdpvhc8YqRLnUX5Pw_41.308910_-105.618238@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311635,
-    "wof:geomhash":"cba80a9431a2b8c907e45e8c0ff03280",
+    "wof:geomhash":"9a771f3fb97da77652c6d6479de72c2c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":874087375,
-    "wof:lastmodified":1472655230,
+    "wof:lastmodified":1511322970,
     "wof:name":"McDonalds",
     "wof:parent_id":85855825,
     "wof:placetype":"venue",

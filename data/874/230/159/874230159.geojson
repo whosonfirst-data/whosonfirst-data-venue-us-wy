@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-109.249565,41.57917,-109.249565,41.57917",
     "geom:latitude":41.57917,
     "geom:longitude":-109.249565,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 Gateway Blvd",
     "sg:city":"Rock Springs",
     "sg:classifiers":[
@@ -41,13 +43,14 @@
         102081155,
         85806363
     ],
+    "wof:brand_id":420573791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xyzWr0wBUQ1N58zxoKbdb_41.579170_-109.249565@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464313161,
-    "wof:geomhash":"b8c6a5d3fc8a30862ef7d30daa65a246",
+    "wof:geomhash":"cba0d0b0782a54659e48f7b97ead4c97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":874230159,
-    "wof:lastmodified":1472655278,
+    "wof:lastmodified":1511322260,
     "wof:name":"Subway",
     "wof:parent_id":85806363,
     "wof:placetype":"venue",

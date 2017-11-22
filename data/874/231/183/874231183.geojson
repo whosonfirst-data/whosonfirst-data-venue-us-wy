@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-109.247151,41.578626,-109.247151,41.578626",
     "geom:latitude":41.578626,
     "geom:longitude":-109.247151,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2005 Churchill",
     "sg:city":"Rock Springs",
     "sg:classifiers":[
@@ -41,13 +43,14 @@
         102081155,
         85806363
     ],
+    "wof:brand_id":420573787,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2y58mYySd1HwlRZGSekij0_41.578714_-109.247157@1294083659"
     },
     "wof:country":"US",
     "wof:created":1464313176,
-    "wof:geomhash":"8d21d243f0114f4f20a3c2c5739c50d0",
+    "wof:geomhash":"3e480e3c40613deb48a6b2b286f16345",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":874231183,
-    "wof:lastmodified":1472655276,
+    "wof:lastmodified":1511321148,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85806363,
     "wof:placetype":"venue",

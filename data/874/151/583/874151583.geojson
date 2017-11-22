@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.592339,41.309913,-105.592339,41.309913",
     "geom:latitude":41.309913,
     "geom:longitude":-105.592339,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"411 S 4th St",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -35,13 +37,14 @@
         102080731,
         85897433
     ],
+    "wof:brand_id":420573751,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pXseO3jOx5xt8j5oQVR4Y_41.309913_-105.592339@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464312343,
-    "wof:geomhash":"39fb1972176d6908e1f20c9c9e841e26",
+    "wof:geomhash":"5eec558b7fb21e0011f8265b4c61d3f4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":874151583,
-    "wof:lastmodified":1472655239,
+    "wof:lastmodified":1511320985,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

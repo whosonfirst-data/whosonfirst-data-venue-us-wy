@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.804617,41.159262,-104.804617,41.159262",
     "geom:latitude":41.159262,
     "geom:longitude":-104.804617,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1439 Stillwater Ave",
     "sg:city":"Cheyenne",
     "sg:classifiers":[
@@ -40,13 +42,14 @@
         101734121,
         102080769
     ],
+    "wof:brand_id":1125155699,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wVrc3aXMM6vgcCuQwJLv7_41.159262_-104.804617@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464312905,
-    "wof:geomhash":"98101ff8c0d34898dd060d72135ac3c0",
+    "wof:geomhash":"86803ba20bf15ce86f46c9916ab2cf05",
     "wof:hierarchy":[
         {
             "campus_id":102531225,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":874206139,
-    "wof:lastmodified":1472655272,
+    "wof:lastmodified":1511318457,
     "wof:name":"US Coast Guard",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",

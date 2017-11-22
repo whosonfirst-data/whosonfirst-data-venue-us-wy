@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.276957,42.854852,-106.276957,42.854852",
     "geom:latitude":42.854852,
     "geom:longitude":-106.276957,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"407 N Walsh Dr",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -37,13 +39,14 @@
         85834153,
         102080753
     ],
+    "wof:brand_id":1125156689,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mvbvoxUhke1OygxbA4YO4_42.854852_-106.276957@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464312473,
-    "wof:geomhash":"c3c70dbffd08c3ef79277165068c3062",
+    "wof:geomhash":"c66b34e276bfcc779c7eb406b4c60f86",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":874164425,
-    "wof:lastmodified":1472655250,
+    "wof:lastmodified":1511317290,
     "wof:name":"ARC",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",

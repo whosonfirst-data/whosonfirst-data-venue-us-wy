@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.566472,41.308541,-105.566472,41.308541",
     "geom:latitude":41.308541,
     "geom:longitude":-105.566472,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2142 E Garfield St",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -35,13 +37,14 @@
         102080731,
         85897433
     ],
+    "wof:brand_id":1125160035,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4a0H07lMCSs8fuxAq5Hjda_41.308541_-105.566472@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311517,
-    "wof:geomhash":"1aa3c7c3ec261f9871aac1c6a68b4a41",
+    "wof:geomhash":"786d6457e00e338b6ece5b8b734d8184",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":874076653,
-    "wof:lastmodified":1472655222,
+    "wof:lastmodified":1511317932,
     "wof:name":"VFW",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",

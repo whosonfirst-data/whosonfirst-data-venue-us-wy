@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-107.214517,41.79378,-107.214517,41.79378",
     "geom:latitude":41.79378,
     "geom:longitude":-107.214517,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"502 N Higley Blvd",
     "sg:city":"Rawlins",
     "sg:classifiers":[
@@ -39,13 +41,14 @@
         101734107,
         102081173
     ],
+    "wof:brand_id":1125154021,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cNK5q9ieRBggbBIHQbMNq_41.793780_-107.214517@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464310877,
-    "wof:geomhash":"72cfb75ba8614581ab72c9d2cb8cdc48",
+    "wof:geomhash":"e508f73ced6e2b51f76ccba8d4beec4a",
     "wof:hierarchy":[
         {
             "campus_id":102528131,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":874013063,
-    "wof:lastmodified":1472655176,
+    "wof:lastmodified":1511317968,
     "wof:name":"ALCO",
     "wof:parent_id":102528131,
     "wof:placetype":"venue",
