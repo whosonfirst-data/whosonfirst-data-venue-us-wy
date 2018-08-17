@@ -14,6 +14,7 @@
     "geom:longitude":-104.807744,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1400 Dell Range Blvd",
     "sg:city":"Cheyenne",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312446,
-    "wof:geomhash":"1060bf617b9f3f75f14758ca8f16f9c1",
+    "wof:geomhash":"44fbc7211094f7f15555274c6a59e1e4",
     "wof:hierarchy":[
         {
             "campus_id":102531225,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":874161479,
-    "wof:lastmodified":1472655257,
+    "wof:lastmodified":1534535372,
     "wof:name":"JC Penney Corporation Inc",
     "wof:parent_id":102531225,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874154381
+    ],
     "wof:tags":[
         "shop"
     ]

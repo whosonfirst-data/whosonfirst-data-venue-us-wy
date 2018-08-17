@@ -14,6 +14,7 @@
     "geom:longitude":-108.729907,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"755 Hwy 14A",
     "sg:city":"Powell",
     "sg:classifiers":[
@@ -39,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1464312907,
-    "wof:geomhash":"219287e7581786ae714cf996ca7e8baf",
+    "wof:geomhash":"c1966518dfb397a16e2e7e11690b3b1f",
     "wof:hierarchy":[],
     "wof:id":874206265,
-    "wof:lastmodified":1472655277,
+    "wof:lastmodified":1534535373,
     "wof:name":"Garland Light & Power Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874128661
+    ],
     "wof:tags":[
         "distribution",
         "power"

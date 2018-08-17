@@ -14,6 +14,7 @@
     "geom:longitude":-106.325625,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"123 W 1st St",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -40,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1464311098,
-    "wof:geomhash":"cec38f8dbb30d707beec4a6905825e0f",
+    "wof:geomhash":"706d6b98921012741ae38da1f275ec26",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,13 +52,15 @@
         }
     ],
     "wof:id":874035431,
-    "wof:lastmodified":1472655190,
+    "wof:lastmodified":1534535371,
     "wof:name":"Douglas Hendricks",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874157483
+    ],
     "wof:tags":[]
 },
   "bbox": [

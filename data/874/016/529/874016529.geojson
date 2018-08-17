@@ -14,6 +14,7 @@
     "geom:longitude":-108.733452,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"453 Main St",
     "sg:city":"Lander",
     "sg:classifiers":[
@@ -38,16 +39,18 @@
     },
     "wof:country":"US",
     "wof:created":1464310903,
-    "wof:geomhash":"d24bbb460f6ec61bc4aa714112de8394",
+    "wof:geomhash":"6fb12c805ea354c013f6d615fa9c4e17",
     "wof:hierarchy":[],
     "wof:id":874016529,
-    "wof:lastmodified":1472655190,
+    "wof:lastmodified":1534535370,
     "wof:name":"El Sol De Mexico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874186883
+    ],
     "wof:tags":[
         "eating"
     ]

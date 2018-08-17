@@ -7,6 +7,7 @@
     "addr:postcode":"wy 82520",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.730158,42.832798,-108.730158,42.832798",
@@ -14,6 +15,7 @@
     "geom:longitude":-108.730158,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"259 Main St",
     "sg:city":"Lander",
     "sg:classifiers":[
@@ -40,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1464312961,
-    "wof:geomhash":"7ebd5c4061f6d2cabf1bb5e7e6a4d41f",
+    "wof:geomhash":"cbcf146b41116bd6bb394316dedd2d9c",
     "wof:hierarchy":[],
     "wof:id":874210893,
-    "wof:lastmodified":1472655287,
+    "wof:lastmodified":1534535373,
     "wof:name":"Custom Printing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874218899
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "stationery",

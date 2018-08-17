@@ -7,6 +7,7 @@
     "addr:postcode":"wy 82520",
     "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.746329,42.842522,-108.746329,42.842522",
@@ -14,6 +15,7 @@
     "geom:longitude":-108.746329,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"637 W Main St",
     "sg:city":"Lander",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1464312700,
-    "wof:geomhash":"6ee2f8134753e17b467f6a53d448c0c2",
+    "wof:geomhash":"bf922cb9520dd1c16138e88ec93e2528",
     "wof:hierarchy":[],
     "wof:id":874185935,
-    "wof:lastmodified":1472655283,
+    "wof:lastmodified":1534535372,
     "wof:name":"Quilting Bee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874058549
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "quilting"

@@ -14,6 +14,7 @@
     "geom:longitude":-108.731264,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"333 Main St",
     "sg:city":"Lander",
     "sg:classifiers":[
@@ -42,16 +43,18 @@
     },
     "wof:country":"US",
     "wof:created":1464312284,
-    "wof:geomhash":"fdcad07e1d746b572e39c2e2e294a407",
+    "wof:geomhash":"d2df9c8e9597b591542e8e4a868627c6",
     "wof:hierarchy":[],
     "wof:id":874145423,
-    "wof:lastmodified":1472655239,
+    "wof:lastmodified":1534535371,
     "wof:name":"Iris Wild Mountain Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874223189
+    ],
     "wof:tags":[
         "apparel",
         "equipment",

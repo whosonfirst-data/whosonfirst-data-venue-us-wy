@@ -14,6 +14,7 @@
     "geom:longitude":-108.744945,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"455 W Main St",
     "sg:city":"Lander",
     "sg:classifiers":[
@@ -38,16 +39,18 @@
     },
     "wof:country":"US",
     "wof:created":1464312012,
-    "wof:geomhash":"1f7275623c44c704b48c50032562155e",
+    "wof:geomhash":"cadd28968eba293ddf919e791d87c9fa",
     "wof:hierarchy":[],
     "wof:id":874117615,
-    "wof:lastmodified":1472655251,
+    "wof:lastmodified":1534535372,
     "wof:name":"Birite Wine & Liquors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874073275
+    ],
     "wof:tags":[
         "wine"
     ]

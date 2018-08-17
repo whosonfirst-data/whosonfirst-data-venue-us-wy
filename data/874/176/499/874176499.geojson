@@ -14,6 +14,7 @@
     "geom:longitude":-108.744868,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"285 W Main St",
     "sg:city":"Lander",
     "sg:classifiers":[
@@ -39,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1464312592,
-    "wof:geomhash":"65a18a7362174bf500bb5b330d62ecf0",
+    "wof:geomhash":"bb0dd5c096ebe0acec7cc9a34eae9430",
     "wof:hierarchy":[],
     "wof:id":874176499,
-    "wof:lastmodified":1472655276,
+    "wof:lastmodified":1534535373,
     "wof:name":"Noble Travel Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874098305
+    ],
     "wof:tags":[
         "agency",
         "bureau"

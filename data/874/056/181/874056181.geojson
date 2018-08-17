@@ -14,6 +14,7 @@
     "geom:longitude":-104.819239,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2020 Carey Ave",
     "sg:city":"Cheyenne",
     "sg:classifiers":[
@@ -35,16 +36,18 @@
     },
     "wof:country":"US",
     "wof:created":1464311302,
-    "wof:geomhash":"8fdeab8dfc2e7ed744abdb2b5ebd11d2",
+    "wof:geomhash":"cbd149992e27ff92b25c56ab7cfae5d1",
     "wof:hierarchy":[],
     "wof:id":874056181,
-    "wof:lastmodified":1472655195,
+    "wof:lastmodified":1534535371,
     "wof:name":"Administrative Hearing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874211173
+    ],
     "wof:tags":[]
 },
   "bbox": [

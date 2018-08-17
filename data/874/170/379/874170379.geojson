@@ -7,6 +7,7 @@
     "addr:postcode":"82716",
     "addr:street":"Camel Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-105.489967,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"806 Camel Dr",
     "sg:city":"Gillette",
     "sg:classifiers":[
@@ -44,12 +45,14 @@
     "wof:geomhash":"ff0853a9923d22acf512fa50b644ec12",
     "wof:hierarchy":[],
     "wof:id":874170379,
-    "wof:lastmodified":1512143021,
+    "wof:lastmodified":1534535373,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874229803
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

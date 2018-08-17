@@ -2,18 +2,24 @@
   "id": 873995879,
   "type": "Feature",
   "properties": {
-    "addr:full":"4001 Fort Caspar Rd Casper WY 82604",
+    "addr:city":"Casper",
+    "addr:full":"4001 Fort Caspar Road Casper, Wy 82604",
+    "addr:house_number":"4001",
     "addr:housenumber":"4001",
+    "addr:phone":"+1 307-235-8462",
     "addr:postcode":"82604",
+    "addr:road":"Fort Caspar Road",
+    "addr:state":"WY",
     "addr:street":"Fort Caspar Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-106.369183,42.836263,-106.369183,42.836263",
-    "geom:latitude":42.836263,
-    "geom:longitude":-106.369183,
+    "geom:bbox":"-106.36707,42.83638,-106.36707,42.83638",
+    "geom:latitude":42.83638,
+    "geom:longitude":-106.36707,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4001 Fort Caspar Rd",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -28,20 +34,24 @@
     "sg:postcode":"82604",
     "sg:province":"WY",
     "sg:website":"www.fortcasparwyoming.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525293
+    ],
     "wof:belongsto":[
-        85688475,
+        102080753,
         85633793,
-        85840457,
-        102080753
+        85688475,
+        85840457
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405600038,
         "sg:id":"SG_3fclrldPLpcFJYgBl61eUc_42.836263_-106.369183@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464310732,
-    "wof:geomhash":"0285bed4b4456aca112e57f14cd118ae",
+    "wof:geomhash":"ff5154145c08f75e66556e910dd12cc1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":873995879,
-    "wof:lastmodified":1472655214,
+    "wof:lastmodified":1534535373,
     "wof:name":"Fort Caspar Museum",
     "wof:parent_id":85840457,
     "wof:placetype":"venue",
@@ -62,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -106.369183,
-    42.836263,
-    -106.369183,
-    42.836263
+    -106.36707,
+    42.83638,
+    -106.36707,
+    42.83638
 ],
-  "geometry": {"coordinates":[-106.36918300000001,42.836263],"type":"Point"}
+  "geometry": {"coordinates":[-106.36707,42.83638],"type":"Point"}
 }

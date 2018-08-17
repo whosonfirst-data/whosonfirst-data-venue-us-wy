@@ -14,6 +14,7 @@
     "geom:longitude":-109.107732,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"324 W Yellowstone Ave",
     "sg:city":"Cody",
     "sg:classifiers":[
@@ -38,16 +39,18 @@
     },
     "wof:country":"US",
     "wof:created":1464311141,
-    "wof:geomhash":"bb96467438abf2fd5c8a2ba111c97c7d",
+    "wof:geomhash":"8149ba81294c051c96aed25bebfa9c9e",
     "wof:hierarchy":[],
     "wof:id":874039809,
-    "wof:lastmodified":1472655206,
+    "wof:lastmodified":1534535371,
     "wof:name":"Wyoming Sprinkiler LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874039777
+    ],
     "wof:tags":[
         "sprinkler"
     ]

@@ -14,6 +14,7 @@
     "geom:longitude":-108.745939,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"654 W Main St",
     "sg:city":"Lander",
     "sg:classifiers":[
@@ -35,16 +36,18 @@
     },
     "wof:country":"US",
     "wof:created":1464312981,
-    "wof:geomhash":"c6f149077af7c674e674eeecbc7acb1d",
+    "wof:geomhash":"d01ab6a2e86f954d06c0cebbbbfa23b6",
     "wof:hierarchy":[],
     "wof:id":874212695,
-    "wof:lastmodified":1472655292,
+    "wof:lastmodified":1534535373,
     "wof:name":"Special Arrangements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874156345
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -45,13 +45,15 @@
     "wof:geomhash":"d0cc554e83d05d8b6a0688a4b2eafcf6",
     "wof:hierarchy":[],
     "wof:id":874211191,
-    "wof:lastmodified":1510694931,
+    "wof:lastmodified":1534535373,
     "wof:name":"County Treasurer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874004891
+    ],
     "wof:tags":[
         "county",
         "taxation"

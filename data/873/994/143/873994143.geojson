@@ -7,6 +7,7 @@
     "addr:postcode":"82009",
     "addr:street":"Yellowstone Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-104.828578,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"6101 Yellowstone Rd",
     "sg:city":"Cheyenne",
     "sg:classifiers":[
@@ -46,12 +47,14 @@
     "wof:geomhash":"9ad99558f87be99c4d67d6333cc5b26d",
     "wof:hierarchy":[],
     "wof:id":873994143,
-    "wof:lastmodified":1511323626,
+    "wof:lastmodified":1534535373,
     "wof:name":"United Way",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874217663
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "organization",

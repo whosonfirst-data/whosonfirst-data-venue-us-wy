@@ -14,6 +14,7 @@
     "geom:longitude":-108.744727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"232 W Main St",
     "sg:city":"Lander",
     "sg:classifiers":[
@@ -38,16 +39,18 @@
     },
     "wof:country":"US",
     "wof:created":1464312168,
-    "wof:geomhash":"c8f50d5cf508272092d188975ef6203b",
+    "wof:geomhash":"42e3090860b1eda1a4ba876a0c170fda",
     "wof:hierarchy":[],
     "wof:id":874132543,
-    "wof:lastmodified":1472655235,
+    "wof:lastmodified":1534535370,
     "wof:name":"Wear Agains",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874155107
+    ],
     "wof:tags":[
         "clothing"
     ]

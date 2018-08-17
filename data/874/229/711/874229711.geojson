@@ -45,13 +45,15 @@
     "wof:geomhash":"8110ff23df88f99590fbd4b9a674b275",
     "wof:hierarchy":[],
     "wof:id":874229711,
-    "wof:lastmodified":1512142927,
+    "wof:lastmodified":1534535373,
     "wof:name":"McDonald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874216285
+    ],
     "wof:tags":[
         "burger",
         "american"

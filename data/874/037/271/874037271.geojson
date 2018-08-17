@@ -2,18 +2,24 @@
   "id": 874037271,
   "type": "Feature",
   "properties": {
-    "addr:full":"125 College Dr Casper WY 82601",
+    "addr:city":"Casper",
+    "addr:full":"125 College Dr Casper, Wy 82601",
+    "addr:house_number":"125",
     "addr:housenumber":"125",
+    "addr:phone":"+1 307-268-2100",
     "addr:postcode":"82601",
+    "addr:road":"College Dr",
+    "addr:state":"WY",
     "addr:street":"College Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-106.326532,42.833992,-106.326532,42.833992",
-    "geom:latitude":42.833992,
-    "geom:longitude":-106.326532,
+    "geom:bbox":"-106.32363,42.83399,-106.32363,42.83399",
+    "geom:latitude":42.83399,
+    "geom:longitude":-106.32363,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"125 College Dr",
     "sg:city":"Casper",
     "sg:classifiers":[
@@ -28,20 +34,24 @@
     "sg:postcode":"82601",
     "sg:province":"WY",
     "sg:website":"www.caspercollege.edu",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525293
+    ],
     "wof:belongsto":[
-        85688475,
+        102080753,
         85633793,
-        85834153,
-        102080753
+        85688475,
+        85834153
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409503317,
         "sg:id":"SG_4cLfDpbPOSbJvT0AxZYtkE_42.833992_-106.326532@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311119,
-    "wof:geomhash":"74f79073843c2e6d76171a1b9a0aa8a2",
+    "wof:geomhash":"854213fbc2a43644ee8b07b4686ec0d6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,8 +62,8 @@
         }
     ],
     "wof:id":874037271,
-    "wof:lastmodified":1472655191,
-    "wof:name":"Goodstein Foundation Library",
+    "wof:lastmodified":1534535371,
+    "wof:name":"Goodstein Art Gallery",
     "wof:parent_id":85834153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
@@ -62,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -106.326532,
-    42.833992,
-    -106.326532,
-    42.833992
+    -106.32363,
+    42.83399,
+    -106.32363,
+    42.83399
 ],
-  "geometry": {"coordinates":[-106.326532,42.833992],"type":"Point"}
+  "geometry": {"coordinates":[-106.32362999999999,42.83399],"type":"Point"}
 }

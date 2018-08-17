@@ -2,18 +2,23 @@
   "id": 874048495,
   "type": "Feature",
   "properties": {
-    "addr:full":"700 E Park Ave Riverton WY 82501",
+    "addr:city":"Riverton",
+    "addr:full":"700 East Park Avenue Riverton, Wy 82501",
+    "addr:house_number":"700",
     "addr:housenumber":"700",
     "addr:postcode":"82501",
+    "addr:road":"East Park Avenue",
+    "addr:state":"WY",
     "addr:street":"E Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-108.382009,43.026789,-108.382009,43.026789",
-    "geom:latitude":43.026789,
-    "geom:longitude":-108.382009,
+    "geom:bbox":"-108.38143,43.02708,-108.38143,43.02708",
+    "geom:latitude":43.02708,
+    "geom:longitude":-108.38143,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"700 E Park Ave",
     "sg:city":"Riverton",
     "sg:classifiers":[
@@ -30,19 +35,23 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530443
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405600063,
         "sg:id":"SG_4VbUXf19tCvRAu14uWRnfM_43.026789_-108.382009@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311228,
-    "wof:geomhash":"b7371813e16f528cf826a6b58248e938",
+    "wof:geomhash":"8429ca0f8d3193ee2240cb49b093b2d6",
     "wof:hierarchy":[],
     "wof:id":874048495,
-    "wof:lastmodified":1472655189,
-    "wof:name":"Riverton Museum",
+    "wof:lastmodified":1534535371,
+    "wof:name":"Riverton Museum Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
@@ -53,10 +62,10 @@
     ]
 },
   "bbox": [
-    -108.382009,
-    43.026789,
-    -108.382009,
-    43.026789
+    -108.38143,
+    43.02708,
+    -108.38143,
+    43.02708
 ],
-  "geometry": {"coordinates":[-108.382009,43.026789],"type":"Point"}
+  "geometry": {"coordinates":[-108.38142999999999,43.02708],"type":"Point"}
 }

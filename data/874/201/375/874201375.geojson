@@ -7,6 +7,7 @@
     "addr:postcode":"wy 82520",
     "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.744891,42.839327,-108.744891,42.839327",
@@ -14,6 +15,7 @@
     "geom:longitude":-108.744891,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"405 W Main St",
     "sg:city":"Lander",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1464312857,
-    "wof:geomhash":"891673679c678e42af4c83846b012543",
+    "wof:geomhash":"114bdabeea115826b801baf13871e612",
     "wof:hierarchy":[],
     "wof:id":874201375,
-    "wof:lastmodified":1472655272,
+    "wof:lastmodified":1534535373,
     "wof:name":"Melody Liquors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874211029
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

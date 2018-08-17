@@ -14,6 +14,7 @@
     "geom:longitude":-108.744886,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"155 W Main St",
     "sg:city":"Lander",
     "sg:classifiers":[
@@ -35,16 +36,18 @@
     },
     "wof:country":"US",
     "wof:created":1464312647,
-    "wof:geomhash":"929dc229ca640b7ca29aaac18a49311f",
+    "wof:geomhash":"934112325e9fdad3b91aceafc7c8f1c8",
     "wof:hierarchy":[],
     "wof:id":874181549,
-    "wof:lastmodified":1472655284,
+    "wof:lastmodified":1534535372,
     "wof:name":"Good Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874009913
+    ],
     "wof:tags":[]
 },
   "bbox": [

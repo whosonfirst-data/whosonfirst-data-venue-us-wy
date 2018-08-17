@@ -7,6 +7,7 @@
     "addr:postcode":"wy 82520",
     "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.744946,42.839673,-108.744946,42.839673",
@@ -14,6 +15,7 @@
     "geom:longitude":-108.744946,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"453 W Main St",
     "sg:city":"Lander",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1464312708,
-    "wof:geomhash":"76d2369a48c5825d824f9258ead73e99",
+    "wof:geomhash":"5a715eda5fe97e004bddc934cb8e3c93",
     "wof:hierarchy":[],
     "wof:id":874186883,
-    "wof:lastmodified":1472655276,
+    "wof:lastmodified":1534535370,
     "wof:name":"El Sol De Mexico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874016529
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

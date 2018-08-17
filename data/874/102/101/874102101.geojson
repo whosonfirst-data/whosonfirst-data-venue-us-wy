@@ -7,6 +7,7 @@
     "addr:postcode":"82901",
     "addr:street":"Foothill Blvd;Springs Wy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-109.263879,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2441 Foothill Blvd",
     "sg:city":"Rock Springs",
     "sg:classifiers":[
@@ -44,12 +45,14 @@
     "wof:geomhash":"3a9263ea24b3da4daa8473b9f36a9b45",
     "wof:hierarchy":[],
     "wof:id":874102101,
-    "wof:lastmodified":1511327661,
+    "wof:lastmodified":1534535373,
     "wof:name":"Claires",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874221825
+    ],
     "wof:supersedes":[
         823819451
     ],

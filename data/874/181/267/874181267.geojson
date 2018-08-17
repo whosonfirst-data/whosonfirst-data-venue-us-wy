@@ -14,6 +14,7 @@
     "geom:longitude":-108.734189,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"423 Main St",
     "sg:city":"Lander",
     "sg:classifiers":[
@@ -38,16 +39,18 @@
     },
     "wof:country":"US",
     "wof:created":1464312644,
-    "wof:geomhash":"c16fb7a5fbaa518fdebb81c9d53a5170",
+    "wof:geomhash":"5efb6f170a1d27d653b2b42aba959880",
     "wof:hierarchy":[],
     "wof:id":874181267,
-    "wof:lastmodified":1472655271,
+    "wof:lastmodified":1534535372,
     "wof:name":"Rhoads Jewelry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874036987
+    ],
     "wof:tags":[
         "mfg"
     ]

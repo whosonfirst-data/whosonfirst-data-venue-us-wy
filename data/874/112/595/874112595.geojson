@@ -2,18 +2,24 @@
   "id": 874112595,
   "type": "Feature",
   "properties": {
-    "addr:full":"300 E 21st St Cheyenne WY 82001",
+    "addr:city":"Cheyenne",
+    "addr:full":"300 E 21St St Cheyenne, Wy 82001",
+    "addr:house_number":"300",
     "addr:housenumber":"300",
+    "addr:phone":"+1 307-777-7878",
     "addr:postcode":"82001",
+    "addr:road":"E 21St St",
+    "addr:state":"WY",
     "addr:street":"E 21St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-104.813665,41.138829,-104.813665,41.138829",
-    "geom:latitude":41.138829,
-    "geom:longitude":-104.813665,
+    "geom:bbox":"-104.81466,41.13856,-104.81466,41.13856",
+    "geom:latitude":41.13856,
+    "geom:longitude":-104.81466,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"300 E 21st St",
     "sg:city":"Cheyenne",
     "sg:classifiers":[
@@ -30,19 +36,23 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531225
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405600032,
         "sg:id":"SG_52mBcIe8wjR0WEAtaDkatY_41.138829_-104.813665@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464311963,
-    "wof:geomhash":"ac498adbcdbde8090288ab42efda18dc",
+    "wof:geomhash":"c66edbf92b19a9cab93e62b9cd445fe2",
     "wof:hierarchy":[],
     "wof:id":874112595,
-    "wof:lastmodified":1472655252,
-    "wof:name":"Historical Governor's Mansion",
+    "wof:lastmodified":1534535373,
+    "wof:name":"Historic Governors' Mansion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
@@ -53,10 +63,10 @@
     ]
 },
   "bbox": [
-    -104.813665,
-    41.138829,
-    -104.813665,
-    41.138829
+    -104.81466,
+    41.13856,
+    -104.81466,
+    41.13856
 ],
-  "geometry": {"coordinates":[-104.813665,41.138829],"type":"Point"}
+  "geometry": {"coordinates":[-104.81466,41.13856],"type":"Point"}
 }

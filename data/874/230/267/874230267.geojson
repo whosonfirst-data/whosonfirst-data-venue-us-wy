@@ -7,6 +7,7 @@
     "addr:postcode":"82935",
     "addr:street":"E 4Th South St Green River Wy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-109.467464,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"599 E 4th South St",
     "sg:city":"Green River",
     "sg:classifiers":[
@@ -45,12 +46,14 @@
     "wof:geomhash":"b7cb986099cf9495c45d8abea31dc560",
     "wof:hierarchy":[],
     "wof:id":874230267,
-    "wof:lastmodified":1511321595,
+    "wof:lastmodified":1534535372,
     "wof:name":"McDonald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874064833
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

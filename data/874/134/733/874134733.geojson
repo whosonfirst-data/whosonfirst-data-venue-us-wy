@@ -45,13 +45,15 @@
     "wof:geomhash":"b23bd8559f6fcba7eaf2cca2a1b3823b",
     "wof:hierarchy":[],
     "wof:id":874134733,
-    "wof:lastmodified":1512143380,
+    "wof:lastmodified":1534535370,
     "wof:name":"H & R Block Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874095855
+    ],
     "wof:tags":[
         "return",
         "filing"

@@ -7,6 +7,7 @@
     "addr:postcode":"wy 82520",
     "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.744739,42.838948,-108.744739,42.838948",
@@ -14,6 +15,7 @@
     "geom:longitude":-108.744739,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"304 W Main St",
     "sg:city":"Lander",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1464310704,
-    "wof:geomhash":"440fe79c12a2ef8c114acdd23f950753",
+    "wof:geomhash":"5691f638e182a771eeff7becb30ffd52",
     "wof:hierarchy":[],
     "wof:id":873991783,
-    "wof:lastmodified":1472655205,
+    "wof:lastmodified":1534535371,
     "wof:name":"M N Baldwin Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874032103
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"

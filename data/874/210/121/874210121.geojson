@@ -2,18 +2,24 @@
   "id": 874210121,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 W Walnut St Rawlins WY 82301",
+    "addr:city":"Rawlins",
+    "addr:full":"500 W Walnut St Rawlins, Wy 82301",
+    "addr:house_number":"500",
     "addr:housenumber":"500",
+    "addr:phone":"+1 307-324-4422",
     "addr:postcode":"82301",
+    "addr:road":"W Walnut St",
+    "addr:state":"WY",
     "addr:street":"W Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-107.24194,41.79238,-107.24194,41.79238",
-    "geom:latitude":41.79238,
-    "geom:longitude":-107.24194,
+    "geom:bbox":"-107.24308,41.79204,-107.24308,41.79204",
+    "geom:latitude":41.79204,
+    "geom:longitude":-107.24308,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"500 W Walnut St",
     "sg:city":"Rawlins",
     "sg:classifiers":[
@@ -31,19 +37,23 @@
         "historical"
     ],
     "sg:website":"www.wyomingfrontierprison.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528131
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405600007,
         "sg:id":"SG_4CgxHUQkxfDppuQqRFK12T_41.792380_-107.241940@1294254474"
     },
     "wof:country":"US",
     "wof:created":1464312950,
-    "wof:geomhash":"c877d7494f2035c2b473a0e490b32f6a",
+    "wof:geomhash":"c22b93aca88667a7fc1a16e646d18b9f",
     "wof:hierarchy":[],
     "wof:id":874210121,
-    "wof:lastmodified":1472655268,
-    "wof:name":"Wyoming Frontier Prison",
+    "wof:lastmodified":1534535373,
+    "wof:name":"Wyoming Frontier Prison Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
@@ -54,10 +64,10 @@
     ]
 },
   "bbox": [
-    -107.24194,
-    41.79238,
-    -107.24194,
-    41.79238
+    -107.24308,
+    41.79204,
+    -107.24308,
+    41.79204
 ],
-  "geometry": {"coordinates":[-107.24194,41.79238],"type":"Point"}
+  "geometry": {"coordinates":[-107.24308000000001,41.79204],"type":"Point"}
 }

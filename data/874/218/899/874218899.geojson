@@ -14,6 +14,7 @@
     "geom:longitude":-108.744874,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"259 W Main St",
     "sg:city":"Lander",
     "sg:classifiers":[
@@ -38,16 +39,18 @@
     },
     "wof:country":"US",
     "wof:created":1464313043,
-    "wof:geomhash":"eb693c5fc699d83eb30dbda074fb91ec",
+    "wof:geomhash":"96723ca15552eb9f48445e7b9bd97141",
     "wof:hierarchy":[],
     "wof:id":874218899,
-    "wof:lastmodified":1472655296,
+    "wof:lastmodified":1534535373,
     "wof:name":"Valley Printing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874210893
+    ],
     "wof:tags":[
         "printer"
     ]

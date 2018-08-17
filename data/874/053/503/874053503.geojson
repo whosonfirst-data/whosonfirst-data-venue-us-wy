@@ -14,6 +14,7 @@
     "geom:longitude":-108.732101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"148 Main St",
     "sg:city":"Lander",
     "sg:classifiers":[
@@ -38,16 +39,18 @@
     },
     "wof:country":"US",
     "wof:created":1464311274,
-    "wof:geomhash":"a2ca8315ca7e6561e552902530a1eab9",
+    "wof:geomhash":"0ef2c43b5c12eadd41c68920497e974c",
     "wof:hierarchy":[],
     "wof:id":874053503,
-    "wof:lastmodified":1472655202,
+    "wof:lastmodified":1534535372,
     "wof:name":"Cowfish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874204025
+    ],
     "wof:tags":[
         "eating"
     ]

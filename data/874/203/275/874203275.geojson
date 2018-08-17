@@ -14,6 +14,7 @@
     "geom:longitude":-108.727452,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"192 Main St",
     "sg:city":"Lander",
     "sg:classifiers":[
@@ -35,16 +36,18 @@
     },
     "wof:country":"US",
     "wof:created":1464312877,
-    "wof:geomhash":"017d7c52ed71d4d23305c09d23a1de65",
+    "wof:geomhash":"3a586180930fe4e0a3754a47ee626bd7",
     "wof:hierarchy":[],
     "wof:id":874203275,
-    "wof:lastmodified":1472655272,
+    "wof:lastmodified":1534535373,
     "wof:name":"Refill and Refresh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874102991
+    ],
     "wof:tags":[]
 },
   "bbox": [

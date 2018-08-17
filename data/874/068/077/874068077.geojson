@@ -14,6 +14,7 @@
     "geom:longitude":-105.590648,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"525 E Grand Ave",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -41,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1464311414,
-    "wof:geomhash":"c81e31e01d389597679b6679a474b67b",
+    "wof:geomhash":"44d6efe574deaf108a33225a47e1763f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,13 +54,15 @@
         }
     ],
     "wof:id":874068077,
-    "wof:lastmodified":1472655196,
+    "wof:lastmodified":1534535372,
     "wof:name":"Clerk of District Court",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874150259
+    ],
     "wof:tags":[]
 },
   "bbox": [

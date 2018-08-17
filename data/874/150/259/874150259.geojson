@@ -7,6 +7,7 @@
     "addr:postcode":"82070",
     "addr:street":"E Grand Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.590648,41.310911,-105.590648,41.310911",
@@ -14,6 +15,7 @@
     "geom:longitude":-105.590648,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"525 E Grand Ave",
     "sg:city":"Laramie",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312331,
-    "wof:geomhash":"c81e31e01d389597679b6679a474b67b",
+    "wof:geomhash":"44d6efe574deaf108a33225a47e1763f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":874150259,
-    "wof:lastmodified":1472655237,
+    "wof:lastmodified":1534535372,
     "wof:name":"Albany County Clerk Of Dst Crt",
     "wof:parent_id":85897433,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874068077
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "county"

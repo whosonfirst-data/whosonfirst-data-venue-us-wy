@@ -14,6 +14,7 @@
     "geom:longitude":-108.737221,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"637 Main St",
     "sg:city":"Lander",
     "sg:classifiers":[
@@ -35,16 +36,18 @@
     },
     "wof:country":"US",
     "wof:created":1464311322,
-    "wof:geomhash":"f87430d133a707ecc4bc9ca2253e50a3",
+    "wof:geomhash":"9f353f8a9d874df0e4e5153130aa3c0a",
     "wof:hierarchy":[],
     "wof:id":874058549,
-    "wof:lastmodified":1472655211,
+    "wof:lastmodified":1534535372,
     "wof:name":"Quilting Bee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874185935
+    ],
     "wof:tags":[]
 },
   "bbox": [
